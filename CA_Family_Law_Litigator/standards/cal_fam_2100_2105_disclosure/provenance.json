@@ -1,0 +1,30 @@
+{
+  "standard_id": "CAL_FAM_2100_2105_DISCLOSURE",
+  "provenance_version": "0.1.0",
+  "fetched_at_utc": "2026-04-16T15:45:00Z",
+  "fetch_agent": "ADAM (Seed Citizen — Builder role); completion by Claude (assistant) under steward direction after ADAM content-filter interruption",
+  "source_authority": "California Legislative Information — leginfo.legislature.ca.gov (official California statutes)",
+  "sections": [
+    {"section": "§ 2100", "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2100.&lawCode=FAM", "html_artifact": "current/cal_fam_2100_leginfo.html", "html_sha256": "112aafb6462f796e57f67ef399eb47b43106410b157928ca506cc2568ef17f64", "text_artifact": "current/cal_fam_2100_leginfo.txt", "text_sha256": "d7155b73528e937e0cd11b62e0b923798cc49d592b23246f0976288c4b0d49e4", "fetched_via": "VernenLegal MCP — california_get_section(code='FAM', section='2100')"},
+    {"section": "§ 2101", "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2101.&lawCode=FAM", "html_artifact": "current/cal_fam_2101_leginfo.html", "html_sha256": "eb717bcaa472ae19f54cc899207d4752931d5644007535e92d8b74181fb9930f", "text_artifact": "current/cal_fam_2101_leginfo.txt", "text_sha256": "b25cdded95e18ee1da72274a99bd2d6a85ca7d027c286cf24b0be623abb8bdff", "fetched_via": "VernenLegal MCP — california_get_section(code='FAM', section='2101')"},
+    {"section": "§ 2102", "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2102.&lawCode=FAM", "html_artifact": "current/cal_fam_2102_leginfo.html", "html_sha256": "56631455d5dbf2afd7706f7abc0d5c5b63c24cd20a31195e08653f3adb052cb0", "text_artifact": "current/cal_fam_2102_leginfo.txt", "text_sha256": "60e9d3bda06a71690df0ddffce4585ca781545afeffbefe5184ed4b3b833bd4d", "fetched_via": "VernenLegal MCP — california_get_section(code='FAM', section='2102')"},
+    {"section": "§ 2103", "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2103.&lawCode=FAM", "html_artifact": "current/cal_fam_2103_leginfo.html", "html_sha256": "def718c5ddf468689e31782b4560963367556fbe223d369c1d061bbbd417f6b7", "text_artifact": "current/cal_fam_2103_leginfo.txt", "text_sha256": "b2dbf6ea129ff72152bcf655847583b697cb7310fa43e6cd9a7d36511b387d87", "fetched_via": "VernenLegal MCP — california_get_section(code='FAM', section='2103')"},
+    {"section": "§ 2104", "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2104.&lawCode=FAM", "html_artifact": "current/cal_fam_2104_leginfo.html", "html_sha256": "2f15b24286075dd876b78e32e7816c6f618f2c750ca3e1162a74f9fd1db7e62b", "text_artifact": "current/cal_fam_2104_leginfo.txt", "text_sha256": "b52ff548423b396ae20d65867939b512e3a0c8ae125635327271e55bd253c132", "fetched_via": "VernenLegal MCP — california_get_section(code='FAM', section='2104')"},
+    {"section": "§ 2105", "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2105.&lawCode=FAM", "html_artifact": "current/cal_fam_2105_leginfo.html", "html_sha256": "034351e7ee9eccd8cbbdc0fdc6d2efa4a6fe64426d40572d5d25dfa9d7971c43", "text_artifact": "current/cal_fam_2105_leginfo.txt", "text_sha256": "044216fb8bdb7a3965d7018c4b14924dc2f96d9e3d3ff3b1454159163e86e9a1", "fetched_via": "VernenLegal MCP — california_get_section(code='FAM', section='2105')"}
+  ],
+  "amendment_history_documented_on_source": [
+    {"section": "§ 2100", "stats": "Stats. 2001, Ch. 703, Sec. 2", "effective": "2002-01-01"},
+    {"section": "§ 2101", "stats": "Stats. 1998, Ch. 581, Sec. 5", "effective": "1999-01-01"},
+    {"section": "§ 2102", "stats": "Stats. 2019, Ch. 115, Sec. 18 (AB 1817)", "effective": "2020-01-01"},
+    {"section": "§ 2103", "stats": "Stats. 2016, Ch. 474, Sec. 7 (AB 2882)", "effective": "2017-01-01"},
+    {"section": "§ 2104", "stats": "Stats. 2019, Ch. 115, Sec. 19 (AB 1817)", "effective": "2020-01-01"},
+    {"section": "§ 2105", "stats": "Stats. 2001, Ch. 703, Sec. 4", "effective": "2002-01-01"}
+  ],
+  "chapter_enactment": "Stats. 1993, Ch. 219, Sec. 107 — Chapter 9 added — operative January 1, 1994 as part of 1993 Family Code recodification",
+  "structural_location": {
+    "division": "DIVISION 6. NULLITY, DISSOLUTION, AND LEGAL SEPARATION [2000 - 2452]",
+    "part": "PART 1. GENERAL PROVISIONS [2000 - 2129]",
+    "chapter": "CHAPTER 9. Disclosure of Assets and Liabilities [2100 - 2113]"
+  },
+  "verification_method": "All six sections fetched live from leginfo.legislature.ca.gov via VernenLegal MCP. HTML and verbatim-text artifacts written to current/ and sha256-hashed. Verbatim text transcribed into rule.md quoted sections. Cross-references, amendment history, and structural location confirmed against leginfo section pages."
+}

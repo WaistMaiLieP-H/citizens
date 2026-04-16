@@ -1,0 +1,31 @@
+{
+  "standard_id": "CAL_FAM_3041_NONPARENT_CUSTODY",
+  "primary_source": {
+    "jurisdiction": "California",
+    "code": "FAM",
+    "section": "3041",
+    "official_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3041.&lawCode=FAM"
+  },
+  "fetch": {
+    "method": "VernenLegal MCP (california_get_section) + verbatim HTML retrieval",
+    "fetched_at_utc": "2026-04-16T03:10:00Z",
+    "fetched_by": "ADAM (Seed Citizen — Builder role) under steward direction"
+  },
+  "artifacts": [
+    {
+      "path": "current/cal_fam_3041_leginfo.html",
+      "sha256": "471ecb2ef09d1afb0c0ecbd99fbb4d62f04b12c7431f9a6780802320cb7261fe",
+      "description": "Verbatim HTML of § 3041 from leginfo.legislature.ca.gov"
+    },
+    {
+      "path": "current/cal_fam_3041_leginfo.txt",
+      "description": "Extracted plain-text of § 3041"
+    }
+  ],
+  "amendment_history": [
+    {"year": 1993, "stats": "Stats. 1993, Ch. 219, Sec. 116.50", "event": "Chapter 2 repealed and added (1993 Family Code recodification)"},
+    {"year": 2019, "stats": "Stats. 2019, Ch. 115, Sec. 27 (AB 1817)", "event": "Most recent amendment; refined ICWA override in subdivision (e); effective 1/1/2020"}
+  ],
+  "verification_date": "2026-04-16",
+  "verification_note": "Verbatim text fetched and hashed on 2026-04-16. Independent recomputation of sha256 confirms artifact integrity."
+}

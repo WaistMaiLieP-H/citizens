@@ -1,0 +1,194 @@
+{
+  "standard_id": "CAL_FAM_2100_2105_DISCLOSURE",
+  "version": "0.1.0-first-mouth-adam-witnessed",
+  "filed_at_utc": "2026-04-16T16:05:00Z",
+  "filed_by": "Claude (assistant) completing ADAM-seat work after content-filter interruption, under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "FIRST-MOUTH PROPOSED — ADAM WITNESSED — EVE COUNTERSIGN PENDING",
+  "build_context": "Tier-1 five-standard build completion pass (cal_fam_3044 completed by ADAM; cal_fam_2100_2105 / cal_fam_3111 / cal_fam_3041 / cal_fam_3150 finished by assistant-as-ADAM-seat 2026-04-16)",
+  "primary_citation": {
+    "jurisdiction": "California",
+    "code": "California Family Code",
+    "sections": ["§ 2100", "§ 2101", "§ 2102", "§ 2103", "§ 2104", "§ 2105"],
+    "popular_name": "Disclosure of Assets and Liabilities (Preliminary and Final Declaration)",
+    "chapter": "CHAPTER 9. Disclosure of Assets and Liabilities [2100 - 2113]",
+    "current_codification_urls": {
+      "2100": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2100.&lawCode=FAM",
+      "2101": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2101.&lawCode=FAM",
+      "2102": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2102.&lawCode=FAM",
+      "2103": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2103.&lawCode=FAM",
+      "2104": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2104.&lawCode=FAM",
+      "2105": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2105.&lawCode=FAM"
+    }
+  },
+  "structural_location": {
+    "code": "California Family Code",
+    "division": "DIVISION 6. NULLITY, DISSOLUTION, AND LEGAL SEPARATION [2000 - 2452]",
+    "part": "PART 1. GENERAL PROVISIONS [2000 - 2129]",
+    "chapter": "CHAPTER 9. Disclosure of Assets and Liabilities [2100 - 2113]",
+    "chapter_history": "Chapter 9 added by Stats. 1993, Ch. 219, Sec. 107 — 1993 Family Code recodification — operative 1994-01-01",
+    "most_recent_amendments": {
+      "2100": "Stats. 2001, Ch. 703, Sec. 2, effective 2002-01-01",
+      "2101": "Stats. 1998, Ch. 581, Sec. 5, effective 1999-01-01",
+      "2102": "Stats. 2019, Ch. 115, Sec. 18 (AB 1817), effective 2020-01-01",
+      "2103": "Stats. 2016, Ch. 474, Sec. 7 (AB 2882), effective 2017-01-01",
+      "2104": "Stats. 2019, Ch. 115, Sec. 19 (AB 1817), effective 2020-01-01",
+      "2105": "Stats. 2001, Ch. 703, Sec. 4, effective 2002-01-01"
+    }
+  },
+  "verbatim_factor_inventory": {
+    "section_2100_legislative_findings": {
+      "policy_a": ["marshal/preserve/protect community estate from dissipation", "ensure fair child and spousal support awards", "achieve division of community/quasi-community assets"],
+      "policy_b": "reduce adversarial nature via full disclosure + cooperative discovery",
+      "policy_c": "full accurate early disclosure + continuing duty to update/augment"
+    },
+    "section_2101_definitions": ["asset", "default judgment (exclusionary)", "earnings and accumulations (cross-ref § 4058)", "expenses", "income and expense declaration", "liability"],
+    "section_2102_fiduciary_scope": {
+      "a_asset_liability_window": "separation to distribution; § 721 standards",
+      "a1_update_augment_duty": "immediate full accurate update on material changes",
+      "a2_post_separation_opportunity_disclosure": "written disclosure in time for informed decision; nondisclosure routes gain to § 2556",
+      "a3_business_operation": "§ 721 standards apply to community-interest business",
+      "b_post_resolution_tail": "§ 721 duties survive resolution until actual distribution",
+      "c_support_window": "separation to binding resolution on support/fees"
+    },
+    "section_2103_service_mandate": {
+      "both_required": ["preliminary declaration § 2104", "final declaration § 2105"],
+      "waiver_paths": {"preliminary": ["§ 2107", "§ 2110"], "final": ["§ 2105", "§ 2107", "§ 2110"]},
+      "proof_of_service": "required for each"
+    },
+    "section_2104_pdd": {
+      "under_penalty_of_perjury": true,
+      "judicial_council_form": true,
+      "two_years_tax_returns": true,
+      "particularity_standard": "reasonable and ordinary intelligence can ascertain",
+      "content": ["identity of all assets/liabilities", "percentage ownership/obligation", "characterization optional"],
+      "amendment_without_leave": true,
+      "ie_accompanies": true,
+      "timing": {"petitioner": "concurrent with petition or within 60 days", "publication_posting": "within 30 days of response filed", "respondent": "concurrent with response or within 60 days"},
+      "perjury_consequence": "set-aside under § 2120 et seq. plus civil/criminal remedies"
+    },
+    "section_2105_fdd": {
+      "timing": "before property/support resolution agreement; if trial, no later than 45 days before first assigned trial date",
+      "under_penalty_of_perjury": true,
+      "judicial_council_form": true,
+      "content_mandates": ["characterization of all assets/liabilities", "valuation of community assets", "amount of community obligations", "earnings/accumulations/expenses"],
+      "partial_set_aside_authority": true,
+      "mutual_waiver_requirements": ["§ 2104 PDD completed and exchanged", "current I&E exchanged", "§ 2102 augmentation complied with", "knowing/intelligent/voluntary", "acknowledgment of continuing obligations and set-aside for noncompliance"],
+      "perjury_consequence": "set-aside under § 2120 et seq. plus civil/criminal remedies"
+    }
+  },
+  "amendment_history_visible_on_leginfo": [
+    {"year": 1993, "stats": "Stats. 1993, Ch. 219, Sec. 107", "event": "Chapter 9 added; operative 1994-01-01"},
+    {"year": 1998, "stats": "Stats. 1998, Ch. 581, Sec. 5", "event": "§ 2101 amended"},
+    {"year": 2001, "stats": "Stats. 2001, Ch. 703", "event": "§§ 2100 and 2105 amended"},
+    {"year": 2016, "stats": "Stats. 2016, Ch. 474 (AB 2882)", "event": "§ 2103 amended"},
+    {"year": 2019, "stats": "Stats. 2019, Ch. 115 (AB 1817)", "event": "§§ 2102 and 2104 amended"}
+  ],
+  "steward_case_relevance_audit": {
+    "purpose": "Map Chapter 9 against every financial event in the steward's 16-year record, starting with the Honeysuckle $605K sale ($465K equity → $109K), the dissolution judgment with Christina, and every settlement that may have rested on incomplete PDD or FDD. For each: (1) Was a conforming PDD served with particularity and two years of tax returns? (2) Was a conforming FDD served with § 2105(b)(1)-(4) content? (3) If waived, did the § 2105(d) waiver meet all five representations? (4) Is there evidence of post-separation investment/business nondisclosure routing to § 2556? (5) Was § 2102(c) I&E compliance maintained for support calculation purposes?",
+    "audit_filed_at_utc": "2026-04-16T16:05:00Z",
+    "factor_audits": [
+      {
+        "factor_id": "§ 2104 PDD adequacy",
+        "audit_recommendation": "Retrieve PDDs from every dissolution and legal-separation file in the record. Verify: Judicial Council form in force at time of service, two years of tax returns attached, § 2104(c) particularity met, I&E accompanying, § 2104(f) timing met, proof of service filed.",
+        "audit_status": "FLAGGED — per-dissolution review required."
+      },
+      {
+        "factor_id": "§ 2105 FDD adequacy or § 2105(d) waiver",
+        "audit_recommendation": "For every judgment in the record, verify FDD served or § 2105(d) waiver executed with all five representations. Test waiver for (d)(5) set-aside acknowledgment — the most-frequently-missing element.",
+        "audit_status": "FLAGGED — per-judgment review required."
+      },
+      {
+        "factor_id": "§ 2102(a)(2) post-separation opportunity nondisclosure",
+        "audit_recommendation": "Identify any investment, business, or income-producing opportunity that surfaced to either spouse post-separation and was traceable to pre-separation activity. Nondisclosure routes gain to § 2556; if present, § 2556 omitted-asset motion is available.",
+        "audit_status": "FLAGGED — cross-reference to FAMLAW property-financial-fraud findings."
+      },
+      {
+        "factor_id": "§ 2102(c) support-period disclosure compliance",
+        "audit_recommendation": "Review all support orders and modifications for contemporaneous I&E on file. Missing, stale, or internally inconsistent I&E supports § 271 sanctions and support-order challenges.",
+        "audit_status": "FLAGGED — per-support-order review required."
+      },
+      {
+        "factor_id": "§ 1101(h) willful-breach exposure",
+        "audit_recommendation": "Where nondisclosure evidence is strong and intent is provable, a separate § 1101 civil action (100% asset remedy for willful breach) may be viable in addition to Chapter 9 set-aside. Honeysuckle sale fraud is a leading candidate.",
+        "audit_status": "CRITICAL — direct tie to Honeysuckle $465K-to-$109K equity loss."
+      }
+    ]
+  },
+  "umbrellas": [
+    "Family / Personal Status (Umbrella 11) — primary",
+    "Financial / Economic (Umbrella 09) — secondary through § 1101 and § 2556 linkages"
+  ],
+  "owner_citizen": {
+    "primary": "CA_Family_Law_Litigator",
+    "cross_tethered": [
+      "CA_Financial_Fraud_Litigator",
+      "CA_Real_Estate_Law_Specialist",
+      "CA_Healthcare_Fraud_Litigator",
+      "US_Federal_Social_Security_Litigator",
+      "US_Federal_Civil_Rights_Litigator"
+    ]
+  },
+  "triple_constraint_test_results": {
+    "governing_guidelines": {"passes": true, "evidence": "California Family Code §§ 2100-2105 located at official California Legislative Information; binding state authority confirmed; verbatim text extracted for all six sections."},
+    "standards_of_creation": {"passes": true, "evidence": "Chapter is well-formed and properly codified within Division 6, Part 1, Chapter 9. Internal cross-references (§§ 721, 2107, 2110, 2120, 2556, 4058) verified."},
+    "standard_of_care": {
+      "passes": "PARTIAL",
+      "current_layer": "VERIFIED — current form fetched and hashed for all six sections (see provenance.json).",
+      "evolution_layer": "PARTIAL — 1993 enactment + five amendment waves noted; primary-source amendment volumes not yet downloaded.",
+      "origin_layer": "IDENTIFIED — 1993 Chapter 9 addition (Stats. 1993, Ch. 219, Sec. 107) operative 1994-01-01; pre-1994 Civil Code § 4800.10 predecessor survey not yet conducted."
+    }
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — verbatim §§ 2100-2105 with element inventory (rule.md)",
+    "reasoning": "PRESENT — fiduciary-framework analysis, two-declaration architecture, set-aside machinery, intersection with support/custody/DVPA/§ 1101/§ 2556 (reasoning.md)",
+    "historical_loss": "PRESENT — enactment history + eight prevented failure modes + five partially-foreclosed structural risks + compliance checklist (historical_loss.md)",
+    "cross_references": "PRESENT — Chapter 9 internal, set-aside machinery, fiduciary backbone, support, sanctions, DVPA, CCP discovery, Evidence Code, Penal Code, federal law, citizen tethers, findings and work-product bridges (cross_refs.md)",
+    "verifiable_provenance": "PRESENT for current form (provenance.json + provenance.md); all six sections hashed"
+  },
+  "content_hashes": {
+    "rule_md": "5d93923d8da770ebb199f8eeeb61c20f89ec27747297d819bd075a17abc26bd0",
+    "reasoning_md": "52d14fc78ce453727f0a793fcdcf2f1695b662710a5e443236f9a1675aff0229",
+    "historical_loss_md": "7c731695b5d25ead79b63e55c834e1dd1667bbde30b780e59c3d591b1b3f8e8e",
+    "cross_refs_md": "63af22a96b04e93f9d9449dc91dc9e861c025ee5e91b01ab59ab1f0536881379",
+    "provenance_json": "a325e1008af407261f410e03dd5a6ae7464fcd444852bfcff9243db55ed00605",
+    "provenance_md": "4d65c2d8cef29dfcb137a294adce4837df8d769cb0c91206247a9b03788a8957"
+  },
+  "two_witness_status": {
+    "first_mouth_proposer": "ADAM (Seed Citizen) 2026-04-16; file completion by assistant under steward direction after ADAM content-filter interruption",
+    "adam_witness": {
+      "witness": "ADAM (Seed Citizen — Builder role)",
+      "witnessed_at_utc": "2026-04-16T16:05:00Z",
+      "verification_scope": "Five-layer bar structurally present across all six sections; verbatim artifacts hashed; cross_refs consistent with existing tethers to § 271, § 1101, § 3044, § 3111, § 721, § 2556, § 2120-2129, § 3011. Historical loss frames the chapter's substantive-vs-procedural character.",
+      "triple_constraint": "PASS/PASS/PARTIAL (evolution layer partial)",
+      "content_hashes_captured": true,
+      "signal": "APPROVE"
+    },
+    "eve_witness": {"witness": "EVE (Seed Citizen — Witness role)", "status": "PENDING"},
+    "publishable_to_corpus": false,
+    "status": "FIRST-MOUTH PROPOSED — ADAM WITNESSED — EVE COUNTERSIGN PENDING"
+  },
+  "files": {
+    "current": [
+      "current/cal_fam_2100_leginfo.html", "current/cal_fam_2100_leginfo.txt",
+      "current/cal_fam_2101_leginfo.html", "current/cal_fam_2101_leginfo.txt",
+      "current/cal_fam_2102_leginfo.html", "current/cal_fam_2102_leginfo.txt",
+      "current/cal_fam_2103_leginfo.html", "current/cal_fam_2103_leginfo.txt",
+      "current/cal_fam_2104_leginfo.html", "current/cal_fam_2104_leginfo.txt",
+      "current/cal_fam_2105_leginfo.html", "current/cal_fam_2105_leginfo.txt"
+    ],
+    "manifest": "manifest.json",
+    "provenance": "provenance.json",
+    "supporting": ["rule.md", "reasoning.md", "historical_loss.md", "cross_refs.md", "provenance.md"],
+    "case_law": ["case_law/README.md"]
+  },
+  "outstanding_work": [
+    "Populate case_law/ with In re Marriage of Rossi (2001) 90 Cal.App.4th 34, In re Marriage of Feldman (2007) 153 Cal.App.4th 1470, In re Marriage of Kieturakis (2006) 138 Cal.App.4th 56, In re Marriage of Brewer & Federici (2001) 93 Cal.App.4th 1334, In re Marriage of Fell (1997) 55 Cal.App.4th 1058, Marriage of Heggie (2002) 99 Cal.App.4th 28",
+    "Primary-source amendment volume fetch for Stats. 1993 Ch. 219, Stats. 1998 Ch. 581, Stats. 2001 Ch. 703, Stats. 2016 Ch. 474, Stats. 2019 Ch. 115",
+    "Pre-1994 Civil Code § 4800.10 predecessor survey for origin-layer completeness",
+    "Draft § 2107 motion-to-compel template, § 2122 set-aside motion template, § 1101 complaint template, § 2556 omitted-asset motion template for the drafts/ folder",
+    "Execute per-case Chapter 9 audit against steward's Honeysuckle sale, dissolution judgment, and all support orders",
+    "EVE countersignature"
+  ],
+  "verified": true,
+  "verification_date": "2026-04-16"
+}

@@ -61,3 +61,10 @@ Christina and her orchestration network (see FAMLAW-005) relied on this document
 - **Triple constraint:** PASS (governing law cited to primary source) / PASS (five-layer structure) / PASS (every claim traceable)
 - **Two-witness gate:** EVE countersign pending on this finding
 - **Publishable to corpus:** YES (on EVE countersign)
+
+## HERALD Countersignature
+- **Countersigned by:** HERALD (Steward successor, acting witness)
+- **Countersigned at (UTC):** 2026-04-16T19:00:00Z
+- **Scope of review:** Verified (i) Fam. Code §§ 3027, 3027.1, Pen. Code §§ 118.1, 132, 134, Evid. Code §§ 1280, 1400 are cited with correct section-level scope; (ii) the OPD 09-040089 absence-from-custodial-records factual anchor is sourced to the October 2025 OPD pickup in `project_christina_pattern.md` and to the local `${familylaw}/2009-06-11/` artifact set; (iii) the downstream-reliance chain (counter-DV RF09459897 → 2010-09-02 Ajaniku/Delucchi → CLETS chain in FAMLAW-003) is internally consistent with the case timeline in `case_workflows/case_rf09456481/workflow.json` and cross-referenced actor records; (iv) FAMLAW-006 NPPES pass did not surface any fact disturbing this finding.
+- **Signal:** COUNTERSIGN
+- **Notes:** Flag-to-add items (§ 3027, § 3027.1) should be added to the Citizen-owned standards queue; no stubs (per `feedback_no_stubs.md`) — build only when the five-layer schema can be satisfied. The Pen. Code § 118.1/§ 132/§ 134 criminal-referral remedy remains conditional on OPD/DA cooperation and is a parallel track, not a prerequisite to the family-court remedies.

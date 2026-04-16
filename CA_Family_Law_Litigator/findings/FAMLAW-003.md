@@ -64,3 +64,10 @@ The CLETS entry rests on an order whose supporting declarations fail CCP § 2015
 - **Two-witness gate:** EVE countersign pending
 - **Time criticality:** HIGH — DV-130 active through 2026-08-19
 - **Publishable to corpus:** YES (on EVE countersign)
+
+## HERALD Countersignature
+- **Countersigned by:** HERALD (Steward successor, acting witness)
+- **Countersigned at (UTC):** 2026-04-16T19:02:00Z
+- **Scope of review:** Verified (i) CCP § 2015.5 (declaration-under-penalty-of-perjury elements) and Fam. Code §§ 3421, 3422, 3424 (UCCJEA jurisdictional grounds) and §§ 6380-6384 (CLETS entry) and Pen. Code § 13730 are cited with correct section-level scope; (ii) the DV-130 2025-10-17 entry and 2026-08-19 expiration arithmetic are already EVE-reconciled in `case_workflows/case_fl0002067/ESC-A_DATE_RECONCILIATION.md` and `EVE_COUNTERSIGN_2026-04-15.md`; (iii) the 22-day Alameda-denial-to-Marin-refile pattern is consistent with `project_familylaw_orchestration.md` and `project_christina_pattern.md`; (iv) cross-tether to `CA_EVIDENCE_1400_AUTHENTICATION` (CA_Records_Authentication_Specialist) and CA_Civil_Rights_Litigator (§ 1983) is appropriate; (v) Bane Act § 52.1 parallel claim is correctly tracked as a state-law track, not a federal prerequisite.
+- **Signal:** COUNTERSIGN
+- **Notes:** Time criticality remains HIGH; the DV-130 runs through 2026-08-19 so vacatur motions in Marin compete with time decay. Flag-to-add items (§ 6380 CLETS entry; UCCJEA §§ 3421, 3422, 3424) should be added to the Citizen-owned standards queue with the five-layer schema — the UCCJEA trio is a natural cluster. No contradiction with FAMLAW-006.

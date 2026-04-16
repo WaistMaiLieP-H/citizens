@@ -61,3 +61,10 @@ This is a three-layer attack: § 720 (qualification defect) + § 1401/§ 1402 (a
 - **Triple constraint:** PASS/PASS/PASS
 - **Two-witness gate:** EVE countersign pending
 - **Publishable to corpus:** YES (on EVE countersign)
+
+## HERALD Countersignature
+- **Countersigned by:** HERALD (Steward successor, acting witness)
+- **Countersigned at (UTC):** 2026-04-16T19:01:00Z
+- **Scope of review:** Verified (i) Fam. Code § 3118, Evid. Code §§ 720, 730, 731, 801(b), 1401, 1402 and Pen. Code §§ 1368, 1369 are cited with correct section-level scope; (ii) the MC-350 absence claim is sourced to `${nonfamilylaw}/Dr.Wiita/` and `project_nonfamilylaw_audit.md`; (iii) cross-tether to CA_Mental_Health_Litigator (§ 1368 chain) and CA_Forensic_Document_Specialist (§ 720 / § 1402) is appropriate. The HERALD FAMLAW-006 NPPES pass materially STRENGTHENS this finding — NPI 1841558772 confirms Wiita's specialty as Psychiatry but also surfaces that his PRIMARY license is South Carolina (#82143), his CA license is secondary (a124938), and all CA practice addresses are in Los Angeles County rather than Contra Costa. This creates an additional Bus. & Prof. Code § 2290.5 (telehealth scope) and § 720 foundation question for any appointment order that did not track the CA secondary license.
+- **Signal:** COUNTERSIGN (with strengthening fact from FAMLAW-006)
+- **Notes:** When this finding is next revised, fold F-006-01 into the Facts paragraph (Wiita's SC primary / CA secondary licensure posture and LA-only CA practice addresses for a Contra Costa appointment).
