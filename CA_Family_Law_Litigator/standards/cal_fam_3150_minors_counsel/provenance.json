@@ -1,0 +1,58 @@
+{
+  "standard_id": "CAL_FAM_3150_MINORS_COUNSEL",
+  "provenance_version": "0.1.0",
+  "fetched_at_utc": "2026-04-16T15:45:00Z",
+  "fetch_agent": "ADAM (Seed Citizen — Builder role); completion by Claude (assistant) under steward direction after ADAM content-filter interruption",
+  "source_authority": "California Legislative Information — leginfo.legislature.ca.gov (official California statutes)",
+  "sections": [
+    {
+      "section": "§ 3150",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3150.&lawCode=FAM",
+      "html_artifact": "current/cal_fam_3150_leginfo.html",
+      "html_sha256": "ad4e9b65908c6db012b7abce058e6c56d2266b2c21836fb44a45e0c522131b42",
+      "text_artifact": "current/cal_fam_3150_leginfo.txt",
+      "text_sha256": "53b86cfa3a2d1c2238dc2f895edda4a05956d79e47a1b0e4b1a5f03d2d78436f",
+      "fetched_via": "VernenLegal MCP — california_get_section(code='FAM', section='3150')"
+    },
+    {
+      "section": "§ 3151",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3151.&lawCode=FAM",
+      "html_artifact": "current/cal_fam_3151_leginfo.html",
+      "html_sha256": "d31c622ce2966bca7156965580a3a4839e7f00e4e920bfcd4720379d395b5c7d",
+      "text_artifact": "current/cal_fam_3151_leginfo.txt",
+      "text_sha256": "3350cbcf15ef8a3e31841b386d2f1d52daaa297e823ff3af2cfade1fa6e27c93",
+      "fetched_via": "VernenLegal MCP — california_get_section(code='FAM', section='3151')"
+    },
+    {
+      "section": "§ 3152",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3152.&lawCode=FAM",
+      "html_artifact": "current/cal_fam_3152_leginfo.html",
+      "html_sha256": "f9ea79f0c916a1b8dd8302d32b885bcfa889cec0ebe73cd530aff2f325f76170",
+      "text_artifact": "current/cal_fam_3152_leginfo.txt",
+      "text_sha256": "a2afba02bd03867092fdcceafa9aab9a760682f57c70700c5de5cfa8a51a4000",
+      "fetched_via": "VernenLegal MCP — california_get_section(code='FAM', section='3152')"
+    },
+    {
+      "section": "§ 3153",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3153.&lawCode=FAM",
+      "html_artifact": "current/cal_fam_3153_leginfo.html",
+      "html_sha256": "a6ace020be8a57b1de31c327b70151522a91198a2c5d01ae2e2a596ff79e217d",
+      "text_artifact": "current/cal_fam_3153_leginfo.txt",
+      "text_sha256": "45a5ef927d82f1fa90a0d66c364217d64953cc5320ef7e5a27a05065839daf69",
+      "fetched_via": "VernenLegal MCP — california_get_section(code='FAM', section='3153')"
+    }
+  ],
+  "amendment_history_documented_on_source": [
+    {"section": "§ 3150", "stats": "Stats. 2010, Ch. 352, Sec. 14 (AB 939)", "effective": "2011-01-01"},
+    {"section": "§ 3151", "stats": "Stats. 2010, Ch. 352, Sec. 15 (AB 939)", "effective": "2011-01-01"},
+    {"section": "§ 3152", "stats": "Stats. 1992, Ch. 162, Sec. 10", "effective": "1994-01-01"},
+    {"section": "§ 3153", "stats": "Stats. 1992, Ch. 162, Sec. 10", "effective": "1994-01-01"}
+  ],
+  "chapter_enactment": "Stats. 1992, Ch. 162, Sec. 10 — 1993 Family Code recodification — operative January 1, 1994",
+  "structural_location": {
+    "division": "DIVISION 8. CUSTODY OF CHILDREN [3000 - 3465]",
+    "part": "PART 2. RIGHT TO CUSTODY OF MINOR CHILD [3020 - 3204]",
+    "chapter": "CHAPTER 10. Appointment of Counsel to Represent Child [3150 - 3153]"
+  },
+  "verification_method": "All four sections fetched live from leginfo.legislature.ca.gov via VernenLegal MCP. HTML and verbatim-text artifacts written to current/ and sha256-hashed. Verbatim text transcribed into rule.md quoted sections. Cross-references, amendment history, and structural location confirmed against the leginfo section pages."
+}

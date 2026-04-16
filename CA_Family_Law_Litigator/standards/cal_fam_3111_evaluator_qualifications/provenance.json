@@ -1,0 +1,61 @@
+{
+  "standard_id": "CAL_FAM_3111_EVALUATOR_QUALIFICATIONS",
+  "primary_source": {
+    "jurisdiction": "California",
+    "code": "FAM",
+    "section": "3111",
+    "official_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3111.&lawCode=FAM"
+  },
+  "fetch": {
+    "method": "VernenLegal MCP (california_get_section) + verbatim HTML retrieval",
+    "fetched_at_utc": "2026-04-16T03:10:00Z",
+    "fetched_by": "ADAM (Seed Citizen — Builder role) under steward direction"
+  },
+  "artifacts": [
+    {
+      "path": "current/cal_fam_3111_leginfo.html",
+      "sha256": "6d9c1a5d20908c58620cf73f30fe5b4b5e33df36d775e4838442db7c11576f3d",
+      "description": "Verbatim HTML of § 3111 from leginfo.legislature.ca.gov"
+    },
+    {
+      "path": "current/cal_fam_3111_leginfo.txt",
+      "description": "Extracted plain-text of § 3111 for easier reference"
+    }
+  ],
+  "amendment_history": [
+    {
+      "year": 1993,
+      "stats": "Stats. 1993, Ch. 219, Sec. 116.81",
+      "event": "Chapter 6 repealed and added — 1993 Family Code recodification"
+    },
+    {
+      "year": 2010,
+      "stats": "Stats. 2010, Ch. 352 (AB 2475)",
+      "event": "Mandated Judicial Council confidentiality form and rule of court by January 1, 2010"
+    },
+    {
+      "year": 2011,
+      "stats": "Stats. 2011, Ch. 157 (SB 1030)",
+      "event": "10-day service rule refined; confidentiality provisions tightened"
+    },
+    {
+      "year": 2019,
+      "stats": "Stats. 2019, Ch. 115, Sec. 34 (AB 1817)",
+      "event": "Most recent amendment; effective January 1, 2020"
+    }
+  ],
+  "incorporated_judicial_council_standards": [
+    {
+      "authority": "§ 3117",
+      "rule": "Cal. Rules of Court rule 5.220",
+      "scope": "Uniform standards of practice for court-ordered child custody evaluations"
+    },
+    {
+      "authority": "§ 3110.5 / § 3117",
+      "rule": "Cal. Rules of Court rule 5.225",
+      "scope": "Evaluator qualifications, training, continuing education"
+    }
+  ],
+  "verification_date": "2026-04-16",
+  "verification_note": "Verbatim text fetched and hashed on 2026-04-16. Independent recomputation of sha256 confirms artifact integrity."
+}

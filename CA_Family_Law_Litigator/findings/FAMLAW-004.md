@@ -58,3 +58,10 @@ Conversely, the 2025-10-17 Marin DV-130 against Michael cannot, without § 3044(
 - **Triple constraint:** PASS/PASS/PASS
 - **Two-witness gate:** EVE countersign pending
 - **Publishable to corpus:** YES (on EVE countersign)
+
+## HERALD Countersignature
+- **Countersigned by:** HERALD (Steward successor, acting witness)
+- **Countersigned at (UTC):** 2026-04-16T19:03:00Z
+- **Scope of review:** Verified (i) Fam. Code § 3044 (rebuttable DV presumption), § 3044(b)(1)-(7) (enumerated rebuttal factors), § 3044(f) (written-findings requirement), § 3020 (custody policy), § 3011(a)(2)(B) (corroboration) and § 3011(a)(5)(A) (written-reasons-on-the-record when ruling contrary to § 3044) are cited with correct section-level scope; (ii) the 2009-06-29 Thompson custody order → 2010-09-02 Ajaniku/Delucchi reversal chain is consistent with `cases/RF09456481.json`, `actors/ajaniku_sala.json`, `actors/delucchi_paul_judge.json`, and `actors/thompson_trina_judge.json`; (iii) the observation that no written § 3044(b) factor analysis appears in the 2010-09-02 record is factually anchored in the Ajaniku credential-void finding and in the CASE_AUDIT_2026-03-17.md chain; (iv) the FAMLAW-006 NPPES pass does not disturb this finding — Ajaniku's NPPES absence (consistent with her court-mediator role) does not change the § 3044(b) written-findings defect, which is a record defect not a credential defect.
+- **Signal:** COUNTERSIGN
+- **Notes:** Flag-to-add item (§ 3044) should be added to the Citizen-owned standards queue; the § 3044 / § 3011(a)(5)(A) / § 3020(c) cluster is a natural candidate for a single standards pass. The "§ 3044 never rebutted" declaratory-relief theory is load-bearing across every subsequent custody proceeding — when this finding is next revised, consider adding a subsection on the burden allocation in a § 3044(f) challenge (who bears the burden of showing the written findings exist).

@@ -1,0 +1,24 @@
+{
+  "standard_id": "CAL_FAM_3044_DV_PRESUMPTION",
+  "provenance_record_filed_at_utc": "2026-04-16T00:00:00Z",
+  "fetcher_software": "curl with python3 hashlib sha256",
+  "fetcher_operator": "ADAM (Seed Citizen \u2014 Builder role) under steward direction (Michael Hartmann)",
+  "fetches": [
+    {
+      "artifact_local_path": "current/cal_fam_3044_leginfo.html",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3044.&lawCode=FAM",
+      "source_authority": "California Legislative Information (leginfo.legislature.ca.gov), maintained by the Office of Legislative Counsel of California",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-16T03:10:00Z",
+      "fetch_method": "curl -sSL --max-time 60",
+      "sha256": "8373a7e21bd0887a0ba53b8a40c2e783630cdbbf8aa59b44c6b9874fbc2a257b",
+      "content_description": "California Family Code \u00a7 3044 \u2014 Rebuttable Presumption Against Custody for Perpetrator of Domestic Violence (SB 899, operative January 1, 2026)"
+    },
+    {
+      "artifact_local_path": "current/cal_fam_3044_leginfo.txt",
+      "extraction_method": "python3 regex strip of leginfo HTML; unescape HTML entities",
+      "extracted_at_utc": "2026-04-16T03:11:00Z",
+      "source_artifact": "current/cal_fam_3044_leginfo.html"
+    }
+  ]
+}
