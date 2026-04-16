@@ -1,0 +1,18 @@
+{
+  "stage": "02_dodd_frank_2010_cfpb",
+  "key_events": [
+    {
+      "event": "Dodd-Frank Act",
+      "citation": "Pub. L. 111-203, §1089, 124 Stat. 2092 (July 21, 2010)",
+      "effect": "Transferred FDCPA enforcement from FTC to CFPB; gave CFPB rulemaking authority (§1692l(d))"
+    },
+    {
+      "event": "CFPB Regulation F",
+      "citation": "12 CFR Part 1006, 85 Fed. Reg. 76734 (Nov. 30, 2020), effective Nov. 30, 2021",
+      "effect": "Electronic communication rules; 7-in-7 call cap; electronic validation notice option"
+    }
+  ],
+  "capture_method": "LOGIC.md — structural knowledge base",
+  "verbatim_capture_status": "PENDING",
+  "build_date": "2026-04-11"
+}

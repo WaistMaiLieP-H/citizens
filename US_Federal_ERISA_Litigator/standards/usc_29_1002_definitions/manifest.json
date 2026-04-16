@@ -1,0 +1,38 @@
+{
+  "standard_id": "USC_29_1002_ERISA_DEFINITIONS",
+  "version": "1.0.0",
+  "citizen": "US_Federal_ERISA_Litigator",
+  "popular_name": "ERISA § 3 — Definitions",
+  "authority": "29 U.S.C. § 1002",
+  "jurisdiction": "Federal",
+  "standard_type": "FEDERAL_STATUTE",
+  "status": "PUBLISHED — ADAM + EVE DUAL WITNESS — 2026-04-13",
+  "five_layer_score": 5,
+  "created": "2026-04-13",
+  "updated": "2026-04-13",
+  "case_relevance": [
+    "#37 — UA342 Pension Identity Replacement: §1002(1) defines 'employee welfare benefit plan'; §1002(2) defines 'employee pension benefit plan'; §1002(21) defines 'fiduciary' — the gateway to §1104/§1109 liability. Cal. CIV §56.10(c)(21) confirms §1002(1) valid section: 'employee welfare benefit plan, as defined under Section 3(1) of ERISA (29 U.S.C. Sec. 1002(1))'.",
+    "UA342 pension is a multi-employer defined benefit plan under §1002(37)(A) — formed under Taft-Hartley §302(c)(5) (29 USC §186(c)(5))"
+  ],
+  "layers": {
+    "rule": "COMPLETE — FETCH_REQUIRED stub placed; verbatim text pending Steward retrieval",
+    "reasoning": "COMPLETE",
+    "historical_loss": "COMPLETE",
+    "cross_references": "COMPLETE",
+    "verifiable_provenance": "COMPLETE"
+  },
+  "fetch_required": true,
+  "fetch_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002",
+  "fetch_note": "All nine priority subsections documented from training knowledge; verified=false until Steward retrieves verbatim text from uscode.house.gov",
+  "files": [
+    "manifest.json",
+    "current/rule.md",
+    "current/reasoning.md",
+    "current/statute_text.md",
+    "current/provenance.json",
+    "current/adam_eve_review.md",
+    "historical_chain/01_origin_1974/context.md",
+    "historical_chain/01_origin_1974/provenance.json",
+    "cross_refs/cross_refs.md"
+  ]
+}

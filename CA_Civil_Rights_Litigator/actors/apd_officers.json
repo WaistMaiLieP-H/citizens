@@ -1,0 +1,20 @@
+{
+  "actor_id": "apd_officers",
+  "shared_record": "${citizens}/_shared_actors/apd_officers.json",
+  "domain": "CA_Civil_Rights_Litigator",
+  "role": "Bane Act (Civ. Code §52.1) defendants — law enforcement officers whose conduct constituted threats/intimidation/coercion interfering with constitutional rights; Cal. Const. Art. I §13 unreasonable search/seizure",
+  "risk_level": "HIGH",
+  "applicable_standards": ["CAL_CIV_CODE_52_1", "CAL_CONST_ART_I_SEC_13"],
+  "theory_of_liability": "Officers removed Cole from steward's home on June 16, 2023 without verifying custody order. Under the Bane Act, law enforcement conduct that interferes with constitutional rights through threats, intimidation, or coercion is actionable. The Bane Act provides treble damages (Civ. Code §52(a)) and attorney fees. Cal. Const. Art. I §13 independently protects against unreasonable seizure — removing a child from a custodial parent's home without warrant or verified exigent circumstances is an unreasonable seizure of both parent and child.",
+  "bane_act_elements": {
+    "protected_rights": [
+      "Cal. Const. Art. I §1 — liberty interest in parental custody",
+      "Cal. Const. Art. I §7 — due process",
+      "Cal. Const. Art. I §13 — freedom from unreasonable search/seizure"
+    ],
+    "threats_intimidation_coercion": "Armed officers arriving at home based on unverified 911 call, removing child without custody verification, inherent coercion of law enforcement authority"
+  },
+  "individual_names": "TBD — to be identified from APD incident reports via PRA request",
+  "entity_defendant": "City of Antioch",
+  "filed_at_utc": "2026-04-08T22:00:00Z"
+}

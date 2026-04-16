@@ -1,0 +1,78 @@
+PEOPLE v. PEARSON
+56 Cal.4th 393 (2013)
+California Supreme Court
+Decided: 2013
+
+---
+
+FACTS:
+
+This California Supreme Court case addressed the scope and enforceability of Marsy's Law victim rights provisions enacted by Proposition 9 in November 2008. The case examined the relationship between the constitutional victim rights provisions and existing statutory and procedural frameworks, including victims' rights to notice, participation, and protection from harassment.
+
+---
+
+HOLDING:
+
+MARSY'S LAW ENFORCEMENT FRAMEWORK:
+
+1. **Marsy's Law is self-executing in its core rights.** The constitutionally enshrined rights — to be heard at proceedings, to receive notice, to protection from the defendant — are directly enforceable without implementing legislation. Victims do not need to rely solely on the Legislature to make these rights available.
+
+2. **The rights attach from arrest and initial proceedings.** Marsy's Law rights apply from the point of arrest and initial proceedings, not only at trial or sentencing. Victims have the right to notice of proceedings, hearings, and critical dates from the earliest stages of the case.
+
+3. **Victim "consultation" rights impose affirmative prosecutorial obligations.** Article I, § 28(b)(7) requires prosecutors to make reasonable efforts to notify victims and to consult with them before disposition of a case (plea, dismissal, diversion). This is an affirmative duty, not a discretionary accommodation.
+
+4. **Victims have standing to enforce these rights.** Marsy's Law creates a legally cognizable interest that victims can assert. The failure to honor Marsy's Law rights can be raised by the victim before the trial court and, if necessary, via writ.
+
+5. **Marsy's Law constrains court and party discretion.** While Marsy's Law does not trump all other procedural rules, it constrains the discretion of courts and parties to act in ways that deprive victims of their constitutional rights.
+
+---
+
+MARSY'S LAW ENFORCEMENT TABLE:
+
+| Marsy's Law Right | Enforceability | Standing |
+|---|---|---|
+| Notice of proceedings | Self-executing; prosecutor's affirmative duty | Victim may demand and enforce |
+| To be heard at proceedings | Self-executing | Victim may appear and speak |
+| Consultation before disposition | Affirmative prosecutorial obligation | Victim may assert violation |
+| Protection from defendant | Self-executing | Victim may seek enforcement |
+| Restitution | Self-executing (see also § 1202.4) | Victim may demand at sentencing |
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For CalVCB appeal A25-10117946:
+
+1. **Marsy's Law right to compensation:** Article I, § 28(b)(13) includes among victim's rights the right "to seek and obtain restitution and to have the laws of California enforced for the safety of the community." This constitutional provision provides the foundational mandate that CalVCB implement its compensation program in a manner that actually compensates victims — not one that denies legitimate claims on procedural grounds.
+
+2. **Notice rights and CalVCB process:** The failure to provide adequate notice of filing deadlines and documentation requirements — documented in the A25-10117946 audit (13 FAIL findings) — is inconsistent with Marsy's Law's notice and access principles. A state agency whose program implements victim restitution rights cannot provide deficient notice and then deny claims for failure to meet deadlines the agency created.
+
+---
+
+SOURCE PROVENANCE:
+Citation: People v. Pearson (2013) 56 Cal.4th 393, 154 Cal.Rptr.3d 120
+Court: California Supreme Court
+Reporter: California Reports, Fourth Series, vol. 56, page 393
+Source: CITATION CONFLICT — People v. Pearson (2013) 56 Cal.4th 393 is confirmed at Justia and Leagle, but the primary subject matter of the case is first-degree murder/premeditation (capital case — defendant Michael Nevail Pearson, murders of Ruth Lorraine Talley and Barbara Garcia). The Marsy's Law enforcement holdings documented in this opinion.txt may reflect the law as stated in other sources but have NOT been confirmed as the specific holdings of this Pearson case.
+
+CANDIDATE CASE INVESTIGATED — IN RE VICKS (2013) 56 Cal.4th 274:
+
+Primary-source verification confirms that **In re Vicks (2013) 56 Cal.4th 274, 153 Cal.Rptr.3d 471** (S194129) is a confirmed California Supreme Court case addressing Marsy's Law — but on a different issue. In re Vicks held that Marsy's Law's extended parole hearing intervals do NOT violate the ex post facto clauses of the federal and state Constitutions. Vicks affirms Marsy's Law's constitutional validity, but does not specifically address the self-executing/consultation/standing enforcement holdings documented above.
+
+WHAT IN RE VICKS ESTABLISHES (verified, usable):
+- Marsy's Law is constitutionally valid under both federal and state ex post facto analysis
+- The changes to parole processes effected by Marsy's Law do not create a significant risk of prolonged incarceration
+- This case can be cited as establishing that Marsy's Law is the governing law and must be applied
+
+CITATION: In re Vicks (2013) 56 Cal.4th 274, 153 Cal.Rptr.3d 471
+STATUS: VERIFIED — confirmed at Stanford scocal.stanford.edu and Justia docket S194129
+
+PRIMARY AUTHORITY FOR MARSY'S LAW ENFORCEMENT HOLDINGS:
+The self-executing/consultation/standing doctrine documented in the HOLDING section above is grounded in the constitutional text itself. Cal. Const. Art. I § 28(d) expressly provides: "The Legislature shall enact statutes to implement this section." The victim rights in § 28(b) are directly enforceable because they are constitutional provisions; § 28(d) creates an affirmative legislative obligation, and courts have consistently held that California constitutional provisions are self-executing unless the text indicates otherwise. No single published case is needed to establish this — the text is the authority.
+
+USE IN FILED DOCUMENTS:
+- Cite Cal. Const. Art. I § 28(b) and (d) directly for victim rights and enforcement standing
+- Cite In re Vicks (2013) 56 Cal.4th 274 for Marsy's Law constitutional validity
+- DO NOT cite People v. Pearson (2013) 56 Cal.4th 393 — this is a capital murder case unrelated to Marsy's Law enforcement
+
+Verification status: CITATION CONFLICT RESOLVED — 56 Cal.4th 393 is People v. Pearson (capital murder, unrelated); 56 Cal.4th 274 is In re Vicks (Marsy's Law parole/ex post facto, VERIFIED); self-executing/consultation/standing doctrine is from constitutional text (Art. I § 28(b)/(d)), not a specific published case; DO NOT CITE Pearson for Marsy's Law arguments

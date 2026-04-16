@@ -1,0 +1,60 @@
+{
+  "standard": "pen_code_273d_child_abuse",
+  "cross_references": [
+    {
+      "cite": "Pen. Code § 273a",
+      "label": "Child endangerment — risk of harm track (often charged alongside § 273d)",
+      "relationship": "parallel_statute"
+    },
+    {
+      "cite": "Pen. Code § 273.1",
+      "label": "Criteria for child abuser's treatment counseling programs (mandatory for § 273d probation)",
+      "relationship": "incorporated_by_reference"
+    },
+    {
+      "cite": "Pen. Code § 1203.1",
+      "label": "Maximum probation term (caps extension for unpaid program fees)",
+      "relationship": "limits_probation_term"
+    },
+    {
+      "cite": "Pen. Code § 1170(h)",
+      "label": "Realignment sentencing (county jail vs. state prison for § 273d)",
+      "relationship": "sentencing_framework"
+    },
+    {
+      "cite": "Pen. Code § 243(d)",
+      "label": "Battery with serious bodily injury — higher injury threshold alternative charge",
+      "relationship": "related_charge"
+    },
+    {
+      "cite": "Pen. Code § 242",
+      "label": "Simple battery — misdemeanor lesser included offense",
+      "relationship": "lesser_included"
+    },
+    {
+      "cite": "Pen. Code § 12022.7",
+      "label": "Great bodily injury enhancement — may be charged alongside § 273d if serious injury",
+      "relationship": "enhancement"
+    },
+    {
+      "cite": "Pen. Code § 278.5",
+      "label": "Child custody deprivation — often charged with § 273d in setup-context cases",
+      "relationship": "co_charged_offense"
+    },
+    {
+      "cite": "CALCRIM No. 821",
+      "label": "Standard jury instruction for § 273d",
+      "relationship": "jury_instruction"
+    },
+    {
+      "cite": "Welf. & Inst. Code § 300",
+      "label": "Dependency court jurisdiction — parallel proceeding often triggered by § 273d arrest",
+      "relationship": "parallel_proceeding"
+    },
+    {
+      "cite": "Pen. Code § 11166",
+      "label": "Mandatory reporter statute — governs who must report and what triggers a § 273d referral",
+      "relationship": "reporting_statute"
+    }
+  ]
+}

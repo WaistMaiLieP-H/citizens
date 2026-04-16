@@ -1,0 +1,43 @@
+{
+  "standard_id": "ins_790_09_enforcement_nonabsolution",
+  "citizen": "CA_Insurance_Compliance_Litigator",
+  "citation": "Cal. Ins. Code \u00a7790.09",
+  "jurisdiction": "California",
+  "build_date": "2026-04-13",
+  "build_state": "PUBLISHED",
+  "layers": {
+    "rule": "COMPLETE",
+    "statute_text": "COMPLETE",
+    "historical_chain": "COMPLETE \u2014 1947 UIPA origin",
+    "case_law": "NONE \u2014 short enforcement rule; civil bad faith doctrine in \u00a7790.03 case law",
+    "cross_refs": "COMPLETE"
+  },
+  "provenance": {
+    "source": "leginfo.legislature.ca.gov",
+    "tool": "mcp__claude_ai_VernenLegal__california_get_section",
+    "fetch_date": "2026-04-13",
+    "verified": true,
+    "statute_sha256": "f38c78c9690f2006e3f0ef04cb8a3d0021972f4b805f453e5be52c6c4bec443f"
+  },
+  "witness": {
+    "ADAM": {
+      "signal": "APPROVE",
+      "date": "2026-04-15",
+      "note": "Five-layer schema complete; primary-source provenance (SHA256) intact; no stubs; aligns with tether triple_constraint."
+    },
+    "EVE": {
+      "signal": "COUNTERSIGN",
+      "date": "2026-04-15",
+      "note": "Hash independently recomputed and confirmed; cross-refs consistent with sibling Citizens; historical chain seeded; OK to publish."
+    }
+  },
+  "adam_signal": "APPROVE",
+  "eve_signal": "COUNTERSIGN",
+  "witness_date": "2026-04-15",
+  "herald_countersign": {
+    "signal": "COUNTERSIGN",
+    "date": "2026-04-15",
+    "role": "acting_witness",
+    "note": "Stewardship witness per HERALD designation 2026-04-12 \u2014 entry is routine/verified."
+  }
+}

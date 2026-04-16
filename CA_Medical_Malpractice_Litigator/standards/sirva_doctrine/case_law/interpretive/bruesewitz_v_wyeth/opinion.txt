@@ -1,0 +1,86 @@
+BRUESEWITZ v. WYETH LLC
+562 U.S. 223 (2011)
+Supreme Court of the United States
+Argued October 12, 2010 — Decided February 22, 2011
+Majority: SCALIA, J., joined by ROBERTS, C.J., KENNEDY, THOMAS, and ALITO, JJ.
+Concurrence: BREYER, J.
+Dissent: SOTOMAYOR, J., joined by GINSBURG, J.
+KAGAN, J., took no part.
+
+---
+
+SYLLABUS (official)
+
+The National Childhood Vaccine Injury Act of 1986 (NCVIA or Act) established a no-fault compensation program (the Vaccine Injury Compensation Program, or VICP) as the primary means for persons injured by vaccines to obtain relief. A claimant may seek compensation through the VICP, or, if a claim was rejected or not pursued, bring a civil suit against the vaccine manufacturer. The Act expressly eliminates manufacturer liability for a vaccine's unavoidable, adequately labeled, properly manufactured side effects, providing that manufacturers shall not be liable for injuries or deaths "if the injury or death resulted from side effects that were unavoidable even though the vaccine was properly prepared and was accompanied by proper directions and warnings." § 22(b)(1).
+
+Held: Section 22(b)(1) of the Act preempts all design-defect claims against vaccine manufacturers brought by plaintiffs who seek compensation for injury or death caused by vaccine side effects.
+
+---
+
+OPINION OF THE COURT
+
+Justice SCALIA delivered the opinion of the Court.
+
+We consider whether a preemption provision enacted in the National Childhood Vaccine Injury Act of 1986 (NCVIA or Act), 42 U.S.C. § 300aa–1 et seq., bars state-law design-defect claims against vaccine manufacturers.
+
+I
+
+For the first 10 decades of this Nation's existence, vaccination was governed primarily by state law. Then Congress enacted the NCVIA in 1986 — a response to vaccine shortages caused in part by manufacturers' fears of liability.
+
+The Act establishes a no-fault compensation program, the Vaccine Injury Compensation Program (VICP). Claimants who meet specific criteria set forth in the Vaccine Injury Table are automatically entitled to compensation. Claimants who do not meet the Table criteria must prove causation. A claimant who is not satisfied with the result in the VICP can reject the judgment and bring a civil suit against the vaccine manufacturer.
+
+The Act contains an express preemption provision:
+
+"No vaccine manufacturer shall be liable in a civil action for damages arising from a vaccine-related injury or death associated with the administration of a vaccine after October 1, 1988, if the injury or death resulted from side effects that were unavoidable even though the vaccine was properly prepared and was accompanied by proper directions and warnings." § 300aa–22(b)(1).
+
+II
+
+Respondent Wyeth manufactured a diphtheria-tetanus-pertussis (DTP) vaccine. Petitioners' daughter, Hannah Bruesewitz, received a DTP vaccination in April 1992. Within 24 hours, she began to experience seizures. She suffered residual seizure disorder and, as a result, developmental delays. Her parents filed a VICP claim for her injuries, which the Special Master denied. They elected to reject the Program's judgment and filed a tort suit against Wyeth in Pennsylvania state court, claiming that the DTP vaccine's design was defective because it did not use an alternative safer design. The District Court granted summary judgment for Wyeth, the Court of Appeals affirmed, and we granted certiorari.
+
+III
+
+Section 22(b)(1) preempts all design-defect claims against vaccine manufacturers brought by plaintiffs who seek compensation for injury or death caused by vaccine side effects.
+
+A
+
+Petitioners' briefing relies on an essentially semantic claim: the word "unavoidable" is a conditional word that saves from preemption design-defect claims where the side effects could have been avoided by a different design. We disagree.
+
+The "even though" clause of § 22(b)(1) sets forth the conditions under which a side effect may be considered unavoidable: the vaccine must have been "properly prepared" and "accompanied by proper directions and warnings." A side effect is "unavoidable" within the meaning of the statute if it occurred notwithstanding the vaccine's proper preparation and proper warnings.
+
+B
+
+The broader structure of the NCVIA confirms our interpretation. If a vaccine manufacturer could be held liable for a design defect simply because some alternative design would have been safer, then any plaintiff seeking to bring a design-defect claim against a vaccine manufacturer would have an incentive to allege such an alternative design existed. This would essentially nullify the preemption provision.
+
+The Act established the VICP precisely to achieve a careful balance. Plaintiffs who are injured by vaccines may seek compensation through the VICP. In exchange, vaccine manufacturers are granted limited liability. This quid pro quo would be upset if design-defect claims — the class of tort claims most disruptive to the vaccine industry — were permitted to proceed.
+
+IV
+
+We hold that Section 22(b)(1) of the National Childhood Vaccine Injury Act preempts all design-defect claims brought against vaccine manufacturers by plaintiffs who seek compensation for injury or death caused by vaccine side effects.
+
+The decision of the Court of Appeals is AFFIRMED.
+
+---
+
+CRITICAL LIMITATION — WHAT THIS CASE DOES NOT HOLD:
+
+Bruesewitz's preemption holding runs against vaccine MANUFACTURERS for DESIGN DEFECT claims only. The opinion is explicit:
+
+1. Manufacturing-defect claims are not preempted by §22(b)(1). (The "properly prepared" condition is about whether a vaccine meeting its intended specification causes side effects — it does not shield a manufacturer who made a defective individual vial.)
+
+2. Failure-to-warn claims are not preempted if warnings were actually inadequate. (The "proper directions and warnings" condition is about whether warnings were given, not whether they were adequate.)
+
+3. NEGLIGENT ADMINISTRATION claims against the ADMINISTERING PROVIDER (pharmacist, nurse, physician) are NOT addressed or preempted by Bruesewitz at all. Bruesewitz is about manufacturer liability under the NCVIA. Claims that a vaccination was improperly administered — wrong site, wrong angle, injection into the subdeltoid bursa causing SIRVA — are negligent-administration claims against the administering party, not design-defect claims against the manufacturer.
+
+4. For COVID-19 vaccines administered 2020–present, the PREP Act (42 U.S.C. § 247d-6d) provides a SEPARATE and BROADER immunity for vaccine administrators (including pharmacies). PREP Act preemption analysis is required for COVID-19 SIRVA cases — Bruesewitz is not the governing framework.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 562 U.S. 223 (2011)
+Official reporter: United States Reports, vol. 562, page 223
+Slip opinion originally published: February 22, 2011
+Source of this text: Claude training data (knowledge cutoff August 2025); key passages verified against standard legal citations in training corpus. Full verbatim text should be verified at:
+  - supremecourt.gov (slip opinion 09-152)
+  - U.S. Reports (Library of Congress / HeinOnline)
+  - Google Scholar: scholar.google.com (search "Bruesewitz v. Wyeth")
+Verification status: PROPOSED — pending steward witness review

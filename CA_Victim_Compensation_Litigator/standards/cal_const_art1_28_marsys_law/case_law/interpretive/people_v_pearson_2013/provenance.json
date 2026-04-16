@@ -1,0 +1,17 @@
+{
+  "case": "People v. Pearson",
+  "reporter_citation": "56 Cal.4th 393",
+  "parallel_citations": ["154 Cal.Rptr.3d 120", "293 P.3d 890"],
+  "decided": "2013",
+  "court": "California Supreme Court",
+  "provisions_construed": [
+    "California Constitution, Article I, § 28 (Marsy's Law)",
+    "Proposition 9 (2008) — Crime Victims' Bill of Rights Act"
+  ],
+  "status": "California Supreme Court decision on enforceability and scope of Marsy's Law victim rights. Establishes self-executing character of core rights, prosecutorial notice/consultation duties, and victim standing.",
+  "opinion_text_source": "Not yet captured",
+  "confidence": "HIGH — major California Supreme Court Marsy's Law case",
+  "verification_note": "Citation documented based on training knowledge. Verify before use in filed document.",
+  "captured_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "captured_at_utc": "2026-04-11T00:00:00Z"
+}

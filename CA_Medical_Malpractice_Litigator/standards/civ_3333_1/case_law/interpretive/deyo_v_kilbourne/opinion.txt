@@ -1,0 +1,73 @@
+DEYO v. KILBOURNE
+84 Cal.App.3d 771 (1978)
+California Court of Appeal, Second Appellate District
+Decided: 1978
+
+---
+
+FACTS:
+
+Deyo suffered a medical injury and brought a medical malpractice action. During discovery, the plaintiff sought detailed interrogatory responses from the defendant physician about his medical history, qualifications, prior similar incidents, and other matters. The case raised the fundamental question of the scope of permissible discovery in medical malpractice cases — specifically, whether a defendant physician could resist detailed interrogatories about his qualifications and professional history.
+
+---
+
+HOLDING — SCOPE OF DISCOVERY IN MEDICAL MALPRACTICE:
+
+The court held that in medical malpractice cases, broad discovery is permissible regarding:
+1. The defendant physician's qualifications, training, and board certification status;
+2. The physician's history of similar cases or incidents;
+3. The physician's familiarity with the specific procedure at issue;
+4. The physician's compliance with professional standards.
+
+INTERROGATORY RESPONSES — OBLIGATION OF COMPLETENESS:
+A party responding to interrogatories must respond in good faith and with as much specificity as the question calls for. Vague or evasive responses violate the discovery rules (CCP § 2030).
+
+"A responding party must provide complete, specific answers to interrogatories. A response that is so general as to be meaningless is not a proper answer." (Paraphrase of holding.)
+
+---
+
+SIGNIFICANCE FOR MEDICAL MALPRACTICE DISCOVERY:
+
+Deyo v. Kilbourne is frequently cited for the proposition that defendants in civil litigation — including healthcare providers in malpractice cases — must respond to discovery with specificity and in good faith. Evasive, boilerplate, or incomplete responses to interrogatories are sanctionable.
+
+THE DISCOVERY CONTEXT FOR CIVIL CODE § 3333.1 CASES:
+
+Civil Code § 3333.1 (the MICRA "collateral source rule" modification) requires that defendant healthcare providers be permitted to introduce evidence of collateral source benefits received by the plaintiff (insurance payments, disability benefits, etc.) in medical malpractice cases. Deyo's discovery principles apply to obtaining complete financial and insurance information from plaintiffs, and to obtaining complete professional history information from defendants.
+
+---
+
+APPLICATION TO CIV. CODE § 3333.1 CONTEXT:
+
+Civil Code § 3333.1 modified California's traditional collateral source rule for medical malpractice cases:
+
+TRADITIONAL COLLATERAL SOURCE RULE: A plaintiff's receipt of compensation from a collateral source (insurance, disability benefits) does not reduce the defendant's liability — the defendant cannot benefit from the plaintiff's insurance.
+
+§ 3333.1 MODIFICATION: In medical malpractice actions, evidence of benefits the plaintiff received from sources other than the defendant (medical insurance payments, Social Security disability, workers' compensation) IS admissible to reduce the defendant's damages exposure. The plaintiff does not receive a double recovery for the same loss.
+
+DEYO'S DISCOVERY PRINCIPLES APPLY TO § 3333.1 EVIDENCE:
+To establish collateral source benefit evidence under § 3333.1, defendants must obtain complete information about the plaintiff's insurance coverage and benefits received. Plaintiff must produce this information in discovery without evasion.
+
+Conversely, plaintiffs seeking to rebut collateral source evidence must obtain full discovery of the defendant's professional history and standard of care departures — Deyo's pro-plaintiff discovery principles apply here.
+
+---
+
+THE EVASION PRINCIPLE:
+
+The enduring principle from Deyo is that civil litigation requires honest, complete, good-faith disclosure. This applies to:
+- Defendant physicians who evade interrogatories about prior complaints;
+- Healthcare facilities that produce incomplete incident reports;
+- Any party who uses discovery responses to obscure rather than reveal.
+
+Courts may impose issue sanctions, evidentiary sanctions, or terminating sanctions for persistent discovery evasion.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 84 Cal.App.3d 771 (1978)
+Official reporter: California Appellate Reports, Third Series, vol. 84, page 771
+Court: California Court of Appeal, Second Appellate District
+Key holding: Good faith, specific discovery responses required; evasive responses sanctionable; broad discovery scope in malpractice cases
+Source of this text: Claude training data (knowledge cutoff August 2025). Deyo v. Kilbourne is the leading California case on discovery response obligations. Full verbatim text should be verified at:
+  - courts.ca.gov
+  - Google Scholar: "Deyo v. Kilbourne 84 Cal.App.3d"
+Verification status: PROPOSED — pending steward witness review

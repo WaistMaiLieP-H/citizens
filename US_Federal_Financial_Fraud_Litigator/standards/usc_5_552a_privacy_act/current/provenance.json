@@ -1,0 +1,14 @@
+{
+  "standard_id": "USC_5_552A_PRIVACY_ACT",
+  "primary_source": "5 U.S.C. §552a",
+  "enacted": "Privacy Act of 1974, Pub. L. 93-579, 88 Stat. 1896 (Dec. 31, 1974)",
+  "effective_date": "1975-09-27",
+  "current_version_source": "5 U.S.C. §552a as amended through Privacy Act Amendments of 1988 (Computer Matching and Privacy Protection Act, Pub. L. 100-503)",
+  "codification": "Title 5 (Government Organization and Employees), Part I (The Agencies Generally), Chapter 5 (Administrative Procedure), Subchapter II",
+  "fetch_method": "WebFetch — uscode.house.gov official source",
+  "fetch_timestamp_utc": "2026-04-11T00:00:00Z",
+  "retrieval_steward": "Claude (assistant) under direction of Michael Hartmann",
+  "verbatim_capture_status": "COMPLETE — usc_5_552a_leginfo.txt contains verbatim text of §552a(b) (conditions of disclosure) and §552a(g)(1), (g)(4) (civil remedies)",
+  "txt_sha256": "95478237202226343828dd378dc532e5feeb62afd3b7fa31d64764c0864d850a",
+  "build_date": "2026-04-11"
+}

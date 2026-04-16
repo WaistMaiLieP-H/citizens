@@ -1,0 +1,19 @@
+{
+  "standard_id": "ins_1861_02_prop103_auto_rates",
+  "authority": "Cal. Ins. Code \u00a71861.02 (Prop. 103)",
+  "status": "PUBLISHED",
+  "content_hash": "0faecd31",
+  "build_date": "2026-04-12",
+  "terminal": "Terminal B",
+  "citizen": "CA_Insurance_Compliance_Litigator",
+  "verified": true,
+  "adam_signal": "APPROVE",
+  "eve_signal": "COUNTERSIGN",
+  "witness_date": "2026-04-12",
+  "herald_countersign": {
+    "signal": "COUNTERSIGN",
+    "date": "2026-04-15",
+    "role": "acting_witness",
+    "note": "Stewardship witness per HERALD designation 2026-04-12 \u2014 entry is routine/verified. Task #3 completion pass."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "path_anchors": {
+    "familylaw": "/home/vernenlegal/FamilyLaw",
+    "nonfamilylaw": "/home/vernenlegal/NonFamilyLaw",
+    "citizens": "/home/vernenlegal/citizens"
+  },
+  "citizen": "CA_Law_Enforcement_Procedures_Specialist",
+  "tether_version": "0.1.0-initial",
+  "filed_at_utc": "2026-04-10T12:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "purpose": "The CA_Law_Enforcement_Procedures_Specialist carries the statutory and regulatory standards governing California law enforcement conduct — use of force, body cameras, domestic violence response, arrest authority, officer records, and POST training requirements. This Citizen exists because the steward's case involves multiple law enforcement encounters where procedural compliance is a central issue.",
+  "blueprints_inherited": {
+    "blueprints": ["Triple Constraint", "Five-Layer Bar", "Two-Witness Rule", "Hash Chain + Anchor"]
+  },
+  "standards": {
+    "bound_directly": [
+      {"standard_id": "PEN_835A", "popular_name": "Use of force — AB 392 (2019)", "status": "PROPOSED"},
+      {"standard_id": "PEN_832_18", "popular_name": "Body-worn cameras", "status": "PROPOSED"},
+      {"standard_id": "PEN_13701", "popular_name": "DV response standards", "status": "PROPOSED"},
+      {"standard_id": "PEN_836", "popular_name": "Arrest authority — warrantless arrest", "status": "PROPOSED"},
+      {"standard_id": "GOV_12525_2", "popular_name": "RIPA — racial profiling data collection", "status": "PROPOSED"},
+      {"standard_id": "PEN_832_7", "popular_name": "Peace officer personnel records — confidentiality", "status": "PROPOSED"},
+      {"standard_id": "POST_TRAINING", "popular_name": "POST basic training and certification standards", "status": "PROPOSED"}
+    ]
+  },
+  "domain": {
+    "jurisdiction": "California",
+    "subject_matter": "Law enforcement procedures: use of force (Pen. Code \u00a7835a), body cameras (\u00a7832.18), DV response (\u00a713701), arrest authority (\u00a7836), officer records (\u00a7832.7), RIPA racial profiling (Gov. Code \u00a712525.2), POST training standards (11 CCR \u00a7\u00a71001-1082)",
+    "exclusions": ["Criminal prosecution — CA_Criminal_Law_Specialist", "Civil rights claims — CA_Civil_Rights_Litigator", "Federal civil rights — US_Federal_Civil_Rights_Litigator"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "case": "People v. Gonzales",
+  "reporter_citation": "54 Cal.4th 1234",
+  "parallel_citations": ["144 Cal.Rptr.3d 757", "281 P.3d 834"],
+  "decided": "2012",
+  "court": "Supreme Court of California",
+  "statutes_construed": ["California Penal Code § 1054.5"],
+  "status": "Published California Supreme Court precedent. Binding. Controls § 1054.5 sanction framework — broad discretion, harm-tailoring, witness exclusion exhaustion requirement, no dismissal for statutory violations. Still cited as of 2026-04-11.",
+  "opinion_text_source": "Not yet captured",
+  "verification_note": "Citation documented based on training knowledge. Verify reporter citation before use in filed document.",
+  "captured_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "captured_at_utc": "2026-04-11T00:00:00Z"
+}

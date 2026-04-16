@@ -1,0 +1,76 @@
+PEOPLE v. COLE
+23 Cal.App.4th 1672 (1994)
+California Court of Appeal
+Decided: 1994
+
+---
+
+CITATION STATUS: VERIFIED — People v. Cole (1994) 23 Cal.App.4th 1672 confirmed on Justia (law.justia.com/cases/california/court-of-appeal/4th/23/1672.html).
+
+---
+
+FACTS:
+
+Defendant was arrested and orally identified himself to the arresting officer using a false name (Larry Quesenberry), provided a false date of birth, and when asked whether his middle name was "Ray" (Quesenberry's middle name), answered affirmatively. The defendant was charged under both § 529(a)(3) (false personation) and § 148.9 (false identification to police officer).
+
+---
+
+HOLDING:
+
+§ 529(a)(3) — "ADDITIONAL ACT" REQUIREMENT; CONTEMPORANEOUS FALSE STATEMENTS:
+
+1. **§ 529(a)(3) conviction REVERSED.** The Court of Appeal reversed the § 529(a)(3) conviction and reduced it to § 148.9 (misdemeanor false ID to police officer).
+
+2. **Contemporaneous false statements are one act, not multiple.** Providing a false name, a false date of birth, and affirmatively confirming a false middle name — all as part of the same identification encounter — constitute ONE act of providing false identification, not a series of separate acts that could compound the § 529(a)(3) liability.
+
+3. **"Additional act" requires something beyond the false identity itself.** Section 529(a)(3) requires that the impersonator perform some act in the false identity. Cole narrows this: consecutive statements that are all part of the same false identification do not constitute the required "additional act." There must be something more — some separate act beyond giving the false identity.
+
+4. **§ 148.9 is the proper charge for contemporaneous false ID.** Where the defendant gives a false name and related information to a police officer in a single encounter, § 148.9 (misdemeanor) captures the conduct, not § 529(a)(3).
+
+---
+
+WHAT COLE DOES NOT LIMIT:
+
+Cole is limited to the contemporaneous false-statements-in-a-single-encounter scenario. Cole does NOT limit:
+- § 529(a)(3) where the defendant takes separate actions across time using the false identity (separate account openings, multiple transactions, separate filings)
+- § 529(a)(3) where the "additional act" is distinct from the false name itself (executing a document, making a purchase, recording an instrument)
+- People v. Rathert (2000) 24 Cal.4th 200 — the California Supreme Court's definitive interpretation confirming broad construction of the "benefit" branch
+
+For synthetic identity schemes (UA342, SIM swap): each separate action taken under the false identity — a separate account opening, a separate government filing, a separate financial transaction — is a separate "additional act" under § 529(a)(3), not the contemporaneous-statements scenario Cole addresses.
+
+---
+
+RELATIONSHIP TO PEOPLE v. RATHERT (2000):
+
+Rathert (2000) 24 Cal.4th 200 supersedes Cole's narrow context. Rathert confirmed: (a) the potentiality standard (not actual liability required); (b) the disjunctive structure (liability to impersonated person OR benefit to impersonator); (c) broad construction of "benefit." Rathert is the primary authority; Cole defines the one scenario where § 529(a)(3) does not apply.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For the synthetic identity profile investigation and the UA342 employment identity replacement:
+- If another person has represented themselves as the steward in any context — pension claims, employment records, court filings, medical records — § 529(a)(3) likely reaches the conduct under both the pre-Rathert tradition and Rathert itself
+- The "benefit to impersonator" branch is particularly relevant: a person assuming the steward's UA342 identity would be receiving substantial employment and pension benefits
+- Combined with § 530.5, § 529 provides dual-statute coverage for identity impersonation
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Cole confirms that the UA342 pension identity replacement and the SIM swap / synthetic profile patterns are NOT in the Cole contemporaneous-statements scenario. Those patterns involve:
+- Separate account openings under the stolen identity (separate acts)
+- Separate government filings (separate acts)
+- Separate financial transactions (separate acts)
+- A sustained impersonation scheme over months or years (the opposite of contemporaneous)
+
+Each separate act in the false identity is a distinct "additional act" under § 529(a)(3). Cole does not protect the perpetrators of sustained identity operations.
+
+---
+
+SOURCE PROVENANCE:
+Citation: People v. Cole (1994) 23 Cal.App.4th 1672
+Court: California Court of Appeal, Fourth Appellate District
+Reporter: California Appellate Reports, Fourth Series, vol. 23, page 1672
+Source: VERIFIED — citation confirmed on Justia (law.justia.com/cases/california/court-of-appeal/4th/23/1672.html). § 529(a)(3) conviction reversed; contemporaneous false statements = one act; reduced to § 148.9.
+CORRECTION: Prior entry described Cole as supporting "broad construction tradition" — WRONG. Cole REVERSED the § 529(a)(3) conviction. The broad construction authority is Rathert (2000) 24 Cal.4th 200.
+Verification status: VERIFIED — citation and actual holding confirmed; holding corrected from prior placeholder; pending steward witness review to advance to WITNESSED-BY-STEWARD

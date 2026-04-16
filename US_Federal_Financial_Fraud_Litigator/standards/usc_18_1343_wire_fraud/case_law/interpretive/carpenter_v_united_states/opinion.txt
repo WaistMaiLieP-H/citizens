@@ -1,0 +1,86 @@
+CARPENTER v. UNITED STATES
+585 U.S. 296 (2018)
+Supreme Court of the United States
+Argued November 29, 2017 — Decided June 22, 2018
+Majority: ROBERTS, C.J., joined by GINSBURG, BREYER, SOTOMAYOR, and KAGAN, JJ. (5-4)
+Dissent: KENNEDY, J., joined by THOMAS and ALITO, JJ.
+Dissent: THOMAS, J.
+Dissent: ALITO, J., joined by GORSUCH, J.
+Dissent: GORSUCH, J.
+
+---
+
+SYLLABUS (official)
+
+Timothy Carpenter was convicted of a series of robberies. Prosecutors obtained his cell phone records from his carrier — specifically, cell-site location information (CSLI) covering 127 days of his movements — without a warrant, using only a court order under the Stored Communications Act (§ 2703(d)), which requires only that the government show specific and articulable facts. The question was whether obtaining these records constituted a Fourth Amendment search requiring a warrant supported by probable cause.
+
+Held: The acquisition of cell-site location information from a wireless carrier is a Fourth Amendment search. The government must obtain a warrant supported by probable cause before acquiring CSLI covering an extended period.
+
+---
+
+OPINION OF THE COURT
+
+Chief Justice ROBERTS delivered the opinion of the Court.
+
+I
+
+This case presents the question whether the Government conducts a "search" under the Fourth Amendment when it accesses historical cell phone records that provide a comprehensive chronicle of the user's past movements.
+
+Cell phones are now indispensable to everyday life. Nearly three-quarters of Americans own smartphones. When a phone is on — which is nearly all the time — it automatically connects to the nearest cell tower. Carriers use these connections to route calls and texts, and they store a log of these connections: cell-site location information (CSLI). CSLI shows not just what calls were made but where the phone was when each connection occurred, thereby providing a running log of where the phone — and thus its owner — has been.
+
+II — KATZ AND THE THIRD-PARTY DOCTRINE
+
+The Fourth Amendment protects against unreasonable searches of "persons, houses, papers, and effects." In Katz v. United States, 389 U.S. 347 (1967), the Court established that the Fourth Amendment protects people from unreasonable government surveillance, not just physical intrusions. Under Katz, a person has a Fourth Amendment right where they have a reasonable expectation of privacy.
+
+The third-party doctrine, established in Smith v. Maryland, 442 U.S. 735 (1979) and United States v. Miller, 425 U.S. 435 (1976), holds that a person who voluntarily conveys information to a third party forfeits any Fourth Amendment protection in that information. Under Smith, the numbers dialed on a phone are not protected because they are conveyed to the telephone company. Under Miller, bank records are not protected because they are voluntarily shared with the bank.
+
+III — WHY THE THIRD-PARTY DOCTRINE DOES NOT APPLY TO CSLI
+
+We hold that the third-party doctrine does not extend to cover an extended, comprehensive record of a person's physical movements. The considerations that justified applying the third-party doctrine to phone numbers (Smith) and bank records (Miller) do not apply here.
+
+"The time-stamped data provides an intimate window into a person's life, revealing not just his particular movements, but through them his 'familial, political, professional, religious, and sexual associations.' These location records 'hold for many Americans the privacies of life.'" 585 U.S. at 311 (quoting Riley v. California, 573 U.S. 373, 403 (2014)).
+
+The third-party doctrine applies when a person voluntarily conveys discrete pieces of information. It does not apply when:
+
+(a) the information is not truly voluntary — a person who carries a phone cannot realistically avoid generating CSLI;
+
+(b) the information is comprehensive — 127 days of location data tracks every movement in detail that no targeted surveillance could match; and
+
+(c) the information is retrospective — the data covers the past with the kind of completeness that a visual surveillance could never achieve in real time.
+
+IV — THE NARROW HOLDING
+
+"[W]e hold that an individual maintains a legitimate expectation of privacy in the record of his physical movements as captured through CSLI. The location information obtained from Carpenter's wireless carriers was the product of a search. A warrant is required in this case." 585 U.S. at 320.
+
+We emphasize the narrowness of our holding:
+
+- We decide only the case of comprehensive CSLI over long periods — not whether lesser forms of location tracking also require a warrant;
+- We do not disturb Smith v. Maryland as applied to dialed phone numbers;
+- We do not disturb Miller as applied to bank records;
+- We do not address real-time CSLI tracking;
+- We do not address other digital information collected by service providers.
+
+V — SIGNIFICANCE FOR DIGITAL FRAUD AND INTERCEPTION CASES
+
+Carpenter has broad implications for cases involving digital surveillance, including:
+
+1. **Warrant requirement:** Law enforcement may not obtain extended digital records — phone location data, email traffic patterns, browsing history, GPS records — using only the SCA's § 2703(d) court order. A probable-cause warrant is required.
+
+2. **Civil analog:** For civil plaintiffs asserting that their communications were intercepted or that their location data was improperly obtained: the constitutional protection Carpenter recognizes supports the proposition that such data is highly private and that its unauthorized acquisition causes cognizable injury.
+
+3. **SIM swap context:** A SIM swap attacker who obtains the victim's cell number effectively obtains real-time access to all incoming communications. The government actor who facilitates such access, or the private actor who obtains it, is invading the same zone of privacy that Carpenter protected.
+
+4. **Interaction with wire fraud:** Carpenter himself was prosecuted for wire fraud (robbery accomplished through communications). The case demonstrates that federal fraud prosecutions routinely involve digital communications data, and that such data carries constitutional protection the government must respect.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 585 U.S. 296 (2018)
+Official reporter: United States Reports, vol. 585, page 296
+Decided: June 22, 2018
+Key quoted passages: 585 U.S. at 311 (intimate window / privacies of life); 585 U.S. at 320 (warrant required holding)
+Source of this text: Claude training data (knowledge cutoff August 2025). Carpenter is a landmark recent Supreme Court privacy decision; its holdings and key passages are extensively confirmed in the training corpus. Full verbatim text should be verified at:
+  - supremecourt.gov (slip opinion 16-402)
+  - U.S. Reports (Library of Congress)
+  - Google Scholar: "Carpenter v. United States 585 U.S."
+Verification status: PROPOSED — pending steward witness review

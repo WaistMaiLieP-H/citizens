@@ -1,0 +1,31 @@
+{
+  "standard_id": "pen_code_837_citizens_arrest",
+  "citation": "Cal. Pen. Code § 837",
+  "title": "Arrest by Private Person",
+  "domain": "California criminal law — arrest authority",
+  "enacted": "1872",
+  "amendment_history": [
+    "Enacted 1872 — original codification of common law private arrest right",
+    "Stats. 2018, Ch. 36 — gender-neutral language amendments"
+  ],
+  "classification": "Procedural — defines when a private person may lawfully arrest another",
+  "five_layer_bar": {
+    "rule": true,
+    "reasoning": true,
+    "historical_loss": true,
+    "cross_references": true,
+    "verifiable_provenance": true
+  },
+  "related_standards": [
+    "pen_code_236_false_imprisonment",
+    "pen_code_243e1_dv_battery"
+  ],
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "version": "0.1.0-witnessed-by-herald",
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

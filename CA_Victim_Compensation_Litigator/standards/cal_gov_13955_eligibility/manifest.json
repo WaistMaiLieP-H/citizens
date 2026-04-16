@@ -1,0 +1,53 @@
+{
+  "standard_id": "CAL_GOV_13955",
+  "version": "0.2.0-witnessed-by-herald",
+  "filed_at_utc": "2026-04-10T23:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "primary_citation": {
+    "code": "California Government Code",
+    "section": "§ 13955",
+    "popular_name": "CalVCB eligibility requirements (seven-element test)",
+    "jurisdiction": "California (state)",
+    "location_in_code": "Government Code, Title 2, Division 3, Part 4, Chapter 5 (Crime Victim Compensation), Article 5",
+    "original_enactment": "1965 (via predecessor former §§ 13959-13974); current structure dates from Stats. 2002, ch. 1141 recodification",
+    "amendment_history": "Progressive expansions since 1965, especially 1999 (emotional-injury-only coverage), 2002 (recodification), 2008 (Marsy's Law), and post-2008 (human trafficking, military sexual assault, etc.)",
+    "positive_law_status": "In force; seven-element structure stable since 2002"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current text captured via VernenLegal MCP",
+    "reasoning": "PRESENT — California's pioneering 1965 role, expansion pattern, and 2002 recodification documented",
+    "historical_loss": "PRESENT — pre-1965 absence of any state compensation mechanism for crime victims; California's first-in-nation leadership documented in evolution/01_origin_1965/context.md",
+    "cross_references": "PRESENT — cross_refs/refs.json links to §§ 13950, 13953, 13956, 13957, 13959, Cal. Const. Art. I § 28, 2 CCR § 649, CCP § 1094.5, relevant Penal Code sections",
+    "verifiable_provenance": "PARTIAL — current text via MCP; 1965 original and 2002 recodification chapters pending PDF capture"
+  },
+  "evolution_chain": [
+    {
+      "stage": "01_origin_1965",
+      "description": "Original 1965 enactment under former §§ 13959-13974; narrow victim-only coverage",
+      "folder": "evolution/01_origin_1965/"
+    },
+    {
+      "stage": "02_expansion_1999 (incorporated)",
+      "description": "1999 amendments expanded emotional-injury-only coverage and loosened police-report rule; summarized in 03_current/diff_from_prior.md",
+      "folder": "evolution/03_current/ (summarized)"
+    },
+    {
+      "stage": "03_current",
+      "description": "2002 recodification to current §§ 13950-13969; seven-element structure; subsequent additive amendments through 2023",
+      "folder": "evolution/03_current/"
+    }
+  ],
+  "case_law": [],
+  "cases_to_add": [
+    "Cordova-Gonzalez v. CalVCB (example concept: eligibility element dispute)",
+    "Post-2002 appellate review cases via CCP § 1094.5"
+  ],
+  "citizen_relevance": "Core eligibility standard for the A25-10117946 appeal. Every § 13955 element must be separately addressed in the appeal brief.",
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

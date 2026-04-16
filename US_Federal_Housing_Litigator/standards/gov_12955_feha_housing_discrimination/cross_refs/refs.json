@@ -1,0 +1,36 @@
+{
+  "standard": "gov_12955_feha_housing_discrimination",
+  "citizen": "US_Federal_Housing_Litigator",
+  "refs": [
+    {
+      "id": "fha_3604_prohibited_acts",
+      "path": "${citizens}/US_Federal_Housing_Litigator/standards/fha_3604_prohibited_acts",
+      "relationship": "parallel",
+      "note": "Federal Fair Housing Act (42 USC §3604) runs alongside FEHA §12955; §12955(d) explicitly incorporates FHA protections; FEHA is broader (source of income, gender identity, veteran status) but both apply to Honeysuckle sale and HILLBERGMANN deed"
+    },
+    {
+      "id": "gov_12989_2_feha_housing_remedies",
+      "path": "${citizens}/US_Federal_Housing_Litigator/standards/gov_12989_2_feha_housing_remedies",
+      "relationship": "concurrent",
+      "note": "GOV §12989.2 is the civil remedies provision for §12955 violations — actual damages, punitive damages, injunction, attorney fees; these two standards always operate together"
+    },
+    {
+      "id": "civ_51_unruh_civil_rights_act",
+      "path": "${citizens}/CA_Disability_Rights_Litigator/standards/civ_51_unruh_civil_rights_act",
+      "relationship": "concurrent",
+      "note": "GOV §12955(d): §12955 violations by persons subject to CIV §51 = Unruh Act violation with $4,000/offense statutory damages; disability discrimination in housing triggers both tracks"
+    },
+    {
+      "id": "WIC_15610_30",
+      "path": "${citizens}/CA_Elder_Law_Litigator/standards/WIC_15610_30",
+      "relationship": "parallel",
+      "note": "Undue influence in real estate transactions; if the Honeysuckle sale was procured through elder/dependent adult financial abuse, §15610.30 runs parallel to §12955 discrimination track"
+    },
+    {
+      "id": "evid_1402_altered_writing_burden",
+      "path": "${citizens}/CA_Forensic_Document_Specialist/standards/evid_1402_altered_writing_burden",
+      "relationship": "concurrent",
+      "note": "19 unsigned documents in Honeysuckle sale — CA_Forensic_Document_Specialist authenticates the documents; this standard establishes the substantive legal violation that the unauthenticated documents evidence"
+    }
+  ]
+}

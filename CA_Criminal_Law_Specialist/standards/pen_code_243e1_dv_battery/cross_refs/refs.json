@@ -1,0 +1,15 @@
+{
+  "standard": "pen_code_243e1_dv_battery",
+  "refs": [
+    {"type": "definition_base", "target": "Pen. Code § 242 (battery definition)", "relationship": "§ 243(e)(1) applies § 242's battery element to domestic partners"},
+    {"type": "related_statute", "target": "Pen. Code § 273.5 (corporal injury to domestic partner)", "relationship": "Felony-level DV statute requiring 'traumatic condition'; charged alongside § 243(e)(1) when facts permit"},
+    {"type": "probation_framework", "target": "Pen. Code § 1203.097 (DV probation)", "relationship": "Batterer's treatment program standards for § 243(e)(1) probation"},
+    {"type": "contempt_crossref", "target": "Pen. Code § 166(c) (protective order violation)", "relationship": "Enhanced contempt penalty for DV protective order violations", "anchor": "${citizens}/CA_Criminal_Law_Specialist/standards/pen_code_166_contempt"},
+    {"type": "dvpa_interlock", "target": "Family Code §§ 6203, 6320, 6321, 6323 (DVPA)", "relationship": "Civil DVPA orders frequently result from DV battery charges; Terminal A domain"},
+    {"type": "law_enforcement", "target": "Pen. Code § 13701 (DV response)", "relationship": "Law enforcement DV response protocol; mandatory arrest policies"},
+    {"type": "defense_theory", "target": "Pen. Code § 148.5 (false police report)", "relationship": "Defensive counter-theory when DV allegation is fabricated", "anchor": "${citizens}/CA_Criminal_Law_Specialist/standards/pen_code_148_5_false_police_report"},
+    {"type": "cross_citizen", "target": "CA_Family_Law_Litigator", "relationship": "Substantive DVPA orders and custody orders (Terminal A)"},
+    {"type": "cross_citizen", "target": "CA_Law_Enforcement_Procedures_Specialist", "relationship": "DV response protocol and arrest authority analysis"}
+  ],
+  "generated_at_utc": "2026-04-11T02:00:00Z"
+}

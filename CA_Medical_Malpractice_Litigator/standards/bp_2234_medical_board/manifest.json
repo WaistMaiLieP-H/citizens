@@ -1,0 +1,111 @@
+{
+  "standard_id": "BP_2234_MEDICAL_BOARD",
+  "citizen": "CA_Medical_Malpractice_Litigator",
+  "version": "0.1.0-proposed",
+  "filed_at_utc": "2026-04-11T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "PROPOSED",
+  "build_method": "Logical Delta (LOGIC.md at each evolution stage)",
+  "primary_citation": {
+    "code": "Cal. Bus. & Prof. Code",
+    "section": "§2234",
+    "popular_name": "Medical Board — Unprofessional Conduct Grounds for Discipline",
+    "jurisdiction": "California",
+    "enacted": "California Medical Practice Act, Stats. 1913, Ch. 352",
+    "effective": "1913",
+    "current_form": "§2234 in current B&P Code form, substantially modernized Stats. 1980-1993"
+  },
+  "disciplinary_grounds": {
+    "2234_b": "Gross negligence — extreme departure from standard of care",
+    "2234_c": "Repeated negligent acts — two or more separate departures from standard of care",
+    "2234_d": "Incompetence — lack of knowledge or ability expected of licensees",
+    "2234_e": "Drug/alcohol impairment while practicing",
+    "2234_f": "Fraudulent or corrupt acts — false billing, false diagnosis, unnecessary procedures",
+    "general": "Any conduct inconsistent with professional standards (catch-all)"
+  },
+  "administrative_track": {
+    "filing_mechanism": "Medical Board complaint — https://www.mbc.ca.gov/complaints/",
+    "process": "Complaint → investigation → (if meritorious) formal accusation → OAH hearing → discipline",
+    "timeline": "18-36 months typical before formal accusation",
+    "public_record": "Formal accusation and final discipline are public record in DCA BreEZe",
+    "license_lookup": "https://search.dca.ca.gov/"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current/LOGIC.md documents §2234 subcategories, gross negligence vs. repeated acts distinction, relationship to civil malpractice, Hrimnak escape coordination, strategic value of Board complaint, complaint filing checklist",
+    "reasoning": "PRESENT — evolution/01_origin_1913/LOGIC.md documents pre-regulation physician impunity wound and administrative catch-all design; evolution/02_modernization/LOGIC.md documents due process gap and subcategory enumeration",
+    "historical_loss": "PRESENT — historical_chain.md documents full arc from pre-regulation impunity through 1913 catch-all through subcategory enumeration through current framework",
+    "cross_references": "PRESENT — refs.json links to §3333.2, SIRVA doctrine, §3294 punitive, §6146 fee cap",
+    "verifiable_provenance": "PARTIAL — provenance.json files present; verbatim statute text PENDING; §2234(b) and §2234(c) standards are anchored to statute text directly — case law applying those standards exists in OAH decisions and appellate review but specific citations are not yet confirmed"
+  },
+  "evolution_chain": [
+    {"stage": "01_origin_1913", "folder": "evolution/01_origin_1913/", "status": "LOGIC_BUILT"},
+    {"stage": "02_modernization_1980_forward", "folder": "evolution/02_modernization_1980_forward/", "status": "LOGIC_BUILT"}
+  ],
+  "case_law": {
+    "uphold": [],
+    "interpretive": [
+      {
+        "slug": "bp_2234b_gross_negligence_standard",
+        "primary_authority": "Cal. Bus. & Prof. Code §2234(b)",
+        "rule": "§2234(b) defines its own standard: 'extreme departure from the applicable standard of care, whether applied in the same or similar community.' Rule is from the statute text directly — not from judicial gloss.",
+        "files": ["statutory_anchor.md", "provenance.json"],
+        "status": "STATUTE_ANCHORED — case law applying §2234(b) exists in Medical Board OAH decisions and appellate review; specific citations pending verification"
+      },
+      {
+        "slug": "bp_2234c_repeated_negligent_acts_standard",
+        "primary_authority": "Cal. Bus. & Prof. Code §2234(c)",
+        "rule": "§2234(c) defines its own standard: two or more negligent acts or omissions, each a 'separate and distinct departure from the standard of care.' Rule is from the statute text directly — not from judicial gloss.",
+        "files": ["statutory_anchor.md", "provenance.json"],
+        "status": "STATUTE_ANCHORED — case law applying §2234(c) exists in Medical Board OAH decisions and appellate review; specific citations pending verification"
+      }
+    ]
+  },
+  "cross_refs_path": "cross_refs/refs.json",
+  "historical_chain_path": "historical_chain.md",
+  "operational_notes_for_steward_cases": {
+    "spine_surgery_fraud": {
+      "case_reference": "Case #11 — 11-21 Spine Surgery Fraud",
+      "board_complaint_grounds": [
+        "§2234(b) gross negligence: performing surgery that was medically unnecessary = extreme departure from standard of care",
+        "§2234(c) repeated negligent acts: (1) inadequate pre-op workup, (2) unnecessary procedure, (3) false documentation",
+        "§2234(f) fraudulent acts: if surgery was performed for financial motives without medical indication; false billing for procedures not performed"
+      ],
+      "evidence_needed": [
+        "Complete operative report",
+        "Pre-operative workup records (imaging, consultation notes)",
+        "Billing records showing procedures billed vs. procedures documented",
+        "Any prior complaints against the surgeon in DCA BreEZe",
+        "Independent expert review of operative indication"
+      ],
+      "coordination": "File Board complaint parallel to civil suit. Hrimnak escape removes MICRA caps for the civil case; §2234(f) fraudulent acts grounds the Board complaint in the same fraud theory."
+    },
+    "sirva_case": {
+      "case_reference": "Case #12 — SIRVA (04-22 Shoulder)",
+      "board_complaint_grounds": [
+        "§2234(b) gross negligence: if injection was administered to clearly incorrect anatomical location = extreme departure",
+        "§2234(c) repeated acts: if facility has documented pattern of SIRVA complaints from same vaccinators"
+      ],
+      "evidence_needed": [
+        "Vaccine administration record showing injection site",
+        "Post-injection treatment records documenting SIRVA diagnosis",
+        "VAERS report (if filed)",
+        "Any other SIRVA complaints against same facility/provider"
+      ]
+    },
+    "checklist_before_filing_board_complaint": [
+      "Look up physician NPI at nppes.cms.hhs.gov",
+      "Check existing discipline at search.dca.ca.gov (BreEZe)",
+      "Gather medical records (request under H&S §123110 — free first copy for malpractice cases)",
+      "Identify the specific §2234 subsection(s) applicable",
+      "Note dates of all complained-of conduct (§2234(c) requires two separate acts)",
+      "File online at https://www.mbc.ca.gov/complaints/ with supporting records"
+    ]
+  },
+  "outstanding_work": [
+    "Verbatim capture of current §2234 text from B&P Code",
+    "Identify and verify specific appellate citations for §2234(b) extreme-departure standard — search DCA OAH published decisions and courts of appeal §1094.5 writ reviews",
+    "Identify and verify specific appellate citations for §2234(c) repeated-acts standard — same search path",
+    "Second-mouth witness review"
+  ],
+  "witness_status": "AWAITING_STEWARD_WITNESS"
+}

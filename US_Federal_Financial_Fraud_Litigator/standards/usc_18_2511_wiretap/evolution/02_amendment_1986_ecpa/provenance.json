@@ -1,0 +1,10 @@
+{
+  "stage": "02_amendment_1986_ecpa",
+  "source": "Electronic Communications Privacy Act of 1986 (ECPA), Pub. L. 99-508, 100 Stat. 1848",
+  "signed": "1986-10-21",
+  "wound_addressed": "1968 Act left cellular, email, pager, and all electronic communications unprotected; stored communications had no protection at all",
+  "design": "Added 'electronic communication' to Wiretap Act; created Stored Communications Act (§§2701-2712) for stored communications; established interception vs. storage distinction",
+  "key_boundary": "Wiretap Act = real-time interception during transmission; SCA = accessing stored communications after storage",
+  "verbatim_capture_status": "PENDING",
+  "build_date": "2026-04-11"
+}

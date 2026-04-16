@@ -1,0 +1,38 @@
+{
+  "standard_id": "evid_1521_secondary_evidence_rule",
+  "citizen": "CA_Forensic_Document_Specialist",
+  "build_date": "2026-04-13",
+  "primary_source": {
+    "statute": "California Evidence Code § 1521",
+    "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1521.&lawCode=EVID",
+    "fetch_method": "mcp__claude_ai_VernenLegal__california_get_section",
+    "verified": true,
+    "fetch_date": "2026-04-13",
+    "verification_note": "Live fetch via VernenLegal MCP — text confirmed against leginfo.legislature.ca.gov"
+  },
+  "supporting_sources": [
+    {
+      "citation": "OXY Resources California LLC v. Superior Court (2004) 115 Cal.App.4th 874",
+      "type": "case_law",
+      "verified": "training_knowledge",
+      "steward_verify": false,
+      "note": "Leading CA case applying §1521 secondary evidence rule — discretion standard confirmed"
+    },
+    {
+      "citation": "Omychund v. Barker (1744)",
+      "type": "historical",
+      "verified": "training_knowledge",
+      "steward_verify": false,
+      "note": "English common law antecedent — best evidence rule origin"
+    },
+    {
+      "citation": "California Evidence Code, Stats. 1965, ch. 299",
+      "type": "legislative_history",
+      "verified": "training_knowledge",
+      "steward_verify": false,
+      "note": "Original Evidence Code enactment"
+    }
+  ],
+  "chain_of_custody": "EVID §1521 fetched live via VernenLegal MCP → statute_text.md written → rule.md drafted from text → reasoning.md drafted from reform history → historical_chain built from training knowledge of 1965-1967 Evidence Code enactment → cross_refs built with ${citizens} anchors → hash computed → provenance.json written → manifest.json pending",
+  "steward_verification_queue": []
+}

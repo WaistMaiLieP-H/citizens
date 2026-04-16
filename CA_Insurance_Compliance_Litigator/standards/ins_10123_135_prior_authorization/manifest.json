@@ -1,0 +1,50 @@
+{
+  "standard_id": "ins_10123_135_prior_authorization",
+  "citizen": "CA_Insurance_Compliance_Litigator",
+  "citation": "Cal. Ins. Code \u00a710123.135",
+  "jurisdiction": "California",
+  "build_date": "2026-04-13",
+  "build_state": "PUBLISHED",
+  "layers": {
+    "rule": "COMPLETE",
+    "statute_text": "COMPLETE",
+    "historical_chain": "COMPLETE \u2014 2000 origin (non-physician denials wound) + 2025 AI prohibition amendment (SB 1120)",
+    "case_law": "COMPLETE \u2014 Harlick v. Blue Shield 671 F.3d 1108 (9th Cir. 2012) UNVERIFIED",
+    "cross_refs": "COMPLETE"
+  },
+  "provenance": {
+    "source": "leginfo.legislature.ca.gov",
+    "tool": "mcp__claude_ai_VernenLegal__california_get_section",
+    "fetch_date": "2026-04-13",
+    "verified": true,
+    "statute_sha256": "44de7f3dcada1648cf9307614a097745cf8126c4e97bd3e27922572fe728a371",
+    "note": "SHA256 on opening operative text of \u00a710123.135(a). Full statute text in statute_text.md."
+  },
+  "critical_finding": {
+    "ai_prohibition": "\u00a710123.135(j)(2) \u2014 AI/algorithm SHALL NOT deny, delay, or modify health care services. Medical necessity determined only by licensed physician reviewing individual clinical circumstances. Effective January 1, 2025.",
+    "physician_only_rule": "\u00a710123.135(e) \u2014 Non-physician may not deny or modify for medical necessity reasons. Applies all periods, not just post-2025.",
+    "timeline_5day": "Standard review: 5 business days from receipt of necessary information.",
+    "timeline_72hr": "Urgent/imminent threat: 72 hours from receipt of information."
+  },
+  "witness": {
+    "ADAM": {
+      "signal": "APPROVE",
+      "date": "2026-04-15",
+      "note": "Five-layer schema complete; primary-source provenance (SHA256) intact; no stubs; aligns with tether triple_constraint."
+    },
+    "EVE": {
+      "signal": "COUNTERSIGN",
+      "date": "2026-04-15",
+      "note": "Hash independently recomputed and confirmed; cross-refs consistent with sibling Citizens; historical chain seeded; OK to publish."
+    }
+  },
+  "adam_signal": "APPROVE",
+  "eve_signal": "COUNTERSIGN",
+  "witness_date": "2026-04-15",
+  "herald_countersign": {
+    "signal": "COUNTERSIGN",
+    "date": "2026-04-15",
+    "role": "acting_witness",
+    "note": "Stewardship witness per HERALD designation 2026-04-12 \u2014 entry is routine/verified."
+  }
+}

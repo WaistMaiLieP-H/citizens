@@ -1,0 +1,35 @@
+{
+  "_schema": "five-layer cross-reference block",
+  "references": [
+    {
+      "target": "${citizens}/CA_Civil_Litigator/standards/ccp_340_5/manifest.json",
+      "relationship": "Companion MICRA provision. §340.5 is the SOL; §3333.2 is the damages cap. Both were enacted together in 1975 as Ch. 1, 2d Ex. Sess. §340.5 canonical build lives in CA_Civil_Litigator and is cross-referenced here (not rebuilt).",
+      "build_status": "PROPOSED-WITNESSED"
+    },
+    {
+      "target": "${citizens}/CA_Medical_Malpractice_Litigator/standards/civ_3333_1/manifest.json",
+      "relationship": "Sister MICRA damages provision. §3333.1 abrogates the collateral source rule in medical malpractice cases. §3333.2 caps noneconomic damages. Together they define the MICRA damages regime.",
+      "build_status": "QUEUED"
+    },
+    {
+      "target": "${citizens}/CA_Medical_Malpractice_Litigator/standards/ccp_364/manifest.json",
+      "relationship": "Companion procedural provision. §364 requires 90-day pre-suit notice before commencing a MICRA action. Tolls §340.5 SOL by 90 days if notice is served within the last 90 days of the limitations period.",
+      "build_status": "QUEUED"
+    },
+    {
+      "target": "${citizens}/CA_Medical_Malpractice_Litigator/standards/bpc_6146/manifest.json",
+      "relationship": "Attorney fee sliding-scale cap. Amended by AB 35 in parallel with §3333.2 to permit 25% of recoveries over $600,000 (up from 15%), making plaintiff representation more economically viable.",
+      "build_status": "QUEUED"
+    },
+    {
+      "target": "${citizens}/CA_Civil_Litigator/standards/ccp_425_13/manifest.json",
+      "relationship": "Punitive damages pleading control for healthcare provider defendants. Any punitive damages claim against a health care provider must be added via §425.13 motion showing substantial probability of prevailing.",
+      "build_status": "NOT_YET_QUEUED"
+    },
+    {
+      "target": "${citizens}/CA_Medical_Malpractice_Litigator/standards/sirva_doctrine/manifest.json",
+      "relationship": "SIRVA case law. SIRVA claims are professional negligence for administration (subject to §3333.2 cap) but may involve fraudulent concealment claims (outside cap).",
+      "build_status": "IN_PROGRESS_THIS_SESSION"
+    }
+  ]
+}

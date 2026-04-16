@@ -1,0 +1,17 @@
+{
+  "citizen": "CA_Probate_Conservatorship_Litigator",
+  "standard_id": "wic_5350_lps_conservatorship",
+  "citation": "Cal. Welf. & Inst. Code § 5350",
+  "popular_name": "LPS Conservatorship — Lanterman-Petris-Short Act",
+  "jurisdiction": "California",
+  "code": "WIC",
+  "section": "5350",
+  "build_state": "PUBLISHED",
+  "verified": true,
+  "fetch_method": "mcp__claude_ai_VernenLegal__california_get_section",
+  "fetch_date": "2026-04-13",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=5350.&lawCode=WIC",
+  "build_date": "2026-04-13",
+  "steward": "Michael Hartmann",
+  "witness": "ADAM+EVE"
+}

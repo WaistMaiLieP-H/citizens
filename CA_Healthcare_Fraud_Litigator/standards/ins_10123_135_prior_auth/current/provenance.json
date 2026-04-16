@@ -1,0 +1,25 @@
+{
+  "standard_id": "INS_10123_135_PRIOR_AUTH",
+  "primary_source": "Cal. Ins. Code \u00a7 10123.135",
+  "verified": true,
+  "source_note": "\u00a710123.135 text fetched via VernenLegal leginfo MCP tool, 2026-04-12. Key subdivisions (a)(b)(c)(e)(h)(j)(k) operative as stated. The AI/algorithm provision (\u00a710123.135(j)) reflects recent amendment \u2014 verify current subdivision numbering at leginfo.",
+  "enactment_history": [
+    "Original \u00a710123.135 enacted 1999 \u2014 establishing physician-only denial rule, timeline requirements, criteria disclosure",
+    "Multiple amendments 1999-2022 strengthening requirements",
+    "AI/algorithm prohibition (\u00a710123.135(j)) added by recent California legislative amendment \u2014 effective date varies by amendment; verify current effective date"
+  ],
+  "key_cases": [
+    {
+      "case": "Sarchett v. Blue Shield of California",
+      "citation": "43 Cal.3d 1 (1987)",
+      "role": "Pre-\u00a710123.135 bad faith standard; insurer must investigate before denying; precedent that arbitrary denial without clinical review is tortious"
+    },
+    {
+      "case": "Wilson v. Blue Cross of Southern California",
+      "citation": "222 Cal.App.3d 660 (1990)",
+      "role": "Bad faith denial of medically necessary inpatient care resulting in wrongful death; insurer's non-clinical cost-based denial is actionable"
+    }
+  ],
+  "verification_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=10123.135.",
+  "fetch_date": "2026-04-12"
+}

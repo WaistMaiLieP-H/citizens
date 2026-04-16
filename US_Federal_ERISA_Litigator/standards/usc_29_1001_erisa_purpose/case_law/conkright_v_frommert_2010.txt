@@ -1,0 +1,12 @@
+Conkright v. Frommert
+559 U.S. 506 (2010)
+United States Supreme Court, 2010
+
+FACTS:
+A pension plan made an error in interpreting its own terms when calculating benefits for rehired employees. The district court, finding a fiduciary breach, applied de novo review rather than deferring to the plan administrator's interpretation. The question was whether the plan administrator's discretion survived after the initial interpretation error.
+
+HOLDING — 29 U.S.C. § 1001 / § 1132:
+The Supreme Court held that ERISA's goal of uniform benefit plan administration, grounded in § 1001's congressional purpose, favors giving plan administrators a second opportunity to apply their discretion correctly after being corrected by a court. Courts should remand to the plan administrator for reconsideration rather than substitute their own judgment. § 1001's emphasis on stable, uniform plan administration supports a strong presumption of deference to plan administrator interpretations.
+
+SIGNIFICANCE:
+Establishes the tension between § 1001's participant protection purpose and § 1001's plan administration stability purpose. While ERISA aims to protect participants, it also aims to make pension plans administratively workable by giving fiduciaries deference in plan interpretation. The case is cited for the proposition that courts should respect plan procedures and give administrators opportunities to correct errors — balanced against the participant protection that must ultimately prevail.

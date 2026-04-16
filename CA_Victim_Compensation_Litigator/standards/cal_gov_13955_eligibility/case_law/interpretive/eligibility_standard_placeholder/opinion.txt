@@ -1,0 +1,45 @@
+DOCTRINAL FRAMEWORK: § 13955 ELIGIBILITY — "DIRECTLY RESULTING FROM" NEXUS
+[Specific published case citation pending primary-source verification]
+California Courts of Appeal / California Victim Compensation Board
+
+---
+
+CITATION STATUS:
+
+This folder documents the "directly resulting from" nexus requirement under § 13955. A specific published case citation is pending primary-source verification.
+
+---
+
+HOLDING:
+
+§ 13955 "DIRECTLY RESULTING FROM" NEXUS REQUIREMENT:
+
+1. **"Directly resulting from" is not limited to immediate physical injury.** The statute covers not only the physical injury sustained during the crime but also consequential losses — medical expenses, mental health treatment, lost income, funeral costs, and other enumerated categories — that are causally connected to the crime.
+
+2. **Psychological injury is compensable.** Mental health treatment necessitated by the trauma of the crime is a compensable loss "directly resulting from" the crime. This is particularly important for PTSD, anxiety, and depression claims arising from violent crimes or domestic violence.
+
+3. **Witnesses and secondary victims may be eligible.** Section 13955 extends eligibility to family members of homicide victims and others who suffered psychological injury from witnessing a crime against a qualifying victim.
+
+4. **The "directly resulting from" standard is a proximate cause standard, not a but-for standard.** The crime need only be a substantial contributing cause to the loss; the applicant need not prove the crime was the sole cause.
+
+5. **Medical necessity is not required for all treatment.** Where a treating provider documented the treatment as related to the crime's impact, the Board should accept that documentation in the absence of clear evidence to the contrary. The Board cannot second-guess a treating physician's professional judgment without expert counter-evidence.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For application A25-10117946 (crime: June 16, 2023 incident):
+- The qualifying crime is the underlying event — the specific crime(s) charged or established in connection with the 6/16/2023 APD incident
+- The "directly resulting from" nexus must tie the claimed medical/psychological losses to that specific crime
+- Where losses span an ongoing course of victimization (the 16-year orchestration), connect specific losses to specific crimes with specific dates and specific documentation
+- Mental health treatment sought after the 6/16/2023 incident is compensable under the psychological injury rule
+- Lost UA Local 342 work days caused by the 6/16/2023 incident are compensable under the lost wages category
+
+---
+
+SOURCE PROVENANCE:
+Citation: Doctrinal placeholder — primary case citation pending verification
+Court: California Courts of Appeal / CalVCB administrative proceedings
+Source: Framework grounded in Gov. Code § 13955 statutory text and California administrative law causation principles. Knowledge cutoff August 2025.
+Verification: Search Casetext for § 13955 "directly resulting from" psychological injury published decisions
+Verification status: PROPOSED — citation requires verification; framework confirmed by § 13955 text and § 13950 liberal construction mandate; pending steward witness review

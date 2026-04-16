@@ -1,0 +1,14 @@
+{
+  "case": "Adams v. Murakami",
+  "note_on_folder_name": "Folder was created with placeholder name 'american_airlines_v_sheppard_2002' during the batch mkdir; the actual case being documented here is Adams v. Murakami (1991) 54 Cal.3d 105. Rename pending.",
+  "reporter_citation": "54 Cal.3d 105",
+  "parallel_citations": ["284 Cal.Rptr. 318", "813 P.2d 1348"],
+  "decided": "1991-08-19",
+  "court": "Supreme Court of California",
+  "opinion_author": "Justice David Eagleson (unanimous)",
+  "statute_construed": "California Civil Code § 3294 (financial-condition evidence procedural rule)",
+  "status": "Binding authority, still controlling. The cornerstone of California punitive-damages trial practice. Cited in CCP § 3295, Rutter punitive damages practice guide, Witkin.",
+  "opinion_text_source": "Not yet captured. To be retrieved from law.justia.com/cases/california/supreme-court/3d/54/105.html",
+  "captured_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "captured_at_utc": "2026-04-10T20:15:00Z"
+}

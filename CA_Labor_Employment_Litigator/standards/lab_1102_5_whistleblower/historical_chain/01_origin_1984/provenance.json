@@ -1,0 +1,16 @@
+{
+  "standard_id": "lab_1102_5_whistleblower",
+  "layer": "historical_chain",
+  "subdirectory": "01_origin_1984",
+  "primary_source": "Cal. Lab. Code \u00a7 1102.5",
+  "enactment": "Stats. 1984, Ch. 1538",
+  "key_amendments": [
+    "2003 \u2014 internal reporting protected",
+    "Stats. 2013, Ch. 781 \u2014 anticipated disclosure protection; family member protection; $10K per-violation penalty added"
+  ],
+  "current_form_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1102.5.&lawCode=LAB",
+  "verified": true,
+  "fetch_method": "VernenLegal MCP california_get_section",
+  "fetch_date": "2026-04-12",
+  "chronicle_flag": false
+}

@@ -1,0 +1,21 @@
+{
+  "standard_id": "MONELL_DOCTRINE",
+  "cross_references": [
+    {
+      "target_standard": "42_USC_1983",
+      "relationship": "parent statute — Monell doctrine interprets §1983's 'person' to include municipalities; all Monell claims are §1983 claims",
+      "build_status": "BUILT"
+    },
+    {
+      "target_standard": "GOV_CODE_815_2",
+      "relationship": "state counterpart — §815.2 respondeat superior is the California alternative to Monell policy-or-custom for entity liability. §815.2 is easier to prove.",
+      "target_citizen": "CA_Civil_Rights_Litigator",
+      "build_status": "BUILT"
+    },
+    {
+      "target_standard": "42_USC_1988",
+      "relationship": "fee provision — prevailing plaintiffs in Monell claims recover fees under §1988",
+      "build_status": "BUILT"
+    }
+  ]
+}

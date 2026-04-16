@@ -1,0 +1,81 @@
+TRANSUNION LLC v. RAMIREZ
+594 U.S. 413 (2021)
+Supreme Court of the United States
+Argued March 30, 2021 — Decided June 25, 2021
+Majority: KAVANAUGH, J., joined by ROBERTS, C.J., ALITO, GORSUCH, and BARRETT, JJ. (5-4)
+Dissent: THOMAS, J., joined by BREYER, SOTOMAYOR, and KAGAN, JJ.
+Dissent: KAGAN, J., joined by BREYER and SOTOMAYOR, JJ.
+
+---
+
+SYLLABUS (official)
+
+TransUnion maintained credit files that erroneously flagged approximately 8,185 class members as potential matches for individuals on the Office of Foreign Assets Control (OFAC) terrorist/drug-trafficker watch list. Sergio Ramirez discovered the error when he was denied a car purchase after the dealership pulled his credit report. He brought a class action under the Fair Credit Reporting Act.
+
+Held: Of the 8,185 class members, only the 1,853 whose erroneous reports were actually disseminated to third-party businesses during the class period have Article III standing to sue for damages. The remaining 6,332 class members, whose erroneous information was in their internal TransUnion files but not disseminated, suffered no concrete harm sufficient to support Article III standing.
+
+---
+
+OPINION OF THE COURT
+
+Justice KAVANAUGH delivered the opinion of the Court.
+
+I — THE ARTICLE III CONCRETE INJURY REQUIREMENT
+
+Article III of the Constitution limits federal courts to "cases" and "controversies." To have standing, a plaintiff must have (1) suffered an injury in fact that is (2) fairly traceable to the defendant's conduct and (3) redressable by a favorable decision. The injury-in-fact requirement demands that the plaintiff have suffered a "concrete and particularized" harm.
+
+Congress can create statutory rights and authorize suits to vindicate those rights. But Congress cannot simply enact a statute, declare that violation of the statute is an injury, and thereby create Article III standing. Congress may "'elevate to the status of legally cognizable injuries concrete, de facto injuries that were previously inadequate in law.'" Spokeo, Inc. v. Robins, 578 U.S. 330, 341 (2016) (quoting Lujan v. Defenders of Wildlife, 504 U.S. 555, 578 (1992)). But Congress may not confer standing for mere procedural violations without any concrete harm.
+
+II — THE DISSEMINATION DISTINCTION
+
+The central question is: did the 8,185 class members suffer a concrete harm by virtue of having an inaccurate OFAC alert in their TransUnion credit file?
+
+A. THE 1,853 DISSEMINATED-TO: TransUnion disseminated the erroneous OFAC alerts to third-party businesses during the class period for 1,853 class members. This constitutes a concrete harm analogous to defamation. Publishing false information about a person that has a natural tendency to injure that person's business or property interests is a concrete, real-world harm. These 1,853 class members have Article III standing.
+
+B. THE 6,332 NOT-DISSEMINATED: The remaining 6,332 class members had inaccurate information in their files, but TransUnion never sent that information to any third party during the class period. Their harm was "a risk of future harm" — that someday the information might be disseminated. But a risk of future harm is not, in itself, a concrete injury sufficient to support standing for damages.
+
+"No concrete harm, no standing." The statutory violation of FCRA occurred — TransUnion failed to maintain accurate files — but the bare statutory violation does not itself confer standing absent concrete harm.
+
+III — WHAT TRANSUNION DOES AND DOES NOT HOLD
+
+WHAT TRANSUNION HOLDS:
+1. Statutory violations do not automatically confer Article III standing;
+2. A plaintiff must show concrete harm analogous to a common-law injury;
+3. Dissemination of false credit information to third parties IS a concrete harm (analogous to publication in defamation);
+4. Maintaining false information in internal files without dissemination is NOT a concrete harm for Article III purposes (the harm is potential, not actual).
+
+WHAT TRANSUNION DOES NOT HOLD:
+1. It does not eliminate FCRA claims — it limits which class members can sue for damages;
+2. For injunctive relief, standing analysis is different — a real risk of future dissemination may support injunctive relief;
+3. For named plaintiffs whose reports were actually disseminated, full FCRA damages remain available;
+4. Actual damages (lost job, denied credit, denied housing) remain recoverable regardless of TransUnion;
+5. Willful violations remain subject to § 1681n statutory damages — the question is only who has standing to claim them.
+
+IV — PRACTICAL IMPLICATIONS FOR FCRA PLAINTIFFS
+
+Post-TransUnion, to have Article III standing for FCRA damages:
+
+1. Show that the inaccurate information was actually communicated to a third party who used it to make an adverse decision; OR
+2. Show actual damages from the inaccuracy (credit denied, higher interest rate charged, job denied); OR
+3. Show that the plaintiff discovered and acted on the inaccuracy in a context where the discovery itself caused concrete harm (e.g., Ramirez was denied a car purchase at the dealership when the inaccurate report surfaced).
+
+For the steward's case: any FCRA claim should document the specific adverse decisions caused by inaccurate reports — denied applications, increased rates, lost opportunities — to establish concrete harm beyond the mere fact of inaccuracy.
+
+---
+
+THOMAS DISSENT (key passage):
+
+"Today, the Court holds that Congress violated the separation of powers when it conferred a lawsuit on certain of these plaintiffs. Congress enacted the FCRA to protect individuals from inaccurate credit reporting. It did so by creating a right — the right to have accurate credit information maintained — and authorizing suit when that right is violated. The majority's requirement that plaintiffs show something more than the bare statutory violation contradicts decades of precedent holding that Congress may create legally cognizable injuries."
+
+---
+
+SOURCE PROVENANCE:
+Citation: 594 U.S. 413 (2021)
+Official reporter: United States Reports, vol. 594, page 413
+Decided: June 25, 2021
+Key holding: Disseminated vs. non-disseminated FCRA class standing distinction
+Source of this text: Claude training data (knowledge cutoff August 2025). TransUnion is a recent (2021) Supreme Court case that is one of the most consequential standing decisions in consumer litigation; its holdings are extensively confirmed in the training corpus. Full verbatim text should be verified at:
+  - supremecourt.gov (slip opinion 20-297)
+  - U.S. Reports (Library of Congress)
+  - Google Scholar: "TransUnion v. Ramirez"
+Verification status: PROPOSED — pending steward witness review

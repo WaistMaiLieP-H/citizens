@@ -1,0 +1,68 @@
+PEARSON v. CALLAHAN
+555 U.S. 223 (2009)
+United States Supreme Court
+Decided: January 21, 2009
+
+---
+
+FACTS:
+
+Utah police officers received a tip from an informant that Afton Callahan was selling drugs. The informant made a controlled buy inside Callahan's trailer home. Based on the informant's signal, officers immediately entered the trailer without a warrant, relying on the "consent-once-removed" doctrine — the theory that once an undercover informant (to whom Callahan had consented to enter) had gained access, officers could follow without a separate warrant or additional consent.
+
+The Tenth Circuit had found the warrantless entry unconstitutional and denied qualified immunity. The Supreme Court reversed on the qualified immunity question — not because the entry was constitutional, but because the constitutional question did not need to be decided.
+
+---
+
+HOLDING:
+
+Justice Alito wrote for a unanimous Court.
+
+OVERRULING SAUCIER'S MANDATORY ORDER OF BATTLE:
+Saucier v. Katz (2001) had required courts to answer two questions in sequence:
+1. Did the officer violate a constitutional right?
+2. Was the right clearly established at the time?
+
+If Step 1 was "no violation," the court stopped. If Step 1 was "yes, violation," the court then had to ask whether the right was clearly established.
+
+Saucier's mandatory sequencing was intended to develop constitutional law by requiring courts to decide constitutional questions even when qualified immunity would result in the same outcome for the defendant.
+
+PEARSON ABANDONED MANDATORY SEQUENCING:
+"[W]e conclude that, while the sequence set forth there is often appropriate, it should no longer be regarded as mandatory. The judges of the district courts and the courts of appeals should be permitted to exercise their sound discretion in deciding which of the two prongs of the qualified immunity analysis should be addressed first in light of the circumstances in the particular case at hand."
+
+Courts may now:
+- Skip the constitutional question entirely and rule solely on "clearly established"
+- Or address the constitutional question first (Saucier's preferred path)
+
+THE PRACTICAL EFFECT:
+Courts routinely use Pearson to grant qualified immunity without deciding whether the conduct was unconstitutional. This creates the perverse outcome that constitutional rights can be violated with impunity indefinitely — because if courts never decide the constitutional question, the right can never become "clearly established."
+
+This effect is sometimes called the "qualified immunity catch-22": Courts won't deny immunity without a prior case saying the conduct is unconstitutional, but courts use Pearson to avoid deciding whether the conduct is unconstitutional, so the right never becomes clearly established.
+
+---
+
+RESPONSE TO PEARSON IN LITIGATION:
+
+Plaintiffs' strategy to overcome Pearson:
+1. Argue the constitutional violation is "obvious" under Taylor v. Riojas (2020) — no specific prior case needed when the violation would have been obvious to any reasonable officer
+2. Point to existing precedent that is "particularized enough" to give "fair warning" even if not factually identical
+3. Argue the court should address the constitutional question (Saucier sequencing) because the facts present important constitutional questions worthy of resolution
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For the § 1983 federal complaint:
+1. Expect defendants to invoke Pearson to seek immunity dismissal without judicial decision on whether the conduct was unconstitutional
+2. Response: Cite Taylor v. Riojas — certain constitutional violations (e.g., housing an inmate in feces-covered cell; here, the obvious targeting of a parent through false reports) are so obviously unconstitutional that no specific prior case is required
+3. Force the court to address constitutional questions by framing the complaint around conduct that is clearly unconstitutional under multiple existing precedents — making the constitutional question easy to answer "yes" before reaching "clearly established"
+
+---
+
+SOURCE PROVENANCE:
+Citation: 555 U.S. 223 (2009)
+Court: United States Supreme Court
+Reporter: United States Reports, vol. 555, page 223
+Author: Alito, J. (unanimous)
+Source of this text: Claude training data (knowledge cutoff August 2025). Pearson v. Callahan eliminated Saucier's mandatory order of battle, allowing courts to grant qualified immunity without ever deciding if the conduct was unconstitutional.
+Verification: CourtListener / Justia / Google Scholar: "Pearson v. Callahan 555 U.S. 223"
+Verification status: PROPOSED — pending steward witness review

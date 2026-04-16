@@ -1,0 +1,68 @@
+{
+  "citizen_id": "US_Federal_Housing_Litigator",
+  "version": "1.0",
+  "status": "OPERATIONAL",
+  "build_date": "2026-04-13",
+  "operational_date": "2026-04-13",
+  "steward": "Michael Hartmann",
+
+  "path_anchors": {
+    "citizens": "/home/vernenlegal/citizens",
+    "familylaw": "/home/vernenlegal/FamilyLaw",
+    "nonfamilylaw": "/home/vernenlegal/NonFamilyLaw"
+  },
+
+  "blueprints_inherited": ["ADAM", "EVE"],
+  "triple_constraint": {
+    "governing_guidelines": "42 USC §§3604/3613/3617 (Fair Housing Act); 34 USC §12491 (VAWA housing protections); Cal. Gov. Code §§12955/12989.1/12989.2 (FEHA housing anti-discrimination); Cal. Civ. Code §§1102/1102.3 (Transfer Disclosure Statement)",
+    "standards_of_creation": "Five-layer bar; no stubs; ADAM+EVE dual witness; CA statutes verified via VernenLegal MCP live fetch; federal statutes verified=false pending uscode.house.gov confirmation",
+    "standard_of_care": "Housing discrimination and fraudulent real estate transactions deny shelter, extract equity, and destroy the largest asset most families will ever own. When the mechanism is conservatorship control, document fraud, or identity manipulation, the victim may not know the loss is occurring until the proceeds are gone."
+  },
+
+  "bound_standards": [
+    "civ_1102_tds_scope",
+    "fha_3604_prohibited_acts",
+    "gov_12955_feha_housing_discrimination",
+    "gov_12989_feha_housing_remedies",
+    "vawa_12491_housing_protections"
+  ],
+
+  "cases_covered": [
+    "honeysuckle_2958_equity_fraud_case_19",
+    "hillbergmann_deed_fraud_case_19",
+    "vawa_housing_butsaya_displacement"
+  ],
+
+  "boundary_rules": {
+    "ca_real_estate_attorney_owns": "BPC §10176 broker misconduct; title insurance; recording mechanics; escrow; Civ §1624 statute of frauds; Civ §§1572/3294 transactional fraud remedies",
+    "ca_elder_law_owns": "WIC §15610.30 undue influence; elder financial abuse through housing transactions",
+    "ca_probate_owns": "Conservatorship as consent-deprivation mechanism for the Honeysuckle sale",
+    "ca_forensic_document_owns": "19 unsigned documents authentication; TDS authentication; EVID §§1400/1402",
+    "this_citizen_owns": "FEHA housing anti-discrimination (GOV §12955); FHA federal track (42 USC §§3604/3613/3617); VAWA housing protections (34 USC §12491); TDS disclosure obligations (CIV §§1102/1102.3); CA FEHA civil enforcement and remedies (GOV §§12989.1/12989.2)"
+  },
+
+  "cross_citizen_refs": {
+    "CA_Real_Estate_Attorney": "BPC §10176 broker misconduct; title insurance; Civ §1572 fraud — transactional mechanics layer",
+    "CA_Elder_Law_Litigator": "WIC §15610.30 undue influence in real estate transactions",
+    "CA_Probate_Conservatorship_Litigator": "Conservatorship mechanism enabling Honeysuckle sale without consent",
+    "CA_Forensic_Document_Specialist": "19 unsigned documents; TDS document authentication",
+    "US_Federal_Financial_Fraud_Litigator": "Wire fraud predicate in real estate disbursement; 18 USC §1344 mortgage fraud"
+  },
+
+  "steward_verify_queue": [
+    "42 USC §3604 — uscode.house.gov → Title 42 → Chapter 45 → §3604 (fha_3604_prohibited_acts; verified=false at build)",
+    "42 USC §3613 — uscode.house.gov → Title 42 → §3613 (fha_3613_civil_enforcement; verified=false at build)",
+    "42 USC §3617 — uscode.house.gov → Title 42 → §3617 (fha_3617_coercion; verified=false at build)",
+    "34 USC §12491 — uscode.house.gov → Title 34 → §12491 (vawa_12491_housing; verified=false at build)",
+    "Fair Housing Council of San Fernando Valley v. Roommates.com (9th Cir. 2008) 521 F.3d 1157 — verify citation",
+    "Meyer v. Holley (2003) 537 U.S. 280 — verify citation",
+    "Jue v. Smiser (1994) 23 Cal.App.4th 312 — TDS non-disclosure — verify",
+    "Burnett v. Chimney Sweep (2004) 123 Cal.App.4th 1057 — FEHA housing §12955 — verify"
+  ],
+
+  "terminal": "B",
+  "all_standards_published": true,
+  "chronicle_flags": [
+    "FHA historical chain includes redlining and racially restrictive covenants — CHRONICLE-eligible content in historical_chain layer; document fully with CHRONICLE flag"
+  ]
+}

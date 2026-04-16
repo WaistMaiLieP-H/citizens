@@ -1,0 +1,17 @@
+{
+  "standard": "gov_12989_feha_housing_remedies",
+  "layer": "current",
+  "source": "VernenLegal MCP — mcp__claude_ai_VernenLegal__california_get_section",
+  "code": "GOV",
+  "sections": ["12989.1", "12989.2"],
+  "fetch_date": "2026-04-13",
+  "verified": true,
+  "verification_method": "Live fetch from leginfo.legislature.ca.gov via VernenLegal MCP tool",
+  "notes": [
+    "§12989.1: civil action, 2-year SOL, no exhaustion required, tolling during CRD proceeding, conciliation agreement bar",
+    "§12989.2: actual + punitive damages, injunction/TRO, attorney's fees (discretionary prevailing party), expert witness fees, state-agency offset",
+    "§12981 cross-referenced in §12989.2 — not fetched; §12981 is DFEH civil action track"
+  ],
+  "built_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "built_at_utc": "2026-04-13T00:00:00Z"
+}

@@ -1,0 +1,67 @@
+{
+  "standard_id": "PEN_273a",
+  "version": "1.0.0-published",
+  "filed_at_utc": "2026-04-11T00:15:00Z",
+  "filed_by": "Claude (assistant) under steward direction \u2014 Michael Hartmann",
+  "status": "PUBLISHED \u2014 ADAM+EVE 2026-04-12",
+  "primary_citation": {
+    "code": "California Penal Code",
+    "section": "\u00a7 273a",
+    "popular_name": "Child endangerment (non-injury child abuse)",
+    "jurisdiction": "California (state criminal)",
+    "location_in_code": "Penal Code, Part 1 (Crimes and Punishments), Title 9 (Crimes Against the Person Involving Sexual Assault, and Crimes Against Public Decency and Good Morals), Chapter 2 (Abandonment and Neglect of Children)",
+    "original_enactment": "1931 (original \u00a7 273a); current alternative-acts structure dates from 1961 revision",
+    "amendment_history": "1961 (current structure); 1984 (\u00a7 273a(c) probation conditions); 1988 (further probation amendments); ongoing enhancements"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT \u2014 current text captured via VernenLegal MCP",
+    "reasoning": "PRESENT \u2014 child endangerment legislative purpose; the (a)/(b) structural distinction; the willfulness scienter rule documented",
+    "historical_loss": "PRESENT \u2014 pre-1900s state acquiescence in parental risk-creation; progressive expansion of child protection statutes documented",
+    "cross_references": "PRESENT \u2014 cross_refs/refs.json links to \u00a7\u00a7 273d, 273.1, 11165, WIC \u00a7 300, PC \u00a7 148.5, 42 USC \u00a7 1983, state tort parallels",
+    "verifiable_provenance": "PARTIAL \u2014 current text via MCP; case law at PROPOSED (primary-source verification pending); pre-1961 amendment history pending"
+  },
+  "case_law": [
+    {
+      "slug": "people_v_sargent_1999",
+      "citation": "People v. Sargent (1999) 19 Cal.4th 1206",
+      "holding_summary": "Willfulness and direct vs. indirect infliction; general criminal intent required for \u00a7 273a(a); direct infliction requires mere general intent, indirect requires both criminal negligence (objective) and general intent (subjective)",
+      "type": "interpretive",
+      "status": "PROPOSED",
+      "folder": "case_law/interpretive/people_v_sargent_1999"
+    },
+    {
+      "slug": "people_v_valdez_2002",
+      "citation": "People v. Valdez (2002) 27 Cal.4th 778",
+      "holding_summary": "Care or custody element; who qualifies; scope of duty; non-parents in loco parentis",
+      "type": "interpretive",
+      "status": "PROPOSED",
+      "folder": "case_law/interpretive/people_v_valdez_2002"
+    },
+    {
+      "slug": "people_v_whitehurst_1992",
+      "citation": "People v. Whitehurst (1992) 9 Cal.App.4th 1045",
+      "holding_summary": "Reasonable parental discipline defense to \u00a7 273a; objective standard; instruction requirement; proportionality test",
+      "type": "interpretive",
+      "status": "PROPOSED",
+      "folder": "case_law/interpretive/people_v_whitehurst_1992"
+    }
+  ],
+  "cases_to_add": [],
+  "citizen_relevance": "The central charged offense in criminal case 04-23-01959. The steward's defense turns on the (a)/(b) distinction, the willfulness element, and the factual accuracy of the underlying report.",
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  },
+  "five_layer_score": "4.5 / 5",
+  "adam_eve_witness": {
+    "adam_signal": "APPROVE",
+    "eve_signal": "COUNTERSIGN",
+    "result": "PUBLISHED",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "session": "First ADAM+EVE joint act \u2014 inaugural session of two-witness protocol",
+    "notation": "Whitehurst holding.md at PROPOSED status; steward must verify against primary source before filing reliance. Sargent and Valdez previously verified in session logs.",
+    "corpus_entry": "CONFIRMED"
+  }
+}

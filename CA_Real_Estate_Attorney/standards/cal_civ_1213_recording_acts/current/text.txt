@@ -1,0 +1,25 @@
+# Civil Code § 1213 — Constructive Notice from Recorded Instruments
+
+## Verbatim Text (Current — post-1989 amendment)
+
+Every conveyance of real property or an estate for years therein acknowledged or proved and certified and recorded as prescribed by law from the time it is filed with the recorder for record is constructive notice of the contents thereof to subsequent purchasers and mortgagees; and a certified copy of such a recorded conveyance may be recorded in any other county and when so recorded the record thereof shall have the same force and effect as though it was of the original conveyance and where the original conveyance has been recorded in any county wherein the property therein mentioned is not situated a certified copy of the recorded conveyance may be recorded in the county where such property is situated with the same force and effect as if the original conveyance had been recorded in that county.
+
+*(Amended by Stats. 1989, Ch. 698, Sec. 1.)*
+
+---
+
+## Source
+
+California Legislative Information (leginfo.legislature.ca.gov)
+Captured: 2026-04-12
+SHA-256: [pending — run sha256sum on leginfo source file]
+
+## Key structural elements
+
+1. **Recording gives constructive notice** — from the moment of filing, the recorded instrument is constructive notice to all subsequent purchasers and mortgagees.
+
+2. **No actual knowledge required** — a subsequent purchaser is charged with constructive notice of a recorded instrument whether or not they actually searched the title.
+
+3. **County-to-county certification** — certified copies of recorded instruments from another county can be recorded in the county where the property is located with full legal effect.
+
+4. **The race-notice system** — § 1213 works together with §§ 1214-1220 to create California's race-notice recording system: a subsequent bona fide purchaser for value without notice who records first takes free of prior unrecorded interests.

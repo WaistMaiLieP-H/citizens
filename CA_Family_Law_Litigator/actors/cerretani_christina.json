@@ -1,0 +1,131 @@
+{
+  "actor_id": "cerretani_christina",
+  "canonical_name": "Christina Marie Cerretani",
+  "aliases": [
+    "Christina Marie Hartmann (during marriage 2009-2010)",
+    "Christina Hartmann",
+    "Christina Cerretani"
+  ],
+  "do_not_confuse_warning": "'Cappellini' appearing on the 2010 FL-100 is an OCR scan artifact, NOT a real prior name",
+  "role": "Opposing party (former spouse, current opposing party in family-court matters)",
+  "personal_identity": {
+    "dob": "1984-08-23 (some filings show 1988)",
+    "address_clusters": [
+      "San Francisco \u2014 732 Divisadero, 428 Ellsworth",
+      "Benicia \u2014 801 Southampton Rd #28"
+    ]
+  },
+  "documented_pattern": {
+    "summary": "16-year pattern of conduct as documented across 317 case-file documents in 3 review periods 2009-2025; the originally documented abuser per Alameda County Sheriff report 09-011438 (2/15/2009)",
+    "origin_event": {
+      "date": "2009-02-15",
+      "report": "Alameda County Sheriff 09-011438",
+      "facts": "Christina slapped Michael in the face while he held their infant son Cole",
+      "her_status": "Suspect S-1",
+      "her_demeanor_recorded": "apologetic",
+      "outcome": "No charges filed despite SHE being the documented suspect"
+    },
+    "counter_filing_playbook": {
+      "description": "Every restraining order or criminal incident against her triggers a counter-DV filing within 2-3 weeks",
+      "instances": [
+        "2009-06-08 TRO against her \u2192 2009-06-26 her counter DV-100 (18 days)",
+        "2025-05-15 Michael's DV-100 \u2192 2025-06-04 her counter DV-100 in Alameda 25FL125059 (20 days)",
+        "2025-07-13 Ann Hillberg hands Cole to her \u2192 2025-07-17 her DVRO in Marin FL0002067 (4 days, different jurisdiction)"
+      ]
+    },
+    "custody_history": {
+      "summary": "Has held lawful custody of Cole for less than 90 days out of his entire ~17-year life",
+      "details": "From 6/29/2009 court order through 7/17/2025 Marin DVRO, custody was Father's. The Marin DVRO is the only window in which she has it."
+    },
+    "statutory_failure_pattern_in_her_filings": [
+      "Civ. Code \u00a7 1633.7 \u2014 signatures not valid/attributable",
+      "Evidence Code \u00a7 1401 \u2014 exhibits and attachments fail authentication",
+      "CCP \u00a7 2015.5 \u2014 declarations missing penalty-of-perjury language",
+      "CCP \u00a7 1005(b) \u2014 motions filed without proper notice timing (15 failures in 2025 range alone)",
+      "Welfare & Institutions Code \u00a7 5150 \u2014 psychiatric hold standards referenced without basis",
+      "Penal Code \u00a7 11166 \u2014 child abuse allegations without mandatory cross-reporting",
+      "POST DV Response Guidelines \u2014 recurring violations",
+      "Penal Code \u00a7\u00a7 836(c) / 13701 \u2014 felony DV alleged in reports she generated, no arrest documented (post-2026-04-07 overlay rule)"
+    ],
+    "narrative_escalation_by_year": {
+      "2009": "DV only, no drugs, no child abuse",
+      "2010": "Adds: bruises on Cole, nutritional neglect, flight risk, drug history (from age 18)",
+      "2025": "Adds: meth, stalking, firearms, kidnapping risk, animal abuse, technology abuse, DV shelter"
+    },
+    "the_2009_06_11_fabrication_finding": {
+      "date_added_to_pattern": "2026-04-07",
+      "summary": "The 2009-06-11 OPD report (09-040089) is the document where Christina frames the TRO and 5150 evaluation as Michael 'calling police and saying I was suicidal'",
+      "real_event": "The actual 5150 incident happened ~6/2/2009 after Christina pulled a 10-inch kitchen knife. Michael called 911 from down the street with factual details only. 1 officer + 2 EMTs responded. Officer gave Christina ultimatum: hand over Cole or it would be taken; either way 72-hour eval. She handed Cole over and went. Was out and messaging Michael within ~3 hours.",
+      "the_evidentiary_finding": "In October 2025 Michael picked up OPD records \u2014 only 2 reports exist for the entire situation. The 6/2/2009 5150 incident report is NOT among them. It is missing or was never written.",
+      "the_6_11_report_post_violations": [
+        "Walk-up civil standby intake (POST forbids) \u2014 POST-002A overlay rule",
+        "Single phone call attempt to Michael (primarily to confirm availability)",
+        "Felony abuse allegation forwarded to DA on single-party statement without arrest attempt \u2014 PC \u00a7 836(c) violation",
+        "POST-002B overlay rule (felony DV without arrest) catches this report",
+        "Real civil standby on a different unrecalled date had officer-segregation (Michael ordered to wait at curb, Christina stole property)"
+      ]
+    },
+    "she_does_not_act_alone": [
+      "2010-04-09: Her FL-100 filed same day as Ann Marie Packard's GC-220 grandparent visitation petition",
+      "2025-07-13 to 2025-07-17: Ann Hillberg handed Cole to her 4 days before Marin DVRO filed",
+      "Maternal-female-relative pairing is a recurring operational signature"
+    ],
+    "the_load_bearing_pattern": "This isn't a bitter ex-spouse using family court. This is a 16-year operation that uses fabricated or selectively-curated police records as the load-bearing beam under every custody and restraining-order action. The 14-year silence between 2010 and 2024 (no filings of her own during years she had no custody and no RO against Michael) confirms her court activity is reactive and instrumental, not chronic."
+  },
+  "case_involvement": [
+    {
+      "case_number": "RF09456481",
+      "role": "Respondent",
+      "date_range": "2009-2010+"
+    },
+    {
+      "case_number": "RF09459897",
+      "role": "Petitioner (counter-DV)",
+      "date": "2009-06-26"
+    },
+    {
+      "case_number": "RF09470833",
+      "role": "Respondent",
+      "date": "2009-08"
+    },
+    {
+      "case_number": "RF10508853",
+      "role": "Petitioner (ex parte dissolution)",
+      "date": "2010-04-09"
+    },
+    {
+      "case_number": "25FL125059",
+      "role": "Petitioner (counter-DV 2025)",
+      "date": "2025-06-04"
+    },
+    {
+      "case_number": "FL0002067",
+      "role": "Petitioner (Marin DVRO)",
+      "date": "2025-07-17"
+    }
+  ],
+  "risk_level": "OPPOSING PARTY",
+  "outstanding_investigations": [
+    {
+      "id": "christina_2009_06_02_incident",
+      "question": "Where is the 6/2/2009 5150 incident report? It is not in OPD records per October 2025 pickup.",
+      "unblock": "Cross-check Alameda County Sheriff records and Oakland Fire / EMS records (the 2 EMTs would have generated their own report)"
+    },
+    {
+      "id": "christina_dob_discrepancy",
+      "question": "Why do some filings show DOB 1988 instead of 1984?",
+      "unblock": "Compare birth certificate against filings"
+    },
+    {
+      "id": "christina_civil_capacity",
+      "question": "Does Christina herself have any conservatorship, capacity issue, or third-party-control structure that would explain the pattern?",
+      "unblock": "Probate court docket searches across counties"
+    }
+  ],
+  "source_citations": [
+    "/home/vernenlegal/.claude/projects/-home-vernenlegal/memory/project_christina_pattern.md",
+    "/home/vernenlegal/.claude/projects/-home-vernenlegal/memory/project_christina_custody_history.md",
+    "/home/vernenlegal/.claude/projects/-home-vernenlegal/memory/project_familylaw_orchestration.md"
+  ],
+  "filed_at_utc": "2026-04-08T18:05:00Z"
+}

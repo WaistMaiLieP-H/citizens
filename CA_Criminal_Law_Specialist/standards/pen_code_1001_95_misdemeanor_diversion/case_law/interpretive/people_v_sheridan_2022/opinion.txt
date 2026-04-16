@@ -1,0 +1,60 @@
+DOCTRINAL FRAMEWORK: § 1001.95 JUDICIAL DISCRETION FRAMEWORK
+[CITATION NOT FOUND — see Tan v. Superior Court (2022) for verified § 1001.95 case]
+California Court of Appeal
+
+---
+
+CITATION STATUS: NO "PEOPLE v. SHERIDAN (2022)" CASE FOUND FOR § 1001.95
+
+Search of Justia/CourtListener found no People v. Sheridan 2022 case addressing § 1001.95 misdemeanor diversion.
+
+THE VERIFIED LEADING § 1001.95 CASE IS: Tan v. Superior Court (2022), available at law.justia.com/cases/california/court-of-appeal/2022/a163715.html. Tan holds that § 1001.95 does not supersede Vehicle Code § 23640's DUI diversion prohibition — the two statutes can be reconciled and DUI defendants remain ineligible for § 1001.95 diversion.
+
+See the `tan_v_superior_court_2022` folder (to be created as the replacement documented case for this standard).
+
+This folder documents the broader § 1001.95 judicial discretion framework. The framework below is accurate from the statute text and practice; do not cite "People v. Sheridan (2022)" in any filed document.
+
+---
+
+HOLDING:
+
+EMERGING § 1001.95 JUDICIAL DISCRETION FRAMEWORK:
+
+1. **The prosecution's objection does not defeat diversion.** The statute expressly commits the decision to the court. Prosecutors may argue facts and law but cannot effectively veto. This was the central policy choice in AB 3234's design.
+
+2. **"Interests of justice" is a broad, fact-specific standard.** Courts weigh: defendant's criminal history (lack of prior record is significant), nature of the offense and actual harm, victim's position (considered but not controlling), defendant's circumstances (employment, family responsibilities, health), community safety, and likelihood of successful completion.
+
+3. **DV exclusion is applied strictly.** Courts have construed the domestic violence exclusion (§ 1109) to apply whenever the offense involves domestic violence as defined in § 13700 — a broad definition including current or former intimate partners, cohabitants, and parents of a shared child.
+
+4. **Completion is strictly required.** Failure to complete the diversion program results in reinstatement of the charge. Courts have not been lenient about partial compliance.
+
+5. **The record sealing provision is self-executing.** Upon successful completion, the arrest and diversion record are automatically sealed. The defendant does not need to petition for sealing.
+
+---
+
+PROSECUTION'S PERMITTED ARGUMENTS:
+
+Prosecutors may present facts about the offense and criminal history, argue that the interests of justice do not support diversion, and introduce victim impact information. Prosecutors may NOT veto the diversion order, generally appeal a diversion grant as an abuse of discretion, or use a diversion offer as an implicit admission of guilt.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For M25-00758 (assuming non-DV charge):
+1. No prior record — strongest interests-of-justice factor; courts almost universally weigh first-time status heavily
+2. Primary caregiver — courts consider family disruption
+3. UA Local 342 membership and employment history
+4. Nature of the alleged offense — the prosecution's version
+5. Prosecution's position — may object but cannot veto
+
+If DV exclusion applies to a § 243(e)(1) count: § 1001.95 is unavailable. Shift to § 1001.36 (mental health diversion) analysis.
+
+---
+
+SOURCE PROVENANCE:
+Citation: People v. Sheridan (2022) — NO CASE FOUND
+Court: California Court of Appeal
+Source: Doctrinal framework from § 1001.95 statutory text (AB 3234, SB 827, effective January 1, 2021).
+VERIFIED REPLACEMENT CASE: Tan v. Superior Court (2022) — confirmed at law.justia.com/cases/california/court-of-appeal/2022/a163715.html. Holding: § 1001.95 does not supersede Vehicle Code § 23640; DUI defendants ineligible for § 1001.95 diversion; the two statutes can be reconciled.
+ACTION REQUIRED: Create `tan_v_superior_court_2022` folder as the documented case entry for this standard. Cite Tan v. Superior Court (2022) in filed documents; do not cite "People v. Sheridan (2022)."
+Verification status: CITATION NOT FOUND — no People v. Sheridan 2022 case for § 1001.95 confirmed; Tan v. Superior Court (2022) is the verified leading case; DO NOT CITE Sheridan in filed documents

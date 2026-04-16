@@ -1,0 +1,70 @@
+PEOPLE v. HOLIFIELD
+205 Cal.App.3d 993 (1988)
+California Court of Appeal, Fourth Appellate District
+Decided: November 1988
+
+---
+
+FACTS:
+
+The defendant was convicted of domestic violence battery under § 243(e)(1). The relationship between the defendant and the victim was at issue — they had lived together for a short period in a motel arrangement, shared some expenses, had an intimate relationship, but had not been married, not been registered domestic partners, and did not share an established permanent residence. The defendant argued on appeal that "cohabiting" required a more substantial or permanent living arrangement.
+
+---
+
+HOLDING:
+
+THE HOLIFIELD MULTI-FACTOR COHABITATION TEST:
+
+Whether two persons are "cohabiting" under § 243(e)(1) depends on the totality of six factors — no single factor is dispositive:
+
+1. **Sexual relations between the parties while sharing the same residence**
+2. **Sharing of income or expenses**
+3. **Joint use or ownership of property**
+4. **The parties holding themselves out as husband and wife** (modern courts apply this broadly as "domestic partners")
+5. **The continuity of the relationship**
+6. **The length of the relationship**
+
+The court expressly rejected a narrow definition requiring a traditional or permanent living arrangement. The statute's protective purpose — reaching violence in intimate partner contexts that share the dynamics of DV — required a flexible definition capturing non-traditional living arrangements.
+
+---
+
+WHY HOLIFIELD IS LOAD-BEARING:
+
+Holifield is the standard authority cited in every § 243(e)(1) case where the cohabitation element is contested. Its multi-factor test has been followed by every subsequent Court of Appeal decision and applied to:
+- Short-term live-in relationships
+- Motel or temporary accommodations
+- Arrangements where the parties retained separate primary residences
+- Dating relationships with partial cohabitation
+- LGBTQ+ relationships
+
+The flexibility of the Holifield factors means prosecutors can charge § 243(e)(1) in a wide range of intimate partner contexts. Defendants must usually attack multiple factors to defeat the cohabitation element.
+
+---
+
+DEFENSE STRATEGY UNDER HOLIFIELD:
+
+To defeat the cohabitation element, attack as many factors as the facts permit:
+1. **Dispute sexual relations** — if no sexual relationship, factor 1 fails
+2. **Dispute shared residence** — if separate primary residences, the "sharing the same residence" factor fails
+3. **Dispute expense sharing** — if finances kept entirely separate, factor 2 fails
+4. **Dispute property overlap** — no joint property, no shared household goods
+5. **Dispute duration** — a very brief relationship (single overnight) is unlikely to satisfy continuity or length factors
+6. **Dispute holding-out** — parties never presented themselves as domestic partners
+
+Even failing on individual factors, the defense can argue the totality does not rise to "cohabiting" — particularly when the relationship is casual, transient, or primarily transactional.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Any DV battery allegations in the Hartmann history should be analyzed for cohabitation under the Holifield factors. The analysis provides a structured framework: (1) shared residence at the relevant time? (2) expenses shared? (3) joint property? (4) continuous relationship? (5) length? (6) public presentation as domestic partners? Applied to the specific facts of any given alleged DV event, this framework identifies which elements the prosecution can prove and which the defense can challenge.
+
+---
+
+SOURCE PROVENANCE:
+Citation: People v. Holifield (1988) 205 Cal.App.3d 993, 252 Cal.Rptr. 729
+Court: California Court of Appeal, Fourth Appellate District
+Reporter: California Appellate Reports, Third Series, vol. 205, page 993
+Source: Knowledge cutoff August 2025. Still the leading authority on cohabitation under § 243(e)(1). Cited in CALCRIM 840 and 841.
+Verification: Casetext / Google Scholar: "People v. Holifield 205 Cal.App.3d 993"
+Verification status: PROPOSED — pending steward witness review

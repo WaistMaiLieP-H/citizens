@@ -1,0 +1,81 @@
+{
+  "standard_id": "USC_5_552A_PRIVACY_ACT",
+  "citizen": "US_Federal_Financial_Fraud_Litigator",
+  "version": "1.0.0",
+  "status": "PROPOSED",
+  "primary_citation": "5 U.S.C. §552a (Privacy Act of 1974, Pub. L. 93-579, 88 Stat. 1896, effective 1975-09-27)",
+  "short_title": "Privacy Act — Federal Agency Records: Access, Amendment, and Civil Remedy",
+  "one_line_rule": "Federal agencies must maintain accurate records and cannot disclose them without consent; individuals may access and amend their records, and sue for actual damages when agency failures cause adverse determinations or intentional privacy invasions.",
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current/LOGIC.md",
+    "reasoning": "PRESENT — current/LOGIC.md §§ WOUND + DESIGN + evolution stages",
+    "historical_loss": "PRESENT — historical_chain.md + evolution/ (3 stages)",
+    "cross_references": "PRESENT — cross_refs/refs.json (4 references)",
+    "verifiable_provenance": "PRESENT — current/provenance.json + evolution provenances; verbatim text capture PENDING"
+  },
+  "evolution_chain": [
+    {
+      "stage": "01_origin_1974",
+      "label": "Privacy Act of 1974 Enacted",
+      "source": "Pub. L. 93-579, 88 Stat. 1896",
+      "logic_file": "evolution/01_origin_1974/LOGIC.md"
+    },
+    {
+      "stage": "02_amendment_1988_computer_matching",
+      "label": "Computer Matching and Privacy Protection Act",
+      "source": "Pub. L. 100-503, 102 Stat. 2507",
+      "logic_file": "evolution/02_amendment_1988_computer_matching/LOGIC.md"
+    },
+    {
+      "stage": "03_doe_v_chao_2004_actual_damages",
+      "label": "Doe v. Chao — 'Actual Damages' Requires Proof of Specific Loss",
+      "source": "Doe v. Chao, 540 U.S. 614 (2004)",
+      "logic_file": "evolution/03_doe_v_chao_2004_actual_damages/LOGIC.md"
+    }
+  ],
+  "case_law": [
+    {
+      "slug": "doe_v_chao",
+      "cite": "Doe v. Chao, 540 U.S. 614 (2004)",
+      "court": "Supreme Court of the United States",
+      "category": "interpretive",
+      "key_rule": "Plaintiff must prove actual damages for §552a(g)(1)(C) claim; adverse determination alone insufficient. §552a(g)(1)(D) $1,000 minimum floor does not require proving specific monetary harm when willfulness shown.",
+      "verbatim_capture_status": "PENDING"
+    },
+    {
+      "slug": "quinn_v_stone",
+      "cite": "Quinn v. Stone, No. 90-0412, 1991 WL 236996 (D.D.C. 1991); primary authority: Albright v. United States, 631 F.2d 915 (D.C. Cir. 1980)",
+      "court": "U.S. District Court D.D.C. (applying D.C. Circuit Albright standard)",
+      "category": "interpretive",
+      "key_rule": "'Intentional or willful' = agency knew action was wrongful OR acted with reckless disregard for whether action was wrongful. Negligent mistake or clerical error insufficient.",
+      "verbatim_capture_status": "PENDING"
+    }
+  ],
+  "case_applications": {
+    "ssa_dds_phantom_contacts": {
+      "track": "§552a(g)(1)(C) — failure to maintain accurate records causing adverse determination of disability benefits",
+      "false_records": "DDS contact dates 9/18/2019, 3/23/2020, 12/17/2020 — no contact occurred; SIM swap/communications fraud blocked all phone-based contact",
+      "adverse_determination": "Disability claim denial based on false contact records",
+      "actual_damages": "SSI/SSDI monthly payments × months of wrongful denial",
+      "also_available": "§552a(g)(1)(D) if false entries were intentional — $1,000 minimum + fees + costs",
+      "amendment_pathway": "§552a(d) demand + administrative appeal before civil action"
+    },
+    "treasury_savings_bonds": {
+      "track": "§552a(d) amendment + §552a(g)(1)(A) if amendment refused",
+      "violation": "Treasury records attribute bonds issued under Michael's SSN to 'another individual'",
+      "theory": "If SSN identity theft resulted in false ownership records in TreasuryDirect system, records are inaccurate; amendment demand = compel correction; if refused, civil action",
+      "also_available": "§552a(g)(1)(D) if disclosure to unauthorized third party was intentional"
+    }
+  },
+  "outstanding_work": [
+    "Verbatim text capture: 5 U.S.C. §552a full text (§§(a)-(u))",
+    "Verbatim opinion capture: Doe v. Chao, 540 U.S. 614",
+    "Verbatim opinion capture: Albright v. United States, 631 F.2d 915 (D.C. Cir. 1980)",
+    "Verify whether California DDS (state agency operating under federal SSA grant) is subject to federal Privacy Act or California IPA — research inter-governmental agency status",
+    "Add California IPA (Civ. Code §1798) as a separate standard in CA_Consumer_Protection_Litigator as the state analog",
+    "Identify SSA systems of records by name covering Michael's disability claim file (SSA-06, SSA-60, etc.) — verify current Federal Register notice",
+    "Second-mouth witness review of SSA/DDS application section"
+  ],
+  "build_date": "2026-04-11",
+  "built_by": "Terminal A"
+}

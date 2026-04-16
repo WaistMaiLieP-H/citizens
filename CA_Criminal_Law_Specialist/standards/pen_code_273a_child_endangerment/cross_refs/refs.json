@@ -1,0 +1,15 @@
+{
+  "standard": "pen_code_273a_child_endangerment",
+  "refs": [
+    {"type": "companion_statute", "target": "Pen. Code § 273d (corporal injury to child)", "relationship": "§ 273d reaches actual corporal injury; § 273a reaches endangerment/risk. The two are charged alternatively."},
+    {"type": "companion_statute", "target": "Pen. Code § 273.1 (child abuser treatment program standards)", "relationship": "§ 273a(c) probation conditions require treatment meeting § 273.1 criteria"},
+    {"type": "mandatory_reporter", "target": "Pen. Code § 11165 et seq. (Child Abuse and Neglect Reporting Act)", "relationship": "Mandated reporters trigger criminal investigation; § 273a charges often originate from § 11165 reports"},
+    {"type": "civil_parallel", "target": "Welf. & Inst. Code § 300 (dependency jurisdiction)", "relationship": "A child who is the subject of a § 273a prosecution is often simultaneously subject to dependency proceedings under WIC § 300"},
+    {"type": "defensive_counter", "target": "Pen. Code § 148.5 (false police report)", "relationship": "When the § 273a charges are based on fabricated or manipulated reports, § 148.5 is the defensive counter-theory against the reporter", "anchor": "${citizens}/CA_Criminal_Law_Specialist/standards/pen_code_148_5_false_police_report"},
+    {"type": "sol_rule", "target": "Pen. Code §§ 800 (3-year SOL for felonies), 802 (1-year SOL for misdemeanors)", "relationship": "§ 273a(a) felony has 3-year SOL; § 273a(b) misdemeanor has 1-year SOL"},
+    {"type": "civil_rights_crosslink", "target": "42 USC § 1983", "relationship": "If charges were brought in bad faith or based on fabricated evidence by state actors, § 1983 malicious prosecution claim available", "anchor": "${citizens}/US_Federal_Civil_Rights_Litigator/standards/42_usc_1983"},
+    {"type": "civil_tort_parallel", "target": "Malicious prosecution / false arrest / false imprisonment (state torts)", "relationship": "Parallel civil claims preserved independently of criminal outcome"},
+    {"type": "probation_enforcement", "target": "Pen. Code § 1203.1 (probation generally)", "relationship": "§ 273a(c) probation interacts with general § 1203.1 probation framework"}
+  ],
+  "generated_at_utc": "2026-04-11T00:15:00Z"
+}

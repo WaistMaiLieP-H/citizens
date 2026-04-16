@@ -1,0 +1,28 @@
+IN RE MARRIAGE OF MENA AND HAGAN
+[Court of Appeal, 2019 — verify citation via Westlaw/Lexis]
+California Court of Appeal, 2019
+
+FACTS:
+Dissolution proceeding where one parent left the family home with the child following
+incidents of domestic violence. The trial court used the parent's departure from
+the marital home as a factor weighing against that parent in the custody determination,
+reasoning that the parent had disrupted the child's stable living situation.
+
+HOLDING — CAL. FAM. CODE § 3046:
+The Court of Appeal reversed, holding that where the departure was caused by domestic
+violence by the other party, Family Code § 3046(a) prohibits the trial court from
+using that absence as a negative factor in the custody analysis. The court's use
+of the departure as evidence of parental instability was legal error requiring reversal.
+The proper inquiry is whether the departure was DV-caused, not whether the departure
+disrupted the child's routine.
+
+SIGNIFICANCE:
+Confirms that § 3046(a) operates as an evidentiary bar — trial courts commit reversible
+error when they count a DV-caused departure against the victim parent in the
+best-interest analysis. The ruling reinforces that stability arguments grounded
+in the victim's departure must be refused by the trial court once the DV nexus
+is established. In the steward's case, Christina's counter-filing pattern is designed
+to manufacture "departures" that look like instability; § 3046 + this holding
+forecloses that strategy.
+
+NOTE: Citation requires verification via Westlaw/Lexis before use in filed documents.

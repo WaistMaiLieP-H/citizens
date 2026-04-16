@@ -1,0 +1,19 @@
+{
+  "standard_id": "evid_1402_altered_writing_burden",
+  "citizen": "CA_Forensic_Document_Specialist",
+  "source_type": "statute",
+  "primary_source": "Cal. Evidence Code § 1402",
+  "fetch_method": "VernenLegal MCP — california_get_section (EVID, 1402)",
+  "fetch_date": "2026-04-13",
+  "verified": true,
+  "verification_note": "Live-fetched from leginfo.legislature.ca.gov via VernenLegal MCP. Full text returned. Single-paragraph section. §1401 also fetched and reproduced for companion reference.",
+  "secondary_sources": [
+    "Jazayeri v. Mao (2009) 174 Cal.App.4th 301 — §1402 applied; party cannot produce altered document and disclaim knowledge",
+    "In re Marriage of Cohn (1976) 65 Cal.App.3d 473 — documents in family law; fraud triggers heightened authentication scrutiny",
+    "Cal. Law Revision Commission Comments to §1402 — codification of common law altered-document burden"
+  ],
+  "historical_origin": "English chancery common law (pre-1965) → California common law → codified in 1965 Evidence Code (Stats. 1965, ch. 299), operative January 1, 1967",
+  "chronicle_flag": false,
+  "build_session": "2026-04-13",
+  "terminal": "Terminal B"
+}

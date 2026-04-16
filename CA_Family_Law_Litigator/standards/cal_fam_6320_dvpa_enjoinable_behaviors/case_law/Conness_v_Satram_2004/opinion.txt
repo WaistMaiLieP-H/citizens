@@ -1,0 +1,14 @@
+CONNESS v. SATRAM
+122 Cal.App.4th 197
+Court of Appeal, Sixth District, 2004
+
+FACTS:
+Patricia Conness sought a DVRO against Balbir Satram, a former dating partner. The trial court denied the DVRO, concluding that the conduct alleged — repeated unwanted contact, surveillance, and harassment — did not rise to the level of abuse under the DVPA. The court applied a narrow interpretation of § 6320's scope.
+
+HOLDING — FAMILY CODE § 6320:
+The Court of Appeal reversed, holding that the DVPA must be construed broadly and in favor of protection. The court stated: "The DVPA is remedial in nature. It is to be broadly construed." The court held that repeated unwanted contact, surveillance, and harassment collectively established enjoinable conduct under § 6320 even absent physical violence. Courts must consider the totality of the conduct, not evaluate each incident in isolation.
+
+The court confirmed that § 6320's list of enjoinable behaviors — including "harassing," "telephoning," and "disturbing the peace" — is disjunctive: any one category is sufficient grounds for a DVRO.
+
+SIGNIFICANCE:
+Conness establishes the broad-construction rule for § 6320 and is regularly cited for the proposition that each category of enjoinable conduct in § 6320(a) is independently sufficient to support a DVRO. The case is also important for its rejection of the "sticks and stones" approach: courts cannot dismiss non-physical harassment as insufficient. Any pattern meeting one of § 6320's enumerated categories warrants relief. This is foundational when arguing that a pattern of coordinated harassment — even through intermediaries — satisfies § 6320.

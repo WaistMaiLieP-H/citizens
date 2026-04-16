@@ -1,0 +1,15 @@
+{
+  "standard_id": "CA_CONST_ART_I_SEC_7",
+  "evolution_stage": "03_revision_1974_prop7",
+  "enacted_as": "California Constitution Article I, Section 7 (added by Proposition 7, November 5, 1974)",
+  "legislative_resolution": "Resolution Chapter 90, 1974",
+  "approved_by_voters": "1974-11-05",
+  "effective": "1974-11-05",
+  "source_description": "Text reconstructed from current leginfo text minus the 1979 Prop. 1 busing amendment language. The pre-1979 Section 7(a) contained only the first sentence: 'A person may not be deprived of life, liberty, or property without due process of law or denied equal protection of the laws.' All busing-related language in current 7(a) was added by Prop. 1 in 1979. Section 7(b) has never been amended since 1974.",
+  "reconstruction_method": "Subtraction: current leginfo text minus known 1979 Prop. 1 additions. The 1979 amendment added all language after the first sentence of subdivision (a). This reconstruction is consistent with the leginfo annotation: 'Subdivision (a) amended Nov. 6, 1979, by Prop. 1. Res.Ch. 18, 1979. Other Source: Entire Sec. 7 was added Nov. 5, 1974, by Prop. 7; Res.Ch. 90, 1974.'",
+  "primary_source_outstanding": "The original Proposition 7 ballot pamphlet (1974) would contain the complete text as submitted to voters. Available from California State Archives or Hastings Law Library ballot proposition archive.",
+  "text_file": "text.txt",
+  "diff_file": "diff_from_prior.md",
+  "fetch_timestamp_utc": "2026-04-09T06:30:00Z",
+  "retrieval_steward": "Claude (assistant) under steward direction — Michael Hartmann"
+}

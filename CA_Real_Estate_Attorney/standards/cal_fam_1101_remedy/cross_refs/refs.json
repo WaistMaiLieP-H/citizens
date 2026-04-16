@@ -1,0 +1,18 @@
+{
+  "standard": "cal_fam_1101_remedy",
+  "refs": [
+    {"type": "substantive_duty", "target": "Fam. Code § 1100(e)", "relationship": "Substantive fiduciary duty; § 1101 provides the remedy for its breach", "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_fam_1100_community_property"},
+    {"type": "general_fiduciary", "target": "Fam. Code § 721", "relationship": "General spousal fiduciary duty; § 1101(g) and (h) expressly reference § 721", "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_fam_721_spousal_fiduciary"},
+    {"type": "community_real_property", "target": "Fam. Code § 1102", "relationship": "Community real property consent requirement; § 1101 remedy applies to § 1102 violations", "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_fam_1102_community_real_property"},
+    {"type": "punitive_trigger", "target": "Civ. Code § 3294", "relationship": "§ 1101(h) 100% remedy triggered when breach meets § 3294(c) fraud/oppression/malice definitions", "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_civ_3294_punitive"},
+    {"type": "tort_parallel", "target": "Civ. Code § 1572 (actual fraud)", "relationship": "§ 1101 is the spousal claim; § 1572 is the tort claim against third parties; pleaded together"},
+    {"type": "sol", "target": "§ 1101(d)", "relationship": "3-year SOL from actual knowledge; no time limit if brought with dissolution or upon death"}
+  ],
+  "cases_to_add": [
+    "In re Marriage of Walker (2012) 203 Cal.App.4th 137 — already documented in cal_fam_1100",
+    "In re Marriage of Feldman (2007) 153 Cal.App.4th 1470 — disclosure duty scope",
+    "In re Marriage of Rossin (2009) 172 Cal.App.4th 725 — already documented in cal_fam_1100",
+    "In re Marriage of Margulis (2011) 198 Cal.App.4th 1252 — fiduciary duty breach"
+  ],
+  "generated_at_utc": "2026-04-11T05:40:00Z"
+}

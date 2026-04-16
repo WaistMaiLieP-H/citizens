@@ -1,0 +1,33 @@
+{
+  "standard_id": "evid_720_expert_qualification",
+  "citizen": "CA_Forensic_Document_Specialist",
+  "build_date": "2026-04-13",
+  "primary_source": {
+    "statute": "California Evidence Code § 720",
+    "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=720.&lawCode=EVID",
+    "fetch_method": "mcp__claude_ai_VernenLegal__california_get_section",
+    "verified": true,
+    "fetch_date": "2026-04-13",
+    "verification_note": "Live fetch via VernenLegal MCP — text confirmed against leginfo.legislature.ca.gov"
+  },
+  "supporting_sources": [
+    {
+      "citation": "California Evidence Code, Stats. 1965, ch. 299",
+      "type": "legislative_history",
+      "verified": "training_knowledge",
+      "steward_verify": false,
+      "note": "Original Evidence Code enactment — §720 codified common law expert qualification"
+    },
+    {
+      "citation": "Sargon Enterprises, Inc. v. University of Southern California (2012) 55 Cal.4th 747",
+      "type": "case_law",
+      "verified": "training_knowledge",
+      "steward_verify": true,
+      "note": "CA Supreme Court gatekeeping role for expert opinion basis — verify citation before filing"
+    }
+  ],
+  "chain_of_custody": "EVID §720 fetched live via VernenLegal MCP → statute_text.md written → rule.md drafted (five qualifying pathways, subject-specificity, Dr. Wiita three-layer attack) → reasoning.md drafted (historical loss of qualification gatekeeping) → historical_chain built from training knowledge of 1965 Evidence Code → cross_refs built with ${citizens} anchors → provenance.json written → manifest.json pending",
+  "steward_verification_queue": [
+    "Sargon Enterprises v. USC (2012) 55 Cal.4th 747 — confirm citation before any filing reliance"
+  ]
+}

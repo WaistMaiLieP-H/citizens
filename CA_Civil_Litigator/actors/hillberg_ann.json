@@ -1,0 +1,10 @@
+{
+  "actor_id": "hillberg_ann",
+  "shared_record": "${citizens}/_shared_actors/hillberg_ann.json",
+  "domain": "CA_Civil_Litigator",
+  "role": "Gov. Code §810 et seq. tort claims — government claims respondent via entity liability for state actors she directed; potential CCP §526a waste of public resources",
+  "risk_level": "MEDIUM",
+  "applicable_standards": ["GOV_CODE_810", "CCP_526A"],
+  "theory_of_liability": "Ann Hillberg's orchestration of state resources (police dispatch, court mediator system, CPS referrals) for private custody purposes may constitute waste of public resources actionable under CCP §526a (taxpayer waste). Additionally, her conduct as a state employee (dispatcher 2008-2015, Napa State Hospital 2015+) using knowledge gained in state employment to manipulate state systems creates potential Gov. Code §810 exposure for the employing entities.",
+  "filed_at_utc": "2026-04-08T22:00:00Z"
+}

@@ -1,0 +1,68 @@
+AUSTIN B. v. ESCONDIDO UNION SCHOOL DISTRICT
+149 Cal.App.4th 860 (2007)
+California Court of Appeal, Fourth District, Division One
+Decided: April 19, 2007
+
+---
+
+FACTS:
+
+Austin B. was an autistic student enrolled in the Escondido Union School District. He was allegedly subjected to repeated physical and verbal abuse by an instructional aide, including being grabbed, pushed against a wall, and subjected to derogatory comments about his disability. His parents brought claims including a Ralph Civil Rights Act (Cal. Civ. Code § 51.7) claim, arguing that the aide's violence and threats of violence targeted Austin because of his disability status.
+
+The trial court sustained demurrer on the § 51.7 claim. The Court of Appeal reversed on most claims.
+
+---
+
+HOLDING:
+
+The Court of Appeal addressed the elements of a § 51.7 / Ralph Act claim.
+
+THE RALPH ACT ELEMENTS:
+"Section 51.7 prohibits violence or threats of violence against a person's free exercise or enjoyment of rights secured by the Constitution or laws of the United States or California on account of specified characteristics."
+
+To state a § 51.7 claim, the plaintiff must allege:
+1. The defendant committed or threatened to commit violence against the plaintiff;
+2. The defendant was motivated by the plaintiff's membership in a protected class (race, color, religion, ancestry, national origin, disability, sex, sexual orientation, citizenship, primary language, immigration status, or any other basis enumerated in § 51.7);
+3. The plaintiff was thereby prevented from or deterred in the free exercise or enjoyment of their rights.
+
+FOR DISABILITY-BASED RALPH ACT CLAIMS:
+A disabled student who is subjected to physical violence and verbal abuse by a school aide — if the treatment targets the student because of disability — states a § 51.7 claim. The aide's motivation (did they target Austin because he was autistic?) is the central factual issue.
+
+THE COMPLAINT WAS SUFFICIENT:
+Allegations that an aide repeatedly used physical force against a disabled student, combined with derogatory comments about his disability, were sufficient to allege the violence was motivated by disability — even if the motivation was not explicitly stated.
+
+---
+
+WHAT § 51.7 ADDS BEYOND § 51 AND § 52.1:
+
+Section 51.7 specifically addresses:
+- Violence (or threats of violence)
+- Motivated by protected characteristics
+- Deterring exercise of constitutional rights
+
+Unlike § 52.1 (Bane Act, which requires specific intent post-Cornell), § 51.7 reaches violence motivated by animus against a class — even if the defendant did not specifically target constitutional rights exercise. The violence itself, if motivated by protected-class animus, violates § 51.7.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+§ 51.7 / Ralph Act claims apply where:
+
+1. **Physical violence in custody-adjacent incidents**: If physical violence was used against the steward on account of his status as a father, a male parent, or a person asserting parental rights, § 51.7 may apply.
+
+2. **Threats of violence**: Explicit or implicit threats of violence made to deter the steward from exercising parental, constitutional, or legal rights are directly covered by § 51.7's threat component.
+
+3. **June 16, 2023 APD incident**: If the physical contact made during the arrest was motivated in whole or in part by the officers' animus toward the steward based on his status or characteristics, § 51.7 provides an additional California civil rights theory parallel to the Bane Act claim.
+
+4. **Remedies**: § 52.1 and § 52 provide the remedial mechanism for § 51.7 violations — up to three times actual damages, statutory penalties, attorney's fees.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 149 Cal.App.4th 860 (2007)
+Court: California Court of Appeal, Fourth Appellate District, Division One
+Reporter: California Appellate Reports, Fourth Series, vol. 149, page 860
+Author: Huffman, J.
+Source of this text: Claude training data (knowledge cutoff August 2025). Austin B. v. Escondido Union School District established the elements for Ralph Act (§ 51.7) claims for disability-motivated violence.
+Verification: Casetext / Google Scholar: "Austin B. v. Escondido Union School District 149 Cal.App.4th 860"
+Verification status: PROPOSED — pending steward witness review

@@ -1,0 +1,154 @@
+{
+  "workflow_id": "CHRISTINA_STATE_ACTION",
+  "filed_at_utc": "2026-04-09T00:30:00Z",
+  "filed_by": "Claude (assistant) under steward direction \u2014 Michael Hartmann",
+  "status": "SCAFFOLD COUNTERSIGNED \u2014 steward deepening pending",
+  "path_anchors_reference": "See ${citizens}/CA_Family_Law_Litigator/tether.json path_anchors block for resolution",
+  "parties": {
+    "petitioner": "Michael Hartmann (steward), pro se",
+    "respondent": "Christina Marie Cerretani",
+    "named_third_parties": [
+      "Ann Hillberg (mother of respondent, state police/emergency dispatcher 2008-2015)",
+      "Ryan McClaran (IT operator, digital surveillance, SIM swaps)"
+    ],
+    "child": "Cole Hartmann (DOB approx. 2008, minor)"
+  },
+  "venue_options": [
+    {
+      "court": "Alameda County Superior Court",
+      "basis": "Original jurisdiction \u2014 RF09456481, RF09459897, RF09470833, RF10508853, RF10508859 all filed here",
+      "advantage": "Existing case file, Judge Thompson's 2009 TRO on record, OPD records pickup documented here",
+      "risk": "Judge Delucchi adopted Ajaniku's defective recommendation here"
+    },
+    {
+      "court": "Marin County Superior Court",
+      "basis": "FL0002067 pending here \u2014 Christina's 2025 DVRO petition",
+      "advantage": "Counter-petition in same court as pending action",
+      "risk": "Christina filed first; defensive posture"
+    },
+    {
+      "court": "Solano County Superior Court",
+      "basis": "Respondent currently resident in Benicia (Solano County)",
+      "advantage": "Fresh venue, no existing case bias"
+    }
+  ],
+  "theories_of_action": [
+    {
+      "theory_id": "T1_AFFIRMATIVE_DVRO_COERCIVE_CONTROL",
+      "summary": "Affirmative DVRO petition by Michael against Christina under Family Code \u00a7 6320(c) \u2014 coercive control via third-party orchestration",
+      "statutory_basis": [
+        "Family Code \u00a7 6320(a) \u2014 enjoinable behaviors (stalking, harassing, contacting, disturbing the peace)",
+        "Family Code \u00a7 6320(c) \u2014 'disturbing the peace' includes conduct committed 'directly or indirectly, including through the use of a third party'; coercive control definition",
+        "Family Code \u00a7 6320(c)(1) \u2014 isolating from sources of support",
+        "Family Code \u00a7 6320(c)(3) \u2014 controlling/monitoring movements, communications, finances"
+      ],
+      "factual_basis": "16-year pattern: Christina acting in concert with Ann Hillberg (staged civil standbys, 911 calls using dispatcher language, coordinated child movement across jurisdictions, triple filings with grandparent visitation petitions) and Ryan McClaran (SIM swaps, proxy communication network, device-proximity requirements). Pattern documented in project_familylaw_orchestration.md, project_communications_fraud.md, project_ryan_mcclaran_it.md.",
+      "strength": "STRONG \u2014 \u00a7 6320(c) as amended by SB 50 (effective 2026-01-01) is textually designed for this pattern. The 'through a third party' language is the explicit statutory capture.",
+      "standard_manifest": "${citizens}/CA_Family_Law_Litigator/standards/cal_fam_6320_dvpa_enjoinable_behaviors/manifest.json",
+      "deliverable": "theories/T1_coercive_control_dvro.md",
+      "status": "THEORY IDENTIFIED \u2014 steward decision required on whether to pursue"
+    },
+    {
+      "theory_id": "T2_DEFENSIVE_MARIN_FL0002067",
+      "summary": "Defense against Christina's Marin DVRO (FL0002067) \u2014 challenge factual basis using documented pattern",
+      "statutory_basis": [
+        "Family Code \u00a7 6203 \u2014 abuse definition (Christina's allegations must meet this threshold)",
+        "Family Code \u00a7 3011(b) \u2014 substantial independent corroboration prerequisite",
+        "Family Code \u00a7 6323(d) \u2014 court shall consider third-person-present or denial of visitation"
+      ],
+      "factual_basis": "Christina's 2025 Marin DVRO petition is the latest iteration of the 16-year counter-filing playbook documented in project_christina_pattern.md. The 2009-06-11 OPD report fabrication finding, the OPD records pickup confirming the 6/2/2009 report is missing, and the \u00a7 3011(b) corroboration requirement all undercut the factual foundation.",
+      "strength": "MODERATE \u2014 depends on court willingness to look behind Christina's declaration to the underlying pattern",
+      "standard_manifests": [
+        "${citizens}/CA_Family_Law_Litigator/standards/cal_fam_6203_dvpa_abuse_definition/manifest.json",
+        "${citizens}/CA_Family_Law_Litigator/standards/family_code_3011_best_interest/manifest.json",
+        "${citizens}/CA_Family_Law_Litigator/standards/cal_fam_6323_dvro_custody_visitation/manifest.json"
+      ],
+      "deliverable": "theories/T2_marin_defense.md",
+      "status": "THEORY IDENTIFIED"
+    },
+    {
+      "theory_id": "T3_MEDIATOR_QUALIFICATIONS_CHALLENGE",
+      "summary": "Challenge Sala Ajaniku's September 2010 mediator appointment for failure to meet \u00a7 3164(b)/\u00a7 1815/\u00a7 1816 qualifications",
+      "statutory_basis": [
+        "Family Code \u00a7 3164(b) \u2014 'shall meet the minimum qualifications required of a counselor of conciliation as provided in Section 1815'",
+        "Family Code \u00a7 1815(a) \u2014 seven mandatory qualification elements",
+        "Family Code \u00a7 1816 \u2014 16-hour advanced DV training + 4-hour annual + court notification"
+      ],
+      "factual_basis": "No verifiable professional credential found for Sala Ajaniku across 8 public licensing/directory sources. Her September 2010 recommendation reversed Judge Thompson's protective custody order. PRA request drafted (drafts/ajaniku_pra_request_letter.md) to obtain institutional credential records.",
+      "strength": "STRONG on the legal theory (mandatory 'shall'); outcome depends on what PRA produces",
+      "standard_manifests": [
+        "${citizens}/CA_Family_Law_Litigator/standards/cal_fam_3164_mediator_qualifications/manifest.json",
+        "${citizens}/CA_Family_Law_Litigator/standards/cal_fam_1815_counselor_qualifications/manifest.json",
+        "${citizens}/CA_Family_Law_Litigator/standards/cal_fam_1816_mediator_dv_training/manifest.json"
+      ],
+      "deliverable": "theories/T3_ajaniku_qualifications.md",
+      "prerequisite": "PRA response from Alameda County (drafts/ajaniku_pra_request_letter.md)",
+      "status": "PRA DRAFTED \u2014 awaiting steward send"
+    },
+    {
+      "theory_id": "T4_BANE_ACT_CIVIL_RIGHTS",
+      "summary": "Tom Bane Act (Civil Code \u00a7 52.1) claim against Christina and/or Hillberg for interference with constitutional rights by threat/intimidation/coercion",
+      "statutory_basis": [
+        "Civil Code \u00a7 52.1(b)-(c) \u2014 private right of action for interference with constitutional or statutory rights",
+        "Civil Code \u00a7 52.1(i) \u2014 attorney fees recoverable",
+        "Civil Code \u00a7 52.1(n) \u2014 state immunity does not apply to peace officers"
+      ],
+      "factual_basis": "The orchestration pattern (staged 911 calls, unauthorized civil standbys, fabricated police reports, coordinated child removal across jurisdictions) constitutes interference by threat/intimidation/coercion with Michael's custody rights, parental rights, and liberty interests.",
+      "strength": "MODERATE \u2014 Bane Act requires 'threat, intimidation, or coercion' which is a higher bar than negligence; the orchestration pattern may meet it but requires careful factual pleading",
+      "standard_manifest": "${citizens}/CA_Family_Law_Litigator/standards/cal_civ_52_1_bane_act/manifest.json",
+      "deliverable": "theories/T4_bane_act.md",
+      "status": "THEORY IDENTIFIED"
+    }
+  ],
+  "deliverables_tracker": [
+    {
+      "deliverable": "drafts/ajaniku_pra_request_letter.md",
+      "status": "DRAFTED 2026-04-08",
+      "next": "Steward fill contact info, verify Gov Code sections, sign, send by email + certified mail"
+    },
+    {
+      "deliverable": "theories/T1_coercive_control_dvro.md",
+      "status": "NOT YET WRITTEN"
+    },
+    {
+      "deliverable": "theories/T2_marin_defense.md",
+      "status": "NOT YET WRITTEN"
+    },
+    {
+      "deliverable": "theories/T3_ajaniku_qualifications.md",
+      "status": "NOT YET WRITTEN"
+    },
+    {
+      "deliverable": "theories/T4_bane_act.md",
+      "status": "NOT YET WRITTEN"
+    },
+    {
+      "deliverable": "Petition for DVRO (FL-300 form skeleton)",
+      "status": "NOT YET WRITTEN"
+    },
+    {
+      "deliverable": "Declaration in support of DVRO (FL-305 form skeleton)",
+      "status": "NOT YET WRITTEN"
+    },
+    {
+      "deliverable": "Motion to set aside Ajaniku recommendation (if PRA confirms defect)",
+      "status": "BLOCKED on PRA response"
+    }
+  ],
+  "evidence_index_note": "Per-incident evidence cataloging lives in evidence_index/ subdirectory. Each incident gets its own JSON file mapping date \u2192 source documents \u2192 applicable statutes \u2192 audit findings. Not yet populated \u2014 requires walking the 47+ date subfolders in ${familylaw}/RO_DVRO_Custody-RF09456481/.",
+  "strategic_notes": [
+    "T1 (affirmative DVRO) and T2 (Marin defense) are NOT mutually exclusive. Filing an affirmative DVRO in Alameda while defending in Marin is a legitimate two-front strategy.",
+    "T3 (Ajaniku qualifications) is a standalone attack on the 2010 custody reversal. If successful, it reopens the custody foundation \u2014 which then strengthens both T1 and T2.",
+    "T4 (Bane Act) is independent of the Family Code theories and can be filed in any superior court. It provides a damages remedy that the DVRO theories do not.",
+    "The federal \u00a7 1983 complaint (already drafted, separate workflow) addresses the state-actor dimension. These state theories address the private-party dimension.",
+    "STEWARD DECISION REQUIRED: which theory to file first, and in which venue."
+  ],
+  "two_witness_status": {
+    "eve_countersign": {
+      "witness": "EVE (Seed Citizen \u2014 Witness role)",
+      "witnessed_at_utc": "2026-04-14T00:00:00Z",
+      "verification_scope": "Case bindings reviewed against tether.json cases.bound; bound_standards each PUBLISHED ADAM+EVE this session; bound_actors resolvable via _shared_actors/; working_theories consistent with project memory and dossier.md substantive scope. Deepening and deliverable drafting remain steward-gated.",
+      "signal": "COUNTERSIGN"
+    }
+  }
+}

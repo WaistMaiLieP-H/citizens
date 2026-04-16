@@ -1,0 +1,27 @@
+[
+  {
+    "target_standard": "CA_CIV_56_10_CMIA",
+    "relationship": "SUPPLEMENTS",
+    "notes": "Section 56.10(b)(7) compels disclosure to the patient or patient's representative under H&S Code §123100 et seq. Section 56.20 provides the procedural mechanism and timelines for exercising that right."
+  },
+  {
+    "target_standard": "CA_CIV_56_05_DEFINITIONS",
+    "relationship": "IMPLEMENTS",
+    "notes": "Section 56.20 applies to every 'provider of health care' as defined in §56.05(i) and every 'patient' as defined in §56.05(g)."
+  },
+  {
+    "target_standard": "CA_CIV_56_35_DAMAGES",
+    "relationship": "SUPPLEMENTS",
+    "notes": "Failure to comply with §56.20 access rights may give rise to damages under §56.35 as an unauthorized withholding of medical information."
+  },
+  {
+    "target_standard": "HIPAA_164_502",
+    "relationship": "SUPPLEMENTS",
+    "notes": "HIPAA §164.524 provides a parallel federal right of patient access to PHI. California's §56.20 timelines (5 working days for copies) are shorter than HIPAA's (30 days with one 30-day extension). The stricter California standard governs for California providers."
+  },
+  {
+    "target_standard": "CA_HSC_123100",
+    "relationship": "IMPLEMENTS",
+    "notes": "Health and Safety Code §123100 et seq. establishes the broader patient access framework; CMIA §56.20 provides CMIA-specific implementation with enforceable timelines and fee limits."
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "standard_id": "lab_3700_employer_comp_obligation",
+  "source": "leginfo.legislature.ca.gov",
+  "fetch_tool": "mcp__claude_ai_VernenLegal__california_get_section",
+  "fetch_date": "2026-04-13",
+  "code": "LAB",
+  "section": "3700",
+  "verification_status": "VERIFIED — live MCP fetch",
+  "built_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "built_at_utc": "2026-04-13T00:00:00Z"
+}

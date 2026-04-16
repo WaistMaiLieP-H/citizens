@@ -1,0 +1,16 @@
+{
+  "evolution_stage": "01_origin_1987",
+  "standard_id": "CAL_FAM_1101",
+  "description": "1987 enactment of first statutory remedy for breach of spousal fiduciary duty (Civ. Code § 5125.1)",
+  "enacted_by": "Stats. 1987, ch. 128 (SB 1030)",
+  "effective_date": "1987-07-01",
+  "source": "California Statutes 1987, Chapter 128; California Civil Code § 5125.1 (original text)",
+  "primary_source_url": "https://leginfo.legislature.ca.gov/",
+  "retrieval_method": "Historical legal research — requires primary source verification against 1987 California Statutes ch. 128",
+  "verification_status": "REQUIRES_PRIMARY_SOURCE_VERIFICATION",
+  "verification_note": "Stats. 1987, ch. 128 at California State Archives. Also see: Senate Judiciary Committee analysis of SB 1030 (1987), available from California State Archives Bill Files. Family Code § 1101(d)(4) itself provides a clue: 'Except as to actions authorized by paragraph (2), remedies under subdivision (a) apply only to transactions or events occurring on or after July 1, 1987.' This confirms the original effective date.",
+  "html_sha256": null,
+  "fetch_timestamp": "2026-04-11T00:00:00Z",
+  "fetch_tool": "historical research",
+  "retrieval_steward": "Claude (assistant) under steward direction — Michael Hartmann"
+}

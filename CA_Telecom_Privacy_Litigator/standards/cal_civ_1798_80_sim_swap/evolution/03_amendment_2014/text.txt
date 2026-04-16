@@ -1,0 +1,16 @@
+AB 1710 (Chapter 784, Statutes of 2014) — Reasonable Security Mandate
+
+Key additions:
+
+§ 1798.81.5 (as amended by AB 1710):
+"A business that owns, licenses, or maintains personal information about a California resident shall implement and maintain reasonable security procedures and practices appropriate to the nature of the personal information, to protect the personal information from unauthorized access, destruction, use, modification, or disclosure."
+
+Critical operative addition (AB 1710):
+"A business that discloses personal information about a California resident pursuant to a contract with a nonaffiliated third party shall require by contract that the third party implement and maintain reasonable security procedures and practices appropriate to the nature of the information, to protect the personal information from unauthorized access, destruction, use, modification, or disclosure."
+
+Also added: § 1798.82 was amended to add "login credentials" (username and password; security questions and answers) to the definition of "personal information."
+
+Why this matters:
+AB 1710's addition of "login credentials" to personal information directly reaches SIM swap attacks. A SIM swap gives attackers access to phone-based two-factor authentication, which is a "login credential" under the expanded definition. A carrier that permits a SIM swap without adequate authentication is disclosing login-credential-equivalent access without customer approval.
+
+Source: Chapter 784, Statutes of 2014; AB 1710 (Dickinson).

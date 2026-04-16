@@ -1,0 +1,42 @@
+{
+  "standard_id": "lab_3209_3_occupational_injury",
+  "citizen": "CA_Labor_Employment_Litigator",
+  "layer": "cross_refs",
+  "generated": "2026-04-12",
+  "internal_refs": [
+    {
+      "id": "lab_132a_workers_comp_retaliation",
+      "path": "${citizens}/CA_Labor_Employment_Litigator/standards/lab_132a_workers_comp_retaliation",
+      "relationship": "\u00a7132a retaliation presupposes an occupational injury claim \u2014 \u00a73208 injury definition is the predicate"
+    },
+    {
+      "id": "gov_12940_feha_employment",
+      "path": "${citizens}/CA_Labor_Employment_Litigator/standards/gov_12940_feha_employment",
+      "relationship": "Occupational injury \u2192 physical disability under FEHA \u2192 \u00a712940(m) accommodation + \u00a712940(n) interactive process obligations arise"
+    }
+  ],
+  "external_refs": [
+    {
+      "id": "CA_Medical_Malpractice_Litigator",
+      "path": "${citizens}/CA_Medical_Malpractice_Litigator",
+      "relationship": "Medical causation documentation for bilateral ankles and SIRVA \u2014 treating physician records establish AOE/COE nexus; SIRVA analysis overlaps with medical malpractice Citizen for surgical failure claim"
+    },
+    {
+      "id": "US_Federal_Social_Security_Litigator",
+      "path": "${citizens}/US_Federal_Social_Security_Litigator",
+      "relationship": "Occupational injuries feeding into SSA disability determination \u2014 bilateral ankle + spine + SIRVA as qualifying impairments; SSA five-step evaluation intersects with workers comp disability determination"
+    }
+  ],
+  "case_law": [
+    {
+      "citation": "Subsequent Injuries Fund v. Woollen, 86 Cal.App.3d 899 (1978)",
+      "holding": "Cumulative injury SOL runs from date of disability or knowledge of occupational causation \u2014 not date of first symptom; discovery rule applies to repetitive trauma injuries",
+      "significance": "Key case for long-career trade worker claims with gradually developing conditions"
+    },
+    {
+      "citation": "South Coast Framing, Inc. v. Workers Comp. Appeals Bd., 61 Cal.4th 291 (2015)",
+      "holding": "AOE/COE analysis for injury during employer-directed activity; employer direction creates nexus even off-site",
+      "significance": "Supports SIRVA AOE argument where employer directed or required vaccination"
+    }
+  ]
+}

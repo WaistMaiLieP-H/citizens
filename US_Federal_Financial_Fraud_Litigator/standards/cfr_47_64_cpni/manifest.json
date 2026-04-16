@@ -1,0 +1,68 @@
+{
+  "standard_id": "CFR_47_64_CPNI",
+  "citizen": "US_Federal_Financial_Fraud_Litigator",
+  "version": "1.0.0",
+  "status": "PROPOSED",
+  "primary_citation": "47 C.F.R. §64.2010 (FCC CPNI Authentication Rules); implementing 47 U.S.C. §222 (Telecommunications Act of 1996, Pub. L. 104-104)",
+  "short_title": "FCC CPNI Rules — Carrier Duty to Protect Customer Proprietary Network Information; AT&T SIM Swap Negligence Theory",
+  "one_line_rule": "Telecommunications carriers must protect Customer Proprietary Network Information and use passwords/PINs (not biographical information alone) to authenticate account changes; failure to prevent fraudulent SIM swaps constitutes CPNI violation and supports negligence/UCL civil claims against the carrier.",
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current/LOGIC.md",
+    "reasoning": "PRESENT — current/LOGIC.md §§ WOUND (pre-1996 unregulated CPNI, pretexting gap) + DESIGN (47 U.S.C. §222, 47 C.F.R. §64.2010 authentication rules) + no private right of action + civil liability paths + AT&T SIM swap negligence theory",
+    "historical_loss": "PRESENT — historical_chain.md + evolution/ (2 stages)",
+    "cross_references": "PRESENT — cross_refs/refs.json (4 references: §2511 Wiretap, §2701 SCA, UCL §17200, CIPA §630)",
+    "verifiable_provenance": "PRESENT — current/provenance.json + evolution provenances; verbatim text capture PENDING"
+  },
+  "evolution_chain": [
+    {
+      "stage": "01_origin_1996_telecommunications_act",
+      "label": "Telecommunications Act §222 — CPNI Duty Established",
+      "source": "Telecommunications Act of 1996, Pub. L. 104-104, §702",
+      "logic_file": "evolution/01_origin_1996_telecommunications_act/LOGIC.md"
+    },
+    {
+      "stage": "02_amendment_2007_cpni_order",
+      "label": "FCC 07-22 Authentication Rules + FCC 23-67 SIM Swap Action",
+      "source": "FCC Report and Order FCC 07-22 (2007); FCC Declaratory Ruling FCC 23-67 (2023)",
+      "logic_file": "evolution/02_amendment_2007_cpni_order/LOGIC.md"
+    }
+  ],
+  "case_law": [
+    {
+      "slug": "in_re_att_cpni_2015",
+      "cite": "In the Matter of AT&T Inc., FCC Consent Decree (April 8, 2015); $25 million CPNI settlement",
+      "court": "Federal Communications Commission, Enforcement Bureau",
+      "category": "enforcement_action",
+      "key_rule": "AT&T liable for CPNI authentication failures by call center vendors; biographical authentication alone insufficient; carrier responsible for agent CPNI access; $25M penalty establishes AT&T on actual notice of authentication vulnerability. Strengthens negligence per se argument for SIM swap attacks occurring after 2015.",
+      "verbatim_capture_status": "PENDING — verify exact FCC consent decree citation"
+    },
+    {
+      "slug": "fcc_enforcement_history",
+      "cite": "FCC CPNI Enforcement Pattern 2007-2023 (multiple orders including FCC 07-22, AT&T 2015, FCC 23-67)",
+      "court": "Federal Communications Commission, Enforcement Bureau",
+      "category": "enforcement_pattern",
+      "key_rule": "SIM swap fraud is a documented CPNI violation; carrier authentication failures enabling SIM swaps violate 47 C.F.R. §64.2010; standard of care defined by FCC 07-22 authentication requirements; industry-wide actual knowledge of SIM swap vulnerability since at least 2007.",
+      "verbatim_capture_status": "PENDING — verify all FCC order numbers via fcc.gov"
+    }
+  ],
+  "att_liability_theory": {
+    "no_private_right_of_action": "47 U.S.C. §222 does not create a private civil damages claim — civil liability runs through negligence and UCL",
+    "negligence_per_se": "AT&T's violation of 47 C.F.R. §64.2010 authentication requirements = negligence per se; the regulatory standard defines the duty of care",
+    "actual_knowledge": "AT&T paid $25M CPNI enforcement settlement in 2015 for authentication failures; AT&T had actual knowledge of SIM swap/authentication vulnerability when processing the fraudulent port",
+    "but_for_causation": "AT&T is the but-for cause of all downstream harms — without AT&T's CPNI failure, no SIM swap, no interception, no account access, no financial fraud, no disability claim interference",
+    "joint_and_several": "AT&T potentially jointly and severally liable with McClaran for all damages; the SIM swap attack required AT&T's negligent facilitation as an essential element",
+    "ucl_path": "AT&T's CPNI violation = 'unlawful' business practice under UCL §17200; UCL adds injunction and restitution to negligence damages",
+    "fcc_complaint_track": "Parallel FCC consumer complaint filing (fcc.gov/consumers/guides/filing-informal-complaint) triggers FCC enforcement investigation; regulatory track complements civil litigation"
+  },
+  "outstanding_work": [
+    "Verbatim text capture: 47 C.F.R. §§64.2010(a)-(b), 64.2011, 64.2001",
+    "Verbatim text capture: 47 U.S.C. §222(a)-(c)",
+    "Verify AT&T 2015 CPNI consent decree exact FCC file number and citation",
+    "Verify FCC 07-22 and FCC 23-67 order numbers and current rule text",
+    "Research any successful private civil negligence claims against AT&T for SIM swap facilitation (check California NDCA/state court dockets 2018-2025)",
+    "Research whether AT&T has adopted FCC 23-67-compliant SIM swap protections and whether those were in place at time of Michael's SIM swap",
+    "Second-mouth witness review of CPNI negligence theory applied to AT&T's SIM swap processing"
+  ],
+  "build_date": "2026-04-11",
+  "built_by": "Terminal A"
+}

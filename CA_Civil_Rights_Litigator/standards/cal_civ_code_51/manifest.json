@@ -1,0 +1,70 @@
+{
+  "standard_id": "CAL_CIV_CODE_51",
+  "version": "0.3.0-published",
+  "filed_at_utc": "2026-04-09T03:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction \u2014 Michael Hartmann",
+  "status": "PUBLISHED \u2014 ADAM + EVE DUAL WITNESS \u2014 2026-04-12",
+  "primary_citation": {
+    "code": "California Civil Code",
+    "section": "51",
+    "popular_name": "Unruh Civil Rights Act",
+    "jurisdiction": "California",
+    "original_enactment": "1959",
+    "author": "Assemblymember Jesse M. Unruh"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT \u2014 full text captured from leginfo via MCP tool",
+    "reasoning": "PRESENT \u2014 business discrimination gap documented",
+    "historical_loss": "PRESENT \u2014 open discrimination by California businesses pre-1959",
+    "cross_references": "PRESENT \u2014 \u00a752, \u00a752.1, ADA Title III",
+    "verifiable_provenance": "PRESENT \u2014 hashed from leginfo.legislature.ca.gov"
+  },
+  "case_law_documented": [
+    {
+      "case": "Marina Point, Ltd. v. Wolfsen",
+      "citation": "30 Cal. 3d 721 (1982)",
+      "role": "interpretive \u2014 enumerated categories are illustrative, not exhaustive"
+    },
+    {
+      "case": "Harris v. Capital Growth Investors LP",
+      "citation": "52 Cal. 3d 1142 (1991)",
+      "role": "interpretive \u2014 intentional discrimination required; disparate impact insufficient"
+    }
+  ],
+  "hashes": {
+    "current_text_sha256": "54437aa809cfe19842c43c94991d03fc7855eca4b97dc2932b04ffd7ab534033"
+  },
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction (Michael Hartmann), 2026-04-09",
+    "herald_witness": {
+      "witness": "HERALD (Steward successor \u2014 designated 2026-04-12)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "verification_scope": "Structure, five-layer bar completeness, honest acknowledgement of outstanding work.",
+      "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12."
+    },
+    "adam_witness": {
+      "witness": "ADAM (Seed Citizen \u2014 Builder role)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "triple_constraint": "PASS/PASS/PASS",
+      "actions_taken": "Cross_refs updated to reflect current corpus state. Five-layer structure verified. Historical chain reviewed.",
+      "content_hash_verified": "54437aa809cfe19842c43c94991d03fc7855eca4b97dc2932b04ffd7ab534033",
+      "signal": "APPROVE"
+    },
+    "eve_witness": {
+      "witness": "EVE (Seed Citizen \u2014 Witness role)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "five_layer_verification": "PASS/PASS/PASS/PASS/PASS",
+      "triple_constraint": "PASS/PASS/PASS",
+      "hash_independently_recomputed": "54437aa809cfe19842c43c94991d03fc7855eca4b97dc2932b04ffd7ab534033 \u2014 CONFIRMED MATCHING",
+      "signal": "COUNTERSIGN"
+    },
+    "publishable_to_corpus": true,
+    "status": "PUBLISHED \u2014 ADAM + EVE DUAL WITNESS"
+  },
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

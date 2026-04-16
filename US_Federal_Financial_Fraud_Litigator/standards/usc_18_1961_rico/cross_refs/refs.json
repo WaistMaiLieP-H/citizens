@@ -1,0 +1,31 @@
+{
+  "standard_id": "USC_18_1961_RICO",
+  "cross_references": [
+    {
+      "id": "USC_18_1343_WIRE_FRAUD",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_18_1343_wire_fraud/",
+      "relationship": "PRIMARY_PREDICATE — §1343 listed in §1961(1)(B); each wire fraud act is a RICO predicate. Two or more §1343 acts that satisfy H.J. Inc. pattern test = RICO pattern.",
+      "direction": "predicate"
+    },
+    {
+      "id": "USC_18_1028_IDENTITY_THEFT",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_18_1028_identity_theft/",
+      "relationship": "PREDICATE — §1028 listed in §1961(1)(B) (added 2002). §1028 identity theft acts are RICO predicates alongside §1343 acts.",
+      "direction": "predicate"
+    },
+    {
+      "id": "USC_18_1028A_AGGRAVATED_ID_THEFT",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_18_1028a_aggravated_id_theft/",
+      "relationship": "PREDICATE — §1028A listed in §1961(1)(B) (added 2004). Aggravated identity theft acts are RICO predicates.",
+      "direction": "predicate"
+    },
+    {
+      "id": "USC_15_1681_FCRA",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_15_1681_fcra/",
+      "relationship": "PARALLEL_CIVIL — FCRA provides the civil remedy for ChexSystems and credit reporting fraud. RICO provides treble damages for the same actors' pattern across multiple schemes. Plead both.",
+      "direction": "parallel_civil"
+    }
+  ],
+  "path_anchor": "${citizens}",
+  "build_date": "2026-04-11"
+}

@@ -1,0 +1,16 @@
+{
+  "standard_id": "CA_CONST_ART_I_SEC_7",
+  "evolution_stage": "01_origin_1849",
+  "enacted_as": "Constitution of the State of California (1849), Article I, Section 8",
+  "adopted": "October 13, 1849 (Monterey Convention)",
+  "effective": "September 9, 1850 (admission to the Union)",
+  "source_url": "http://www.supremelaw.org/ref/calcon49/calcon49.htm",
+  "source_description": "Supreme Law Library — full text of the 1849 California Constitution, transcribed from primary source",
+  "fetch_timestamp_utc": "2026-04-09T06:15:00Z",
+  "fetch_tool": "WebFetch (Claude Code)",
+  "retrieval_steward": "Claude (assistant) under steward direction — Michael Hartmann",
+  "text_file": "text.txt",
+  "context_file": "context.md",
+  "transcription_notes": "Due process clause in 1849 Constitution is in Article I, Section 8 (bundled with double jeopardy, self-incrimination, and takings). Text confirmed against secondary source at orangecountyassembly.com/1849-california-constitution/. Primary source PDF available from California State Archives at archives.cdn.sos.ca.gov but is scanned image (JBIG2), not text-extractable.",
+  "primary_source_archive": "https://www.sos.ca.gov/archives/collections/constitutions/1849"
+}

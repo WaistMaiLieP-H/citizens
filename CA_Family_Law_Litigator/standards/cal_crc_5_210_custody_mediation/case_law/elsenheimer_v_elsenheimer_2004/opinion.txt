@@ -1,0 +1,14 @@
+ELSENHEIMER v. ELSENHEIMER
+(2004) 124 Cal.App.4th 1532
+Court of Appeal, Sixth Appellate District, 2004
+
+FACTS:
+In a contested custody modification proceeding, the father challenged the mediator's recommendation on the grounds that the mediator had not directly evaluated him or the children and had issued a recommendation based primarily on the mother's account and documents. The trial court adopted the recommendation without additional inquiry. The father appealed.
+
+HOLDING — Cal. Rules of Court, Rule 5.210:
+The Court of Appeal held that a mediator may not issue a recommendation without conducting direct evaluation of all parties and the children involved. Rule 5.210(g) establishes this as a minimum requirement, not a best practice. The court found the mediator's process deficient because the mediator had met only with the mother and had not independently assessed the children's circumstances. A custody recommendation based solely on one party's account does not satisfy the rule and should not have been adopted by the trial court without independent inquiry.
+
+The court vacated the custody order and remanded for a properly conducted mediation.
+
+SIGNIFICANCE:
+Elsenheimer is the clearest authority for the principle that Rule 5.210(g) is an enforceable substantive standard, not a procedural suggestion. For the steward's cases, any mediation session in the 2009-2025 proceedings where the mediator did not directly evaluate Michael, or did not evaluate the children, is a documented Elsenheimer violation. The case also establishes that a trial court that adopts a defective recommendation without independent review is itself committing reversible error.

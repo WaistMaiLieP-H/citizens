@@ -1,0 +1,13 @@
+Harris v. Capital Growth Investors XIV
+805 P.2d 873 (Cal. 1991)
+
+SUMMARY (from training knowledge — see verification status)
+
+The California Supreme Court held that the Unruh Civil Rights Act applies to arbitrary discrimination by business establishments — not only discrimination based on the listed protected characteristics. The case clarified that the enumerated characteristics in CIV §51 are illustrative, not exhaustive.
+
+Key holdings:
+- "Business establishments" under Unruh Act are to be interpreted broadly
+- The enumerated categories (race, sex, religion, etc.) are not a closed list; the Act prohibits arbitrary, invidious discrimination even on non-listed bases
+- However, not all differential treatment triggers Unruh — the discrimination must be "arbitrary" in the sense of lacking a reasonable basis in fact or law
+
+Note for this corpus: Harris is included as a case showing the breadth of "business establishment" construction under CIV §51 and the Act's expansive anti-discrimination mandate.

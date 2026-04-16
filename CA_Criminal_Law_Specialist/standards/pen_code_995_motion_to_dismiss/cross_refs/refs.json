@@ -1,0 +1,45 @@
+{
+  "standard": "pen_code_995_motion_to_dismiss",
+  "cross_references": [
+    {
+      "cite": "Pen. Code § 995a",
+      "label": "Alternative procedure — prosecution may reopen preliminary hearing instead of having information dismissed",
+      "relationship": "limiting_procedure"
+    },
+    {
+      "cite": "Pen. Code § 997",
+      "label": "Re-filing after dismissal — prosecution may re-file complaint and hold new preliminary hearing after § 995 dismissal",
+      "relationship": "post-dismissal_procedure"
+    },
+    {
+      "cite": "Pen. Code § 999a",
+      "label": "Effect of re-dismissal after § 995 — limits prosecution's ability to re-file after two dismissals",
+      "relationship": "limits_refiling"
+    },
+    {
+      "cite": "Pen. Code § 872",
+      "label": "Magistrate's holding order at preliminary hearing — what must be found to support information",
+      "relationship": "probable_cause_foundation"
+    },
+    {
+      "cite": "Pen. Code § 1538.5",
+      "label": "Motion to suppress evidence — the alternative pre-trial motion; attacks specific evidence rather than the information as a whole",
+      "relationship": "related_motion"
+    },
+    {
+      "cite": "Cal. Const. Art. I, § 14.1 (Proposition 115, 1990)",
+      "label": "Amended right to cross-examine at preliminary hearing; expanded hearsay admissibility — affects what evidence supports the magistrate's probable cause finding",
+      "relationship": "constitutional_context"
+    },
+    {
+      "cite": "People v. Uhlemann (1973) 9 Cal.3d 662",
+      "label": "Controlling standard for § 995 review — superior court sits as reviewing court; applies substantial evidence standard",
+      "relationship": "controlling_case_law"
+    },
+    {
+      "cite": "Pen. Code § 271d",
+      "label": "Child abuse charge — primary offense for which § 995 motion applies in case #7",
+      "relationship": "target_offense"
+    }
+  ]
+}

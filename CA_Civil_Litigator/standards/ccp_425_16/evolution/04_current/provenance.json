@@ -1,0 +1,12 @@
+{
+  "stage": "04_current",
+  "bill": "multiple",
+  "stats_chapter": "multiple (see evolution summary)",
+  "effective": "current",
+  "source": "leginfo.legislature.ca.gov",
+  "retrieval_method": "knowledge_base",
+  "retrieval_date": "2026-04-10",
+  "retrieval_steward": "Claude Opus 4.6 (1M context)",
+  "primary_source_verified": false,
+  "notes": "Pointer stage to current codified text. Evolution summary table covers 1992-2003 structural changes. Post-2003 amendments are procedural refinements. Current text reference: ../../current/ccp_425_16_leginfo.txt"
+}

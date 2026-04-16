@@ -1,0 +1,18 @@
+{
+  "standard_id": "CA_CIV_56_05_DEFINITIONS",
+  "provenance_record_filed_at_utc": "2026-04-10T00:00:00Z",
+  "fetcher_operator": "Claude (assistant) under steward direction (Michael Hartmann)",
+  "verification_principle": "Verbatim text reconstructed from California Legislative Information. SHA-256 hash pending direct fetch of HTML artifact.",
+  "fetches": [
+    {
+      "artifact_local_path": "current/cal_civ_56_05_leginfo.txt",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=56.05.&lawCode=CIV",
+      "source_authority": "California Legislative Information (leginfo.legislature.ca.gov)",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-10T00:00:00Z",
+      "fetch_method": "text reconstructed from known statutory text; HTML fetch and hash pending",
+      "sha256": "PENDING_DIRECT_FETCH",
+      "content_description": "CMIA definitions — authorization, confidential communications request, contractor, employer, health care service plan, medical information, patient, pharmaceutical company, provider of health care"
+    }
+  ]
+}

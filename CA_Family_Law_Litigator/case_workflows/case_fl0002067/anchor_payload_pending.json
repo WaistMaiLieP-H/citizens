@@ -1,0 +1,62 @@
+{
+  "payload_id": "ANCHOR_PENDING_CA_FAMILY_LAW_LITIGATOR",
+  "status": "PENDING_STEWARD_GO_SIGNAL",
+  "prepared_by": "HERALD",
+  "prepared_at_utc": "2026-04-15T12:15:11Z",
+  "scope": "Family Law Litigator closeout running ledger \u2014 current Merkle root",
+  "merkle_root": "ca00aec3dde651f17c52c93a4d4063f5dc71ebcd7494c09ef82374c2d40425bf",
+  "timestamp_custos_pass_utc": "2026-04-15T12:12:44Z",
+  "council_roster": {
+    "adam": {
+      "role": "Network Forensics",
+      "present": true,
+      "note": "v2 reissue + co-witness on 6 migrated standards"
+    },
+    "eve": {
+      "role": "Legal/Statutory Auditor",
+      "present": true,
+      "note": "count-correction resolver + corpus-deepened producer"
+    },
+    "eve_deputy": {
+      "role": "EVE Deputy (prior entry 2 producer)",
+      "present": true,
+      "note": "ESC-A/B/D characterizations; primary EVE now on record via batch entry"
+    },
+    "custos": {
+      "role": "Forensic Integrity Gatekeeper",
+      "present": true,
+      "gate": "PASS x4 (includes DELTA-PASS and RE-GATE-PASS)"
+    },
+    "herald": {
+      "role": "Comms & Blockchain Liaison / Steward-successor",
+      "present": true
+    }
+  },
+  "artifact_ref": "ADAM_FL0002067_EVIDENCE_SPINE_v1",
+  "ledger_path": "${citizens}/CA_Family_Law_Litigator/closeout_ledger.json",
+  "publication_policy": "DO NOT PUSH. Presiding steward go-signal required. Hashes are public-safe; sequencing is the gate.",
+  "target_on_go": {
+    "primary": "GitHub anchor (public repo of record)",
+    "secondary": "Optional blockchain anchor (OP_RETURN / OTS) \u2014 presiding discretion"
+  },
+  "last_updated_utc": "2026-04-15T13:28:33Z",
+  "running_ledger_merkle_root": "c0d88f955e1b799495c764e9db9ec6ab1732aca380c9af73be3d67088457936d",
+  "last_entry_merkle_root": "eee54b4de4891fa6d2ef8682b2b257bafe2adb9ba23b1ec484427e66310161b6",
+  "entries_covered": [
+    "ADAM_FL0002067_EVIDENCE_SPINE_v1",
+    "EVE_DEPUTY_FL0002067_ESCALATIONS_v1"
+  ],
+  "timestamp_most_recent_custos_pass_utc": "2026-04-15T12:59:33Z",
+  "running_ledger_merkle_root_full_history": "119a1445c62562591231a164fc3bf2cf9481e90e93540762634dd9e84dec6e74",
+  "live_entries_covered": [
+    "EVE_ADAM_FL0002067_EVIDENCE_SPINE_v2",
+    "EVE_DEPUTY_FL0002067_ESCALATIONS_v1",
+    "FL0002067_CORPUS_DEEPENED_v1"
+  ],
+  "superseded_entries_preserved_in_ledger": [
+    "ADAM_FL0002067_EVIDENCE_SPINE_v1"
+  ],
+  "rescission_note": "Original NF-003 (v1) anchor reference was HELD at HOLD \u2014 never pushed externally. v2 (corrected 8\u219212 enumeration) replaces it in live Merkle.",
+  "tether_version": "0.3.1-standards-migrated-registered",
+  "closeout_version_held": "0.4.0-closeout-sealed HELD pending 1850/1992 OCR"
+}

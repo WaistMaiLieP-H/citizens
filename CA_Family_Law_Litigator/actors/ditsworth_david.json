@@ -1,0 +1,90 @@
+{
+  "actor_id": "ditsworth_david",
+  "canonical_name": "David Alan Ditsworth, MD",
+  "aliases": [
+    "David Ditsworth",
+    "David Ditsworth, MD"
+  ],
+  "role": "SSA Disability Report Author (consultative or records-review)",
+  "professional_identity": {
+    "specialty": "Neurological Surgery (board-certified)",
+    "npi_number": "1376685420 (registered since 2007-02-13)",
+    "medical_school": "University of Utah School of Medicine, Class of 1972",
+    "residency": "Yale-New Haven Medical Center (1973-1975, Neurological Surgery); UC Irvine (1976-1979, Neurological Surgery)",
+    "primary_affiliation": "Cedars-Sinai Medical Center (on staff since 1983)",
+    "practice": "Back Institute Surgery Center, Beverly Hills/Los Angeles",
+    "office_address": "920 S Robertson Blvd, Los Angeles, CA 90035",
+    "phone": "310-551-0690",
+    "title": "Founder and Chief of Neurosurgery, Back Institute Surgery Center (Nano Back Institute)",
+    "linkedin_title": "CEO, Back Surgery Institute",
+    "approximate_age_in_2023": "~77 years",
+    "years_in_practice": "51+",
+    "publications": "40+ peer-reviewed abstracts, articles, book chapters",
+    "innovation": "Developed 'Non-Traumatic Discectomy' for herniated/bulging discs"
+  },
+  "credential_verification": {
+    "ca_medical_board_license": "License exists (verifiable at mbc.ca.gov; specific license number requires direct lookup)",
+    "board_certification": "Neurosurgery (confirmed by multiple sources)",
+    "npi_registry_status": "Active",
+    "disciplinary_actions": "None found through web-accessible searches",
+    "verification_status": "VERIFIED as a credentialed neurosurgeon; the question is not whether he has credentials but whether they are appropriate for the role he was used in"
+  },
+  "the_critical_problem": {
+    "summary": "Specialty mismatch \u2014 board-certified neurosurgeon used as a medical source to DENY disability claim involving conditions outside neurosurgery",
+    "details": [
+      "NOT A TREATING PHYSICIAN: Ditsworth does not appear in the steward's medical records as a treating physician",
+      "SPECIALTY MISMATCH: Per SSA POMS DI 24501.001, while SSA does not have strict rules about which specialist reviews which claim, a mismatch between examiner specialty and claimant conditions is a valid basis for appeal",
+      "CONFLICT OF INTEREST POTENTIAL: A surgeon whose career is built on performing spinal procedures has a professional bias toward viewing spine conditions as surgically treatable rather than disabling",
+      "AGE AND PRACTICE CONTEXT: At ~77 in 2023, with 51 years of practice focused on elective spine surgery at a Beverly Hills surgery center, his practice context is far removed from disability determination",
+      "TWO-REPORT DENIAL: SSA used only TWO medical reports to deny the claim. Having one of those two come from a neurosurgeon who never treated the claimant is a significant due process concern"
+    ]
+  },
+  "case_involvement": [
+    {
+      "case_number": "SSA Disability Claim",
+      "date": "2023-01-03 (report received by SSA)",
+      "action": "Issued medical opinion used to deny the steward's disability claim",
+      "outcome": "ADVERSE \u2014 disability claim denied; one of only two medical reports used in the denial",
+      "outcome_classification": "ADVERSE"
+    }
+  ],
+  "risk_level": "HIGH",
+  "risk_basis": "Fully credentialed but wrong specialty; one of only two reports used to deny disability; not a treating physician; practice context (Beverly Hills elective spine surgery) is incongruent with disability evaluation",
+  "outstanding_investigations": [
+    {
+      "id": "ditsworth_ssa_form_831",
+      "question": "What does SSA Form SSA-831 (Disability Determination and Transmittal) show as Ditsworth's specialty code?",
+      "unblock": "Obtain SSA Form SSA-831 from the disability claim file"
+    },
+    {
+      "id": "ditsworth_ce_vs_records_review",
+      "question": "Did Ditsworth perform a Consultative Examination or only a records review?",
+      "unblock": "Obtain the full Ditsworth report"
+    },
+    {
+      "id": "ditsworth_dds_selection",
+      "question": "How did the DDS select Ditsworth as an evaluator? Is he registered as a DDS CE provider?",
+      "unblock": "FOIA / SSA records request"
+    },
+    {
+      "id": "ditsworth_full_report",
+      "question": "What conditions did Ditsworth evaluate?",
+      "unblock": "Obtain the full Ditsworth report"
+    },
+    {
+      "id": "ditsworth_mbc_license",
+      "question": "What is the exact CA Medical Board license number and current status?",
+      "unblock": "Direct lookup at mbc.ca.gov"
+    }
+  ],
+  "standards_governing_this_actor": [
+    "SSA POMS DI 24501.001 (DDS Examiner Roles)",
+    "SSA HALLEX II-4-1-2 (CE Standards)",
+    "Bus. & Prof. Code \u00a7 2052 et seq. (Medical Practice Act)"
+  ],
+  "source_citations": [
+    "${familylaw}/CREDENTIAL-AUDIT-AJANIKU-PAREDES-DITSWORTH-2026-03-23.md",
+    "/home/vernenlegal/.claude/projects/-home-vernenlegal/memory/project_medical_fraud_timeline.md"
+  ],
+  "filed_at_utc": "2026-04-08T18:05:00Z"
+}

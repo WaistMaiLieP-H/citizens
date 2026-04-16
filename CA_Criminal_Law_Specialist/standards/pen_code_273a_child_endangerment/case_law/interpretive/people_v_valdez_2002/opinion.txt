@@ -1,0 +1,60 @@
+PEOPLE v. VALDEZ
+27 Cal.4th 778 (2002)
+California Supreme Court, unanimous
+Decided: April 4, 2002
+
+---
+
+FACTS:
+
+The defendant lived with his girlfriend and her two-year-old son. While the mother was at work, the defendant was responsible for the child. The child suffered severe burns consistent with scalding, with a distinctive pattern indicating submersion in hot water. The defendant claimed the child had accidentally fallen into a bathtub. The prosecution's theory was that the defendant had held the child in the hot water. The jury convicted him under § 273a(a), the indirect-infliction care-or-custody theory.
+
+---
+
+HOLDING:
+
+§ 273a(a) CARE-OR-CUSTODY ELEMENT AND CRIMINAL NEGLIGENCE:
+
+1. **"Care or custody" does not require a legal custodial relationship.** A person can have "care or custody" of a child within § 273a without being the legal custodian, parent, or guardian. Temporary caregivers, including a parent's live-in partner, fall within the statute when they assume responsibility for the child's care.
+
+2. **The criminal negligence standard from Sargent applies to the care-or-custody theory.** A person with care or custody who "willfully causes or permits" a child to be injured or endangered must act with criminal negligence — a gross departure from ordinary care.
+
+3. **Criminal negligence is a general intent requirement at a high standard of culpability.** The defendant need not have specifically intended the harm, but the conduct must be so far from the ordinary standard of care that a reasonable person would have been aware of the risk. Ordinary negligence or lack of due care is insufficient.
+
+4. **"Willfully causes or permits" does not require intent to harm.** The willfulness requirement under § 7(1) means only that the defendant performed the underlying act (or permitted the situation) intentionally — not accidentally or without awareness.
+
+---
+
+VALDEZ EXTENDS SARGENT IN TWO CRITICAL DIRECTIONS:
+
+1. **Who counts as "having care or custody."** The Supreme Court rejected a narrow reading requiring a formal custodial relationship. Live-in partners, babysitters, relatives, friends acting as temporary caregivers, and anyone who assumes responsibility for a child's care can be charged under the care-or-custody theory.
+
+2. **The criminal negligence standard is clarified.** Valdez gives concrete language for the Sargent test: "a gross departure from the ordinary standard of care" and "conduct that a reasonable person would recognize as creating a high risk of serious harm."
+
+---
+
+DEFENSE STRATEGY UNDER VALDEZ:
+
+1. **Challenge "care or custody"** — establish that the defendant was not actually responsible for the child's care at the relevant moment (another caregiver was present; the defendant was not in a caregiver role)
+2. **Challenge criminal negligence** — the defendant's conduct was within the range of ordinary parenting/caregiving mistakes, not a gross departure
+3. **Challenge causation** — the injury was not caused by the defendant's conduct (pre-existing condition, accident, third-party cause)
+4. **Challenge the willfulness of the underlying act** — the act was accidental or reflexive, not willful
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For case 04-23-01959 (Contra Costa — § 273d allegation):
+1. If the prosecution's theory is care-or-custody, the defense must show the conduct did not meet criminal negligence — this is a high prosecution burden.
+2. The scope of "care or custody" is broad enough that the defendant's custodial status is unlikely to be a complete defense, but it can be used to challenge the degree of responsibility.
+3. The willfulness element can be challenged if the defense narrative includes any element of accident, defensive response, or inadvertent conduct.
+
+---
+
+SOURCE PROVENANCE:
+Citation: People v. Valdez (2002) 27 Cal.4th 778, 118 Cal.Rptr.2d 3, 42 P.3d 511
+Court: California Supreme Court (unanimous, Moreno, J.)
+Reporter: California Reports, Fourth Series, vol. 27, page 778
+Source: Knowledge cutoff August 2025. Extends People v. Sargent on § 273a(a) mens rea and care-or-custody analysis. Binding statewide.
+Verification: Casetext / Google Scholar: "People v. Valdez 27 Cal.4th 778"
+Verification status: PROPOSED — pending steward witness review

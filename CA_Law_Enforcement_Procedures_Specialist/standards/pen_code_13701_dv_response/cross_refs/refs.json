@@ -1,0 +1,38 @@
+[
+  {
+    "cite": "Cal. Pen. Code § 836(c)",
+    "label": "Mandatory Arrest — Domestic Violence",
+    "relationship": "companion_section",
+    "note": "The mandatory arrest provision that pairs with § 13701's mandatory reporting. § 836(c) requires officers to arrest when probable cause exists for a DV misdemeanor, even if the officer did not observe the offense. Together, § 13701 and § 836(c) create a mandatory-action framework: you must investigate, you must report, and if probable cause exists, you must arrest. Any deviation from this sequence is a documented violation."
+  },
+  {
+    "cite": "Cal. Pen. Code § 13700",
+    "label": "Domestic Violence — Definitions",
+    "relationship": "definitional_basis",
+    "note": "§ 13700 provides the controlling definitions for 'domestic violence,' 'abuse,' 'cohabitant,' and 'family or household member' used throughout the DV response statutes. Whether the June 16, 2023 incident qualified as DV under § 13700 definitions is a threshold question — if it did not, then the DV framing was an improper classification and the § 13701 machinery was applied without legal basis."
+  },
+  {
+    "cite": "Cal. Gov. Code § 12525.5",
+    "label": "RIPA Stop Data Collection",
+    "relationship": "cross_check",
+    "note": "A § 13701 incident report and the RIPA stop record for the same encounter should be internally consistent. The RIPA log captures the officer's stated reason for the stop and the result. The § 13701 report captures the DV-specific documentation. If the two records tell different stories, at least one is a false record — either the RIPA log was falsified or the § 13701 report was falsified."
+  },
+  {
+    "cite": "Cal. Pen. Code § 832.18",
+    "label": "Body Worn Cameras",
+    "relationship": "corroborating_evidence",
+    "note": "Body camera footage is the objective record of what officers did and said during the DV response. The § 13701 report is the officer's written account. Comparing the two surfaces any fabrication or omission in the written report. Failure to retain footage after a complaint (§ 832.18 minimum retention) triggers adverse inference — the footage presumably showed something the agency chose not to preserve."
+  },
+  {
+    "cite": "42 U.S.C. § 1983",
+    "label": "Federal Civil Rights — Color of Law",
+    "relationship": "enforcement_mechanism",
+    "note": "An officer who completes a § 13701 report that fabricates the DV classification, omits required fields, or provides false statements about the encounter has violated the Fourth and Fourteenth Amendments under color of law. The mandatory nature of the § 13701 report converts the officer's false or incomplete documentation into a per se civil rights violation — the duty was statutory, the failure was intentional, and the harm to Michael is documented."
+  },
+  {
+    "cite": "POST DV Training Standards",
+    "label": "POST Domestic Violence Response Training",
+    "relationship": "training_obligation",
+    "note": "POST requires specific DV response training for all California peace officers, including recognition of DV indicators, mandatory reporting obligations, and dual-arrest guidance. An officer who fails to complete the § 13701 report or applies the DV classification without basis was either not trained (POST violation) or was trained and chose to violate the standard (disciplinary violation). Both paths lead to departmental liability."
+  }
+]

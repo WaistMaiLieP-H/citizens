@@ -1,0 +1,114 @@
+{
+  "standard_id": "CA_HSC_109925_SHERMAN_LAW",
+  "version": "0.2.0-verbatim-and-substance-audited",
+  "filed_at_utc": "2026-04-08T09:23:00Z",
+  "deepened_at_utc": "2026-04-08T11:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction \u2014 Michael Hartmann, Vernen Legal Compliance",
+  "status": "PROPOSED-DEEPENED-COMPACT \u2014 verbatim text extracted, brief substance audit completed. Standard is in an umbrella with INDIRECT relevance to the steward's case file; the audit is calibrated accordingly. Awaiting second-mouth countersignature.",
+  "build_context": "Originally built 2026-04-08 as part of the breadth-first umbrella seeding pass (Umbrella 03 Substance / Specification first occupant). Deepened later same day with verbatim text and brief substance audit via _deepen_remaining_manifests.py.",
+  "primary_citation": {
+    "jurisdiction": "California",
+    "code": "California Health and Safety Code",
+    "section": "\u00a7 109925",
+    "popular_name": "Sherman Food, Drug, and Cosmetic Law \u2014 Definition of 'Drug'",
+    "current_codification_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=109925.&lawCode=HSC",
+    "current_form_local_artifact": "current/cal_hsc_109925_leginfo.html",
+    "verbatim_text_extracted_artifact": "current/cal_hsc_109925_leginfo.txt"
+  },
+  "structural_location": {
+    "division": "DIVISION 104. ENVIRONMENTAL HEALTH [106500 - 119406]",
+    "division_history": "Division 104 added by Stats. 1995, Ch. 415, Sec. 6",
+    "part": "PART 5. SHERMAN FOOD, DRUG, AND COSMETIC LAWS [109875 - 111929.5]",
+    "part_history": "Part 5 added by Stats. 1995, Ch. 415, Sec. 6",
+    "chapter": "CHAPTER 1. General Provisions and Definitions [109875 - 110040]",
+    "section_history": "Most recent amendment: Stats. 2017, Ch. 27, Sec. 160 (SB 94) Effective June 27, 2017"
+  },
+  "verbatim_summary": "Defines 'drug' for the purposes of California's Sherman Food, Drug, and Cosmetic Law: (a) any article (1) recognized in an official compendium, (2) used or intended for use in diagnosis/cure/mitigation/treatment/prevention of disease in humans or animals, (3) other than food, used or intended to affect the structure or any function of the body, or (4) used as a component of any of the above. (b) Excludes devices. (c) Foods making approved health claims under federal labeling rules are not drugs. (d) Cannabis products (including external use) are not drugs.",
+  "amendment_history_visible_on_leginfo": [
+    {
+      "year": 1995,
+      "stats": "Stats. 1995, Ch. 415, Sec. 6",
+      "event": "Original enactment as part of the Sherman Law's 1995 codification into Division 104"
+    },
+    {
+      "year": 2017,
+      "stats": "Stats. 2017, Ch. 27, Sec. 160 (SB 94)",
+      "event": "Most recent amendment, adding the cannabis-product exclusion (d), effective June 27, 2017"
+    }
+  ],
+  "substance_audit": {
+    "purpose": "The Sherman Law's drug definition is the operational gate for California drug regulation. Map against medical fraud documentation only where drug-classification questions are at issue.",
+    "audit_filed_at_utc": "2026-04-08T11:00:00Z",
+    "audit_filed_by": "Claude (assistant) at first-mouth level; steward review required",
+    "audit_items": [
+      {
+        "audit_id": "Drug definition scope",
+        "recommendation": "INDIRECT \u2014 relevant if any prescription/non-prescription substance in the steward's medical fraud timeline was misclassified or dispensed outside the Sherman Law framework",
+        "audit_status": "FLAGGED"
+      },
+      {
+        "audit_id": "Cannabis exclusion (d) \u2014 added 2017",
+        "recommendation": "Not applicable to the steward's case file",
+        "audit_status": "NOT APPLICABLE"
+      },
+      {
+        "audit_id": "Federal-by-reference adoption",
+        "recommendation": "DOCTRINAL \u2014 California's pattern of adopting FDA standards by reference is the structural backdrop for several other steward-relevant standards (food labeling, drug compounding, etc.)",
+        "audit_status": "DOCTRINAL"
+      }
+    ]
+  },
+  "umbrellas": [
+    "Substance / Specification (Umbrella 03) \u2014 primary"
+  ],
+  "owner_citizen": {
+    "primary": "CA_Food_Safety_Specialist"
+  },
+  "triple_constraint_test_results": {
+    "governing_guidelines": {
+      "passes": true,
+      "evidence": "California Health and Safety Code \u00a7 109925 located at official primary source; binding California authority confirmed; verbatim text extracted to current/cal_hsc_109925_leginfo.txt"
+    },
+    "standards_of_creation": {
+      "passes": true,
+      "evidence": "Section is well-formed and properly codified."
+    },
+    "standard_of_care": {
+      "passes": "PARTIAL",
+      "current_layer": "VERIFIED \u2014 current form fetched, hashed (sha256: f83dbe9faddecdffb3a876d7e514e62de54e254719f9a74514a91134f8df9621), and verbatim-extracted",
+      "evolution_layer": "PARTIAL \u2014 amendment history captured at manifest level; primary-source amendment volumes not yet downloaded",
+      "origin_layer": "IDENTIFIED \u2014 original enactment recorded in amendment_history; primary-source not yet fetched"
+    }
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT \u2014 verbatim text extracted",
+    "reasoning": "PARTIAL \u2014 recorded in legislative findings where applicable",
+    "historical_loss": "OUTSTANDING",
+    "cross_references": "PARTIAL",
+    "verifiable_provenance": "PRESENT for current form; ABSENT for evolution and origin layers"
+  },
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction (Michael Hartmann), 2026-04-08",
+    "second_mouth_witness": "NONE \u2014 not yet countersigned",
+    "publishable_to_corpus": false,
+    "status": "PROPOSED-DEEPENED-COMPACT"
+  },
+  "files": {
+    "origin": [],
+    "evolution": [],
+    "current": [
+      "current/cal_hsc_109925_leginfo.html",
+      "current/cal_hsc_109925_leginfo.txt"
+    ],
+    "context": [],
+    "manifest": "manifest.json",
+    "provenance": "provenance.json"
+  },
+  "outstanding_work": [
+    "Locate and fetch primary-source statute volumes for the original enactment and key amendments",
+    "Document the historical-loss layer \u2014 what specific incidents drove the section's enactment",
+    "Fetch operative downstream sections in the same article/chapter as integrity-tracked HTML markers",
+    "Build cross-references to other Vernen corpus standards where applicable",
+    "Obtain second-mouth countersignature on the standard"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "standard_id": "veh_11700_dealer_licensing",
+  "cross_refs": [
+    {
+      "ref_id": "veh_11713_dealer_prohibited_acts",
+      "path": "${citizens}/CA_Vehicle_Code_Specialist/standards/veh_11713_dealer_prohibited_acts",
+      "relationship": "companion \u2014 \u00a711700 licensing threshold; \u00a711713 governs prohibited acts of licensed dealers"
+    },
+    {
+      "ref_id": "ins_1861_02_prop103_auto_rates",
+      "path": "${citizens}/CA_Insurance_Compliance_Litigator/standards/ins_1861_02_prop103_auto_rates",
+      "relationship": "unlicensed dealer + forced insurance product = concurrent Prop. 103 violations"
+    },
+    {
+      "ref_id": "rees_levering_civ_2981",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/rees_levering_civ_2981",
+      "relationship": "yo-yo financing: Rees-Levering (CIV \u00a72981) owns the conditional sale contract violations; \u00a711700/11713 cover the dealer licensing/prohibited act side"
+    }
+  ]
+}

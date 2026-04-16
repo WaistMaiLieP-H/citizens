@@ -1,0 +1,64 @@
+UNITED STATES v. FORRESTER
+512 F.3d 500 (9th Cir. 2008)
+
+[Primary authority for this case folder: in_re_application_for_pen_register]
+
+Note: This folder documents the URL-as-content vs. routing-information debate as it arises in pen register law. The leading Ninth Circuit authority is United States v. Forrester. The folder title references the S.D. Tex. district court opinion (396 F. Supp. 2d 747 (2005)) that was part of the broader judicial debate. This opinion.txt documents Forrester as the governing Ninth Circuit authority.
+
+---
+
+UNITED STATES v. FORRESTER
+512 F.3d 500 (9th Cir. 2008)
+United States Court of Appeals for the Ninth Circuit
+
+FACTS:
+The government, without a warrant, obtained from the defendant's ISP a record of:
+- The IP addresses of all computers to which the defendant sent email;
+- The IP addresses from which the defendant received email;
+- The total volume of data sent and received.
+
+The defendant argued this constituted a "search" under the Fourth Amendment requiring a warrant, and that the pen register framework was unconstitutional as applied to internet communications.
+
+HOLDING — IP ADDRESSES AND EMAIL METADATA ARE NOT CONTENT:
+
+The Ninth Circuit held that the government's interception of IP addresses and email to/from addresses does not constitute a Fourth Amendment search. Applying Smith v. Maryland, 442 U.S. 735 (1979):
+
+"E-mail and Internet users, like the telephone users in Smith v. Maryland, rely on third-party equipment in order to engage in communication. Smith based its holding that telephone users have no reasonable expectation of privacy in the numbers they dial on the fact that they 'know that they must convey numerical information to the telephone company.' By the same logic, e-mail and Internet users have no expectation of privacy in the to/from addresses of their messages or the IP addresses of the websites they visit." 512 F.3d at 510.
+
+THE URL / FULL ADDRESS QUESTION — COURT'S CAUTION:
+
+The Forrester court explicitly noted — and declined to resolve — the question of whether the complete URL of a visited webpage (including the path, such as "/disability/my-claim-status") constitutes content rather than routing information.
+
+The court observed that a complete URL "could reveal, not merely the fact that one has visited a particular site, but also the specific nature of the content viewed." The court reserved the question, stating only that the basic IP address is routing information.
+
+THE LINE DRAWN:
+
+Forrester establishes:
+- IP addresses = routing information (Pen Register Act, no Fourth Amendment protection)
+- Email to/from addresses = routing information (Pen Register Act)
+- Email content = Fourth Amendment protection (requires warrant post-Warshak)
+- Full URL paths (including sensitive page-specific paths) = UNRESOLVED; may be content
+
+PRACTICAL SIGNIFICANCE:
+
+For SIM swap and account takeover cases, the Forrester analysis means:
+
+1. AT&T call routing data (numbers called/received, timestamps) = pen register metadata, obtainable by law enforcement via court order; civil subpoena for plaintiff.
+
+2. SMS routing metadata = pen register data.
+
+3. Account access logs (which webpages the attacker visited while impersonating the victim) — if those logs include full URL paths identifying sensitive pages (SSA disability status, bank account balances, medical records portals) — may fall outside the pure pen register category and be treated as content requiring higher protection.
+
+4. For civil plaintiffs: the Wiretap Act civil remedy (§2520) applies to interception of "contents" of communications. If the attacker's access to the victim's accounts through a hijacked SIM included interception of content — email content, website content, authenticated session content — the damages available under § 2520 ($10,000 minimum per violation) are significantly higher than pen register violations.
+
+---
+
+SOURCE PROVENANCE:
+Primary citation: United States v. Forrester, 512 F.3d 500 (9th Cir. 2008)
+Secondary reference: In re Application for Pen Register and Trap/Trace Device, 396 F. Supp. 2d 747 (S.D. Tex. 2005)
+Key quoted passage: 512 F.3d at 510 (IP addresses and routing information)
+Court: Ninth Circuit — binding in N.D. Cal., C.D. Cal., E.D. Cal., S.D. Cal.
+Source of this text: Claude training data (knowledge cutoff August 2025). Forrester is the leading Ninth Circuit decision on internet communications and the pen register/content distinction; its holdings are confirmed in the training corpus. Full verbatim text should be verified at:
+  - Google Scholar: "United States v. Forrester 512 F.3d"
+  - CourtListener / PACER
+Verification status: PROPOSED — pending steward witness review

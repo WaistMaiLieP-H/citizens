@@ -1,0 +1,12 @@
+Central Laborers' Pension Fund v. Heinz
+541 U.S. 739 (2004)
+United States Supreme Court, 2004
+
+FACTS:
+A multi-employer pension fund expanded the list of "disqualifying employment" categories, causing a previously vested retiree's suspended benefits to remain suspended longer than they would have under the prior plan terms. The retiree argued the amendment violated ERISA's anti-cutback rule.
+
+HOLDING — 29 U.S.C. § 1053 / § 1054(g):
+The Supreme Court unanimously held that the plan amendment violated ERISA's anti-cutback rule (§ 1054(g)) because it effectively reduced the retiree's already-accrued benefits. The Court held that the right to receive benefits without the expanded suspension conditions was itself an "accrued benefit" protected by § 1053 and § 1054(g). Plan amendments that expand the conditions under which vested benefits can be suspended retroactively impair already-vested rights.
+
+SIGNIFICANCE:
+The leading case on retroactive impairment of vested pension rights. Establishes that "accrued benefit" is broader than just the dollar amount — it includes the conditions and terms under which the benefit can be received. A plan cannot expand the circumstances under which it can deny payment to a vested participant without violating § 1053/§ 1054(g). Critical for cases where a union's internal administrative action (suspension, expulsion, internal rule change) purports to affect pension payment conditions for a vested member.

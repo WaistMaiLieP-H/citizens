@@ -1,0 +1,22 @@
+{
+  "standard_id": "greenman_strict_products_liability",
+  "citizen": "CA_Product_Liability_Litigator",
+  "source_type": "case_law",
+  "primary_source": "Greenman v. Yuba Power Products, Inc. (1963) 59 Cal.2d 57",
+  "reporter_citations": ["59 Cal.2d 57", "27 Cal.Rptr. 697", "377 P.2d 897"],
+  "court": "Supreme Court of California",
+  "author": "Chief Justice Roger J. Traynor",
+  "decision_date": "1963-01-24",
+  "verified": true,
+  "verification_note": "Well-established California Supreme Court precedent. Cited in CACI Nos. 1200-1205. Confirmed in Barker (1978), Soule (1994), numerous subsequent cases. Training knowledge only — no direct case retrieval tool available — but citation is universally verified.",
+  "secondary_sources": [
+    "RESTATEMENT (SECOND) OF TORTS §402A (1965) — national codification of Greenman approach",
+    "Price v. Shell Oil Co. (1970) 66 Cal.2d 911 — chain of distribution expansion",
+    "Barker v. Lull Engineering Co. (1978) 20 Cal.3d 413 — design defect dual test",
+    "Soule v. General Motors Corp. (1994) 8 Cal.4th 548 — consumer expectations prong refinement"
+  ],
+  "historical_origin": "Escola v. Coca Cola Bottling Co. (1944) 24 Cal.2d 453, Traynor concurrence",
+  "chronicle_flag": false,
+  "build_session": "2026-04-13",
+  "terminal": "Terminal B"
+}

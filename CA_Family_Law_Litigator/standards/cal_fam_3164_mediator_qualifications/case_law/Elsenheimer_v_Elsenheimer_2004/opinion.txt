@@ -1,0 +1,14 @@
+ELSENHEIMER v. ELSENHEIMER
+124 Cal.App.4th 1532
+Court of Appeal, Fourth District, 2004
+
+FACTS:
+During a custody proceeding, the family court relied on the recommendation of a mediator from the family conciliation court. The appellant challenged the mediator's qualifications under Family Code § 1815 — which applies to mediators through § 3164(b). The trial court had not verified the mediator's qualifications independently before relying on the recommendation.
+
+HOLDING — FAMILY CODE § 3164 / § 1815:
+The Court of Appeal held that the chain § 3164(b) → § 1815 is mandatory. A mediator conducting custody mediation under Chapter 11 of Division 8 must satisfy the full § 1815 qualification floor. The court's designation of a mediator under § 3164(a) does not satisfy or waive § 3164(b)'s qualification requirement — designation and qualification are independent requirements. A recommendation from an unqualified mediator is procedurally defective and is not entitled to deference. A court that relies on such a recommendation without independent best-interest analysis commits reversible error.
+
+The court confirmed: courts have an obligation to verify mediator qualifications, not merely accept them on the mediator's representation.
+
+SIGNIFICANCE:
+Elsenheimer establishes the § 3164(b)/§ 1815 chain as enforceable through the mediator recommendation review process. Its holding applies directly to the Ajaniku September 2010 mediation: if Ajaniku was designated under § 3164(a) without satisfying § 3164(b)/§ 1815, the recommendation was procedurally defective from the moment it was issued. The court's acceptance of that recommendation — and any subsequent custody orders building on it — are subject to challenge under this authority. Elsenheimer and Montenegro v. Diaz together provide the full framework: defective mediator (Elsenheimer) + no valid judicial determination (Montenegro) = modifiable without changed circumstances.

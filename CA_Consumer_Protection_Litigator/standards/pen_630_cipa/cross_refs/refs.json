@@ -1,0 +1,40 @@
+{
+  "standard_id": "PEN_630_CIPA",
+  "cross_references": [
+    {
+      "ref_id": "USC_18_2511_WIRETAP",
+      "short_title": "18 U.S.C. §2511 — Federal Wiretap Act / ECPA Title I",
+      "relationship": "federal_parallel",
+      "description": "CIPA is California's state-law parallel to the federal Wiretap Act. Both prohibit real-time interception of communications in transit. CIPA is stricter (all-party consent vs. federal one-party consent). Both remedies run simultaneously — federal $10,000 minimum per violation + mandatory attorneys' fees; California $5,000 minimum per violation. For SIM swap claims, both are pled together for maximum recovery per interception event.",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_18_2511_wiretap"
+    },
+    {
+      "ref_id": "USC_18_2701_SCA",
+      "short_title": "18 U.S.C. §2701 — Stored Communications Act",
+      "relationship": "complementary",
+      "description": "The Stored Communications Act covers access to stored communications (voicemail, email at rest, stored text messages). CIPA/§2511 cover real-time interception in transit. The boundary: SIM swap intercepts active call routing = §2511/CIPA. Accessing stored voicemails or account records after they are stored = §2701 SCA. Both often apply in SIM swap scenarios because the attacker intercepts in transit AND accesses stored content.",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_18_2701_sca"
+    },
+    {
+      "ref_id": "USC_18_1030_CFAA",
+      "short_title": "18 U.S.C. §1030 — Computer Fraud and Abuse Act",
+      "relationship": "complementary",
+      "description": "CFAA covers unauthorized computer access ($5,000+ loss threshold for civil action). In a SIM swap scenario, CFAA covers the unauthorized account access that the interception enables (email, SSA portal, financial accounts). CIPA covers the interception of communications themselves. The two claims address different elements of the same attack chain and are pled together.",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_18_1030_cfaa"
+    },
+    {
+      "ref_id": "CIV_1798_IPA",
+      "short_title": "Cal. Civil Code §§1798-1798.78 — California Information Practices Act",
+      "relationship": "related_privacy",
+      "description": "IPA governs California state agency records — DDS, SSA contractor, state courts. CIPA governs interception of communications. Where state agencies communicated with Michael about his records or claims, and those communications were intercepted via SIM swap, both CIPA (for the interception) and IPA (for the underlying state agency privacy violation) may apply. Different defendants, different remedies.",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/civ_1798_ipa"
+    },
+    {
+      "ref_id": "UCL_17200",
+      "short_title": "Bus. & Prof. Code §17200 — UCL Unfair Business Practices",
+      "relationship": "ucl_predicate",
+      "description": "CIPA violations can serve as UCL 'unlawful' prong predicates. A business that systematically intercepts customer communications without consent violates CIPA; each such violation is also an 'unlawful' business act or practice under §17200. UCL adds equitable relief (injunction, restitution) beyond CIPA's per-violation damages. For AT&T carrier liability (enabling the SIM swap), UCL may reach patterns of conduct that a single CIPA violation claim might not fully address.",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/bpc_17200_ucl"
+    }
+  ]
+}

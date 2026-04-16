@@ -1,0 +1,56 @@
+FLEET v. BANK OF AMERICA N.A.
+(California Court of Appeal)
+229 Cal.App.4th 1403 (2014)
+California Court of Appeal, Fourth Appellate District, Division One
+Decided: 2014
+
+---
+
+FACTS:
+
+Plaintiffs brought claims against Bank of America under the Rosenthal Fair Debt Collection Practices Act (Civil Code § 1788 et seq.) — California's consumer debt collection statute — for debt collection conduct in connection with mortgage loan collection attempts. The case involved whether mortgage servicers collecting on first-party originated debt qualify as "debt collectors" under the Rosenthal Act, and whether the conduct alleged constituted actionable debt collection practices.
+
+---
+
+HOLDING — ROSENTHAL ACT SCOPE:
+
+THE ROSENTHAL ACT IS BROADER THAN THE FEDERAL FDCPA:
+The Rosenthal Act, unlike the federal FDCPA, applies to "debt collectors" who collect consumer debts on behalf of themselves (first-party collection) as well as third-party collectors. The Act defines "debt collector" to include "any person who, in the ordinary course of business, regularly, on behalf of himself or herself or others, engages in debt collection." Cal. Civ. Code § 1788.2(c).
+
+This means that original creditors who collect their own debts are covered by the Rosenthal Act, whereas the federal FDCPA exempts original creditors from its coverage.
+
+MORTGAGE SERVICERS AND FIRST-PARTY COLLECTION:
+The court addressed the scope of the Rosenthal Act's coverage of mortgage servicers. A servicer that regularly engages in collection activity on delinquent accounts in the ordinary course of its business qualifies as a "debt collector" under the Rosenthal Act.
+
+---
+
+KEY DISTINCTIONS — ROSENTHAL vs. FEDERAL FDCPA:
+
+1. FIRST-PARTY COVERAGE: Rosenthal covers original creditors and servicers; FDCPA does not.
+2. HARASSMENT: Rosenthal § 1788.11 prohibits abusive collection practices, incorporating federal § 806 by reference.
+3. FALSE REPRESENTATIONS: Rosenthal § 1788.13 prohibits false representations in collection, incorporating federal § 807 by reference.
+4. UNFAIR PRACTICES: Rosenthal § 1788.14 prohibits unfair collection practices, incorporating federal § 808 by reference.
+5. CIVIL REMEDY: Civil Code § 1788.30 — actual damages, statutory damages up to $1,000 per case, plus attorney's fees.
+
+---
+
+APPLICATION TO AUTO FRAUD / DEALER DEBT COLLECTION:
+
+When a vehicle dealer or its financing arm attempts to collect a deficiency balance after repossession:
+1. The dealer or finance company is a "debt collector" under the Rosenthal Act if it regularly engages in collection activity;
+2. A deficiency collection on a yo-yo financing rescission — where the consumer never lawfully owed the debt — is a false representation about the character or amount of the debt (§ 1788.13);
+3. Collection calls and letters concerning a disputed deficiency are subject to Rosenthal's harassment and false-representation prohibitions.
+
+For debt collection following a void or rescinded yo-yo contract: the debt itself may not be legally owed. Collection on a non-existent debt is a per se misrepresentation of the debt's character.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 229 Cal.App.4th 1403 (2014)
+Official reporter: California Appellate Reports, Fourth Series, vol. 229, page 1403
+Court: California Court of Appeal, Fourth Appellate District
+Key holding: Rosenthal Act covers first-party collectors (original creditors/servicers); broader than federal FDCPA
+Source of this text: Claude training data (knowledge cutoff August 2025). Fleet v. Bank of America addresses Rosenthal Act scope for mortgage servicers. Full verbatim text should be verified at:
+  - courts.ca.gov
+  - Google Scholar: "Fleet v. Bank of America 229 Cal.App.4th"
+Verification status: PROPOSED — pending steward witness review

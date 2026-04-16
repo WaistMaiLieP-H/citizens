@@ -1,0 +1,27 @@
+{
+  "case_name": "Strumsky v. San Diego County Employees Retirement Association",
+  "citation": "11 Cal.3d 28 (1974)",
+  "parallel_citations": ["112 Cal.Rptr. 805", "520 P.2d 29"],
+  "court": "Supreme Court of California",
+  "date_decided": "1974-01-31",
+  "docket_number": "S.F. 23050",
+  "jurisdiction": "California",
+  "standard_interpreted": "CCP 1094.5(c)",
+  "key_doctrine": "Independent judgment review extends to local agency decisions affecting fundamental vested rights",
+  "sources": [
+    {
+      "name": "Casetext",
+      "url": "https://casetext.com/case/strumsky-v-san-diego-county-employees-retirement-assn"
+    },
+    {
+      "name": "Google Scholar",
+      "url": "https://scholar.google.com/scholar_case?case=16553080963498953079"
+    },
+    {
+      "name": "Westlaw",
+      "url": "https://www.westlaw.com/ (subscription required)"
+    }
+  ],
+  "created_utc": "2026-04-08",
+  "created_by": "Claude (assistant) under steward direction -- Michael Hartmann, Vernen Legal Compliance"
+}

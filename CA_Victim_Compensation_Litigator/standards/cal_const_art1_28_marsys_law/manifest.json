@@ -1,0 +1,35 @@
+{
+  "standard_id": "CAL_CONST_ART1_28",
+  "version": "0.2.0-witnessed-by-herald",
+  "filed_at_utc": "2026-04-11T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "primary_citation": {
+    "authority": "California Constitution",
+    "article_section": "Article I, Section 28",
+    "popular_name": "Victims' Bill of Rights (1982); Marsy's Law (2008)",
+    "jurisdiction": "California (state constitutional)",
+    "enactment_history": "Original Prop 8 (1982); substantially expanded by Prop 9 (Marsy's Law, 2008)",
+    "positive_law_status": "In force as California constitutional provision"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — seventeen enumerated rights in § 28(b) captured with full text; additional subdivisions documented in structural digest",
+    "reasoning": "PRESENT — the legislative history, the 1982 Prop 8 origin, the 2008 Marsy's Law expansion, and the policy purposes documented in context.md and historical_chain.md",
+    "historical_loss": "PRESENT — pre-1982 victim invisibility in California criminal justice documented; Marsy Nicholas origin story documented",
+    "cross_references": "PRESENT — cross_refs/refs.json links to Gov. Code §§ 13950-13969, Pen. Code §§ 679 et seq., federal CVRA, CCP § 1094.5, and cross-Citizen to CA_Criminal_Law_Specialist and US_Federal_Civil_Rights_Litigator",
+    "verifiable_provenance": "PARTIAL — text verified against leginfo California Constitution; pre-2008 Prop 8 text and post-2008 Prop 9 ballot text pending PDF capture"
+  },
+  "case_law": [],
+  "cases_to_add": [
+    "People v. Superior Court cases interpreting specific Marsy's Law rights",
+    "Writ of mandate cases involving Marsy's Law claims in administrative proceedings",
+    "Constitutional enforcement cases under § 28(c)"
+  ],
+  "citizen_relevance": "Constitutional overlay for the A25-10117946 appeal. Provides non-statutory grounds for reversal independent of the Gov. Code §§ 13955-13959 arguments. Strongest application: § 28(b)(1) fairness/dignity, § 28(b)(17) right to be informed, § 28(b)(13) restitution.",
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "standard_id": "lab_132a_workers_comp_retaliation",
+  "layer": "historical_chain",
+  "subdirectory": "01_origin_1959",
+  "primary_source": "Cal. Lab. Code \u00a7 132a",
+  "enactment": "Stats. 1959, Ch. 1189",
+  "key_amendments": [
+    "1965 \u2014 insurer liability added (\u00a7132a(2))"
+  ],
+  "current_form_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=132a.&lawCode=LAB",
+  "verified": true,
+  "fetch_method": "VernenLegal MCP california_get_section",
+  "fetch_date": "2026-04-12",
+  "chronicle_flag": false
+}

@@ -1,0 +1,25 @@
+{
+  "case_id": "woodland_hills_v_city_council_1979",
+  "full_citation": "Woodland Hills Residents Assn. v. City Council, 23 Cal.3d 917 (1979)",
+  "parallel_citations": ["154 Cal.Rptr. 503", "593 P.2d 200"],
+  "court": "California Supreme Court",
+  "decided": "1979-03-19",
+  "category": "interpretive",
+  "sources": [
+    {
+      "name": "Justia",
+      "url": "https://law.justia.com/cases/california/supreme-court/3d/23/917.html"
+    },
+    {
+      "name": "Casetext",
+      "url": "https://casetext.com/case/woodland-hills-residents-assn-inc-v-city-council"
+    },
+    {
+      "name": "Google Scholar",
+      "url": "https://scholar.google.com/scholar_case?case=3463691649498257507"
+    }
+  ],
+  "verification_status": "pending_primary_source_confirmation",
+  "filed_at_utc": "2026-04-08T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction -- Michael Hartmann, Vernen Legal Compliance"
+}

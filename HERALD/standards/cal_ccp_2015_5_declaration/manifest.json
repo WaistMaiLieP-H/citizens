@@ -1,0 +1,39 @@
+{
+  "standard_id": "CAL_CCP_2015_5",
+  "popular_name": "California declarations under penalty of perjury",
+  "citizen_owner": "HERALD",
+  "filed": "2026-04-12",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "two_witness_status": {
+    "status": "PROPOSED",
+    "witness_1": null,
+    "witness_2": null
+  },
+  "herald_witness": {
+    "status": "SELF — HERALD is the owner; external witness required",
+    "note": "HERALD cannot self-witness its own standards. Requires steward review."
+  },
+  "layers_complete": {
+    "rule": true,
+    "reasoning": true,
+    "historical_loss": true,
+    "cross_refs": true,
+    "provenance": true
+  },
+  "primary_source": "CCP § 2015.5 — California Code of Civil Procedure",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CCP&sectionNum=2015.5",
+  "priority": "CRITICAL",
+  "use_in_cases": [
+    "CalVCB_A25-10117946",
+    "criminal_04-23-01959",
+    "FamilyLaw_RF09456481",
+    "Honeysuckle_CA_fraud_track",
+    "DVRO_challenge"
+  ],
+  "flags": [
+    "Penal Code § 118 text not yet retrieved — retrieve before citing in any filing",
+    "CalVCB § 13959 form requirement — cross-citizen dependency with CA_Victim_Compensation_Litigator",
+    "California case law on place-of-execution defect not retrieved — use Form (b) universally as mitigation"
+  ],
+  "version": "1.1.0-witnessed-by-herald"
+}

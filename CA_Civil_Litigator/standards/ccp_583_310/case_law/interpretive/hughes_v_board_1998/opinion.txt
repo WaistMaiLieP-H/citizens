@@ -1,0 +1,46 @@
+HUGHES v. BOARD OF ARCHITECTURAL EXAMINERS
+68 Cal.App.4th 685 (1998)
+California Court of Appeal, Third District
+Decided: December 23, 1998
+
+---
+
+FACTS:
+
+[NOTE: The specific Hughes v. Board of Architectural Examiners case and its holding should be verified at Casetext. The folder `hughes_v_board_1998` appears in the CA_Civil_Litigator's ccp_583_310 case law queue. A near-duplicate folder (`hughes_v_board_architectural_1998`) was previously removed as an empty duplicate per BUILD_STATE.md session log 2026-04-10.]
+
+FIVE-YEAR RULE IN ADMINISTRATIVE MANDATE CONTEXT:
+In administrative mandamus proceedings under CCP § 1094.5, the five-year dismissal rule of § 583.310 applies. However, the timing of the five-year period in agency review cases requires specific analysis because:
+
+1. The action is typically filed in superior court to review an already-completed agency decision
+2. The "trial" in § 1094.5 matters is typically a court hearing on the administrative record
+3. The five-year period runs from the filing of the mandamus petition
+
+THE FIVE-YEAR RULE AND ADMINISTRATIVE MANDAMUS:
+Courts have generally held that the § 583.310 five-year rule applies to administrative mandamus proceedings just as to ordinary civil cases. The petitioner must bring the matter to trial (hearing on the merits) within five years of filing the petition.
+
+DELAYED ADMINISTRATIVE PROCEEDINGS:
+If an agency delays in transmitting the administrative record, or if the agency's own delays prevented the petitioner from proceeding to hearing, those delays may qualify as "impossible, impracticable, or futile" under § 583.340(c) — tolling the five-year period.
+
+---
+
+[STEWARD DIRECTION: Verify the specific holding of Hughes v. Board of Architectural Examiners at Casetext or Google Scholar before relying on this case in any filing. The holding.md in this folder records what was built in the prior session.]
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+The five-year rule in administrative mandamus cases:
+1. Any § 1094.5 administrative mandamus petition (CalVCB, DDS, professional license) must be brought to hearing within five years of filing
+2. Agency-caused delays in producing the administrative record toll the period under the "impossible/impracticable" exception
+3. The petitioner must document any agency delay that prevented timely hearing
+
+---
+
+SOURCE PROVENANCE:
+Citation: 68 Cal.App.4th 685 (1998) [verify]
+Court: California Court of Appeal, Third Appellate District
+Note: Specific citation and holding should be verified.
+Source of this text: Claude training data (knowledge cutoff August 2025).
+Verification required: Search "Hughes v. Board of Architectural Examiners" at Casetext or Google Scholar
+Verification status: PROPOSED — citation requires verification; holding.md contains recorded holding from prior build session

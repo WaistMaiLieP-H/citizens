@@ -1,0 +1,31 @@
+{
+  "standard_id": "USC_18_1028A_AGGRAVATED_ID_THEFT",
+  "cross_references": [
+    {
+      "id": "USC_18_1028_IDENTITY_THEFT",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_18_1028_identity_theft/",
+      "relationship": "PARENT_STATUTE — §1028A is a sentencing enhancement; §1028 is the substantive identity theft crime. Flores-Figueroa knowledge requirement cross-applies.",
+      "direction": "downstream"
+    },
+    {
+      "id": "USC_18_1343_WIRE_FRAUD",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_18_1343_wire_fraud/",
+      "relationship": "ENUMERATED_PREDICATE — §1343 is listed in §1028A(c)(4). Wire fraud conviction + §1028A use of real identity = mandatory consecutive 2 years.",
+      "direction": "predicate"
+    },
+    {
+      "id": "USC_18_1961_RICO",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_18_1961_rico/",
+      "relationship": "RICO_COMPOUND — §1028A predicates can be RICO predicates under §1961(1)(B) (listed offenses). Pattern of §1028A acts + §1343 acts = civil RICO treble damages.",
+      "direction": "compound"
+    },
+    {
+      "id": "USC_15_1681_FCRA",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_15_1681_fcra/",
+      "relationship": "CIVIL_PARALLEL — §1681c-2 identity theft block is the civil remedy for the same conduct §1028A punishes criminally. Both should be referenced in the same victim-compensation strategy.",
+      "direction": "parallel_civil"
+    }
+  ],
+  "path_anchor": "${citizens}",
+  "build_date": "2026-04-11"
+}

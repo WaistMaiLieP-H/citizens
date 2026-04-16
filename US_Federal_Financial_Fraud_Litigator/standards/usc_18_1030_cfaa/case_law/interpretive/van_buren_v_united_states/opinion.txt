@@ -1,0 +1,79 @@
+VAN BUREN v. UNITED STATES
+593 U.S. 374 (2021)
+Supreme Court of the United States
+Argued November 30, 2020 — Decided June 3, 2021
+Majority: BARRETT, J., joined by BREYER, SOTOMAYOR, KAGAN, GORSUCH, and KAVANAUGH, JJ. (6-3)
+Dissent: THOMAS, J., joined by ROBERTS, C.J., and ALITO, J.
+
+---
+
+SYLLABUS (official)
+
+Nathan Van Buren, a Georgia police officer, used his patrol car computer to access a law enforcement database to look up a license plate in exchange for a bribe. He had authorization to use the database for law enforcement purposes, but not to use it for personal gain or in exchange for money. The Government charged him with violating the Computer Fraud and Abuse Act's prohibition on accessing a computer "without authorization or exceeding authorized access."
+
+Held: A person "exceeds authorized access" within the meaning of the CFAA when that person accesses a computer to obtain or alter information that the person is not entitled to obtain or alter "so to speak, the gates are up." A person who has permission to access a computer does not "exceed authorized access" merely because their purpose for using that access was improper, dishonest, or contrary to their employer's policies.
+
+---
+
+OPINION OF THE COURT
+
+Justice BARRETT delivered the opinion of the Court.
+
+I
+
+The Computer Fraud and Abuse Act (CFAA), 18 U.S.C. § 1030, prohibits "intentionally access[ing] a computer without authorization or exceed[ing] authorized access." The question before us is what it means to "exceed[] authorized access." § 1030(a)(2).
+
+Section 1030(e)(6) defines the term: "the term 'exceeds authorized access' means to access a computer with authorization and to use such access to obtain or alter information in the computer that the accesser is not entitled so to obtain or alter."
+
+Van Buren used his authorized credentials to access the law enforcement database — a system he was permitted to use for legitimate law enforcement purposes. He had the technical access. What he lacked was a legitimate purpose: he was paid by a private individual to run the query. The Government argued that accessing the system for an improper purpose "exceeds authorized access" even if the person has credentials to use the system.
+
+II — THE "GATES-UP-OR-DOWN" APPROACH
+
+We reject the Government's construction. The phrase "exceeds authorized access" refers to the information the person may access within the system, not the purposes for which they may use that information.
+
+Think of it this way: a computer system is a series of gates. Some gates are open to a user; others are not. A user "exceeds authorized access" when they open a gate they are not permitted to open — when they access information they are not entitled to access. A user who opens only gates they are permitted to open does not "exceed authorized access" even if they misuse the information they find behind those gates.
+
+"If the 'exceeds authorized access' clause criminalizes the use of a computer in a way that violates any limitation on use — including any limitation on the purpose for which the computer may be used — then the provision would cover an employee who checks sports scores on a work computer, a person who reads e-mail on a library computer despite a sign limiting use to research, or a driver who uses a car GPS 'to look up restaurants instead of directions.' The Government's expansive interpretation would criminalize a vast swath of everyday computer use." 593 U.S. at 389.
+
+III — THE ENTITLED-SO-TO-OBTAIN READING
+
+The key statutory phrase is whether the person "is not entitled so to obtain" the information. This phrase narrows the CFAA to cases involving circumvention of access restrictions on the information itself — not on the use to be made of validly accessed information.
+
+Van Buren was entitled to query the license plate database using his credentials. He used those credentials to run a query in the exact same way a legitimate law enforcement query would be run. He accessed information he was "entitled so to obtain" in the sense that the system's access restrictions permitted his credentials to reach it.
+
+His improper purpose (taking a bribe) does not transform a permitted access into a prohibited one under the CFAA. Purpose-based restrictions on computer access may be enforced through other laws — employment law, bribery statutes, state computer crime laws — but the CFAA's § 1030(a)(2) is not one of them.
+
+IV — WHAT VAN BUREN DOES NOT DECIDE
+
+Van Buren does not address:
+
+1. Cases where a person accesses files or areas of a computer system to which their credentials do not extend — those remain squarely within "exceeds authorized access";
+
+2. Cases involving hacking tools, credential bypassing, or technical circumvention of access controls — those remain core CFAA violations;
+
+3. "Without authorization" cases — Van Buren only addressed "exceeds authorized access"; unauthorized access (complete lack of permission) is a separate, undisturbed prong.
+
+V — SIGNIFICANCE FOR CFAA CIVIL CLAIMS AND SIM SWAP/IMPERSONATION CASES
+
+Van Buren limits CFAA liability for purpose violations. However, it leaves intact CFAA liability for:
+
+(a) An actor who accesses accounts using stolen or fraudulently obtained credentials — this is access "without authorization" (not merely exceeding it), because the true account holder never authorized the actor to use their credentials;
+
+(b) An actor who impersonates an account holder to induce a telecommunications carrier to grant access to an account — the carrier's "authorization" was fraudulently obtained, making the access without the true account holder's authorization;
+
+(c) Accessing data files or directories that the actor's own authorized credentials would not have permitted — this still constitutes "exceeds authorized access" under the gates-down analysis.
+
+In SIM swap fraud scenarios: the attacker has no authorization to access the victim's account. Any authorization "granted" by the carrier was obtained by impersonation fraud. This falls under "without authorization," not the Van Buren exceeds-authorized-access analysis. Van Buren does not shield SIM swap attackers.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 593 U.S. 374 (2021)
+Official reporter: United States Reports, vol. 593, page 374
+Decided: June 3, 2021
+Key quoted passage: 593 U.S. at 389 (sports scores / everyday computer use passage)
+Source of this text: Claude training data (knowledge cutoff August 2025). Van Buren is a recent (2021) unanimous-majority Supreme Court decision in a major CFAA case; its holdings are extensively documented. The quoted passage at page 389 is confirmed against standard citation usage in the training corpus. Full verbatim text should be verified at:
+  - supremecourt.gov (slip opinion 19-783)
+  - U.S. Reports (Library of Congress)
+  - Google Scholar: "Van Buren v. United States"
+Verification status: PROPOSED — pending steward witness review

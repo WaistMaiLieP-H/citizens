@@ -1,0 +1,29 @@
+IN RE MARRIAGE OF LA MUSGA
+32 Cal.4th 1072
+California Supreme Court, 2004
+
+FACTS:
+Custodial parent sought to relocate from California to Ohio. The noncustodial parent
+opposed the move. The trial court initially denied the move, then reconsidered and
+allowed it. The California Supreme Court granted review to clarify the multi-factor
+analysis for relocation cases after Burgess.
+
+HOLDING — CAL. FAM. CODE § 3020 / § 3011 / RELOCATION:
+The court held that in determining whether a custodial parent's proposed relocation
+would cause detriment justifying a change in custody, the trial court must consider
+all relevant factors including: the child's interest in stability; the distance of
+the move; the age of the child; the child's relationship with both parents; the
+relationship between the parents; the current visitation terms; the reasons for
+the proposed move; and the extent to which the parents are likely to comply with
+visitation arrangements. No single factor is determinative.
+
+SIGNIFICANCE:
+La Musga's multi-factor framework is the standard that governs whenever the
+"stability" argument is raised against a departing or relocating parent. When
+read with § 3046, the framework operates as follows: the DV-caused departure is
+shielded from the stability analysis entirely (§ 3046(a)); the remaining factors
+are then evaluated. In the steward's case, 16 years of interference with contact
+(§ 3046(b) factor) by Christina weighs heavily against her across every La Musga
+factor. The contact interference evidence — blocked calls, monitored communications,
+SIM swap (Ryan McClaran) — maps directly onto La Musga's "extent to which parents
+are likely to comply with visitation" factor.

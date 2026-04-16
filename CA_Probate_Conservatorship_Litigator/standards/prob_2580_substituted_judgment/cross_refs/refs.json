@@ -1,0 +1,25 @@
+{
+  "standard_id": "prob_2580_substituted_judgment",
+  "cross_refs": [
+    {
+      "ref_id": "cal_prob_2620",
+      "path": "${citizens}/CA_Conservator_Investigator/standards/cal_prob_2620",
+      "relationship": "\u00a72620 annual accounting \u2014 \u00a72580 authorized transactions should appear in annual accounting; absence = undisclosed unauthorized transfer"
+    },
+    {
+      "ref_id": "usc_29_1132_erisa_502a",
+      "path": "${citizens}/US_Federal_ERISA_Litigator/standards/usc_29_1132_erisa_502a",
+      "relationship": "UA342 pension: \u00a72580(b)(8)(D) authorizes conservator to elect retirement benefit options \u2014 could be mechanism for pension identity replacement; ERISA \u00a7502(a) claim if benefit election was unauthorized or fraudulent"
+    },
+    {
+      "ref_id": "wic_15610_30_financial_abuse_def",
+      "path": "${citizens}/CA_Elder_Law_Litigator/standards/wic_15610_30_financial_abuse_def",
+      "relationship": "\u00a72580 act taken without court order + without conservatee consent = wrongful taking under \u00a715610.30 financial abuse definition"
+    },
+    {
+      "ref_id": "ca_real_estate_attorney_civ_3294",
+      "path": "${citizens}/CA_Real_Estate_Attorney/standards/civ_3294_punitive_damages",
+      "relationship": "Honeysuckle: unauthorized \u00a72580 property transfer + bad faith = \u00a73294 punitive damages available"
+    }
+  ]
+}

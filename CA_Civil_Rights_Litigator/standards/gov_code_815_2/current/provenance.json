@@ -1,0 +1,10 @@
+{
+  "source": "VernenLegal MCP california_get_section",
+  "code": "GOV",
+  "section": "815.2",
+  "fetch_date_utc": "2026-04-09",
+  "fetched_from": "leginfo.legislature.ca.gov via VernenLegal MCP tool",
+  "fetched_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "text_file": "gov_code_815_2_text.txt",
+  "notes": "Full text of both subdivisions (a) and (b) as returned by MCP. Text unchanged since 1963 enactment."
+}

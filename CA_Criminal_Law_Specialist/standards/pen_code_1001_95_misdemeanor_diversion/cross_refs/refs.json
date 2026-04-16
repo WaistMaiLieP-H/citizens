@@ -1,0 +1,66 @@
+{
+  "standard": "pen_code_1001_95_misdemeanor_diversion",
+  "last_updated": "2026-04-11",
+  "refs": [
+    {
+      "id": "REF-100195-001",
+      "target_code": "Penal Code § 1001.36",
+      "description": "Mental health diversion — primary track for M25-00758; § 1001.95 is the backup if § 1001.36 is unavailable or denied. Cross-reference pen_code_1001_36_mental_health_diversion.",
+      "relationship": "primary_alternative",
+      "direction": "out",
+      "internal_standard": "pen_code_1001_36_mental_health_diversion"
+    },
+    {
+      "id": "REF-100195-002",
+      "target_code": "Penal Code § 1001.9",
+      "description": "Record restriction upon successful diversion completion — upon dismissal after § 1001.95 completion, the arrest and charges are restricted under § 1001.9 and cannot be disclosed to employers or landlords in most contexts.",
+      "relationship": "consequence_of_completion",
+      "direction": "out"
+    },
+    {
+      "id": "REF-100195-003",
+      "target_code": "Penal Code § 243(e)(1)",
+      "description": "Domestic violence battery — EXCLUDED from § 1001.95 diversion. If M25-00758 charges include § 243(e)(1), this diversion track is unavailable.",
+      "relationship": "exclusion",
+      "direction": "out"
+    },
+    {
+      "id": "REF-100195-004",
+      "target_code": "Penal Code § 273.5",
+      "description": "Corporal injury to cohabitant — EXCLUDED from § 1001.95 diversion.",
+      "relationship": "exclusion",
+      "direction": "out"
+    },
+    {
+      "id": "REF-100195-005",
+      "target_code": "Penal Code § 646.9",
+      "description": "Stalking — EXCLUDED from § 1001.95 diversion.",
+      "relationship": "exclusion",
+      "direction": "out"
+    },
+    {
+      "id": "REF-100195-006",
+      "target_code": "Vehicle Code §§ 23152-23153",
+      "description": "DUI — EXCLUDED from § 1001.95 diversion.",
+      "relationship": "exclusion",
+      "direction": "out"
+    },
+    {
+      "id": "REF-100195-007",
+      "target_code": "Penal Code § 1001.80",
+      "description": "Military diversion — alternative track for veterans with service-related conditions. If the steward has military service, this track may be available independent of § 1001.95.",
+      "relationship": "alternative_track",
+      "direction": "out"
+    },
+    {
+      "id": "REF-100195-008",
+      "target_code": "AB 3234 (Stats. 2020, Ch. 334)",
+      "description": "Enacting legislation — the legislative history of AB 3234 confirms the deliberate policy of vesting judge (not prosecutor) with diversion authority. Legislative history is admissible to resolve ambiguity about the scope of judicial discretion.",
+      "relationship": "legislative_history",
+      "direction": "out"
+    }
+  ],
+  "internal_cross_refs": [
+    "pen_code_1001_36_mental_health_diversion"
+  ]
+}

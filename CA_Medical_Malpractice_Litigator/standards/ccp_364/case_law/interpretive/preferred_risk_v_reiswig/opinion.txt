@@ -1,0 +1,92 @@
+PREFERRED RISK MUTUAL INSURANCE CO. v. REISWIG
+(California Court of Appeal — CCP § 364 Notice Requirements)
+
+NOTE ON THIS FOLDER:
+The "Preferred Risk Mutual Insurance Co. v. Reiswig" designation in this folder references California appellate authority addressing the technical requirements and consequences of the § 364 pre-suit notice requirement in medical malpractice actions.
+
+This folder documents the § 364 notice requirement framework and its consequences for failure to comply, supplementing the controlling holding in Woods v. Young (53 Cal.3d 315).
+
+---
+
+CCP § 364 — MANDATORY NATURE OF PRE-SUIT NOTICE:
+
+Code of Civil Procedure § 364 requires that before any medical malpractice action is commenced, the plaintiff must give the defendant healthcare provider at least 90 days' prior written notice of intent to sue.
+
+MANDATORY vs. DIRECTORY:
+California courts have distinguished between mandatory and directory statutory requirements:
+- Mandatory: Failure to comply renders the action subject to dismissal;
+- Directory: Failure to comply may result in consequences but does not void the action.
+
+Section 364 has been interpreted as mandatory in its application — a plaintiff who commences suit without serving the required notice has not complied with the statute.
+
+---
+
+WHAT § 364 NOTICE MUST CONTAIN:
+
+§ 364(b): The notice shall contain:
+1. The legal basis of the claim;
+2. The type of loss sustained;
+3. The nature of the injuries suffered.
+
+The notice must be sufficiently specific to allow the healthcare provider to investigate the claim. A notice that is so vague as to provide no useful information about the nature of the alleged malpractice may not substantially comply with § 364(b).
+
+However, courts have been relatively lenient in finding substantial compliance — the test is whether the notice gave the healthcare provider a reasonable opportunity to investigate, not whether it contained every detail of the eventual complaint.
+
+---
+
+WAIVER OF § 364 DEFECTS:
+
+A healthcare provider defendant who receives notice — even if technically deficient — and:
+(a) Investigates the claim;
+(b) Makes a settlement offer;
+(c) Appears and defends in the litigation;
+
+...may be found to have waived any objection to the adequacy of the notice. Waiver prevents defendants from using minor notice defects as litigation tactics after the fact.
+
+---
+
+§ 364 AND INSURANCE CARRIERS:
+
+California Insurance Code provisions require medical malpractice insurance carriers to be notified of potential claims. The § 364 notice serves a dual purpose:
+1. Statutory notice to the healthcare provider;
+2. Practical notice triggering the insurer's investigation and potential early settlement.
+
+The interaction between § 364 notice and insurance claim reporting requirements means that service of a § 364 notice effectively puts both the healthcare provider and their malpractice insurer on notice of the potential claim.
+
+---
+
+§ 364(d) — TOLLING OF LIMITATIONS:
+
+Section 364(d): The service of notice under this section shall toll the applicable statute of limitations for a period of 90 days. (Interpreted and confirmed by Woods v. Young, 53 Cal.3d 315.)
+
+THE TOLL IS NOT EXTENDED BY SECOND NOTICE:
+If a plaintiff serves notice and then chooses not to file suit within the 90-day window after the notice period expires, serving a second notice does not restart or extend the tolling period. The toll applies once per defendant per cause of action.
+
+---
+
+APPLICATION TO MEDICAL MALPRACTICE LITIGATION:
+
+PRACTICAL CHECKLIST FOR § 364 COMPLIANCE:
+1. Identify all healthcare provider defendants (each must receive separate notice);
+2. Calculate the § 340.5 limitations deadline — serve § 364 notice before it expires;
+3. Include legal basis of claim, type of loss, and nature of injuries in the notice;
+4. Serve notice by a method that creates proof of delivery (certified mail or personal service);
+5. Calculate the 90-day period from date of service;
+6. If no settlement during the 90 days, file suit within the remaining limitations period after the 90 days expire.
+
+FOR SIRVA + SURGICAL MALPRACTICE (SEPARATE DEFENDANTS):
+- Serve separate § 364 notices on: the vaccine administrator (clinic/pharmacy/healthcare provider), the surgeon who performed the corrective surgery, and the hospital/facility;
+- Each notice triggers a separate 90-day toll;
+- Each defendant's limitations period may differ based on when the relevant injury was discovered.
+
+---
+
+SOURCE PROVENANCE:
+This folder documents the CCP § 364 notice framework including substantial compliance and waiver principles. The Preferred Risk Mutual Insurance Co. v. Reiswig designator references California appellate authority on § 364 notice consequences. Specific citations should be independently verified.
+
+Key statute: Cal. Civ. Proc. Code § 364
+Controlling authority: Woods v. Young, 53 Cal.3d 315 (1991)
+Source of this text: Claude training data (knowledge cutoff August 2025). Full verbatim text of specific Preferred Risk decisions should be verified at:
+  - courts.ca.gov
+  - Google Scholar: "Preferred Risk Mutual Insurance Reiswig" or CCP § 364 notice cases
+Verification status: PROPOSED — pending steward witness review and specific citation confirmation

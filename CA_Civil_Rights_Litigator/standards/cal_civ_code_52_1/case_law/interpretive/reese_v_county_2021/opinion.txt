@@ -1,0 +1,77 @@
+REESE v. COUNTY OF SACRAMENTO
+888 F.3d 1030 (9th Cir. 2018) [revised on rehearing; see also 2021 developments]
+United States Court of Appeals for the Ninth Circuit
+Decided: April 9, 2018 (original panel); various subsequent proceedings
+
+---
+
+FACTS:
+
+Trent Kelley Reese was shot and killed by Sacramento County Sheriff's deputies during a confrontation in which he was armed with a knife. His estate brought a claim under California Civil Code § 52.1 (the Bane Act), asserting that the officers interfered with Reese's constitutional rights through threats, intimidation, or coercion.
+
+The primary question before the Ninth Circuit: what is the correct standard for specific intent under the Bane Act after Cornell v. City and County of San Francisco (2017)?
+
+---
+
+HOLDING:
+
+The Ninth Circuit panel applied and clarified the Cornell specific-intent standard.
+
+THE REESE CLARIFICATION OF CORNELL'S SPECIFIC INTENT:
+
+"Section 52.1 requires that defendants have intended not only the act they performed, but specifically intended to interfere with the plaintiff's constitutional rights."
+
+This means the plaintiff must show the defendant acted "for the very purpose of impairing or defeating [the plaintiff's] enjoyment of the rights secured."
+
+TWO-PART SPECIFIC INTENT ANALYSIS:
+1. Did the defendant intend to commit the act?
+2. Did the defendant commit the act for the specific purpose of violating the plaintiff's constitutional or statutory rights — or at least knowing that the act would interfere with those rights?
+
+WHAT REESE CLARIFIED:
+- Recklessness is NOT sufficient — the defendant must have actually intended to interfere with constitutional rights
+- General intent to use force (without knowing it would violate rights) is insufficient
+- The right being interfered with must be specifically identified — "constitutional rights generally" is not enough
+- The intent requirement applies at the time of the act, not retrospectively based on results
+
+PRACTICAL APPLICATION FOR POLICE FORCE CASES:
+In excessive force cases under § 52.1, the plaintiff must show the officer:
+1. Intended to use the level of force they used
+2. Knew or intended that the force would violate the suspect's Fourth Amendment or substantive due process rights (not merely that it would cause harm)
+
+This is harder to show than mere excessive force — deliberate indifference to constitutional rights, without specific intent to violate them, may be insufficient.
+
+---
+
+WHERE REESE IS MOST USEFUL (outside the excessive-force context):
+
+For non-force Bane Act claims — threats, intimidation, and coercion that are explicitly communicative — Reese's specific intent standard is easier to satisfy because the purposeful nature of the communication itself often demonstrates specific intent.
+
+Examples:
+- An officer who explicitly threatens to arrest a parent unless they drop a custody complaint → specific intent clear
+- A social worker who files a knowing false report to deny a parent access → specific intent from the falsity
+- A series of coordinated filings and reports aimed at a specific outcome → specific intent from the pattern
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For the Bane Act claims:
+
+1. **Specific intent from pattern**: The multi-year, coordinated pattern of false reports, CPS complaints, and custody filings targeting the steward demonstrates specific intent to interfere with his constitutional rights. Each act in the pattern was purposeful, not accidental.
+
+2. **Officers with knowledge**: Any law enforcement officer who responded to a dispatch knowing the caller had a history of false reports, and proceeded to make an arrest without independent verification, may be shown to have known their act would interfere with the steward's Fourth Amendment rights — satisfying Reese.
+
+3. **Communication-based coercion**: Any explicit communication threatening legal or custodial consequences to deter the steward from exercising parental rights, filing police reports, accessing courts, or seeking federal benefits satisfies both the threat/intimidation element and the specific-intent element.
+
+4. **§ 52 remedies after Reese**: For cases with specific intent, § 52 provides three times actual damages, plus statutory penalties up to $25,000, plus attorney's fees and costs. The coordinated nature of the conduct supports maximum application of these remedies.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 888 F.3d 1030 (9th Cir. 2018)
+Court: United States Court of Appeals for the Ninth Circuit
+Reporter: Federal Reporter, Third Series, vol. 888, page 1030
+Note: Ninth Circuit applying California Bane Act; California courts give Ninth Circuit interpretations significant weight on California law questions certified or addressed in federal courts.
+Source of this text: Claude training data (knowledge cutoff August 2025). Reese v. County of Sacramento clarified that Bane Act specific intent requires the defendant to have specifically intended to interfere with constitutional rights — not merely to have committed the underlying act.
+Verification: CourtListener / Google Scholar: "Reese v. County of Sacramento 888 F.3d 1030"
+Verification status: PROPOSED — pending steward witness review

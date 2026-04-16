@@ -1,0 +1,34 @@
+CALIFORNIA CIVIL CODE
+DIVISION 1. PERSONS [38 - 86]
+PART 2.6. CONFIDENTIALITY OF MEDICAL INFORMATION [56 - 56.37]
+CHAPTER 1. Definitions [56.05 - 56.07]
+
+Section 56.05.
+
+For purposes of this part:
+
+(a) "Authorization" means written authorization that meets the requirements of Section 56.11 and Section 56.21.
+
+(b) "Confidential communications request" means a request by an individual to receive communications of protected health information by alternative means or at alternative locations pursuant to Section 164.522(b) of Title 45 of the Code of Federal Regulations and consistent with this part.
+
+(c) "Contractor" means any person or entity that is a medical group, independent practice association, pharmaceutical benefits manager, or a person or entity that, by contract with a provider of health care, health care service plan, or contractor, receives medical information about patients or enrollees for the purpose of providing services to the provider, plan, or contractor.
+
+(d) "Employer" means any person or entity that employs 25 or more employees and that obtains medical information regarding its employees. "Employer" includes a self-insured employer and any person or entity acting on behalf of, and at the direction of, the employer.
+
+(e) "Health care service plan" means any entity regulated under the Knox-Keene Health Care Service Plan Act of 1975 (Chapter 2.2 (commencing with Section 1340) of Division 2 of the Health and Safety Code).
+
+(f) "Medical information" means any individually identifiable information, in electronic or physical form, in possession of or derived from a provider of health care, health care service plan, pharmaceutical company, or contractor regarding a patient's medical history, mental or physical condition, or treatment. "Medical information" does not include information that has been de-identified in accordance with Section 164.514 of Title 45 of the Code of Federal Regulations. "Individually identifiable" means that the medical information includes or contains any element of personal identifying information sufficient to allow identification of the individual, including, but not limited to, a patient's name, address, electronic mail address, telephone number, or social security number, or other information that, alone or in combination with other publicly available information, reveals the individual's identity.
+
+(g) "Patient" means a natural person, whether or not still living, who received health care services from a provider of health care and to whom medical information pertains.
+
+(h) "Pharmaceutical company" means any company or business that manufactures, sells, or distributes pharmaceuticals, medications, or prescription drugs. "Pharmaceutical company" includes an agent or representative of a pharmaceutical company.
+
+(i) "Provider of health care" means any person licensed or certified pursuant to Division 2 (commencing with Section 500) of the Business and Professions Code; any person licensed pursuant to the Osteopathic Initiative Act or the Chiropractic Initiative Act; any person certified pursuant to Division 2.5 (commencing with Section 1797) of the Health and Safety Code; any clinic, health dispensary, or health facility licensed pursuant to Division 2 (commencing with Section 1200) of the Health and Safety Code; any entity described in paragraph (1) of subdivision (a) of Section 1206 of the Health and Safety Code; and any entity described in Section 1204 or 1204.1 of the Health and Safety Code. "Provider of health care" includes the State Department of Health Care Services and a licensed clinical social worker, a licensed marriage and family therapist, a licensed professional clinical counselor, a licensed educational psychologist, and any clinical laboratory bioanalyst, licensed perfusionist, or licensed respiratory care practitioner.
+
+(Amended by Stats. 2020, Ch. 190, Sec. 1. (AB 713) Effective January 1, 2021.)
+
+History:
+Originally enacted Stats. 1981, Ch. 782, Sec. 2.
+Amended Stats. 2000, Ch. 1066, Sec. 2. (AB 2903)
+Amended Stats. 2013, Ch. 444, Sec. 1. (AB 658)
+Amended Stats. 2020, Ch. 190, Sec. 1. (AB 713)

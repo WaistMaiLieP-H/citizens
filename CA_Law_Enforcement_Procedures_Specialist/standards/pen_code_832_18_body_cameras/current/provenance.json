@@ -1,0 +1,12 @@
+{
+  "source": "California Legislative Information (leginfo.legislature.ca.gov)",
+  "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=832.18.&lawCode=PEN",
+  "retrieved": "2026-04-12",
+  "retrieved_via": "VernenLegal MCP Tool — California Statutes API (PEN § 832.18)",
+  "sha256": "PENDING — compute sha256 of verbatim retrieved statutory text",
+  "bill_origin": "AB 66 (Assemb. Kevin McCarty, Stats. 2015, Ch. 404)",
+  "effective_date": "2016-01-01",
+  "related_legislation": "AB 748 (Stats. 2019) — mandatory BWC footage disclosure for critical incidents; supplements § 832.18 operational framework",
+  "verified": true,
+  "verification_notes": "Text retrieved from leginfo primary source. AB 66 enacted following 2014 Ferguson and Garner incidents and DOJ community policing recommendations."
+}

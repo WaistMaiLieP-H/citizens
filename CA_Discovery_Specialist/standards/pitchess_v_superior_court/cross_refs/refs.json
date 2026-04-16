@@ -1,0 +1,41 @@
+{
+  "standard": "pitchess_v_superior_court",
+  "cross_references": [
+    {
+      "cite": "Cal. Pen. Code § 832.7",
+      "label": "Peace Officer Records — SB 1421 Mandatory Disclosure",
+      "relationship": "successor_framework",
+      "note": "SB 1421 (effective January 1, 2019) amended §832.7 to require mandatory public disclosure of sustained findings of dishonesty, fabricating evidence, and use of force causing death/GBI. For these categories, a Pitchess motion is no longer needed — PRA request is sufficient. Pitchess remains the tool for non-sustained complaints and categories outside §832.7."
+    },
+    {
+      "cite": "Cal. Evid. Code § 1043",
+      "label": "Pitchess Codification — Motion Requirements",
+      "relationship": "codification",
+      "note": "§1043 codifies the Pitchess motion procedure: written motion, good cause affidavits, notice to agency and officer. The statutory codification (1978) governs the procedural mechanics of all Pitchess motions."
+    },
+    {
+      "cite": "Cal. Evid. Code § 1045",
+      "label": "Pitchess Codification — In Camera Review and Disclosure",
+      "relationship": "codification",
+      "note": "§1045 governs the in camera review process and limits disclosure to information directly relevant to the defense theory. Sets the categories of information that may be withheld even after in camera review."
+    },
+    {
+      "cite": "Brady v. Maryland, 373 U.S. 83 (1963)",
+      "label": "Constitutional Disclosure Obligation",
+      "relationship": "constitutional_overlay",
+      "note": "Pitchess provides the discovery mechanism; Brady provides the constitutional obligation. Once Pitchess material is disclosed, any item that qualifies as Brady/Giglio impeachment evidence must be disclosed by the prosecution as a constitutional matter. The two doctrines operate in sequence."
+    },
+    {
+      "cite": "Cal. Gov. Code § 7923.600",
+      "label": "CPRA Law Enforcement Records Exemption",
+      "relationship": "parallel_access_mechanism",
+      "note": "The CPRA LE exemption and Pitchess operate in parallel for peace officer records. Post-SB 1421 §832.7 mandatory disclosure limits the CPRA exemption for sustained misconduct categories. PRA requests and Pitchess motions are complementary tools — use both."
+    },
+    {
+      "cite": "Cal. Pen. Code § 832.8",
+      "label": "Definition of Peace Officer Personnel Records",
+      "relationship": "definitional_predicate",
+      "note": "§832.8 defines what constitutes 'personnel records' for Pitchess and §832.7 purposes. The definition includes background investigation files, psychological evaluations, and other records beyond standard employment files."
+    }
+  ]
+}

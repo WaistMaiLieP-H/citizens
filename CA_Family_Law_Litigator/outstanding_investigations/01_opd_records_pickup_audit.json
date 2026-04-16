@@ -1,0 +1,43 @@
+{
+  "investigation_id": "opd_records_pickup_audit",
+  "title": "Re-audit each filing that relied on a 2009 OPD report against the actual OPD records system",
+  "question": "For each filing in the case file that cited an Oakland Police Department report from 2009, does the cited report actually exist in OPD's records system as confirmed by the October 2025 OPD records pickup?",
+  "context": "Per project_christina_pattern.md, the steward picked up OPD records in October 2025 and confirmed that only 2 reports exist for the entire 2009 situation. The 6/2/2009 5150 incident report (the actual event where Christina pulled a 10-inch kitchen knife) is NOT among them. The 6/11/2009 OPD report 09-040089 (which Christina has used to frame the TRO and 5150 evaluation as the steward 'calling police and saying I was suicidal') exists but has POST violations caught by the Vernen overlay rule POST-002B. Combined, this means: the events that hurt Christina's case are missing from OPD records; the events that help her narrative exist on paper but should not survive POST scrutiny. Every filing that cited a 2009 OPD report needs to be re-audited against the actual records.",
+  "unblock_path": "Cross-reference the October 2025 OPD records pickup against every case-file filing that cites an OPD report. For each citation, confirm whether the cited report exists in the OPD records system. Document each finding.",
+  "who_can_answer": "The steward (Michael Hartmann) — he holds the October 2025 OPD records pickup. Cross-reference is a manual desk audit.",
+  "related_actors": [
+    "cerretani_christina",
+    "hillberg_ann"
+  ],
+  "related_cases": [
+    "RF09456481",
+    "RF09459897",
+    "RF09470833"
+  ],
+  "related_standards": [
+    "CA_FAMILY_CODE_3011_BEST_INTEREST",
+    "CA_FAM_6203_DVPA_ABUSE_DEFINITION",
+    "CA_EVIDENCE_1280_OFFICIAL_RECORDS"
+  ],
+  "priority": "CRITICAL",
+  "status": "READY_TO_SEND",
+  "filed_at_utc": "2026-04-08T19:25:00Z",
+  "prepared_on": "2026-04-15",
+  "deliverables": [
+    {
+      "type": "audit_protocol",
+      "path": "outstanding_investigations/opd_records_pickup_audit/deliverables/outgoing_letter_or_subpoena.md"
+    },
+    {
+      "type": "recipient_routing",
+      "path": "outstanding_investigations/opd_records_pickup_audit/deliverables/recipient_routing.md"
+    },
+    {
+      "type": "response_tracker",
+      "path": "outstanding_investigations/opd_records_pickup_audit/deliverables/response_tracker.md"
+    }
+  ],
+  "delivery_mode": "internal_desk_audit",
+  "note": "This investigation resolves internally — the steward already holds the October 2025 OPD records pickup (the ground-truth dataset). Deliverable #1 is the audit protocol, not a letter. Completion = matrix filled + HERALD countersign.",
+  "mailing_execution_status": "READY_TO_PRINT"
+}

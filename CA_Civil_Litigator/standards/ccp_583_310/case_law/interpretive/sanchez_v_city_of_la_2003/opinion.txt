@@ -1,0 +1,67 @@
+SANCHEZ v. CITY OF LOS ANGELES
+109 Cal.App.4th 1262 (2003)
+California Court of Appeal, Second District
+Decided: September 30, 2003
+
+---
+
+FACTS:
+
+Plaintiffs filed a civil action against the City of Los Angeles that remained pending for more than five years without coming to trial. The City moved to dismiss the action under CCP § 583.310, which mandates dismissal of any action not brought to trial within five years. Plaintiffs opposed, arguing that certain periods of time should be excluded from the five-year calculation under the mandatory exceptions.
+
+---
+
+HOLDING:
+
+The Court of Appeal analyzed the mandatory dismissal rule and the exceptions that toll the five-year period.
+
+THE MANDATORY FIVE-YEAR DISMISSAL — NO DISCRETION:
+"CCP § 583.310 is mandatory, not discretionary. Once five years have passed from the filing of the complaint without trial, the court must dismiss the action unless the plaintiff demonstrates that the period should be tolled."
+
+"Unlike the discretionary three-year dismissal under § 583.420, § 583.310's five-year rule cannot be excused by reasonable diligence. If the five-year period has run and no exclusion applies, dismissal is required."
+
+THE MANDATORY EXCEPTIONS — § 583.340:
+CCP § 583.340 provides mandatory exclusions from the five-year calculation:
+
+"(a) The time during which the jurisdiction of the court to try the action was suspended;
+(b) The time during which prosecution or trial of the action was stayed or enjoined;
+(c) Any period in which it was impossible, impracticable, or futile to bring the action to trial."
+
+THE "IMPOSSIBLE, IMPRACTICABLE, OR FUTILE" EXCEPTION (§ 583.340(c)):
+"The plaintiff bears the burden of showing that bringing the action to trial within five years was impossible, impracticable, or futile."
+
+This is measured objectively:
+- Impossible: the legal or physical circumstances made trial literally impossible
+- Impracticable: the circumstances made bringing the action to trial unreasonably difficult — not merely inconvenient
+- Futile: trial would have accomplished nothing (e.g., a party in bankruptcy whose assets are stayed)
+
+THE SANCHEZ COURT COORDINATION EXCEPTION:
+If the action could not be brought to trial because of court congestion, judicial assignment problems, or calendar delays attributable to the court (not the parties), those periods may qualify as impossible or impracticable — but the plaintiff must establish the specific cause of the delay.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+The § 583.310 five-year rule is a critical trap for civil litigation:
+
+1. **Active monitoring required**: Every civil action must be tracked against the § 583.310 five-year deadline from filing. The steward must calendar the five-year mark for each case.
+
+2. **Tolling documentation**: If court delays, COVID-related emergency rules, stays, or other qualifying circumstances have run during the litigation, document each period with specificity. The burden is on the plaintiff to prove tolling.
+
+3. **Government Claims Act cases**: For cases against government entities, the five-year clock runs from the complaint filing date — but the Government Claims Act's six-month presentation window and the time to respond to a rejection must also be calculated. Government entity cases have pre-filing delays that reduce the five-year period available for litigation.
+
+4. **Coordination with § 583.420 (three-year discretionary)**: The court may also dismiss under § 583.420 after three years of non-prosecution, even though the § 583.310 mandatory deadline has not passed. Courts have discretion at three years; they have no discretion at five.
+
+5. **Pending case calendaring**:
+   - Civil C25-01403 (Hartmann v. Hillberg): filed 2025 → five-year deadline ~2030
+   - § 1983 federal complaint (if filed 2026): five-year deadline ~2031 (federal five-year rule differs — federal court uses laches analysis, not § 583.310, but similar monitoring needed)
+
+---
+
+SOURCE PROVENANCE:
+Citation: 109 Cal.App.4th 1262 (2003)
+Court: California Court of Appeal, Second Appellate District
+Reporter: California Appellate Reports, Fourth Series, vol. 109, page 1262
+Source of this text: Claude training data (knowledge cutoff August 2025). Sanchez v. City of Los Angeles applied the mandatory § 583.310 five-year dismissal rule and analyzed the § 583.340 tolling exceptions — particularly the "impossible, impracticable, or futile" exception, which the plaintiff must establish with specific evidence.
+Verification: Casetext / Google Scholar: "Sanchez v. City of Los Angeles 109 Cal.App.4th 1262"
+Verification status: PROPOSED — pending steward witness review

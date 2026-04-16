@@ -1,0 +1,42 @@
+{
+  "standard_id": "evid_1016_psychotherapist_privilege",
+  "citizen": "CA_Mental_Health_Litigator",
+  "layer": "cross_refs",
+  "generated": "2026-04-12",
+  "internal_refs": [
+    {
+      "id": "bpc_2290_5_telehealth_standards",
+      "path": "${citizens}/CA_Mental_Health_Litigator/standards/bpc_2290_5_telehealth_standards",
+      "relationship": "\u00a72290.5(f) applies all confidentiality laws including psychotherapist-patient privilege to telehealth \u2014 both statutes govern Dr. Wiita evaluation record confidentiality"
+    },
+    {
+      "id": "wic_5150_involuntary_hold",
+      "path": "${citizens}/CA_Mental_Health_Litigator/standards/wic_5150_involuntary_hold",
+      "relationship": "\u00a75150 evaluation statements \u2014 privilege analysis required for any effort to use evaluation statements in civil proceedings arising from false holds"
+    }
+  ],
+  "external_refs": [
+    {
+      "id": "CA_Medical_Privacy_Officer_CMIA",
+      "path": "${citizens}/CA_Medical_Privacy_Officer",
+      "relationship": "Mental health records are 'medical information' under CMIA \u2014 CMIA confidentiality overlaps with \u00a71016 privilege; Medical Privacy Citizen owns CMIA framework; coordinate for complete analysis"
+    },
+    {
+      "id": "CA_Discovery_Specialist",
+      "path": "${citizens}/CA_Discovery_Specialist",
+      "relationship": "Mental health record subpoenas require \u00a71016 analysis; discovery of privileged records is governed by CCP \u00a72031 + Evid. Code \u00a7\u00a71040/1016; Discovery Specialist Citizen owns the CCP mechanics"
+    }
+  ],
+  "case_law": [
+    {
+      "citation": "In re Lifschutz, 2 Cal.3d 415 (1970)",
+      "holding": "\u00a71016 patient-tender exception is constitutional; patient who tenders their mental condition cannot simultaneously assert \u00a71012 privilege to block relevant therapy records",
+      "significance": "First major California Supreme Court interpretation of \u00a71016; sets patient-tender doctrine still controlling today"
+    },
+    {
+      "citation": "Jaffee v. Redmond, 518 U.S. 1 (1996)",
+      "holding": "Federal psychotherapist-patient privilege recognized; confidentiality essential to therapeutic relationship; disclosure only where patient has put condition at issue",
+      "significance": "Federal parallel to California \u00a7\u00a71012/1016 \u2014 confirms California was ahead of federal law by 31 years"
+    }
+  ]
+}

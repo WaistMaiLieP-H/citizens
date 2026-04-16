@@ -1,0 +1,29 @@
+{
+  "standard_id": "BP_6146_MICRA_FEES",
+  "cross_references": [
+    {
+      "anchor": "civ_3333_2",
+      "path": "${citizens}/CA_Medical_Malpractice_Litigator/standards/civ_3333_2/",
+      "relationship": "MICRA_lattice_sibling_AB35_package",
+      "note": "§6146 and §3333.2 were both amended by AB 35 (2022) in the same package. The noneconomic cap in §3333.2 and the fee thresholds in §6146 move together. Understanding both is required for any damages analysis — the cap affects what's available; the fee scale affects what the attorney earns on what's available."
+    },
+    {
+      "anchor": "civ_3333_1",
+      "path": "${citizens}/CA_Medical_Malpractice_Litigator/standards/civ_3333_1/",
+      "relationship": "MICRA_lattice_sibling",
+      "note": "§3333.1 reduces economic damages; §3333.2 caps noneconomic damages; §6146 limits attorney fees on whatever total recovery remains. The compound effect of all three MICRA provisions on the same case can be significant."
+    },
+    {
+      "anchor": "ccp_364",
+      "path": "${citizens}/CA_Medical_Malpractice_Litigator/standards/ccp_364/",
+      "relationship": "MICRA_lattice_sibling",
+      "note": "§364 pre-suit notice must be given before filing. When engaging malpractice counsel for the SIRVA case (deadline 2026-12-01 for notice), the attorney's fee arrangement must comply with §6146."
+    },
+    {
+      "anchor": "sirva_case",
+      "path": "${nonfamilylaw}/04-22_SIRVA/",
+      "relationship": "case_binding_primary",
+      "note": "SIRVA case expected recovery: §3333.2 cap ($470K at 2026 rate) + economic damages. §6146 fee calculation on expected total recovery informs attorney engagement economics. SOL deadline 2027-03-18; §364 notice by 2026-12-01 — both timing points require engaging qualified malpractice counsel before those deadlines."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "stage": "01_origin",
+  "bill": "Based on California Law Revision Commission Recommendation",
+  "stats_chapter": "Ch. 1681, Stats. 1963",
+  "effective": "1964-01-01",
+  "source": "leginfo.legislature.ca.gov",
+  "retrieval_method": "knowledge_base",
+  "retrieval_date": "2026-04-10",
+  "retrieval_steward": "Claude Opus 4.6 (1M context)",
+  "primary_source_verified": false,
+  "notes": "Complete Government Claims Act replacing sovereign immunity after Muskopf v. Corning Hospital District (1961)."
+}

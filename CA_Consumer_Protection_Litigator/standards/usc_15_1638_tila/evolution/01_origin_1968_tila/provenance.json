@@ -1,0 +1,11 @@
+{
+  "stage": "01_origin_1968_tila",
+  "label": "Truth in Lending Act — Original Enactment",
+  "source": "Consumer Credit Protection Act, Pub. L. 90-321, Title I (May 29, 1968)",
+  "effective_date": "1969-07-01 (one year after enactment)",
+  "provisions_enacted": [
+    "15 U.S.C. §1638 (as §128) — required disclosures for closed-end credit",
+    "15 U.S.C. §1640 (as §130) — civil liability ($100-$1,000 + actual damages + fees)"
+  ],
+  "verbatim_capture_status": "PENDING"
+}

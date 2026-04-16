@@ -1,0 +1,36 @@
+{
+  "standard_id": "PEN_550_INSURANCE_FRAUD",
+  "version": "0.3.0-published",
+  "citizen": "CA_Healthcare_Fraud_Litigator",
+  "popular_name": "California Insurance Fraud \u2014 Health Care Benefit Program",
+  "authority": "Cal. Pen. Code \u00a7 550",
+  "jurisdiction": "California",
+  "standard_type": "STATE_STATUTE",
+  "status": "PUBLISHED",
+  "five_layer_score": 5,
+  "created": "2026-04-12",
+  "updated": "2026-04-12",
+  "build_session": "2026-04-12",
+  "case_relevance": [
+    "#11 \u2014 Spine Surgery Fraud: duplicate MRI pages may constitute \u00a7550(a)(8) duplicate billing; denial letter with false physician review statements is \u00a7550(b)(1)",
+    "#12-14 \u2014 Pattern billing fraud across same treatment arc"
+  ],
+  "layers": {
+    "rule": "COMPLETE",
+    "reasoning": "COMPLETE",
+    "historical_loss": "COMPLETE",
+    "cross_references": "COMPLETE",
+    "verifiable_provenance": "COMPLETE"
+  },
+  "two_witness_status": {
+    "adam": "APPROVED",
+    "eve": "COUNTERSIGNED",
+    "status": "PUBLISHED"
+  },
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12.",
+    "scope": "Structure, five-layer bar completeness, case-relevance reviewed."
+  }
+}

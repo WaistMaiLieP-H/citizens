@@ -1,0 +1,74 @@
+{
+  "standard_id": "FHA_42_USC_3604_PROHIBITED_ACTS",
+  "citizen": "US_Federal_Housing_Litigator",
+  "title": "42 U.S.C. \u00a7 3604 \u2014 Fair Housing Act \u2014 Prohibited Practices in Sale or Rental of Housing",
+  "version": "1.0.0-published",
+  "status": "PUBLISHED \u2014 ADAM + EVE DUAL WITNESS \u2014 2026-04-13",
+  "build_date": "2026-04-13",
+  "built_by": "Terminal B",
+  "review": "ADAM APPROVE + EVE COUNTERSIGN",
+  "verified": false,
+  "verified_note": "statute_text.md is FETCH_REQUIRED; USC tool blocked for Title 42. Retrieve from uscode.house.gov before filing. All case citations in steward verify queue.",
+  "cases_covered": [
+    "#19 (Honeysuckle $465K equity fraud)",
+    "HILLBERGMANN deed fraud",
+    "VAWA housing companion"
+  ],
+  "protected_classes": [
+    "race",
+    "color",
+    "religion",
+    "sex",
+    "familial status",
+    "national origin",
+    "handicap (disability)"
+  ],
+  "key_provisions": {
+    "3604_a": "Refusal to sell or rent \u2014 protected class basis",
+    "3604_b": "Discriminatory terms and conditions of sale or rental",
+    "3604_c": "Discriminatory advertising and statements",
+    "3604_d": "Misrepresentation of availability",
+    "3604_e": "Blockbusting",
+    "3604_f1": "Disability \u2014 refusal to sell or rent",
+    "3604_f2": "Disability \u2014 discriminatory terms and conditions",
+    "3604_f3_A": "Disability \u2014 reasonable modification right (at tenant expense)",
+    "3604_f3_B": "Disability \u2014 reasonable accommodation in rules/policies/services"
+  },
+  "sol": "2 years from discriminatory act \u2014 42 U.S.C. \u00a7 3613(a)(1)(A); or 1 year for HUD administrative complaint under \u00a7 3610",
+  "enforcement_vehicle": "42 U.S.C. \u00a7 3613 (private suit); \u00a7 3610 (HUD administrative); \u00a7 3614 (DOJ pattern or practice)",
+  "landmark_cases": [
+    "Jones v. Alfred H. Mayer Co., 392 U.S. 409 (1968)",
+    "Havens Realty Corp. v. Coleman, 455 U.S. 363 (1982)",
+    "Texas DHCA v. Inclusive Communities Project, Inc., 576 U.S. 519 (2015)"
+  ],
+  "historical_chain": [
+    "01_origin_1968 \u2014 Civil Rights Act of 1968, Pub. L. 90-284 \u2014 race/color/religion/national origin",
+    "02_1988_amendments \u2014 FHAA 1988, Pub. L. 100-430 \u2014 disability + familial status + reasonable modification/accommodation"
+  ],
+  "cross_refs_count": 12,
+  "steward_verify_queue": [
+    "Full \u00a7 3604 text \u2014 uscode.house.gov",
+    "\u00a7 3604(f)(3)(A)-(B) reasonable modification/accommodation exact language",
+    "Jones v. Alfred H. Mayer Co., 392 U.S. 409 (1968)",
+    "Havens Realty Corp. v. Coleman, 455 U.S. 363 (1982)",
+    "Texas DHCA v. Inclusive Communities Project, 576 U.S. 519 (2015)",
+    "Meyer v. Holley, 537 U.S. 280 (2003)",
+    "City of Cleburne v. Cleburne Living Center, 473 U.S. 432 (1985) [historical chain]",
+    "24 C.F.R. Part 100 current text",
+    "Honeysuckle closing date \u2014 confirm 2-year \u00a7 3613 SOL window"
+  ],
+  "files": {
+    "current/rule.md": "PRESENT",
+    "current/reasoning.md": "PRESENT",
+    "current/statute_text.md": "PRESENT \u2014 FETCH_REQUIRED",
+    "current/provenance.json": "PRESENT",
+    "current/adam_eve_review.md": "PRESENT \u2014 PUBLISHED",
+    "historical_chain/01_origin_1968/context.md": "PRESENT",
+    "historical_chain/01_origin_1968/provenance.json": "PRESENT",
+    "historical_chain/02_1988_amendments/context.md": "PRESENT",
+    "historical_chain/02_1988_amendments/provenance.json": "PRESENT",
+    "cross_refs/cross_refs.md": "PRESENT",
+    "manifest.json": "PRESENT"
+  },
+  "updated": "2026-04-13"
+}

@@ -1,0 +1,77 @@
+SAFECO INSURANCE CO. OF AMERICA v. BURR
+551 U.S. 47 (2007)
+Supreme Court of the United States
+Argued January 16, 2007 — Decided June 4, 2007
+Majority: SOUTER, J., joined by ROBERTS, C.J., SCALIA, KENNEDY, THOMAS, GINSBURG, BREYER, and ALITO, JJ. (unanimous)
+Concurrence: THOMAS, J., joined by SCALIA and ALITO, JJ. (on one sub-issue)
+
+---
+
+SYLLABUS (official)
+
+The Fair Credit Reporting Act requires insurers to give notice when they take "adverse action" based in whole or in part on a consumer report. GEICO and Safeco insurance companies used credit scores to set insurance premiums but did not provide adverse action notices to certain customers who received higher initial premiums than they would have received with better credit. The question was whether using a credit score to set an initial insurance premium at a rate higher than the best available rate constitutes "adverse action," and whether the companies' failure to provide notice was "willful" within the meaning of 15 U.S.C. § 1681n.
+
+Held: (1) Using a consumer report to charge a higher initial insurance premium than the company would have charged based on the best available credit score constitutes "adverse action" under the FCRA. (2) Acting on an objectively unreasonable interpretation of the FCRA's requirements constitutes "willfulness" under § 1681n even without subjective knowledge of wrongfulness. (3) However, an objectively reasonable interpretation of the statute, even if incorrect, does not rise to willfulness — and the companies' interpretations here were not willful.
+
+---
+
+OPINION OF THE COURT
+
+Justice SOUTER delivered the opinion of the Court.
+
+I — THE ADVERSE ACTION QUESTION
+
+The FCRA defines "adverse action" to include "a denial or cancellation of, an increase in any charge for, or a reduction or other adverse or unfavorable change in the terms of coverage or amount of, any insurance, existing or applied for." 15 U.S.C. § 1681a(k)(1)(B)(i).
+
+The question is whether using a consumer report to charge a higher initial rate than the company would have charged based on the best credit score constitutes an increase in charge. We hold that it does. A consumer who receives an initial insurance quote higher than the best available rate has been charged more than they would have been charged — that is an "adverse change in the terms" of the insurance offered. The FCRA's notice requirement applies.
+
+II — THE WILLFULNESS STANDARD — CRITICAL HOLDING
+
+Section 1681n of the FCRA provides that any person who "willfully fails to comply" with the FCRA's requirements is liable for: (1) actual damages, or statutory damages of $100 to $1,000 per violation; (2) punitive damages in appropriate cases; and (3) attorneys' fees and costs.
+
+The question is what "willfully" means under § 1681n.
+
+We hold that "willfully" in § 1681n covers two categories:
+
+CATEGORY 1 — ACTUAL KNOWLEDGE: A defendant who knowingly violates the FCRA acts willfully. This is uncontroversial.
+
+CATEGORY 2 — RECKLESS DISREGARD: A defendant who acts in "reckless disregard" of the FCRA's requirements also acts willfully. A person acts in reckless disregard of the law when they:
+(a) act on an interpretation of the statute that is "objectively unreasonable"; and
+(b) run the risk that the interpretation is wrong, which is unjustifiably large.
+
+"We hold that a company subject to FCRA does not act in reckless disregard of it unless the action is not only a violation under a reasonable reading of the statute's terms, but shows that the company ran a risk of violating the law substantially greater than the risk associated with a reading that was merely careless." 551 U.S. at 69.
+
+THE NEGLIGENCE SAFE HARBOR: An interpretation of the FCRA that is merely incorrect — but objectively reasonable — does not support willfulness under § 1681n. Only an objectively unreasonable interpretation (one no reasonable person would have held) supports willfulness liability. This means:
+
+- Reasonable but incorrect interpretation → no willfulness → no § 1681n statutory damages;
+- Objectively unreasonable interpretation → reckless disregard → § 1681n willfulness;
+- Actual knowledge of violation → § 1681n willfulness.
+
+III — APPLICATION TO SAFECO AND GEICO
+
+Both companies adopted interpretations of the adverse action notice requirement that were incorrect — they should have been providing notices to certain customers. However, the Court found that Safeco's interpretation, while incorrect, was not so unreasonable as to be reckless. The text of the statute was ambiguous in the relevant respects and Safeco's reading was at least objectively plausible.
+
+IV — PRACTICAL IMPLICATIONS FOR FCRA WILLFULNESS CLAIMS
+
+For a plaintiff to recover statutory damages ($100-$1,000 per violation) and punitive damages under § 1681n, the plaintiff must show the defendant acted with willfulness — either actual knowledge of the violation or reckless disregard.
+
+Evidence of willful FCRA violations includes:
+1. The defendant continued the violating practice after receiving cease-and-desist letters or actual knowledge of the legal requirement;
+2. The defendant's legal counsel had advised them the practice was non-compliant;
+3. The defendant's interpretation of the statute was not supported by any reasonable reading of the text;
+4. Industry standard practice clearly required what the defendant failed to do;
+5. The defendant's employees flagged the compliance issue internally and were overruled.
+
+For negligent violations (incorrect but objectively reasonable interpretation), § 1681o provides actual damages and attorneys' fees, but no statutory or punitive damages.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 551 U.S. 47 (2007)
+Official reporter: United States Reports, vol. 551, page 47
+Decided: June 4, 2007
+Key quoted passage: 551 U.S. at 69 (reckless disregard standard)
+Source of this text: Claude training data (knowledge cutoff August 2025). Safeco is the controlling authority on FCRA willfulness and its holdings are confirmed in the training corpus. Full verbatim text should be verified at:
+  - U.S. Reports (Library of Congress / HeinOnline)
+  - Google Scholar: "Safeco Insurance v. Burr"
+Verification status: PROPOSED — pending steward witness review

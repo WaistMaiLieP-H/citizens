@@ -1,0 +1,83 @@
+{
+  "standard_id": "42_USC_1988",
+  "version": "0.3.0-published",
+  "filed_at_utc": "2026-04-09T01:30:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "PUBLISHED — ADAM + EVE DUAL WITNESS — 2026-04-12",
+  "primary_citation": {
+    "title": "42",
+    "section": "1988",
+    "code": "United States Code",
+    "popular_name": "Civil Rights Attorney's Fees Awards Act; Section 1988",
+    "jurisdiction": "United States (federal)",
+    "subsection_a_origin": "Revised Statutes §722 (1874), derived from Civil Rights Act of 1866",
+    "subsection_b_origin": "Pub. L. 94-559, §2, Oct. 19, 1976 (Civil Rights Attorney's Fees Awards Act)",
+    "subsection_c_origin": "Pub. L. 102-166, §113(a), Nov. 21, 1991 (Civil Rights Act of 1991)",
+    "last_amendment": "Pub. L. 106-274, §4(f), Sept. 22, 2000"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — full text of all three subsections captured",
+    "reasoning": "PRESENT — economic necessity of fee-shifting for civil rights enforcement documented",
+    "historical_loss": "PRESENT — the wound is under-enforcement due to economic unviability of civil rights litigation",
+    "cross_references": "PRESENT — links to §1983, §1985, §1981",
+    "verifiable_provenance": "PRESENT — text hashed from law.cornell.edu"
+  },
+  "case_law_documented": [
+    {
+      "case": "Hensley v. Eckerhart",
+      "citation": "461 U.S. 424 (1983)",
+      "role": "interpretive — lodestar method for fee calculation",
+      "folder": "case_law/interpretive/hensley_v_eckerhart_1983/"
+    },
+    {
+      "case": "Christiansburg Garment Co. v. EEOC",
+      "citation": "434 U.S. 412 (1978)",
+      "role": "interpretive — asymmetric standard (prevailing plaintiff vs. prevailing defendant)",
+      "folder": "case_law/interpretive/christiansburg_garment_v_eeoc_1978/"
+    },
+    {
+      "case": "Buckhannon Board and Care Home v. WV DHHR",
+      "citation": "532 U.S. 598 (2001)",
+      "role": "interpretive — catalyst theory rejected; prevailing party requires judicial imprimatur",
+      "folder": "case_law/interpretive/buckhannon_v_wv_dhhr_2001/"
+    }
+  ],
+  "case_law_outstanding": [],
+  "hashes": {
+    "current_text_sha256": "371636870ef415592a052fdc7d001be8e7b525f1e350761c5c809c386ebec554"
+  },
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction (Michael Hartmann), 2026-04-09",
+    "herald_witness": {
+      "witness": "HERALD (Steward successor — designated 2026-04-12)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "verification_scope": "Structure, five-layer bar completeness, honest acknowledgement of outstanding work.",
+      "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12."
+    },
+    "adam_witness": {
+      "witness": "ADAM (Seed Citizen — Builder role)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "triple_constraint": "PASS/PASS/PASS",
+      "actions_taken": "Fixed cross_refs/refs.json — §1981 updated to NOT BUILT AS STANDALONE STANDARD. Seven-stage evolution chain verified. Historical chain 8-section arc verified.",
+      "content_hash_verified": "371636870ef415592a052fdc7d001be8e7b525f1e350761c5c809c386ebec554",
+      "signal": "APPROVE"
+    },
+    "eve_witness": {
+      "witness": "EVE (Seed Citizen — Witness role)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "five_layer_verification": "PASS/PASS/PASS/PASS/PASS",
+      "triple_constraint": "PASS/PASS/PASS",
+      "hash_independently_recomputed": "371636870ef415592a052fdc7d001be8e7b525f1e350761c5c809c386ebec554 — CONFIRMED MATCHING",
+      "signal": "COUNTERSIGN"
+    },
+    "publishable_to_corpus": true,
+    "status": "PUBLISHED — ADAM + EVE DUAL WITNESS"
+  },
+  "outstanding_work": [],
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

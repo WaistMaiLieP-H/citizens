@@ -1,0 +1,48 @@
+{
+  "standard_id": "usc_29_1001_erisa_purpose",
+  "citizen": "US_Federal_ERISA_Litigator",
+  "title": "29 U.S.C. \u00a7 1001 \u2014 Congressional Findings and Declaration of Policy (ERISA \u00a7 2)",
+  "jurisdiction": "Federal",
+  "status": "PUBLISHED \u2014 ADAM + EVE DUAL WITNESS \u2014 2026-04-13",
+  "built_by": "Claude (assistant) under direction of Michael Hartmann",
+  "built_date": "2026-04-11",
+  "last_updated": "2026-04-11",
+  "five_layer_status": {
+    "current_text": true,
+    "current_provenance": true,
+    "evolution": true,
+    "case_law": true,
+    "cross_refs": true,
+    "historical_chain": true,
+    "manifest": true,
+    "five_layer_score": "7/7 COMPLETE"
+  },
+  "note_on_type": "\u00a7 1001 is a congressional findings provision, not an operative cause of action. Its role in the corpus is interpretive: courts use it as the 'thumb on the scale' for construing ambiguous ERISA provisions in favor of participants. It is built here because it is the wound-and-promise statement for all of ERISA, and every other standard in this Citizen inherits from it.",
+  "evolution_stages": [
+    {
+      "stage": "01_origin_1974",
+      "law": "Pub. L. 93-406",
+      "key_change": "Congressional findings enacted; \u00a7 1001(b) four-part policy declaration; \u00a7 1001(c) vesting/funding/PBGC mandate"
+    },
+    {
+      "stage": "02_current",
+      "law": "Not amended",
+      "key_change": "Text unchanged since 1974; pointer to current/"
+    }
+  ],
+  "case_law": [
+    {
+      "case": "Massachusetts Mutual Life Ins. Co. v. Russell",
+      "citation": "473 U.S. 134 (1985)",
+      "type": "interpretive",
+      "rule": "Courts should interpret ERISA to further its protective purpose as stated in \u00a7 1001; breach of fiduciary duty under \u00a7 1109 does not support extracontractual compensatory damages for individual beneficiary \u2014 the remedy runs to the plan; confirmed ERISA's make-whole-the-plan (not the individual) structure"
+    }
+  ],
+  "interpretive_use": "In any ERISA argument where a provision is ambiguous or where the defendant invokes a restrictive reading, cite \u00a7 1001(b) and (c) for the proposition that Congress intended to protect participants and to ensure ready access to federal courts. Courts applying Firestone, Amara, and other foundational cases routinely begin with \u00a7 1001 as the statement of ERISA's core purpose.",
+  "outstanding_work": [
+    "Add second case law entry (suggest Firestone Tire v. Bruch (1989): Court's reliance on \u00a7 1001's trust-law backdrop in construing \u00a7 1132)",
+    "Primary-source text verification against 88 Stat. 832",
+    "Second-mouth witness review"
+  ],
+  "updated": "2026-04-13"
+}

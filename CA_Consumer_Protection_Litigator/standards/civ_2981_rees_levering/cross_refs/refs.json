@@ -1,0 +1,38 @@
+{
+  "_schema": "five-layer cross-reference block",
+  "references": [
+    {
+      "target": "${citizens}/CA_Consumer_Protection_Litigator/standards/civ_1750_clra/manifest.json",
+      "relationship": "CLRA §1770(a)(14) is automatically violated by any Rees-Levering violation (representing that a transaction involves rights/remedies/obligations that it does not). Plead together: Rees-Levering supplies forfeiture, CLRA supplies damages + notice-and-cure mechanism.",
+      "build_status": "BUILT"
+    },
+    {
+      "target": "${citizens}/CA_Consumer_Protection_Litigator/standards/bpc_17200_ucl/manifest.json",
+      "relationship": "UCL 'unlawful' prong: every Rees-Levering violation is a UCL predicate. 4-year SOL preserves claims that fall outside Rees-Levering's shorter limitations period. Restitution + injunctive relief available.",
+      "build_status": "QUEUED"
+    },
+    {
+      "target": "${citizens}/CA_Consumer_Protection_Litigator/standards/civ_1790_song_beverly/manifest.json",
+      "relationship": "Song-Beverly Consumer Warranty Act. Pleaded alongside Rees-Levering when the vehicle itself is defective in addition to the paperwork being non-compliant. Different remedy: buyback / civil penalty for willful violation.",
+      "build_status": "QUEUED"
+    },
+    {
+      "target": "${citizens}/CA_Consumer_Protection_Litigator/standards/civ_1788_rosenthal/manifest.json",
+      "relationship": "Rosenthal Act attaches to downstream debt collection after a non-compliant Rees-Levering sale. If a dealer or assignee pursues collection despite forfeiture, the collection itself may be an actionable misrepresentation.",
+      "build_status": "QUEUED"
+    },
+    {
+      "target": "${citizens}/CA_Consumer_Protection_Litigator/standards/civ_1709_deceit/manifest.json",
+      "relationship": "Common-law deceit substrate. Rees-Levering supplements but does not displace common-law fraud. Punitive damages via Civ §3294 available on deceit theory without CLRA §1782 notice prerequisite.",
+      "build_status": "QUEUED"
+    },
+    {
+      "target": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_15_1681_fcra/manifest.json",
+      "relationship": "FCRA federal parallel for credit reporting consequences of auto fraud cases. When a dealer reports a non-compliant loan as a delinquency, FCRA dispute procedures apply.",
+      "build_status": "QUEUED"
+    }
+  ],
+  "incorporated_federal_authorities": [
+    "16 CFR §433.2 (FTC Holder Rule) — makes assignee subject to consumer defenses"
+  ]
+}

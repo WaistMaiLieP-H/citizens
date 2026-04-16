@@ -1,0 +1,10 @@
+{
+  "stage": "03_sb2094_2020",
+  "enactment": "SB 1159 (COVID-19 presumption) + 2025 amendment (federal installation firefighters)",
+  "session_law_covid": "Stats. 2020, Ch. 84",
+  "effective_date_covid": "2020-09-17",
+  "effective_date_2026_amendment": "2026-01-01",
+  "verification_status": "PARTIAL — SB 1159 session law not captured verbatim; subd. (b) 2026 amendment confirmed via live MCP fetch",
+  "built_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "built_at_utc": "2026-04-13T00:00:00Z"
+}

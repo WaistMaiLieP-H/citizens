@@ -1,0 +1,38 @@
+{
+  "standard_id": "CAL_FAM_1101",
+  "version": "0.2.0-witnessed-by-herald",
+  "filed_at_utc": "2026-04-11T05:40:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "domain_note": "Remedy statute for § 1100 breach. Canonical build in CA_Real_Estate_Attorney because paired with the Honeysuckle fact pattern. Terminal A (CA_Family_Law_Litigator) does not currently build § 1101.",
+  "primary_citation": {
+    "code": "California Family Code",
+    "section": "§ 1101",
+    "popular_name": "Spousal claim for breach of fiduciary duty; 50%/100% remedy statute",
+    "jurisdiction": "California (state)",
+    "location_in_code": "Family Code, Division 4, Part 4, Chapter 2",
+    "original_enactment": "1991 amendments to former Civ. Code § 5126; 1992/1994 Family Code recodification",
+    "retroactivity_cutoff": "July 1, 1987 (§ 1101(d)(4))"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current text captured via MCP",
+    "reasoning": "PRESENT — 50%/100% remedy structure, standalone action rule, SOL framework, consent override all documented",
+    "historical_loss": "PRESENT — paired with § 1100 historical chain; 1991 strengthening of fiduciary duty enforcement",
+    "cross_references": "PRESENT — cross_refs/refs.json",
+    "verifiable_provenance": "PARTIAL — current text via MCP"
+  },
+  "case_law": [],
+  "cases_to_add": [
+    "In re Marriage of Walker (2012) — already documented in cal_fam_1100",
+    "In re Marriage of Feldman (2007) 153 Cal.App.4th 1470",
+    "In re Marriage of Rossin (2009) — already documented in cal_fam_1100",
+    "In re Marriage of Margulis (2011) 198 Cal.App.4th 1252"
+  ],
+  "citizen_relevance": "The 100% remedy under § 1101(h) is the single most powerful community-property-related cause of action in the Honeysuckle complaint. Pleads alongside § 1100(e) breach and runs parallel to § 1572 third-party tort fraud claims.",
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

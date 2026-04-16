@@ -1,0 +1,15 @@
+{
+  "actor_id": "ditsworth_david",
+  "shared_record": "${citizens}/_shared_actors/ditsworth_david.json (TO BE CREATED)",
+  "domain": "CA_Civil_Litigator",
+  "role": "CCP §340.5 MICRA defendant — medical malpractice (specialty mismatch in disability evaluation)",
+  "risk_level": "HIGH",
+  "applicable_standards": ["CCP_340_5", "BUS_PROF_CODE_2052"],
+  "theory_of_liability": "Board-certified neurosurgeon used as medical source to deny SSA disability claim involving conditions outside neurosurgery. CCP §340.5 provides 1-year statute of limitations for medical malpractice (3 years from injury or 1 year from discovery, whichever first). MICRA (Civ. Code §3333.2) caps non-economic damages at $350,000 (adjusted). The specialty mismatch — Beverly Hills elective spine surgeon evaluating disability for non-neurosurgical conditions — is the core malpractice theory.",
+  "micra_considerations": {
+    "statute_of_limitations": "CCP §340.5 — 1 year from discovery, 3 years from injury",
+    "damage_cap": "MICRA non-economic cap applies (Civ. Code §3333.2)",
+    "prelitigation_requirement": "CCP §364 — 90-day notice of intent to sue required before filing"
+  },
+  "filed_at_utc": "2026-04-08T22:00:00Z"
+}

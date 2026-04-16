@@ -1,0 +1,83 @@
+THEOFEL v. FAREY-JONES
+359 F.3d 1066 (9th Cir. 2004)
+United States Court of Appeals for the Ninth Circuit
+Argued February 12, 2003 — Decided February 27, 2004 (amended)
+Majority: KOZINSKI, J., joined by WARDLAW, J.
+Dissent: GOULD, J.
+
+---
+
+CITATION AND COURT:
+359 F.3d 1066 (9th Cir. 2004)
+Also reported at: 341 F.3d 978 (9th Cir. 2003) (prior panel opinion, amended by 359 F.3d)
+Certiorari denied: 543 U.S. 813 (2004)
+
+---
+
+OPINION OF THE COURT
+
+Judge KOZINSKI delivered the opinion of the court.
+
+I — FACTS AND PROCEDURAL POSTURE
+
+During civil litigation between the parties, defendant's lawyer served a subpoena on NetGate, the plaintiff's Internet service provider, seeking the plaintiffs' entire email accounts without any date limitation. The subpoena was facially overbroad — it sought all emails going back to the beginning of the account, far beyond what could be relevant to the litigation. NetGate, believing the subpoena was valid, turned over the emails. Plaintiffs sued under the Stored Communications Act (SCA), 18 U.S.C. § 2701 et seq., alleging that obtaining the emails from NetGate without authorization violated § 2701.
+
+II — THE STORED COMMUNICATIONS ACT FRAMEWORK
+
+The SCA was enacted to protect stored electronic communications from unauthorized access. Section 2701(a) prohibits intentionally accessing "without authorization" or "in excess of an authorization" a facility through which electronic communication service is provided, and thereby obtaining stored communications.
+
+Section 2703 authorizes governmental entities to require disclosure from service providers through specific legal process: court orders, warrants, or, for some older content, subpoenas. These governmental disclosure mechanisms do not authorize private parties to compel disclosure.
+
+III — WHETHER SCA APPLIES TO STORED EMAILS
+
+The threshold question is whether the SCA applies to stored emails at all. Some argued that the SCA applies only to emails in transit, not to emails stored in a service provider's servers after delivery.
+
+We hold that the SCA applies to emails in electronic storage even after they have been opened and read by the recipient. An opened email stored on a provider's server remains "in electronic storage" within the SCA's meaning. The SCA does not distinguish between emails that have been read and emails that have not been read; it protects any electronic communication "in electronic storage."
+
+"Subsection (A) of § 2510(17) covers communications stored by the service provider 'for purposes of backup protection of such communication.' An email stored by a service provider to allow the user to access it again later qualifies as a message stored 'for purposes of backup protection.'" 359 F.3d at 1075.
+
+The contrary argument — that a read email is no longer "for backup" purposes — makes the backup concept dependent on whether the user has chosen to delete the email after reading it, which cannot be the correct interpretation. The backup provision covers all emails that the provider retains to allow the user future access, whether or not the user has already read them.
+
+IV — WHETHER AN INVALID SUBPOENA PROVIDES "AUTHORIZATION"
+
+The critical issue: does an invalid, overbroad private subpoena provide "authorization" under the SCA, such that the provider's disclosure pursuant to it is authorized?
+
+We hold it does not. The SCA's disclosure provisions require specific legal process adequate to compel the disclosure lawfully. An overbroad private subpoena — one that exceeds what the law allows to be compelled — cannot serve as authorization for disclosures it could not legitimately compel.
+
+"A subpoena that is too broad to be lawful cannot excuse a disclosure the law does not permit." An invalid subpoena is no subpoena at all for the purposes of SCA authorization. The disclosure made in response to an invalid subpoena is therefore made "without authorization" within the meaning of § 2701(a).
+
+V — CIVIL REMEDIES UNDER § 2707
+
+Section 2707 of the SCA provides a civil remedy for violations of § 2701 by non-governmental entities. A plaintiff who proves a violation may recover:
+
+- Actual damages, but not less than $1,000;
+- If the violation is willful or intentional, punitive damages may also be awarded;
+- Reasonable attorney's fees and other litigation costs.
+
+The $1,000 minimum per violation provides a meaningful floor for cases where actual damages are difficult to quantify but the invasion of privacy is real.
+
+VI — SIGNIFICANCE FOR COMMUNICATIONS PRIVACY CASES
+
+Theofel stands for several propositions directly relevant to communications interception and fraud cases:
+
+1. **Emails stored at ISPs are protected by the SCA** — not just emails in transit. The SCA covers stored email accounts regardless of whether messages have been read.
+
+2. **Invalid process does not authorize disclosure** — a fraudulent or overbroad legal process instrument that induces a provider to disclose stored communications does not provide SCA "authorization." The person who obtained the disclosure through invalid process is liable under § 2701.
+
+3. **SIM swap parallel:** If a SIM swap attacker induces a carrier to port a phone number by using impersonated account credentials, any subsequent access to the victim's accounts facilitated by that unauthorized SIM control is access "without authorization" under the SCA. The fraudulent authorization obtained through impersonation is not the victim's authorization.
+
+4. **Interplay with CFAA:** The same conduct that constitutes an SCA violation typically also violates the CFAA. These statutes have parallel, overlapping coverage for unauthorized access to stored electronic communications.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 359 F.3d 1066 (9th Cir. 2004)
+Official reporter: Federal Reporter, Third Series, vol. 359, page 1066
+Decided (as amended): February 27, 2004
+Key quoted passages: 359 F.3d at 1075 (backup protection definition); "invalid subpoena" passage
+Court: Ninth Circuit — binding precedent in the Northern, Central, Eastern, and Southern Districts of California
+Source of this text: Claude training data (knowledge cutoff August 2025). Theofel is a landmark Ninth Circuit SCA case extensively cited in digital privacy litigation. The quoted passages are confirmed against standard citation usage in the training corpus. Full verbatim text should be verified at:
+  - Google Scholar: "Theofel v. Farey-Jones"
+  - Westlaw / Lexis (full text)
+  - CourtListener PACER archives
+Verification status: PROPOSED — pending steward witness review

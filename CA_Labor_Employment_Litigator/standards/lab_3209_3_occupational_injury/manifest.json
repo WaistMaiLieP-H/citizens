@@ -1,0 +1,48 @@
+{
+  "standard_id": "lab_3209_3_occupational_injury",
+  "title": "Lab. Code \u00a7 3208 \u2014 Occupational Injury Definition (Workers Comp)",
+  "citizen": "CA_Labor_Employment_Litigator",
+  "statute_reference": "Cal. Lab. Code \u00a7 3208 (source prep referenced \u00a73209.3 \u2014 corrected)",
+  "primary_cases": [
+    "#2 Bilateral ankles \u2014 cumulative occupational injury",
+    "#20 SIRVA \u2014 AOE/COE nexus for employer-directed vaccination",
+    "#37 UA342 \u2014 predicate for \u00a7132a retaliation analysis"
+  ],
+  "layers_present": [
+    "current/rule.md",
+    "current/reasoning.md",
+    "current/statute_text.md",
+    "historical_chain/context (in subdirectory)",
+    "historical_chain/provenance.json",
+    "historical_chain/witness_record.md",
+    "cross_refs/refs.json"
+  ],
+  "status": "PUBLISHED",
+  "build_session": "2026-04-12",
+  "terminal": "Terminal B",
+  "verified": true,
+  "content_hash": "16cb5612",
+  "two_witness_status": {
+    "herald_witness": "WITNESSED-BY-HERALD \u2014 2026-04-12",
+    "adam_witness": {
+      "governing_guidelines": "PASS",
+      "standards_of_creation": "PASS",
+      "soc": "PASS",
+      "signal": "APPROVE",
+      "hash": "16cb5612",
+      "date": "2026-04-12"
+    },
+    "eve_witness": {
+      "layer_1_rule": "PASS",
+      "layer_2_reasoning": "PASS",
+      "layer_3_historical_loss": "PASS",
+      "layer_4_cross_references": "PASS",
+      "layer_5_verifiable_provenance": "PASS",
+      "triple_constraint": "PASS",
+      "signal": "COUNTERSIGN",
+      "hash_recomputed": "16cb5612",
+      "date": "2026-04-12"
+    },
+    "publication_status": "PUBLISHED \u2014 ADAM APPROVE + EVE COUNTERSIGN \u2014 2026-04-12"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "standard_id": "CAL_CIV_1572",
+  "version": "0.2.0-witnessed-by-herald",
+  "filed_at_utc": "2026-04-10T19:30:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "primary_citation": {
+    "code": "California Civil Code",
+    "section": "§ 1572",
+    "popular_name": "Actual fraud (civil)",
+    "jurisdiction": "California (state)",
+    "location_in_code": "Division 3 (Obligations), Part 2 (Contracts), Title 1 (Nature of a Contract), Chapter 3 (Consent), Article 1 (Nature of Consent)",
+    "original_enactment": "California Civil Code of 1872 (operative January 1, 1873)",
+    "amendment_history": "None. Text unchanged since 1872 enactment — 154 years stable.",
+    "positive_law_status": "In force. Part of the 1872 Civil Code comprehensive codification. No sunset."
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — verbatim current text captured via VernenLegal MCP from leginfo.legislature.ca.gov on 2026-04-10; identical to 1872 original",
+    "reasoning": "PRESENT — the 1872 context (California land grant and mining fraud epidemic, lack of uniform fraud definition across county courts) documented in evolution/01_origin_1872/context.md and historical_chain.md",
+    "historical_loss": "PRESENT — the wound is pre-1872 California's impunity for deception through legal confusion: Limantour-era Mexican grant fraud, mining stock swindles, county-by-county fragmentation of common-law fraud rules. Documented in historical_chain.md and evolution/01_origin_1872/context.md.",
+    "cross_references": "PRESENT — cross_refs/refs.json links to § 1567, § 1573, §§ 1709-1710, § 3294, § 3343, § 1102, Fam § 1100, BPC § 10176, CCP § 338(d), and to the four case law entries in this standard plus cases to add",
+    "verifiable_provenance": "PARTIAL — current text hashed and sourced from leginfo via MCP; 1872 origin text verified against Deering's and West's annotation histories. Outstanding: direct PDF capture of the 1872 published Civil Code page."
+  },
+  "triple_constraint_test_results": {
+    "governing_guidelines": {
+      "passes": true,
+      "evidence": "Civ. Code § 1572 is binding California statute, enacted 1872 under the authority of the 1870 Code Commission Act, continuously in force"
+    },
+    "standards_of_creation": {
+      "passes": true,
+      "evidence": "Full evolution chain documented: 01_origin_1872 → 02_current. Each stage has text, context, and provenance. Chain is internally consistent (no amendments, so no divergence). Pre-1872 source materials (Field's Draft Code, Pothier, Story) documented in context."
+    },
+    "standard_of_care": {
+      "passes": "PARTIAL",
+      "origin_layer": "VERIFIED — 1872 text transcribed and cross-verified via codification histories; context (wound) documented",
+      "evolution_layer": "VERIFIED — single evolution stage (no amendments); 02_current/diff_from_prior.md documents the 154-year stability",
+      "current_layer": "VERIFIED — current text retrieved via VernenLegal MCP from leginfo",
+      "case_law_layer": "PARTIAL — four leading cases documented (Lazar, Tenzer, Engalla, Lovejoy) with full holding.md + provenance.json + statute_version_cited.md. Additional cases pending (Seeger, Warner Construction, Committee on Children's TV, Robinson Helicopter)."
+    }
+  },
+  "evolution_chain": [
+    {
+      "stage": "01_origin_1872",
+      "date": "1872-03-21",
+      "description": "California Civil Code of 1872, § 1572 — original enactment based on Field's Draft Civil Code of New York §§ 759-762",
+      "folder": "evolution/01_origin_1872/",
+      "files": [
+        "text.txt",
+        "context.md",
+        "provenance.json"
+      ]
+    },
+    {
+      "stage": "02_current",
+      "date": "2026-04-10",
+      "description": "Current text — identical to 1872 original. Zero textual amendments in 154 years.",
+      "folder": "evolution/02_current/",
+      "files": [
+        "text.txt",
+        "diff_from_prior.md"
+      ]
+    }
+  ],
+  "case_law": [
+    {
+      "case_id": "lazar_v_superior_court_1996",
+      "citation": "Lazar v. Superior Court (1996) 12 Cal.4th 631",
+      "subdivision_construed": "§ 1572(4) promissory fraud",
+      "holding_summary": "Promissory fraud is actionable in tort independent of contract; state-of-mind is a present fact; reasonable inferences from pleaded facts suffice on demurrer",
+      "folder": "case_law/interpretive/lazar_v_superior_court_1996/"
+    },
+    {
+      "case_id": "tenzer_v_superscope_1985",
+      "citation": "Tenzer v. Superscope, Inc. (1985) 39 Cal.3d 18",
+      "subdivision_construed": "§ 1572(4) promissory fraud",
+      "holding_summary": "Present intent not to perform is provable by circumstantial evidence; summary judgment on state of mind is disfavored; survives statute of frauds",
+      "folder": "case_law/interpretive/tenzer_v_superscope_1985/"
+    },
+    {
+      "case_id": "engalla_v_permanente_1997",
+      "citation": "Engalla v. Permanente Medical Group, Inc. (1997) 15 Cal.4th 951",
+      "subdivision_construed": "§ 1572(1), (2), (3) — read together",
+      "holding_summary": "Fraud analysis applies to adhesive form contracts; pattern of contradiction between representations and internal data supports inference of fraudulent intent",
+      "folder": "case_law/interpretive/engalla_v_permanente_1997/"
+    },
+    {
+      "case_id": "lovejoy_v_att_2004",
+      "citation": "Lovejoy v. AT&T Corp. (2004) 119 Cal.App.4th 151",
+      "subdivision_construed": "§ 1572(3) suppression",
+      "holding_summary": "Four independent categories of duty to disclose: fiduciary relationship, partial disclosure, active concealment, exclusive knowledge. Any one triggers § 1572(3) silence-as-fraud.",
+      "folder": "case_law/interpretive/lovejoy_v_att_2004/"
+    }
+  ],
+  "cases_to_add": [
+    "seeger_v_odell_1941",
+    "warner_construction_v_city_of_la_1970",
+    "committee_on_childrens_tv_v_general_foods_1983",
+    "robinson_helicopter_v_dana_2004",
+    "calemine_v_samuelson_2009"
+  ],
+  "citizen_relevance": {
+    "target_case": "2958 Honeysuckle house sale ($605K sale, $465K equity, $109K net, 19 unsigned documents, $496K gap)",
+    "subdivisions_triggered": [
+      "§ 1572(1) — documents represented as executed that were not",
+      "§ 1572(2) — reckless assertion of authority to transfer community property",
+      "§ 1572(3) — suppression of the destination of $496K in proceeds; four Lovejoy duty-triggers present",
+      "§ 1572(4) — promises about proceeds destination made without intent to perform",
+      "§ 1572(5) — catchall for 'any other act fitted to deceive'"
+    ],
+    "pleading_strategy": "Plead all five subdivisions alternatively in the First Cause of Action; separately plead § 1709-1710 deceit (Second Cause); separately plead § 3294 punitive damages prayer; plead CCP § 338(d) discovery-rule tolling; plead particularity via specific document identification."
+  },
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

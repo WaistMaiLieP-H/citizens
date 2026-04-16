@@ -1,0 +1,21 @@
+29 U.S.C. § 1109 — Liability for Breach of Fiduciary Duty (ERISA § 409)
+
+(a) Any person who is a fiduciary with respect to a plan who breaches any of the responsibilities, obligations, or duties imposed upon fiduciaries by this subchapter shall be personally liable to make good to such plan any losses to the plan resulting from each such breach, and to restore to such plan any profits of such fiduciary which have been made through use of assets of the plan by the fiduciary, and shall be subject to such other equitable or remedial relief as the court may deem appropriate, including removal of such fiduciary. The fiduciary may also be removed from office.
+
+(b) No fiduciary shall be liable with respect to a breach of fiduciary duty under this subchapter if such breach was committed before he became a fiduciary or after he ceased to be a fiduciary with respect to any particular transaction, and no fiduciary shall be liable for a breach of fiduciary duty with respect to any particular transaction if he was not a fiduciary at the time such transaction occurred.
+
+---
+
+29 U.S.C. § 1104 — Fiduciary Duties (ERISA § 404)
+
+(a)(1) Subject to sections 1103(c) and (d), 1342, and 1344 of this title, a fiduciary shall discharge his duties with respect to a plan solely in the interest of the participants and beneficiaries and—
+
+  (A) for the exclusive purpose of:
+    (i) providing benefits to participants and their beneficiaries; and
+    (ii) defraying reasonable expenses of administering the plan;
+
+  (B) with the care, skill, prudence, and diligence under the circumstances then prevailing that a prudent man acting in a like capacity and familiar with such matters would use in the conduct of an enterprise of a similar character and with like aims;
+
+  (C) by diversifying the investments of the plan so as to minimize the risk of large losses, unless under the circumstances it is clearly prudent not to do so; and
+
+  (D) in accordance with the documents and instruments governing the plan insofar as such documents and instruments are consistent with the provisions of this subchapter and part 3 of this subtitle.

@@ -1,0 +1,34 @@
+{
+  "standard_id": "CAL_GOV_13957",
+  "version": "0.2.0-witnessed-by-herald",
+  "filed_at_utc": "2026-04-10T23:30:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "primary_citation": {
+    "code": "California Government Code",
+    "section": "§ 13957",
+    "popular_name": "CalVCB compensation scope and per-victim caps",
+    "jurisdiction": "California (state)",
+    "location_in_code": "Government Code, Title 2, Division 3, Part 4, Chapter 5, Article 5",
+    "amendment_history": "Continuous expansion since 1965: mental health (1970s), relocation (1980s-90s), trauma scene cleanup (post-2000), service dog (2010s), etc.",
+    "positive_law_status": "In force; conditional sunset provision in subd. (c) routinely extended"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current text captured via MCP; structural digest in current/text.txt; full text preserved in MCP retrieval record",
+    "reasoning": "PRESENT — historical arc from narrow 1965 program to current eleven-category structure documented",
+    "historical_loss": "PARTIAL — the 'wound' is less acute here than for § 13956 (which corrects administrative over-denial); § 13957's history is more about progressive expansion of what counts as a compensable expense",
+    "cross_references": "PRESENT — cross_refs/refs.json links to §§ 13955, 13957.2, 13957.5, 13969, HSC § 118321, PC §§ 600.2/600.5, 42 USC § 10601",
+    "verifiable_provenance": "PARTIAL — current text via MCP; pre-2002 amendment history pending PDF capture"
+  },
+  "case_law": [],
+  "cases_to_add": [
+    "CalVCB appellate cases on category-specific disputes (mental health cap; relocation 'dire or exceptional circumstances'; excess-of-cap requests)"
+  ],
+  "citizen_relevance": "Secondary to § 13955/§13956 for the A25-10117946 appeal — relevant for calculating the remedy after reversal of denial. Provides the menu of compensation categories to claim.",
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

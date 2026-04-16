@@ -1,0 +1,66 @@
+TENNESSEE v. LANE
+541 U.S. 509 (2004)
+United States Supreme Court
+Decided: May 17, 2004
+
+---
+
+FACTS:
+
+George Lane, a paraplegic who used a wheelchair, was required to appear in a second-floor Tennessee courtroom that had no elevator. He crawled up the stairs to appear at his first hearing. When summoned for a second hearing, he refused to crawl again and was arrested for failure to appear. Beverly Jones, a court reporter also using a wheelchair, alleged she was unable to access multiple county courthouses to perform her job.
+
+Lane and Jones sued Tennessee under Title II of the ADA, arguing that Tennessee's failure to provide accessible courthouses denied them meaningful access to state courts in violation of § 12132 and the ADA's enforcement regulation. Tennessee invoked Eleventh Amendment sovereign immunity, arguing Congress lacked power under § 5 of the Fourteenth Amendment to abrogate state immunity when enacting Title II.
+
+---
+
+HOLDING:
+
+Justice Stevens wrote for the Court (5-4).
+
+CONGRESS VALIDLY ABROGATED ELEVENTH AMENDMENT IMMUNITY FOR TITLE II AS APPLIED TO COURT ACCESS:
+
+The Court applied the City of Boerne proportionality framework: legislation under § 5 is valid if it is "congruent and proportional" to the pattern of constitutional violations Congress documented.
+
+CONGRESSIONAL FINDING OF PERVASIVE DISCRIMINATION:
+Congress documented extensive evidence that states systematically excluded disabled persons from public services, programs, and activities — including courthouses — in violation of due process and equal protection.
+
+FUNDAMENTAL RIGHT AT STAKE:
+Access to the courts is a fundamental right under due process. When Title II enforces access to courts, it operates in an area where heightened constitutional scrutiny already applies. Congruence and proportionality is satisfied when Congress enforces access to fundamental rights.
+
+HOLDING:
+"Title II, as it applies to the class of cases implicating the fundamental right of access to the courts, constitutes a valid exercise of Congress' § 5 authority to enforce the guarantees of the Fourteenth Amendment."
+
+Tennessee could not invoke sovereign immunity to bar the § 12132 claim.
+
+---
+
+THE ADA TITLE II / COURTHOUSE ACCESS RULE:
+Public entities, including state courts and state agencies, must:
+1. Ensure their facilities are physically accessible to persons with mobility disabilities
+2. Provide program accessibility — if a specific courthouse location is inaccessible, provide an accessible alternative
+3. Provide reasonable modifications in policies and practices to ensure access
+
+Failure to provide accessible courthouse access violates both Title II and the constitutional due process right of access to courts.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Tennessee v. Lane is the controlling case for:
+1. **Courthouse/court access claims**: Any state court or agency building that is inaccessible to a disabled party triggers § 12132.
+2. **Sovereign immunity bar**: Title II abrogates Eleventh Amendment immunity for court-access claims. State defendants cannot claim sovereign immunity to block ADA claims about courthouse access.
+3. **Federal enforcement against states**: Tennessee v. Lane confirms that money damages are available against states under Title II for claims involving fundamental rights, including access to courts.
+
+For the § 1983 federal complaint: if state court proceedings were conducted in inaccessible venues, or if a disabled plaintiff was excluded from hearings, Lane supports a parallel Title II claim.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 541 U.S. 509 (2004)
+Court: United States Supreme Court
+Reporter: United States Reports, vol. 541, page 509
+Author: Stevens, J. (5-4)
+Dissent: Scalia, J.; Thomas, J.
+Source of this text: Claude training data (knowledge cutoff August 2025). Tennessee v. Lane is the controlling case on ADA Title II abrogation of Eleventh Amendment immunity for court-access claims.
+Verification: CourtListener / Justia / Google Scholar: "Tennessee v. Lane 541 U.S. 509"
+Verification status: PROPOSED — pending steward witness review

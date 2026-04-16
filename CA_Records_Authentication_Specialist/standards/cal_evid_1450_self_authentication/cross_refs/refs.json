@@ -1,0 +1,41 @@
+{
+  "standard": "cal_evid_1450_self_authentication",
+  "cross_references": [
+    {
+      "cite": "Cal. Evid. Code § 1400",
+      "label": "Authentication of a Writing — Foundation Requirement",
+      "relationship": "general_rule",
+      "note": "§1400 is the general authentication requirement that §§1450-1454 operate as presumptions within. When a §1450-1454 presumption is rebutted, the proponent falls back to §1400(a) extrinsic evidence."
+    },
+    {
+      "cite": "Cal. Evid. Code § 1401",
+      "label": "Authentication Required for Admission",
+      "relationship": "admissibility_gate",
+      "note": "§1401 requires authentication before admission. A document that fails §1450-1454 and cannot satisfy §1400(a) is inadmissible under §1401."
+    },
+    {
+      "cite": "Cal. Evid. Code § 1280",
+      "label": "Official Records Hearsay Exception",
+      "relationship": "companion_admission_basis",
+      "note": "§1280 provides the hearsay exception for official records. §1450/1451 establish authenticity; §1280 establishes admissibility for the truth of the content. Both are needed to fully admit an official government record."
+    },
+    {
+      "cite": "Cal. Evid. Code § 600",
+      "label": "Presumptions — Burden of Proof",
+      "relationship": "presumption_mechanics",
+      "note": "§600 et seq. governs California's rebuttable presumption framework. The §§1450-1454 presumptions are rebuttable under §600's framework — once the opponent introduces evidence to the contrary, the presumption is defeated and the burden shifts back to the proponent."
+    },
+    {
+      "cite": "FRE 902",
+      "label": "Federal Self-Authentication",
+      "relationship": "federal_analog",
+      "note": "FRE 902 is the federal analog, with a broader list of self-authenticating categories including certified electronic records (FRE 902(13)/(14) added 2017). California lacks an electronic self-authentication equivalent, making electronic records in California state court dependent on §1400(a) or §1552."
+    },
+    {
+      "cite": "Cal. Evid. Code § 1552",
+      "label": "Computer Printouts — Electronic Records Pathway",
+      "relationship": "electronic_analog",
+      "note": "§1552 provides an authentication pathway for computer-generated records in California, partially filling the gap left by the absence of a FRE 902(13)/(14) equivalent. Used together with §§1450-1454 for electronic official records."
+    }
+  ]
+}

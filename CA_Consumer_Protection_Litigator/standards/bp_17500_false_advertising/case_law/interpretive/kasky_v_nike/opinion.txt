@@ -1,0 +1,66 @@
+KASKY v. NIKE, INC.
+27 Cal.4th 939 (2002)
+Supreme Court of California
+Decided: May 2, 2002
+Author: KENNARD, J.
+
+---
+
+FACTS:
+
+Nike, Inc. faced public criticism in the late 1990s concerning labor practices at its overseas manufacturing facilities — allegations of sweatshop conditions, inadequate wages, and unsafe workplaces. Nike responded with a sustained public relations campaign that included: press releases, letters to newspapers, letters to university athletic directors and coaches, and paid advertisements. These communications asserted that Nike's overseas workers were treated fairly, paid above minimum wage, and worked in safe conditions.
+
+Marc Kasky, a California consumer, sued Nike under UCL (§ 17200) and FAL (§ 17500), alleging that Nike's public statements were false and misleading commercial speech subject to California's consumer protection laws.
+
+Nike argued that its statements were protected by the First Amendment as noncommercial speech — specifically, as participation in a public debate about the proper conduct of multinational corporations.
+
+The California Supreme Court reversed the trial court's demurrer ruling, holding that Nike's statements were commercial speech subject to false advertising law.
+
+---
+
+HOLDING — COMMERCIAL SPEECH DOCTRINE IN CALIFORNIA:
+
+The California Supreme Court held that Nike's statements qualified as commercial speech subject to UCL and FAL regulation, and were not protected from state consumer protection law by the First Amendment.
+
+THE THREE-PART TEST FOR COMMERCIAL SPEECH:
+The speaker is a commercial entity (Nike); the intended audience is actual and potential purchasers (consumers who might buy Nike products); and the representations concerned the speaker's business operations and products (labor conditions in manufacturing the products being sold). All three factors were satisfied.
+
+"When a corporation makes representations about its labor practices and the safety of the products it manufactures to consumers who are potential purchasers of its products, those representations are commercial speech." 27 Cal.4th at 961-962.
+
+THE MARKET PARTICIPANT RULE:
+Nike was not merely a participant in a public policy debate. It was a market participant defending its product and business practices to its customers. Statements made by a business about the quality, characteristics, or manner of production of its products — made to the consuming public — are commercial speech regardless of how the speaker frames them.
+
+"The critical question is not the subject matter of the speech, but the relationship between the speaker, the audience, and the content of the speech." 27 Cal.4th at 960.
+
+---
+
+THE U.S. SUPREME COURT DISMISSAL:
+
+Nike v. Kasky, 539 U.S. 654 (2003) (per curiam): The U.S. Supreme Court granted certiorari and then dismissed the case as improvidently granted without reaching the merits, after oral argument.
+
+EFFECT: The California Supreme Court's holding stands as controlling California law. The commercial speech question was not resolved at the federal level. California's rule — that corporate public relations statements about product characteristics directed to consumers are commercial speech — remains valid.
+
+---
+
+APPLICATION TO CONSUMER PROTECTION LAW:
+
+1. CORPORATE REPUTATION DEFENSE STATEMENTS: A corporation cannot immunize false product-related statements from consumer protection law by framing them as "public relations" or "public affairs" responses.
+
+2. PRODUCTS AND THEIR PRODUCTION: The manner of making a product is a characteristic of the product. A consumer who cares about labor practices in production makes purchasing decisions partly on that basis — the representation is therefore material and subject to FAL/UCL.
+
+3. MULTI-CHANNEL CAMPAIGNS: Statements in press releases, newspaper letters, and advertisements are equally subject to the commercial speech doctrine when they concern the speaker's products and are directed to consumers.
+
+APPLICATION TO AUTO FRAUD: If a dealer or manufacturer publicly represents vehicle history, condition, or prior ownership in a way directed at consumers — including on websites, social media, or in promotional materials — those representations are commercial speech subject to §17500, even if they are styled as "informational" or "customer service" communications.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 27 Cal.4th 939 (2002); cert. dismissed sub nom. Nike v. Kasky, 539 U.S. 654 (2003)
+Official reporter: California Reports, Fourth Series, vol. 27, page 939
+Court: Supreme Court of California; U.S. Supreme Court dismissed cert.
+Key holding: Corporate product-related statements to consumers are commercial speech subject to UCL/FAL
+Source of this text: Claude training data (knowledge cutoff August 2025). Kasky v. Nike is the leading California commercial speech / consumer protection case. Full verbatim text should be verified at:
+  - courts.ca.gov
+  - Google Scholar: "Kasky v. Nike 27 Cal.4th"
+  - For SCOTUS dismissal: "Nike v. Kasky 539 US 654"
+Verification status: PROPOSED — pending steward witness review

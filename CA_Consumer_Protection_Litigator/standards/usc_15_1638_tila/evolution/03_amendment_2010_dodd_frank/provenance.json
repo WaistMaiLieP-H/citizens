@@ -1,0 +1,13 @@
+{
+  "stage": "03_amendment_2010_dodd_frank",
+  "label": "Dodd-Frank — TILA Authority Transferred to CFPB",
+  "source": "Dodd-Frank Wall Street Reform and Consumer Protection Act, Pub. L. 111-203 (July 21, 2010)",
+  "effective_date": "2011-07-21 (CFPB operational)",
+  "key_changes": [
+    "TILA rulemaking and enforcement authority transferred from Federal Reserve Board to CFPB",
+    "Regulation Z re-adopted by CFPB at 12 C.F.R. Part 1026",
+    "CFPB active enforcement of auto lending TILA violations including yo-yo financing"
+  ],
+  "current_implementing_regulation": "12 C.F.R. Part 1026 (CFPB Regulation Z)",
+  "verbatim_capture_status": "PENDING"
+}

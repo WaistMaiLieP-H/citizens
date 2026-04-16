@@ -1,0 +1,18 @@
+{
+  "standard_id": "ccp_338_property_fraud_sol",
+  "citizen": "CA_Product_Liability_Litigator",
+  "content_hash": "2193253e",
+  "hash_method": "SHA-256 of sorted file walk, truncated to 8 chars",
+  "build_date": "2026-04-13",
+  "terminal": "Terminal B",
+  "layers": {
+    "layer_1_statute_text": "current/statute_text.md",
+    "layer_2_rule": "current/rule.md",
+    "layer_3_reasoning": "current/reasoning.md",
+    "layer_4_historical_chain": "historical_chain/01_origin_1872/context.md",
+    "layer_5_cross_refs": "cross_refs/refs.json"
+  },
+  "chronicle_flag": false,
+  "status": "PUBLISHED",
+  "witness_status": "ADAM+EVE APPROVED+COUNTERSIGNED"
+}

@@ -1,0 +1,79 @@
+BOARD OF COUNTY COMMISSIONERS OF BRYAN COUNTY, OKLAHOMA v. BROWN
+520 U.S. 397 (1997)
+United States Supreme Court
+Decided: April 28, 1997
+
+---
+
+FACTS:
+
+Jill Brown was injured by Bryan County Deputy Sheriff Stacy Burns during a traffic stop in 1991. Burns applied excessive force, jerking Brown from her car and injuring her knees severely enough to require surgery. Burns was Sheriff Moore's nephew; Moore had hired Burns despite Burns having an extensive criminal arrest record (which would have revealed assault and battery convictions had the sheriff reviewed the full background). Moore had reviewed only an "injuries to officers" section of the record, not the full criminal history.
+
+Brown sued Bryan County and Sheriff Moore under § 1983 / Monell, arguing that the county's single hiring decision — retaining Burns despite his disqualifying record — constituted a municipal policy of deliberate indifference that caused her injury.
+
+The district court entered judgment for Brown. The Fifth Circuit affirmed. The Supreme Court reversed.
+
+---
+
+HOLDING:
+
+Justice O'Connor wrote for the Court (5-4).
+
+THE STANDARD FOR SINGLE-HIRING-DECISION MONELL LIABILITY:
+A municipality can be held liable under Monell for a single decision by a final policymaker only if:
+1. The policymaker had actual or constructive notice that the hiring decision was "highly likely to result in" a constitutional violation; AND
+2. The policymaker consciously disregarded that risk (deliberately indifferent).
+
+"The connection between the background of the particular applicant and the specific constitutional violation alleged must be strong."
+
+WHY THE BRYAN COUNTY CLAIM FAILED:
+Even accepting that Sheriff Moore negligently failed to review Burns's full record, negligence is not sufficient for Monell deliberate indifference. The claim required proof that:
+- Moore KNEW hiring someone with Burns's record was HIGHLY LIKELY to result in a constitutional violation
+- Moore CONSCIOUSLY DISREGARDED that risk
+
+The evidence showed Moore was careless, not that he knew of the constitutional risk and ignored it. "The mere culpability of a policymaker is not enough to establish a causal link between policy and the complained-of constitutional deprivation."
+
+THE PROXIMATE CAUSE REQUIREMENT:
+"The plaintiff must also demonstrate that, through its deliberate conduct, the municipality was the 'moving force' behind the injury alleged." In hiring cases, this requires showing the causal link between the specific inadequacy in the hiring decision and the specific constitutional violation — not simply that the employee was "generally" unfit.
+
+---
+
+SIGNIFICANCE FOR MONELL DOCTRINE:
+
+After Monell, Canton, Connick, and Brown, the full picture:
+| Monell theory | Standard | Key case |
+|---|---|---|
+| Official written policy | Policy caused violation | Monell |
+| Widespread custom | Custom so settled it has force of law | Monell |
+| Final policymaker decision | Actual decision by policymaker = policy | Pembaur |
+| Failure to train | Deliberate indifference to obvious training need | City of Canton |
+| Single hiring decision | High probability of violation + conscious disregard | Bd. of County Commissioners |
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Brown/Bryan County defines the Monell theory for single-decision cases:
+
+1. **APD hiring/supervision claims**: If APD retained officers with documented records of responding to false reports without consequence — and a policymaker knew this — the single-retention-decision theory from Bryan County may apply.
+
+2. **The "high probability" link**: The key is connecting Burns's specific record (assault convictions) to excessive force. In the steward's context: connecting the officer's prior handling of false-report dispatches to the June 16, 2023 constitutional violation.
+
+3. **Where Brown is distinguishable**: The county's supervisory failure here was not mere carelessness — it was the product of a multi-year documented pattern that should have put any policymaker on notice. Brown's "highly likely" standard is satisfied where the pattern makes constitutional violations highly predictable.
+
+4. **Combination theory**: Plead Monell under multiple theories simultaneously:
+   - Failure to train (Canton) — the primary theory
+   - Ratification of custom (Monell) — the secondary theory
+   - Single policymaker decision (Bryan County) — in the alternative if specific supervisory decisions can be identified
+
+---
+
+SOURCE PROVENANCE:
+Citation: 520 U.S. 397 (1997)
+Court: United States Supreme Court
+Reporter: United States Reports, vol. 520, page 397
+Author: O'Connor, J. (5-4)
+Dissent: Souter, J. (joined by Stevens, Ginsburg, Breyer)
+Source of this text: Claude training data (knowledge cutoff August 2025). Board of County Commissioners v. Brown held that single hiring-decision Monell liability requires proof that the policymaker knew the decision was highly likely to result in a constitutional violation and consciously disregarded that risk — negligence is insufficient.
+Verification: CourtListener / Justia / Google Scholar: "Board of County Commissioners v. Brown 520 U.S. 397"
+Verification status: PROPOSED — pending steward witness review

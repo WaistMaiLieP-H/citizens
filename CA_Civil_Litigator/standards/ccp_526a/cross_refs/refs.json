@@ -1,0 +1,27 @@
+{
+  "standard_id": "CCP_526A",
+  "cross_references": [
+    {
+      "target_standard": "CCP_1085",
+      "relationship": "frequently pleaded together -- 526a provides taxpayer standing to challenge illegal expenditures; 1085 mandamus compels the officer to perform a duty. When a government officer both spends illegally and refuses to perform a legal duty, both statutes apply.",
+      "target_citizen": "CA_Civil_Litigator",
+      "target_manifest": "${citizens}/CA_Civil_Litigator/standards/ccp_1085/manifest.json",
+      "build_status": "BUILT"
+    },
+    {
+      "target_standard": "CCP_1021_5",
+      "relationship": "fee-shifting companion -- a taxpayer who successfully enjoins illegal spending under 526a may recover attorney's fees under 1021.5 if the action conferred a significant public benefit",
+      "target_citizen": "CA_Civil_Litigator",
+      "target_manifest": "${citizens}/CA_Civil_Litigator/standards/ccp_1021_5/manifest.json",
+      "build_status": "BUILT"
+    },
+    {
+      "target_standard": "GOV_CODE_810",
+      "relationship": "Tort Claims Act boundary -- 526a is an equitable action (injunction), not a tort claim, so the Government Claims Act (Gov. Code 810+) does not require a prior claim filing; but the two frameworks define different aspects of government accountability litigation",
+      "target_citizen": "CA_Civil_Litigator",
+      "target_manifest": "${citizens}/CA_Civil_Litigator/standards/gov_code_810/manifest.json",
+      "build_status": "BUILT \u2014 WITNESSED-BY-HERALD 2026-04-12"
+    }
+  ],
+  "refs_updated": "2026-04-12 \u2014 ADAM review pass; build_status fields updated to reflect current corpus state"
+}

@@ -1,0 +1,13 @@
+{
+  "stage": "02_amendment_2001_usa_patriot",
+  "label": "USA PATRIOT Act + Warshak Constitutional Interpretation",
+  "source": "USA PATRIOT Act, Pub. L. 107-56 (2001) + United States v. Warshak, 631 F.3d 266 (6th Cir. 2010)",
+  "effective_date": "2001-10-26",
+  "provisions_amended": [
+    "18 U.S.C. §2702 — emergency disclosure provisions added",
+    "18 U.S.C. §2703 — subscriber records scope expanded; multi-district authority added"
+  ],
+  "civil_remedy_unchanged": "18 U.S.C. §2707 was NOT amended by PATRIOT Act; $1,000 minimum + actual + punitive + fees remains operative",
+  "constitutional_overlay": "United States v. Warshak, 631 F.3d 266 (6th Cir. 2010) — Fourth Amendment requires warrant for government access to stored email regardless of age; DOJ adopted warrant policy nationally",
+  "verbatim_capture_status": "PENDING"
+}

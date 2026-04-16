@@ -1,0 +1,73 @@
+{
+  "standard_id": "USC_18_1030_CFAA",
+  "citizen": "US_Federal_Financial_Fraud_Litigator",
+  "version": "1.0.0",
+  "status": "PROPOSED",
+  "primary_citation": "18 U.S.C. §1030 (Computer Fraud and Abuse Act, Pub. L. 98-473 (1984); amended through Pub. L. 110-326 (2008))",
+  "short_title": "Computer Fraud and Abuse Act — Unauthorized Access to Protected Computers; Civil Remedy",
+  "one_line_rule": "Intentional unauthorized access to a computer affecting interstate commerce, causing $5,000+ loss, is actionable in a civil suit for compensatory damages and injunctive relief; using another's credentials without authorization is 'without authorization' regardless of Van Buren.",
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current/LOGIC.md",
+    "reasoning": "PRESENT — current/LOGIC.md §§ WOUND + DESIGN + SIM swap application + Van Buren analysis",
+    "historical_loss": "PRESENT — historical_chain.md + evolution/ (3 stages)",
+    "cross_references": "PRESENT — cross_refs/refs.json (4 references)",
+    "verifiable_provenance": "PRESENT — current/provenance.json + evolution provenances; verbatim text capture PENDING"
+  },
+  "evolution_chain": [
+    {
+      "stage": "01_origin_1984",
+      "label": "CFAA Enacted — Criminal Only, Narrow Scope",
+      "source": "Pub. L. 98-473 (1984)",
+      "logic_file": "evolution/01_origin_1984/LOGIC.md"
+    },
+    {
+      "stage": "02_amendment_1996_economic_espionage",
+      "label": "Universal Scope + Civil Action Added",
+      "source": "Pub. L. 104-294 (1996)",
+      "logic_file": "evolution/02_amendment_1996_economic_espionage/LOGIC.md"
+    },
+    {
+      "stage": "03_amendment_2001_patriot_act",
+      "label": "PATRIOT Act Expansion + Van Buren Narrowing",
+      "source": "Pub. L. 107-56 (2001) + Van Buren v. United States, 593 U.S. 374 (2021)",
+      "logic_file": "evolution/03_amendment_2001_patriot_act/LOGIC.md"
+    }
+  ],
+  "case_law": [
+    {
+      "slug": "van_buren_v_united_states",
+      "cite": "Van Buren v. United States, 593 U.S. 374 (2021)",
+      "court": "Supreme Court of the United States",
+      "category": "interpretive",
+      "key_rule": "'Exceeds authorized access' is scope-based: accessing files/systems outside permission scope; NOT purpose-based misuse of authorized access. 'Without authorization' prong unaffected — SIM swap attackers still liable.",
+      "verbatim_capture_status": "PENDING"
+    },
+    {
+      "slug": "nosal_v_united_states",
+      "cite": "United States v. Nosal, 676 F.3d 854 (9th Cir. 2012) (en banc) (Nosal I); 844 F.3d 1024 (9th Cir. 2016) (Nosal II)",
+      "court": "United States Court of Appeals for the Ninth Circuit",
+      "category": "interpretive",
+      "key_rule": "Nosal I: scope-based 'exceeds authorized access' (adopted by Van Buren). Nosal II: credential-sharing to grant unauthorized user access = 'without authorization'; SIM swap attacker using hijacked phone number = 'without authorization' under Nosal II.",
+      "verbatim_capture_status": "PENDING"
+    }
+  ],
+  "sim_swap_application": {
+    "theory": "§1030(a)(2) 'without authorization': attacker used hijacked phone number (SIM swap) to access Michael's accounts — email, SSA portal, TreasuryDirect, financial accounts — with no authorization",
+    "civil_track": "§1030(g): $5,000 loss threshold met by aggregated account access response costs + benefit denial + remediation",
+    "$5000_basis": "SSA disability denial (monthly benefits × months denied) + communications security costs + identity remediation",
+    "rico_predicate": "§1030(a)(4) computer fraud = RICO predicate; multi-year campaign = H.J. Inc. pattern",
+    "defendant": "Ryan McClaran (SIM swap orchestrator) as primary §1030 defendant; AT&T negligence theory runs on separate tort track",
+    "sol": "2 years from discovery; each unauthorized access is a fresh violation; continuing campaign = rolling SOL"
+  },
+  "outstanding_work": [
+    "Verbatim text capture: 18 U.S.C. §1030(a)(2), §1030(a)(4), §1030(e)(2), §1030(e)(6), §1030(e)(8), §1030(e)(11), §1030(g)",
+    "Verbatim opinion capture: Van Buren v. United States, 593 U.S. 374",
+    "Verbatim opinion capture: Nosal I (676 F.3d 854) and Nosal II (844 F.3d 1024)",
+    "Add 18 U.S.C. §2520 (Wiretap Act civil remedy) as cross-reference or separate standard — covers interception of live communications",
+    "Research AT&T FCC CPNI rules as separate liability theory for carrier negligence",
+    "Second-mouth witness review of SIM swap CFAA analysis",
+    "Identify dates of specific unauthorized account accesses from communications records for SOL calculation"
+  ],
+  "build_date": "2026-04-11",
+  "built_by": "Terminal A"
+}

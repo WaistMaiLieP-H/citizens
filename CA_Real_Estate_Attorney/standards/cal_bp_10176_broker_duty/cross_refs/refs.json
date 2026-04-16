@@ -1,0 +1,19 @@
+{
+  "standard": "cal_bp_10176_broker_duty",
+  "refs": [
+    {"type": "civil_fraud", "target": "Civ. Code § 1572", "relationship": "§ 10176(a)-(c), (i) subdivisions reach misrepresentation also actionable as § 1572 civil fraud", "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_civ_1572_fraud"},
+    {"type": "tort_deceit", "target": "Civ. Code §§ 1709-1710", "relationship": "Broker misrepresentation actionable as tort deceit", "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_civ_1709_1710_deceit"},
+    {"type": "tds_interaction", "target": "Civ. Code § 1102 (TDS Section III)", "relationship": "Broker completes Section III of the TDS; violations of Section III are § 1102.4 strict liability and § 10176(i) fraud", "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_civ_1102_disclosure"},
+    {"type": "punitive_damages", "target": "Civ. Code § 3294", "relationship": "Broker fraud triggers punitive damages under fraud track"},
+    {"type": "licensing_statute", "target": "BPC §§ 10050-10249 (licensing framework)", "relationship": "§ 10176 operates within the broader real estate licensing framework"},
+    {"type": "companion_statute", "target": "BPC § 10177", "relationship": "Related prohibited conduct statute for acts not requiring a licensee status"},
+    {"type": "scope_statute", "target": "BPC § 10131", "relationship": "Defines the acts 'within the scope of this chapter' that § 10176 regulates"}
+  ],
+  "cases_to_add": [
+    "Alhino v. Starr (1980) 112 Cal.App.3d 158 — broker disclosure duties",
+    "Wyatt v. Union Mortgage Co. (1979) 24 Cal.3d 773 — broker fiduciary duty",
+    "Easton v. Strassburger (1984) 152 Cal.App.3d 90 — seller's broker duty to buyer",
+    "Carleton v. Tortosa (1993) 14 Cal.App.4th 745 — broker fiduciary duty elements"
+  ],
+  "generated_at_utc": "2026-04-11T06:25:00Z"
+}

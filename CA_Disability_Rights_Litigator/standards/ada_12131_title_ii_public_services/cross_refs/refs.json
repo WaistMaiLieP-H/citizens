@@ -1,0 +1,47 @@
+{
+  "standard_id": "ada_12131_title_ii_public_services",
+  "citizen": "CA_Disability_Rights_Litigator",
+  "build_date": "2026-04-13",
+  "cross_references": [
+    {
+      "ref_id": "XREF-ADA12131-001",
+      "target_citizen": "CA_Disability_Rights_Litigator",
+      "target_standard": "civ_51_unruh_civil_rights_act",
+      "path": "${citizens}/CA_Disability_Rights_Litigator/standards/civ_51_unruh_civil_rights_act/",
+      "relationship": "concurrent",
+      "note": "ADA Title II violation is per se CIV §51 violation under §51(f). File the Title II federal claim for injunctive relief and the Unruh state claim for $4,000 minimum statutory damages per offense. The per se rule eliminates the need for separate California analysis — ADA Title II establishes the violation; California law provides the remedy."
+    },
+    {
+      "ref_id": "XREF-ADA12131-002",
+      "target_citizen": "CA_Administrative_Law_Specialist",
+      "target_standard": "ccp_1094_5_administrative_mandamus",
+      "path": "${citizens}/CA_Administrative_Law_Specialist/standards/ccp_1094_5_administrative_mandamus/",
+      "relationship": "parallel",
+      "note": "CalVCB, OAH, and other state agencies are public entities under Title II. ADA Title II disability discrimination by an agency runs parallel to CCP §1094.5 administrative mandamus challenging the agency decision. ADA provides the civil rights track; §1094.5 provides the administrative review track."
+    },
+    {
+      "ref_id": "XREF-ADA12131-003",
+      "target_citizen": "CA_Probate_Conservatorship_Litigator",
+      "target_standard": "prob_1800_intent",
+      "path": "${citizens}/CA_Probate_Conservatorship_Litigator/standards/prob_1800_intent/",
+      "relationship": "concurrent",
+      "note": "ADA Title II Olmstead mandate applies to conservatorship proceedings. Unnecessary conservatorship when community-based services are appropriate = Title II discrimination. The probate court (public entity) that ordered the conservatorship is the Title II respondent. Coordinate with CA_Probate_Conservatorship_Litigator for the PROB code framework."
+    },
+    {
+      "ref_id": "XREF-ADA12131-004",
+      "target_citizen": "CA_Disability_Rights_Litigator",
+      "target_standard": "rehab_act_504_no_exclusion",
+      "path": "${citizens}/CA_Disability_Rights_Litigator/standards/rehab_act_504_no_exclusion/",
+      "relationship": "parallel",
+      "note": "Section 504 (29 USC §794) provides a parallel track to Title II for programs receiving federal financial assistance. State agencies, courts, and hospitals receiving federal funds are covered by BOTH Title II and §504. Always plead both — different enforcement tracks, similar substantive standards."
+    },
+    {
+      "ref_id": "XREF-ADA12131-005",
+      "target_citizen": "CA_Law_Enforcement_Procedures_Specialist",
+      "target_standard": "pen_836_arrest_authority",
+      "path": "${citizens}/CA_Law_Enforcement_Procedures_Specialist/standards/pen_836_arrest_authority/",
+      "relationship": "parallel",
+      "note": "Police departments are public entities under ADA Title II. Failure to accommodate a disability during a police encounter (including failure to recognize disability-related behavior) is a Title II violation running parallel to any PC §836 arrest authority challenge. Coordinate with CA_Law_Enforcement_Procedures_Specialist."
+    }
+  ]
+}

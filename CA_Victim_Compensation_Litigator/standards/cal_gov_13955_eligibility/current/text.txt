@@ -1,0 +1,42 @@
+California Government Code § 13955 — CalVCB Eligibility Requirements
+
+Except as provided in Section 13956, a person shall be eligible for compensation when all of the following requirements are met:
+
+(a) The person for whom compensation is being sought is any of the following:
+  (1) A victim.
+  (2) A derivative victim.
+  (3) (A) A person who is entitled to reimbursement for funeral, burial, or crime scene cleanup expenses pursuant to paragraph (9) or (10) of subdivision (a) of Section 13957.
+      (B) This paragraph applies without respect to any felon status of the victim.
+
+(b) Either of the following conditions is met:
+  (1) The crime occurred in California. This paragraph shall apply only during those time periods during which the board determines that federal funds are available to the state for the compensation of victims of crime.
+  (2) Whether or not the crime occurred in California, the victim was any of the following:
+      (A) A resident of California.
+      (B) A member of the military stationed in California.
+      (C) A family member living with a member of the military stationed in California.
+
+(c) If compensation is being sought for a derivative victim, the derivative victim is a resident of California, or any other state, who is any of the following:
+  (1) At the time of the crime was the parent, grandparent, sibling, spouse, child, or grandchild of the victim.
+  (2) At the time of the crime was living in the household of the victim.
+  (3) At the time of the crime was a person who had previously lived in the household of the victim for a period of not less than two years in a relationship substantially similar to a relationship listed in paragraph (1).
+  (4) Is another family member of the victim, including, but not limited to, the victim's fiancé or fiancée, and who witnessed the crime.
+  (5) Is the primary caretaker of a minor victim, but was not the primary caretaker at the time of the crime.
+
+(d) The application is timely pursuant to Section 13953.
+
+(e) (1) Except as provided in paragraph (2), the injury or death was a direct result of a crime.
+    (2) [Motor vehicle exceptions — listed in full in the statute]
+
+(f) As a direct result of the crime, the victim or derivative victim sustained one or more of the following:
+  (1) Physical injury. [Board may presume physical injury for children witnessing DV]
+  (2) Emotional injury and a threat of physical injury.
+  (3) Emotional injury, where the crime was a violation of [enumerated PC sections including §§ 236.1, 261, 273a, 273d, 285, 286, 287, 288, 289 and the § 667.5(c) violent felony list]
+  (4) Injury to, or the death of, a guide/signal/service dog [PC §§ 600.2, 600.5]
+  (5) Emotional injury to a minor victim from nonconsensual distribution of pictures/video of sexual conduct
+
+(g) The injury or death has resulted or may result in pecuniary loss within the scope of compensation pursuant to Sections 13957 to 13957.7, inclusive.
+
+---
+
+Source: leginfo.legislature.ca.gov via VernenLegal MCP, retrieved 2026-04-10.
+[Motor vehicle exceptions in (e)(2)(A)-(F) abbreviated for this digest; full text preserved in the MCP retrieval record.]

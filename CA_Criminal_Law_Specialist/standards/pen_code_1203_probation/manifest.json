@@ -1,0 +1,45 @@
+{
+  "standard_id": "pen_code_1203_probation",
+  "statute": "California Penal Code § 1203",
+  "short_title": "Probation — Eligibility, Report, and Sentencing",
+  "citizen": "CA_Criminal_Law_Specialist",
+  "version": "1.1.0-witnessed-by-herald",
+  "created_at_utc": "2026-04-11T00:00:00Z",
+  "created_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "five_layer_status": {
+    "layer_1_rule": "COMPLETE — Pen. Code § 1203 operative provisions in current/text.txt",
+    "layer_2_reasoning": "COMPLETE — Probation definition, felony/misdemeanor tracks, § 1203(e) ineligibility list analysis, mitigation factors for case #7, § 1203.4 expungement pathway in current/context.md",
+    "layer_3_historical_loss": "COMPLETE — 1872 origin, DSL 1977, Three Strikes 1994 ineligibility expansion, AB 109 Realignment 2011 in historical_chain.md",
+    "layer_4_cross_refs": "COMPLETE — 7 cross-references covering diversion alternatives, expungement, restitution, court rules, mental health conditions in cross_refs/refs.json",
+    "layer_5_provenance": "COMPLETE — People v. Carbajal (1995) 10 Cal.4th 1114 (CA Supreme Court — three-part nexus test for probation conditions; reasonableness standard; parenting-specific application for § 273d) in case_law/interpretive/people_v_carbajal_1995/"
+  },
+  "five_layer_score": "5 / 5",
+  "key_finding": "PC § 273d (child abuse) is NOT in the § 1203(e) presumptive ineligibility list. Probation is available as a sentencing outcome for case #7 (04-23-01959) absent aggravating circumstances.",
+  "steward_case_connections": [
+    {
+      "case_id": "Case_7",
+      "case_ref": "04-23-01959",
+      "direction": "defendant",
+      "use": "Floor outcome — if diversion unavailable and conviction results, § 1203 probation is presumptively available for § 273d. Develop mitigation: no prior record, primary caretaker, no actual injury, coordinated accusation context."
+    },
+    {
+      "case_id": "M25-00758",
+      "direction": "defendant",
+      "use": "Misdemeanor conditional sentence available under § 1203(d) if diversion fails. No probation officer required; judge can set conditions directly."
+    }
+  ],
+  "outstanding_work": [
+    {
+      "priority": "MEDIUM",
+      "item": "Build pen_code_1203.4 expungement standard",
+      "reason": "Referenced as the post-probation pathway in § 1203 context.md; needed for full sentencing planning"
+    }
+  ],
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

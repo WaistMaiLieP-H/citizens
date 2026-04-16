@@ -1,0 +1,14 @@
+{
+  "standard": "pen_code_166_contempt",
+  "refs": [
+    {"type": "civil_parallel", "target": "CCP §§ 1209 et seq. (civil contempt)", "relationship": "Civil contempt procedure; parallel remedy under civil family/probate rules"},
+    {"type": "protected_order_crossref", "target": "Pen. Code § 136.2 (criminal protective orders)", "relationship": "§ 166(c) enhanced enforcement for § 136.2 orders"},
+    {"type": "dvpa_interlock", "target": "Family Code §§ 6320, 6389 (DVPA orders)", "relationship": "§ 166(c) enhanced enforcement for Family Code DVPA orders; Terminal A domain for the substantive orders"},
+    {"type": "stalking_interlock", "target": "Pen. Code § 646.9 (stalking)", "relationship": "§ 166(b) enhanced enforcement for stalking-related contact violations"},
+    {"type": "dv_probation", "target": "Pen. Code § 1203.097 (DV probation)", "relationship": "§ 166(c) enhanced enforcement for § 1203.097(a)(2) probation orders"},
+    {"type": "elder_abuse", "target": "Pen. Code § 368 (elder abuse)", "relationship": "§ 166(c) enhanced enforcement for elder abuse protective orders"},
+    {"type": "firearms", "target": "Pen. Code § 29825 (firearm prohibitions)", "relationship": "§ 166(d) firearm possession prohibition for protected-order subjects"},
+    {"type": "cross_citizen", "target": "CA_Family_Law_Litigator (Terminal A)", "relationship": "Substantive DVPA and custody orders; coordination required"}
+  ],
+  "generated_at_utc": "2026-04-11T01:30:00Z"
+}

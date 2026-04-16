@@ -1,0 +1,64 @@
+IN RE MARRIAGE OF CREAM
+13 Cal.App.4th 81 (1993)
+California Court of Appeal
+[Citation requires verification at Casetext]
+
+---
+
+[NOTE: The specific citation for In re Marriage of Cream requires primary-source verification. The doctrinal proposition captured below represents the settled state of California law on how partnership fiduciary duty principles (via Corp. Code §§ 16403-16503) apply to spousal transactions under Fam. Code § 721(b). The specific Cream citation is marked for verification.]
+
+---
+
+DOCTRINAL PROPOSITION — FAM. CODE § 721(b) PARTNERSHIP FIDUCIARY DUTY:
+
+STATUTORY CROSS-REFERENCE:
+Fam. Code § 721(b) expressly incorporates partnership fiduciary duty by cross-reference to Corp. Code §§ 16403, 16404, and 16503. This means the well-developed body of partnership law on fiduciary duty applies directly to spousal transactions.
+
+THE FOUR PARTNERSHIP DUTIES THAT APPLY TO SPOUSES:
+
+1. **Duty of loyalty** (Corp. Code § 16404(b)): The managing spouse must:
+   (a) Account for property, profit, or benefit derived in conduct of the marriage's economic affairs
+   (b) Refrain from dealing with the community on behalf of a party whose interests are adverse to the community
+   (c) Refrain from competing with the community in the conduct of its affairs
+
+2. **Duty of care** (Corp. Code § 16404(c)): The managing spouse must refrain from engaging in grossly negligent or reckless conduct, intentional misconduct, or knowing violations of law.
+
+3. **Duty of good faith and fair dealing** (Corp. Code § 16404(d)): The managing spouse must discharge duties and obligations with good faith and fair dealing.
+
+4. **Duty to render information** (Corp. Code § 16403): The managing spouse must furnish, WITHOUT DEMAND, any information concerning the community's affairs reasonably required for the other spouse to exercise their rights and duties.
+
+THE "WITHOUT DEMAND" DUTY IS CRITICAL:
+Under partnership law, a managing partner cannot wait to be asked — they must volunteer material information. Applied to spouses under § 721(b), this means the managing spouse cannot defeat a disclosure claim by pointing out that the non-managing spouse never specifically asked about the transaction. The duty is affirmative and proactive.
+
+---
+
+WHY THE PARTNERSHIP ANALOGY MATTERS:
+
+The incorporation of partnership fiduciary duty by reference in § 721(b) gives the spousal fiduciary duty the substantive weight of a fully-developed body of law. Instead of rebuilding fiduciary doctrine from scratch in the spousal context, courts apply the partnership case law directly.
+
+The partnership fiduciary duty is one of the most demanding in California law — stronger than ordinary trustee duty, nearly as strong as attorney-client duty. By incorporating it, § 721(b) sets the bar at the highest level short of attorney-client relationship.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Applying the partnership fiduciary duty framework to the Honeysuckle transaction:
+
+1. **Duty of loyalty (§ 16404(b)(1)) — accounting obligation**: The managing spouse must account for property, profit, or benefit derived from the Honeysuckle transaction. The $496K unaccounted gap is squarely within this duty.
+
+2. **Duty of loyalty (§ 16404(b)(2)) — no adverse-interest dealings**: If the managing spouse was dealing with the community property on behalf of an adverse party (e.g., transferring proceeds to accounts held by relatives or third parties), the duty of loyalty was breached.
+
+3. **Duty to render information without demand**: The managing spouse should have volunteered detailed information about the transaction's structure, timing, and disposition of proceeds — without being asked. Silence or waiting-to-be-asked is a breach under § 16403.
+
+4. **Duty of care**: Grossly negligent handling of the community's economic affairs — allowing 19 unsigned documents, losing track of $496K in proceeds — may constitute a duty-of-care breach independent of fraud.
+
+5. **Pleading the partnership duty**: A complaint can allege breach of § 721(b) by reference to each of the four incorporated partnership duties, citing specific conduct that violated each duty. This creates a multi-count fiduciary breach framework that is harder to defeat at demurrer than a single catch-all fiduciary claim.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 13 Cal.App.4th 81 (1993) [verify — citation requires primary-source confirmation]
+Court: California Court of Appeal
+Source of this text: Claude training data (knowledge cutoff August 2025) supplemented by holding.md from prior build session. The doctrinal framework represents the application of Fam. Code § 721(b)'s partnership fiduciary duty cross-reference — the four partnership duties (loyalty, care, good faith, information-rendering) apply to spousal transactions. Specific Cream citation pending verification.
+Verification: Search Casetext / Google Scholar for "In re Marriage of Cream 13 Cal.App.4th 81"
+Verification status: PROPOSED — citation requires verification; holding doctrinal proposition confirmed by Fam. Code § 721(b) statutory text and Corp. Code cross-reference; pending steward witness review

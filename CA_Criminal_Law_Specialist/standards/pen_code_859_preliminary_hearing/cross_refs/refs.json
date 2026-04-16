@@ -1,0 +1,63 @@
+{
+  "standard": "pen_code_859_preliminary_hearing",
+  "last_updated": "2026-04-11",
+  "refs": [
+    {
+      "id": "REF-859-001",
+      "target_code": "Penal Code § 995",
+      "description": "Motion to set aside information — follows the preliminary hearing. The § 995 motion attacks the hold-to-answer order based on insufficiency of the probable cause evidence. Cross-reference pen_code_995_motion_to_dismiss.",
+      "relationship": "sequential_proceeding",
+      "direction": "out",
+      "internal_standard": "pen_code_995_motion_to_dismiss"
+    },
+    {
+      "id": "REF-859-002",
+      "target_code": "Penal Code § 1054.1",
+      "description": "Brady/Giglio discovery — prosecution's disclosure obligations apply from arraignment forward. Brady demand should be served immediately after arraignment; information revealed at prelim hearing may trigger additional Brady obligations. Cross-reference pen_code_1054_1_discovery.",
+      "relationship": "concurrent_obligation",
+      "direction": "out",
+      "internal_standard": "pen_code_1054_1_discovery"
+    },
+    {
+      "id": "REF-859-003",
+      "target_code": "Penal Code § 872(b)",
+      "description": "Hearsay admissibility at preliminary hearing — Prop 115 rule allowing law enforcement to testify to hearsay. Companion section to § 859. Understanding § 872(b) is required to develop the cross-examination strategy for a one-witness prelim.",
+      "relationship": "companion_section",
+      "direction": "out"
+    },
+    {
+      "id": "REF-859-004",
+      "target_code": "Evidence Code § 1043",
+      "description": "Pitchess motion — if APD officers testify at the preliminary hearing, Pitchess discovery of their personnel records may be sought before or during the preliminary hearing. Cross-reference pen_code_1054_1_discovery for Pitchess overlay.",
+      "relationship": "parallel_discovery",
+      "direction": "out"
+    },
+    {
+      "id": "REF-859-005",
+      "target_code": "Penal Code § 1050",
+      "description": "Good cause for continuance — the standard for continuing a preliminary hearing beyond the 10-court-day limit. Prosecution must establish good cause. Defense should object to continuances that are not justified.",
+      "relationship": "timing_exception",
+      "direction": "out"
+    },
+    {
+      "id": "REF-859-006",
+      "target_code": "Sixth Amendment — United States Constitution",
+      "description": "Confrontation Clause — preliminary hearing creates early confrontation rights issues. Where a witness testifies at the prelim and later becomes unavailable, their prelim testimony may be admitted at trial only if the defendant had an opportunity to cross-examine. This makes aggressive prelim cross-examination critical.",
+      "relationship": "constitutional_overlay",
+      "direction": "out"
+    },
+    {
+      "id": "REF-859-007",
+      "target_code": "Penal Code § 182 (conspiracy)",
+      "description": "Where the coordinated false accusation theory is operative, the preliminary hearing is the venue to begin establishing that the arrest was procured through coordination. Cross-examination of the APD officer about the call-in time, caller identity, and pre-positioning is the foundation of the § 182(a)(2) conspiracy theory. Cross-reference pen_code_182_conspiracy.",
+      "relationship": "conspiracy_theory_development",
+      "direction": "out",
+      "internal_standard": "pen_code_182_conspiracy"
+    }
+  ],
+  "internal_cross_refs": [
+    "pen_code_995_motion_to_dismiss",
+    "pen_code_1054_1_discovery",
+    "pen_code_182_conspiracy"
+  ]
+}

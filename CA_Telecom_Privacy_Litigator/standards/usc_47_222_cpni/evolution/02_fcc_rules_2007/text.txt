@@ -1,0 +1,19 @@
+FCC Report and Order on CPNI Authentication
+WC Docket No. 04-36, FCC 07-22 (2007)
+Released February 22, 2007
+
+Key FCC rules implementing § 222 (codified at 47 C.F.R. Part 64, Subpart U):
+
+1. **Authentication before CPNI disclosure** (§ 64.2010): Carriers must authenticate callers before releasing any CPNI over the phone. Authentication requires: (a) a password established by the customer, (b) answering a challenge question from the customer's account, OR (c) calling back the customer at a number on record.
+
+2. **Online access rules** (§ 64.2010(f)): For online account access, carriers must authenticate using the customer's password or PIN.
+
+3. **In-person authentication** (§ 64.2010(e)): For in-person store visits, carriers must authenticate using a government ID.
+
+4. **Notification requirement** (§ 64.2011): Carriers must immediately notify customers of any account changes, including address changes. The original 2007 rule required notification within 5 business days for addresses; immediate notification for SIM or number changes.
+
+**Critical gap in 2007 rules:** The 2007 rules required authentication before releasing CPNI (call records, usage data) — but did NOT explicitly address SIM swap authentication. The rules focused on disclosure of existing CPNI, not on account modifications. This gap allowed carriers to argue that SIM swaps were "account changes" not governed by the CPNI authentication rules.
+
+This gap was the source of massive carrier liability for SIM swap fraud from 2015-2024, until the 2024 rules closed it.
+
+Source: FCC 07-22, 22 FCC Rcd 6927 (2007), implementing 47 C.F.R. §§ 64.2001-64.2011.

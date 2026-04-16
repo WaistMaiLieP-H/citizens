@@ -1,0 +1,16 @@
+{
+  "actor_id": "wiita_patrick",
+  "shared_record": "${citizens}/_shared_actors/wiita_patrick.json (TO BE CREATED)",
+  "domain": "CA_Civil_Litigator",
+  "role": "CCP §340.5 MICRA defendant — medical malpractice (fraudulent/negligent competency evaluation)",
+  "risk_level": "HIGH",
+  "applicable_standards": ["CCP_340_5", "BUS_PROF_CODE_2052"],
+  "theory_of_liability": "Authored competency evaluation for criminal case 04-23-01959 that was self-contradicting, template boilerplate, and conducted while steward was under the influence. If Wiita is an MD, this is medical malpractice under CCP §340.5/MICRA. If a psychologist (Ph.D./PsyD), it falls under Bus. & Prof. Code §2960 et seq. with similar MICRA protections. The evaluation was used adversely against steward.",
+  "micra_considerations": {
+    "statute_of_limitations": "CCP §340.5 — 1 year from discovery, 3 years from injury",
+    "damage_cap": "MICRA non-economic cap applies (Civ. Code §3333.2)",
+    "prelitigation_requirement": "CCP §364 — 90-day notice of intent to sue required before filing",
+    "credential_verification_pending": "Specialty and license type (MD vs. Ph.D./PsyD) not yet confirmed"
+  },
+  "filed_at_utc": "2026-04-08T22:00:00Z"
+}

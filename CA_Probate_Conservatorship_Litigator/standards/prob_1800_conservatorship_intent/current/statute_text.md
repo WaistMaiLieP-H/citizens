@@ -1,0 +1,25 @@
+# Conservatorship — Legislative Intent and Rights — Statutory Text
+
+**Source:** Cal. Prob. Code § 1800
+**Retrieved:** 2026-04-13
+**URL:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1800.&lawCode=PROB
+
+## Text
+
+It is the intent of the Legislature in enacting this chapter to do the following:
+
+(a) Protect the rights of persons who are placed under conservatorship.
+
+(b) Provide that an assessment of the needs of the person is performed in order to determine the appropriateness and extent of a conservatorship and to set goals for increasing the conservatee's functional abilities to whatever extent possible.
+
+(c) Provide that the health and psychosocial needs of the proposed conservatee are met.
+
+(d) Provide that community-based services are used to the greatest extent in order to allow the conservatee to remain as independent and in the least restrictive setting as possible.
+
+(e) Provide that the periodic review of the conservatorship by the court investigator shall consider the best interests and expressed wishes of the conservatee; whether the conservatee has regained or could regain abilities and capacity with or without supports; and whether the conservatee continues to need a conservatorship.
+
+(f) Ensure that the conservatee's basic needs for physical health, food, clothing, and shelter are met.
+
+(g) Provide for the proper management and protection of the conservatee's real and personal property.
+
+(h) Ensure, to the greatest possible extent, that the conservatee is able to understand, make, and communicate their own, informed, choices while under conservatorship.

@@ -1,0 +1,27 @@
+{
+  "citizen_id": "US_Federal_Social_Security_Litigator",
+  "display_name": "U.S. Federal Social Security Litigator",
+  "domain": "Social Security Disability — Title II SSDI and Title XVI SSI; DDS medical development; ALJ hearings; Appeals Council; federal district court review",
+  "jurisdiction": "Federal",
+  "owner_terminal": "Terminal B",
+  "claimed": "2026-04-12",
+  "status": "BUILDING",
+  "path_anchors": {
+    "citizens": "~/citizens",
+    "nonfamilylaw": "~/NonFamilyLaw",
+    "familylaw": "~/FamilyLaw"
+  },
+  "primary_cases": ["#18 — SSA/DDS Fraud (2022-2024)"],
+  "secondary_cases": ["#37 — UA342 pension identity replacement (SSA records show 'retired' at 44)"],
+  "standards": [
+    "cfr_20_404_1520_five_step",
+    "usc_42_423_disability_def",
+    "poms_di_22505_msc228",
+    "hallex_i2_alj_procedure"
+  ],
+  "cross_refs_to_other_citizens": [
+    "US_Federal_Financial_Fraud_Litigator → 42 USC §405(g) judicial review (already built)",
+    "US_Federal_Financial_Fraud_Litigator → 5 USC §552a Privacy Act (already built)",
+    "US_Federal_Civil_Rights_Litigator → 42 USC §1983 (if DDS denial under color of state law)"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "evolution_stage": "01_origin_1872",
+  "standard_id": "CAL_CIV_1709_1710",
+  "description": "1872 California Civil Code §§ 1709–1710 — original Field Code enactment",
+  "enacted": "1872-03-21",
+  "field_code_source": "David Dudley Field, Proposed New York Civil Code (1865), adopted in California",
+  "source": "California Civil Code, enacted 1872",
+  "primary_source_url": "https://www.legislature.ca.gov/",
+  "retrieval_method": "Historical legal research + VernenLegal MCP confirmation of current text (2026-04-10). Sections are textually identical to 1872 enactment.",
+  "verification_status": "TEXT_STABLE — ORIGINAL_DATE_REQUIRES_VERIFICATION",
+  "verification_note": "Current text confirmed identical to 1872 formulation via VernenLegal MCP fetch 2026-04-10. Primary source: 1872 California Civil Code (Deering's) at California State Archives or HathiTrust.",
+  "html_sha256": null,
+  "fetch_timestamp": "2026-04-11T00:00:00Z",
+  "fetch_tool": "VernenLegal MCP (current text) + historical research",
+  "retrieval_steward": "Claude (assistant) under steward direction — Michael Hartmann"
+}

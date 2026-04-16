@@ -1,0 +1,15 @@
+{
+  "evolution_stage": "01_origin_1872",
+  "standard_id": "CAL_CIV_1213",
+  "description": "1872 California Civil Code § 1213 — recording as constructive notice, original Field Code enactment",
+  "enacted": "1872-03-21",
+  "source": "California Civil Code (Deering's), enacted 1872",
+  "primary_source_url": "https://www.legislature.ca.gov/",
+  "retrieval_method": "Historical legal research + VernenLegal MCP (current text confirmed 2026-04-10). Text substantially stable from 1872.",
+  "verification_status": "REQUIRES_PRIMARY_SOURCE_VERIFICATION",
+  "verification_note": "Verify at California State Archives or HathiTrust for 1872 text. Note: existing 'context/' folder in this standard contains additional background but not an evolution-formatted stage. This stage formalizes the origin properly.",
+  "html_sha256": null,
+  "fetch_timestamp": "2026-04-11T00:00:00Z",
+  "fetch_tool": "historical research + VernenLegal MCP",
+  "retrieval_steward": "Claude (assistant) under steward direction — Michael Hartmann"
+}

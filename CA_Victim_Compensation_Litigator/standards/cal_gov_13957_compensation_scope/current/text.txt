@@ -1,0 +1,47 @@
+California Government Code § 13957 — CalVCB compensation scope and caps
+
+[Full text retrieved via VernenLegal MCP on 2026-04-10; abbreviated structural digest below. Complete statutory text preserved in the MCP retrieval record for verifiable provenance.]
+
+(a) Authorized categories of reimbursement:
+
+  (1) Medical/medical-related expenses (subject to § 13957.2 limits) — licensed provider services; eyeglasses, hearing aids, dentures, prosthetic devices taken/lost/destroyed in crime or necessary as direct result
+
+  (2) Outpatient mental health counseling (subject to § 13957.2 limits) —
+      (A) $10,000 cap for: victim; derivative victim who is surviving parent/grandparent/sibling/child/grandchild/spouse/fiancé of homicide victim; derivative victim primary caretaker of minor victim (total not to exceed $10K for two derivative victims)
+      (B) $5,000 cap for: derivative victim not eligible under (A); minor witness in close proximity
+      (C) Excess of (A)/(B) or inpatient counseling for "dire or exceptional circumstances"
+      (D) Licensed providers (California license or equivalent state license with supervision)
+
+  (3) Loss of income or support (subject to § 13957.5 limits) — victim or derivative victim loss as direct result of injury/death; priority rules when applicant requests
+
+  (4) Job retraining or employment-oriented services (cash payment)
+
+  (5) Residential security — up to $1,000 — home security devices/systems, lock replacement/additions
+
+  (6) Residence or vehicle renovation for permanent disability (medically necessary)
+
+  (7) Relocation expenses — up to $3,418 per crime, with conditions:
+      (A) Law enforcement or mental health treatment provider determination that relocation is necessary for safety/emotional well-being
+      (B) One claimant per crime; multiple relocations permitted within the cap
+      (C) Second payment for second unrelated crime three+ years later permitted
+      (D) Non-disclosure/restraining order requirements for DV/SA victims
+      (E) Board may increase above cap for "unusual, dire, or exceptional circumstances"
+      (F) Security/pet deposits: Board named as recipient upon lease expiration
+
+  (8) Homicide victim expenses —
+      (A) Medical expenses at Board-established rates
+      (B) Funeral and burial up to $12,818 (floor, not ceiling)
+
+  (9) Crime scene cleanup — up to $1,709 — by registered trauma scene waste practitioners (HSC § 118321)
+
+  (10) Service/guide/signal dog veterinary/replacement expenses (PC §§ 600.2, 600.5) up to $10,000
+
+  (11) Minor victim mental health under § 13955(f)(5) (nonconsensual image distribution)
+
+(b) Total award cap per victim/derivative victim: $35,000, increased to $70,000 when federal funds are available.
+
+(c) Conditional sunset provision.
+
+---
+
+Source: leginfo.legislature.ca.gov via VernenLegal MCP, retrieved 2026-04-10. Full statutory text preserved in the MCP retrieval record.

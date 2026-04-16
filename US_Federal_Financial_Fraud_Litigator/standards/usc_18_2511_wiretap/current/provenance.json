@@ -1,0 +1,15 @@
+{
+  "standard_id": "USC_18_2511_WIRETAP",
+  "primary_source": "18 U.S.C. §2511",
+  "enacted": "Title III of the Omnibus Crime Control and Safe Streets Act of 1968, Pub. L. 90-351, 82 Stat. 197 (June 19, 1968) — original federal wiretap prohibition",
+  "current_version_source": "Electronic Communications Privacy Act of 1986, Pub. L. 99-508, 100 Stat. 1848 (Oct. 21, 1986) — extended coverage to electronic communications",
+  "codification": "Title 18 (Crimes and Criminal Procedure), Part I (Crimes), Chapter 119 (Wire and Electronic Communications Interception and Interception of Oral Communications), §§2510-2522",
+  "civil_action": "§2520 — actual damages or statutory minimum ($10,000 or $100/day, whichever greater) + punitive damages + attorneys' fees",
+  "related_statutes": "Stored Communications Act (SCA), 18 U.S.C. §§2701-2712; California CIPA, Cal. Penal Code §§630-638",
+  "fetch_method": "WebFetch — uscode.house.gov official source",
+  "fetch_timestamp_utc": "2026-04-11T00:00:00Z",
+  "retrieval_steward": "Claude (assistant) under direction of Michael Hartmann",
+  "verbatim_capture_status": "COMPLETE — usc_18_2511_leginfo.txt contains verbatim text of §2511(1) and §2520; §2511(2) exceptions require verification before filing",
+  "txt_sha256": "c9408d50cbc7714d5c1906f407ff3d6c0304a14978168ab246afa9be9b52a2e4",
+  "build_date": "2026-04-11"
+}

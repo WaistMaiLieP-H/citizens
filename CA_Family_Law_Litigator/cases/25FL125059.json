@@ -1,0 +1,36 @@
+{
+  "case_number": "25FL125059",
+  "court": "Alameda County Superior Court",
+  "type": "DVRO (Christina's counter, 2025)",
+  "petitioner": "Christina Cerretani",
+  "respondent": "Michael Hartmann",
+  "filed_date": "2025-06-04",
+  "current_status": "Denied; dismissed 2025-06-25",
+  "key_dates": [
+    {
+      "date": "2025-06-04",
+      "event": "Christina files counter DV-100 in Alameda (20 days after Michael's 5/15/2025 filing \u2014 matches counter-filing playbook)"
+    },
+    {
+      "date": "2025-06-25",
+      "event": "Denied and dismissed alongside Michael's 25FL122591"
+    }
+  ],
+  "source_folder": "FamilyLaw/2025-06-04/ and 2025-06-05/ (presumed)",
+  "related_actors": [
+    "cerretani_christina"
+  ],
+  "related_standards": [
+    "CA_FAM_6203_DVPA_ABUSE_DEFINITION",
+    "CA_FAMILY_CODE_3011_BEST_INTEREST"
+  ],
+  "related_cases": [
+    "25FL122591",
+    "FL0002067"
+  ],
+  "known_anomalies": [
+    "Filed 20 days after Michael's TRO \u2014 matches the 16-year counter-filing playbook (18-20 day window)",
+    "Dismissed same day as Michael's DVRO but Christina then files in Marin (FL0002067) approximately 22 days later \u2014 the same playbook pattern, this time crossing jurisdictional lines"
+  ],
+  "filed_at_utc": "2026-04-08T18:05:00Z"
+}

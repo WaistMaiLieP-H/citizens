@@ -1,0 +1,15 @@
+{
+  "case_slug": "ford_motor_credit_v_milhollin",
+  "citation": "Ford Motor Credit Co. v. Milhollin, 444 U.S. 555 (1980)",
+  "court": "Supreme Court of the United States",
+  "year": 1980,
+  "reporter": "United States Reports",
+  "volume": 444,
+  "page": 555,
+  "category": "foundational",
+  "statute_version_applicable": "15 U.S.C. §1638 + Federal Reserve Board Regulation Z (pre-Dodd-Frank version)",
+  "rule_established": "Deference to Federal Reserve Board (now CFPB) Regulation Z interpretations; Official Staff Commentary is authoritative; purpose of TILA (comparison shopping) informs disclosure requirement interpretation; good faith reliance on official guidance is relevant to liability",
+  "post_loper_bright_note": "Milhollin's deference holding weakened by Loper Bright Enterprises v. Raimondo (U.S. 2024) overruling Chevron; Official Staff Commentary to Regulation Z remains persuasive authority but mandatory deference reduced",
+  "verbatim_capture_status": "PENDING",
+  "verification_note": "Verify 444 U.S. 555 citation; note post-Loper Bright deference landscape when citing for agency deference proposition"
+}

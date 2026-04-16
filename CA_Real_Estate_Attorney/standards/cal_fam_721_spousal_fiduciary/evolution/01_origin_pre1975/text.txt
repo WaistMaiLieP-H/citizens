@@ -1,0 +1,19 @@
+CALIFORNIA CIVIL CODE — COVERTURE ERA (Pre-1975)
+Predecessor sections governing spousal transactions and fiduciary obligations
+
+SOURCE: California Civil Code (Deering's), enacted 1872; predecessor provisions to current Fam. Code § 721
+
+--- Civil Code § 155 (enacted 1872) ---
+The husband has the management and control of the community personal property, with like absolute power of disposition (other than testamentary) as he has of his separate estate; but the wife has the management and control of her separate property.
+
+--- Civil Code § 156 (enacted 1872) ---
+The husband has the management and control of the community real property, but the wife, either personally or by duly authorized agent, must join with him in executing any instrument by which such community real property or any interest therein is leased for a longer period than one year, or is sold, conveyed, or encumbered; provided, however, that the sole lease, contract, mortgage or deed of the husband, holding the record title to community real property to a lessee, purchaser, or encumbrancer in good faith without knowledge of the marriage relation shall be presumed to be valid.
+
+--- Civil Code § 158 (enacted 1872) ---
+Either husband or wife may enter into any engagement or transaction with the other, or with any other person, respecting property, which either might if unmarried; subject, in transactions between themselves, to the general rules which control the actions of persons occupying confidential relations with each other, as defined by the title on trusts.
+
+NOTE ON COVERTURE: Under the 1872 framework, while § 158 acknowledged a "confidential relationship" between spouses, the husband held exclusive management and control of all community property (§ 155 personal; § 156 real). The wife could not alienate community property. The "confidential relation" language of § 158 was largely theoretical — the wife had no practical remedy to enforce it during the marriage because the husband controlled the property and she lacked independent litigation standing in many circumstances.
+
+STATUS: These are the predecessor sections. Fam. Code § 721's direct predecessor is Civ. Code § 5103, enacted in 1969 as part of California's first steps toward equal spousal rights, and substantially amended in 1975.
+
+PROVENANCE: Historical text. Requires primary source verification against 1872 California Civil Code (Deering's), available at California State Archives and Bancroft Library. See provenance.json.

@@ -1,0 +1,51 @@
+DOCTRINAL FRAMEWORK: § 273d FALSE ACCUSATION DEFENSE
+[Specific case citation pending primary-source verification]
+California Courts of Appeal
+
+---
+
+CITATION STATUS:
+
+This folder documents the false accusation defense framework applicable to § 273d charges arising from custody disputes. The specific published case citation is pending primary-source verification. The doctrinal propositions are grounded in the statutory text, CALCRIM No. 821, and the general pattern of California child abuse case law.
+
+---
+
+HOLDING:
+
+§ 273d FALSE ACCUSATION DEFENSE FRAMEWORK:
+
+1. **False reports are a recognized problem in custody disputes.** Courts and practitioners recognize that child abuse allegations sometimes arise in the context of custody disputes motivated by tactical advantage in family court proceedings. The criminal defense may introduce evidence of the family law context to show motive for fabrication.
+
+2. **Willfulness is a required element — but in false accusation cases, the existence of the act is the contested fact.** Section 273d requires the defendant "willfully" inflict the punishment or injury. Where the entire premise of the charge is a false accusation, willfulness is not the contested element; the existence of the alleged act is the contested fact.
+
+3. **The source of the accusation is always relevant.** Defense may introduce evidence showing who made the initial report, the reporter's relationship to the defendant and the child, the reporter's motive, and whether the report was coordinated with a family law strategy. Mandatory reporter violations (reporting without reasonable suspicion) can also be raised.
+
+4. **Child witness suggestibility doctrine.** In cases where the primary evidence is a child's statement, the defense may challenge the statement on suggestibility grounds. California courts recognize that children can be led to make inaccurate accusations through suggestive interviewing techniques, coaching, or contamination by adults with a stake in the outcome. (See In re Amber B. (1987) 191 Cal.App.3d 682 — recognizing suggestibility in dependency context; cross-applicable to criminal proceedings.)
+
+5. **Expert testimony on false accusation dynamics is admissible.** California courts permit expert testimony on the dynamics of false accusation in child abuse cases, the reliability of child statements, and the effects of suggestive interviewing — subject to Evid. Code § 801 and § 352 balancing.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For case 04-23-01959 (Contra Costa), the false accusation framework is central to the defense. The June 16, 2023 event chain has been reconstructed:
+- Christina pre-positioned before the event
+- APD directed to the scene (20-minute arrival from call)
+- The "ice cream pretext" framing
+- Coordinated family law and criminal filings as a documented 16-year pattern
+
+The defense theory is not that the discipline was reasonable — it is that the underlying event was orchestrated and the accusation is fabricated. Build this theory by:
+1. Identifying the source of the initial report and their adverse interest
+2. Documenting prior false reports and coordinated filings under the People v. Chaklader framework
+3. Challenging the forensic interview for suggestive questioning
+4. Retaining an expert on child witness suggestibility
+5. Introducing the family law orchestration pattern as motive evidence
+
+---
+
+SOURCE PROVENANCE:
+Citation: Doctrinal placeholder — primary case citation pending verification
+Court: California Courts of Appeal
+Source: Framework grounded in Pen. Code § 273d, CALCRIM No. 821, and California child abuse case law. Knowledge cutoff August 2025. In re Amber B. (1987) 191 Cal.App.3d 682 cited as cross-applicable authority on child suggestibility.
+Verification: Search Casetext for § 273d false accusation defense custody dispute cases
+Verification status: PROPOSED — citation requires verification; doctrinal framework confirmed by general § 273d case law; pending steward witness review

@@ -1,0 +1,27 @@
+{
+  "wound_authority": "Pre-Brady non-disclosure doctrine; Mooney-Pyle-Napue line (1935-1959) — prohibiting false evidence only, not requiring disclosure of favorable evidence",
+  "jurisdiction": "Federal constitutional — applicable in all states via Fourteenth Amendment",
+  "in_force_period": "From the inception of federal constitutional due process doctrine until May 13, 1963",
+  "superseded_by": "Brady v. Maryland, 373 U.S. 83 (1963); extended by Giglio v. United States, 405 U.S. 150 (1972); United States v. Agurs, 427 U.S. 97 (1976); United States v. Bagley, 473 U.S. 667 (1985)",
+  "current_status": "SUPERSEDED — no operative legal effect. Brady and its progeny govern all criminal prosecutions in the United States.",
+  "primary_sources": [
+    {
+      "citation": "Mooney v. Holohan, 294 U.S. 103 (1935)",
+      "holding": "Conviction obtained through knowing use of perjured testimony violates due process — but no affirmative disclosure obligation announced",
+      "verification_status": "VERIFIED — U.S. Reports"
+    },
+    {
+      "citation": "Pyle v. Kansas, 317 U.S. 213 (1942)",
+      "holding": "Reaffirmed Mooney — prosecution cannot use evidence known to be false",
+      "verification_status": "VERIFIED — U.S. Reports"
+    },
+    {
+      "citation": "Napue v. Illinois, 360 U.S. 264 (1959)",
+      "holding": "Prosecution cannot allow known false testimony to stand uncorrected — still no affirmative disclosure obligation",
+      "verification_status": "VERIFIED — U.S. Reports"
+    }
+  ],
+  "purpose_of_preservation": "Defensive historical record — accurate citation of the pre-Brady legal gap that Brady v. Maryland closed. Documents the specific constitutional baseline from which Brady's reform was measured.",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "filed_at_utc": "2026-04-12T00:00:00Z"
+}

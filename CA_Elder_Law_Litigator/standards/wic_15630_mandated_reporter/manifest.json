@@ -1,0 +1,27 @@
+{
+  "standard_id": "wic_15630_mandated_reporter",
+  "citizen": "CA_Elder_Law_Litigator",
+  "citation": "Cal. Welf. & Inst. Code § 15630",
+  "jurisdiction": "California",
+  "version": "As amended through 2023",
+  "build_date": "2026-04-13",
+  "build_state": "PUBLISHED",
+  "layers": {
+    "rule": "COMPLETE",
+    "statute_text": "COMPLETE",
+    "historical_chain": "COMPLETE",
+    "case_law": "NONE — mandatory reporter duty is statute-driven, no controlling Supreme Court case law required at this layer",
+    "cross_refs": "COMPLETE"
+  },
+  "provenance": {
+    "source": "leginfo.legislature.ca.gov",
+    "tool": "mcp__claude_ai_VernenLegal__california_get_section",
+    "fetch_date": "2026-04-13",
+    "verified": true,
+    "statute_sha256": "2a0b748724b9388887b41c42878322a26962d6b90b3ba3ece0b9b0b64f600a8c"
+  },
+  "witness": {
+    "ADAM": "PENDING",
+    "EVE": "PENDING"
+  }
+}

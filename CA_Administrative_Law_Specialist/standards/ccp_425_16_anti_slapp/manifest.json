@@ -1,0 +1,29 @@
+{
+  "standard_id": "ccp_425_16_anti_slapp",
+  "citizen": "CA_Administrative_Law_Specialist",
+  "build_date": "2026-04-13",
+  "content_hash": "9bc9f0b0",
+  "hash_method": "SHA-256 of sorted file list with sha256sum, truncated to 8 chars",
+  "status": "PENDING_WITNESS",
+  "layers": {
+    "layer_1_statute_text": "current/statute_text.md",
+    "layer_2_operative_rule": "current/rule.md",
+    "layer_3_reasoning": "current/reasoning.md",
+    "layer_4_historical_chain": [
+      "historical_chain/witness_record.md",
+      "historical_chain/01_origin_1992/context.md"
+    ],
+    "layer_5_cross_refs": "cross_refs/refs.json",
+    "layer_5_provenance": "provenance.json"
+  },
+  "files": [
+    "cross_refs/refs.json",
+    "current/reasoning.md",
+    "current/rule.md",
+    "current/statute_text.md",
+    "historical_chain/01_origin_1992/context.md",
+    "historical_chain/witness_record.md",
+    "manifest.json",
+    "provenance.json"
+  ]
+}

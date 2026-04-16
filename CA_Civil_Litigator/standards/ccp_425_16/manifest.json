@@ -1,0 +1,99 @@
+{
+  "standard_id": "CCP_425_16",
+  "version": "0.3.0-published",
+  "filed_at_utc": "2026-04-09T03:40:00Z",
+  "filed_by": "Claude (assistant) under steward direction -- Michael Hartmann, Vernen Legal Compliance",
+  "status": "PUBLISHED \u2014 ADAM + EVE DUAL WITNESS \u2014 2026-04-12",
+  "primary_citation": {
+    "code": "Code of Civil Procedure",
+    "section": "425.16",
+    "popular_name": "Anti-SLAPP (Strategic Lawsuit Against Public Participation)",
+    "jurisdiction": "California",
+    "original_enactment": "Stats. 1992, Ch. 726 (S.B. 1264)",
+    "effective_date": "1993-01-01",
+    "last_amendment": "Multiple amendments; current text reflects all through 2026 including subdivisions (a)-(j)",
+    "source_credits": "(Added by Stats. 1992, Ch. 726, Sec. 2.)"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT -- verbatim text captured from leginfo.legislature.ca.gov via VernenLegal MCP tool, all subdivisions (a) through (j)",
+    "reasoning": "PRESENT -- origin context documents the wound (SLAPP suits chilling free speech and petition rights through litigation cost imposition) and the promise (early special motion to strike with mandatory fee-shifting)",
+    "historical_loss": "PRESENT -- historical chain documents the pattern of retaliatory litigation against speakers and petitioners and the legislative response creating a fast procedural remedy",
+    "cross_references": "PRESENT -- cross_refs/refs.json links to US Const. Amend. I, Cal. Const. Art. I secs. 2-3, CCP 1021.5, CCP 128.5",
+    "verifiable_provenance": "PRESENT -- current text hashed (SHA-256) and sourced from leginfo.legislature.ca.gov with fetch timestamp"
+  },
+  "evolution_chain": [
+    {
+      "stage": "01_origin",
+      "date": "1992",
+      "description": "Original anti-SLAPP statute -- Stats. 1992, Ch. 726",
+      "folder": "evolution/01_origin/"
+    },
+    {
+      "stage": "02_current",
+      "date": "current",
+      "description": "Current text with all amendments through 2026 including protected-activity definitions, exemptions, discovery stay, appealability, and Judicial Council reporting",
+      "folder": "evolution/02_current/"
+    }
+  ],
+  "case_law_documented": [
+    {
+      "case": "Baral v. Schnitt (2016) 1 Cal.5th 376",
+      "folder": "case_law/interpretive/baral_v_schnitt_2016/",
+      "summary": "Mixed claims: surgically strike protected-activity allegations, leave unprotected allegations intact"
+    },
+    {
+      "case": "Navellier v. Sletten (2002) 29 Cal.4th 82",
+      "folder": "case_law/interpretive/navellier_v_sletten_2002/",
+      "summary": "Step one asks only if claim arises from protected activity; merits question belongs at step two"
+    },
+    {
+      "case": "FilmOn.com v. DoubleVerify (2019) 7 Cal.5th 133",
+      "folder": "case_law/interpretive/filmon_v_doubleverify_2019/",
+      "summary": "Commercial speech not automatically excluded; must actually concern a public issue to qualify"
+    }
+  ],
+  "case_law_outstanding": [
+    "Bonni v. St. Joseph Health System (2021) 11 Cal.5th 995 -- refined the Baral mixed-claim analysis and established the framework for identifying protected and unprotected activity within a single claim"
+  ],
+  "hashes": {
+    "current_text_sha256": "7d1fc05ee3fd2982821dd7bebc217a71e5b692863e645f8b3634748dbd1513a4"
+  },
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction (Michael Hartmann), 2026-04-09",
+    "herald_witness": {
+      "witness": "HERALD (Steward successor \u2014 designated 2026-04-12)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "verification_scope": "Structure, five-layer bar completeness.",
+      "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12."
+    },
+    "adam_witness": {
+      "witness": "ADAM (Seed Citizen \u2014 Builder role)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "triple_constraint": "PASS/PASS/PASS",
+      "actions_taken": "Cross_refs updated to reflect current corpus state. Five-layer structure verified. Historical chain reviewed.",
+      "content_hash_verified": "7d1fc05ee3fd2982821dd7bebc217a71e5b692863e645f8b3634748dbd1513a4",
+      "signal": "APPROVE"
+    },
+    "eve_witness": {
+      "witness": "EVE (Seed Citizen \u2014 Witness role)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "five_layer_verification": "PASS/PASS/PASS/PASS/PASS",
+      "triple_constraint": "PASS/PASS/PASS",
+      "hash_independently_recomputed": "7d1fc05ee3fd2982821dd7bebc217a71e5b692863e645f8b3634748dbd1513a4 \u2014 CONFIRMED MATCHING",
+      "signal": "COUNTERSIGN"
+    },
+    "publishable_to_corpus": true,
+    "status": "PUBLISHED \u2014 ADAM + EVE DUAL WITNESS"
+  },
+  "outstanding_work": [
+    "Document remaining case: Bonni v. St. Joseph Health System (2021)",
+    "Trace full amendment history from 1992 to current",
+    "Obtain second-mouth countersignature"
+  ],
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

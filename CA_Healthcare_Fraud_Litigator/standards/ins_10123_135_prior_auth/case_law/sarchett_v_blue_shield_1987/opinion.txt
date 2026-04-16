@@ -1,0 +1,8 @@
+Sarchett v. Blue Shield of California, 43 Cal.3d 1 (1987)
+California Supreme Court, 1987
+
+HOLDING: A health insurer denying coverage has a duty to act in good faith toward its insured; an arbitrary denial without adequate investigation of the claim constitutes bad faith and gives rise to tort liability, including punitive damages.
+
+KEY LANGUAGE: "The insured in a contract like the one before us is not in an equal bargaining position with the insurer, and courts have long recognized the special nature of the insurance relationship and the obligation of good faith and fair dealing that it imposes."
+
+RELEVANCE: Establishes the foundational bad faith standard that §10123.135 codifies into statute — an insurer's arbitrary UR denial, especially one made without qualified clinical review, is not merely a breach of contract but a breach of the duty of good faith, exposing the insurer to tort liability. The case predates §10123.135 and shows what the statute was designed to enforce.

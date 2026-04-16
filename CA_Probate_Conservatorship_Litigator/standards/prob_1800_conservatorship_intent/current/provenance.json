@@ -1,0 +1,9 @@
+{
+  "source": "leginfo.legislature.ca.gov",
+  "fetch_tool": "mcp__claude_ai_VernenLegal__california_get_section",
+  "fetch_date": "2026-04-13",
+  "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1800.&lawCode=PROB",
+  "sha256": "127252f99165298613dc8f5d8e172a8f4b75fb4edb3dbe6daa179823a4d16109",
+  "verified": true,
+  "retrieval_steward": "Michael Hartmann"
+}

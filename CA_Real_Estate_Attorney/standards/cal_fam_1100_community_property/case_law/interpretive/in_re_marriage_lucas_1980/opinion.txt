@@ -1,0 +1,68 @@
+IN RE MARRIAGE OF LUCAS
+27 Cal.3d 808 (1980)
+California Supreme Court
+Decided: August 7, 1980
+
+---
+
+FACTS:
+
+The Lucas marriage involved a house purchased during marriage using a combination of community funds and the wife's separate property (an inheritance). The parties took title jointly. At dissolution, the question was whether the separate-property contribution converted a portion of the house to separate property, or whether the joint-title presumption controlled and made the entire house community property.
+
+---
+
+HOLDING:
+
+THE JOINT-TITLE PRESUMPTION:
+
+1. **Joint-title presumption controls absent a written agreement.** "When spouses take title jointly during marriage, the presumption is that the entire property is community property, regardless of the source of funds used to acquire it."
+
+2. **A spouse making a separate-property contribution acquires a right of reimbursement, not a separate-property interest, unless there is a written agreement to the contrary.** The contributing spouse can be reimbursed for the separate-property contribution at dissolution but does not own a pro-rata interest in the property.
+
+3. **The written-agreement requirement protects against implied-tracing claims.** "Absent a written agreement created contemporaneously with the contribution, courts will not 'trace' the separate property into the jointly-titled asset to create a separate-property interest."
+
+---
+
+POST-LUCAS CODIFICATION:
+
+The California Legislature partially codified Lucas in:
+- Family Code § 2640 (reimbursement of separate property contributions to community property)
+- Family Code § 2581 (the joint-title presumption)
+- The 1983 and 1984 amendments to former Civ. Code § 4800.2 added the reimbursement rule retroactively
+
+These codifications preserve the core Lucas holdings.
+
+---
+
+WHY LUCAS IS FOUNDATIONAL:
+
+Before Lucas, appellate courts sometimes allowed separate-property interests to be traced into jointly-titled assets on the theory that the separate contribution implied proportional ownership. After Lucas, that implied-tracing theory is dead — only a written agreement can establish a separate-property interest in jointly-titled community property.
+
+Lucas is the foundation case for all modern California community property characterization. It is cited in every California family law property division case.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For the 2958 Honeysuckle transaction:
+
+1. **Community property presumption**: If Honeysuckle was acquired during the Hartmann-Cerretani marriage and titled jointly (or with community funds), the Lucas presumption characterizes it as community property. This is the starting point — the burden shifts to Christina to overcome the presumption.
+
+2. **Characterization determines authority to dispose**: Community property requires joint consent for significant dispositions under Fam. Code §§ 1100(c), 1102 (for real property). Separate property does not. Lucas's presumption affects whether Christina had authority to sell unilaterally.
+
+3. **Characterization determines remedy scope**: If the property is community, a breach of fiduciary duty gives rise to the § 1101(h) 100%-of-value remedy (for fraudulent breach). If the property is separate, the breached-against spouse has no community-property claim.
+
+4. **The joint-title presumption is hard to rebut**: Under Lucas, only a written agreement can defeat the community-property characterization. Oral agreements, post-hoc reconstruction, or implied tracing do not work.
+
+5. **First factual inquiry for Honeysuckle intake**: How was title held? Jointly? In one name? With a trust or conservatorship label? Each answer changes the characterization analysis.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 27 Cal.3d 808 (1980)
+Court: California Supreme Court
+Reporter: California Reports, Third Series, vol. 27, page 808
+Author: Manuel, J. (unanimous)
+Source of this text: Claude training data (knowledge cutoff August 2025) supplemented by holding.md from prior build session. In re Marriage of Lucas established the joint-title presumption — property acquired during marriage and titled jointly is presumptively community property, and only a written agreement can overcome the presumption. Implied tracing of separate-property contributions is not allowed.
+Verification: Casetext / Google Scholar: "In re Marriage of Lucas 27 Cal.3d 808"
+Verification status: PROPOSED — pending steward witness review

@@ -1,0 +1,31 @@
+{
+  "layer": "historical_chain",
+  "sublayer": "02_vawa_2013_reauthorization",
+  "title": "VAWA Reauthorization Act of 2013 — Pub. L. 113-4 — § 12491 Created; All Covered Programs; Emergency Transfer Plans; Self-Certification",
+  "enacted": "2013-03-07",
+  "president": "Barack Obama",
+  "enacting_law": "Violence Against Women Reauthorization Act of 2013, Pub. L. 113-4, 127 Stat. 54, Title VI (Housing Provisions)",
+  "senate_vote": "78-22",
+  "house_vote": "286-138",
+  "precursor_2005": "VAWA 2005 (Pub. L. 109-162 § 606) — first housing protections; limited to public housing (§ 1437d) and Section 8 (§ 1437f)",
+  "key_additions_2013": [
+    "§ 12491 created — consolidated all VAWA housing protections",
+    "Covered housing program expanded to all HUD-assisted programs (including McKinney-Vento / CoC)",
+    "Emergency transfer plan — mandatory for all covered housing providers",
+    "Self-certification (HUD Form 5382) codified as sufficient documentation without police report",
+    "Confidentiality strengthened — shared database prohibition; written consent for disclosure",
+    "Annual tenant notice of VAWA rights required"
+  ],
+  "most_recent_amendment": "VAWA Reauthorization Act of 2022, Pub. L. 117-103, Division W, Title I",
+  "hud_implementing_regulation": "24 C.F.R. Part 5, Subpart L — effective November 16, 2016",
+  "homeward_bound_marin_note": "Homeward Bound Marin — likely CoC / McKinney-Vento recipient; if confirmed, § 12491 applies to all admissions and placements; fabricated DV status admission = fraud on covered program",
+  "homeward_bound_marin_verification": [
+    "HUD grants.gov — search Homeward Bound Marin as recipient",
+    "Marin Continuum of Care (CoC) — public program reports",
+    "CA HCD HOME recipient list",
+    "CA HCD ESG recipient list"
+  ],
+  "verified": false,
+  "verified_note": "Legislative history from training knowledge. Pub. L. 113-4 text and vote counts are verifiable. HUD implementing regulation (24 C.F.R. Part 5 Subpart L) current text should be verified at ecfr.gov.",
+  "retrieval_date": "2026-04-13"
+}

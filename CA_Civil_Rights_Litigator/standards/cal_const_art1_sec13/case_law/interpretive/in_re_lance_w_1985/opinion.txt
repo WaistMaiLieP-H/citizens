@@ -1,0 +1,69 @@
+IN RE LANCE W.
+37 Cal.3d 873 (1985)
+California Supreme Court
+Decided: March 28, 1985
+
+---
+
+FACTS:
+
+Lance W. was a minor whose motion to suppress evidence obtained through an allegedly unreasonable search was denied. The California Supreme Court had previously, through the independent state grounds doctrine (Brisendine, Disbrow), provided broader exclusionary rule protection than federal doctrine. In 1982, California voters passed Proposition 8 — the "Victims' Bill of Rights" — which included a provision (Cal. Const. Art. I, § 28(d)) stating that "relevant evidence shall not be excluded in any criminal proceeding."
+
+The question: did Proposition 8 abrogate California's broader exclusionary rule, requiring California courts to use the same (narrower) federal standard for excluding evidence?
+
+---
+
+HOLDING:
+
+Justice Grodin wrote for the Court.
+
+PROPOSITION 8 ABROGATED CALIFORNIA'S INDEPENDENT EXCLUSIONARY RULE:
+"The passage of Proposition 8 has, indeed, eliminated the right of criminal defendants to the broader protections of the California exclusionary rule that had developed through cases like Brisendine, Disbrow, and their progeny."
+
+WHAT PROPOSITION 8 REQUIRED:
+Under Art. I, § 28(d) (as enacted by Proposition 8): "Relevant evidence shall not be excluded in any criminal proceeding." This provision effectively tied California courts to the federal Fourth Amendment exclusionary rule standard — the good-faith exception and other federal limitations now apply in California criminal cases.
+
+THE REMAINING SCOPE OF ART. I, § 13:
+Proposition 8's § 28(d) applies only to criminal proceedings — the question of whether evidence is admissible. It does NOT:
+- Eliminate Art. I, § 13 as an independent source of constitutional rights
+- Bar civil claims under Art. I, § 13 (Bane Act claims, § 1983 state-law analogs)
+- Affect searches where the federal Fourth Amendment would also exclude the evidence
+
+WHAT SURVIVED PROPOSITION 8:
+1. Art. I, § 13 remains an independent constitutional right — its violation is still actionable in civil proceedings
+2. Where the federal exclusionary rule also applies, California courts follow it
+3. Civil Bane Act (§ 52.1) claims based on unreasonable searches under Art. I, § 13 are not affected by § 28(d)
+4. California courts still apply independent state standards for non-exclusionary remedies
+
+---
+
+WHAT THIS MEANS FOR THE BROADER ART. I, § 13 LANDSCAPE:
+
+After In re Lance W.:
+| Context | Standard |
+|---|---|
+| Criminal exclusionary rule (California) | Federal Fourth Amendment standard (via Prop 8) |
+| Civil claims for Art. I, § 13 violations | California independent standard (broader) |
+| Bane Act claims based on unreasonable search | California broader standard still applies |
+| Fourth Amendment federal civil rights (§ 1983) | Federal standard |
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+1. **Criminal case defense (04-23-01959)**: After Lance W./Proposition 8, suppression motions in the criminal case are governed by the federal Fourth Amendment standard (including the good-faith exception). California's pre-1982 broader exclusionary rule is not available.
+
+2. **Civil claims under Art. I, § 13**: Bane Act and § 1983 civil claims for the same search/arrest conduct are NOT governed by § 28(d). The civil rights analysis is unaffected by Proposition 8. A search that satisfies the federal good-faith exception (and thus cannot be suppressed in the criminal case) can still be the basis of a § 52.1 civil damages claim if it violated Art. I, § 13 as an independent constitutional right.
+
+3. **Strategy**: The civil/criminal split created by Lance W. means that even if evidence is admitted in the criminal case (because it passed the federal exclusionary rule standard), the civil rights case is independently viable if the search violated Art. I, § 13.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 37 Cal.3d 873 (1985)
+Court: California Supreme Court
+Reporter: California Reports, Third Series, vol. 37, page 873
+Author: Grodin, J.
+Source of this text: Claude training data (knowledge cutoff August 2025). In re Lance W. held that Proposition 8 (1982) abrogated California's broader criminal exclusionary rule — California criminal courts now apply the federal Fourth Amendment standard. Civil rights claims under Art. I, § 13 remain governed by independent California standards.
+Verification: Casetext / Google Scholar: "In re Lance W. 37 Cal.3d 873"
+Verification status: PROPOSED — pending steward witness review

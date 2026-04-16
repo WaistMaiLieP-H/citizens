@@ -1,0 +1,19 @@
+California Family Code § 1100 — Origin (via 1975 equal-management-and-control legislation)
+
+Section 1100's substantive rule — that either spouse has equal management and control of community personal property — originated not in the Family Code (which was enacted in 1992 as a recodification) but in Civil Code § 5125 as amended by SB 364 (Stats. 1973, ch. 987) and later amended by Stats. 1974, ch. 1206. These amendments took effect January 1, 1975, and ended the pre-1975 "husband's management" rule under which the husband had sole management and control of community property.
+
+The pre-1975 text of former Civ. Code § 5125 (before the 1973 amendment) read substantially as follows:
+
+> The husband has the management and control of the community personal property, with like absolute power of disposition, other than testamentary, as he has of his separate estate...
+
+After SB 364 took effect 1975-01-01, former § 5125 read in relevant part:
+
+> (a) Except as provided in Sections 5113.5 and 5128, either spouse has the management and control of the community personal property, whether acquired prior to or on or after January 1, 1975, with like absolute power of disposition, other than testamentary, as the spouse has of the separate estate of the spouse.
+>
+> (b) A spouse may not make a gift of community personal property, or dispose of community personal property without a valuable consideration, without the written consent of the other spouse.
+
+This language is the direct ancestor of current Family Code § 1100. The 1992 Family Code recodification (effective 1994) moved the rule from Civ. Code § 5125 to Fam. Code § 1100 without substantive change. The subdivisions were reorganized, subdivision (e) (fiduciary duty) was added in the form now in force, and the codification was modernized.
+
+---
+
+Source note: California pre-Family-Code community property statutes are traced through Deering's and West's annotations, which preserve the cross-reference chain (former Civ. Code § 5125 → Fam. Code § 1100) and the Stats. chapter citations for each amendment.

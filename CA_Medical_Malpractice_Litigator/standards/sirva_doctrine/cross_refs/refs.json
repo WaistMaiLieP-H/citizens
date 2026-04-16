@@ -1,0 +1,32 @@
+{
+  "_schema": "five-layer cross-reference block",
+  "references": [
+    {
+      "target": "${citizens}/CA_Medical_Malpractice_Litigator/standards/civ_3333_2/manifest.json",
+      "relationship": "MICRA damages cap applies to state-court SIRVA negligent-administration claims. 2026 non-death cap: $470,000 noneconomic.",
+      "build_status": "BUILT_THIS_SESSION"
+    },
+    {
+      "target": "${citizens}/CA_Civil_Litigator/standards/ccp_340_5/manifest.json",
+      "relationship": "MICRA SOL. SIRVA discovery-rule clock. Steward's case: discovery 2026-03-18, one-year window to 2027-03-18.",
+      "build_status": "PROPOSED-WITNESSED"
+    },
+    {
+      "target": "${citizens}/CA_Medical_Malpractice_Litigator/standards/ccp_364/manifest.json",
+      "relationship": "90-day pre-suit notice required before SIRVA state-court action.",
+      "build_status": "QUEUED"
+    },
+    {
+      "target": "${citizens}/US_Federal_Civil_Rights_Litigator/standards/42_usc_12132/manifest.json",
+      "relationship": "ADA Title II — potential cross-claim if administering facility is state/local public entity. Not applicable to private pharmacy.",
+      "build_status": "PROPOSED-WITNESSED"
+    }
+  ],
+  "external_federal_authorities_referenced": [
+    "42 USC §300aa-10 et seq. (NCVIA)",
+    "42 USC §300aa-22(b)(1) (NCVIA preemption clause)",
+    "42 USC §247d-6d (PREP Act immunity)",
+    "42 USC §247d-6e (CICP)",
+    "42 CFR §100.3 (Vaccine Injury Table)"
+  ]
+}

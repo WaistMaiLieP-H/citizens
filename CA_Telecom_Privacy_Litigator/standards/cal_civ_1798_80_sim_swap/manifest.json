@@ -1,0 +1,51 @@
+{
+  "standard_id": "CAL_CIV_1798_80",
+  "title": "Cal. Civ. Code §§ 1798.80–1798.84 — Data Security and SIM Swap Liability",
+  "short_name": "California Data Security / Breach Notification",
+  "citation": "Cal. Civ. Code §§ 1798.80, 1798.81.5, 1798.82, 1798.84",
+  "jurisdiction": "California",
+  "court": "California Superior Court / Courts of Appeal",
+  "type": "Statute",
+  "domain": "data privacy, account security, SIM swap carrier liability",
+  "enacted": "2003",
+  "origin_act": "SB 1386 (Chapter 915, Statutes of 2003)",
+  "last_material_amendment": "AB 1710 (Chapter 784, Statutes of 2014)",
+  "current_version_date": "2014-01-01",
+  "positive_law": true,
+  "build_state": "PROPOSED",
+  "witness_state": "AWAITING-STEWARD",
+  "filed_at_utc": "2026-04-11T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "html_sha256": "PENDING_VERIFICATION",
+  "evolution_chain_hash": "PENDING_VERIFICATION",
+  "evolution_stages": [
+    "01_origin_2003",
+    "02_amendment_2007",
+    "03_amendment_2014",
+    "04_current"
+  ],
+  "cases_documented": [
+    "sim_swap_fcc_2024"
+  ],
+  "cases_to_add": [
+    "Diaz v. T-Mobile (N.D. Cal.) — carrier negligence for SIM swap authentication failures",
+    "In re T-Mobile Customer Data Security Breach Litigation — § 1798.81.5 class action",
+    "Terpin v. AT&T (9th Cir. 2022) — § 1798.81.5 negligence cause of action survived"
+  ],
+  "cross_refs": [
+    "CAL_CONST_ART1_1_PRIVACY",
+    "USC_47_222_CPNI",
+    "USC_18_1030_CFAA",
+    "CAL_PEN_530_5_IDENTITY_THEFT"
+  ],
+  "steward_relevance": "Carrier AT&T, Verizon, and T-Mobile allowed unauthorized SIM swaps enabling interception of calls, account takeovers, and communications fraud. § 1798.81.5 duty to implement reasonable security + § 1798.82 notification duty are the California civil causes of action for these carriers.",
+  "first_step_triage": "Identify each carrier (AT&T, Verizon, T-Mobile), dates of SIM swap events, what personal information was accessed or intercepted. Map to § 1798.81.5 (failure to implement reasonable authentication) and § 1798.82 (failure to notify). § 1798.84 private right of action for breach of § 1798.82.",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "version": "0.1.0-witnessed-by-herald",
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

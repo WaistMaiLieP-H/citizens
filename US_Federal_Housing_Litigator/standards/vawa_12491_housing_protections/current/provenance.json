@@ -1,0 +1,33 @@
+{
+  "standard_id": "VAWA_34_USC_12491_HOUSING_PROTECTIONS",
+  "layer": "current",
+  "title": "34 U.S.C. § 12491 — Violence Against Women Act Housing Protections",
+  "enacted_initial": "2005-01-05",
+  "enacting_law_initial": "Violence Against Women and Department of Justice Reauthorization Act of 2005, Pub. L. 109-162, § 606, 119 Stat. 2960 (initial housing provisions in public housing / Section 8 context)",
+  "expanded_by": "VAWA Reauthorization Act of 2013, Pub. L. 113-4, Title VI (VAWA Housing Opportunities and Safety) — consolidated and expanded to current § 12491",
+  "most_recent_amendment": "VAWA Reauthorization Act of 2022, Pub. L. 117-103, Division W, Title I (strengthened enforcement, LGBTQ+ clarification, transitional housing addition)",
+  "current_through": "Pub. L. 117-103 (2022)",
+  "official_source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12491",
+  "cornell_lii_source": "https://www.law.cornell.edu/uscode/text/34/12491",
+  "hud_implementing_regulation": "24 C.F.R. Part 5, Subpart L — VAWA protections in HUD-assisted housing programs",
+  "hud_form": "HUD Form 5382 — Certification of Domestic Violence, Dating Violence, Sexual Assault, or Stalking (self-certification)",
+  "verified": false,
+  "verified_note": "USC tool blocked for Title 34 at build time; statute text from training knowledge. Retrieve full text at uscode.house.gov. Confirm 9th Circuit private right of action posture before filing standalone § 12491 claim.",
+  "retrieval_date": "2026-04-13",
+  "case_docket_anchor": "Homeward Bound Marin placement by Christina Cerretani under fabricated DV survivor status = fraudulent invocation of § 12491-covered program. Confirm federal funding basis for Homeward Bound Marin. If confirmed: False Claims Act predicate (31 U.S.C. § 3729) + § 1983 against government actors + FHA § 3604 companion.",
+  "inversion_flag": "CRITICAL — this case presents the inverted VAWA pattern: the perpetrator of fraud (Christina) occupies the statutory victim role using a fabricated DVRO as a housing-access instrument. The eviction/denial machinery was directed at the actual victim (Michael) while the fraud perpetrator accessed VAWA protections.",
+  "key_cases": [
+    "Sandy v. Boecker, No. 3:20-cv-01586 (D. Or. 2021) — private right of action under § 12491 recognized in some district courts; verify Ninth Circuit binding authority",
+    "HUD v. Housing Authority of the City of Seattle (2018) — HUD enforcement action for VAWA violation in public housing; establishes HUD enforcement posture"
+  ],
+  "steward_verify_queue": [
+    "Full § 12491 text — uscode.house.gov Title 34 → Chapter 121 → Subchapter III → § 12491",
+    "§ 12491(a)(3) — definition of 'covered housing program' — confirm full list",
+    "§ 12491(c)(3) — self-certification provision — confirm police report is NOT required",
+    "§ 12491(e) — emergency transfer plan requirement — confirm it is mandatory vs. discretionary",
+    "Private right of action — 9th Circuit current posture — confirm before filing standalone claim",
+    "Homeward Bound Marin — confirm federal funding basis (McKinney-Vento / HUD CoC Program) — if confirmed, § 12491 and False Claims Act apply to Christina's placement",
+    "VAWA 2022 (Pub. L. 117-103) — confirm specific amendments relevant to case",
+    "24 C.F.R. Part 5, Subpart L — current HUD VAWA regulations"
+  ]
+}

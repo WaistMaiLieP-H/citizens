@@ -1,0 +1,38 @@
+{
+  "citizen_id": "CA_Healthcare_Fraud_Litigator",
+  "version": "1.0",
+  "created": "2026-04-12",
+  "steward": "Michael Hartmann",
+  "status": "OPERATIONAL",
+  "path_anchors": {
+    "citizens": "/home/vernenlegal/citizens",
+    "familylaw": "/home/vernenlegal/FamilyLaw",
+    "nonfamilylaw": "/home/vernenlegal/NonFamilyLaw"
+  },
+  "blueprints_inherited": ["${citizens}/ADAM", "${citizens}/EVE"],
+  "triple_constraint": {
+    "governing_guidelines": "California Insurance Code; California Penal Code; California Health & Safety Code; 18 USC §1347",
+    "standards_of_creation": "Five-layer bar — rule + reasoning + historical_loss + cross_refs + verifiable_provenance",
+    "soc": "Primary source citations with SHA256 hashes; provenance.json for every artifact"
+  },
+  "jurisdiction": ["California", "Federal"],
+  "domain": "Healthcare fraud, insurance bad faith, prior authorization violations, health care benefit fraud",
+  "cases_covered": [
+    "#11 — Spine Surgery Fraud (Blue Shield prior auth denial, duplicate MRI pages)",
+    "#12-14 — Related medical billing/prior auth fraud pattern",
+    "#20 — SIRVA surgery (Dr. Wiseman, 4/20/2022, PREP Act preemption question)"
+  ],
+  "bound_standards": [
+    "ins_10123_135_prior_auth",
+    "pen_550_insurance_fraud",
+    "usc_18_1347_federal_healthcare_fraud",
+    "hsc_1374_30_independent_medical_review",
+    "hsc_1340_knox_keene_act"
+  ],
+  "cross_citizen_refs": {
+    "CA_Medical_Malpractice_Litigator": "BPC §2234, CCP §340.5, SIRVA shared — do not duplicate",
+    "CA_Medical_Privacy_Officer": "HIPAA/CMIA on medical records — do not duplicate",
+    "US_Federal_Financial_Fraud_Litigator": "18 USC §1347 may overlap — coordinate",
+    "HERALD": "Witness for MRI duplicates, prior auth letters, denial records"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "standard_id": "CCP_425_16",
+  "cross_references": [
+    {
+      "target_standard": "US_CONST_AMEND_I",
+      "relationship": "constitutional foundation -- the First Amendment protects speech and petition from government action; CCP 425.16 creates a procedural mechanism to protect those rights from private litigation abuse",
+      "build_status": "NOT BUILT AS STANDALONE STANDARD \u2014 First Amendment context documented within ccp_425_16 reasoning and historical_chain layers."
+    },
+    {
+      "target_standard": "CAL_CONST_ART_I_SEC_2",
+      "relationship": "state constitutional foundation -- California free speech clause, broader than federal First Amendment; independently protects the activity that triggers anti-SLAPP protection",
+      "build_status": "NOT BUILT AS STANDALONE STANDARD \u2014 Cal. Const. Art. I \u00a72 free speech; not yet in corpus."
+    },
+    {
+      "target_standard": "CAL_CONST_ART_I_SEC_3",
+      "relationship": "state constitutional foundation -- California right of petition; the other constitutional right protected by the anti-SLAPP statute",
+      "build_status": "NOT BUILT AS STANDALONE STANDARD \u2014 Cal. Const. Art. I \u00a73 right of petition; not yet in corpus."
+    },
+    {
+      "target_standard": "CCP_1021_5",
+      "relationship": "fee-shifting companion -- a defendant who defeats a SLAPP suit may also seek fees under 1021.5 if the defense vindicated an important public right; the two statutes work in concert",
+      "target_citizen": "CA_Civil_Litigator",
+      "target_manifest": "${citizens}/CA_Civil_Litigator/standards/ccp_1021_5/manifest.json",
+      "build_status": "BUILT"
+    },
+    {
+      "target_standard": "CCP_128_5",
+      "relationship": "sanctions complement -- if the anti-SLAPP motion itself is frivolous, the plaintiff recovers fees under 128.5 rather than 425.16",
+      "build_status": "NOT BUILT AS STANDALONE STANDARD \u2014 sanctions companion; context documented within ccp_425_16 reasoning layer."
+    }
+  ],
+  "refs_updated": "2026-04-12 \u2014 ADAM review pass; build_status fields updated to reflect current corpus state"
+}

@@ -1,0 +1,17 @@
+{
+  "case": "Shapiro v. Sutherland",
+  "reporter_citation": "64 Cal.App.4th 1534",
+  "parallel_citations": ["76 Cal.Rptr.2d 101"],
+  "decided": "1998",
+  "court": "California Court of Appeal, Second Appellate District",
+  "statutes_construed": [
+    "California Civil Code § 1102",
+    "California Civil Code § 1102.4",
+    "California Civil Code § 1572"
+  ],
+  "status": "Published Court of Appeal authority on strict liability character of TDS obligations; objective materiality standard; no-waiver rule; non-disclosure as constructive fraud.",
+  "opinion_text_source": "Not yet captured",
+  "verification_note": "Citation documented based on training knowledge. Verify before use in filed document.",
+  "captured_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "captured_at_utc": "2026-04-11T00:00:00Z"
+}

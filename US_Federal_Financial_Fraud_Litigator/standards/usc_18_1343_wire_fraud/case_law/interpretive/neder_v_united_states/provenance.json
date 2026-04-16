@@ -1,0 +1,13 @@
+{
+  "case_slug": "neder_v_united_states",
+  "full_citation": "Neder v. United States, 527 US 1 (1999)",
+  "court": "United States Supreme Court",
+  "decided": "1999-06-10",
+  "docket": "97-1985",
+  "opinion_author": "Rehnquist, C.J.",
+  "holding_category": "interpretive — materiality is an element of wire fraud, mail fraud, and bank fraud",
+  "statutes_interpreted": ["18 USC §1341 (mail fraud)", "18 USC §1343 (wire fraud)", "18 USC §1344 (bank fraud)"],
+  "source_url": "https://supreme.justia.com/cases/federal/us/527/1/",
+  "verbatim_capture_status": "PENDING",
+  "build_date": "2026-04-11"
+}

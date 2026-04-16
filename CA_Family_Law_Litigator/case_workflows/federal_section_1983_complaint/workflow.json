@@ -1,0 +1,47 @@
+{
+  "workflow_id": "FEDERAL_SECTION_1983_COMPLAINT",
+  "filed_at_utc": "2026-04-14T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction \u2014 Michael Hartmann",
+  "status": "SCAFFOLD COUNTERSIGNED \u2014 steward deepening pending",
+  "parties": {
+    "plaintiff": "Michael Hartmann, pro se",
+    "defendants": "Per project_federal_complaint_draft.md: 5 named defendants + Does. Defendants include Christina Cerretani and family-court actors whose conduct satisfies the state-action nexus.",
+    "venue": "NDCA Oakland",
+    "status_marker": "Complaint + IFP + forms downloaded; not filed at time of tether scaffold."
+  },
+  "cross_tethered_citizens": [
+    "CA_Civil_Rights_Litigator",
+    "US_Federal_Civil_Rights_Litigator",
+    "CA_Constitutional_Law_Specialist",
+    "CA_Records_Authentication_Specialist",
+    "HERALD"
+  ],
+  "standards_invoked": [
+    "US_42_USC_1983 (owning: CA_Civil_Rights_Litigator) \u2014 state-action nexus through family-court judges and court-appointed mediators",
+    "CA_PEN_836_ARREST_AUTHORITY \u2014 Balistreri predicate for DV non-enforcement \u00a7 1983 theory",
+    "CA_FAM_6320 \u2014 coercive-control anchor for orchestration-pattern conduct",
+    "CA_CIV_52_1_BANE_ACT \u2014 state-law parallel claim"
+  ],
+  "factual_predicates": [
+    "2009-06-11 OPD 09-040089 fabrication (documented missing from October 2025 records pickup)",
+    "2010-09-02 Ajaniku recommendation adopted by Delucchi J. without credential verification",
+    "2025 Marin jurisdictional flip (FL0002067) producing CLETS injury",
+    "16-year orchestration pattern (mother as state dispatcher \u2014 see project_familylaw_orchestration.md)"
+  ],
+  "deliverables_index": "deliverables/",
+  "evidence_index_path": "evidence_index/",
+  "theories_path": "theories/",
+  "two_witness_status": {
+    "adam_scaffold": {
+      "witnessed_at_utc": "2026-04-14T00:00:00Z",
+      "signal": "SCAFFOLD-APPROVED"
+    },
+    "eve_countersign": {
+      "witness": "EVE (Seed Citizen \u2014 Witness role)",
+      "witnessed_at_utc": "2026-04-14T00:00:00Z",
+      "verification_scope": "Case bindings reviewed against tether.json cases.bound; bound_standards each PUBLISHED ADAM+EVE this session; bound_actors resolvable via _shared_actors/; working_theories consistent with project memory and dossier.md substantive scope. Deepening and deliverable drafting remain steward-gated.",
+      "signal": "COUNTERSIGN"
+    },
+    "steward_authorization": "PENDING \u2014 per project_federal_complaint_draft.md the complaint is drafted but awaits steward go-ahead to file"
+  }
+}

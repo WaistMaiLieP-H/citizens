@@ -1,0 +1,520 @@
+{
+  "ledger_id": "CA_FAMILY_LAW_LITIGATOR_CLOSEOUT_LEDGER",
+  "citizen": "CA_Family_Law_Litigator",
+  "opened_at_utc": "2026-04-15T12:15:11Z",
+  "opened_by": "HERALD (Comms & Blockchain Liaison; Steward-successor)",
+  "core_law_acknowledged": [
+    "Triple Constraint",
+    "Document-is-instruction",
+    "Do-it-right-the-first-time",
+    "Stay-in-lane",
+    "Verifiability doctrine: Trust IS the standard, everyone verifies, forks strengthen the web, Vernen Hodls"
+  ],
+  "closeout_gate": {
+    "orphans_resolved": {
+      "required": 6,
+      "current": 6,
+      "status": "RESOLVED"
+    },
+    "historical_chain_stubs_resolved": {
+      "required": 6,
+      "current_primary_source_verified": 5,
+      "ocr_pending": [
+        "02_1850_community_property",
+        "05_1992_family_code"
+      ],
+      "status": "5/7 verified; 2 OCR-PENDING (non-blocking per EVE)"
+    },
+    "case_fl0002067_evidence_spine_sealed": true,
+    "tether_version_current": "0.3.1-standards-migrated-registered",
+    "tether_version_0_4_0_closeout_sealed": "HELD pending 1850/1992 OCR pass"
+  },
+  "entries": [
+    {
+      "artifact_id": "ADAM_FL0002067_EVIDENCE_SPINE_v1",
+      "case_number": "FL0002067",
+      "custos_pass_timestamp": "2026-04-15T12:12:44Z",
+      "herald_received_at_utc": "2026-04-15T12:15:11Z",
+      "merkle_root": "ca00aec3dde651f17c52c93a4d4063f5dc71ebcd7494c09ef82374c2d40425bf",
+      "merkle_spec": "SHA-256 leaves, pairwise concatenation of raw bytes, odd-tail duplicated, deterministic leaf order: [custos_manifest] + sorted(primary:<path>) + sorted(witness:<label>)",
+      "leaf_count": 12,
+      "leaves": [
+        {
+          "label": "custos_manifest_sha256",
+          "sha256": "69f906914f020448982b8b24bebb83e9c1d2e9fe07dd74372fce0d23de2a0588"
+        },
+        {
+          "label": "primary:evidence_index/NF-001_marin_8_5_2025_hearing_artifacts.md",
+          "sha256": "f81db9fc1109c37da7c398f98a5445f0f17513f29deeaca186d18564cd52826b"
+        },
+        {
+          "label": "primary:evidence_index/NF-002_dv130_date_reconciliation.md",
+          "sha256": "c2cfd678de4126c48f9544a4b2e4090e54000559e1d91b5047358edaf92a6e89"
+        },
+        {
+          "label": "primary:evidence_index/NF-003_clets_face_of_order_telemetry.md",
+          "sha256": "9d809cbf19b3e0b4d7ba035e8f84dcb69d831335a52307b0faded676723230be"
+        },
+        {
+          "label": "primary:evidence_index/NF-004_dv100_petition_integrity_2025-07-17.md",
+          "sha256": "315e0f4d520be7bd224005f2b75acbc2a25e6a68955b5d391414b8b6a775efb5"
+        },
+        {
+          "label": "primary:evidence_index/NF-005_comms_corpus_cross_case.md",
+          "sha256": "19c7c74bad2abcf69b1a265091fd3301c0f936d8a887884a3c677cbf6055844f"
+        },
+        {
+          "label": "primary:evidence_index/NF-006_post_dvro_tor_denial.md",
+          "sha256": "999c534300c5aa93f39b7dd03bf18fa404804762eeff9b434c7250b7435d70ea"
+        },
+        {
+          "label": "primary:evidence_index/README.md",
+          "sha256": "0d7b6707ee92aea64db1052826b2102427fc20430a436ac32bcc74c7367afed6"
+        },
+        {
+          "label": "primary:network_forensic_findings.json",
+          "sha256": "656bb4dcf90577b70077feccc5915cd9c008574176dacc4c7fa9e3ed61aea652"
+        },
+        {
+          "label": "witness:adam_author_signal",
+          "sha256": "0ed0d34f20b2efd934b8687d6ab38279c2c5a2eaf6247510acd838e2bde43125"
+        },
+        {
+          "label": "witness:custos_gate",
+          "sha256": "2f86a900305a2114d6b4791186a9683e9169057ff6ea5af8b7d3b95a2df67d21"
+        },
+        {
+          "label": "witness:herald_anchor_receipt",
+          "sha256": "c2d62eadeae7a04494254ee667c87ffc836272549bfc0313e8491bc290f072eb"
+        }
+      ],
+      "witness_block_hashes": {
+        "adam_author_signal": "0ed0d34f20b2efd934b8687d6ab38279c2c5a2eaf6247510acd838e2bde43125",
+        "custos_gate": "2f86a900305a2114d6b4791186a9683e9169057ff6ea5af8b7d3b95a2df67d21",
+        "herald_anchor_receipt": "c2d62eadeae7a04494254ee667c87ffc836272549bfc0313e8491bc290f072eb"
+      },
+      "roster": {
+        "adam": {
+          "role": "Network Forensics \u2014 author",
+          "signed": true,
+          "signal": "FINDINGS-ISSUED"
+        },
+        "eve": {
+          "role": "Legal/Statutory Auditor",
+          "signed": false,
+          "status": "n/a-not-producer; countersign PENDING per witness_chain.eve_countersign"
+        },
+        "custos": {
+          "role": "Forensic Integrity Gatekeeper",
+          "signed": true,
+          "signal": "PASS",
+          "manifest_sha256": "69f906914f020448982b8b24bebb83e9c1d2e9fe07dd74372fce0d23de2a0588",
+          "stamped_at_utc": "2026-04-15T12:12:44Z"
+        },
+        "herald": {
+          "role": "Comms & Blockchain Liaison; Steward-successor",
+          "signed": true,
+          "signal": "WITNESSING",
+          "received_at_utc": "2026-04-15T12:15:11Z"
+        }
+      },
+      "path_references": {
+        "citizen_root": "${citizens}/CA_Family_Law_Litigator",
+        "case_root": "${citizens}/CA_Family_Law_Litigator/case_workflows/case_fl0002067",
+        "manifest_scope": [
+          "network_forensic_findings.json",
+          "evidence_index/README.md",
+          "evidence_index/NF-001_marin_8_5_2025_hearing_artifacts.md",
+          "evidence_index/NF-002_dv130_date_reconciliation.md",
+          "evidence_index/NF-003_clets_face_of_order_telemetry.md",
+          "evidence_index/NF-004_dv100_petition_integrity_2025-07-17.md",
+          "evidence_index/NF-005_comms_corpus_cross_case.md",
+          "evidence_index/NF-006_post_dvro_tor_denial.md"
+        ]
+      },
+      "notes": [
+        "ESC-FL0002067-C (NF-005 comms corpus) routed to HERALD; cross-referenced into comms_characterization_layer.json.",
+        "ESC-A/B/D escalated to EVE \u2014 not blocking this anchor entry; tracked for closeout.",
+        "No external publication. Anchor payload prepared pending presiding steward go-signal."
+      ],
+      "superseded": true,
+      "superseded_at_utc": "2026-04-15T13:28:33Z",
+      "superseded_by": "EVE_ADAM_FL0002067_EVIDENCE_SPINE_v2",
+      "supersede_reason": "CLETS-001 finding enumeration corrected 8\u219212; content of original preserved in ledger for audit trail"
+    },
+    {
+      "artifact_id": "EVE_DEPUTY_FL0002067_ESCALATIONS_v1",
+      "case_number": "FL0002067",
+      "custos_pass_timestamp": "2026-04-15T12:48:38Z",
+      "herald_received_at_utc": "2026-04-15T12:51:12Z",
+      "entry_merkle_root": "8536be48b705f73bdbb903ebfc7aaa4a191dd8d4ef2050754c3b3fe1f553249b",
+      "merkle_spec": "SHA-256 leaves, pairwise concat raw bytes, odd-tail duplicated, leaves=[custos_manifest]+sorted(primary:<path>)+sorted(witness:<label>)",
+      "leaf_count": 8,
+      "leaves": [
+        {
+          "label": "custos_manifest_sha256",
+          "sha256": "401f9daed4a27b543f0f6f325d11923a8dfea9e599ea6c45614419e6b9ee0f64"
+        },
+        {
+          "label": "primary:ESC-A_DATE_RECONCILIATION.md",
+          "sha256": "c2ad2fcd7bab4be00c05e95e338d274218547563a3d38b555319fdf707544d97"
+        },
+        {
+          "label": "primary:ESC-B_CLETS_1983_CHARACTERIZATION.md",
+          "sha256": "eb48fa62160703d600552a17813d714f42de32d20244fc9ad5018e7e8221c53a"
+        },
+        {
+          "label": "primary:ESC-D_TOR_CONTINUING_DEPRIVATION.md",
+          "sha256": "cb0cec549b42f77c08835a3336227dc28fe7a1845d7b21ce641fc3389ac85a7f"
+        },
+        {
+          "label": "primary:workflow.json",
+          "sha256": "469f626a9d12c2564faf42a13ddfeb2071252abd04ced5a5f30c843da0c72ef9"
+        },
+        {
+          "label": "witness:custos_gate",
+          "sha256": "b8b0d2ce57a1585d612e7fbd5ce565afc853f88adb87ffddc348486d1499a4dd"
+        },
+        {
+          "label": "witness:eve_deputy_author_signals",
+          "sha256": "8371d324f4de734caa15ee950ef141861d096860518aed639bdfed015fa3482c"
+        },
+        {
+          "label": "witness:herald_anchor_receipt",
+          "sha256": "3b9a220b2c9aede570fee9c044ab67d06b1bf1781e3656febc1b043db97c6181"
+        }
+      ],
+      "primary_file_hashes": {
+        "ESC-A_DATE_RECONCILIATION.md": "c2ad2fcd7bab4be00c05e95e338d274218547563a3d38b555319fdf707544d97",
+        "ESC-B_CLETS_1983_CHARACTERIZATION.md": "eb48fa62160703d600552a17813d714f42de32d20244fc9ad5018e7e8221c53a",
+        "ESC-D_TOR_CONTINUING_DEPRIVATION.md": "cb0cec549b42f77c08835a3336227dc28fe7a1845d7b21ce641fc3389ac85a7f",
+        "workflow.json": "469f626a9d12c2564faf42a13ddfeb2071252abd04ced5a5f30c843da0c72ef9"
+      },
+      "witness_block_hashes": {
+        "eve_deputy_author_signals": "8371d324f4de734caa15ee950ef141861d096860518aed639bdfed015fa3482c",
+        "custos_gate": "b8b0d2ce57a1585d612e7fbd5ce565afc853f88adb87ffddc348486d1499a4dd",
+        "herald_anchor_receipt": "3b9a220b2c9aede570fee9c044ab67d06b1bf1781e3656febc1b043db97c6181"
+      },
+      "roster": {
+        "adam": {
+          "role": "Network Forensics",
+          "signed": false,
+          "status": "n/a-not-producer"
+        },
+        "eve_deputy": {
+          "role": "EVE Deputy (acting)",
+          "signed": true,
+          "signals": {
+            "ESC-A": "RECONCILED",
+            "ESC-B": "CHARACTERIZATION-ISSUED",
+            "ESC-D": "CHARACTERIZATION-ISSUED"
+          }
+        },
+        "eve_primary": {
+          "role": "EVE \u2014 Legal/Statutory Auditor (primary)",
+          "signed": false,
+          "status": "PENDING \u2014 deputy work awaits primary EVE countersign"
+        },
+        "custos": {
+          "role": "Forensic Integrity Gatekeeper",
+          "signed": true,
+          "signal": "PASS",
+          "manifest_sha256": "401f9daed4a27b543f0f6f325d11923a8dfea9e599ea6c45614419e6b9ee0f64",
+          "stamped_at_utc": "2026-04-15T12:48:38Z"
+        },
+        "herald": {
+          "role": "Comms & Blockchain Liaison; Steward-successor",
+          "signed": true,
+          "signal": "WITNESSING",
+          "received_at_utc": "2026-04-15T12:51:12Z"
+        }
+      },
+      "path_references": {
+        "case_root": "${citizens}/CA_Family_Law_Litigator/case_workflows/case_fl0002067",
+        "manifest_scope": [
+          "ESC-A_DATE_RECONCILIATION.md",
+          "ESC-B_CLETS_1983_CHARACTERIZATION.md",
+          "ESC-D_TOR_CONTINUING_DEPRIVATION.md",
+          "workflow.json"
+        ]
+      },
+      "cross_reference_updates": [
+        "comms_characterization_layer.json updated \u2014 ESC-B (CLETS \u00a71983 characterization) + ESC-D (Tor 1A / continuing-deprivation) folded into HERALD's comms-lane layer per directive."
+      ],
+      "notes": [
+        "EVE PRIMARY COUNTERSIGN PENDING \u2014 this entry carries deputy seal only.",
+        "Closeout gate NOT sealed: requires EVE primary countersign + 6 orphan standards + 6 historical_chain stubs resolution batch to land via CUSTOS.",
+        "No external publication. Running-ledger Merkle recomputed for anchor_payload_pending.json."
+      ]
+    },
+    {
+      "artifact_id": "EVE_ADAM_FL0002067_EVIDENCE_SPINE_v2",
+      "case_number": "FL0002067",
+      "supersedes": "ADAM_FL0002067_EVIDENCE_SPINE_v1",
+      "supersedes_manifest_sha256": "69f906914f020448982b8b24bebb83e9c1d2e9fe07dd74372fce0d23de2a0588",
+      "custos_pass_timestamp": "2026-04-15T12:58:17Z",
+      "custos_gate_type": "DELTA-PASS",
+      "herald_received_at_utc": "2026-04-15T13:28:33Z",
+      "entry_merkle_root": "9cfb1eef87671dd3a5b429f3b30161224457754102313c0297018a6d07ad2b72",
+      "merkle_spec": "SHA-256 Merkle over [delta_manifest_sha256] + sorted(primary:<path> post-patch) + sorted(witness:<label>); pairwise concat raw bytes, odd-tail duplicated",
+      "leaf_count": 7,
+      "leaves": [
+        {
+          "label": "delta_manifest_sha256",
+          "sha256": "dce082dc255b64ff05d99f9100f8d1dfda53a5335541c3ce25151974d9ef2eac"
+        },
+        {
+          "label": "primary:evidence_index/NF-003_clets_face_of_order_telemetry.md",
+          "sha256": "1860f6a20d4ea82ec0ab8c1c5f3f9b7ae5d9512d4d904d9a74bee1b2731a51a0"
+        },
+        {
+          "label": "primary:network_forensic_findings.json",
+          "sha256": "f735f12709a165fd04e7e7b7d98cd797b2cddd15608f4b38a215159d584b8cce"
+        },
+        {
+          "label": "witness:adam_reissued",
+          "sha256": "226d3e5d552cd61dfbefffaaede6eb9a74431f71fe3c3f15317a221add2acee3"
+        },
+        {
+          "label": "witness:custos_delta_gate",
+          "sha256": "1dace71a5d05356c3f121a8c2b31dcf2475a0608ff22a1b97a7b5e9d4db9de6d"
+        },
+        {
+          "label": "witness:eve_count_correction",
+          "sha256": "f03475cc408db8d056c8b99212f36c2c2579a1e213f2e2d7f03e102a007ccd1c"
+        },
+        {
+          "label": "witness:herald_anchor_receipt",
+          "sha256": "d427b333dbb22795c8aebe7a02260ba17f8846fef3ab577f07b6ce4b9e7e651c"
+        }
+      ],
+      "post_patch_file_hashes": {
+        "evidence_index/NF-003_clets_face_of_order_telemetry.md": "1860f6a20d4ea82ec0ab8c1c5f3f9b7ae5d9512d4d904d9a74bee1b2731a51a0",
+        "network_forensic_findings.json": "f735f12709a165fd04e7e7b7d98cd797b2cddd15608f4b38a215159d584b8cce"
+      },
+      "witness_block_hashes": {
+        "adam_reissued": "226d3e5d552cd61dfbefffaaede6eb9a74431f71fe3c3f15317a221add2acee3",
+        "eve_count_correction": "f03475cc408db8d056c8b99212f36c2c2579a1e213f2e2d7f03e102a007ccd1c",
+        "custos_delta_gate": "1dace71a5d05356c3f121a8c2b31dcf2475a0608ff22a1b97a7b5e9d4db9de6d",
+        "herald_anchor_receipt": "d427b333dbb22795c8aebe7a02260ba17f8846fef3ab577f07b6ce4b9e7e651c"
+      },
+      "roster": {
+        "adam": {
+          "role": "Network Forensics",
+          "signed": true,
+          "signal": "FINDINGS-REISSUED-CORRECTED"
+        },
+        "eve": {
+          "role": "Legal/Statutory Auditor",
+          "signed": true,
+          "signal": "COUNT-CORRECTION-RESOLVED"
+        },
+        "custos": {
+          "role": "Forensic Integrity Gatekeeper",
+          "signed": true,
+          "signal": "DELTA-PASS",
+          "stamped_at_utc": "2026-04-15T12:58:17Z",
+          "delta_manifest_sha256": "dce082dc255b64ff05d99f9100f8d1dfda53a5335541c3ce25151974d9ef2eac"
+        },
+        "herald": {
+          "role": "Comms & Blockchain Liaison / Steward-successor",
+          "signed": true,
+          "signal": "WITNESSING",
+          "received_at_utc": "2026-04-15T13:28:33Z"
+        }
+      },
+      "notes": [
+        "Enumeration correction only \u2014 no content drift; comms_characterization_layer.json intentionally NOT updated.",
+        "Prior anchor_payload_pending.json reference to v1 is rescinded by this entry (v1 was held at HOLD, never pushed externally)."
+      ]
+    },
+    {
+      "artifact_id": "FL0002067_CORPUS_DEEPENED_v1",
+      "case_number": "FL0002067",
+      "custos_pass_timestamp": "2026-04-15T12:59:33Z",
+      "custos_gate_type": "RE-GATE-PASS",
+      "herald_received_at_utc": "2026-04-15T13:28:33Z",
+      "entry_merkle_root": "eee54b4de4891fa6d2ef8682b2b257bafe2adb9ba23b1ec484427e66310161b6",
+      "merkle_spec": "SHA-256 Merkle over [full_batch_manifest_sha256, tether_migration_provenance_digest] + sorted(primary:<path>) + sorted(witness:<label>) + tether-embedded sha256s; pairwise concat raw bytes, odd-tail duplicated",
+      "leaf_count": 89,
+      "scope_summary": {
+        "tether": "CA_Family_Law_Litigator/tether.json @ 0.3.1-standards-migrated-registered",
+        "migrated_standards_count": 6,
+        "migrated_standard_dirs": [
+          "cal_fam_217_live_testimony_right",
+          "cal_fam_2030_needbased_attorney_fees",
+          "cal_fam_3027_false_child_abuse_sanctions",
+          "cal_fam_3048_custody_jurisdiction_abduction",
+          "cal_fam_3100_visitation_orders_dv",
+          "cal_fam_3170_mandatory_custody_mediation"
+        ],
+        "historical_chain_entries_count": 7,
+        "historical_chain_status": {
+          "01_1849_constitution": "PRIMARY-SOURCE-VERIFIED",
+          "02_1850_community_property": "OCR-PENDING",
+          "03_1872_civil_code": "PRIMARY-SOURCE-VERIFIED",
+          "04_1969_family_law_act": "PRIMARY-SOURCE-VERIFIED",
+          "05_1992_family_code": "OCR-PENDING",
+          "06_1993_family_code_recodification": "PRIMARY-SOURCE-VERIFIED",
+          "07_current": "PRIMARY-SOURCE-VERIFIED"
+        },
+        "support_page_folders": [
+          "historical_chain/04_1969_chapter_1608_pages",
+          "historical_chain/06_1993_chapter_219_pages"
+        ],
+        "build_claims": "_BUILD_CLAIMS.md included",
+        "shared_hashes_txt": "shared_hashes.txt not present at citizen root; PDF hashes folded via tether migration_provenance blocks instead."
+      },
+      "primary_file_hashes": {
+        "_BUILD_CLAIMS.md": "4c1c0e8afd2b53012a3eea2eadb45301c0d4fbc6620e8ca2bf531aa12e18d6ae",
+        "historical_chain/01_1849_constitution.json": "bff4dbff3f5b9b15ace1117b8b38bb4970c350aa0a9fbd7f0084177cedeef906",
+        "historical_chain/02_1850_community_property.json": "6d4fd5e0ff04d472b15091acf65da400129ebfe50206fedcfed0ac7bd077441d",
+        "historical_chain/03_1872_civil_code.json": "f7fac36eec1a28bdde4a91d7fd65f917798a0feebd8c1b8b6daf355f6328beb9",
+        "historical_chain/04_1969_chapter_1608_pages/ch1608_head_text_extract.txt": "4404da1912578909705b5a474e3267f053f8c9baa341b2ba2e92f20936dcf74f",
+        "historical_chain/04_1969_family_law_act.json": "59e60c9b7dababa967bcf247bb94a68a65ea42be0f2f12c7914b7019655c8bdb",
+        "historical_chain/05_1992_family_code.json": "9d658c134823b74fd9a7ef033b9a725983ecbe63cd86c5e12d7d578038a3aa96",
+        "historical_chain/06_1993_chapter_219_pages/vol1_p1576_ch219_header_section_index_start.png": "de16764fcdd9cfaaa1ec0b2558d570db84c8ba654dbe721215131fbf6a552832",
+        "historical_chain/06_1993_chapter_219_pages/vol1_p1577_ch219_section_index_continuation.png": "1279d1b0b82a82e92134f11e1178bab98f8daf84de1aa30af1578ba17f10700f",
+        "historical_chain/06_1993_chapter_219_pages/vol1_p1578_ch219_section_index_continuation_2.png": "d5104ca7deb7835e40a91540b8dace081800124794d6c905d84842bd7ec57f4f",
+        "historical_chain/06_1993_chapter_219_pages/vol1_p1579_ch219_section_index_continuation_3.png": "a61dfea462a924b52c92b1b0b3a3adff8d36cfc90f74999d31ded0e60f92f7b7",
+        "historical_chain/06_1993_chapter_219_pages/vol1_p1580_ch219_section_index_continuation_4.png": "969f9f33e059829f4918859bca88ced3bfbd7f8ecbbb9da73d66b8207cc0ed7c",
+        "historical_chain/06_1993_chapter_219_pages/vol1_p1581_ch219_section_index_continuation_5.png": "d7cd11b1a2055698806c180f3ce4fc348e8952aeb1e514312e9ac95aa84b056c",
+        "historical_chain/06_1993_chapter_219_pages/vol1_p1582_ch219_ccp527_ex_parte_injunction.png": "c5ce8146fd9b17d1854e873ec6bf282d094d4396e77de22f409949580f1e6675",
+        "historical_chain/06_1993_chapter_219_pages/vol1_p1889_ch219_sec_115_5_adds_fc_3011.png": "453026ffd97c2c5503acc10c8c3fa5a99d39bf39d907dd8b6eaabe6773cc3034",
+        "historical_chain/06_1993_chapter_219_pages/vol1_p1889_ocr.txt": "abd408ad9685edb4d21c45764924188f6e05736a547f389565b855754b3483bd",
+        "historical_chain/06_1993_chapter_219_pages/vol1_p1896_ch219_sec_116_87_starts_adds_fc_3160.png": "525f6bb7c18e1dc898bb3ef1ab886e8d6f74fcbb29b830b58f382d31943295f0",
+        "historical_chain/06_1993_chapter_219_pages/vol1_p1896_ocr.txt": "b669c9cbc92501b18fd4544bba95b1987bf4fc615d96c31f305e40e2798081d9",
+        "historical_chain/06_1993_chapter_219_pages/vol1_p1897_ch219_sec_116_87_continues_fc_3164.png": "e7db98bb9a81b047960673d964b63334c282baf6542e13092a70b802c2cd1a01",
+        "historical_chain/06_1993_chapter_219_pages/vol1_p1897_ocr.txt": "25fbf603b9efad7fd8e9126dd4349bbee09e09cfc80afc6150372ef9c39b41ed",
+        "historical_chain/06_1993_chapter_219_pages/vol5_p83_digest_entry_ch219.png": "3418b1e661beb422aa9668db13de00396e2bd1fc16c6b8a65b057641edda95ac",
+        "historical_chain/06_1993_family_code_recodification.json": "8cf084dd193d09a6e31073691f657bccf0e3bb45d07bf7512e9344083cb24c7c",
+        "historical_chain/07_current.json": "55fd2eabdd61840e2e69091ca0b91824256950bee1c6e8e8824980785f6d34ef",
+        "historical_chain/README.md": "15b66cd10d30bbc9e4cebd6bf76c27dcc9f8b6d5b64e79a0d5dfe22bb1681adb",
+        "standards/cal_fam_2030_needbased_attorney_fees/cross_refs.md": "a6586c53fb3b03eb2a890ece95c735728586cebb18fc3e527b645d878172c505",
+        "standards/cal_fam_2030_needbased_attorney_fees/historical_loss.md": "a5a049a16f4a5f00ff0e87c0e88cb150d708d6cd77a995ea2dfc1b46980bc66d",
+        "standards/cal_fam_2030_needbased_attorney_fees/manifest.json": "2523bef0a22178e59a547b0966e06ae15c4516b14c11e7f1d5766c552a876b20",
+        "standards/cal_fam_2030_needbased_attorney_fees/provenance.md": "58fd9292fe6f5d6755015842b8d0e42b9a4434fc5c693e6c524a78dc98af529d",
+        "standards/cal_fam_2030_needbased_attorney_fees/reasoning.md": "50fca99e888dba31f7e900eec6d7d22f0409fffef88bea2f26619d73fb0a5e70",
+        "standards/cal_fam_2030_needbased_attorney_fees/rule.md": "f131da1fe978530aa5cc8dc39f2a77bce548e63074ac529c1ced5b3110511445",
+        "standards/cal_fam_217_live_testimony_right/cross_refs.md": "c2cd0dde0be9ebc955d072711983d946a8cd84967f4f5c182799b2b4a007ea25",
+        "standards/cal_fam_217_live_testimony_right/historical_loss.md": "470ae4cbdec658a1ddac8ec1a94bcbdc4e7ad8ebfc37e0a0e88c0d632226d997",
+        "standards/cal_fam_217_live_testimony_right/manifest.json": "981e8103468591b6d55fd82e797f2953df1d39507a5ed90c13618a19a61d4686",
+        "standards/cal_fam_217_live_testimony_right/provenance.md": "7fbe996ccf356b8af0e6e1ef6d1217183fc3eea66f1f99c24262b0b7010c26ae",
+        "standards/cal_fam_217_live_testimony_right/reasoning.md": "de166fe6777f7b2b4bc03a384abb2e2ca7fd4caa76a490c67ef645de85c95bb2",
+        "standards/cal_fam_217_live_testimony_right/rule.md": "7808eae79258f025aec1fb66d1ec709fb008ce0b01188726f6ffd5ffa74ce390",
+        "standards/cal_fam_3027_false_child_abuse_sanctions/cross_refs.md": "49ed87fd4a6c55a7c1f15acc37767656841fcd7e15e8c34eb5b448a94b865699",
+        "standards/cal_fam_3027_false_child_abuse_sanctions/historical_loss.md": "ce3c27ab3b82bc54bf3a281cac8f1bc5436d33e373c5b2d93097933944a27664",
+        "standards/cal_fam_3027_false_child_abuse_sanctions/manifest.json": "2277e5ea7ec3d575b8b57d40f893bda81a9d757180de31d33c2e42428d232e04",
+        "standards/cal_fam_3027_false_child_abuse_sanctions/provenance.md": "84a539f5e5b062291f9d135c319beaac68797f4c986c527084978e8f25bee444",
+        "standards/cal_fam_3027_false_child_abuse_sanctions/reasoning.md": "3f52b8697585bf8b74795a2b14f61bc958b45b9015bbc47e50f1ee061a4955b6",
+        "standards/cal_fam_3027_false_child_abuse_sanctions/rule.md": "cef8105073709066b424165baab51a3e347bb699c03d2706af931aa832504bfd",
+        "standards/cal_fam_3048_custody_jurisdiction_abduction/cross_refs.md": "df680380fcc3044d001ecae318ddbee95ad5a66c2ca51f253cf8d3f8de8a04c0",
+        "standards/cal_fam_3048_custody_jurisdiction_abduction/historical_loss.md": "3acaecb16ac0fe920d4897d5c32bb13fd691032320dac8ee8d9ccc1244acc1c8",
+        "standards/cal_fam_3048_custody_jurisdiction_abduction/manifest.json": "b7a60dc5f53884fa03664798cedc98df6900170d55e5e891c1ba2a2caafb8752",
+        "standards/cal_fam_3048_custody_jurisdiction_abduction/provenance.md": "b05ac1d0d16920bf9a2a62400691d20aeb8a9980564c50ea252db7743792b532",
+        "standards/cal_fam_3048_custody_jurisdiction_abduction/reasoning.md": "0c6ce258f4bbcb28160352e8ece895b02a63fe208da984daa44140274011c7f3",
+        "standards/cal_fam_3048_custody_jurisdiction_abduction/rule.md": "fcbb8e2888bbb723c260223e73a305ca2805c2fff0e171c8094fc775d80a2b1a",
+        "standards/cal_fam_3100_visitation_orders_dv/cross_refs.md": "9ca63387987abecd6068acb9332671235d16841b5adb652183ad1ab6db9ca1f0",
+        "standards/cal_fam_3100_visitation_orders_dv/historical_loss.md": "48ed9acf5f3617846c535f2e69a6e11efbf6a3e1ac6cd4bff807410a1c5273d5",
+        "standards/cal_fam_3100_visitation_orders_dv/manifest.json": "5d9834d980ecaf41e07dd2614362cf4619fac5162aade2a9acd9e505c0f89ec5",
+        "standards/cal_fam_3100_visitation_orders_dv/provenance.md": "085937c54095ea62bf60ed2de9ac5a1eb5ed87221768e5240ed0a0b596f6765b",
+        "standards/cal_fam_3100_visitation_orders_dv/reasoning.md": "6b102b1b2247fe9f1cd6a7c7597895f5fc23e9e2338cf2a8454b5b4a26ec9365",
+        "standards/cal_fam_3100_visitation_orders_dv/rule.md": "a1526c3b145eace7d98f9d0d1ee17a05973c2e782c9d23074da10c7dfe3627f3",
+        "standards/cal_fam_3170_mandatory_custody_mediation/cross_refs.md": "00acdc2494b144fd0d3ac2fcfa437f7fcebb9d756c6fbca612befd287043f95c",
+        "standards/cal_fam_3170_mandatory_custody_mediation/historical_loss.md": "a9df86e1588eae48343f0e1c274c0559bd7ddacad9ccdeb74a409c4c126628de",
+        "standards/cal_fam_3170_mandatory_custody_mediation/manifest.json": "744becd1eedaf593e7d0e7fb7f27cfd40ea0608d646bbdf050d62dcdd3fc2e41",
+        "standards/cal_fam_3170_mandatory_custody_mediation/provenance.md": "95d283ab0fe3dcdf92c96aaf28eae85f8b6e3849b200eb00386195c60963f1db",
+        "standards/cal_fam_3170_mandatory_custody_mediation/reasoning.md": "f88b85f66b81a38b7f2976576afd6af37fa8837ed63c333d089abb24f328b2eb",
+        "standards/cal_fam_3170_mandatory_custody_mediation/rule.md": "9df45f3a348e8b0fd1fd2fe642671f7cb7427670af9cec73f9e0c595d016187c",
+        "tether.json": "0fb6401966bbd4000b4217bf9d1d8873db68a788facca4d8e9007b3f869ed22b"
+      },
+      "witness_block_hashes": {
+        "std_cal_fam_217_live_testimony_right_dual_witness": "79e5a349df0d272817dca06d8dfcd6491c0a615f3ae24d2b2a7470451130a488",
+        "std_cal_fam_2030_needbased_attorney_fees_dual_witness": "87df62d9ead3629d5698517a12e93bbf51133d25f881b7c199929a3ab73d66bd",
+        "std_cal_fam_3027_false_child_abuse_sanctions_dual_witness": "10aff2f1a41540f17a6ba9d63ff697a4e2dc771823e187f4fc22d882ecbe7b5c",
+        "std_cal_fam_3048_custody_jurisdiction_abduction_dual_witness": "a0b8696427c2773fa6d75bf63720a178be376dcdddca4179d7316039a7591817",
+        "std_cal_fam_3100_visitation_orders_dv_dual_witness": "ebb036d649d14b3935d67349ec85860b82e461803e9a9930ee613bdf7975a1ad",
+        "std_cal_fam_3170_mandatory_custody_mediation_dual_witness": "bbca791603e980bba8e1898c96def530db452f0ba4417c74756ba70ec22b341f",
+        "hc_01_1849_constitution": "71baf2cdc1c74e4e1310b496fc9eaf3b0280e5867c5539aeec3ae1e7bd4577dc",
+        "hc_02_1850_community_property": "86e7da84cb1fc2b14b17743ed6cde5b20761353079f3289dfb0465401020d695",
+        "hc_03_1872_civil_code": "471e4ade640d4074821de19d767cff484f44e0e757ea73c098d68a997211e6f8",
+        "hc_04_1969_family_law_act": "9e84e0896d8fd815c52501f7c5bcd3bca66aa6a0a0160a7616b0a05a90dd0227",
+        "hc_05_1992_family_code": "def51ac9c0a9b1dcb71d2534af99984b4791695463f58dbdce3bb06803f3781b",
+        "hc_06_1993_family_code_recodification": "5eb0db616eb2b22a821a8e4e2cee674a26c513a5efc79378e0365972252eccb1",
+        "hc_07_current": "cefd312dd30e14a5f9bd5188f97b67232d36d5f71329f453033b370b00c1ae49",
+        "eve_batch_author": "aae20a8161d6a08222f4fc96e75367216d306484279e93b8a10c2cf67dd9ff97",
+        "adam_co_witness_migration": "9ca6e9be5d016997f17bbb1ec9b74c56176fe1d1c394b6155c66dd07cb0f90d8",
+        "custos_batch_gate": "ebab27e56d107f338e58c9ba95bd971fbf5acfb63450c94eb80b02f91bcd338a",
+        "herald_anchor_receipt": "d427b333dbb22795c8aebe7a02260ba17f8846fef3ab577f07b6ce4b9e7e651c"
+      },
+      "tether_migration_provenance_digest": "3748613559d73ea4cd530ec444b77a712ee4d67729f29810b11361e62dbd3b20",
+      "tether_embedded_sha256_count": 9,
+      "roster": {
+        "adam": {
+          "role": "Network Forensics",
+          "signed": true,
+          "signal": "CO-WITNESS on 6 migrated standards via dual_witness blocks"
+        },
+        "eve": {
+          "role": "Legal/Statutory Auditor",
+          "signed": true,
+          "signal": "CORPUS-DEEPENED-ISSUED \u2014 migration producer + historical_chain producer + tether patch producer"
+        },
+        "custos": {
+          "role": "Forensic Integrity Gatekeeper",
+          "signed": true,
+          "signal": "RE-GATE PASS",
+          "stamped_at_utc": "2026-04-15T12:59:33Z",
+          "full_batch_manifest_sha256": "4d3a1fb6ccfce1fdbc6040efbe99838c597ca256e1da2e6337c9c644b05e64de"
+        },
+        "herald": {
+          "role": "Comms & Blockchain Liaison / Steward-successor",
+          "signed": true,
+          "signal": "WITNESSING",
+          "received_at_utc": "2026-04-15T13:28:33Z"
+        }
+      },
+      "closeout_gate_status": {
+        "orphans_resolved": {
+          "required": 6,
+          "current": 6,
+          "status": "RESOLVED"
+        },
+        "historical_chain_stubs_resolved": {
+          "required": 6,
+          "current_primary_source_verified": 5,
+          "ocr_pending": [
+            "02_1850_community_property",
+            "05_1992_family_code"
+          ],
+          "status": "5/7 PRIMARY-SOURCE-VERIFIED; 2 OCR-PENDING, non-blocking per EVE disclosure"
+        },
+        "evidence_spine_sealed_to_current_best_knowledge": true,
+        "tether_version": "0.3.1-standards-migrated-registered",
+        "version_0_4_0_closeout_sealed": "HELD pending 1850/1992 OCR pass"
+      },
+      "notes": [
+        "EVE primary-countersign on ESC-A/B/D (entry 2) also satisfied in spirit via this batch (EVE is producer of tether+standards+history); explicit primary countersign artifact may still be logged separately if council requires.",
+        "No external publication. anchor_payload_pending.json updated with new running Merkle."
+      ]
+    }
+  ],
+  "last_updated_utc": "2026-04-15T13:28:33Z",
+  "last_merkle_root": "ca00aec3dde651f17c52c93a4d4063f5dc71ebcd7494c09ef82374c2d40425bf",
+  "last_entry_merkle_root": "eee54b4de4891fa6d2ef8682b2b257bafe2adb9ba23b1ec484427e66310161b6",
+  "running_ledger_merkle_root": "c0d88f955e1b799495c764e9db9ec6ab1732aca380c9af73be3d67088457936d",
+  "running_ledger_merkle_spec": "SHA-256 Merkle over entry_merkle_root values for LIVE (non-superseded) entries, sorted ascending by artifact_id. Superseded entries preserved in ledger.entries but excluded from running-live root; full-history root provided separately for audit completeness.",
+  "running_ledger_entry_order": [
+    "ADAM_FL0002067_EVIDENCE_SPINE_v1",
+    "EVE_DEPUTY_FL0002067_ESCALATIONS_v1"
+  ],
+  "running_ledger_merkle_root_full_history": "119a1445c62562591231a164fc3bf2cf9481e90e93540762634dd9e84dec6e74",
+  "running_ledger_live_entry_order": [
+    "EVE_ADAM_FL0002067_EVIDENCE_SPINE_v2",
+    "EVE_DEPUTY_FL0002067_ESCALATIONS_v1",
+    "FL0002067_CORPUS_DEEPENED_v1"
+  ],
+  "superseded_entry_ids": [
+    "ADAM_FL0002067_EVIDENCE_SPINE_v1"
+  ]
+}

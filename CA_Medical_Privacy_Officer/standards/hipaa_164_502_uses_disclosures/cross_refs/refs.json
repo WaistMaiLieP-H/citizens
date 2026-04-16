@@ -1,0 +1,47 @@
+{
+  "standard": "hipaa_164_502_uses_disclosures",
+  "cross_references": [
+    {
+      "cite": "45 CFR § 164.506",
+      "label": "HIPAA — Treatment, Payment, Operations (TPO) Uses and Disclosures",
+      "relationship": "primary_exception",
+      "note": "§164.506 defines the TPO exception incorporated by §164.502(a)(1)(ii). Disclosures for treatment, payment, or health care operations are permitted without patient authorization. The minimum necessary standard still applies to payment and operations disclosures."
+    },
+    {
+      "cite": "45 CFR § 164.508",
+      "label": "HIPAA — Authorization Requirements",
+      "relationship": "authorization_standard",
+      "note": "§164.508 defines the elements of a valid HIPAA authorization. §164.502 permits disclosures pursuant to a valid §164.508 authorization. An authorization that fails §164.508's requirements renders any disclosure under it unauthorized."
+    },
+    {
+      "cite": "45 CFR § 164.512",
+      "label": "HIPAA — Uses and Disclosures for Public Interest",
+      "relationship": "enumerated_exception",
+      "note": "§164.512 contains the enumerated exceptions for uses/disclosures required by law, public health activities, law enforcement, court orders, and similar. The court-order and required-by-law exceptions are analogous to CMIA §56.10(b)."
+    },
+    {
+      "cite": "Cal. Civ. Code § 56.10",
+      "label": "CMIA — Authorized Disclosures (California Floor)",
+      "relationship": "state_companion",
+      "note": "California CMIA §56.10 runs parallel to HIPAA §164.502 for California providers. CMIA is generally more protective; both may be violated simultaneously by the same unauthorized disclosure. CMIA provides the private right of action; HIPAA provides the federal enforcement track."
+    },
+    {
+      "cite": "Cal. Civ. Code § 56.35",
+      "label": "CMIA — Civil Damages",
+      "relationship": "enforcement_partner",
+      "note": "HIPAA violations by California providers are also typically CMIA violations. §56.35 provides the civil damages mechanism that HIPAA lacks. Filing an OCR complaint under HIPAA and a civil damages action under §56.35 runs both enforcement tracks simultaneously."
+    },
+    {
+      "cite": "42 U.S.C. § 17935 (HITECH Act)",
+      "label": "HITECH — Business Associate Direct Liability",
+      "relationship": "enforcement_extension",
+      "note": "HITECH extended HIPAA requirements directly to business associates. Post-2009, a business associate (billing company, EHR vendor, data processor) that violates §164.502 is directly liable under HIPAA — not just through a covered entity contract."
+    },
+    {
+      "cite": "45 CFR § 160.306",
+      "label": "HIPAA — Complaint Procedures (OCR)",
+      "relationship": "enforcement_vehicle",
+      "note": "§160.306 governs filing complaints with HHS OCR. A HIPAA complaint triggers an OCR investigation, which can result in civil monetary penalties and corrective action plans. OCR investigations often produce documentary evidence (disclosure logs, authorization records) that is also useful in civil CMIA litigation."
+    }
+  ]
+}

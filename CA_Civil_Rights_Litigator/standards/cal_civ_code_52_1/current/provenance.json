@@ -1,0 +1,9 @@
+{
+  "standard_id": "CAL_CIV_CODE_52_1",
+  "source": "leginfo.legislature.ca.gov (via VernenLegal MCP tool — california_get_section CIV 52.1)",
+  "fetch_timestamp_utc": "2026-04-09T02:10:00Z",
+  "retrieval_steward": "Claude (assistant) under steward direction — Michael Hartmann",
+  "text_file": "cal_civ_code_52_1_leginfo.txt",
+  "text_sha256": "56e778fa18d2bdcd63c4630926b5f6a00ec9dbdc2571ddb92f98e9f0655a9742",
+  "notes": "Full text of all 15 subdivisions (a) through (o). Fetched directly from California Legislature's official database via MCP tool."
+}

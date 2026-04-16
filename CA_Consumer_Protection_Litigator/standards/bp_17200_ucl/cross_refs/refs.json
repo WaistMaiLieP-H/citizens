@@ -1,0 +1,35 @@
+{
+  "standard_id": "BP_17200_UCL",
+  "cross_references": [
+    {
+      "anchor": "civ_1750_clra",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/civ_1750_clra/",
+      "relationship": "compound_claim_primary",
+      "note": "CLRA + UCL is the standard California consumer fraud package. CLRA violation = UCL unlawful prong. CLRA provides actual damages + §3294 punitive damages; UCL provides restitution + injunction. The claims are always pled together. CLRA's 30-day cure demand is UCL's companion — send CLRA demand first, then UCL injunction if not cured."
+    },
+    {
+      "anchor": "civ_2981_rees_levering",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/civ_2981_rees_levering/",
+      "relationship": "compound_claim_auto",
+      "note": "Rees-Levering §2981.9 violation = UCL unlawful prong (borrowing the statutory violation). UCL restitution = all payments made on void contracts. UCL injunction = prohibition on dealer's continued use of non-compliant contract forms."
+    },
+    {
+      "anchor": "civ_1788_rosenthal",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/civ_1788_rosenthal/",
+      "relationship": "compound_claim_collection",
+      "note": "Rosenthal Act violation = UCL unlawful prong (borrowing Rosenthal violation). FDCPA violation also borrows into UCL unlawful prong. UCL claim against collector adds restitution of all amounts collected through illegal means."
+    },
+    {
+      "anchor": "usc_15_1681_fcra",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_15_1681_fcra/",
+      "relationship": "unlawful_prong_borrowing",
+      "note": "Federal FCRA violation = UCL unlawful prong (Cel-Tech: borrowed violation from federal law). California plaintiffs can assert FCRA violations in California state court via UCL unlawful prong even if FCRA's own standing requirements are not met (avoids Spokeo/TransUnion federal standing gate)."
+    },
+    {
+      "anchor": "ccp_1021_5",
+      "path": "${citizens}/CA_Civil_Litigator/standards/ccp_1021_5/",
+      "relationship": "attorney_fees_pathway",
+      "note": "UCL does not provide attorney fees directly. CCP §1021.5 private attorney general fees are available when a UCL case vindicates a significant public right. For individual consumer fraud cases, fees typically run through the companion CLRA (mandatory fees), Rees-Levering §2983.4 (mandatory fees), or Rosenthal §1788.30(c) (mandatory fees)."
+    }
+  ]
+}

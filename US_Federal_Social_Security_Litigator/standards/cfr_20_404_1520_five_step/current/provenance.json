@@ -1,0 +1,50 @@
+{
+  "standard_id": "CFR_20_404_1520_FIVE_STEP_EVAL",
+  "provenance_layer": "current",
+  "primary_source": {
+    "citation": "20 C.F.R. § 404.1520",
+    "title": "Title 20 — Employees' Benefits, Chapter III — Social Security Administration, Part 404 — Federal Old-Age, Survivors and Disability Insurance, Subpart P — Determining Disability and Blindness",
+    "publisher": "Social Security Administration / Office of the Federal Register",
+    "url": "https://www.ecfr.gov/current/title-20/chapter-III/part-404/subpart-P/section-404.1520",
+    "verified": false,
+    "verification_note": "eCFR API returned 'not found' for this section. statute_text.md reflects authoritative knowledge of 20 C.F.R. § 404.1520 — verify text against ecfr.gov before formal publication.",
+    "retrieval_date": "2026-04-12"
+  },
+  "supporting_authorities": [
+    {
+      "citation": "20 C.F.R. § 404.1527",
+      "description": "Evaluating medical opinions — treating physician rule and weighing hierarchy",
+      "url": "https://www.ecfr.gov/current/title-20/chapter-III/part-404/subpart-P/section-404.1527",
+      "verified": false
+    },
+    {
+      "citation": "20 C.F.R. § 404.1545",
+      "description": "Residual functional capacity assessment",
+      "url": "https://www.ecfr.gov/current/title-20/chapter-III/part-404/subpart-P/section-404.1545",
+      "verified": false
+    },
+    {
+      "citation": "42 U.S.C. § 423(d)",
+      "description": "Statutory disability definition authorizing the five-step framework",
+      "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section423",
+      "verified": false
+    }
+  ],
+  "key_cases": [
+    {
+      "citation": "Bowen v. Yuckert, 482 U.S. 137 (1987)",
+      "holding": "Supreme Court upheld five-step sequential evaluation as a valid exercise of SSA rulemaking authority under § 405(b)"
+    },
+    {
+      "citation": "Tackett v. Apfel, 180 F.3d 1094 (9th Cir. 1999)",
+      "holding": "Ninth Circuit: ALJ must accurately represent all impairments in VE hypothetical; incomplete hypothetical answer is not substantial evidence at step 5"
+    },
+    {
+      "citation": "Robbins v. Soc. Sec. Admin., 466 F.3d 880 (9th Cir. 2006)",
+      "holding": "ALJ must provide specific, legitimate reasons for rejecting a treating physician's opinion"
+    }
+  ],
+  "witness": "ADAM+EVE — see reviews",
+  "status": "PROPOSED",
+  "build_session": "2026-04-12"
+}

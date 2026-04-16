@@ -1,0 +1,70 @@
+{
+  "path_anchors": {
+    "_comment": "Symbolic anchors.",
+    "familylaw":    "/home/vernenlegal/FamilyLaw",
+    "nonfamilylaw": "/home/vernenlegal/NonFamilyLaw",
+    "citizens":     "/home/vernenlegal/citizens"
+  },
+
+  "citizen": "CA_Consumer_Protection_Litigator",
+  "tether_version": "0.1.0-initial",
+  "filed_at_utc": "2026-04-10T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "purpose": "Explicit binding manifest for the CA_Consumer_Protection_Litigator Citizen. Built to facilitate filing suits for auto fraud, debt collection, and credit reporting cases in the steward's CaseList.",
+
+  "blueprints_inherited": {
+    "from": [
+      "${citizens}/ADAM/dossier.md",
+      "${citizens}/ADAM/skills.md",
+      "${citizens}/EVE/dossier.md",
+      "${citizens}/EVE/skills.md"
+    ],
+    "blueprints": [
+      "Triple Constraint (Governing Guidelines / Standards of Creation / Standard of Care)",
+      "Five-Layer Bar (Rule + Reasoning + Historical Loss + Cross-References + Verifiable Provenance)",
+      "Two-Witness Rule (no artifact published without a second mouth)",
+      "Hash Chain + Anchor (every artifact hashed at production with provenance)"
+    ]
+  },
+
+  "standards": {
+    "bound_directly": [
+      {"standard_id": "CIV_1750", "popular_name": "Consumers Legal Remedies Act (CLRA)", "manifest_path": "standards/civ_1750_clra/manifest.json", "status": "PROPOSED", "build_date": "2026-04-10"},
+      {"standard_id": "BPC_17200", "popular_name": "Unfair Competition Law (UCL)", "manifest_path": "standards/bpc_17200_ucl/manifest.json", "status": "PROPOSED", "build_date": "2026-04-10"},
+      {"standard_id": "CIV_2981", "popular_name": "Rees-Levering Automobile Sales Finance Act", "manifest_path": "standards/civ_2981_rees_levering/manifest.json", "status": "PROPOSED", "build_date": "2026-04-10"},
+      {"standard_id": "CIV_1790", "popular_name": "Song-Beverly Consumer Warranty Act", "manifest_path": "standards/civ_1790_song_beverly/manifest.json", "status": "PROPOSED", "build_date": "2026-04-10"},
+      {"standard_id": "CIV_1788", "popular_name": "Rosenthal Fair Debt Collection Practices Act", "manifest_path": "standards/civ_1788_rosenthal/manifest.json", "status": "PROPOSED", "build_date": "2026-04-10"},
+      {"standard_id": "CIV_1709", "popular_name": "Civil deceit / fraud cause of action", "manifest_path": "standards/civ_1709_deceit/manifest.json", "status": "PROPOSED", "build_date": "2026-04-10"},
+      {"standard_id": "BPC_17500", "popular_name": "False Advertising Law (FAL)", "manifest_path": "standards/bp_17500_false_advertising/manifest.json", "status": "PROPOSED", "build_date": "2026-04-10"},
+      {"standard_id": "CIV_1798", "popular_name": "Information Practices Act (IPA)", "manifest_path": "standards/civ_1798_ipa/manifest.json", "status": "PROPOSED", "build_date": "2026-04-10"},
+      {"standard_id": "VEH_11711", "popular_name": "Vehicle Code §11711 — dealer fraud civil remedy", "manifest_path": "standards/veh_11711_dealer_fraud/manifest.json", "status": "PROPOSED", "build_date": "2026-04-10"},
+      {"standard_id": "PEN_630_CIPA", "popular_name": "Penal Code §630 et seq. — California Invasion of Privacy Act", "manifest_path": "standards/pen_630_cipa/manifest.json", "status": "PROPOSED", "build_date": "2026-04-11"},
+      {"standard_id": "PEN_502", "popular_name": "Penal Code §502 — Comprehensive Computer Data Access and Fraud Act", "manifest_path": "standards/pen_502_computer_crime/manifest.json", "status": "PROPOSED", "build_date": "2026-04-11"},
+      {"standard_id": "USC_15_1638_TILA", "popular_name": "Truth in Lending Act §1638 — auto financing disclosures; yo-yo financing", "manifest_path": "standards/usc_15_1638_tila/manifest.json", "status": "PROPOSED", "build_date": "2026-04-11"}
+    ],
+    "_note": "Standards added as each is built to full five-layer depth. QUEUED → PROPOSED → WITNESSED-BY-STEWARD."
+  },
+
+  "domain": {
+    "jurisdiction": "California state courts (state-law consumer protection). Federal consumer protection claims (FCRA, FDCPA federal, FTC Act, TILA) may be pled in parallel and are cross-referenced to US_Federal_Financial_Fraud_Litigator.",
+    "subject_matter": "Motor vehicle sales/finance fraud (Rees-Levering, Song-Beverly lemon law), deceptive consumer practices (CLRA), unfair competition (UCL §17200), debt collection abuse (Rosenthal Act), common-law deceit.",
+    "exclusions": [
+      "Federal credit reporting (FCRA) and federal identity theft (18 USC §1028) — US_Federal_Financial_Fraud_Litigator",
+      "Medical professional negligence — CA_Medical_Malpractice_Litigator",
+      "Civil rights claims — CA_Civil_Rights_Litigator / US_Federal_Civil_Rights_Litigator",
+      "Family law — CA_Family_Law_Litigator (other terminal)"
+    ]
+  },
+
+  "case_bindings": {
+    "_comment": "CaseList entries this Citizen is built to serve.",
+    "primary": [
+      {"case_folder": "${nonfamilylaw}/RedJag", "summary": "2018 Jaguar XE yo-yo financing, wrong CARFAX, stolen/stripped vehicle, $19,985 collection", "primary_causes_of_action": ["Rees-Levering", "CLRA", "UCL §17200", "Rosenthal Act", "common-law deceit"]},
+      {"case_folder": "${nonfamilylaw}/BlueJag", "summary": "Blue Jaguar fraud (details in folder)", "primary_causes_of_action": ["Rees-Levering", "CLRA", "UCL §17200"]},
+      {"case_folder": "${nonfamilylaw}/WhiteJag", "summary": "White Jaguar fraud — 22 pages scanned 2026-03-21", "primary_causes_of_action": ["Rees-Levering", "CLRA", "UCL §17200"]},
+      {"case_folder": "${nonfamilylaw}/KiaSoul", "summary": "Kia Soul matter", "primary_causes_of_action": ["Rees-Levering", "Song-Beverly lemon law", "CLRA"]},
+      {"case_folder": "${nonfamilylaw}/Debt_Collections", "summary": "Multiple debt collections arising from above + other fraud", "primary_causes_of_action": ["Rosenthal Act", "FDCPA cross-ref", "CLRA"]},
+      {"case_folder": "${nonfamilylaw}/2024_Fraud ChexSystems", "summary": "2024 ChexSystems fraud entry", "primary_causes_of_action": ["CLRA", "UCL §17200", "FCRA cross-ref"]}
+    ]
+  }
+}

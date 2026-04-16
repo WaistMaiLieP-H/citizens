@@ -1,0 +1,18 @@
+{
+  "standard_id": "CA_FAM_6203_DVPA_ABUSE_DEFINITION",
+  "provenance_record_filed_at_utc": "2026-04-08T14:50:00Z",
+  "fetcher_software": "curl with sha256sum",
+  "fetcher_operator": "Claude (assistant) under steward direction (Michael Hartmann)",
+  "fetches": [
+    {
+      "artifact_local_path": "current/cal_fam_6203_leginfo.html",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6203.&lawCode=FAM",
+      "source_authority": "California Legislative Information (leginfo.legislature.ca.gov), maintained by the Office of Legislative Counsel of California",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-08T14:50:00Z",
+      "fetch_method": "curl -sSL --max-time 60",
+      "sha256": "6819693aa157c7a0f97f232be98d46e8f518db71cb91b8b85600973549bea036",
+      "content_description": "Domestic Violence Prevention Act (DVPA) \u2014 Definition of 'Abuse'"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "standard": "ccp_2016_civil_discovery_act",
+  "cross_references": [
+    {
+      "cite": "Cal. Code Civ. Proc. § 1985",
+      "label": "Subpoena Duces Tecum — Non-Party Records",
+      "relationship": "companion_non_party_tool",
+      "note": "The Civil Discovery Act governs party discovery; §1985 governs non-party records subpoenas. Together they provide the complete discovery toolkit. Non-party records (pension trust, OPD, medical providers) require §1985 SDTs; party documents are obtained via §2031 inspection demands."
+    },
+    {
+      "cite": "Cal. Code Civ. Proc. § 2023.010",
+      "label": "Discovery Sanctions — Spoliation and Misconduct",
+      "relationship": "enforcement_mechanism",
+      "note": "§2023.010 et seq. provides the sanctions framework for discovery misconduct including spoliation. Failure to preserve or produce ESI, failure to respond to discovery, and providing evasive responses are all sanctionable misconduct under the Civil Discovery Act."
+    },
+    {
+      "cite": "Fed. R. Civ. P. 26",
+      "label": "FRCP — Federal Disclosure and Discovery",
+      "relationship": "federal_analog",
+      "note": "FRCP Rule 26 governs federal civil discovery. The Civil Discovery Act was harmonized with FRCP standards to reduce friction. In ERISA federal court actions, FRCP governs rather than the Civil Discovery Act — but the scope, proportionality, and ESI standards are substantially similar."
+    },
+    {
+      "cite": "Cal. Code Civ. Proc. § 2030.010",
+      "label": "Interrogatories — 35 Limit",
+      "relationship": "specific_tool",
+      "note": "§2030.010 limits specially prepared interrogatories to 35 per party without a supporting declaration. Form interrogatories don't count toward the limit. Critical to know when planning discovery strategy in complex multi-issue cases."
+    },
+    {
+      "cite": "Cal. Code Civ. Proc. § 2033.290",
+      "label": "Requests for Admission — Failure to Respond",
+      "relationship": "enforcement_provision",
+      "note": "If a party fails to respond to RFAs, the matters are deemed admitted. This is a powerful default: propounding RFAs to the Trust about the authorization records, and securing deemed admissions on failure to respond, can establish key facts conclusively."
+    },
+    {
+      "cite": "Cal. Code Civ. Proc. § 2025.450",
+      "label": "Deposition — Motion to Compel",
+      "relationship": "enforcement_provision",
+      "note": "§2025.450 allows a party to move to compel deposition attendance and document production. If the PMQ witness of the pension Trust refuses to appear or answer questions about the retirement election, a §2025.450 motion with sanctions request is the enforcement vehicle."
+    }
+  ]
+}

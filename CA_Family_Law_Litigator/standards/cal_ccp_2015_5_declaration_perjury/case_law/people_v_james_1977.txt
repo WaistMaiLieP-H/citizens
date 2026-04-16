@@ -1,0 +1,12 @@
+People v. James
+19 Cal.3d 99 (1977)
+California Supreme Court, 1977
+
+FACTS:
+Criminal case involving a search warrant supported by an affidavit. Defendant challenged whether an unsworn declaration under § 2015.5 could substitute for a sworn affidavit in the search warrant context. The case addressed whether § 2015.5's "with like force and effect" language fully substituted for traditional oath requirements.
+
+HOLDING — CCP § 2015.5:
+The California Supreme Court confirmed that CCP § 2015.5 was designed to give unsworn declarations "like force and effect" as sworn statements in any California proceeding where an oath is "required or permitted." The statute is broad — it applies to any matter that may be "supported, evidenced, established, or proved" by sworn statement. A properly executed § 2015.5 declaration substitutes for an affidavit in all California civil and quasi-judicial proceedings.
+
+SIGNIFICANCE:
+Establishes the breadth of § 2015.5 coverage. "Any matter" that may be supported by sworn statement under any California law can instead be supported by a § 2015.5 declaration. This includes family court declarations, agency submissions, and civil litigation. The case is the authority for the proposition that § 2015.5 is not procedurally limited — it applies across all California state proceedings. Critical for CalVCB: § 2015.5 applies to CalVCB because CalVCB is a California state agency operating under California law.

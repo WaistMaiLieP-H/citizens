@@ -1,0 +1,52 @@
+FCC IN RE AT&T INC.
+File No. EB-TCD-13-00009243, Forfeiture Order
+Federal Communications Commission
+Decided: April 8, 2015
+
+---
+
+BACKGROUND:
+
+FCC investigation revealed that AT&T employees at call centers in Mexico, Colombia, and the Philippines had sold customer CPNI — specifically, names, addresses, and Social Security numbers — to third parties who then used the information to unlock AT&T phones. Approximately 280,000 customer accounts were affected. AT&T discovered the breach in 2013-2014 and reported it to the FCC.
+
+---
+
+ORDER:
+
+$25 MILLION FORFEITURE — KEY PRINCIPLES:
+
+1. **Carriers are responsible for CPNI violations by employees.** A carrier cannot escape § 222 liability by pointing to rogue employees. The carrier's obligation to protect CPNI is an institutional responsibility that includes supervising access to customer information and implementing controls to prevent employee misuse.
+
+2. **Insider threat is a § 222 violation.** Even when the disclosure is by a carrier employee rather than an external hacker, the carrier has violated its § 222 duty. The carrier cannot claim it was victimized — it was the source of the violation.
+
+3. **Scale is not required for enforcement.** The AT&T case involved 280,000 accounts, but the FCC has applied § 222 to smaller-scale violations. The principle that unauthorized CPNI access triggers § 222 applies at any scale.
+
+4. **Remedial obligations establish the industry standard.** AT&T was required to implement enhanced CPNI protection procedures, employee training, and monitoring systems. These remedial obligations establish what carriers must do to comply with § 222.
+
+---
+
+SIGNIFICANCE FOR CARRIER SIM SWAP LIABILITY:
+
+The AT&T enforcement order establishes:
+- **Carriers are strictly accountable for how their employees handle CPNI.** If a carrier employee assisted in a SIM swap (accepting a bribe, failing to verify identity, providing inside information), the carrier is liable for the § 222 violation regardless of the employee's personal culpability.
+- **The carrier's duty extends to preventing insider-facilitated fraud.** A carrier cannot claim it had no knowledge if the breach was by its own employees without adequate supervision.
+- **The standard of care is institutional, not individual.** Carriers must implement systems — authentication protocols, access controls, monitoring — adequate to protect CPNI from both external attacks and insider misuse.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For cases #30-33 (carrier SIM swap liability):
+1. **Identify the carrier(s) involved** — AT&T, Verizon, T-Mobile, or other carrier whose account management system processed the unauthorized SIM change
+2. **Carrier authentication failures** are § 222 violations — cite the AT&T forfeiture order as establishing the institutional standard of care
+3. **If any carrier employee assisted** in the unauthorized SIM changes (inside access), the carrier is directly liable under the AT&T forfeiture precedent
+4. **FCC complaint filing:** File with the FCC Consumer Complaint Center, specifically citing: the CPNI regulations (47 C.F.R. Part 64); the 2015 AT&T enforcement order (File No. EB-TCD-13-00009243); the 2023 SIM Swap Order (WC Docket No. 21-341). The FCC complaint creates a formal record and may trigger enforcement.
+5. **Parallel civil claim:** The § 222 CPNI regulations establish the standard of care for a state law negligence claim — carrier failure to meet § 222 standards constitutes negligence per se under the appropriate California standard.
+
+---
+
+SOURCE PROVENANCE:
+Citation: FCC In re AT&T Inc., File No. EB-TCD-13-00009243, Forfeiture Order, April 8, 2015
+Forum: Federal Communications Commission (Enforcement Bureau)
+Source: FCC agency enforcement action establishing institutional carrier liability for CPNI violations including insider-facilitated disclosures. Publicly available FCC document. Verify at FCC.gov: File No. EB-TCD-13-00009243.
+Verification status: PROPOSED — publicly verifiable at FCC.gov; pending steward witness review

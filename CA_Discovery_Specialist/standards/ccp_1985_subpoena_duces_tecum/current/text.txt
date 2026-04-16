@@ -1,0 +1,44 @@
+California Code of Civil Procedure § 1985 — Subpoena for Production of Documents (Subpoena Duces Tecum)
+
+§ 1985. FORM AND ISSUANCE OF SUBPOENA
+(a) The process by which the attendance of a witness is required is the subpoena. It is a writ or order directed to a person and requiring the person's attendance at a particular time and place to testify as a witness. It may also require a witness to bring any books, documents, electronically stored information, or other things under the witness's control which the witness is required to produce.
+
+(b) A subpoena shall be issued by a clerk of the court, or in certain circumstances by an attorney licensed to practice law.
+
+§ 1985.2. SUBPOENAS FOR CIVIL PROCEEDINGS
+Any party or counsel of record may issue a subpoena in a civil proceeding.
+
+§ 1985.3. CONSUMER RECORDS — NOTICE REQUIREMENT
+(a) For purposes of this section:
+(1) "Consumer" means any individual, partnership of fewer than 10 persons, or association who has transacted business with, or has used the services of, the witness or for whom the witness has acted in any capacity.
+(2) "Consumer records" means any material that reflects any information about a consumer.
+
+(b) Before any subpoena duces tecum is served on a witness to require the production of consumer records, the party seeking the records shall serve on the consumer a copy of the subpoena and a notice of the consumer's right to object to the production of the records.
+
+(c) The consumer shall have not less than 10 days after the service of the notice to file a written objection to the production of records.
+
+(d) If the consumer serves a written objection, the subpoenaing party may petition the court to issue an order compelling the production of records.
+
+§ 1985.6. EMPLOYEE RECORDS — NOTICE REQUIREMENT
+(a) For purposes of this section, "employee" means any individual who is or has been employed by a witness. "Employment records" means any records relating to an employee.
+
+(b) Before any subpoena duces tecum is served to require the production of employment records, the employer or former employer shall be served with notice and the employee whose records are sought must also be notified.
+
+(c) The employee shall have not less than 10 days to object to the production of employment records.
+
+§ 1985.8. ELECTRONICALLY STORED INFORMATION
+(a) Any subpoena that requires the production, inspection, copying, testing, or sampling of electronically stored information shall specify the form or forms in which the electronically stored information is to be produced.
+
+(b) Unless the court orders otherwise, the responding party shall produce electronically stored information in the form or forms in which it is ordinarily maintained or in a reasonably usable form.
+
+§ 1987.1. MOTION TO QUASH OR MODIFY SUBPOENA
+(a) If a subpoena requires the attendance of a witness or the production of books, documents, electronically stored information, or other things before a court, or at the trial of an issue therein, or at the taking of a deposition, the court, upon motion reasonably made by any person described in subdivision (b), or upon the court's own motion after giving counsel notice and an opportunity to be heard, may make an order quashing or modifying the subpoena, or directing compliance with it upon those terms or conditions as the court shall declare, including protective orders. In addition, the court may make any other order as may be appropriate to protect the person from unreasonable or oppressive demands, including unreasonable violations of the right of privacy of the person.
+
+§ 1987.2. SANCTIONS FOR FAILURE TO COMPLY
+(a) In making an order pursuant to motion made under subdivision (c) of Section 1987 or under Section 1987.1, the court may in its discretion award the amount of the reasonable expenses incurred in making or opposing the motion, including reasonable attorney's fees, if the court finds the motion was made or opposed in bad faith or without substantial justification or that one or more of the requirements of the subpoena was oppressive.
+
+PROOF OF SERVICE:
+A copy of the subpoena shall be filed with the clerk of court. Service may be made by any person who is at least 18 years of age. CCP § 1987.
+
+SERVICE ON BUSINESS — DEPOSITION OFFICER:
+When serving a subpoena requiring production of business records, service may be made by mail with a specific form (Deposition Subpoena for Production of Business Records Only). CCP § 2020.410 et seq.

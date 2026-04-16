@@ -1,0 +1,11 @@
+{
+  "standard_id": "wic_5150_involuntary_hold",
+  "citizen": "CA_Mental_Health_Litigator",
+  "citation": "Cal. Welf. & Inst. Code § 5150",
+  "jurisdiction": "California",
+  "build_date": "2026-04-13",
+  "build_state": "PUBLISHED",
+  "layers": {"rule": "COMPLETE","statute_text": "COMPLETE","historical_chain": "COMPLETE","case_law": "COMPLETE","cross_refs": "COMPLETE"},
+  "provenance": {"source": "leginfo.legislature.ca.gov","tool": "mcp__claude_ai_VernenLegal__california_get_section","fetch_date": "2026-04-13","verified": true,"statute_sha256": "2e34b309c46370765611d9d9646eb7d9c600aa6676ca7b49fa445404acff41f1"},
+  "witness": {"ADAM": "PENDING","EVE": "PENDING"}
+}

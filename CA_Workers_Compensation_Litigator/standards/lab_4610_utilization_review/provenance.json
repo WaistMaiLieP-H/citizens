@@ -1,0 +1,34 @@
+{
+  "standard_id": "lab_4610_utilization_review",
+  "citizen": "CA_Workers_Compensation_Litigator",
+  "build_date": "2026-04-13",
+  "primary_source": {
+    "source_type": "statute",
+    "jurisdiction": "California",
+    "code": "Labor Code",
+    "section": "4610",
+    "fetch_method": "mcp__claude_ai_VernenLegal__california_get_section",
+    "verified": true,
+    "fetch_date": "2026-04-13",
+    "note": "Live MCP fetch — LAB §4610(a)-(q) returned in full; physician-only rule (g)(3)(A), timeliness (i), first-30-days exemption (b), medical director requirement (g)(2)(A), criteria requirements (h), administrative penalties (p) all present; verified=true"
+  },
+  "supporting_sources": [
+    {
+      "source_type": "training_knowledge",
+      "description": "SB 899 (2004) — comprehensive workers compensation reform that structured the modern §4610 UR framework; MTUS created as objective standard",
+      "note": "Legislative history; consistent with statute text and evolution"
+    },
+    {
+      "source_type": "training_knowledge",
+      "description": "2018 amendment — first-30-days UR exemption effective January 1, 2018 for injuries after that date",
+      "note": "Amendment history consistent with §4610(b) text"
+    },
+    {
+      "source_type": "training_knowledge",
+      "description": "LAB §4610.5 — independent medical review (IMR) as the mandatory first-step dispute resolution for contested medical necessity UR decisions",
+      "note": "Cross-statute reference; verify §4610.5 current text before advising on IMR procedure"
+    }
+  ],
+  "steward_verify_queue": [],
+  "chronicle_flag": false
+}

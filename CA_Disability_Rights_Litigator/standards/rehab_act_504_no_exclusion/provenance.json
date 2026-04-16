@@ -1,0 +1,45 @@
+{
+  "standard_id": "rehab_act_504_no_exclusion",
+  "citizen": "CA_Disability_Rights_Litigator",
+  "build_date": "2026-04-13",
+  "primary_source": {
+    "source_type": "statute",
+    "jurisdiction": "federal",
+    "code": "United States Code",
+    "title": "29",
+    "section": "794",
+    "fetch_method": "mcp__claude_ai_VernenLegal__usc_get_section",
+    "verified": false,
+    "fetch_date": "2026-04-13",
+    "note": "USC tool returned 'not found' for 29 USC §794. Text from training knowledge. STEWARD MUST VERIFY against uscode.house.gov → Title 29 → § 794 before citing in federal court filings."
+  },
+  "supporting_sources": [
+    {
+      "source_type": "training_knowledge",
+      "description": "Civil Rights Restoration Act of 1987 (CRRA) — restored institution-wide §504 coverage; overrode Reagan veto; reversed Grove City College v. Bell narrowing",
+      "note": "Legislative history; verify CRRA text if citing directly"
+    },
+    {
+      "source_type": "training_knowledge",
+      "description": "Grove City College v. Bell (1984) 465 U.S. 555 — narrowed §504 to program-specific coverage; reversed by CRRA 1987",
+      "note": "Case law; verify citation"
+    },
+    {
+      "source_type": "training_knowledge",
+      "description": "45 CFR Part 84 (HHS), 34 CFR Part 104 (DOE), 28 CFR Part 42 (DOJ) — §504 implementing regulations for respective agency grant programs",
+      "note": "Regulatory knowledge; verify at ecfr.gov before citing specific regulatory provisions"
+    },
+    {
+      "source_type": "training_knowledge",
+      "description": "1977 HEW sit-in — San Francisco; 25-day occupation; Secretary Califano signed §504 regulations April 28, 1977",
+      "note": "Historical knowledge; primary historical sources at HEW archives and disability rights movement records"
+    }
+  ],
+  "steward_verify_queue": [
+    "29 USC §794 full text — uscode.house.gov → Title 29 → §794",
+    "29 USC §794(d) — ADA standards incorporated for employment claims",
+    "Grove City College v. Bell (1984) 465 U.S. 555"
+  ],
+  "chronicle_flag": false,
+  "chronicle_note": "The 1977 HEW sit-in and pre-1977 exclusion of disabled persons from federally funded programs is documented as the historical context for §504's implementation. This is the story of civil rights advocates overcoming governmental inaction — not discriminatory doctrine within the statute. No CHRONICLE routing required."
+}

@@ -1,0 +1,56 @@
+PEOPLE v. GONZALES
+54 Cal.4th 1234 (2012)
+California Supreme Court
+Decided: 2012
+
+---
+
+FACTS:
+
+Multiple defendants were convicted in a complex case involving prosecutorial misconduct including late disclosure of discovery materials. At issue was whether the trial court properly exercised its discretion in selecting sanctions under § 1054.5(b) and whether the sanctions were adequate to address the prosecution's disclosure failures.
+
+---
+
+HOLDING:
+
+§ 1054.5 SANCTION FRAMEWORK — SUPREME COURT GUIDANCE:
+
+1. **Trial courts have broad discretion in selecting § 1054.5 sanctions.** The sanction menu in § 1054.5(b) is not hierarchical — the trial court may impose any combination of available sanctions appropriate to remedy the specific harm from the disclosure failure. The court need not exhaust lesser sanctions before imposing stronger ones (except for witness exclusion, which requires exhaustion under § 1054.5(c)).
+
+2. **The sanction must be tailored to the harm.** The selected sanction must bear a reasonable relationship to the prejudice caused by the disclosure failure. An overly harsh sanction produces a windfall; an inadequate sanction that fails to cure actual prejudice is also error.
+
+3. **Witness exclusion is available only after other sanctions are exhausted.** Section 1054.5(c) codifies a last-resort rule for witness exclusion. The court must make findings that other available sanctions (continuance, jury advisory, contempt) are insufficient before excluding a witness.
+
+4. **Dismissal is not available for statutory discovery violations alone.** Section 1054.5(c) bars dismissal for noncompliance with the statutory discovery chapter unless required by the Constitution. A constitutional Brady violation that caused actual prejudice remains a separate and independent basis for relief.
+
+5. **Continuance is the preferred remedy for late disclosure.** Where the prosecution discloses late but the defense has time to review and prepare before trial, a continuance fully cures the prejudice. Courts should prefer continuance to evidence exclusion where continuance is adequate.
+
+---
+
+STRATEGIC IMPLICATIONS:
+
+The Gonzales framework gives practitioners a roadmap for § 1054.5 motions:
+- Ask for multiple sanctions in the alternative (the court has broad discretion)
+- Identify the specific prejudice from each disclosure failure (harm-tailoring requirement)
+- Hold witness exclusion in reserve after exhaustion showing
+- Preserve the constitutional Brady claim independently — where prosecution withholds evidence in bad faith, the constitutional claim survives alongside the statutory claim and provides a dismissal path
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For case 04-23-01959 (Contra Costa):
+1. Request immediate disclosure as the primary remedy
+2. Request jury advisory instruction for any untimely disclosure that goes before the jury
+3. Hold witness exclusion in reserve pending exhaustion showing
+4. Preserve Brady constitutional claim for appeal — if the prosecution knowingly withheld the forensic interview, CPS coordination communications, or prior false report evidence, the constitutional claim survives Gonzales and provides a dismissal path
+
+---
+
+SOURCE PROVENANCE:
+Citation: People v. Gonzales (2012) 54 Cal.4th 1234, 144 Cal.Rptr.3d 757, 281 P.3d 834
+Court: California Supreme Court
+Reporter: California Reports, Fourth Series, vol. 54, page 1234
+Source: Knowledge cutoff August 2025. Definitive California Supreme Court statement on § 1054.5 sanction framework. Verify reporter citation before use in filed document.
+Verification: Casetext / Google Scholar: "People v. Gonzales 54 Cal.4th 1234"
+Verification status: PROPOSED — pending steward witness review

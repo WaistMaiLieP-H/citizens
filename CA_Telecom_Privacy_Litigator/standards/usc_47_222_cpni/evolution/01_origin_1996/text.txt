@@ -1,0 +1,26 @@
+Telecommunications Act of 1996
+Public Law 104-104, Title VII, § 702
+Enacted: February 8, 1996
+
+Adding 47 U.S.C. § 222 (original enactment):
+
+§ 222. Privacy of customer information
+
+(a) In general. Every telecommunications carrier has a duty to protect the confidentiality of proprietary network information of, and relating to, other telecommunication carriers, equipment manufacturers, and customers, including telecommunication carriers reselling telecommunications services provided by a telecommunications carrier.
+
+(c) Confidentiality of customer proprietary network information.
+(1) Privacy requirements for telecommunications carriers. Except as required by law or with the approval of the customer, a telecommunications carrier that receives or obtains customer proprietary network information by virtue of its provision of a telecommunications service shall only use, disclose, or permit access to individually identifiable customer proprietary network information in its provision of (A) the telecommunications service from which such information is derived, or (B) services necessary to, or used in, the provision of such telecommunications service, including the publishing of directories.
+
+(d) Definition of customer proprietary network information.
+(1) The term "customer proprietary network information" means—
+(A) information that relates to the quantity, technical configuration, type, destination, location, and amount of use of a telecommunications service subscribed to by any customer of a telecommunications carrier, and that is made available to the carrier by the customer solely by virtue of the carrier-customer relationship; and
+(B) information contained in the bills pertaining to telephone exchange service or telephone toll service received by a customer of a carrier, except that this term does not include subscriber list information.
+
+Key original features:
+1. Created the first federal duty of confidentiality for telecom carriers.
+2. Focused primarily on restricting carriers from using CPNI to market to competitors' customers.
+3. Established the FCC as the regulatory enforcement body.
+4. Did NOT establish a private right of action — enforcement through FCC under § 208.
+5. Did NOT specifically address SIM swaps or account authentication.
+
+Source: Pub. L. 104-104, 110 Stat. 56 (1996).

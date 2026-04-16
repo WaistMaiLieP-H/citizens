@@ -1,0 +1,19 @@
+{
+  "standard_id": "CA_FAM_6320_DVPA_ENJOINABLE_BEHAVIORS",
+  "provenance_record_filed_at_utc": "2026-04-08T19:25:00Z",
+  "fetcher_software": "curl with sha256sum",
+  "fetcher_operator": "Claude (assistant) under steward direction (Michael Hartmann)",
+  "fetches": [
+    {
+      "artifact_local_path": "current/cal_fam_6320_leginfo.html",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6320.&lawCode=FAM",
+      "source_authority": "California Legislative Information (leginfo.legislature.ca.gov)",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-08T19:21:00Z",
+      "fetch_method": "curl --fail --retry 5 --retry-all-errors --max-time 90",
+      "file_size_bytes": 167434,
+      "sha256": "086e03e133cb08d82ed42cfe3fc30e0ce001bd33302576b074a41ce475b85ab9",
+      "content_description": "Cal. Family Code § 6320 — DVPA Ex Parte Enjoinable Behaviors, including the SB 50 (2025) coercive control expansion effective 2026-01-01"
+    }
+  ]
+}

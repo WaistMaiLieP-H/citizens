@@ -1,0 +1,14 @@
+Pointer to current/ directory.
+
+The current text of Cal. Penal Code § 1054.1 is in:
+../../../current/text.txt
+
+The chain closes here: Prop 115 (1990, original six-category disclosure mandate) → current.
+
+§ 1054.1 has been refined by case law but not materially amended by the Legislature since 1990. The six categories remain unchanged.
+
+Enforcement mechanism: § 1054.5 — court may make orders for continuance, sanction, or dismissal for discovery violations.
+
+In conjunction with: § 1054.3 (defendant's reciprocal obligations), § 1054.5 (sanctions), § 1054.7 (work product privilege carve-out).
+
+Brady/Giglio constitutional overlay: § 1054.1(e) captures the constitutional floor but California's mandatory disclosure rule is broader — exculpatory evidence must be disclosed even if the defense did not request it.

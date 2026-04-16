@@ -1,0 +1,39 @@
+{
+  "case_number": "RF10508853",
+  "court": "Alameda County Superior Court (transferred to Solano County 2025-06-25)",
+  "type": "Dissolution Ex Parte (Christina's)",
+  "petitioner": "Christina Hartmann (Cerretani)",
+  "respondent": "Michael Hartmann",
+  "filed_date": "2010-04-09",
+  "current_status": "No disposition. Transferred to Solano County 2025-06-25 (the transfer was the same day as the dismissal of the 2025 Alameda DVROs and is part of the 2025 jurisdictional trap)",
+  "key_dates": [
+    {
+      "date": "2010-04-09",
+      "event": "Christina files ex parte dissolution as part of the coordinated triple filing (with Ann Marie Packard's grandparent visitation petition RF10508859 and a duplicate dissolution filing)"
+    },
+    {
+      "date": "2025-06-25",
+      "event": "Transferred to Solano County as part of jurisdictional trap"
+    }
+  ],
+  "source_folder": "${familylaw}/Dissolution_ExParte-RF10508853/",
+  "related_actors": [
+    "cerretani_christina",
+    "hillberg_ann"
+  ],
+  "related_standards": [
+    "CA_FAM_6203_DVPA_ABUSE_DEFINITION"
+  ],
+  "related_cases": [
+    "RF09470833",
+    "RF10508859"
+  ],
+  "known_anomalies": [
+    "Filed 2010-04-09 as part of the coordinated triple filing orchestrated by Ann Hillberg/Packard",
+    "Filed while Michael's dissolution RF09470833 was still active (duplicate dissolution filing \u2014 prohibited)",
+    "Used FL-310/MC-020 form with 'every trigger word for child abuse, neglect, flight risk, drugs'",
+    "No disposition for 15 years",
+    "Transfer to Solano on 2025-06-25 was simultaneous with the dismissal of the 2025 Alameda DVROs and the Solano-says-no-transfer-received gap"
+  ],
+  "filed_at_utc": "2026-04-08T18:05:00Z"
+}

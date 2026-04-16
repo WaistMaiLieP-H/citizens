@@ -1,0 +1,34 @@
+{
+  "standard_id": "CAL_GOV_13959",
+  "version": "0.2.0-witnessed-by-herald",
+  "filed_at_utc": "2026-04-10T23:45:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "primary_citation": {
+    "code": "California Government Code",
+    "section": "§ 13959",
+    "popular_name": "CalVCB hearing and appeal procedure",
+    "jurisdiction": "California (state)",
+    "location_in_code": "Government Code, Title 2, Division 3, Part 4, Chapter 5, Article 5",
+    "positive_law_status": "In force; conditional sunset provision in subd. (l)"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current text captured verbatim via VernenLegal MCP",
+    "reasoning": "PRESENT — procedural asymmetry problem, the progressive codification of procedural rights, and the current enforceable framework all documented",
+    "historical_loss": "PRESENT — pre-codification Board of Control broad discretion and absence of structured procedural rights documented in historical_chain.md",
+    "cross_references": "PRESENT — cross_refs/refs.json links to §§ 13955, 13956, CCP § 1094.5, Cal. Const. Art. I § 28, US 14th Amendment, Gov. Code § 11123, 2 CCR § 649, and cross-Citizen to US_Federal_Civil_Rights_Litigator",
+    "verifiable_provenance": "PARTIAL — current text via MCP; pre-2002 text and amendment history pending PDF capture"
+  },
+  "case_law": [],
+  "cases_to_add": [
+    "Writ of mandate cases reviewing CalVCB decisions under CCP § 1094.5",
+    "Procedural due process cases involving state administrative agencies"
+  ],
+  "citizen_relevance": "The procedural backbone of the A25-10117946 appeal. Each audit FAIL finding can be mapped to a § 13959 procedural rule and argued as a separate ground for reversal.",
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

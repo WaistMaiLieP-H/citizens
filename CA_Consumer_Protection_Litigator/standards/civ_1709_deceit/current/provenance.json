@@ -1,0 +1,14 @@
+{
+  "statute": "Cal. Civil Code §§1709-1711",
+  "popular_name": "Common-Law Deceit (Codified)",
+  "enacted": "Stats. 1872 (original Civil Code, §1709 codified as part of the original 1872 code)",
+  "effective": "1872-01-01",
+  "current_text_source": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1709.",
+  "fetch_method": "VernenLegal MCP — california_get_section (leginfo.legislature.ca.gov official source)",
+  "fetch_timestamp_utc": "2026-04-11T00:00:00Z",
+  "retrieval_steward": "Claude (assistant) under direction of Michael Hartmann",
+  "verbatim_capture_status": "COMPLETE — civ_1709_leginfo.txt contains verbatim text of §1709",
+  "txt_sha256": "37f3266d7733a83955c80c6d670dc05f3150650f9c5cdcbd0f86c4e9480438bc",
+  "stability_note": "§§1709-1710 text has been substantially stable since 1872 (153+ years). Small definitional clarifications only. The common-law deceit framework codified in 1872 is the same framework in use today.",
+  "build_date": "2026-04-11"
+}

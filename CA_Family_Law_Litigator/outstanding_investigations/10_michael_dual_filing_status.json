@@ -1,0 +1,25 @@
+{
+  "investigation_id": "michael_dual_filing_status",
+  "title": "Locate documents showing Michael as both petitioner AND respondent with fees charged both ways in the same proceeding",
+  "question": "In which case(s) was Michael formally listed as both the petitioner and the respondent? Were filing fees charged to him in both capacities? What were the procedural consequences?",
+  "context": "Per the existing memory entry list of critical missing documents (project_familylaw_orchestration.md): 'Documents showing Michael as both petitioner and respondent with fees charged both ways.' This is a structural irregularity that suggests either a clerical error, a deliberate misclassification, or a procedural manipulation. It may also explain the fee waiver issue investigation #08.",
+  "unblock_path": "Search the case file for any filing in which Michael appears as both petitioner and respondent. Cross-reference against fee receipts. The 2025 sequence of cases (25FL122591 and 25FL125059) is the most likely location.",
+  "who_can_answer": "The steward; the case file itself",
+  "related_actors": [],
+  "related_cases": [
+    "25FL122591",
+    "25FL125059",
+    "RF10508853"
+  ],
+  "related_standards": [],
+  "priority": "MEDIUM",
+  "status": "READY_TO_SEND",
+  "filed_at_utc": "2026-04-08T19:25:00Z",
+  "prepared_on": "2026-04-15",
+  "deliverables": [
+    "outstanding_investigations/10_michael_dual_filing_status/deliverables/outgoing_request.md",
+    "outstanding_investigations/10_michael_dual_filing_status/deliverables/recipient_routing.md",
+    "outstanding_investigations/10_michael_dual_filing_status/deliverables/response_tracker.md"
+  ],
+  "mailing_execution_status": "READY_TO_PRINT"
+}

@@ -1,0 +1,45 @@
+{
+  "path_anchors": {
+    "${citizens}": "~/citizens",
+    "${familylaw}": "~/FamilyLaw",
+    "${nonfamilylaw}": "~/NonFamilyLaw"
+  },
+  "citizen": "CA_Criminal_Law_Specialist",
+  "version": "2.0.0",
+  "filed_at_utc": "2026-04-11T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "purpose": "This citizen carries California Penal Code standards for criminal conduct analysis. It evaluates potential criminal liability from all directions — crimes committed against the steward and crimes the steward could face — using the elements of each offense, available defenses, and statute of limitations calculations. Every assessment is bilateral.",
+  "blueprints_inherited": [
+    "Triple Constraint",
+    "Five-Layer Bar",
+    "Two-Witness Rule",
+    "Hash Chain + Anchor"
+  ],
+  "standards": [
+    "pen_code_837_citizens_arrest",
+    "pen_code_236_false_imprisonment",
+    "pen_code_148_5_false_police_report",
+    "pen_code_273a_child_endangerment",
+    "pen_code_243e1_dv_battery",
+    "pen_code_166_contempt",
+    "pen_code_529_false_personation",
+    "pen_code_530_5_identity_theft",
+    "pen_code_278_5_child_custody_deprivation",
+    "pen_code_273d_child_abuse",
+    "pen_code_1001_36_mental_health_diversion",
+    "pen_code_995_motion_to_dismiss",
+    "pen_code_1054_1_discovery",
+    "pen_code_1001_95_misdemeanor_diversion",
+    "pen_code_422_criminal_threats",
+    "pen_code_182_conspiracy",
+    "pen_code_1054_5_discovery_enforcement",
+    "pen_code_1203_probation",
+    "pen_code_859_preliminary_hearing"
+  ],
+  "domain": "California criminal law",
+  "exclusions": [
+    "Prosecution strategy — this citizen is not a DA and does not recommend whether to prosecute",
+    "Civil liability — other Citizens handle tort and civil rights analysis",
+    "Federal criminal law — separate domain requiring separate citizen"
+  ]
+}

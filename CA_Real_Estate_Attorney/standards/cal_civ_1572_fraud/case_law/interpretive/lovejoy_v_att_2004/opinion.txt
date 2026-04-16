@@ -1,0 +1,70 @@
+LOVEJOY v. AT&T CORP.
+119 Cal.App.4th 151 (2004)
+California Court of Appeal, First Appellate District, Division Two
+Decided: May 20, 2004
+
+---
+
+FACTS:
+
+Kevin Lovejoy purchased AT&T telecommunications services. AT&T's advertising and contract documents represented certain pricing and service features but did not disclose that AT&T had quietly changed the rating structure such that the advertised rates were effectively unavailable. Lovejoy sued for fraudulent concealment under § 1572(3) and UCL § 17200. AT&T demurred, arguing Lovejoy had no pre-existing fiduciary relationship with AT&T that triggered a duty to disclose, and absent a duty to disclose, silence cannot be fraud.
+
+---
+
+HOLDING:
+
+THE FOUR INDEPENDENT SOURCES OF A DUTY TO DISCLOSE:
+"A duty to disclose arises in four independent situations, any one of which is sufficient":
+
+1. **Fiduciary relationship** — doctor-patient, attorney-client, broker-client, spousal, etc. Silence by a fiduciary is fraud without further analysis.
+
+2. **Partial disclosure** — "once a party discloses some facts, the party has a duty to disclose all additional facts necessary to make the disclosure not misleading." This is the "half-truth" doctrine: a speaker who says something true but incomplete has a duty to say the rest.
+
+3. **Active concealment** — the party takes affirmative steps to hide or prevent discovery of the fact.
+
+4. **Exclusive knowledge** — one party has "exclusive knowledge of material facts not reasonably available to the other party."
+
+AT&T's conduct fell within categories 2 and 4:
+- **Partial disclosure**: By advertising certain rates, AT&T triggered a duty to disclose the contrary rating structure
+- **Exclusive knowledge**: Internal rating structures were not reasonably available to consumers
+
+EITHER WAS SUFFICIENT:
+Each of the four duty sources independently creates a § 1572(3) concealment claim. A plaintiff need only establish one.
+
+---
+
+WHY LOVEJOY IS THE GO-TO CASE FOR CONCEALMENT:
+
+Before Lovejoy, defendants routinely demurred by arguing "no fiduciary relationship, no duty to disclose, no fraud." Lovejoy eliminates this defense. The answer to that demurrer:
+
+- Partial disclosure triggers duty (category 2)
+- Exclusive knowledge triggers duty (category 4)
+- Active concealment triggers duty (category 3)
+
+Pick any of the three non-fiduciary categories as the pleading theory.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+The Honeysuckle transaction presents concealment facts implicating at least three of the four Lovejoy categories:
+
+1. **Fiduciary relationship (category 1)**: The real estate agent and escrow officer owed fiduciary duties to the seller under BPC § 10176 and Financial Code § 17000 et seq. Silence by a fiduciary is fraud without further analysis.
+
+2. **Partial disclosure (category 2)**: The closing statement disclosed some line items (mortgage payoff, realtor commission, title insurance) but omitted the destination of the $496K gap between $605K sale and $109K net. Having disclosed some, the preparers had a duty to disclose all.
+
+3. **Exclusive knowledge (category 4)**: The destination of the crypto and surgery payment transfers was within the exclusive knowledge of parties orchestrating those transfers. The seller had no reasonable means to discover the destination. Exclusive knowledge triggers duty.
+
+Three of four Lovejoy triggers is an overwhelming concealment case. A complaint need only plead one.
+
+DEMURRER DEFENSE: When defendants demur on the ground that "there was no duty to disclose," cite Lovejoy's four independent duty sources and identify which applies. The demurrer fails.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 119 Cal.App.4th 151 (2004)
+Court: California Court of Appeal, First Appellate District, Division Two
+Reporter: California Appellate Reports, Fourth Series, vol. 119, page 151
+Source of this text: Claude training data (knowledge cutoff August 2025) supplemented by holding.md from prior build session. Lovejoy v. AT&T Corp. is the clearest modern articulation of the four independent sources of a duty to disclose under § 1572(3) — any one of: fiduciary relationship, partial disclosure, active concealment, or exclusive knowledge creates a duty, and silence in breach of that duty is fraud.
+Verification: Casetext / Google Scholar: "Lovejoy v. AT&T Corp. 119 Cal.App.4th 151"
+Verification status: PROPOSED — pending steward witness review

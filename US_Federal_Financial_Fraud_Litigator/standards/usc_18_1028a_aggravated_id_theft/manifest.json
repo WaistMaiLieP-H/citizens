@@ -1,0 +1,102 @@
+{
+  "standard_id": "USC_18_1028A_AGGRAVATED_ID_THEFT",
+  "citizen": "US_Federal_Financial_Fraud_Litigator",
+  "version": "0.1.0-proposed",
+  "filed_at_utc": "2026-04-11T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "PROPOSED",
+  "build_method": "Logical Delta (LOGIC.md at each evolution stage)",
+  "primary_citation": {
+    "code": "18 USC",
+    "section": "§1028A",
+    "popular_name": "Aggravated Identity Theft",
+    "jurisdiction": "Federal",
+    "enacted": "Pub. L. 108-275, Identity Theft Penalty Enhancement Act (ITPEA)",
+    "effective": "2004-07-15",
+    "key_judicial_gloss": "Dubin v. United States, 599 US 110 (2023) — 'at the crux' test resolves circuit split; identity use must be central to the crime's aggravated character, not merely incidental"
+  },
+  "sentencing_structure": {
+    "mandatory_minimum": "2 years (§1028A(a)(1)); 5 years for terrorism-related predicates (§1028A(a)(2))",
+    "consecutive_requirement": "Mandatory consecutive to predicate sentence; cannot be made concurrent by court",
+    "anti_stacking": "§1028A(b)(4): multiple §1028A counts from same scheme may run concurrent with each other but still consecutive to predicate",
+    "no_probation": "Mandatory term; cannot be suspended"
+  },
+  "enumerated_predicates_relevant": [
+    "§1028A(c)(4): 18 USC §1343 (wire fraud)",
+    "§1028A(c)(5): 18 USC §1344 (bank fraud)",
+    "§1028A(c)(6): 18 USC §1341 (mail fraud)",
+    "§1028A(c)(1): Social Security offenses (42 USC §408)"
+  ],
+  "elements": [
+    "1. Conviction for an enumerated predicate offense",
+    "2. During and in relation to that predicate offense",
+    "3. Defendant knowingly (Flores-Figueroa: knowing the ID belongs to a real person)",
+    "4. Transferred, possessed, or used",
+    "5. Without lawful authority",
+    "6. A means of identification of another person",
+    "7. Use was 'at the crux' of what makes the conduct criminal (Dubin)"
+  ],
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current/LOGIC.md documents mandatory-consecutive structure, Dubin at-the-crux test, application to Michael's cases, civil vs. criminal distinction, referral strategy",
+    "reasoning": "PRESENT — evolution/01_origin_2004/LOGIC.md documents concurrent-sentence gap wound and mandatory-consecutive design; evolution/02_dubin_2023/LOGIC.md documents overreach wound and at-the-crux correction",
+    "historical_loss": "PRESENT — historical_chain.md documents full arc from concurrent-sentence gap through mandatory-consecutive enhancement through prosecutorial overextension through Dubin correction",
+    "cross_references": "PRESENT — refs.json links to §1028, §1343, civil RICO §1961, FCRA §1681c-2",
+    "verifiable_provenance": "PARTIAL — provenance.json files present; verbatim statute text and opinion text PENDING"
+  },
+  "evolution_chain": [
+    {"stage": "01_origin_2004", "folder": "evolution/01_origin_2004/", "status": "LOGIC_BUILT"},
+    {"stage": "02_dubin_2023_at_the_crux", "folder": "evolution/02_dubin_2023_at_the_crux/", "status": "LOGIC_BUILT"}
+  ],
+  "case_law": {
+    "uphold": [],
+    "interpretive": [
+      {
+        "slug": "dubin_v_united_states",
+        "cite": "Dubin v. United States, 599 US 110 (2023)",
+        "rule": "'At the crux' test: §1028A requires identity use to be the central element of the crime, not merely incidental. Overbilling using patient IDs = NOT at the crux. Impersonation, account takeover, fraudulent account opening = at the crux.",
+        "files": ["holding.md", "provenance.json", "statute_version_cited.md"],
+        "status": "BUILT"
+      },
+      {
+        "slug": "flores_figueroa_v_united_states_1028a",
+        "cite": "Flores-Figueroa v. United States, 556 US 646 (2009)",
+        "rule": "Knowledge requirement extends to 'real person' element — defendant must know the means of identification belongs to a real person. Deliberate targeting of a specific individual satisfies this.",
+        "files": ["holding.md", "provenance.json", "statute_version_cited.md"],
+        "status": "BUILT",
+        "note": "Primary citation lives in §1028 standard; cross-cited here for §1028A knowledge analysis"
+      }
+    ]
+  },
+  "cross_refs_path": "cross_refs/refs.json",
+  "historical_chain_path": "historical_chain.md",
+  "operational_notes_for_steward_cases": {
+    "referral_strategy": {
+      "note": "§1028A is a criminal statute with no private civil right of action. Its value is as a referral lever: presenting a case to FBI/USSS/IRS CI/Treasury IG with §1028A analysis raises the prosecutorial stakes from white-collar-probation range to mandatory-prison territory, which increases the likelihood of prosecution and cooperation agreements.",
+      "referral_targets": ["FBI IC3 (www.ic3.gov)", "IRS Criminal Investigation (for tax-related identity use)", "USSS (financial fraud / synthetic identities)", "Treasury IG (for Treasury Securities case)", "CFPB (for financial institution failures)"]
+    },
+    "treasury_case": {
+      "case_reference": "Case #20 — Treasury Securities",
+      "1028a_analysis": "Strong §1028A predicate. Someone used Michael's identity to open or access Treasury accounts — the identity IS the mechanism of the fraud. Dubin: at the crux. Predicate: §1343 wire fraud (interstate electronic communications). Mandatory consecutive 2 years stacks on predicate sentence.",
+      "action": "Include §1028A analysis in the Treasury IG referral package"
+    },
+    "sim_swap_crypto": {
+      "case_references": "Cases #21 (crypto), #30-33 (telecom)",
+      "1028a_analysis": "SIM swap is paradigmatic §1028A conduct. Taking over Michael's phone identity to access his accounts — the phone identity was the instrument of account takeover. Dubin: clearly at the crux. Predicate: §1343.",
+      "action": "Include in FBI IC3 referral; coordinate with CA_Telecom_Privacy_Litigator for Penal Code § 530.5 parallel"
+    },
+    "hillberg_compound_identity": {
+      "case_reference": "Case #25 — Ann Hillberg / HILLBERGMANN compound identity",
+      "1028a_analysis": "Using a synthetic identity incorporating Michael's real identity components to open Northern Trust accounts = §1028A. The identity was the mechanism of accessing financial products, not incidental to a different fraud. Dubin: at the crux.",
+      "action": "Include §1028A theory in referral package alongside §1028 compound-identity analysis"
+    },
+    "civil_pathway_note": "§1028A adds criminal penalty exposure but no direct civil damages. Civil damages for the same conduct: §1028(g) civil damages provision + civil RICO §1964(c) where §1028A acts are RICO predicates + FCRA §1681c-2 blocking for downstream credit reporting effects."
+  },
+  "outstanding_work": [
+    "Verbatim capture of §1028A current text (PENDING)",
+    "Primary-source Dubin opinion text capture",
+    "Primary-source Flores-Figueroa opinion text (already PENDING in §1028 standard; cross-reference)",
+    "Verify §1028A(c) full enumerated predicate list against current USC text",
+    "Second-mouth witness review"
+  ],
+  "witness_status": "AWAITING_STEWARD_WITNESS"
+}

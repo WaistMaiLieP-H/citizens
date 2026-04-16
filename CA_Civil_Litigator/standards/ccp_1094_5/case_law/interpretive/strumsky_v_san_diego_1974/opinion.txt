@@ -1,0 +1,66 @@
+STRUMSKY v. SAN DIEGO COUNTY EMPLOYEES RETIREMENT ASSOCIATION
+11 Cal.3d 28 (1974)
+California Supreme Court
+Decided: March 21, 1974
+
+---
+
+FACTS:
+
+William Strumsky challenged a decision by the San Diego County Employees Retirement Association denying him disability retirement benefits. He sought administrative mandamus under CCP § 1094.5, arguing the agency's decision was unsupported by substantial evidence and violated the law.
+
+The threshold question: what standard of review does a court apply when reviewing an administrative agency decision under § 1094.5?
+
+---
+
+HOLDING:
+
+Chief Justice Wright wrote for the Court.
+
+THE STRUMSKY INDEPENDENT JUDGMENT vs. SUBSTANTIAL EVIDENCE FRAMEWORK:
+
+The Court established two distinct standards of review for § 1094.5 administrative mandamus:
+
+STANDARD 1 — INDEPENDENT JUDGMENT (FUNDAMENTAL VESTED RIGHT DOCTRINE):
+"When the agency's decision substantially affects a fundamental vested right, the trial court must exercise its independent judgment on the evidence presented in the administrative record, rather than merely reviewing whether substantial evidence supports the agency's decision."
+
+FUNDAMENTAL VESTED RIGHTS include:
+- License to practice a profession (Beaumont v. Board of Education)
+- Disability retirement benefits (as in Strumsky — vested right to retirement already earned)
+- Parental rights (family court related decisions)
+- Any constitutional right already vested and possessed by the petitioner
+
+For fundamental vested right cases: The trial court independently weighs the evidence. It does not defer to the agency's credibility determinations. The court may reach a different conclusion than the agency even if the agency's decision was supported by substantial evidence.
+
+STANDARD 2 — SUBSTANTIAL EVIDENCE REVIEW (NON-FUNDAMENTAL RIGHTS):
+"When the agency's decision does not substantially affect a fundamental vested right, the court reviews the administrative record for substantial evidence. If the agency's decision is supported by substantial evidence, the court affirms even if it would have decided the issue differently."
+
+NON-FUNDAMENTAL rights subject to substantial evidence review:
+- Business licenses for new applicants (no vested right yet earned)
+- Land use entitlements (future discretionary approvals)
+- Prospective regulatory decisions with no vested interest at stake
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Strumsky's independent judgment standard applies when the administrative decision affects fundamental vested rights:
+
+1. **CalVCB appeal**: The right to victim compensation benefits — once eligibility is established — is a vested statutory right. If the initial claim was denied, the appeal goes before the CalVCB Board. If judicial review under § 1094.5 is sought, the Strumsky independent judgment standard likely applies because the statute creates a vested right upon eligibility.
+
+2. **SSA/disability benefits**: SSA disability determinations are governed by federal law (28 U.S.C. § 405(g)), not CCP § 1094.5. But for state-administered programs (SDI, CalWORKs), Strumsky's independent judgment standard applies to decisions affecting vested rights.
+
+3. **Professional license challenges**: Any license denial or revocation affecting an earned professional qualification — including the UAW/plumber certification — is subject to independent judgment review under Strumsky. The agency's decision gets no deference if the court finds the evidence insufficient.
+
+4. **Family court administrative decisions**: Decisions by administrative agencies affecting parental rights (DHS determinations, DFCS case decisions) affecting vested parental rights are subject to Strumsky independent judgment — not deferential review.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 11 Cal.3d 28 (1974)
+Court: California Supreme Court
+Reporter: California Reports, Third Series, vol. 11, page 28
+Author: Wright, C.J.
+Source of this text: Claude training data (knowledge cutoff August 2025). Strumsky v. San Diego County Employees Retirement Association established the two-standard § 1094.5 framework — independent judgment review for fundamental vested rights; substantial evidence review for non-fundamental interests.
+Verification: Casetext / Google Scholar: "Strumsky v. San Diego County Employees Retirement Association 11 Cal.3d 28"
+Verification status: PROPOSED — pending steward witness review

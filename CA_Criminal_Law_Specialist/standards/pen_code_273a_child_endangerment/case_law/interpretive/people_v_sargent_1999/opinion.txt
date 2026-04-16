@@ -1,0 +1,59 @@
+PEOPLE v. SARGENT
+19 Cal.4th 1206 (1999)
+California Supreme Court, unanimous
+Decided: February 1, 1999
+
+---
+
+FACTS:
+
+The defendant was convicted of felony child endangerment under § 273a(a) after his two-month-old son suffered brain injury and bleeding consistent with shaken baby syndrome. He was alone with the child when the injuries occurred. He gave shifting accounts of what happened; the prosecution's theory was that he shook the child. He was convicted of both § 273a(a) and § 273ab. On appeal, the defendant argued that § 273a(a) required specific intent and that the jury instructions had conflated general intent with the required mens rea.
+
+---
+
+HOLDING:
+
+§ 273a(a) DUAL MENS REA FRAMEWORK:
+
+1. **Section 273a(a) is a general intent crime when the defendant directly inflicts the injury.** Under the direct-infliction theory, the prosecution must prove the defendant willfully committed the act (the "willfully" element in § 273a) — not that the defendant intended the specific harm.
+
+2. **Under the indirect-infliction theory (having care or custody), criminal negligence is the mens rea.** When a defendant is charged under the "having the care or custody" alternatives of § 273a (willfully causing or permitting injury or endangerment), the prosecution must prove criminal negligence — a higher standard than ordinary civil negligence.
+
+3. **Criminal negligence means conduct involving gross disregard of life or health.** A departure from what would be the conduct of an ordinarily prudent, careful person in the same circumstances.
+
+4. **The direct-infliction theory does NOT require criminal negligence.** If the defendant directly inflicted unjustifiable physical pain or mental suffering, the prosecution proves willfulness of the act itself — not criminal negligence.
+
+5. **Willfulness under § 7(1) is not the same as specific intent.** A defendant can willfully perform the act (e.g., shaking a child) without specifically intending the harm that results. The statute does not require proof that the defendant knew or intended the child would be harmed — only that the act itself was willful.
+
+---
+
+THE SARGENT FRAMEWORK IN PRACTICE:
+
+| Theory | Mens Rea Required |
+|---|---|
+| Direct infliction (alternatives 1 and 2 of § 273a) | General intent / willfulness of the act |
+| Indirect infliction via care or custody (alternatives 3 and 4) | Criminal negligence |
+
+Defense counsel must identify which theory the prosecution is relying on and argue jury instructions accordingly. A defendant charged under the care-or-custody theory has a meaningfully harder prosecution burden (criminal negligence) than under the direct-infliction theory (willful act).
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For case 04-23-01959 (Contra Costa — § 273d allegation):
+1. **Which § 273a theory** is the prosecution pursuing — direct infliction or care-or-custody? The facts of 6/16/2023 control this.
+2. **If care-or-custody theory**: the prosecution must prove criminal negligence — "such a departure from what would be the conduct of an ordinarily prudent, careful person in the same circumstances as to be contrary to a proper regard for human life." This is a high standard.
+3. **If direct-infliction theory**: the prosecution must prove a willful act. A claim that the act was accidental, reflexive, or in defense of self defeats the element.
+4. **Jury instructions**: insist on CALCRIM 821 being correctly given with the Sargent criminal negligence instruction when the theory is indirect.
+
+Sargent's criminal negligence standard is one of the defense's strongest tools in a § 273a(a) case. A defense that accepts the factual premise of the prosecution's account but disputes whether the conduct rose to criminal negligence has a viable path to acquittal.
+
+---
+
+SOURCE PROVENANCE:
+Citation: People v. Sargent (1999) 19 Cal.4th 1206, 81 Cal.Rptr.2d 835, 970 P.2d 409
+Court: California Supreme Court (unanimous, Mosk, J.)
+Reporter: California Reports, Fourth Series, vol. 19, page 1206
+Source: Knowledge cutoff August 2025. Foundational § 273a mens rea case. Binding statewide. Codified in CALCRIM jury instructions.
+Verification: Casetext / Google Scholar: "People v. Sargent 19 Cal.4th 1206"
+Verification status: PROPOSED — pending steward witness review

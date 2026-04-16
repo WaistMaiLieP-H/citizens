@@ -1,0 +1,14 @@
+{
+  "standard": "usc_29_1001_erisa_purpose",
+  "layer": "current",
+  "title": "29 U.S.C. § 1001 — Congressional Findings and Declaration of Policy (ERISA § 2)",
+  "enacted": "1974-09-02",
+  "enacting_law": "Pub. L. 93-406 (ERISA), 88 Stat. 829",
+  "current_through": "Pub. L. 116-94 (SECURE Act, 2019)",
+  "official_source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001",
+  "cornell_lii_source": "https://www.law.cornell.edu/uscode/text/29/1001",
+  "fetch_method": "Manual capture — MCP VernenLegal tool does not index Title 29; text verified against Cornell LII and U.S. Code House.gov",
+  "retrieval_steward": "Claude (assistant) under direction of Michael Hartmann",
+  "retrieval_date": "2026-04-11",
+  "notes": "§ 1001 congressional findings text has been substantively stable since 1974. Courts routinely cite § 1001 as interpretive context for ERISA's protective purpose — construing ambiguities in favor of participants and beneficiaries."
+}

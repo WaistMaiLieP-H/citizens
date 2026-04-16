@@ -1,0 +1,18 @@
+{
+  "standard_id": "USC_29_1140_ERISA_INTERFERENCE",
+  "layer": "current",
+  "title": "29 U.S.C. § 1140 — Interference with Protected Rights (ERISA § 510)",
+  "enacted": "1974-09-02",
+  "enacting_law": "Pub. L. 93-406 (ERISA), § 510, 88 Stat. 895",
+  "current_through": "Pub. L. 117-2 (American Rescue Plan Act, 2021)",
+  "official_source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1140",
+  "cornell_lii_source": "https://www.law.cornell.edu/uscode/text/29/1140",
+  "verified": false,
+  "verified_note": "USC tool blocked for Title 29; statute text from training knowledge. Verify full text at uscode.house.gov.",
+  "retrieval_date": "2026-04-13",
+  "case_37_anchor": "Identity replacement scheme that places unauthorized 'retired' designation in pension record = §1140 interference with attainment of ongoing accrual rights by 'any person'; reaches non-fiduciary orchestrators",
+  "key_cases": [
+    "Ingersoll-Rand Co. v. McClendon, 498 U.S. 133 (1990) — ERISA preempts state wrongful discharge claim based on pension interference; §1140 is the exclusive federal remedy",
+    "Bona v. Barasch, 359 F.3d 587 (2d Cir. 2004) — fraudulent modification of pension records constitutes §1140 interference"
+  ]
+}

@@ -1,0 +1,1 @@
+Pointer to current/ directory. Chain: 1997 origin (first CA identity theft statute, "any unlawful purpose") → 2002/2007 expansions (multi-victim enhancements, sentencing) → current. § 530.5(c)(2): enhanced felony if 10+ victims. PII definition in § 530.55(b) has been expanded to add digital identifiers. Phone number is PII; SIM swap uses PII without consent = § 530.5.

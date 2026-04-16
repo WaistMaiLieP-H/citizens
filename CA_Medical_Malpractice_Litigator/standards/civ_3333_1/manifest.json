@@ -1,0 +1,73 @@
+{
+  "standard_id": "CIV_3333_1",
+  "citizen": "CA_Medical_Malpractice_Litigator",
+  "version": "0.1.0-proposed",
+  "filed_at_utc": "2026-04-11T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "PROPOSED",
+  "build_method": "Logical Delta (LOGIC.md at each evolution stage)",
+  "primary_citation": {
+    "code": "Cal. Civ. Code",
+    "section": "§3333.1",
+    "popular_name": "MICRA Collateral Source Rule Modification",
+    "jurisdiction": "California",
+    "original_enactment": "Stats. 1975, 2d Ex. Sess., Ch. 2, §1 (MICRA package)",
+    "effective": "1975-12-12",
+    "amendment_history": "Essentially unchanged since enactment; AB 35 (2022) did NOT amend §3333.1"
+  },
+  "micra_lattice_position": {
+    "lattice_members": ["CCP §340.5 (SOL)", "CCP §364 (90-day notice)", "Civ §3333.1 (collateral source)", "Civ §3333.2 (noneconomic cap)", "CCP §425.13 (punitive control)", "B&P §6146 (attorney fees)", "Civ §667.7 (periodic payments)"],
+    "this_standard_role": "Reduces economic damages by collateral source payments; anti-subrogation trade (§3333.1(c)) eliminates insurer's subrogation right when evidence is introduced",
+    "scope_gate": "Applies only to 'professional negligence' against 'health care providers' — intentional tort claims escape both §3333.1 and §3333.2 (Hrimnak doctrine)"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current/LOGIC.md documents three-part structure (§3333.1(a) collateral source evidence, §3333.1(b) premium evidence counter, §3333.1(c) anti-subrogation), the Hrimnak escape route, and operational strategy for SIRVA and spine surgery fraud cases",
+    "reasoning": "PRESENT — evolution/01_origin_1975/LOGIC.md documents the 1975 MICRA framing and the three-part statutory structure",
+    "historical_loss": "PRESENT — historical_chain.md documents the common-law collateral source rule, 1975 MICRA modification, 1978/1985 judicial interpretation, 2022 AB 35 non-amendment",
+    "cross_references": "PRESENT — refs.json links to §3333.2 (sibling cap), §340.5 (SOL gateway), §364 (notice gateway), SIRVA case binding, spine surgery fraud Hrimnak escape",
+    "verifiable_provenance": "PARTIAL — provenance.json files; primary-source capture PENDING"
+  },
+  "evolution_chain": [
+    {"stage": "01_origin_1975", "folder": "evolution/01_origin_1975/", "status": "LOGIC_BUILT"},
+    {"stage": "02_current", "folder": "current/", "status": "LOGIC_BUILT"}
+  ],
+  "case_law": {
+    "uphold": [
+      {
+        "slug": "fein_v_permanente_collateral",
+        "cite": "38 Cal.3d 137 (1985)",
+        "rule": "§3333.1 constitutional; collateral source evidence admissible but jury has discretion (may, not must reduce); scope limited to professional negligence",
+        "files": ["holding.md", "provenance.json", "statute_version_cited.md"],
+        "status": "BUILT"
+      }
+    ],
+    "interpretive": [
+      {
+        "slug": "deyo_v_kilbourne",
+        "cite": "84 Cal.App.3d 771 (1978)",
+        "rule": "§3333.1(b) premium evidence limited in practical utility; jury-discretion standard established; practical framework for §3333.1 trial presentation",
+        "files": ["holding.md", "provenance.json", "statute_version_cited.md"],
+        "status": "BUILT"
+      }
+    ]
+  },
+  "cross_refs_path": "cross_refs/refs.json",
+  "historical_chain_path": "historical_chain.md",
+  "operational_notes_for_steward_cases": {
+    "sirva_collateral_source_plan": [
+      "Identify total amount Blue Shield (or other insurer) paid for shoulder surgery-related treatment",
+      "Compile Michael's premium payments history (monthly premiums + any co-pays/deductibles)",
+      "Determine if subrogation demand has been received from Blue Shield — if so, note under §3333.1(c) that subrogation right is eliminated if defense introduces insurance evidence",
+      "Assess whether SIRVA claim can be framed as negligent injection technique (professional negligence = §3333.1 applies) or willful misconduct (intentional = §3333.1 may not apply; see SIRVA doctrine standard for PREP Act analysis)"
+    ],
+    "spine_surgery_hrimnak_escape": "If spine surgery claim is framed as fraud/battery/lack of informed consent (Hrimnak doctrine), §3333.1 does not apply. All insurance payments are excluded from collateral source evidence. Full economic damages for surgery costs, rehabilitation, ongoing treatment, and lost earnings available without §3333.1 reduction.",
+    "anti_subrogation_coordination": "Before trial, notify Blue Shield and any other insurer that defense has introduced (or will introduce) §3333.1 evidence. Under §3333.1(c), once introduced, the insurer has no subrogation right against Michael's recovery. Get this in writing before settlement to ensure insurer waives its lien."
+  },
+  "outstanding_work": [
+    "Primary-source opinion text for Fein (§3333.1 component) and Deyo",
+    "Obtain Blue Shield payment records for all SIRVA and spine surgery claims",
+    "Compile premium payment history for §3333.1(b) counter-evidence",
+    "Second-mouth witness review"
+  ],
+  "witness_status": "AWAITING_STEWARD_WITNESS"
+}

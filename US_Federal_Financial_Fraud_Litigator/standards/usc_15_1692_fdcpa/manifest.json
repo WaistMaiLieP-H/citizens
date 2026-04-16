@@ -1,0 +1,83 @@
+{
+  "standard_id": "USC_15_1692_FDCPA",
+  "citizen": "US_Federal_Financial_Fraud_Litigator",
+  "version": "0.1.0-proposed",
+  "filed_at_utc": "2026-04-11T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "PROPOSED",
+  "build_method": "Logical Delta (LOGIC.md at each evolution stage)",
+  "primary_citation": {
+    "code": "15 USC",
+    "sections": "§§1692–1692p",
+    "popular_name": "Fair Debt Collection Practices Act (FDCPA)",
+    "jurisdiction": "Federal",
+    "original_enactment": "Pub. L. 95-109, 91 Stat. 874 (Sept. 20, 1977)",
+    "effective": "1978-03-20",
+    "key_amendments": [
+      "Pub. L. 99-361 (1986) — deleted attorney exemption; attorneys now covered",
+      "Dodd-Frank Act, Pub. L. 111-203 §1089 (2010) — enforcement transferred to CFPB, rulemaking authority added",
+      "CFPB Regulation F, 12 CFR Part 1006 (effective Nov. 30, 2021) — electronic communication rules, 7-in-7 call cap"
+    ]
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current/LOGIC.md documents 6 core prohibitions (§1692c communication restrictions, §1692d harassment, §1692e false representations, §1692f unfair practices, §1692g validation notice, §1692g dispute-and-cease), damages architecture (§1692k: $1,000 statutory + actual + mandatory attorney fees), 1-year SOL",
+    "reasoning": "PRESENT — LOGIC.md at each evolution stage documents the wound (pre-1977 unregulated collector abuse) and the logical structure (professional-conduct code enforced by private right of action)",
+    "historical_loss": "PRESENT — historical_chain.md documents pre-1977 systematic abuse, 1977 foundational structure, 1986 attorney expansion, 2010 CFPB transfer, 2021 digital update, post-TransUnion standing gate",
+    "cross_references": "PRESENT — refs.json links to Rosenthal Act (California analog for original creditors), FCRA (compound reporting claim), wire fraud (criminal overlay), Debt_Collections case binding",
+    "verifiable_provenance": "PARTIAL — provenance.json files at each stage; primary-source capture PENDING"
+  },
+  "evolution_chain": [
+    {"stage": "01_origin_1977", "folder": "evolution/01_origin_1977/", "status": "LOGIC_BUILT"},
+    {"stage": "02_dodd_frank_2010_cfpb", "folder": "evolution/02_dodd_frank_2010_cfpb/", "status": "LOGIC_BUILT"},
+    {"stage": "03_current", "folder": "current/", "status": "LOGIC_BUILT"}
+  ],
+  "case_law": {
+    "uphold": [],
+    "strike": [],
+    "interpretive": [
+      {
+        "slug": "heintz_v_jenkins",
+        "cite": "514 US 291 (1995)",
+        "rule": "Attorneys who regularly collect debts are 'debt collectors' under FDCPA — collection law firms have full FDCPA liability",
+        "files": ["holding.md", "provenance.json", "statute_version_cited.md"],
+        "status": "BUILT"
+      },
+      {
+        "slug": "rosenthal_v_great_western",
+        "cite": "14 Cal.4th 394 (1996)",
+        "rule": "California Rosenthal Act covers original creditors excluded from federal FDCPA — compound federal/state claim framework for California debt collection",
+        "files": ["holding.md", "provenance.json", "statute_version_cited.md"],
+        "status": "BUILT"
+      },
+      {
+        "slug": "jerman_v_carlisle",
+        "cite": "559 US 573 (2010)",
+        "rule": "Bona fide error defense does not protect legal interpretation errors — only operational/clerical errors; institutional legal-theory violations are actionable",
+        "files": ["holding.md", "provenance.json", "statute_version_cited.md"],
+        "status": "BUILT"
+      }
+    ]
+  },
+  "cross_refs_path": "cross_refs/refs.json",
+  "historical_chain_path": "historical_chain.md",
+  "operational_notes_for_steward_cases": {
+    "fdcpa_violation_checklist": {
+      "initial_contact": "Did the first communication include the mini-Miranda disclosure (§1692e(11)): 'This is an attempt to collect a debt and any information obtained will be used for that purpose'?",
+      "validation_notice": "Within 5 days of first contact, did the collector send written validation notice with debt amount, creditor name, and 30-day dispute right (§1692g)?",
+      "dispute_procedure": "Did Michael send written dispute within 30 days? If yes, did collector cease collection and provide verification before resuming?",
+      "false_representations": "Did any communication falsely state: (a) the amount of the debt? (b) that the debt was legally enforceable when it resulted from fraud/identity theft? (c) that the collector was an attorney or law firm without authorization to sue?",
+      "harassment": "Were calls made before 8am or after 9pm? Were calls made to Michael's workplace after being told to stop? Were calls repeated to harass?",
+      "after_cease_demand": "If Michael sent written cease-communication demand, did collection stop within 5 business days?"
+    },
+    "identity_theft_specific": "Continuing to collect a debt known to result from identity theft = §1692e(2)(A) false representation of legal status + §1692f unfair means + potential §1681s-2(b) FCRA furnisher violation if reported to CRA. File FTC identity theft report to freeze the collection chain.",
+    "sol_note": "1-year SOL runs from date of violation. Each communication is a new violation with its own 1-year clock. Compound with Rosenthal Act (California state court), which has a 1-year SOL as well."
+  },
+  "outstanding_work": [
+    "Primary-source opinion text for Heintz, Rosenthal v. Great Western, Jerman",
+    "Add case: Evon v. Law Offices of Sidney Mickell (9th Cir. 2012) — emotional distress damages under FDCPA in California",
+    "Add case: Gonzales v. Arrow Financial Services (9th Cir. 2011) — false representations re: debt status",
+    "Second-mouth witness review",
+    "Review Michael's Debt_Collections folder for specific violations: date of each communication, check for validation notice, check for mini-Miranda, identify each false representation"
+  ],
+  "witness_status": "AWAITING_STEWARD_WITNESS"
+}

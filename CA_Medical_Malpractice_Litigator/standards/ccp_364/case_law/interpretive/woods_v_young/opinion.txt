@@ -1,0 +1,88 @@
+WOODS v. YOUNG
+53 Cal.3d 315 (1991)
+Supreme Court of California
+Decided: August 29, 1991
+Author: KENNARD, J.
+
+---
+
+FACTS:
+
+Woods suffered a medical injury and timely served a 90-day notice of intent to sue under Code of Civil Procedure § 364 (required before commencing a medical malpractice action). During the 90-day notice period, the statute of limitations would have expired under the standard § 340.5 limitations period. The question was whether the service of the § 364 notice tolled the statute of limitations for the duration of the 90-day notice period.
+
+---
+
+HOLDING — § 364 NOTICE TOLLS THE LIMITATIONS PERIOD:
+
+The California Supreme Court held that service of the 90-day notice of intent to sue under CCP § 364 tolls the applicable statute of limitations (including § 340.5's one-year discovery period) for 90 days after the notice is served.
+
+"When a plaintiff gives notice of intent to sue pursuant to section 364, the applicable statute of limitations is tolled for 90 days." 53 Cal.3d at 318.
+
+RATIONALE:
+1. The legislative purpose of § 364 is to encourage pre-litigation resolution of medical malpractice claims;
+2. If the 90-day notice period ran without tolling the statute, plaintiffs would be forced to file suit immediately upon serving notice — defeating the legislative purpose;
+3. The tolling rule allows the 90-day settlement opportunity to function as intended.
+
+---
+
+THE § 364 NOTICE REQUIREMENT:
+
+Code of Civil Procedure § 364(a):
+"No action based upon the health care provider's professional negligence may be commenced unless the defendant has been given at least 90 days' prior notice of the intention to commence the action."
+
+PURPOSE: To allow health care providers and their insurers an opportunity to investigate and settle meritorious claims before litigation commences.
+
+WHAT THE NOTICE MUST CONTAIN:
+The notice must state:
+- The legal basis of the claim;
+- The type of loss sustained;
+- The nature of the injuries suffered.
+
+A deficient notice that does not substantially comply with § 364(b) may be challenged, potentially requiring re-service and re-tolling.
+
+---
+
+HOLDING — TOLLING CALCULATION:
+
+The 90-day toll operates as follows:
+1. Plaintiff discovers injury and wrongdoing cause — one-year limitations period begins (§ 340.5);
+2. Before the one-year period expires, plaintiff serves § 364 notice;
+3. The remaining one-year period is tolled for 90 days from the date of service;
+4. After the 90 days, the remaining limitations period resumes running.
+
+EXAMPLE: If 300 days of the one-year period have elapsed when notice is served, the plaintiff has 65 remaining days (365 - 300 = 65) plus the 90-day toll = the limitations period does not expire until 90 days after service PLUS 65 more days.
+
+More practically: if the one-year period would expire during the 90-day notice period, the limitations period is extended to 90 days after service.
+
+---
+
+FAILURE TO SERVE § 364 NOTICE:
+
+If a plaintiff files suit without serving the required § 364 notice:
+- The action may be dismissed for failure to comply with the notice requirement;
+- Courts have held that § 364 is a mandatory requirement — not a suggestion;
+- However, defects in notice may be waived if the defendant proceeds with the litigation without objection.
+
+---
+
+APPLICATION TO SIRVA / SURGICAL MALPRACTICE:
+
+For a SIRVA case with a limitations period issue:
+1. Serve § 364 notice on all potential healthcare provider defendants before the one-year limitations period expires (or as early as possible to preserve the tolling benefit);
+2. The 90-day notice period allows negotiation, records exchange, and potential pre-litigation resolution;
+3. If no resolution occurs within 90 days, file suit promptly after the notice period expires;
+4. For a surgical malpractice claim against the same or different healthcare provider, serve separate § 364 notice on each defendant.
+
+NOTICE TO MULTIPLE DEFENDANTS: Separate § 364 notices must be served on each healthcare provider defendant. Notice served on the hospital does not satisfy the requirement as to the individual surgeon.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 53 Cal.3d 315 (1991)
+Official reporter: California Reports, Third Series, vol. 53, page 315
+Court: Supreme Court of California
+Key holding: § 364 notice tolls limitations period for 90 days; mandatory nature of pre-suit notice
+Source of this text: Claude training data (knowledge cutoff August 2025). Woods v. Young is the controlling California authority on § 364 tolling. Full verbatim text should be verified at:
+  - courts.ca.gov
+  - Google Scholar: "Woods v. Young 53 Cal.3d"
+Verification status: PROPOSED — pending steward witness review

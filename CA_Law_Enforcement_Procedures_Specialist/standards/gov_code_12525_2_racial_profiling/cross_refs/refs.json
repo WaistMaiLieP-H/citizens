@@ -1,0 +1,38 @@
+[
+  {
+    "cite": "Cal. Gov. Code § 12525.6",
+    "label": "RIPA Advisory Board",
+    "relationship": "companion_section",
+    "note": "Establishes the nine-member Racial and Identity Profiling Advisory Board chaired by the California Attorney General. The Board develops the racial-neutral methodologies used to analyze § 12525.5 stop data and publishes annual reports. Board reports are public records useful for establishing statewide pattern context."
+  },
+  {
+    "cite": "Cal. Pen. Code § 832.18",
+    "label": "Body Worn Cameras",
+    "relationship": "corroborating_evidence",
+    "note": "Body camera footage of the June 16, 2023 stop is the companion record to the RIPA stop data. The RIPA log captures what the officer reported; the BWC footage captures what actually happened. Comparing the two records surfaces any divergence between the officer's logged justification and the observable facts."
+  },
+  {
+    "cite": "Cal. Pen. Code § 13701",
+    "label": "Domestic Violence Response Policy",
+    "relationship": "cross_check",
+    "note": "A DV-coded stop should generate both a RIPA stop record (§ 12525.5) and a § 13701 incident report. Both records should tell the same story. If the RIPA log and the § 13701 report describe the stop differently — different reason, different result, different parties — that inconsistency is evidence of a false record in one or both documents."
+  },
+  {
+    "cite": "42 U.S.C. § 1983",
+    "label": "Federal Civil Rights — Color of Law",
+    "relationship": "enforcement_mechanism",
+    "note": "A pattern of racially pretextual stops documented in RIPA data supports the pattern-or-practice element of a § 1983 municipal liability claim against APD. Under Monell v. Dept. of Social Services, 436 U.S. 658 (1978), a municipality is liable under § 1983 when a constitutional violation results from the municipality's official policy or custom. Agency-level RIPA data is statistical evidence of custom."
+  },
+  {
+    "cite": "Cal. Pen. Code § 832.7",
+    "label": "Peace Officer Personnel Records — SB 1421 Disclosure",
+    "relationship": "officer_accountability",
+    "note": "RIPA data identifies patterns at the officer level (maintained with officer identification per § 12525.5(d)). SB 1421 (§ 832.7) makes sustained misconduct records public. Combining RIPA stop patterns with SB 1421 disclosure of prior sustained findings against the same officers creates an officer-level accountability record usable in litigation."
+  },
+  {
+    "cite": "POST Regulation § 1081 et seq.",
+    "label": "POST Peace Officer Conduct Standards",
+    "relationship": "training_obligation",
+    "note": "POST requires implicit bias training and de-escalation training as part of continuing education requirements for all California peace officers. An officer whose RIPA stop data shows consistent disparity in stop reasons or outcomes for specific demographics has not been effectively trained or supervised under POST standards — creating a second theory of departmental liability."
+  }
+]

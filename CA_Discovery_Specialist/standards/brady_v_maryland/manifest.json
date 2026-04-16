@@ -1,0 +1,35 @@
+{
+  "standard_id": "BRADY_V_MARYLAND_1963",
+  "version": "1.0.0-proposed",
+  "filed_at_utc": "2026-04-12T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "status": "PROPOSED",
+  "primary_citation": {
+    "code": "United States Reports",
+    "citation": "Brady v. Maryland, 373 U.S. 83 (1963)",
+    "court": "United States Supreme Court",
+    "decided": "May 13, 1963",
+    "popular_name": "Brady Doctrine — Prosecution's Constitutional Disclosure Obligation",
+    "jurisdiction": "Federal; applicable in all state courts via Fourteenth Amendment due process",
+    "positive_law_status": "Constitutional doctrine; in force; extended by Giglio (1972), Agurs (1976), Bagley (1985), Strickler (1999)"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current/text.txt contains Brady opinion and Giglio/Bagley/Strickler extensions",
+    "reasoning": "PRESENT — current/context.md documents three-part test, materiality standard, impeachment category, California application",
+    "historical_loss": "PRESENT — historical_chain.md documents pre-Brady suppression problem, due process basis",
+    "cross_references": "PRESENT — cross_refs/refs.json links to Pen. Code §1054.1, Giglio, Pitchess",
+    "verifiable_provenance": "PRESENT — U.S. Reports citation; California application cases verified in context"
+  },
+  "key_doctrine": {
+    "rule": "Prosecution must disclose material favorable evidence to the defense",
+    "three_part_test": ["Favorable (exculpatory or impeaching)", "Suppressed by State (wilfully or inadvertently)", "Material (reasonable probability of different outcome)"],
+    "materiality_standard": "Reasonable probability of different outcome — probability sufficient to undermine confidence in verdict",
+    "extends_to_impeachment": "Yes (Giglio v. United States, 405 U.S. 150 (1972))"
+  },
+  "citizen_relevance": "Case #04-23-01959 and all criminal proceedings. Brady requires disclosure of any evidence favorable to the steward — including the discrepancy between the purported OPD report and OPD's actual records, government witness credibility evidence, and any evidence of coordination among state actors. Post-SB 1421 (§832.7), sustained officer misconduct findings are both PRA-accessible and Brady material.",
+  "two_witness_status": {
+    "status": "PROPOSED",
+    "first_mouth": "Claude (assistant)",
+    "second_mouth": "PENDING — steward review required"
+  }
+}

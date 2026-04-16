@@ -1,0 +1,48 @@
+{
+  "standard_id": "pen_code_1054_5_discovery_enforcement",
+  "statute": "California Penal Code § 1054.5",
+  "short_title": "Criminal Discovery Enforcement — Sanctions for Non-Disclosure",
+  "citizen": "CA_Criminal_Law_Specialist",
+  "version": "1.1.0-witnessed-by-herald",
+  "created_at_utc": "2026-04-11T00:00:00Z",
+  "created_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "five_layer_status": {
+    "layer_1_rule": "COMPLETE — Pen. Code § 1054.5 full text from leginfo MCP in current/text.txt",
+    "layer_2_reasoning": "COMPLETE — Informal request requirement, 15-day clock, sanction ladder, constitutional floor, jury advisory, case #7 procedure in current/context.md",
+    "layer_3_historical_loss": "COMPLETE — Prop 115 1990 origin, pre-discovery gap, judicial construction of dismissal bar in historical_chain.md",
+    "layer_4_cross_refs": "COMPLETE — 6 cross-references in cross_refs/refs.json covering § 1054.1 parent obligation, Brady constitutional floor, Pitchess parallel, court rules",
+    "layer_5_provenance": "PARTIAL — No specific case law entry yet built. People v. Gonzales (2012) 54 Cal.4th 1234 identified as priority case to build."
+  },
+  "five_layer_score": "4.5 / 5",
+  "outstanding_work": [
+    {
+      "priority": "MEDIUM",
+      "item": "Build People v. Gonzales (2012) 54 Cal.4th 1234 case law entry",
+      "reason": "California Supreme Court on § 1054.5 sanction framework — confirms court discretion in selecting sanctions and exhaustion requirement for witness exclusion"
+    },
+    {
+      "priority": "MEDIUM",
+      "item": "Verify Gonzales citation (54 Cal.4th 1234) before use in filed document",
+      "reason": "Citation documented from training knowledge; must be verified against Westlaw or Lexis"
+    }
+  ],
+  "steward_case_connections": [
+    {
+      "case_id": "Case_7",
+      "case_ref": "04-23-01959",
+      "direction": "defendant",
+      "use": "Enforcement mechanism after Brady demand service; 15-day clock → motion to compel → sanctions if prosecution fails to disclose APD call logs, incident report, forensic interview, CPS referral"
+    }
+  ],
+  "enacted": "1990 (Proposition 115)",
+  "paired_statute": "pen_code_1054_1_discovery",
+  "dismissal_available": false,
+  "dismissal_note": "Statutory dismissal barred by § 1054.5(c); constitutional Brady-based dismissal preserved where required by due process",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

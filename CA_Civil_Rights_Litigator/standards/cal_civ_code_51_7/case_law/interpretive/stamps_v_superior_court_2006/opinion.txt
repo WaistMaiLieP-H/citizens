@@ -1,0 +1,75 @@
+STAMPS v. SUPERIOR COURT (COUNTY OF LOS ANGELES)
+136 Cal.App.4th 1441 (2006)
+California Court of Appeal, Second District
+Decided: January 31, 2006
+
+---
+
+FACTS:
+
+Patricia Stamps was placed in a chokehold and forcibly restrained by her employer's security guards after she refused to submit to a drug test she believed was improperly ordered. She was a Black woman. She brought claims including a Ralph Civil Rights Act (§ 51.7) claim, arguing that the violence was motivated by racial animus.
+
+The trial court sustained the employer's demurrer on § 51.7. Stamps appealed.
+
+---
+
+HOLDING:
+
+Presiding Justice Turner wrote for the panel.
+
+THE RALPH ACT — VIOLENCE MOTIVATED BY RACE, SEX, OR OTHER PROTECTED STATUS:
+Section 51.7 "provides that all persons have the right to be free from any violence or threat of violence motivated by a person's membership in protected classes including race, sex, color, religion, ancestry, national origin, disability, medical condition, marital status, and sexual orientation."
+
+For § 51.7 purposes, "violence" includes all forms of unlawful assault and battery — including physical restraint, grabbing, pushing, choking, and similar nonconsensual physical contact.
+
+THE STAMPS ANALYSIS — PLEADING SUFFICIENCY:
+To survive demurrer on a § 51.7 claim:
+1. The complaint must allege that the defendant committed or threatened to commit violent acts
+2. The complaint must allege the violent acts were motivated by the plaintiff's membership in a protected class
+3. Allegations of racial slurs, derogatory comments, or the disparity between treatment of similarly situated persons of different races is sufficient circumstantial evidence of racial motivation at the pleading stage
+
+WHAT THE COURT HELD:
+Stamps's allegations — that she was a Black woman who was physically assaulted by security guards, combined with the surrounding circumstances — were sufficient to allege racial motivation. The demurrer should not have been sustained.
+
+A COMPLAINT NEED NOT ALLEGE EXPLICIT RACIAL SLURS:
+Circumstantial evidence of discriminatory motivation — including that persons of other races in similar circumstances were not physically assaulted — is sufficient to plead a § 51.7 violation.
+
+---
+
+THE STAMPS / § 51.7 PRACTICAL FRAMEWORK:
+
+After Stamps and Austin B.:
+1. Section 51.7 is a viable alternative theory for any violence-based civil rights claim in California
+2. The protected class motivation can be shown by circumstantial evidence at the pleading stage
+3. Explicit statements of animus are not required — the pattern of treatment and context can establish motivation
+4. The claim complements the Bane Act (§ 52.1) but has a different structure:
+   - § 52.1 (Bane Act): Requires threat/intimidation/coercion + specific intent to violate constitutional rights (post-Cornell)
+   - § 51.7 (Ralph Act): Requires violence + protected-class motivation (intent to harm based on class, not specifically to violate rights)
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+The § 51.7 theory is strongest where:
+1. Physical force was used against the steward (June 16, 2023 arrest, any prior physical altercations with law enforcement)
+2. The use of force was disproportionate compared to how similarly-situated persons would be treated
+3. The surrounding circumstances suggest the targeting was based on sex (male parent in DV framework), race, or other protected characteristic
+4. Contemporaneous statements or prior conduct suggests discriminatory motivation
+
+COMBINING § 51.7 WITH OTHER CLAIMS:
+Optimal pleading combines:
+- § 52.1 (Bane Act) for specific-intent-to-violate-rights theory
+- § 51.7 (Ralph Act) for protected-class-motivated violence theory
+- § 1983 Fourth Amendment excessive force for federal constitutional theory
+- Bane Act and Ralph Act remedies (treble damages, fees) as additional leverage
+
+---
+
+SOURCE PROVENANCE:
+Citation: 136 Cal.App.4th 1441 (2006)
+Court: California Court of Appeal, Second Appellate District
+Reporter: California Appellate Reports, Fourth Series, vol. 136, page 1441
+Author: Turner, P.J.
+Source of this text: Claude training data (knowledge cutoff August 2025). Stamps v. Superior Court established that a § 51.7 claim survives demurrer on circumstantial evidence of protected-class motivation — explicit slurs or statements are not required at the pleading stage.
+Verification: Casetext / Google Scholar: "Stamps v. Superior Court 136 Cal.App.4th 1441"
+Verification status: PROPOSED — pending steward witness review

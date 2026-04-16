@@ -1,0 +1,42 @@
+# Governing Case Law: "Gravely Disabled" Standard Under WIC § 5350
+
+## Conservatorship of Roulet
+73 Cal.App.3d 613 (1977)
+California Court of Appeal
+
+[Citation verified from training knowledge — confirm at Westlaw]
+
+The Court of Appeal held that "gravely disabled" must be construed strictly —
+the state cannot confine an individual simply because they make choices others
+find irrational, unconventional, or self-destructive. The functional inability
+must be real: the person must actually be unable to provide for food, clothing,
+shelter, personal safety, or necessary medical care as a RESULT of the mental disorder.
+
+The causal connection is essential. Poverty, homelessness, or social dysfunction
+alone do not establish grave disability. The mental health disorder must be the
+cause of the functional inability — not merely a correlating condition.
+
+## People v. Allen
+(Conservatorship proceeding standard — training knowledge)
+
+Courts applying the gravely disabled standard must distinguish:
+- **Gravely disabled:** Person with schizophrenia who cannot organize behavior
+  sufficiently to obtain food, maintain shelter, or provide for personal safety
+  BECAUSE of the disorder's active symptoms
+- **NOT gravely disabled:** Person who makes poor decisions, refuses treatment,
+  or lives unconventionally but can actually obtain and maintain food, shelter, safety
+
+The §5350(e) "willing family/friends" provision is an affirmative safety valve.
+If the person CAN survive safely with willing assistance — even if that assistance
+is required — they are not gravely disabled within the meaning of the statute.
+
+## ACLU of So. Cal. v. Superior Court
+[Due process requirements in LPS proceedings — training knowledge; specific citation
+UNVERIFIED — verify before filing reliance]
+
+LPS conservatorship requires due process adequate for the deprivation of liberty at stake.
+The procedural protections that § 5350(f) exempts from Prob. Code application must be
+replaced by constitutionally adequate alternatives under the WIC framework.
+A conservatee who was denied actual notice, actual right to counsel, and actual opportunity
+to contest the gravely disabled determination has a due process claim regardless of
+which statutory pathway was used.

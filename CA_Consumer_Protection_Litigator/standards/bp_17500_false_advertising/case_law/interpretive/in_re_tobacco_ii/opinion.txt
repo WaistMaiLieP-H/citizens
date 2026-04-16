@@ -1,0 +1,67 @@
+IN RE TOBACCO II CASES
+46 Cal.4th 298 (2009)
+Supreme Court of California
+Decided: May 18, 2009
+Author: KENNARD, J.
+
+---
+
+FACTS:
+
+A class of California smokers brought UCL and False Advertising Law (§ 17500) claims against tobacco manufacturers, alleging decades of deceptive advertising about the health risks of smoking. After Proposition 64 (2004), which required private plaintiffs to show "lost money or property as a result of" the unfair competition, the defense argued that class certification was inappropriate because each class member would have to show individualized reliance on the tobacco companies' specific advertising statements.
+
+The question: Does the UCL's "fraudulent" prong require each class member in a class action to show individualized reliance on the specific misrepresentation?
+
+---
+
+HOLDING — THE RELIANCE STANDARD FOR CLASS ACTIONS:
+
+THE CLASS REPRESENTATIVE must show "she actually relied on the alleged misrepresentation and suffered injury as a result." 46 Cal.4th at 326.
+
+CLASS MEMBERS need not individually show reliance. "The named plaintiff must show actual reliance, but unnamed class members need not make an individualized showing of reliance." 46 Cal.4th at 328.
+
+For the class to be certified, the alleged misrepresentation must be:
+1. Material — objectively likely to deceive a reasonable consumer (the "fraud" prong objective test);
+2. Part of a long-term advertising campaign to which class members were likely exposed.
+
+Where a defendant conducted a "decades-long" advertising campaign, and class members were exposed to the campaign during the relevant period, the court may infer sufficient exposure and reliance for class certification purposes.
+
+"Where a plaintiff alleges exposure to a long-term advertising campaign, the plaintiff is not required to plead with an unrealistic degree of specificity that the plaintiff relied on particular advertisements or statements." 46 Cal.4th at 328.
+
+---
+
+THE UCL "FRAUDULENT" PRONG — THE REASONABLE CONSUMER TEST:
+
+The UCL fraudulent prong is violated when a business practice is likely to deceive a reasonable consumer. This is an OBJECTIVE test, not a subjective one. The question is not whether this particular plaintiff was actually deceived — it is whether a reasonable member of the public would likely be deceived by the practice.
+
+"A fraudulent business practice is one that is likely to deceive members of the public." The reasonable consumer standard does not require proof that any particular class member was deceived; it requires only that the advertising or practice was likely to deceive.
+
+---
+
+FALSE ADVERTISING LAW (§ 17500) — RELIANCE STANDARD:
+
+For § 17500 claims: "The original plaintiff (the named plaintiff) must actually rely on the false advertising statement and suffer injury as a result. Class members do not need to show individualized reliance." This mirrors the UCL standard.
+
+---
+
+APPLICATION TO AUTO FRAUD CLASS ACTIONS:
+
+For auto dealer fraud affecting a class of buyers:
+
+1. The named plaintiff must show: saw the misrepresentation (CARFAX, advertising, dealer representations), relied on it, and suffered economic injury;
+
+2. Class members need not individually prove reliance if the dealer engaged in a systematic practice of misrepresentation (yo-yo financing, wrong CARFAX, standard representation of certain terms) to which all class members were likely exposed;
+
+3. The UCL fraudulent prong's reasonable consumer objective test supports class treatment: if a reasonable consumer would have been deceived by the dealer's systematic practices, the class can proceed without individualized reliance showings for each member.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 46 Cal.4th 298 (2009)
+Official reporter: California Reports, Fourth Series, vol. 46, page 298
+Court: Supreme Court of California
+Key quoted passages: 46 Cal.4th at 326 (named plaintiff reliance); 46 Cal.4th at 328 (class members / long-term campaign)
+Source of this text: Claude training data (knowledge cutoff August 2025). In re Tobacco II is the controlling California authority on UCL/FAL reliance in class actions. Full verbatim text should be verified at:
+  - courts.ca.gov
+  - Google Scholar: "In re Tobacco II Cases 46 Cal.4th"
+Verification status: PROPOSED — pending steward witness review

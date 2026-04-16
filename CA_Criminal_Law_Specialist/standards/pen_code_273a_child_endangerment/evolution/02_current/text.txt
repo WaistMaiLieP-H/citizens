@@ -1,0 +1,13 @@
+Pointer to current/ directory.
+
+The current text of Cal. Penal Code § 273a is in:
+../../../current/text.txt
+
+The chain closes here: Early 20th century origin (physical suffering + great bodily harm framework) → subsequent amendments clarifying mental suffering and criminal negligence standard → current.
+
+Key current elements for Case #7 (04-23-01959):
+- § 273a(a): felony — circumstances likely to produce GBH or death (People v. Sargent: willfulness = awareness of dangerous facts)
+- § 273a(b): misdemeanor — other endangerment circumstances
+- "Care or custody" element applies to parents with joint or sole custody
+- Mens rea: general criminal intent + awareness of dangerous circumstances (not ordinary negligence)
+- "Likely to produce" = probability standard — prosecution must show more than mere possibility of harm

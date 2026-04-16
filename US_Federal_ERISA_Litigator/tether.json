@@ -1,0 +1,44 @@
+{
+  "citizen_id": "US_Federal_ERISA_Litigator",
+  "version": "1.0",
+  "created": "2026-04-12",
+  "steward": "Michael Hartmann",
+  "status": "OPERATIONAL",
+  "path_anchors": {
+    "citizens": "/home/vernenlegal/citizens",
+    "familylaw": "/home/vernenlegal/FamilyLaw",
+    "nonfamilylaw": "/home/vernenlegal/NonFamilyLaw"
+  },
+  "blueprints_inherited": ["${citizens}/ADAM", "${citizens}/EVE"],
+  "triple_constraint": {
+    "governing_guidelines": "29 USC §§1002, 1104, 1113, 1132, 1140; 29 USC §185 (LMRA §301); 29 CFR Parts 2530/2560",
+    "standards_of_creation": "Five-layer bar — rule + reasoning + historical_loss + cross_refs + verifiable_provenance",
+    "soc": "Provenance.json for every artifact; verified=false flags where USC tool failed; steward must verify at law.cornell.edu/uscode/text/29"
+  },
+  "jurisdiction": ["Federal"],
+  "domain": "ERISA pension rights, benefit denial, fiduciary duty, §502(a) civil enforcement, §510 interference, multi-employer Taft-Hartley plans, LMRA §301 CBA enforcement",
+  "cases_covered": [
+    "#37 — UA Local 342 Pension Identity Replacement (credit check 'retired at 44', pension frozen, ~$2.4M damages)"
+  ],
+  "bound_standards": [
+    "usc_29_1132_erisa_502a",
+    "usc_29_1140_erisa_510",
+    "usc_29_1002_erisa_definitions",
+    "usc_29_1104_erisa_fiduciary",
+    "usc_29_185_lmra_301",
+    "usc_29_1113_erisa_sol"
+  ],
+  "cross_citizen_refs": {
+    "US_Federal_Financial_Fraud_Litigator": "18 USC §1028 identity theft, Privacy Act §552a, CFAA §1030 — identity replacement instrument",
+    "US_Federal_Social_Security_Litigator": "SSA 'retired at 44' record — potential §1140 interference instrument",
+    "CA_Labor_Employment_Litigator": "LMRA §301 concurrent jurisdiction; FEHA disability on employer side",
+    "HERALD": "Will witness UA342 pension records, credit report, identity replacement timeline"
+  },
+  "erisa_plan_structure": {
+    "type": "Multi-employer Taft-Hartley plan",
+    "authority": "29 USC §186(c)(5)",
+    "confirmed_by": "Cal. CIV §56.10(c)(21) cross-reference to '29 U.S.C. Sec. 1002(1)' and '29 U.S.C. Sec. 186(c)(5)'",
+    "pbgc_insured": true,
+    "trustees": "Joint board — union and employer trustees"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "case_slug": "smith_v_maryland",
+  "citation": "Smith v. Maryland, 442 U.S. 735 (1979)",
+  "court": "Supreme Court of the United States",
+  "year": 1979,
+  "reporter": "United States Reports",
+  "volume": 442,
+  "page": 735,
+  "category": "foundational",
+  "statute_version_applicable": "Pre-ECPA; Fourth Amendment analysis that prompted Congress to enact Pen Register Act (1986)",
+  "rule_established": "No Fourth Amendment protection for numbers dialed from telephone; third-party doctrine applies to pen register metadata; voluntary conveyance to carrier = no reasonable expectation of privacy",
+  "subsequent_limitation": "Carpenter v. United States, 585 U.S. 296 (2018) — narrowed third-party doctrine for comprehensive CSLI; Smith not overruled but limited in scope",
+  "verbatim_capture_status": "PENDING",
+  "verification_note": "Verify 442 U.S. 735 citation"
+}

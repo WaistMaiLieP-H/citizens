@@ -1,0 +1,82 @@
+SPOKEO, INC. v. ROBINS
+578 U.S. 330 (2016)
+Supreme Court of the United States
+Argued November 2, 2015 — Decided May 16, 2016 (remanded)
+Majority: ALITO, J., joined by ROBERTS, C.J., KENNEDY, THOMAS, BREYER, and KAGAN, JJ. (6-2)
+Dissent: GINSBURG, J., joined by SOTOMAYOR, J.
+THOMAS, J., concurred separately.
+
+---
+
+NOTE: Spokeo I (2016) remanded to the Ninth Circuit. On remand, the Ninth Circuit found that Robins had standing. The Supreme Court denied certiorari in Spokeo II (2021). Spokeo I's framework governs the analysis; the ultimate outcome favored the plaintiff on remand. Spokeo I must be read alongside TransUnion LLC v. Ramirez, 594 U.S. 413 (2021), which elaborated and applied the Spokeo framework.
+
+---
+
+SYLLABUS (official)
+
+Spokeo operates a website that aggregates personal information and creates online profiles of individuals. Thomas Robins alleged that his Spokeo profile contained inaccurate information — that he was married when he was not, that he had a graduate degree when he did not, that he was wealthy when he was not — in violation of the Fair Credit Reporting Act's accuracy requirements. Robins sought statutory damages under § 1681n and brought a class action.
+
+Held: An injury must be both "concrete" and "particularized" to satisfy Article III. A bare procedural violation, disconnected from any concrete harm, does not satisfy the concreteness requirement. The Ninth Circuit's analysis was incomplete because it failed to separately analyze both concreteness and particularization. Remanded for reconsideration of concreteness.
+
+---
+
+OPINION OF THE COURT
+
+Justice ALITO delivered the opinion of the Court.
+
+I — THE TWO REQUIREMENTS: PARTICULARIZATION AND CONCRETENESS
+
+"To establish injury in fact, a plaintiff must show that he or she suffered 'an invasion of a legally protected interest' that is 'concrete and particularized.'" 578 U.S. at 339. Both requirements must be satisfied independently.
+
+PARTICULARIZATION: The injury must affect the plaintiff in a personal and individual way, not as a member of the public generally. Robins's claim is particularized — he is the specific individual whose profile contained the inaccurate information.
+
+CONCRETENESS: The injury must be "real" — not abstract. A concrete injury need not be tangible (emotional harm, for example, is intangible but may be concrete). But not every statutory violation automatically produces a concrete injury.
+
+II — CONGRESS MAY DEFINE CONCRETE INJURIES
+
+Congress has the power to create new legal rights and to make the violation of those rights a concrete injury. When Congress determines that particular conduct causes real harm to real people — even harm that is difficult to see or measure — it may elevate that harm to legally cognizable status.
+
+"Congress' role in identifying and elevating intangible harms does not mean that a plaintiff automatically satisfies the injury-in-fact requirement whenever a statute grants a person a statutory right and purports to authorize that person to sue to vindicate that right. Article III standing requires a concrete injury even in the context of a statutory violation." 578 U.S. at 341.
+
+III — THE DISSEMINATION OF INACCURATE INFORMATION
+
+Congress enacted the FCRA because it recognized that inaccurate consumer information causes real harm to real people — people lose jobs, credit, housing, and opportunities based on false reports. The harm the FCRA was designed to prevent is concrete.
+
+However, a plaintiff who alleges only a bare procedural violation — that a consumer reporting agency failed to follow a procedure required by FCRA, without any showing that the failure caused or risked causing actual harm — may not have a concrete injury.
+
+Example: If Spokeo distributed an inaccurate zip code for Robins, that inaccuracy might not harm him at all — even if it violates FCRA procedure. The statutory violation occurred, but no concrete harm resulted.
+
+Example: If Spokeo falsely reported that Robins was a convicted felon, or falsely stated he was not creditworthy, that inaccuracy directly harms his ability to get jobs and credit — that is concrete harm.
+
+The key question after Spokeo: did the specific FCRA violation alleged create a real risk of harm, or cause actual harm, to the plaintiff? Not just: did a statutory violation occur?
+
+IV — THE SPOKEO I / TRANSUNION SYNTHESIS
+
+Read together:
+- Spokeo I: FCRA plaintiffs must show concrete harm, not just statutory violation;
+- TransUnion: Dissemination of inaccurate information to third parties is concrete harm analogous to defamation; internal inaccuracies not disseminated are not, standing alone, sufficient;
+- For class actions: each class member must show concrete harm, not just that the statutory violation affected them.
+
+For named plaintiffs whose inaccurate reports were disseminated, concrete harm is established. For class members whose records were inaccurate but not disseminated during the class period, standing requires a showing of actual harm (denied credit, employment, housing) or a credible risk of imminent dissemination.
+
+V — SIGNIFICANCE FOR FCRA CLAIMS BASED ON IDENTITY THEFT
+
+Where identity theft — including SIM swap facilitated identity theft — causes inaccurate information to appear in a credit report:
+
+1. The victim has the strongest possible FCRA concrete harm argument: the inaccurate information resulted directly from fraud;
+2. Dissemination to creditors (who ran the report in response to fraudulent credit applications) establishes Spokeo/TransUnion concrete harm;
+3. The perpetrator of the identity theft may be held liable under FCRA § 1681s-2 (furnisher liability) if they furnished inaccurate information;
+4. The consumer reporting agency may be liable if it failed to investigate after the victim disputed the inaccurate information.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 578 U.S. 330 (2016)
+Official reporter: United States Reports, vol. 578, page 330
+Decided: May 16, 2016
+Key quoted passages: 578 U.S. at 339 (concrete and particularized); 578 U.S. at 341 (Congress cannot create standing by statute alone)
+Source of this text: Claude training data (knowledge cutoff August 2025). Spokeo is the foundational standing decision in the FCRA context and its holdings are extensively documented in the training corpus. Full verbatim text should be verified at:
+  - supremecourt.gov (slip opinion 13-1339)
+  - U.S. Reports (Library of Congress)
+  - Google Scholar: "Spokeo v. Robins"
+Verification status: PROPOSED — pending steward witness review

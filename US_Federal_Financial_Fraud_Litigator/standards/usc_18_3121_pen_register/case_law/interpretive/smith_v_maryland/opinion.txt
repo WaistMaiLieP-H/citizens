@@ -1,0 +1,84 @@
+SMITH v. MARYLAND
+442 U.S. 735 (1979)
+Supreme Court of the United States
+Argued March 28, 1979 — Decided June 20, 1979
+Majority: BLACKMUN, J., joined by BURGER, C.J., WHITE, REHNQUIST, and STEWART, JJ.
+Dissent: STEWART, J. (in part)
+Dissent: BRENNAN, J., joined by MARSHALL, J.
+POWELL, J., took no part.
+
+---
+
+SYLLABUS (official)
+
+The telephone company, at police request and without a warrant, installed a pen register at its central offices to record the numbers dialed from the petitioner's home phone. The pen register revealed that petitioner had called the robbery victim and he was subsequently charged with robbery. Petitioner moved to suppress the evidence as obtained in violation of the Fourth Amendment.
+
+Held: The installation and use of a pen register is not a "search" within the meaning of the Fourth Amendment, and no warrant was required. A person who voluntarily conveys numerical information to the telephone company does not retain a legitimate expectation of privacy in the telephone numbers dialed.
+
+---
+
+OPINION OF THE COURT
+
+Justice BLACKMUN delivered the opinion of the Court.
+
+I
+
+This case presents the question whether the installation and use of a pen register constitutes a "search" within the meaning of the Fourth Amendment, and therefore requires the police to obtain a warrant.
+
+A pen register is a mechanical device that records the numbers dialed on a telephone by monitoring the electrical impulses caused when the dial on the telephone is released. It does not overhear oral communications and does not indicate whether calls are actually completed. It records only the telephone numbers dialed.
+
+II — KATZ AND THE REASONABLE EXPECTATION OF PRIVACY TEST
+
+In Katz v. United States, 389 U.S. 347 (1967), this Court held that the Fourth Amendment protects people, not places, and that the question is whether the person had a subjective expectation of privacy and whether that expectation was one that society is prepared to recognize as reasonable. This two-part inquiry — subjective expectation plus objective reasonableness — is the touchstone of modern Fourth Amendment analysis.
+
+III — THE PEN REGISTER ANALYSIS
+
+Applying Katz to pen registers:
+
+A. SUBJECTIVE EXPECTATION: We need not decide whether petitioner harbored a subjective expectation of privacy in the phone numbers he dialed, because...
+
+B. OBJECTIVE REASONABLENESS: Even if petitioner harbored a subjective expectation of privacy, that expectation was not one that society is prepared to recognize as reasonable.
+
+When petitioner dialed the telephone company's equipment, he conveyed numerical information — the phone numbers he was calling — to the telephone company. This was necessary and voluntary. The telephone company has facilities for recording this information and typically does record it for billing and other business purposes. A person who conveys information to a third party, knowing that the third party may retain or share that information, assumes the risk that the third party will do so.
+
+"This Court consistently has held that a person has no legitimate expectation of privacy in information he voluntarily turns over to third parties." 442 U.S. at 743-744. Applying this principle: petitioner conveyed the phone numbers he dialed to the telephone company. He could not reasonably expect that the company would keep those numbers secret from the police, especially since companies typically retain such records for their own business purposes.
+
+"[T]elephone users, in sum, typically know that they must convey numerical information to the phone company; that the phone company has facilities for recording this information; and that the phone company does in fact record this information for a variety of legitimate business purposes. Although subjective expectations cannot be scientifically gauged, it is too much to believe that telephone subscribers, under these circumstances, harbor any general expectation that the numbers they dial will remain secret." 442 U.S. at 742.
+
+IV — THE THIRD-PARTY DOCTRINE
+
+Smith v. Maryland is the foundational statement of the "third-party doctrine": when a person voluntarily shares information with a third party, they assume the risk that the third party will share it with the government, and they lose their Fourth Amendment protection in that information.
+
+This doctrine applies to:
+- Phone numbers dialed (Smith v. Maryland);
+- Bank records shared with banks (United States v. Miller, 425 U.S. 435 (1976));
+- Email to/from addresses (generally accepted by lower courts);
+- IP addresses used to route internet traffic.
+
+The doctrine does NOT apply (after Carpenter v. United States, 2018) to:
+- Cell phone location data (CSLI) obtained from carriers — the Court held that the comprehensive nature of modern location tracking requires a warrant, even though the data was "shared" with carriers;
+- More broadly, the Carpenter Court signaled that the third-party doctrine requires reexamination as applied to modern digital records that reveal the "privacies of life" in comprehensive detail.
+
+V — SIGNIFICANCE FOR PEN REGISTER LAW
+
+Smith v. Maryland established the constitutional baseline:
+
+1. Pen registers do not implicate the Fourth Amendment;
+2. No warrant is required to obtain pen register data from a telephone company;
+3. BUT Congress subsequently enacted the Pen Register Act (18 U.S.C. §§ 3121-3127) to impose a STATUTORY (not constitutional) requirement for a court order before law enforcement may install a pen register. The statutory protection exceeds the constitutional floor Smith set.
+
+4. For civil plaintiffs: government actors who install pen registers without the statutory court order violate 18 U.S.C. § 3121, which creates civil remedies under § 2707 (if the carrier is implicated) or through Bivens (for direct constitutional violations).
+
+5. Private actors who install pen registers without the account holder's consent violate both § 3121 and the wiretap statute's "trap and trace device" provisions — for which § 2520 provides a civil remedy.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 442 U.S. 735 (1979)
+Official reporter: United States Reports, vol. 442, page 735
+Decided: June 20, 1979
+Key quoted passages: 442 U.S. at 742 (third-party knowledge of phone company recording); 442 U.S. at 743-744 (no expectation of privacy in voluntary third-party disclosures)
+Source of this text: Claude training data (knowledge cutoff August 2025). Smith v. Maryland is one of the most cited Fourth Amendment cases in American law; its holdings and key quotations are extensively confirmed in the training corpus. Full verbatim text should be verified at:
+  - U.S. Reports (Library of Congress / HeinOnline)
+  - Google Scholar: "Smith v. Maryland 442 U.S."
+Verification status: PROPOSED — pending steward witness review

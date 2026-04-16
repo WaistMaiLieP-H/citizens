@@ -1,0 +1,42 @@
+{
+  "standard_id": "usc_47_222_cpni",
+  "description": "Cross-references for 47 U.S.C. § 222 CPNI and SIM swap carrier liability",
+  "cross_references": [
+    {
+      "ref_id": "CAL_CIV_1798_80_SIM_SWAP",
+      "title": "California Civil Code § 1798.80 et seq. — SIM Swap Protection Act",
+      "relationship": "California-specific SIM swap statute enacted 2021 that creates direct carrier liability for unauthorized SIM changes without adequate authentication. Supplements the federal § 222 framework.",
+      "location": "~/citizens/CA_Telecom_Privacy_Litigator/standards/cal_civ_1798_80_sim_swap/"
+    },
+    {
+      "ref_id": "USC_18_1030_CFAA",
+      "title": "18 U.S.C. § 1030 — Computer Fraud and Abuse Act",
+      "relationship": "A SIM swap that enables unauthorized access to the victim's email, banking, or device accounts triggers CFAA in addition to § 222. The SIM swap is the method; the unauthorized account access is the CFAA violation.",
+      "location": "~/citizens/CA_Telecom_Privacy_Litigator/standards/usc_18_1030_cfaa/"
+    },
+    {
+      "ref_id": "CAL_PEN_502",
+      "title": "California Penal Code § 502 — Computer Data Access and Fraud Act",
+      "relationship": "California parallel to CFAA. Unauthorized access to accounts enabled by the SIM swap violates § 502. Provides civil private right of action and criminal prosecution pathway.",
+      "location": "~/citizens/CA_Telecom_Privacy_Litigator/standards/cal_pen_502_computer_fraud/"
+    },
+    {
+      "ref_id": "USC_18_1028_ID_THEFT",
+      "title": "18 U.S.C. § 1028 — Federal Identity Theft",
+      "relationship": "SIM swap fraud is a method of identity theft. The swapper assumes the victim's phone identity to intercept communications and take over accounts. § 1028 criminal referral is available.",
+      "location": "~/citizens/US_Federal_Financial_Fraud_Litigator/standards/usc_18_1028_identity_theft/"
+    },
+    {
+      "ref_id": "CAL_BPC_17200_UCL",
+      "title": "California Business & Professions Code § 17200 — Unfair Business Practices",
+      "relationship": "A carrier's failure to implement adequate SIM swap authentication is an unfair business practice under § 17200. UCL provides injunctive relief and restitution as civil remedies.",
+      "location": "External — Consumer Protection Litigator"
+    },
+    {
+      "ref_id": "FCC_47_CFR_64",
+      "title": "47 C.F.R. Part 64 — FCC CPNI Regulations",
+      "relationship": "Implementing regulations for § 222. Authentication requirements, SIM swap notification rules (2023-2024 amendments), and CPNI protection standards are in Part 64.",
+      "location": "External — FCC regulations"
+    }
+  ]
+}

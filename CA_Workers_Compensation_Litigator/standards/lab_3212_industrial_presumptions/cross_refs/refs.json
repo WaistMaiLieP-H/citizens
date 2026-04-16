@@ -1,0 +1,25 @@
+{
+  "standard_id": "lab_3212_industrial_presumptions",
+  "cross_references": [
+    {
+      "ref_id": "lab_3202_liberal_construction",
+      "relationship": "Interpretive canon — §3202 applies to all ambiguities in §3212's scope; liberal construction extends presumption to borderline workers",
+      "path": "${citizens}/CA_Workers_Compensation_Litigator/standards/lab_3202_liberal_construction"
+    },
+    {
+      "ref_id": "lab_4663_apportionment",
+      "relationship": "§4663(e) expressly exempts §3212 presumptive conditions from apportionment — no reduction for prior conditions",
+      "path": "${citizens}/CA_Workers_Compensation_Litigator/standards/lab_4663_apportionment_permanent_disability"
+    },
+    {
+      "ref_id": "lab_3212_1_cancer",
+      "relationship": "Companion statute — cancer presumption for firefighters and peace officers; same structure as §3212",
+      "note": "LAB §3212.1 — not yet built in corpus"
+    },
+    {
+      "ref_id": "lab_3212_85_ptsd",
+      "relationship": "Companion statute — PTSD presumption for peace officers and firefighters",
+      "note": "LAB §3212.85 — not yet built in corpus"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "standard_id": "CAL_PROB_811_CAPACITY_DETERMINATION",
+  "refs_updated": "2026-04-12",
+  "cross_references": [
+    {
+      "target_standard": "CAL_PROB_1826_INVESTIGATOR_PRE_APPOINTMENT",
+      "relationship": "\u00a71826(a)(4)(B) cross-references \u00a7811 directly \u2014 investigator must assess \u00a7811 mental function deficits; \u00a7811 is the clinical framework the \u00a71826 investigation must apply",
+      "target_citizen": "CA_Conservator_Investigator",
+      "target_manifest": "${citizens}/CA_Conservator_Investigator/standards/cal_prob_1826/manifest.json",
+      "build_status": "BUILT \u2014 same Citizen"
+    },
+    {
+      "target_standard": "CAL_PROB_1801_CONSERVATORSHIP_APPOINTMENT",
+      "relationship": "\u00a7811 deficits must meet the \u00a71801 threshold \u2014 the functional impairment identified under \u00a7811 must rise to 'unable to provide for personal needs' (\u00a71801(a)) or 'substantially unable to manage finances or resist fraud' (\u00a71801(b)). \u00a7811 identifies the functional deficit; \u00a71801 sets the threshold that deficit must meet.",
+      "target_citizen": "CA_Conservator_Investigator",
+      "target_manifest": "${citizens}/CA_Conservator_Investigator/standards/cal_prob_1801_conservatorship_appointment/manifest.json",
+      "build_status": "BUILT \u2014 same Citizen"
+    }
+  ]
+}

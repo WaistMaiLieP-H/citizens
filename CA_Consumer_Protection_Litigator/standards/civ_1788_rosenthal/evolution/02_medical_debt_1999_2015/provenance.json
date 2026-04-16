@@ -1,0 +1,10 @@
+{
+  "stage": "02_medical_debt_1999_2015",
+  "key_amendments": [
+    {"citation": "Stats. 1999, Ch. 319", "effect": "Medical debt collectors expressly covered"},
+    {"citation": "Stats. 2015, Ch. 418 (AB 1521)", "effect": "§1788.100 added: 150-day credit reporting moratorium, charity care disclosure, payment plan requirement, rights notice"}
+  ],
+  "capture_method": "LOGIC.md — structural knowledge base",
+  "verbatim_capture_status": "PENDING",
+  "build_date": "2026-04-11"
+}

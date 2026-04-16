@@ -1,0 +1,10 @@
+{
+  "stage": "03_doe_v_chao_2004_actual_damages",
+  "source": "Doe v. Chao, 540 U.S. 614 (2004)",
+  "court": "Supreme Court of the United States",
+  "decided": "2004-02-24",
+  "wound_addressed": "Circuit split on whether adverse determination alone satisfies 'actual damages' element of §552a(g)(1)(C) — circuits reached opposite results",
+  "holding": "Plaintiff must prove actual damages (concrete, specific loss) to recover under §552a(g)(1)(C); adverse determination alone is insufficient",
+  "verbatim_capture_status": "PENDING",
+  "build_date": "2026-04-11"
+}

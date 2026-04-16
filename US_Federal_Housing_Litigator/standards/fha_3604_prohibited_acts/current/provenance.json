@@ -1,0 +1,33 @@
+{
+  "standard_id": "FHA_42_USC_3604_PROHIBITED_ACTS",
+  "layer": "current",
+  "title": "42 U.S.C. § 3604 — Fair Housing Act — Prohibited Practices in Sale or Rental of Housing",
+  "enacted": "1968-04-11",
+  "enacting_law": "Civil Rights Act of 1968, Title VIII (Fair Housing Act), Pub. L. 90-284, 82 Stat. 73",
+  "major_amendment": "Fair Housing Amendments Act of 1988, Pub. L. 100-430, 102 Stat. 1619 (Sep. 13, 1988) — added disability (handicap) and familial status as protected classes; strengthened enforcement",
+  "sex_amendment": "Housing and Community Development Act of 1974, Pub. L. 93-383, § 808(b)(1) — added sex as protected class",
+  "current_through": "Pub. L. 117-103 (2022)",
+  "official_source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3604",
+  "cornell_lii_source": "https://www.law.cornell.edu/uscode/text/42/3604",
+  "hud_regulations": "24 C.F.R. Part 100 (HUD FHA Regulations)",
+  "verified": false,
+  "verified_note": "USC tool blocked for Title 42 at build time; statute text from training knowledge. Retrieve full text at uscode.house.gov before filing.",
+  "retrieval_date": "2026-04-13",
+  "key_cases": [
+    "Jones v. Alfred H. Mayer Co., 392 U.S. 409 (1968) — same year as FHA; 42 U.S.C. § 1982 bars racial discrimination in property transactions; FHA and § 1982 operate together",
+    "Havens Realty Corp. v. Coleman, 455 U.S. 363 (1982) — testers and organizational plaintiffs have Article III standing under FHA § 3604(d); injury-in-fact is denial of truthful housing information",
+    "Texas Dep't of Hous. & Cmty. Affairs v. Inclusive Communities Project, Inc., 576 U.S. 519 (2015) — FHA encompasses disparate-impact claims; facially neutral policies producing disproportionate harm to protected class are actionable under burden-shifting framework",
+    "Meyer v. Holley, 537 U.S. 280 (2003) — FHA imposes vicarious liability under respondeat superior; corporate owner can be liable for discriminatory acts of agents",
+    "HUD v. Mountain Side Mobile Estates Partnership, HUDALJ 01-92-0560-8, FH-FL-0022 (1993) — no-children restrictions constitute per se familial status discrimination under FHAA 1988"
+  ],
+  "case_19_anchor": "2958 Honeysuckle Lane — sale closing date TBD; 2-year SOL under § 3613(a)(1)(A) runs from closing date or last discriminatory act. If disability-based coercion in sale terms → § 3604(b). If 19 unsigned documents reflect inequitable forced sale connected to protected class → § 3604(b). Confirm closing date urgently.",
+  "hillbergmann_anchor": "Ann Hillberg compound identity — if property transactions in the Hillberg chain involved protected-class-based manipulation → § 3604(a)/(b) may apply per transaction within limitations period",
+  "steward_verify_queue": [
+    "Jones v. Alfred H. Mayer Co. citation (392 U.S. 409)",
+    "Havens Realty Corp. v. Coleman citation (455 U.S. 363)",
+    "Inclusive Communities citation (576 U.S. 519)",
+    "Meyer v. Holley citation (537 U.S. 280)",
+    "Current text of § 3604(f)(3) reasonable modification / accommodation language",
+    "24 C.F.R. Part 100 current HUD regulation text"
+  ]
+}

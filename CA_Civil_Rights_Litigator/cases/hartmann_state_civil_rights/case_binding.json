@@ -1,0 +1,46 @@
+{
+  "case_id": "hartmann_state_civil_rights",
+  "case_caption": "Hartmann — State Civil Rights Claims (supplemental to federal complaint)",
+  "court": "California Superior Court (venue TBD) or NDCA via supplemental jurisdiction (28 USC §1367)",
+  "status": "NOT YET FILED — state claims to be filed as supplemental to federal §1983 action or separately in state court",
+
+  "claims": [
+    {
+      "statute": "Cal. Civ. Code §52.1",
+      "standard_path": "${citizens}/CA_Civil_Rights_Litigator/standards/cal_civ_code_52_1/",
+      "theory": "Bane Act — defendants used threats, intimidation, and coercion to interfere with plaintiff's constitutional rights (custody, due process, privacy). Specific intent to violate per Cornell/Reese.",
+      "workflow": "case_workflows/bane_act_claim.md"
+    },
+    {
+      "statute": "Cal. Const. Art. I §1",
+      "standard_path": "${citizens}/CA_Civil_Rights_Litigator/standards/cal_const_art1_sec1/",
+      "theory": "Inalienable right to privacy — surveillance, SIM swap interception, medical record access, communications monitoring"
+    },
+    {
+      "statute": "Cal. Const. Art. I §13",
+      "standard_path": "${citizens}/CA_Civil_Rights_Litigator/standards/cal_const_art1_sec13/",
+      "theory": "Unreasonable search and seizure — warrantless entry, warrantless detention (June 16, 2023 incident)"
+    },
+    {
+      "statute": "Cal. Const. Art. I §7",
+      "standard_path": "${citizens}/CA_Civil_Rights_Litigator/standards/cal_const_art1_sec7/",
+      "theory": "Due process and equal protection — custody deprivation without hearing, unequal treatment"
+    }
+  ],
+
+  "remedies": {
+    "bane_act": "Actual damages + attorney's fees under §52.1(h)",
+    "unruh_if_applicable": "Treble damages (up to 3x actual, min $4,000) + fees under §52",
+    "entity_liability": "Gov. Code §815.2 — public entity vicariously liable for employee torts within scope of employment"
+  },
+
+  "defendants": [
+    {"name": "Ann C. Hillberg", "shared_actor_id": "hillberg_ann"},
+    {"name": "Antioch PD officers", "shared_actor_id": "apd_officers"},
+    {"name": "City of Antioch", "type": "public entity", "liability_path": "Gov. Code §815.2"}
+  ],
+
+  "note": "State claims can be filed in federal court under supplemental jurisdiction (§1367) with the §1983 action, or separately in California Superior Court. Government tort claim presentation required for state-law tort claims against public entities (Gov. Code §910+), but NOT for §1983 claims (Felder v. Casey).",
+
+  "filed_at_utc": "2026-04-09T02:30:00Z"
+}

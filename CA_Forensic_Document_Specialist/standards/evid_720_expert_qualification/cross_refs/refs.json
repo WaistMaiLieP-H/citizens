@@ -1,0 +1,47 @@
+{
+  "standard_id": "evid_720_expert_qualification",
+  "citizen": "CA_Forensic_Document_Specialist",
+  "build_date": "2026-04-13",
+  "cross_references": [
+    {
+      "ref_id": "XREF-720-001",
+      "target_citizen": "CA_Forensic_Document_Specialist",
+      "target_standard": "evid_1400_authentication_definition",
+      "path": "${citizens}/CA_Forensic_Document_Specialist/standards/evid_1400_authentication_definition/",
+      "relationship": "concurrent",
+      "note": "Authentication (§1401) and expert qualification (§720) are independent requirements. A document can be authenticated without an expert; an expert can be qualified without authenticating the document. For court-ordered evaluation forms (MC-350), both must be satisfied: authentication of the court-ordered status AND expert qualification for that specific type of evaluation."
+    },
+    {
+      "ref_id": "XREF-720-002",
+      "target_citizen": "CA_Forensic_Document_Specialist",
+      "target_standard": "evid_1402_altered_writing_burden",
+      "path": "${citizens}/CA_Forensic_Document_Specialist/standards/evid_1402_altered_writing_burden/",
+      "relationship": "concurrent",
+      "note": "If an expert opines on whether a document was altered, the expert's qualification under §720 for document examination must be established. The §1402 burden on the proponent to authenticate the altered document and the §720 burden to qualify the examiner are concurrent."
+    },
+    {
+      "ref_id": "XREF-720-003",
+      "target_citizen": "CA_Forensic_Document_Specialist",
+      "target_standard": "evid_1521_secondary_evidence_rule",
+      "path": "${citizens}/CA_Forensic_Document_Specialist/standards/evid_1521_secondary_evidence_rule/",
+      "relationship": "concurrent",
+      "note": "An expert opining on the contents of a missing original (e.g., missing OPD report) must be qualified under §720 for the subject of the opinion. §1521 governs admissibility of the secondary evidence the expert relies on; §720 governs whether the expert is qualified to interpret it."
+    },
+    {
+      "ref_id": "XREF-720-004",
+      "target_citizen": "CA_Criminal_Law_Specialist",
+      "target_standard": "pen_1368_competency_proceedings",
+      "path": "${citizens}/CA_Criminal_Law_Specialist/standards/pen_1368_competency_proceedings/",
+      "relationship": "application",
+      "note": "Dr. Wiita PC §1368 evaluation: psychologist's §720 qualification for a court-ordered §1368 competency evaluation requires demonstration of familiarity with §1368 procedures and Judicial Council Form MC-350. General psychology credentials do not automatically satisfy the subject-specificity requirement for court-authorized competency proceedings."
+    },
+    {
+      "ref_id": "XREF-720-005",
+      "target_citizen": "CA_Family_Law_Litigator",
+      "target_standard": "fam_3111_child_custody_evaluation",
+      "path": "${citizens}/CA_Family_Law_Litigator/standards/fam_3111_child_custody_evaluation/",
+      "relationship": "parallel",
+      "note": "FAM §3111 custody evaluations have their own qualification requirements. A §720 challenge to a custody evaluator's qualification follows the same framework: show subject mismatch between credentials and the specific evaluation type ordered."
+    }
+  ]
+}

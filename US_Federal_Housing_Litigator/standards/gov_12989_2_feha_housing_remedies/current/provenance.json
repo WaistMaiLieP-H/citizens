@@ -1,0 +1,40 @@
+{
+  "standard": "gov_12989_2_feha_housing_remedies",
+  "layer": "current",
+  "sources": [
+    {
+      "id": "gov_12989_1_live",
+      "type": "primary_statute",
+      "authority": "GOV § 12989.1",
+      "fetch_method": "VernenLegal MCP — mcp__claude_ai_VernenLegal__california_get_section",
+      "code": "GOV",
+      "section": "12989.1",
+      "fetch_date": "2026-04-13",
+      "verified": true
+    },
+    {
+      "id": "gov_12989_2_live",
+      "type": "primary_statute",
+      "authority": "GOV § 12989.2",
+      "fetch_method": "VernenLegal MCP — mcp__claude_ai_VernenLegal__california_get_section",
+      "code": "GOV",
+      "section": "12989.2",
+      "fetch_date": "2026-04-13",
+      "verified": true
+    },
+    {
+      "id": "burnett_chimney_sweep",
+      "type": "case_law",
+      "authority": "Burnett v. Chimney Sweep (2004) 123 Cal.App.4th 1057",
+      "fetch_method": "training_knowledge",
+      "verified": false,
+      "steward_verify_flag": true,
+      "note": "FEHA housing §12955 discrimination — marital status; damages under §12989.2 awarded; verify citation before citing in filings"
+    }
+  ],
+  "steward_verify_queue": [
+    "Burnett v. Chimney Sweep (2004) 123 Cal.App.4th 1057 — verify citation and damages holding"
+  ],
+  "built_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "built_at_utc": "2026-04-13T00:00:00Z"
+}

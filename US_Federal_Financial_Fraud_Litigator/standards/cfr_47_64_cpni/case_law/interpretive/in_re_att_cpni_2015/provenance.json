@@ -1,0 +1,13 @@
+{
+  "case_slug": "in_re_att_cpni_2015",
+  "citation": "In the Matter of AT&T Inc., FCC Consent Decree (April 8, 2015); $25 million CPNI settlement",
+  "agency": "Federal Communications Commission, Enforcement Bureau",
+  "year": 2015,
+  "category": "enforcement_action",
+  "type": "FCC consent decree / administrative settlement (not a court decision)",
+  "statute_violated": "47 U.S.C. §222 + 47 C.F.R. §64.2010 (CPNI authentication rules)",
+  "rule_established": "Carriers responsible for vendor agent CPNI violations; biographical authentication alone insufficient; carrier oversight duty; $25M enforcement demonstrates scale of CPNI obligation",
+  "significance_for_sim_swap": "AT&T on actual notice of authentication exploitation as early as 2015; subsequent SIM swap attack strengthens negligence argument (AT&T knew of vulnerability and had remediation obligations)",
+  "verbatim_capture_status": "PENDING",
+  "verification_note": "Verify exact FCC enforcement file number and consent decree citation; the $25M AT&T CPNI settlement (April 2015) is publicly documented but exact FCC citation requires primary source verification"
+}

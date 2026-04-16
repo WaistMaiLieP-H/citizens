@@ -1,0 +1,15 @@
+{
+  "standard_id": "USC_18_1028_IDENTITY_THEFT",
+  "primary_source": "18 U.S.C. §1028",
+  "enacted": "False Identification Crime Control Act of 1982, Pub. L. 97-398, 96 Stat. 2009 (Dec. 31, 1982)",
+  "current_version_source": "18 U.S.C. §1028 as amended by Identity Theft Assumption and Deterrence Act (ITADA), Pub. L. 105-318 (1998) and Identity Theft Penalty Enhancement Act (ITPEA), Pub. L. 108-275 (2004)",
+  "codification": "Title 18 (Crimes and Criminal Procedure), Part I (Crimes), Chapter 47 (Fraud and False Statements), §1028",
+  "companion_statute": "18 U.S.C. §1028A (Aggravated Identity Theft — 2-year mandatory consecutive sentence; already fully captured in usc_18_1028a_aggravated_id_theft standard)",
+  "key_operative_paragraph": "§1028(a)(7) — knowingly transfers, possesses, or uses, without lawful authority, a means of identification of another person with the intent to commit any unlawful activity constituting a federal violation or state felony",
+  "fetch_method": "WebFetch — uscode.house.gov official source",
+  "fetch_timestamp_utc": "2026-04-11T00:00:00Z",
+  "retrieval_steward": "Claude (assistant) under direction of Michael Hartmann",
+  "verbatim_capture_status": "PARTIAL — usc_18_1028_leginfo.txt contains verbatim text of §1028(a)(7); full §1028(a)(1)-(8) and §1028(b)-(d) requires verification at uscode.house.gov before filing",
+  "txt_sha256": "77cf705cbaf86206052c5ccb3819b4fb7616da50dded886f05d78ac538d7e5e0",
+  "build_date": "2026-04-11"
+}

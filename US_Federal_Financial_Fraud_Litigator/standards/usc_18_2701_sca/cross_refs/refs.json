@@ -1,0 +1,33 @@
+{
+  "standard_id": "USC_18_2701_SCA",
+  "cross_references": [
+    {
+      "ref_id": "USC_18_2511_WIRETAP",
+      "short_title": "18 U.S.C. §2511 — Federal Wiretap Act / ECPA Title I",
+      "relationship": "complementary_ecpa_title",
+      "description": "Wiretap Act covers real-time interception in transit; SCA covers stored communications at rest. Both are needed for complete SIM swap coverage: active call routing = §2511; stored voicemail/email/account access = §2701. The claims are additive — $10,000/event (Wiretap) + $1,000/event (SCA). Both are ECPA titles and operate within the same statutory framework.",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_18_2511_wiretap"
+    },
+    {
+      "ref_id": "USC_18_1030_CFAA",
+      "short_title": "18 U.S.C. §1030 — Computer Fraud and Abuse Act",
+      "relationship": "complementary",
+      "description": "CFAA (§1030) and SCA (§2701) both cover unauthorized computer/system access, but with different focuses. §1030 requires $5,000+ aggregate loss threshold for civil action and covers unauthorized access to computers generally (email servers, financial account systems, SSA portal). §2701 specifically covers stored communications and has a $1,000 minimum with no minimum loss threshold. For email account takeover: both §1030 and §2701 claims are pled. SCA may be easier to establish (no $5,000 threshold); CFAA provides broader computer access coverage.",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_18_1030_cfaa"
+    },
+    {
+      "ref_id": "PEN_630_CIPA",
+      "short_title": "Cal. Penal Code §§630-638 — California Invasion of Privacy Act",
+      "relationship": "state_parallel",
+      "description": "CIPA is the California state parallel covering both real-time interception (§631/§632.7) and — arguably — stored communications accessed through interception-enabled account access. For SIM swap, CIPA adds $5,000/violation state remedy on top of federal remedies. The CIPA/SCA relationship: CIPA covers interception; the account access that follows falls to SCA federally. The full stack: §2511 + §2701 + CIPA §632.7 + CFAA §1030.",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/pen_630_cipa"
+    },
+    {
+      "ref_id": "USC_5_552A_PRIVACY_ACT",
+      "short_title": "5 U.S.C. §552a — Privacy Act of 1974",
+      "relationship": "related_agency_records",
+      "description": "Privacy Act governs federal agency records (SSA, DDS as SSA contractor). SCA governs stored electronic communications. Where SSA/DDS communicated with Michael about his disability claims electronically and those communications were accessed by attackers via account takeover, both the Privacy Act (agency record violation) and SCA (stored communications access) may apply. Different defendants: Privacy Act against SSA/DDS; SCA against McClaran and co-conspirators.",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_5_552a_privacy_act"
+    }
+  ]
+}

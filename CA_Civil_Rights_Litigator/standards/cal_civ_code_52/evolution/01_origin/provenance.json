@@ -1,0 +1,12 @@
+{
+  "stage": "01_origin",
+  "bill": "Enacted alongside §51 (Unruh Civil Rights Act, 1959) and expanded alongside §51.7 (Ralph Act, 1976)",
+  "stats_chapter": "Stats. 1959 (original), Stats. 1976 (Ralph Act remedies)",
+  "effective": "1959/1976",
+  "source": "leginfo.legislature.ca.gov",
+  "retrieval_method": "knowledge_base",
+  "retrieval_date": "2026-04-10",
+  "retrieval_steward": "Claude Opus 4.6 (1M context)",
+  "primary_source_verified": false,
+  "notes": "Remedies provision for CA civil rights statutes. $4,000 minimum + treble damages (Unruh), $25,000 penalty + exemplary damages (Ralph)."
+}

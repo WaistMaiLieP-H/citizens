@@ -1,0 +1,30 @@
+{
+  "standard_id": "usc_18_1030_cfaa",
+  "description": "Cross-references for 18 U.S.C. § 1030 CFAA",
+  "cross_references": [
+    {
+      "ref_id": "CAL_PEN_502",
+      "title": "California Penal Code § 502",
+      "relationship": "State parallel. CFAA provides federal jurisdiction; § 502 provides California state jurisdiction and a private right of action. Both can be pursued simultaneously for the same unauthorized access.",
+      "location": "~/citizens/CA_Telecom_Privacy_Litigator/standards/cal_pen_502_computer_fraud/"
+    },
+    {
+      "ref_id": "USC_18_1343_WIRE_FRAUD",
+      "title": "18 U.S.C. § 1343 — Wire Fraud",
+      "relationship": "SIM swap fraud typically involves wire communications (phone networks). The CFAA violations establish the unauthorized access; § 1343 wire fraud covers the fraudulent scheme that the access was in furtherance of. Wire fraud is a RICO predicate; CFAA alone is not.",
+      "location": "~/citizens/US_Federal_Financial_Fraud_Litigator/standards/"
+    },
+    {
+      "ref_id": "USC_47_222_CPNI",
+      "title": "47 U.S.C. § 222 — CPNI",
+      "relationship": "The CFAA violation (unauthorized computer access) is enabled by the § 222 violation (carrier's failure to authenticate before SIM change). Sequential: § 222 breach → carrier grants unauthorized access → CFAA unauthorized access occurs.",
+      "location": "~/citizens/CA_Telecom_Privacy_Litigator/standards/usc_47_222_cpni/"
+    },
+    {
+      "ref_id": "VAN_BUREN_2021",
+      "title": "Van Buren v. United States (2021) 593 U.S. 374",
+      "relationship": "SCOTUS decision narrowing CFAA 'exceeds authorized access' to mean accessing areas one lacks permission to access (not violating use restrictions). Does not affect pure unauthorized-access cases like SIM swap attacks.",
+      "location": "~/citizens/CA_Telecom_Privacy_Litigator/standards/usc_18_1030_cfaa/case_law/interpretive/van_buren_v_us_2021/"
+    }
+  ]
+}

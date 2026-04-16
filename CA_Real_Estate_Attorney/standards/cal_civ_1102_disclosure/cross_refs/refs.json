@@ -1,0 +1,21 @@
+{
+  "standard": "cal_civ_1102_disclosure",
+  "refs": [
+    {"type": "statutory_companion", "target": "Civ. Code §§ 1102.2 through 1102.19 (Article 1.5)", "relationship": "Complete TDS framework — exemptions, timing, form, liability, specific disclosure categories"},
+    {"type": "statutory_companion", "target": "Civ. Code § 1102.6 (TDS form)", "relationship": "Mandatory form for the Transfer Disclosure Statement; includes Sections I, II, III"},
+    {"type": "fraud_parallel", "target": "Civ. Code § 1572 (actual fraud)", "relationship": "§ 1572(3) suppression fraud overlaps with § 1102.4 strict liability for omissions; both should be pleaded", "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_civ_1572_fraud"},
+    {"type": "tort_parallel", "target": "Civ. Code §§ 1709-1710 (deceit)", "relationship": "Common-law deceit tort; independent cause of action", "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_civ_1709_1710_deceit"},
+    {"type": "damages_measure", "target": "Civ. Code § 3343 (real property fraud damages)", "relationship": "Out-of-pocket damages measure for real property fraud claims including TDS violations", "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_civ_3343_real_property_damages"},
+    {"type": "punitive_damages", "target": "Civ. Code § 3294", "relationship": "Punitive damages available when TDS violation is fraudulent under § 3294(c)(3)", "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_civ_3294_punitive"},
+    {"type": "community_property", "target": "Fam. Code § 1102 (community real property)", "relationship": "Community real property requires both spouses' written consent; interacts with TDS disclosure obligations", "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_fam_1102_community_real_property"},
+    {"type": "broker_duty", "target": "Bus. & Prof. Code § 10176", "relationship": "Broker/agent disclosure duties; Section III of TDS is completed by the agent", "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_bp_10176_broker_duty"},
+    {"type": "rescission", "target": "Civ. Code §§ 1567, 1688-1689 (rescission)", "relationship": "A fraudulent TDS vitiates consent and supports rescission"}
+  ],
+  "cases_to_add": [
+    "Calemine v. Samuelson (2009) 171 Cal.App.4th 153 — TDS scope and liability",
+    "Assilzadeh v. California Federal Bank (2000) 82 Cal.App.4th 399 — TDS liability",
+    "Robinson v. Grossman (1997) 57 Cal.App.4th 634 — TDS and broker duties",
+    "Shapiro v. Sutherland (1998) 64 Cal.App.4th 1534 — TDS scope"
+  ],
+  "generated_at_utc": "2026-04-11T05:00:00Z"
+}

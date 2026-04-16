@@ -1,0 +1,18 @@
+{
+  "citizen": "CA_Probate_Conservatorship_Litigator",
+  "standard_id": "prob_1801_conservatorship_basis",
+  "citation": "Cal. Prob. Code § 1801",
+  "popular_name": "Basis for Appointment of Conservator",
+  "jurisdiction": "California",
+  "code": "PROB",
+  "section": "1801",
+  "build_state": "PUBLISHED",
+  "verified": true,
+  "fetch_method": "mcp__claude_ai_VernenLegal__california_get_section",
+  "fetch_date": "2026-04-13",
+  "html_sha256": "28fa24e376315a56b5edddd9df24c1bb2068a19e8516ef38b6fcef94caaae8a8",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1801.&lawCode=PROB",
+  "build_date": "2026-04-13",
+  "steward": "Michael Hartmann",
+  "witness": "ADAM+EVE"
+}

@@ -1,0 +1,8 @@
+{
+  "stage": "02_amendment_1988_treble_damages",
+  "source": "Stats. 1988 (chapter number requires primary-source verification) — amendment adding §11711(b) treble damages and §11711(c) mandatory attorneys' fees",
+  "wound_addressed": "Actual-damages-only recovery was insufficient deterrent for systematic dealer fraud; small-value claims were economically unviable without fee-shifting",
+  "design": "Treble damages (discretionary, up to 3×) + mandatory attorneys' fees (prevailing plaintiff) + preserved §3294 punitive avenue",
+  "verbatim_capture_status": "PENDING — session law chapter number requires primary-source verification",
+  "build_date": "2026-04-11"
+}

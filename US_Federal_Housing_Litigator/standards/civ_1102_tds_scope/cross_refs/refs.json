@@ -1,0 +1,30 @@
+{
+  "standard": "civ_1102_tds_scope",
+  "citizen": "US_Federal_Housing_Litigator",
+  "refs": [
+    {
+      "id": "gov_12955_feha_housing_discrimination",
+      "path": "${citizens}/US_Federal_Housing_Litigator/standards/gov_12955_feha_housing_discrimination",
+      "relationship": "concurrent",
+      "note": "§12955 housing discrimination (disability, source of income, financial institution discrimination) may underlie the TDS failure — the same transaction that violates §1102 may also violate §12955 if discrimination motivated the non-disclosure"
+    },
+    {
+      "id": "evid_1402_altered_writing_burden",
+      "path": "${citizens}/CA_Forensic_Document_Specialist/standards/evid_1402_altered_writing_burden",
+      "relationship": "prerequisite",
+      "note": "CA_Forensic_Document_Specialist authenticates the 19 unsigned documents; authentication must precede the §1102 claim that relies on the unsigned status of those documents"
+    },
+    {
+      "id": "WIC_15657",
+      "path": "${citizens}/CA_Elder_Law_Litigator/standards/WIC_15657",
+      "relationship": "parallel",
+      "note": "If the TDS failure was part of a scheme to financially abuse a dependent adult, WIC §15657 elder financial abuse claim runs parallel — enhanced remedies (treble damages + attorney fees + no cap)"
+    },
+    {
+      "id": "fha_3604_prohibited_acts",
+      "path": "${citizens}/US_Federal_Housing_Litigator/standards/fha_3604_prohibited_acts",
+      "relationship": "parallel",
+      "note": "If TDS failure was connected to disability discrimination or racial targeting of the transaction, 42 USC §3604 federal FHA claim is the parallel federal track"
+    }
+  ]
+}

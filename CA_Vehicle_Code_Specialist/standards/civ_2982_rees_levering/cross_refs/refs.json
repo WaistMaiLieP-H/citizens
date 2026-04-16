@@ -1,0 +1,35 @@
+{
+  "standard_id": "civ_2982_rees_levering",
+  "cross_references": [
+    {
+      "target_citizen": "CA_Consumer_Protection_Litigator",
+      "target_standard": "civ_2981_rees_levering (primary home)",
+      "relationship": "primary_home_coordination",
+      "note": "Rees-Levering primary home is CA_Consumer_Protection_Litigator per existing tether coordination. This standard is the vehicle-side reference copy. Pleadings drafted in Consumer_Protection; pattern-of-conduct analysis here."
+    },
+    {
+      "target_citizen": "CA_Vehicle_Code_Specialist",
+      "target_standard": "veh_11713_dealer_prohibited_acts",
+      "relationship": "stackable_with_civil_penalty",
+      "note": "§11713(k) (no-downpayment misrepresentation) and §11713(a) (untrue advertising) stack with Rees-Levering §2982 disclosure violations when the deceptive advertising induced the contract."
+    },
+    {
+      "target_citizen": "CA_Vehicle_Code_Specialist",
+      "target_standard": "civ_1793_2_song_beverly_lemon_law",
+      "relationship": "parallel_independent_claims",
+      "note": "Rees-Levering (financing) and Song-Beverly (warranty) are parallel; both may apply to the same transaction. Pleads stack."
+    },
+    {
+      "target_citizen": "CA_Consumer_Protection_Litigator",
+      "target_standard": "federal_tila_1638",
+      "relationship": "federal_parallel",
+      "note": "15 USC §1638 / Reg Z 12 CFR 1026 disclosure obligations run parallel to §2982. Federal remedies limited; state remedies (rescission + fees) stronger."
+    },
+    {
+      "target_citizen": "CA_Vehicle_Code_Specialist",
+      "target_standard": "bpc_9880_automotive_repair_act",
+      "relationship": "fact_pattern_intersection",
+      "note": "Spot-delivery dealers frequently combine yo-yo with repair-fraud. BPC §9884.9 missing estimates corroborate missing §2982 disclosures."
+    }
+  ]
+}

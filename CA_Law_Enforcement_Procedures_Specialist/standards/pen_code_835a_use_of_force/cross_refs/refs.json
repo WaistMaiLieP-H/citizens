@@ -1,0 +1,35 @@
+{
+  "standard_id": "CA_PEN_835A",
+  "cross_references": [
+    {
+      "target": "CA_PEN_836",
+      "relationship": "Section 835a governs the force used during an arrest; section 836 governs the authority to make the arrest in the first place. Force analysis presupposes arrest authority.",
+      "target_citizen": "CA_Law_Enforcement_Procedures_Specialist"
+    },
+    {
+      "target": "CA_PEN_13701",
+      "relationship": "DV response under section 13701 may require arrest of the dominant aggressor; any force used during that arrest is governed by section 835a.",
+      "target_citizen": "CA_Law_Enforcement_Procedures_Specialist"
+    },
+    {
+      "target": "SB_230_STATS_2019_CH_285",
+      "relationship": "Companion bill requiring every agency to adopt a use-of-force policy consistent with section 835a by January 1, 2021.",
+      "target_citizen": "CA_Law_Enforcement_Procedures_Specialist"
+    },
+    {
+      "target": "GRAHAM_V_CONNOR_490_US_386_1989",
+      "relationship": "Federal 'objective reasonableness' standard for Fourth Amendment excessive force claims. Section 835a intentionally exceeds Graham by requiring necessity, not just reasonableness.",
+      "target_citizen": "US_Federal_Civil_Rights_Litigator"
+    },
+    {
+      "target": "42_USC_1983",
+      "relationship": "Excessive force by state officers is actionable under section 1983 as a Fourth Amendment violation. California's section 835a provides a higher standard that may inform the reasonableness analysis in federal claims.",
+      "target_citizen": "US_Federal_Civil_Rights_Litigator"
+    },
+    {
+      "target": "CA_CIV_CODE_52_1",
+      "relationship": "Bane Act — use of force that interferes with constitutional rights through threats, intimidation, or coercion is actionable under the Bane Act as a state civil rights claim.",
+      "target_citizen": "CA_Civil_Rights_Litigator"
+    }
+  ]
+}

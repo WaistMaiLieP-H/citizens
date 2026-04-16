@@ -1,0 +1,59 @@
+{
+  "standard_id": "CIV_2981_REES_LEVERING",
+  "citizen": "CA_Consumer_Protection_Litigator",
+  "version": "0.1.0-proposed",
+  "filed_at_utc": "2026-04-10T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "PROPOSED",
+  "build_method": "Logical Delta (LOGIC.md at each evolution stage)",
+  "primary_citation": {
+    "code": "Civ",
+    "sections": "2981-2984.4",
+    "popular_name": "Rees-Levering Motor Vehicle Sales and Finance Act",
+    "jurisdiction": "California",
+    "original_enactment": "Stats. 1961, Ch. 1626 (AB 2921, Rees/Levering)",
+    "effective": "1961-09-15",
+    "critical_amendment": "Stats. 1976, Ch. 1006 — single-document rule (§2981.9)"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current/LOGIC.md documents four structural commands (single-document rule, mandatory disclosures, yo-yo prohibition, forfeiture)",
+    "reasoning": "PRESENT — LOGIC.md at each evolution stage documents the 1959-1960 wound (packing/bumping/yo-yo/scattered documents) and the 1976 sharpening (single-document rule)",
+    "historical_loss": "PRESENT — historical_chain.md documents the pre-1961 economic-inviability-of-consumer-claims wound, the 1961 promise, and the 1976 sharpening",
+    "cross_references": "PRESENT — refs.json links to CLRA, UCL, Song-Beverly, Rosenthal, common-law deceit, FCRA; incorporates FTC Holder Rule",
+    "verifiable_provenance": "PARTIAL — provenance.json files; primary-source session-law capture PENDING"
+  },
+  "evolution_chain": [
+    {"stage": "01_origin_1961", "folder": "evolution/01_origin_1961/", "status": "LOGIC_BUILT"},
+    {"stage": "02_single_document_rule_1976", "folder": "evolution/02_single_document_rule_1976/", "status": "LOGIC_BUILT"},
+    {"stage": "03_current", "folder": "evolution/03_current/", "status": "POINTS_TO_CURRENT"}
+  ],
+  "case_law": {
+    "uphold": [],
+    "strike": [],
+    "interpretive": [
+      {"slug": "thompson_v_10000_rv_sales", "cite": "130 Cal.App.4th 950 (2005)", "rule": "Strict compliance; automatic forfeiture upon proof of violation", "files": ["holding.md", "provenance.json", "statute_version_cited.md"], "status": "BUILT"},
+      {"slug": "nelson_v_pearson_ford", "cite": "186 Cal.App.4th 983 (2010)", "rule": "Yo-yo financing is a multi-document violation; FTC Holder Rule makes assignees liable", "files": ["holding.md", "provenance.json", "statute_version_cited.md"], "status": "BUILT"},
+      {"slug": "rojas_v_platinum_auto_group", "cite": "212 Cal.App.4th 997 (2013)", "rule": "E-signature transactions still subject to single-document rule", "files": ["holding.md", "provenance.json", "statute_version_cited.md"], "status": "BUILT"}
+    ]
+  },
+  "cross_refs_path": "cross_refs/refs.json",
+  "historical_chain_path": "historical_chain.md",
+  "operational_notes_for_steward_cases": {
+    "primary_bindings": [
+      "${nonfamilylaw}/RedJag",
+      "${nonfamilylaw}/BlueJag",
+      "${nonfamilylaw}/WhiteJag",
+      "${nonfamilylaw}/KiaSoul"
+    ],
+    "first_analysis_step": "For each of the four auto fraud cases, inventory every signed document in the sale file. If more than one signed document covers a single transaction, §2981.9 single-document rule is violated; forfeiture under §2983 attaches automatically.",
+    "damages_model": "Forfeiture of finance charge (§2983) + CLRA damages (§1780) + UCL restitution (§17203) + §2983.4 attorney fees + common-law punitive damages (§3294) if fraud proven.",
+    "assignee_liability": "If the dealer assigned the installment contract to a finance company, the finance company is also liable under the FTC Holder Rule per Nelson."
+  },
+  "outstanding_work": [
+    "Primary-source session-law capture of 1961 and 1976 enactments",
+    "Primary-source opinion text for Thompson, Nelson, Rojas",
+    "Add additional case law: Morning Star v. Board of Equalization; Rosenthal v. Great Western Financial",
+    "Second-mouth witness review"
+  ],
+  "witness_status": "AWAITING_STEWARD_WITNESS"
+}

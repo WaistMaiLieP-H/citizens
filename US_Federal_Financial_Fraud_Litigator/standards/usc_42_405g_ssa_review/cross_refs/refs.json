@@ -1,0 +1,53 @@
+{
+  "standard_id": "USC_42_405G_SSA_REVIEW",
+  "cross_references": [
+    {
+      "ref_id": "XREF-405G-001",
+      "target_standard": "USC_5_552A_PRIVACY_ACT",
+      "target_citizen": "US_Federal_Financial_Fraud_Litigator",
+      "target_path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_5_552a_privacy_act",
+      "relationship": "parallel_enforcement",
+      "description": "Phantom SSA contact records (9/18/2019, 3/23/2020, 12/17/2020) = false records maintained by federal agency on individual. Privacy Act §552a(e)(5) requires agencies to maintain records with accuracy, relevance, timeliness, completeness. §552a(g)(1)(C) civil remedy for inaccurate records that cause adverse determination. The same phantom contacts that trigger Bowen equitable tolling also trigger Privacy Act false-record civil liability.",
+      "pleading_note": "Both claims arise from the same phantom contact records; plead §405(g) equitable tolling + Privacy Act §552a inaccurate-records theory simultaneously"
+    },
+    {
+      "ref_id": "XREF-405G-002",
+      "target_standard": "USC_18_1030_CFAA",
+      "target_citizen": "US_Federal_Financial_Fraud_Litigator",
+      "target_path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_18_1030_cfaa",
+      "relationship": "companion_claim",
+      "description": "Unauthorized access to SSA disability portal through intercepted SIM = CFAA §1030(a)(2) unauthorized access to protected computer containing financial records. SIM swap enabling access to SSA account = exceeding authorized access. CFAA actual damages from fraudulent portal activity funds the $5,000 threshold. The SSA portal access logs are the same evidence supporting both the phantom contact records and the CFAA unauthorized access theory.",
+      "pleading_note": "CFAA civil claim ($5,000 threshold) is companion to SSA administrative fraud; portal access logs are shared evidence"
+    },
+    {
+      "ref_id": "XREF-405G-003",
+      "target_standard": "USC_42_1983_CIVIL_RIGHTS",
+      "target_citizen": "US_Federal_Financial_Fraud_Litigator",
+      "target_path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_42_1983_civil_rights",
+      "relationship": "parallel_enforcement",
+      "description": "SSA/DDS systematic disability denial through fraudulent process = deprivation of property interest (disability benefits) without due process in violation of 14th Amendment, actionable under 42 U.S.C. §1983 if state DDS actors involved. Mathews v. Eldridge framework establishes that disability benefits are a protected property interest. If state Disability Determination Services (DDS) employees participated in generating phantom contacts, §1983 reaches the state actors. Federal actors subject to Bivens theory.",
+      "pleading_note": "DDS is a state agency — §1983 reaches state DDS actors; SSA federal employees subject to Bivens; coordinate with CA_Family_Law_Litigator §1983 standard which covers the parallel family law deprivations"
+    },
+    {
+      "ref_id": "XREF-405G-004",
+      "target_standard": "USC_18_2511_WIRETAP",
+      "target_citizen": "US_Federal_Financial_Fraud_Litigator",
+      "target_path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_18_2511_wiretap",
+      "relationship": "enabling_conduct",
+      "description": "SIM swap interception (§2511) was the mechanism that enabled unauthorized access to SSA disability portal and the generation or manipulation of phantom contact records. The wiretap violation is the predicate act enabling the SSA administrative fraud. §2511 $10,000/event damages for each intercepted call to SSA. The intercepted SSA communications constitute separate §2511 violations from the general SIM swap interceptions. Phantom contact dates (9/18/2019, 3/23/2020, 12/17/2020) mark potential §2511 violation events.",
+      "pleading_note": "Each intercepted call to SSA = separate §2511 violation at $10,000 minimum; phantom contact dates are potential violation event anchors"
+    },
+    {
+      "ref_id": "XREF-405G-005",
+      "target_standard": "PEN_630_CIPA",
+      "target_citizen": "CA_Consumer_Protection_Litigator",
+      "target_path": "${citizens}/CA_Consumer_Protection_Litigator/standards/pen_630_cipa",
+      "relationship": "parallel_state_claim",
+      "description": "Intercepted SSA calls constitute California CIPA §632.7 violations (cellular to landline) and §631 violations (wiretapping). CIPA provides $5,000/violation civil remedy independent of federal §2511. Kearney extraterritoriality means CIPA applies to California resident regardless of where interceptor operated. SSA calls intercepted during SIM swap = $5,000/event CIPA + $10,000/event §2511 = $15,000 minimum per intercepted SSA contact.",
+      "pleading_note": "Each intercepted SSA call adds California CIPA layer on top of federal §2511; $15,000+ per event"
+    }
+  ],
+  "total_cross_references": 5,
+  "build_date": "2026-04-11",
+  "built_by": "Terminal A"
+}

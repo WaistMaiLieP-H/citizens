@@ -1,0 +1,84 @@
+REPEATED NEGLIGENT ACTS STANDARD UNDER BUSINESS & PROFESSIONS CODE § 2234(c)
+(Medical Board of California Disciplinary Standards — Case Law Interpretive)
+
+NOTE: This folder documents the California Medical Board's disciplinary standard for "repeated negligent acts" under Business & Professions Code § 2234(c) through the relevant case law and OAH decisions.
+
+---
+
+BUSINESS & PROFESSIONS CODE § 2234(c) — REPEATED NEGLIGENT ACTS:
+
+Section 2234 provides for disciplinary action for:
+"(c) Repeated negligent acts. To be repeated, there must be two or more negligent acts or omissions."
+
+STATUTORY ELEMENTS:
+1. NEGLIGENT ACT: Each individual act must constitute negligence — a departure from the standard of care that a physician of similar training and specialty would have met under the same circumstances.
+2. REPEATED: There must be at least two separate negligent acts or omissions. The two acts need not be related to the same patient, the same diagnosis, or the same treatment modality.
+3. EACH ACT: Unlike gross negligence (§ 2234(b), one egregious act), the repeated negligence ground requires a pattern — at least two acts, each individually negligent.
+
+---
+
+KEY DISTINCTIONS FROM GROSS NEGLIGENCE (§ 2234(b)):
+
+| § 2234(b) — Gross Negligence | § 2234(c) — Repeated Negligent Acts |
+|------------------------------|--------------------------------------|
+| Single incident sufficient    | Minimum two separate acts required   |
+| Must be extreme departure     | Each act must be negligent (lower bar)|
+| Pattern not required          | Pattern is the essence of the charge |
+| One catastrophic failure      | Systematic substandard practice      |
+
+---
+
+PATTERN EVIDENCE IN § 2234(c) CASES:
+
+The Medical Board and OAH have found § 2234(c) violations based on:
+- Two or more patients receiving substandard care in the same specialty area;
+- Repeated failures to document required medical findings;
+- A pattern of inappropriate prescribing across multiple patients;
+- Multiple failures to obtain informed consent before procedures;
+- Repeated failures to refer to specialists when warranted.
+
+THE TWO-ACT MINIMUM IS A FLOOR, NOT A CEILING:
+The more negligent acts documented, the stronger the § 2234(c) case. A pattern of multiple negligent acts across multiple patients also supports the case for enhanced penalties, license suspension, or revocation rather than a reprimand or probation.
+
+---
+
+THE STANDARD OF CARE — EXPERT TESTIMONY:
+
+For both § 2234(b) and § 2234(c) cases, the Medical Board must establish the standard of care through expert testimony. The expert must:
+1. Be qualified in the relevant specialty (or a closely related one);
+2. Articulate what a reasonable physician in that specialty would have done;
+3. Identify specifically how the respondent's conduct departed from that standard.
+
+The respondent physician may offer expert testimony that the conduct met or exceeded the standard of care.
+
+---
+
+APPLICATION TO REPEATED PRESCRIBING FRAUD:
+
+For a physician who repeatedly:
+- Prescribed controlled substances to patients without adequate examination;
+- Failed to monitor patients on long-term controlled substance therapy;
+- Provided prescriptions at the direction of a third party without independent medical judgment;
+
+Each failure is a separate negligent act. Three or more such failures across two or more patients constitutes the pattern required for § 2234(c).
+
+APPLICATION TO SURGICAL COMPLICATIONS: A surgeon who repeatedly fails to obtain informed consent before procedures, or repeatedly fails to document informed consent, commits a separate negligent act each time. Two or more incidents establishes the § 2234(c) pattern.
+
+---
+
+RELATION TO CIVIL LIABILITY:
+
+Medical Board § 2234(c) findings do not directly establish civil malpractice liability (different evidentiary standards, different triers of fact), but:
+1. Board findings are admissible in civil proceedings as party admissions or relevant evidence;
+2. The Board's expert testimony establishing the standard of care can be used or referenced in civil cases;
+3. A pattern of § 2234(c) violations across multiple patients may support a punitive damages theory in a civil case involving the same physician (Civil Code § 3294 — oppression, malice, or fraud).
+
+---
+
+SOURCE PROVENANCE:
+Authority: Bus. & Prof. Code § 2234(c); California OAH decisions; California Court of Appeal reviewing Medical Board actions.
+Source of this text: Claude training data (knowledge cutoff August 2025). Specific Medical Board repeated negligence decisions should be verified at:
+  - California Medical Board: mbc.ca.gov
+  - California OAH: oah.ca.gov
+  - Courts: "repeated negligent acts 2234" in California courts
+Verification status: PROPOSED — pending steward witness review

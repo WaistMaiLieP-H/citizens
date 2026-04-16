@@ -1,0 +1,95 @@
+{
+  "standard_id": "CCP_1021_5",
+  "version": "0.3.0-published",
+  "filed_at_utc": "2026-04-09T03:40:00Z",
+  "filed_by": "Claude (assistant) under steward direction -- Michael Hartmann, Vernen Legal Compliance",
+  "status": "PUBLISHED \u2014 ADAM + EVE DUAL WITNESS \u2014 2026-04-12",
+  "primary_citation": {
+    "code": "Code of Civil Procedure",
+    "section": "1021.5",
+    "popular_name": "Private Attorney General",
+    "jurisdiction": "California",
+    "original_enactment": "Stats. 1977, Ch. 1197 (S.B. 947)",
+    "effective_date": "1978-01-01",
+    "last_amendment": "Multiple amendments; current text reflects all through 2026",
+    "source_credits": "(Added by Stats. 1977, Ch. 1197, Sec. 2.)"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT -- verbatim text captured from leginfo.legislature.ca.gov via VernenLegal MCP tool",
+    "reasoning": "PRESENT -- origin context documents the wound (American Rule made public-interest litigation economically unviable) and the promise (fee-shifting for successful enforcement of important public rights)",
+    "historical_loss": "PRESENT -- historical chain documents the structural disincentive to bring public-interest cases and the legislative response codifying the private attorney general doctrine",
+    "cross_references": "PRESENT -- cross_refs/refs.json links to 42 USC 1988 (federal counterpart), CCP 526a (taxpayer companion), Cal. Civ. Code 52.1 (Bane Act complement)",
+    "verifiable_provenance": "PRESENT -- current text hashed (SHA-256) and sourced from leginfo.legislature.ca.gov with fetch timestamp"
+  },
+  "evolution_chain": [
+    {
+      "stage": "01_origin",
+      "date": "1977",
+      "description": "Codification of the private attorney general doctrine -- Stats. 1977, Ch. 1197",
+      "folder": "evolution/01_origin/"
+    },
+    {
+      "stage": "02_current",
+      "date": "current",
+      "description": "Current text with all amendments through 2026, including public-entity limitations and Serrano multiplier restriction",
+      "folder": "evolution/02_current/"
+    }
+  ],
+  "case_law_documented": [
+    {
+      "case": "Serrano v. Priest (1977) 20 Cal.3d 25",
+      "folder": "case_law/interpretive/serrano_v_priest_1977/",
+      "summary": "Foundation case: private attorney general doctrine and lodestar/multiplier fee calculation"
+    },
+    {
+      "case": "Woodland Hills Residents Assn. v. City Council (1979) 23 Cal.3d 917",
+      "folder": "case_law/interpretive/woodland_hills_v_city_council_1979/",
+      "summary": "Three-factor test: important public right, significant public benefit, financial burden justifies award"
+    },
+    {
+      "case": "Graham v. DaimlerChrysler Corp. (2004) 34 Cal.4th 553",
+      "folder": "case_law/interpretive/graham_v_daimlerchrysler_2004/",
+      "summary": "Catalyst theory: success without judgment; California rejects federal Buckhannon rule"
+    }
+  ],
+  "hashes": {
+    "current_text_sha256": "eeb6240c3b5f523b2a86a90d099bc191be89a5ad9018728cedb0751522157282"
+  },
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction (Michael Hartmann), 2026-04-09",
+    "herald_witness": {
+      "witness": "HERALD (Steward successor \u2014 designated 2026-04-12)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "verification_scope": "Structure, five-layer bar completeness.",
+      "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12."
+    },
+    "adam_witness": {
+      "witness": "ADAM (Seed Citizen \u2014 Builder role)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "triple_constraint": "PASS/PASS/PASS",
+      "actions_taken": "Cross_refs updated to reflect current corpus state. Five-layer structure verified. Historical chain reviewed.",
+      "content_hash_verified": "eeb6240c3b5f523b2a86a90d099bc191be89a5ad9018728cedb0751522157282",
+      "signal": "APPROVE"
+    },
+    "eve_witness": {
+      "witness": "EVE (Seed Citizen \u2014 Witness role)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "five_layer_verification": "PASS/PASS/PASS/PASS/PASS",
+      "triple_constraint": "PASS/PASS/PASS",
+      "hash_independently_recomputed": "eeb6240c3b5f523b2a86a90d099bc191be89a5ad9018728cedb0751522157282 \u2014 CONFIRMED MATCHING",
+      "signal": "COUNTERSIGN"
+    },
+    "publishable_to_corpus": true,
+    "status": "PUBLISHED \u2014 ADAM + EVE DUAL WITNESS"
+  },
+  "outstanding_work": [
+    "Trace full amendment history from 1977 to current",
+    "Obtain second-mouth countersignature"
+  ],
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

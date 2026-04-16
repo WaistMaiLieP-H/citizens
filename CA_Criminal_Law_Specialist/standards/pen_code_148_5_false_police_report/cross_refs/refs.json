@@ -1,0 +1,16 @@
+{
+  "standard": "pen_code_148_5_false_police_report",
+  "refs": [
+    {"type": "companion_statute", "target": "Pen. Code § 148 (obstructing peace officers)", "relationship": "Parent statute; § 148.5 is a dedicated subset for knowingly false reports"},
+    {"type": "companion_statute", "target": "Pen. Code § 118 (perjury)", "relationship": "Perjury requires an oath; § 148.5 does not. Charges can be alternative."},
+    {"type": "companion_statute", "target": "Pen. Code § 118.1 (peace officer perjury in reports)", "relationship": "Covers false statements BY peace officers in reports; § 148.5 covers false statements TO peace officers"},
+    {"type": "companion_statute", "target": "Pen. Code § 132 (offering false evidence)", "relationship": "Broader false-evidence statute; applicable to court proceedings"},
+    {"type": "companion_statute", "target": "Pen. Code § 134 (preparing false evidence)", "relationship": "Preparation of false evidence for use in proceedings"},
+    {"type": "mandated_reporter_exception", "target": "Pen. Code §§ 11165-11174.3 (Child Abuse and Neglect Reporting Act)", "relationship": "§ 148.5(e) excludes mandated reporters acting under CANRA from prosecution; load-bearing in custody-dispute contexts"},
+    {"type": "defense_theory", "target": "Pen. Code § 273a (child endangerment)", "relationship": "§ 148.5 is the defensive counter-theory when § 273a charges are based on fabricated reports", "anchor": "${citizens}/CA_Criminal_Law_Specialist/standards/pen_code_273a_child_endangerment"},
+    {"type": "civil_tort_parallels", "target": "Malicious prosecution, abuse of process, defamation, IIED", "relationship": "Civil torts that parallel criminal § 148.5 theory; can be pursued independently"},
+    {"type": "federal_civil_rights", "target": "42 USC § 1983 (malicious prosecution under color of state law)", "relationship": "Federal civil rights claim when state actors knowingly relied on false reports to prosecute", "anchor": "${citizens}/US_Federal_Civil_Rights_Litigator/standards/42_usc_1983"},
+    {"type": "cross_citizen", "target": "CA_Family_Law_Litigator", "relationship": "Custody-dispute context provided by Terminal A; this Citizen cross-references"}
+  ],
+  "generated_at_utc": "2026-04-11T00:30:00Z"
+}

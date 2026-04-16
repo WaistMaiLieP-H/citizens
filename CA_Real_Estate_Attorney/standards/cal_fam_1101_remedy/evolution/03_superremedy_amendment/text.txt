@@ -1,0 +1,14 @@
+CALIFORNIA FAMILY CODE § 1101(h) — Super-Remedy Amendment
+Addition of 100% recovery for breaches constituting despicable conduct under Civil Code § 3294
+
+SOURCE: Legislative amendment to Fam. Code § 1101 — date REQUIRES_PRIMARY_SOURCE_VERIFICATION
+(Likely enacted in period 1995–2004 based on case law references)
+
+--- Family Code § 1101(h) (post-amendment text) ---
+(h) Remedies for the breach of the fiduciary duty by one spouse, as set forth in Sections 721 and 1100, when the breach falls within the ambit of Section 3294 of the Civil Code shall include, but not be limited to, an award to the other spouse of 100 percent, or an amount equal to 100 percent, of any asset undisclosed or transferred in breach of the fiduciary duty.
+
+NOTE: This is the "super-remedy" provision. Where § 1101(g) provides a 50% remedy for ordinary breaches, § 1101(h) escalates to 100% when the breach is "despicable" under Civil Code § 3294 — meaning conducted with malice, fraud, or oppression.
+
+The Civil Code § 3294 cross-reference incorporates the punitive damages standard into the community property remedy framework. The 100% remedy is not technically punitive damages (there is no separate punitive award); instead, it recaptures the entire asset for the injured spouse.
+
+PROVENANCE: Requires primary source verification. See provenance.json.

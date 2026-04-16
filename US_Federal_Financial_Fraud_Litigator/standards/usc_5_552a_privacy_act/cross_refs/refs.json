@@ -1,0 +1,31 @@
+{
+  "standard_id": "USC_5_552A_PRIVACY_ACT",
+  "cross_references": [
+    {
+      "id": "USC_18_1028A_AGGRAVATED_ID_THEFT",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_18_1028a_aggravated_id_theft/",
+      "relationship": "PARALLEL CRIMINAL TRACK — Privacy Act provides civil remedy against federal agency that maintains or discloses false records; §1028A provides criminal prosecution theory against private actors who used the identity information. If SSN identity theft enabled insertion of false records into SSA system, the federal agency that relied on corrupted external records compounds the harm. Civil Privacy Act claim runs against SSA; §1028A referral runs against the private actor who used the stolen SSN.",
+      "direction": "parallel"
+    },
+    {
+      "id": "USC_18_1961_RICO",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_18_1961_rico/",
+      "relationship": "RICO PREDICATE — Privacy Act violation by itself is not a RICO predicate act (not listed in §1961(1)). However, the underlying conduct that produced the false records — wire fraud (§1343), identity theft — ARE predicates. The Privacy Act violation is the mechanism of harm delivery; the predicate acts are the underlying schemes. Privacy Act civil recovery is separate from and cumulative to RICO civil recovery.",
+      "direction": "supplemental"
+    },
+    {
+      "id": "SIRVA_DOCTRINE",
+      "path": "${citizens}/CA_Medical_Malpractice_Litigator/standards/sirva_doctrine/",
+      "relationship": "SEPARATE TRACK — Privacy Act applies to federal agencies only. SIRVA medical records are held by health care providers (private), not federal agencies. If VA or military records are involved in SIRVA context, Privacy Act applies. Otherwise SIRVA records are governed by HIPAA (no private right of action) and California medical records law.",
+      "direction": "boundary"
+    },
+    {
+      "id": "CA_IPA_CIV_1798",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/civ_1798_ipa/",
+      "relationship": "STATE ANALOG — California Information Practices Act (Civ. Code §1798 et seq.) is the state-level equivalent of the federal Privacy Act. DDS operates as a state agency under federal grant; the federal Privacy Act may not apply to state DDS operations directly — California IPA may be the operative statute. Both standards should be evaluated in parallel for SSA/DDS claims.",
+      "direction": "state_analog"
+    }
+  ],
+  "path_anchor": "${citizens}",
+  "build_date": "2026-04-11"
+}

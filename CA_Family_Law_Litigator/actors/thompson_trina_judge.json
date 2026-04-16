@@ -1,0 +1,43 @@
+{
+  "actor_id": "thompson_trina_judge",
+  "canonical_name": "Trina Thompson",
+  "aliases": [
+    "Hon. Trina Thompson",
+    "Judge Trina Thompson"
+  ],
+  "role": "Judge, Alameda County Superior Court",
+  "professional_identity": {
+    "judicial_office": "Alameda County Superior Court (verified)"
+  },
+  "credential_verification": {
+    "verification_status": "VERIFIED as a sitting judge",
+    "next_step": "Confirm dates of service in 2009 family-law assignment via California Courts judge directory or Alameda County Superior Court history"
+  },
+  "case_involvement": [
+    {
+      "case_number": "RF09456481",
+      "date": "2009 (specifically the 7/2/2009 hearing)",
+      "action": "Adopted Olga Paredes' mediation recommendation",
+      "outcome": "Sole legal/physical custody to Michael Hartmann; Christina Cerretani restricted to supervised visitation",
+      "outcome_classification": "FAVORABLE to the steward"
+    }
+  ],
+  "risk_level": "LOW (favorable rulings)",
+  "outstanding_investigations": [
+    {
+      "id": "thompson_dates_of_service",
+      "question": "What were Judge Thompson's dates of service in the Alameda County Family Court assignment?",
+      "unblock": "California Courts judge directory; Alameda County Superior Court history"
+    },
+    {
+      "id": "thompson_2010_assignment",
+      "question": "Why was Judge Thompson NOT the judge at the 2010-09-02 hearing where Sala Ajaniku's recommendation was adopted? Was she rotated off, retired, or recused?",
+      "unblock": "Alameda County Superior Court assignment records"
+    }
+  ],
+  "source_citations": [
+    "${familylaw}/CREDENTIAL-AUDIT-AJANIKU-PAREDES-DITSWORTH-2026-03-23.md",
+    "/home/vernenlegal/.claude/projects/-home-vernenlegal/memory/project_familylaw_audit.md"
+  ],
+  "filed_at_utc": "2026-04-08T18:05:00Z"
+}

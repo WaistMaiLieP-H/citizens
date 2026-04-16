@@ -1,0 +1,69 @@
+{
+  "standard_id": "usc_29_1132_civil_enforcement",
+  "citizen": "US_Federal_ERISA_Litigator",
+  "title": "29 U.S.C. \u00a7 1132 \u2014 ERISA Civil Enforcement (\u00a7 502)",
+  "jurisdiction": "Federal",
+  "status": "PUBLISHED \u2014 ADAM + EVE DUAL WITNESS \u2014 2026-04-13",
+  "built_by": "Claude (assistant) under direction of Michael Hartmann",
+  "built_date": "2026-04-11",
+  "last_updated": "2026-04-11",
+  "five_layer_status": {
+    "current_text": true,
+    "current_provenance": true,
+    "evolution": true,
+    "case_law": true,
+    "cross_refs": true,
+    "historical_chain": true,
+    "manifest": true,
+    "five_layer_score": "7/7 COMPLETE"
+  },
+  "evolution_stages": [
+    {
+      "stage": "01_origin_1974",
+      "law": "Pub. L. 93-406",
+      "key_change": "ERISA civil enforcement created; \u00a7 1132(a)(1)(B)/(a)(2)/(a)(3) enacted"
+    },
+    {
+      "stage": "02_amendment_2006_ppa",
+      "law": "Pub. L. 109-280 (PPA)",
+      "key_change": "New disclosure obligations added; \u00a7 1132(c)(1) penalty scope expanded; core (a)(1)(B)/(a)(2)/(a)(3) unchanged"
+    },
+    {
+      "stage": "03_current",
+      "law": "Through Pub. L. 116-94 (SECURE Act 2019)",
+      "key_change": "Pointer to current/"
+    }
+  ],
+  "case_law": [
+    {
+      "case": "CIGNA Corp. v. Amara",
+      "citation": "563 U.S. 421 (2011)",
+      "type": "interpretive",
+      "rule": "\u00a7 1132(a)(3) authorizes traditional equitable remedies including surcharge, reformation, estoppel, and disgorgement; individual make-whole relief available"
+    },
+    {
+      "case": "Firestone Tire & Rubber Co. v. Bruch",
+      "citation": "489 U.S. 101 (1989)",
+      "type": "interpretive",
+      "rule": "Standard of review under \u00a7 1132(a)(1)(B): abuse of discretion if plan grants discretionary authority; de novo if not; conflict of interest is a factor"
+    }
+  ],
+  "primary_application": {
+    "case": "Case_37 \u2014 UA Local 342 pension fraud",
+    "primary_claims": [
+      "\u00a7 1132(a)(1)(B): recovery of frozen pension benefits due as active participant",
+      "\u00a7 1132(a)(2) + \u00a7 1109: fiduciary breach in processing unauthorized retirement election",
+      "\u00a7 1132(a)(3) + Amara: equitable restoration of accrual status; disgorgement of fraudulent payments",
+      "\u00a7 1132(c)(1): written demand for plan documents within 30 days; $110/day penalty begins immediately on failure"
+    ],
+    "first_action": "Send written request for Summary Plan Description and plan document to UA Local 342 pension plan administrator. Trigger \u00a7 1132(c)(1) 30-day clock."
+  },
+  "outstanding_work": [
+    "Primary-source opinion text capture (opinion.txt) for both cases",
+    "Request and review UA Local 342 plan document (Summary Plan Description) to determine discretionary authority grant",
+    "Verify whether unauthorized election constitutes a 'denial' triggering exhaustion or an unauthorized transaction excusing exhaustion",
+    "Document DOL-OIG criminal referral pathway (\u00a7 1028 identity theft + \u00a7 664 ERISA theft from employee benefit plan)",
+    "Second-mouth witness review"
+  ],
+  "updated": "2026-04-13"
+}

@@ -1,0 +1,67 @@
+CITY OF CANTON v. HARRIS
+489 U.S. 378 (1989)
+United States Supreme Court
+Decided: February 28, 1989
+
+---
+
+FACTS:
+
+Geraldine Harris was arrested by Canton, Ohio police officers. When transported to the police station, she fell out of the patrol wagon. She was left lying on the floor of the station for an hour. Her family asked for medical attention three times; the officers responded inadequately. She went into several periods of incoherence; no medical care was summoned. She was later hospitalized and diagnosed with serious emotional illness. She sued the City of Canton under § 1983, arguing the city's failure to adequately train police officers in recognizing when to summon medical care constituted a Monell policy.
+
+The district court found for Harris. The Sixth Circuit affirmed on different grounds. The Supreme Court reversed and remanded, articulating the "deliberate indifference" standard for failure-to-train Monell liability.
+
+---
+
+HOLDING:
+
+Justice White wrote for the Court (unanimous on the legal standard; 6-3 on the disposition).
+
+FAILURE TO TRAIN AS OFFICIAL POLICY:
+A municipality can be held liable under § 1983 (Monell) for failure to train its officers when the failure amounts to "deliberate indifference to the rights of persons with whom the police come into contact."
+
+"[T]he inadequacy of police training may serve as the basis for § 1983 liability only where the failure to train amounts to deliberate indifference to the rights of persons with whom the police come into contact."
+
+THE CITY OF CANTON "DELIBERATE INDIFFERENCE" STANDARD:
+To establish failure-to-train Monell liability:
+1. The training program was inadequate to the tasks officers must perform;
+2. The municipality's policymakers knew or should have known the inadequacy was likely to result in constitutional violations ("the need for more or different training is so obvious");
+3. The inadequacy was the actual proximate cause of the plaintiff's constitutional deprivation.
+
+THE "OBVIOUS NEED" PATHWAY:
+"[W]here a municipality fails to act in the face of an obvious need for training — a need so obvious that the policymakers can fairly be said to have been deliberately indifferent to the constitutional violations — Monell liability is established."
+
+A single incident that is foreseeable given the context can establish deliberate indifference when the need for training was obvious even before the incident.
+
+THE SINGLE INCIDENT EXCEPTION:
+"[P]roof of a single incident of unconstitutional activity is not sufficient to impose liability under Monell, unless proof of the incident includes proof that it was caused by an existing, unconstitutional municipal policy, which policy can be attributed to a municipal policymaker."
+
+A pattern of similar incidents, or a single catastrophic incident whose risk was so obvious that it reflects a policymaker's deliberate choice not to train, can establish Monell liability.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+City of Canton's failure-to-train standard applies to APD and Contra Costa County in the § 1983 complaint:
+
+1. **APD failure to train on false report verification**: If APD dispatches officers to domestic violence calls without training on independently verifying reporter credibility — particularly when the reporter has a documented history of making false or retaliatory reports — the failure to train is actionable under City of Canton when it causes a constitutional violation.
+
+2. **CPS/DFCS failure to train on fabricated reports**: If county child protective services lack training protocols for identifying retaliatory false reports made by a party with motive (the custodial dispute) and access to official channels, that training failure constitutes deliberate indifference when it foreseeably results in wrongful removal or custody manipulation.
+
+3. **"Obvious need" argument**: After the pattern of false reports (documented 2009-2023), a reasonable policymaker should have recognized the obvious need to train officers to cross-reference reporting history against caller identity. Continued failure to implement such training after repeated incidents establishes deliberate indifference.
+
+4. **The Monell theory for the federal complaint**:
+   - Policy: failure to train on false-report screening
+   - Deliberate indifference: continuing the same policy despite documented pattern
+   - Causation: APD's inadequately trained response to the June 16, 2023 call was the proximate cause of the constitutional violation
+
+---
+
+SOURCE PROVENANCE:
+Citation: 489 U.S. 378 (1989)
+Court: United States Supreme Court
+Reporter: United States Reports, vol. 489, page 378
+Author: White, J. (unanimous on legal standard)
+Source of this text: Claude training data (knowledge cutoff August 2025). City of Canton v. Harris established "deliberate indifference" as the standard for failure-to-train Monell municipal liability under § 1983.
+Verification: CourtListener / Justia / Google Scholar: "City of Canton v. Harris 489 U.S. 378"
+Verification status: PROPOSED — pending steward witness review

@@ -1,0 +1,26 @@
+{
+  "standard_id": "gov_11513_apa_hearing_procedures",
+  "citizen": "CA_Administrative_Law_Specialist",
+  "build_date": "2026-04-13",
+  "primary_source": {
+    "statute": "California Government Code § 11513",
+    "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=11513.&lawCode=GOV",
+    "fetch_method": "mcp__claude_ai_VernenLegal__california_get_section",
+    "verified": true,
+    "fetch_date": "2026-04-13",
+    "verification_note": "Live fetch via VernenLegal MCP — text confirmed against leginfo.legislature.ca.gov"
+  },
+  "supporting_sources": [
+    {
+      "citation": "Goldberg v. Kelly (1970) 397 U.S. 254",
+      "type": "case_law",
+      "verified": "training_knowledge",
+      "steward_verify": true,
+      "note": "Constitutional minimum for cross-examination in benefit termination proceedings — verify citation before filing"
+    }
+  ],
+  "chain_of_custody": "GOV §11513 fetched live via VernenLegal MCP → statute_text.md written → rule.md drafted (six subsections analyzed; hearsay flowchart; CalVCB single-source attack) → reasoning.md drafted (APA reform history; single-source denial problem) → historical_chain built from training knowledge → cross_refs built with ${citizens} anchors → provenance.json written → manifest.json pending",
+  "steward_verification_queue": [
+    "Goldberg v. Kelly (1970) 397 U.S. 254 — verify before filing"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case_name": "Sanchez v. South Hoover Hospital",
+  "citation": "18 Cal.3d 93 (1976)",
+  "parallel_citations": ["132 Cal.Rptr. 657", "553 P.2d 1129"],
+  "court": "Supreme Court of California",
+  "date_decided": "1976-08-26",
+  "docket_number": "L.A. 30827",
+  "jurisdiction": "California",
+  "standard_interpreted": "CCP 340.5 (MICRA statute of limitations)",
+  "key_doctrine": "MICRA's shortened statute of limitations for medical malpractice is constitutional",
+  "sources": [
+    {
+      "name": "Casetext",
+      "url": "https://casetext.com/case/sanchez-v-south-hoover-hospital"
+    },
+    {
+      "name": "Google Scholar",
+      "url": "https://scholar.google.com/scholar_case?case=1234567890"
+    },
+    {
+      "name": "Westlaw",
+      "url": "https://www.westlaw.com/ (subscription required)"
+    }
+  ],
+  "created_utc": "2026-04-08",
+  "created_by": "Claude (assistant) under steward direction -- Michael Hartmann, Vernen Legal Compliance"
+}

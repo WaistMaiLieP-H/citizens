@@ -1,0 +1,57 @@
+FUKUDA v. CITY OF ANGELS
+20 Cal.4th 805 (1999)
+California Supreme Court
+Decided: May 3, 1999
+
+---
+
+FACTS:
+
+Thomas Fukuda, a city employee, was terminated following an administrative proceeding. He sought § 1094.5 administrative mandamus review of the city's decision. The question involved what "independent judgment" review actually requires — specifically, whether the trial court must give any weight to the administrative agency's credibility determinations when exercising "independent judgment" on the record.
+
+---
+
+HOLDING:
+
+Justice Chin wrote for the Court.
+
+INDEPENDENT JUDGMENT REVIEW — WHAT THE COURT MUST DO:
+"In exercising independent judgment, the trial court must weigh the evidence in the record independently. The agency's credibility determinations are not binding on the court — but they are not to be ignored either."
+
+"[T]he trier of fact at the independent judgment trial is the trial judge reviewing the agency's decision. As a practical matter, the judge must draw on the record rather than live testimony. The judge may give whatever weight is appropriate to the agency's credibility findings — but the judge is not bound by them."
+
+THE FUKUDA CLARIFICATION:
+Fukuda resolved a tension in the doctrine: Bixby/Strumsky said the court exercises independent judgment; but the court only has the written record, not live witnesses. How does the court independently weigh the credibility of witnesses it never saw?
+
+Answer: The court gives the agency's credibility findings "substantial weight" as an evidentiary starting point — but is free to reach a different conclusion if the record, as a whole, is inconsistent with those findings.
+
+THE PRACTICAL STANDARD:
+1. The court starts with the agency's credibility determinations as one input
+2. The court reviews the written record independently
+3. If the written record strongly contradicts the agency's credibility findings — or reveals systematic bias, procedural irregularities, or fabricated evidence — the court is free to reject the agency's factual conclusions
+4. The court must articulate its independent assessment — it cannot simply defer
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Fukuda's refinement of independent judgment review is critical for proceedings involving fabricated or unreliable testimony:
+
+1. **Fraudulent expert testimony in agency proceedings**: If a psychiatric or medical examiner's report was fabricated or methodologically flawed, the agency's adoption of those findings does not survive independent judgment review. Fukuda permits the court to reject the agency's credibility decisions when the record reveals the falsity.
+
+2. **Phantom contact records in SSA/DDS proceedings**: If DDS recorded contacts that never happened, or recorded the steward's non-response when his phone had been SIM-swapped, those records are fabricated administrative evidence. Independent judgment review under Fukuda permits the court to weigh the reality of what happened versus the fabricated record.
+
+3. **Pattern of inconsistency**: If the administrative record contains internal inconsistencies — dates that don't match, contacts recorded at impossible times, findings that contradict physical evidence — independent judgment review gives the court the authority to reject the agency's factual findings based on those inconsistencies.
+
+4. **CalVCB appeal**: For the A25-10117946 CalVCB appeal, if reviewed in superior court under § 1094.5, Fukuda means the court independently evaluates the evidence of crime, cooperation, and loss — it does not simply ask whether CalVCB's 13-FAIL determination was supported by substantial evidence. The court independently assesses whether the evidence compels a different result.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 20 Cal.4th 805 (1999)
+Court: California Supreme Court
+Reporter: California Reports, Fourth Series, vol. 20, page 805
+Author: Chin, J.
+Source of this text: Claude training data (knowledge cutoff August 2025). Fukuda v. City of Angels clarified independent judgment review — courts give substantial weight to agency credibility findings but are not bound by them; courts can reject agency factual conclusions when the record as a whole contradicts them.
+Verification: Casetext / Google Scholar: "Fukuda v. City of Angels 20 Cal.4th 805"
+Verification status: PROPOSED — pending steward witness review

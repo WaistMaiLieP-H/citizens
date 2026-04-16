@@ -1,0 +1,17 @@
+{
+  "standard_id": "CA_FAM_3046_ABSENCE_DV",
+  "provenance_record_filed_at_utc": "2026-04-09T00:00:00Z",
+  "fetcher_software": "VernenLegal MCP API (california_get_section)",
+  "fetcher_operator": "Claude (assistant) under steward direction (Michael Hartmann)",
+  "fetches": [
+    {
+      "artifact_local_path": "current/cal_fam_3046_leginfo.txt",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3046.&lawCode=FAM",
+      "source_authority": "California Legislative Information (leginfo.legislature.ca.gov) via VernenLegal MCP",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-09T00:00:00Z",
+      "fetch_method": "VernenLegal MCP california_get_section",
+      "content_description": "Cal. Family Code § 3046 — Absence or relocation due to DV shall not be held against parent in custody determination"
+    }
+  ]
+}

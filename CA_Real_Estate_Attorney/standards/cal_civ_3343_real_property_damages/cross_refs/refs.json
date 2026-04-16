@@ -1,0 +1,18 @@
+{
+  "standard": "cal_civ_3343_real_property_damages",
+  "refs": [
+    {"type": "liability_basis", "target": "Civ. Code § 1572 (actual fraud)", "relationship": "§ 1572 establishes liability; § 3343 establishes damages measure", "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_civ_1572_fraud"},
+    {"type": "liability_basis", "target": "Civ. Code §§ 1709-1710 (deceit)", "relationship": "Tort deceit liability; § 3343 controls damages measure for real property deceit claims", "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_civ_1709_1710_deceit"},
+    {"type": "punitive_damages", "target": "Civ. Code § 3294", "relationship": "Punitive damages layer on top of § 3343 compensatory measure", "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_civ_3294_punitive"},
+    {"type": "disclosure_statute", "target": "Civ. Code § 1102.4 (TDS strict liability)", "relationship": "Alternative statutory damages path under § 1102 TDS regime", "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_civ_1102_disclosure"},
+    {"type": "rescission_remedy", "target": "Civ. Code §§ 1567, 1688-1689", "relationship": "Rescission preserved by § 3343(b)(2) as alternative to damages"},
+    {"type": "benefit_of_bargain_rejection", "target": "Subdivision (b)(1)", "relationship": "California rejects the benefit-of-the-bargain measure for real property fraud"}
+  ],
+  "cases_to_add": [
+    "Stout v. Turney (1978) 22 Cal.3d 718 — out-of-pocket measure",
+    "Alliance Mortgage Co. v. Rothwell (1995) 10 Cal.4th 1226 — secondary damages",
+    "Garrett v. Perry (1959) 53 Cal.2d 178 — consequential damages",
+    "Bagdasarian v. Gragnon (1948) 31 Cal.2d 744 — early foundational case"
+  ],
+  "generated_at_utc": "2026-04-11T05:25:00Z"
+}

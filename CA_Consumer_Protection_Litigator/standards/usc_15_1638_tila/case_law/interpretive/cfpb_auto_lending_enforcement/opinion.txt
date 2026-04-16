@@ -1,0 +1,83 @@
+CFPB AUTO LENDING ENFORCEMENT — REGULATORY PATTERN DOCUMENT
+(TILA / Regulation Z — 15 U.S.C. § 1638 / 12 C.F.R. § 1026)
+
+NOTE: This folder documents the CFPB's regulatory enforcement pattern under TILA/Reg. Z as applied to auto lending, rather than a single court opinion. The CFPB has issued multiple enforcement actions, supervisory guidance, and consent orders relevant to TILA compliance in vehicle sales and financing. These regulatory records are authoritative interpretations of TILA requirements.
+
+---
+
+CFPB AUTHORITY OVER AUTO LENDING:
+
+The Consumer Financial Protection Bureau (CFPB) has supervisory and enforcement authority over:
+1. Non-bank auto finance companies that are "larger participants" (defined by CFPB rulemaking);
+2. All banks and credit unions with TILA auto lending exposure;
+3. Indirect auto lenders (dealer-originated loans assigned to finance companies).
+
+Note: The CFPB does not directly regulate auto dealers themselves (dealer exception under Dodd-Frank § 1029), but does regulate the finance companies that purchase dealer-originated loans.
+
+---
+
+KEY CFPB AUTO LENDING ENFORCEMENT AREAS:
+
+1. ADD-ON PRODUCTS:
+CFPB has taken enforcement action against lenders that misrepresented the terms of add-on products (GAP insurance, extended warranties, credit insurance) bundled into auto financing. Failures to disclose add-on costs in the TILA "finance charge" or "amount financed" are actionable under § 1638.
+
+2. DEALER MARKUP (DISCRETIONARY PRICING):
+CFPB has issued guidance on dealer discretionary pricing (dealer reserve / dealer markup) — where dealers charge consumers a higher interest rate than the lender requires, keeping the difference. If the markup is not disclosed in the TILA disclosures, this is a potential § 1638 violation.
+
+3. YO-YO FINANCING COMPLIANCE:
+CFPB Regulation Z Comment 17(a)(1)-1 requires that TILA disclosures be made at or before consummation of the credit transaction. Where yo-yo financing results in a new contract with different terms, TILA requires complete new disclosures before consummation of the revised transaction.
+
+4. PAYMENT PACKING:
+Adding optional charges to a payment schedule without clear disclosure violates TILA's requirement that all finance charges be disclosed in the "finance charge" box on the disclosure statement.
+
+---
+
+CFPB BULLETIN 2013-02 — INDIRECT AUTO LENDING:
+The CFPB issued guidance confirming that it would hold indirect auto lenders (finance companies that purchase dealer paper) responsible for ECOA violations flowing from dealer markup policies — even though the lender did not originate the markup. The same principle applies to TILA violations in dealer-originated disclosures.
+
+---
+
+TILA REMEDIES IN ENFORCEMENT CONTEXT:
+
+In CFPB enforcement actions, remedies under TILA include:
+- Civil money penalties up to $25,000 per day for knowing violations;
+- Restitution to affected consumers;
+- Injunctive relief;
+- Requirements for disclosure remediation.
+
+In private actions under § 1640:
+- Statutory damages: twice the finance charge (min $100, max $1,000 for individual actions);
+- Class damages: lesser of $500,000 or 1% of creditor's net worth;
+- Mandatory attorney's fees.
+
+---
+
+TILA STATUTE OF LIMITATIONS:
+Standard: 1 year from the violation (§ 1640(e)).
+For rescission: 3 years for § 1635 rescission right (dwelling-secured transactions only).
+Equitable tolling: Available where the creditor's concealment prevented discovery (e.g., where TILA violations were buried in complex contract terms not understandable to a lay borrower).
+
+---
+
+APPLICATION TO AUTO FRAUD TILA CLAIMS:
+
+For the RedJag yo-yo financing transaction:
+1. At delivery, the RISC must have contained all § 1638 required disclosures (amount financed, finance charge, APR, payment schedule);
+2. If the yo-yo scheme resulted in a demand to re-sign at different terms, the new contract required complete new TILA disclosures;
+3. If dealer markup was not included in the disclosed "finance charge," the disclosure was deficient;
+4. Deficiency collection on a TILA-deficient contract is subject to recoupment under TILA's defenses to collection;
+5. The 1-year limitations period runs from the date of the violation (typically the date of signing/delivery).
+
+---
+
+SOURCE PROVENANCE:
+This is a regulatory pattern document. Key CFPB authorities:
+- CFPB Bulletin 2013-02 (Indirect Auto Lending)
+- CFPB Supervisory Guidance on TILA Auto Lending
+- 12 C.F.R. § 1026 (Regulation Z)
+- 15 U.S.C. § 1638 (TILA closed-end credit disclosures)
+Source of this text: Claude training data (knowledge cutoff August 2025). CFPB auto lending enforcement materials are available at:
+  - consumerfinance.gov/enforcement
+  - ecfr.gov (Regulation Z)
+  - CFPB Supervision and Examination Manual, Auto Lending
+Verification status: PROPOSED — pending steward witness review

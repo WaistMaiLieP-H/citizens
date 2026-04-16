@@ -1,0 +1,29 @@
+ORIGIN TEXT — 1975 MICRA ENACTMENT
+Source: Stats. 1975, 2d Extraordinary Session, Ch. 1, §25.4 (AB 1XX, Keene)
+Effective: December 12, 1975 (applicable to all actions after that date)
+
+§3333.2. (a) In any action for injury against a health care provider based on professional negligence, the injured plaintiff shall be entitled to recover noneconomic losses to compensate for pain, suffering, inconvenience, physical impairment, disfigurement, and other nonpecuniary damage.
+
+(b) In no action shall the amount of damages for noneconomic losses exceed two hundred fifty thousand dollars ($250,000).
+
+(c) For purposes of this section:
+(1) "Health care provider" means any person licensed or certified pursuant to Division 2 (commencing with Section 500) of the Business and Professions Code, and any clinic, health dispensary, or health facility licensed pursuant to Division 2 (commencing with Section 1200) of the Health and Safety Code.
+(2) "Professional negligence" means a negligent act or omission to act by a health care provider in the rendering of professional services, which act or omission is the proximate cause of a personal injury or wrongful death, provided that such services are within the scope of services for which the provider is licensed and which are not within any restriction imposed by the licensing agency or licensed hospital.
+
+(Added by Stats. 1975, 2d Ex. Sess., Ch. 1, §25.4.)
+
+KEY FEATURES OF THE 1975 ENACTMENT:
+1. Single flat cap of $250,000 on noneconomic damages. No distinction between death and non-death cases. No inflation adjustment. No per-defendant calculation clarification (those came later via case law and then the AB 35 amendments).
+
+2. The cap applied only to "noneconomic losses" — pain, suffering, inconvenience, physical impairment, disfigurement, and other nonpecuniary damages. Economic damages (medical specials, lost earnings, future care) were NOT capped and remain uncapped.
+
+3. The statute was enacted as part of MICRA — the Medical Injury Compensation Reform Act — passed in a single special session of the Legislature called by Governor Jerry Brown in December 1975 in response to a medical malpractice insurance crisis. The other MICRA provisions enacted the same session:
+   - CCP §340.5 — one-year/three-year SOL
+   - Civ. Code §3333.1 — collateral source rule abrogation
+   - CCP §667.7 — periodic payment of future damages
+   - B&P §6146 — sliding-scale attorney fee cap
+   - CCP §364 — 90-day pre-suit notice
+
+4. The $250,000 cap was NOT indexed to inflation. This was the most criticized feature of the original statute — as inflation eroded the real value of the cap, the effective limit on plaintiff recovery fell dramatically. By 2022, the $250,000 1975 cap had a real value of approximately $55,000 in 1975 dollars — less than one-quarter of its original purchasing power.
+
+5. The cap survived constitutional challenge in Fein v. Permanente Medical Group (1985) 38 Cal.3d 137, in which the California Supreme Court held the cap did not violate equal protection or due process under the California Constitution.

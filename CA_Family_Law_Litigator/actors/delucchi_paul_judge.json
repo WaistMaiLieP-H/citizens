@@ -1,0 +1,49 @@
+{
+  "actor_id": "delucchi_paul_judge",
+  "canonical_name": "Paul A. Delucchi",
+  "aliases": [
+    "Hon. Paul A. Delucchi",
+    "Judge Paul A. Delucchi",
+    "Paul Delucchi"
+  ],
+  "role": "Judge, Alameda County Superior Court",
+  "professional_identity": {
+    "judicial_office": "Alameda County Superior Court (verified)"
+  },
+  "credential_verification": {
+    "verification_status": "VERIFIED as a sitting judge",
+    "next_step": "Confirm dates of service and the specific assignment that placed him on RF09456481 in 2010"
+  },
+  "case_involvement": [
+    {
+      "case_number": "RF09456481",
+      "date": "2010-09-02",
+      "action": "Adopted Sala Ajaniku's mediation recommendation",
+      "outcome": "DVRO modified; Christina Cerretani granted UNSUPERVISED visitation (previously supervised under Judge Thompson's 2009 ruling)",
+      "outcome_classification": "ADVERSE to the steward \u2014 reversed protective structure"
+    }
+  ],
+  "risk_level": "HIGH",
+  "risk_basis": "Adopted recommendation from a person with ZERO verifiable credentials (Sala Ajaniku); reversed protective DVRO without apparent verification of the recommender's qualifications; both judge and mediator changed simultaneously without documented reason",
+  "outstanding_investigations": [
+    {
+      "id": "delucchi_qualification_verification",
+      "question": "Did Judge Delucchi verify Sala Ajaniku's credentials before adopting her recommendation? Is there any record in the case file of credential review?",
+      "unblock": "Review the original 2010-09-02 hearing transcript and order"
+    },
+    {
+      "id": "delucchi_assignment_history",
+      "question": "Why was Judge Delucchi assigned to RF09456481 in 2010 when Judge Thompson had been the prior judge?",
+      "unblock": "Alameda County Superior Court assignment records"
+    },
+    {
+      "id": "delucchi_judicial_conduct",
+      "question": "Are there any judicial conduct complaints or appellate reversals associated with Judge Delucchi?",
+      "unblock": "California Commission on Judicial Performance records; appellate court records"
+    }
+  ],
+  "source_citations": [
+    "${familylaw}/CREDENTIAL-AUDIT-AJANIKU-PAREDES-DITSWORTH-2026-03-23.md"
+  ],
+  "filed_at_utc": "2026-04-08T18:05:00Z"
+}

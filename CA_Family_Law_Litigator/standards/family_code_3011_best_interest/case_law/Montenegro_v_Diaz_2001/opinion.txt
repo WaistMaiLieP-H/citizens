@@ -1,0 +1,14 @@
+MONTENEGRO v. DIAZ
+26 Cal.4th 249
+Supreme Court of California, 2001
+
+FACTS:
+The parties entered a stipulated custody judgment. The father later sought modification. The mother argued the "changed circumstances" rule — requiring a substantial change in circumstances before a court would modify a prior custody order — applied and barred the modification. The question before the court was whether the changed-circumstances rule applies when the prior order was based on a stipulation rather than a contested best-interest adjudication.
+
+HOLDING — FAMILY CODE § 3011:
+The California Supreme Court held that the changed-circumstances rule applies to stipulated custody orders only when the stipulated judgment was preceded by a "judicial determination of best interests." When a stipulated order was entered without such a determination — i.e., when the court simply accepted the parties' agreement without conducting its own § 3011 analysis — the prior order is not entitled to the heightened protection of the changed-circumstances rule, and a new full best-interest analysis under § 3011 governs. The court stated: "the best interests of the child standard remains the overarching concern."
+
+The court made clear that parties cannot contract away the court's obligation to conduct a § 3011 analysis: the best-interest requirement is non-waivable and cannot be avoided by stipulation.
+
+SIGNIFICANCE:
+Montenegro establishes that § 3011 is non-waivable. A stipulated custody order that was not preceded by a judicial best-interest determination can be challenged and modified under the full § 3011 standard, without the moving party needing to show a substantial change in circumstances. This is critical when an original custody order was entered by stipulation — perhaps during a mediation process — without the court having conducted its own § 3011 analysis. If the mediator was unqualified (§ 3164/§ 1815 violation), the court's "reliance" on the recommendation was defective, and the resulting stipulated order may be subject to full § 3011 re-examination under Montenegro.

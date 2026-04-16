@@ -1,0 +1,31 @@
+{
+  "standard_id": "CIV_1790_SONG_BEVERLY",
+  "cross_references": [
+    {
+      "id": "CIV_1750_CLRA",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/civ_1750_clra/",
+      "relationship": "PRIMARY_COMPOUND — CLRA §1770(a)(14) makes warranty non-compliance an unfair/deceptive practice. Always plead CLRA + Song-Beverly together on warranty claims. CLRA adds actual damages + punitive + mandatory fees.",
+      "direction": "compound"
+    },
+    {
+      "id": "CIV_2981_REES_LEVERING",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/civ_2981_rees_levering/",
+      "relationship": "COMPOUND — Rees-Levering governs the finance contract; Song-Beverly governs the warranty. If the finance contract is void (Rees-Levering), the warranty claim is separate and survives. Plead both.",
+      "direction": "compound"
+    },
+    {
+      "id": "BP_17200_UCL",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/bp_17200_ucl/",
+      "relationship": "OVERLAY — Song-Beverly violation = UCL unlawful prong. Also UCL fraudulent prong (reasonable consumer deceived by warranty representations). Plead UCL as overlay on Song-Beverly claim.",
+      "direction": "overlay"
+    },
+    {
+      "id": "CIV_1788_ROSENTHAL",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/civ_1788_rosenthal/",
+      "relationship": "PARALLEL — If auto finance debt collection follows the Song-Beverly defect, Rosenthal covers collection on the Rees-Levering void contract. Collecting on a warranty-voided or contract-voided vehicle = false representation of legal status.",
+      "direction": "parallel"
+    }
+  ],
+  "path_anchor": "${citizens}",
+  "build_date": "2026-04-11"
+}

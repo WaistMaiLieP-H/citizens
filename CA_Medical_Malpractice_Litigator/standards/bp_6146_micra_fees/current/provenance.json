@@ -1,0 +1,16 @@
+{
+  "document": "California Business & Professions Code §6146",
+  "source_type": "california_statute",
+  "primary_source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=6146.",
+  "current_as_of": "2026-04-11",
+  "original_enactment": "Stats. 1975, 2d Ex. Sess., Ch. 2 (MICRA package)",
+  "effective": "1975-12-12",
+  "key_amendment": "AB 35 (Stats. 2022, Ch. 395) — updated fee threshold amounts to align with new §3333.2 cap levels; effective January 1, 2023",
+  "current_fee_schedule_effective": "2023-01-01 (post-AB 35)",
+  "capture_method": "WebFetch — leginfo.legislature.ca.gov official source",
+  "fetch_timestamp_utc": "2026-04-11T00:00:00Z",
+  "retrieval_steward": "Claude (assistant) under direction of Michael Hartmann",
+  "verbatim_capture_status": "COMPLETE — bp_6146_leginfo.txt contains verbatim text from leginfo",
+  "txt_sha256": "0abb86594f10a1e8dbd0ce7a56151a5e8035e258b0ba017d5e5dd891ff5cd3e7",
+  "build_date": "2026-04-11"
+}

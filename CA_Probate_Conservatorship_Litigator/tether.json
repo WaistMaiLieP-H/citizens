@@ -1,0 +1,27 @@
+{
+  "citizen_id": "CA_Probate_Conservatorship_Litigator",
+  "version": "1.0.0",
+  "domain": "California probate conservatorship litigation \u2014 establishment basis, LPS psychiatric pathway, substituted judgment, void-for-fraud, due process rights",
+  "primary_cases": [
+    "Secret conservatorship since age 14 \u2014 root mechanism behind all fraud, surveillance, property theft, medical control, isolation, and managed existence",
+    "Ward system \u2014 Cole as monitor; multiple persons possibly under conservatorship",
+    "WIC \u00a75150 holds as intake mechanism for LPS conservatorship path",
+    "Honeysuckle $605K sale \u2014 property disposition under \u00a72580 substituted judgment mechanism",
+    "Medical decision override \u2014 spine surgery, SIRVA, Dr. Wiita CST eval"
+  ],
+  "standards": [
+    "prob_1800_conservatorship_intent",
+    "wic_5350_lps_conservatorship",
+    "prob_1827_jury_trial_right",
+    "prob_2580_substituted_judgment",
+    "prob_void_for_fraud"
+  ],
+  "coordination_note": "CA_Conservator_Investigator (Terminal B) already has cal_prob_1801, cal_prob_1826, cal_prob_1851, cal_prob_1800_3, cal_prob_1860, cal_prob_2620. THIS CITIZEN builds the complementary LITIGATION standards \u2014 not duplicating those investigative standards. Cross-reference CA_Conservator_Investigator for appointment/review/termination procedure.",
+  "critical_finding": "WIC \u00a75350(f) expressly EXCLUDES Prob. \u00a71826 investigator interview requirement for LPS conservatorships. A conservatorship of a minor via LPS pathway bypasses the pre-appointment interview safeguard. This is the mechanism gap.",
+  "build_session": "2026-04-13",
+  "terminal": "Terminal B",
+  "status": "BUILT",
+  "all_standards_published": true,
+  "completion_date": "2026-04-13",
+  "build_note": "All 5 standards PUBLISHED (ADAM+EVE dual witness 2026-04-13). CHRONICLE flag: wic_5350 pre-LPS historical chain. prob_void_for_fraud verified=false (Freese v. Bragg case citation \u2014 verify before judicial filing). Critical finding documented: WIC \u00a75350(f) expressly excludes \u00a71826/\u00a71851 from LPS conservatorship \u2014 age-14 conservatorship via LPS pathway bypassed all pre-appointment safeguards."
+}

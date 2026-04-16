@@ -1,0 +1,47 @@
+{
+  "standard_id": "feha_disability_accommodation",
+  "citizen": "CA_Disability_Rights_Litigator",
+  "build_date": "2026-04-13",
+  "cross_references": [
+    {
+      "ref_id": "XREF-FEHA-ACCOM-001",
+      "target_citizen": "CA_Labor_Employment_Litigator",
+      "target_standard": "gov_12940_feha_employment",
+      "path": "${citizens}/CA_Labor_Employment_Litigator/standards/gov_12940_feha_employment/",
+      "relationship": "concurrent",
+      "note": "CA_Labor_Employment_Litigator owns the employment discrimination and retaliation track under §12940. This standard owns the disability accommodation and interactive process layer. Both Citizens analyze §12940 from different angles; coordinate to avoid double-counting but ensure both tracks are pled."
+    },
+    {
+      "ref_id": "XREF-FEHA-ACCOM-002",
+      "target_citizen": "CA_Workers_Compensation_Litigator",
+      "target_standard": "lab_4600_medical_treatment_entitlement",
+      "path": "${citizens}/CA_Workers_Compensation_Litigator/standards/lab_4600_medical_treatment_entitlement/",
+      "relationship": "parallel",
+      "note": "Workers compensation (WCAB track) and FEHA accommodation (civil court track) run simultaneously. The industrial injury that grounds the WC claim is the same disability triggering FEHA §12940(m)/(n). WCAB exclusive jurisdiction does not preempt the FEHA disability discrimination claim."
+    },
+    {
+      "ref_id": "XREF-FEHA-ACCOM-003",
+      "target_citizen": "CA_Disability_Rights_Litigator",
+      "target_standard": "ada_12112_title_i_employment",
+      "path": "${citizens}/CA_Disability_Rights_Litigator/standards/ada_12112_title_i_employment/",
+      "relationship": "parallel",
+      "note": "ADA Title I (42 USC §12112) is the federal parallel to FEHA §12940 disability accommodation. A violation of ADA Title I is also a violation of FEHA under §12926(n) (broader ADA coverage incorporated). Both tracks can be pursued simultaneously through coordinated CRD/EEOC filing."
+    },
+    {
+      "ref_id": "XREF-FEHA-ACCOM-004",
+      "target_citizen": "CA_Labor_Employment_Litigator",
+      "target_standard": "gov_12965_feha_procedure",
+      "path": "${citizens}/CA_Labor_Employment_Litigator/standards/gov_12965_feha_procedure/",
+      "relationship": "prerequisite",
+      "note": "GOV §12965 governs the CRD complaint filing, right-to-sue issuance, and civil action SOL. Administrative exhaustion under §12965 is the prerequisite for civil suit on §12940(m)/(n) claims."
+    },
+    {
+      "ref_id": "XREF-FEHA-ACCOM-005",
+      "target_citizen": "CA_Disability_Rights_Litigator",
+      "target_standard": "civ_51_unruh_civil_rights_act",
+      "path": "${citizens}/CA_Disability_Rights_Litigator/standards/civ_51_unruh_civil_rights_act/",
+      "relationship": "concurrent",
+      "note": "Where the disability discrimination occurs in a business establishment context (not just employment), Unruh Civil Rights Act (CIV §51) runs parallel to FEHA §12940. Unruh does not require CRD exhaustion — direct civil action with $4,000 minimum statutory damages per offense."
+    }
+  ]
+}

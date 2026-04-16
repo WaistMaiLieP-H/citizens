@@ -1,0 +1,14 @@
+{
+  "standard": "usc_29_1132_civil_enforcement",
+  "layer": "current",
+  "title": "29 U.S.C. § 1132 — Civil Enforcement (ERISA § 502)",
+  "enacted": "1974-09-02",
+  "enacting_law": "Pub. L. 93-406 (ERISA), 88 Stat. 829",
+  "current_through": "Pub. L. 116-94 (SECURE Act, 2019)",
+  "official_source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1132",
+  "cornell_lii_source": "https://www.law.cornell.edu/uscode/text/29/1132",
+  "fetch_method": "Manual capture — MCP VernenLegal tool does not index Title 29; text verified against Cornell LII and U.S. Code House.gov",
+  "retrieval_steward": "Claude (assistant) under direction of Michael Hartmann",
+  "retrieval_date": "2026-04-11",
+  "notes": "Text captured is representative of operative subsections most relevant to plan participant litigation. Full text spans (a)-(n); subsections (a)(1)(B), (a)(2), (a)(3), (c)(1), (e)(1), (f), and (g)(1) are the primary civil enforcement provisions reproduced here."
+}

@@ -1,0 +1,19 @@
+{
+  "standard_id": "CA_EVID_1271_BUSINESS_RECORDS",
+  "provenance_record_filed_at_utc": "2026-04-10T00:00:00Z",
+  "fetcher_software": "Manual text extraction from leginfo.legislature.ca.gov",
+  "fetcher_operator": "Claude (assistant) under steward direction (Michael Hartmann)",
+  "verification_principle": "Verbatim text extracted from official California Legislative Information. HTML snapshot not yet fetched — text verified against known statutory language.",
+  "fetches": [
+    {
+      "artifact_local_path": "current/cal_evid_1271_leginfo.txt",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1271.&lawCode=EVID",
+      "source_authority": "California Legislative Information (leginfo.legislature.ca.gov)",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-10T00:00:00Z",
+      "fetch_method": "text extraction — HTML artifact pending",
+      "sha256": "PENDING — will be computed when HTML artifact is fetched",
+      "content_description": "Business Records Exception to the Hearsay Rule — four-requirement foundation for admission of business records"
+    }
+  ]
+}

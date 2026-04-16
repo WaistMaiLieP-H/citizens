@@ -1,0 +1,72 @@
+HENSLEY v. ECKERHART
+461 U.S. 424 (1983)
+United States Supreme Court
+Decided: May 16, 1983
+
+---
+
+FACTS:
+
+Plaintiffs were involuntarily committed mental patients at the Fulton State Hospital in Missouri. They brought a class action under § 1983 against hospital officials for unconstitutional conditions of confinement. They prevailed on some claims and lost on others. The district court awarded attorney's fees under § 1988, computing the fee based on the number of hours times a reasonable hourly rate (the "lodestar"), and declining to reduce the fee for the unsuccessful claims.
+
+The Eighth Circuit affirmed. The Supreme Court affirmed the legal framework but remanded for reconsideration of the fee amount.
+
+---
+
+HOLDING:
+
+Justice Powell wrote for the Court.
+
+THE LODESTAR METHOD — THE MANDATORY STARTING POINT:
+"The most useful starting point for determining the amount of a reasonable fee is the number of hours reasonably expended on the litigation multiplied by a reasonable hourly rate. This calculation provides an objective basis on which to make an initial estimate of the value of a lawyer's services."
+
+Step 1: Reasonable hours × Reasonable hourly rate = Lodestar
+Step 2: Adjust upward or downward based on results obtained
+
+RESULTS OBTAINED — THE KEY MODIFIER:
+"The results obtained" is the most important factor in determining the reasonableness of the fee after calculating the lodestar.
+
+If the plaintiff obtained "excellent results," the lodestar needs no reduction — the fee award should be the full lodestar.
+
+If the plaintiff obtained only partial or limited success, the fee must be reduced:
+"Where the plaintiff achieved only partial or limited success, the product of hours reasonably expended on the litigation as a whole times a reasonable hourly rate may be an excessive amount."
+
+THE RELATED vs. UNRELATED CLAIMS RULE:
+- Where claims involve a "common core of facts" or are based on "related legal theories," fees for all time spent may be awarded even if some claims fail.
+- Where unsuccessful claims are "distinctly different" from the successful claims and involve different facts and legal theories, hours spent solely on the failed claims should be excluded.
+
+---
+
+THE HENSLEY FRAMEWORK (summary):
+
+1. Start: Calculate lodestar (hours × rate)
+2. Ask: Are unsuccessful claims distinct from successful claims, or do they share a common core of facts?
+   - Related: No automatic reduction; consider overall success level
+   - Unrelated: Exclude hours spent on unrelated, unsuccessful claims
+3. Adjust: Reduce lodestar if only partial success; full fee if excellent results
+4. Document: Time must be documented with sufficient detail to allow judicial review; excessive, redundant, or otherwise unnecessary hours should be excluded
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Hensley is the lodestar framework that will govern any § 1988 attorney's fee application:
+
+1. **Document every hour**: Time records showing hours spent on each category of work are required. Inadequate documentation results in reduction or denial.
+
+2. **Claim selection matters**: Winning on all claims supports full lodestar. Winning on some, losing on others requires the Hensley adjustment analysis. Strategic tip: if some claims are long shots, they should be pleaded as alternative theories that share common facts with the core claims — making them "related" under Hensley and avoiding the fee-reduction risk.
+
+3. **Pro se litigant note**: Pro se plaintiffs generally cannot recover attorney's fees under § 1988 because they did not pay an attorney (Kay v. Ehrler). However, if an attorney is later retained or if the steward's professional experience creates a different argument, this should be analyzed separately.
+
+4. **Excellent results goal**: The strategic objective is to win on the core constitutional claims so that "excellent results" support full lodestar without Hensley reduction.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 461 U.S. 424 (1983)
+Court: United States Supreme Court
+Reporter: United States Reports, vol. 461, page 424
+Author: Powell, J. (unanimous on legal framework)
+Source of this text: Claude training data (knowledge cutoff August 2025). Hensley v. Eckerhart established the lodestar method as the required starting point for § 1988 attorney's fee calculations — "hours reasonably expended times reasonable hourly rate, adjusted for results obtained."
+Verification: CourtListener / Justia / Google Scholar: "Hensley v. Eckerhart 461 U.S. 424"
+Verification status: PROPOSED — pending steward witness review

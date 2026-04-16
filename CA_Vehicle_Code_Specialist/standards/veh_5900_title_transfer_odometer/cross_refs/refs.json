@@ -1,0 +1,20 @@
+{
+  "standard_id": "veh_5900_title_transfer_odometer",
+  "cross_refs": [
+    {
+      "ref_id": "veh_11713_dealer_prohibited_acts",
+      "path": "${citizens}/CA_Vehicle_Code_Specialist/standards/veh_11713_dealer_prohibited_acts",
+      "relationship": "\u00a711713(l) tax/title payment violation concurrent with \u00a75900 notification obligation"
+    },
+    {
+      "ref_id": "veh_10751_vin_tampering",
+      "path": "${citizens}/CA_Vehicle_Code_Specialist/standards/veh_10751_vin_tampering",
+      "relationship": "Stolen/VIN-altered vehicle: \u00a75900 odometer disclosure with intent to defraud + \u00a710751 VIN prohibition \u2014 concurrent violations"
+    },
+    {
+      "ref_id": "49_usc_32710_federal_odometer",
+      "path": "EXTERNAL \u2014 49 USC \u00a732710 (federal); verify at uscode.house.gov/title49/chapter327",
+      "relationship": "Federal private civil action: $10,000 or 3x actual damages + attorney fees for odometer fraud \u2014 runs concurrently with \u00a75900"
+    }
+  ]
+}

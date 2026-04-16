@@ -1,0 +1,6 @@
+[
+  {"target":"${citizens}/CA_First_Amendment_Litigator/standards/cal_ccp_425_16_anti_slapp/manifest.json","relationship":"§425.17 creates exemptions from §425.16; they must be read together"},
+  {"target":"${citizens}/CA_First_Amendment_Litigator/standards/cal_ccp_425_18_slappback/manifest.json","relationship":"§425.16 (shield), §425.17 (guardrail), §425.18 (sword) form the complete anti-SLAPP ecosystem"},
+  {"target":"${citizens}/CA_First_Amendment_Litigator/standards/cal_evid_1070_shield_law/manifest.json","relationship":"§425.17(d)(1) explicitly exempts persons protected by Evidence Code §1070 from the public-interest and commercial-speech exemptions"},
+  {"target":"${citizens}/CA_Constitutional_Law_Specialist/standards/cal_const_art1_sec2/manifest.json","relationship":"§425.17(d)(1) cross-references Art. I §2(b) — persons enumerated in the constitutional shield law retain anti-SLAPP protection regardless of §425.17 exemptions"}
+]

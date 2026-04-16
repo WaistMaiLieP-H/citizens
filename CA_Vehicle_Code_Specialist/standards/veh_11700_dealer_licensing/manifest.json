@@ -1,0 +1,13 @@
+{
+  "standard_id": "veh_11700_dealer_licensing",
+  "authority": "Cal. Veh. Code \u00a711700",
+  "status": "PUBLISHED",
+  "content_hash": "633ec614",
+  "build_date": "2026-04-12",
+  "terminal": "Terminal B",
+  "citizen": "CA_Vehicle_Code_Specialist",
+  "verified": true,
+  "adam_signal": "APPROVE",
+  "eve_signal": "COUNTERSIGN",
+  "witness_date": "2026-04-12"
+}

@@ -1,0 +1,68 @@
+WILLIAMS v. GERBER PRODUCTS CO.
+552 F.3d 934 (9th Cir. 2008)
+United States Court of Appeals for the Ninth Circuit
+Decided: January 5, 2009 (filed 2008)
+Author: REINHARDT, J.
+
+---
+
+FACTS:
+
+A consumer purchased Gerber "Fruit Juice Snacks" — fruit-flavored snacks that depicted images of various fruits on the label (peaches, strawberries, etc.) alongside the label "made with real fruit juice." In fact, the snacks were made primarily with white grape juice concentrate, not the fruits depicted; the other depicted fruits were not present in meaningful quantities. The plaintiff brought UCL, CLRA, and § 17500 false advertising claims.
+
+The district court dismissed, reasoning that the product's ingredient list disclosed the actual contents and that a reasonable consumer would read the label as a whole and not be misled.
+
+---
+
+HOLDING:
+
+REVERSED. The Ninth Circuit held that reasonable consumer claims may survive a motion to dismiss even where accurate disclosures appear elsewhere on the label, if a misleading impression is created by a prominent aspect of the packaging.
+
+"We disagree with the district court that reasonable consumers should be expected to look past misleading representations on the front of the box to discover the truth from the ingredient list in small print on the side of the box." 552 F.3d at 939.
+
+The reasonable consumer standard does not require that the consumer read every word of every disclosure on every surface of the packaging before being entitled to protection. The question is what the reasonable consumer would understand from the overall impression created by the packaging.
+
+A food product label that prominently depicts images of specific fruits creates the impression that those fruits are significant ingredients. Requiring consumers to parse the ingredient list in small print on the side of the box — and then understand which fruit juices those ingredients represent — "asks too much of the ordinary consumer." 552 F.3d at 939.
+
+---
+
+THE REASONABLE CONSUMER STANDARD IN CALIFORNIA:
+
+Under UCL (§ 17200 "fraudulent"), FAL (§ 17500), and CLRA (§ 1770), the test is whether an ordinary consumer "acting reasonably in the circumstances" would be misled by the practice.
+
+This is an objective standard — not what this particular plaintiff thought, but what a reasonable person in the marketplace would likely understand.
+
+KEY APPLICATIONS:
+1. Courts look at the overall impression created, not isolated disclosures;
+2. Fine print does not automatically cure misleading large-print representations;
+3. Visual depictions (images, color, design) are as much a "representation" as text;
+4. The reasonable consumer is not a sophisticated skeptic — they are an ordinary buyer making purchases in the way ordinary buyers do.
+
+---
+
+THE ANTI-FINE-PRINT RULE:
+
+Williams v. Gerber stands for what can be called the "anti-fine-print rule" in California consumer protection law: a misleading prominent representation cannot be cured by a small-print accurate disclosure buried elsewhere on the product or contract.
+
+This is directly relevant to auto fraud cases where:
+- A dealer prominently advertises or represents a vehicle feature, condition, or price;
+- A contradicting disclosure appears in fine print in a multi-page contract;
+- The prominent representation creates an impression the fine print purports to undo.
+
+Under Williams, the consumer's reliance on the prominent representation is reasonable, and the fine-print disclaimer does not cure the misleading impression.
+
+APPLICATION TO REDJAG: If the CARFAX provided was prominently displayed as "clean" or "no accidents" but the actual condition was different, the fine-print conditional language in the dealer contract (if any) does not cure the misrepresentation. The consumer reasonably relied on the prominent CARFAX disclosure.
+
+APPLICATION TO FINANCING DISCLOSURES: Yo-yo financing typically hides the conditional nature in fine-print conditional delivery agreements while the main contract appears final. Under Williams, the prominent appearance of finality in the main document controls the consumer's reasonable understanding.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 552 F.3d 934 (9th Cir. 2008)
+Official reporter: Federal Reporter, Third Series, vol. 552, page 934
+Court: Ninth Circuit — binding in California federal courts; highly persuasive in California state courts
+Key quoted passage: 552 F.3d at 939 (ordinary consumer / ingredient list passage)
+Source of this text: Claude training data (knowledge cutoff August 2025). Williams v. Gerber is the leading Ninth Circuit reasonable consumer standard case. Full verbatim text should be verified at:
+  - Google Scholar: "Williams v. Gerber Products 552 F.3d"
+  - CourtListener / PACER
+Verification status: PROPOSED — pending steward witness review

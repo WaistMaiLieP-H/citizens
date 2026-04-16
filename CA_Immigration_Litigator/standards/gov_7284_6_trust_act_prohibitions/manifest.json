@@ -1,0 +1,37 @@
+{
+  "standard_id": "GOV_7284_6_TRUST_ACT_PROHIBITIONS",
+  "version": "1.0.0",
+  "citizen": "CA_Immigration_Litigator",
+  "popular_name": "TRUST Act — Cal. Gov. Code § 7284.6",
+  "authority": "Cal. Gov. Code § 7284.6 (California Values Act, SB 54)",
+  "jurisdiction": "California",
+  "standard_type": "CA_STATE_STATUTE",
+  "status": "PUBLISHED — ADAM + EVE DUAL WITNESS — 2026-04-13",
+  "five_layer_score": 5,
+  "created": "2026-04-13",
+  "updated": "2026-04-13",
+  "verified": true,
+  "verified_note": "Key operative provisions fetched via VernenLegal MCP at source prep 2026-04-12",
+  "layers": {
+    "rule": "COMPLETE",
+    "reasoning": "COMPLETE",
+    "historical_loss": "COMPLETE",
+    "cross_references": "COMPLETE",
+    "verifiable_provenance": "COMPLETE"
+  },
+  "case_relevance": [
+    "APD June 2023 incident — §7284.6(c) CPRA-subject joint task force reports; §7284.6(a)(1)(C) personal information prohibition",
+    "Butsaya dissolution — §7284.6(b)(4) T/U visa exception as affirmative cooperation pathway if Butsaya is crime victim"
+  ],
+  "files": [
+    "manifest.json",
+    "current/rule.md",
+    "current/reasoning.md",
+    "current/statute_text.md",
+    "current/provenance.json",
+    "current/adam_eve_review.md",
+    "historical_chain/01_origin_2017/context.md",
+    "historical_chain/01_origin_2017/provenance.json",
+    "cross_refs/cross_refs.md"
+  ]
+}

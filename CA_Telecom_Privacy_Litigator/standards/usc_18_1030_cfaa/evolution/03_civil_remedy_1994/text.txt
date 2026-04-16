@@ -1,0 +1,13 @@
+Computer Abuse Amendments Act of 1994
+Pub. L. 103-322, Title XXIX, § 290001(b) (September 13, 1994)
+
+Adding § 1030(g) — Civil cause of action:
+
+"Any person who suffers damage or loss by reason of a violation of this section may maintain a civil action against the violator to obtain compensatory damages and injunctive relief or other equitable relief. A civil action for a violation of this section may be brought only if the conduct involves 1 of the factors set forth in subclauses (I), (II), (III), (IV), or (V) of subsection (c)(4)(A)(i). Damages for a violation involving only conduct described in subsection (c)(4)(A)(i)(I) are limited to economic damages. No action may be brought under this subsection unless such action is begun within 2 years of the date of the act complained of or the date of the discovery of the damage."
+
+Key addition:
+The civil "loss" threshold of § 1030(c)(4)(A)(i)(I): at least $5,000 in loss to one or more persons in a one-year period. This is the MOST COMMONLY USED civil CFAA standing threshold.
+
+"Loss" under CFAA is defined broadly: includes cost of remediation, investigation, restoration of data, and revenue lost during downtime.
+
+Source: Pub. L. 103-322, 108 Stat. 2097 (1994).

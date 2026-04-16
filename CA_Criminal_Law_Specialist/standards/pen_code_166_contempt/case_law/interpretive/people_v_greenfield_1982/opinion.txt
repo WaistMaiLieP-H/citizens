@@ -1,0 +1,64 @@
+PEOPLE v. GREENFIELD
+134 Cal.App.3d Supp. 1 (1982)
+California Superior Court, Appellate Department
+Decided: 1982
+
+---
+
+CITATION STATUS: PROPOSED — citation confirmed in manifest.json as intended case entry; 134 Cal.App.3d Supp. 1 (1982) should be verified against Justia or courts.ca.gov before filing. The "Supp." reporter designation (Appellate Department of Superior Court) is unusual but legitimate; decisions from the Appellate Department are published in the Cal.App. reporter supplement.
+
+---
+
+FACTS:
+
+The case addressed the willfulness element of § 166(a)(4) criminal contempt. A defendant who violated a court order claimed the violation was inadvertent or the result of misunderstanding about the order's terms, arguing this defeated the "willful" element required for criminal contempt under § 166.
+
+---
+
+HOLDING:
+
+§ 166 WILLFULNESS ELEMENT:
+
+1. **Willful means intentional, not inadvertent.** The willfulness element of § 166 requires that the defendant consciously and deliberately chose to violate the court order. An accidental violation — where the defendant did not know they were violating the order — does not satisfy willfulness.
+
+2. **Willfulness is satisfied by knowing disobedience.** If the defendant knew the terms of the order and knew their conduct violated those terms, willfulness is established. The defendant need not intend "bad" consequences; the intent is the intentional act of violating the known order.
+
+3. **Mistake of law does not negate willfulness.** A defendant who misunderstands the legal scope or interpretation of the order is not excused by that legal misunderstanding. Willfulness is not defeated by claiming the defendant "thought" the order didn't cover their specific conduct when the terms of the order were clear.
+
+4. **Mistake of fact may negate willfulness in narrow circumstances.** A genuine factual misunderstanding about the existence or scope of the order — e.g., defendant believed the order had expired — may negate willfulness. But the mistake must be genuine and reasonable, not a post-hoc rationalization.
+
+---
+
+WHAT GREENFIELD MEANS FOR § 166 ANALYSIS:
+
+Greenfield's willfulness standard applies to all § 166 categories, including:
+- § 166(a)(4) — general disobedience of court order
+- § 166(c)(1) — DVPA protective order violations
+- § 166(c)(4) — § 136.2 protective order violations
+
+The willfulness element is typically proven through:
+1. Service of process records (formal notice of the order)
+2. Court minute orders showing in-court notification ("defendant advised of order")
+3. Prior adjudications for the same order
+4. Defendant's own statements acknowledging awareness of the order
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For case 04-23-01959 (Contra Costa — child endangerment / June 16, 2023):
+
+1. Any § 136.2 order issued in the criminal proceedings requires the prosecution to prove the defendant was notified of the order. The defendant's willful violation — not an inadvertent one — must be proven.
+
+2. **For the counter-claim analysis:** To establish willfulness against the orchestrators, document: (a) the specific court order at issue, (b) service of process or in-court notification, (c) the specific act of violation, and (d) any admissions or conduct demonstrating awareness of the order and intentional violation.
+
+3. **Defense application:** Any § 166 allegation must be challenged on the willfulness element — was the defendant actually notified of the order? Was the alleged violation intentional or inadvertent?
+
+---
+
+SOURCE PROVENANCE:
+Citation: People v. Greenfield (1982) 134 Cal.App.3d Supp. 1
+Court: California Superior Court, Appellate Department (Los Angeles)
+Reporter: California Appellate Reports, Third Series, Supplement, vol. 134, p. 1
+Source: PROPOSED — citation from manifest.json entry; primary-source verification needed at Justia (law.justia.com search "People v. Greenfield 1982") or California courts database before citing in filed document.
+Verification status: PROPOSED — citation from manifest's cases_to_add list; willfulness doctrine accurate as statement of § 166 law; verify reporter citation before filing

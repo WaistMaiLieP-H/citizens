@@ -1,0 +1,51 @@
+{
+  "standard_id": "CAL_GOV_13953",
+  "version": "0.2.0-witnessed-by-herald",
+  "filed_at_utc": "2026-04-10T23:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "primary_citation": {
+    "code": "California Government Code",
+    "section": "§ 13953",
+    "popular_name": "CalVCB application timeliness — seven-year filing window",
+    "jurisdiction": "California (state)",
+    "location_in_code": "Government Code, Title 2, Division 3, Part 4, Chapter 5, Article 5",
+    "original_enactment": "Predecessor in 1965 program (former § 13952 under old numbering); current § 13953 enacted by Stats. 2002, ch. 1141 recodification with expanded seven-year window",
+    "amendment_history": "Prior law had shorter filing windows; 2002 recodification expanded to seven-year structure with minor victim extension and discovery rule",
+    "positive_law_status": "In force; seven-year structure stable since 2002"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current text captured in current/text.txt",
+    "reasoning": "PRESENT — seven-year structure, discovery rule, good cause extension, and minor victim exception documented in current/context.md",
+    "historical_loss": "PRESENT — historical_chain.md documents the shorter-deadline problem under the pre-2002 regime",
+    "cross_references": "PRESENT — cross_refs/refs.json links to related CalVCB standards",
+    "verifiable_provenance": "PARTIAL — current text captured; 2002 recodification chapter pending PDF capture"
+  },
+  "evolution_chain": [
+    {
+      "stage": "01_origin_1965",
+      "description": "Original 1965 program under former shorter-deadline regime",
+      "folder": "evolution/01_origin_1965/"
+    },
+    {
+      "stage": "02_current_2002",
+      "description": "2002 recodification to current § 13953; seven-year window; discovery rule; minor victim extension",
+      "folder": "current/"
+    }
+  ],
+  "case_law": [
+    {
+      "case_id": "in_re_application_of_gonzalez_2005",
+      "type": "framework_placeholder",
+      "citation": "PENDING VERIFICATION",
+      "key_holding": "§ 13953 timeliness framework — see folder"
+    }
+  ],
+  "citizen_relevance": "Timeliness is NOT an issue in A25-10117946 — crime date 6/16/2023, application filed 2025, seven-year deadline 6/16/2030. This standard is documented to ensure the steward can respond if CalVCB erroneously raises timeliness as a ground, and to cover multi-incident applications where different crime dates may create different timeliness windows.",
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

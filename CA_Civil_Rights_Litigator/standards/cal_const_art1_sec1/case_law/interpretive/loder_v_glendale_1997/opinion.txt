@@ -1,0 +1,74 @@
+LODER v. CITY OF GLENDALE
+14 Cal.4th 846 (1997)
+California Supreme Court
+Decided: January 30, 1997
+
+---
+
+FACTS:
+
+The City of Glendale implemented a drug testing policy requiring all new employees and employees promoted to safety-sensitive or management positions to submit to urinalysis before the appointment or promotion became effective. Michael Loder and other applicants/employees challenged the policy under California constitutional privacy (Art. I, § 1) and the Fourth Amendment.
+
+---
+
+HOLDING:
+
+Justice Chin wrote for the Court.
+
+APPLYING HILL TO EMPLOYMENT DRUG TESTING:
+
+The Court applied the Hill three-part framework to government employment drug testing:
+
+ELEMENT 1 — LEGALLY PROTECTED PRIVACY INTEREST:
+"Employees have a legally protected privacy interest in their medical information and bodily integrity. Urinalysis involves a direct intrusion into bodily privacy and reveals highly sensitive medical information."
+
+ELEMENT 2 — REASONABLE EXPECTATION:
+Public employees applying for positions have a reduced (but not eliminated) privacy expectation — they have voluntarily entered the employment relationship and accepted certain conditions. However, the expectation is not zero: government employees retain constitutional privacy rights.
+
+ELEMENT 3 — SERIOUS VIOLATION:
+Pre-employment urinalysis is a meaningful intrusion. Forced observation of urination is particularly invasive.
+
+BALANCING — WHEN DRUG TESTING IS JUSTIFIED:
+The state has a compelling interest in:
+- Safety: employees in safety-sensitive positions (law enforcement, fire, heavy equipment) who are impaired can cause serious harm to themselves and the public
+- Management/policymaking: persons in positions of significant authority where drug impairment could affect government decisions
+
+BUT NOT:
+- Random or universal testing of all government employees regardless of safety sensitivity
+- Testing of clerical or administrative workers with no safety responsibility
+
+The Loder rule: Pre-employment drug testing is constitutionally permissible for safety-sensitive and management positions. It is NOT automatically justified for all government employment positions.
+
+---
+
+THE NARROWING OF LODER:
+California constitutional privacy protection for existing employees from drug testing remains strong. Post-hiring testing typically requires:
+- Reasonable individualized suspicion, OR
+- A safety-sensitive position with a program satisfying the Hill/Loder balancing test
+
+Random or mass testing without reasonable suspicion generally fails the Hill serious-violation + compelling-interest balancing test for non-safety positions.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Loder establishes the balancing framework for government-imposed intrusions:
+
+1. **Medical examinations ordered in court proceedings**: Court-ordered psychological or medical evaluations of a parent in family court proceedings must satisfy Hill/Loder balancing. A court order for a psychological evaluation without factual basis or reasonable cause violates Art. I, § 1.
+
+2. **Compelled medical information disclosure**: Government agencies that demand or compel disclosure of medical records without legitimate investigative basis violate the privacy right (unless a recognized exception applies).
+
+3. **Competency evaluation abuse**: If the fraudulent psychiatric competency evaluation (at issue in the family law track) was ordered without legitimate cause and served as a pretext for custody manipulation, it is both a constitutional privacy violation and — if the evaluator fabricated findings — a substantive due process violation.
+
+4. **Calibrating the balancing test**: For each instance of compelled disclosure or examination, identify: (a) the specific privacy interest invaded, (b) the government's claimed justification, (c) whether the justification was pretextual, and (d) whether the means were narrowly tailored. Pretextual compelled examinations ordered without reasonable cause fail all three Hill elements.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 14 Cal.4th 846 (1997)
+Court: California Supreme Court
+Reporter: California Reports, Fourth Series, vol. 14, page 846
+Author: Chin, J.
+Source of this text: Claude training data (knowledge cutoff August 2025). Loder v. City of Glendale applied the Hill three-part test to employment drug testing, holding that pre-employment testing is constitutional only for safety-sensitive and management positions — not for all government employees universally.
+Verification: Casetext / Google Scholar: "Loder v. City of Glendale 14 Cal.4th 846"
+Verification status: PROPOSED — pending steward witness review

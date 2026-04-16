@@ -1,0 +1,105 @@
+{
+  "path_anchors": {
+    "_comment": "Symbolic anchors. Any string in this Citizen's records of the form ${name}/... resolves to anchors[name] + '/...'. To relocate a bucket, edit one line here.",
+    "familylaw":    "/home/vernenlegal/FamilyLaw",
+    "nonfamilylaw": "/home/vernenlegal/NonFamilyLaw",
+    "citizens":     "/home/vernenlegal/citizens",
+    "intake":       "/home/vernenlegal/Intake"
+  },
+
+  "citizen": "CUSTOS",
+  "citizen_id": "CITIZEN-019",
+  "tether_version": "0.1.0-initial",
+  "filed_at_utc": "2026-04-09T01:30:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "purpose": "CUSTOS is the mandatory first-contact Citizen for every document entering the Vernen system. No document reaches any other Citizen without a CUSTOS manifest. CUSTOS identifies legal obligations, jurisdiction, sensitive data categories, and routing — then either clears the document for Citizen processing or halts it for steward review.",
+
+  "blueprints_inherited": {
+    "from": [
+      "${citizens}/ADAM/dossier.md",
+      "${citizens}/ADAM/skills.md",
+      "${citizens}/EVE/dossier.md",
+      "${citizens}/EVE/skills.md"
+    ],
+    "blueprints": [
+      "Triple Constraint (Governing Guidelines / Standards of Creation / Standard of Care)",
+      "Five-Layer Bar (Rule + Reasoning + Historical Loss + Cross-References + Verifiable Provenance)",
+      "Two-Witness Rule (no artifact published without a second mouth)",
+      "Hash Chain + Anchor (every artifact hashed at production with provenance)"
+    ]
+  },
+
+  "gate_authority": {
+    "_comment": "CUSTOS is unique among Citizens: it does not analyze document content for audit purposes. It identifies what legal obligations the document creates for Vernen upon intake.",
+    "scope": [
+      "Legal obligation identification (HIPAA, CCPA, FRCP, state-specific)",
+      "Jurisdictional framework detection (Federal vs. State vs. Multi-jurisdictional)",
+      "Sensitive data categorization (PII, PHI, sealed, privileged)",
+      "Citizen routing (which Citizen(s) should receive this document)",
+      "Visual grounding enforcement (mandate that receiving Citizen reads source pixels)"
+    ],
+    "does_not_do": [
+      "Content analysis for audit findings",
+      "Legal strategy or case theory",
+      "Cross-reference to other case documents",
+      "Compliance scoring"
+    ],
+    "blocking_rule": "No Citizen may process a document without a CUSTOS manifest. A CUSTOS manifest with status HALTED requires steward countersignature before the document proceeds."
+  },
+
+  "infrastructure": {
+    "watcher_script": "${intake}/watcher.sh",
+    "intake_pending": "${intake}/pending",
+    "intake_cleared": "${intake}/cleared",
+    "intake_halted": "${intake}/halted",
+    "intake_logs": "${intake}/logs"
+  },
+
+  "routing_rules": {
+    "_comment": "Maps document characteristics to receiving Citizens. This is the initial routing table. As Citizens are built, entries are added here.",
+    "routes": [
+      {
+        "condition": "Family law court filings, custody documents, DVRO filings, mediator reports",
+        "route_to": "CA_Family_Law_Litigator",
+        "jurisdiction": "CA_STATE"
+      },
+      {
+        "condition": "Federal civil rights complaints, § 1983 filings, NDCA documents",
+        "route_to": "US_Federal_Civil_Rights_Litigator",
+        "jurisdiction": "FEDERAL"
+      },
+      {
+        "condition": "Medical records, operative reports, billing statements",
+        "route_to": "CA_Medical_Privacy_Officer",
+        "jurisdiction": "CA_STATE"
+      },
+      {
+        "condition": "Conservatorship filings, guardianship documents, capacity evaluations",
+        "route_to": "CA_Conservator_Investigator",
+        "jurisdiction": "CA_STATE"
+      },
+      {
+        "condition": "Property records, deeds, title documents, real estate contracts",
+        "route_to": "CA_Real_Estate_Attorney",
+        "jurisdiction": "CA_STATE"
+      },
+      {
+        "condition": "Vehicle records, DMV filings, auto purchase/title documents",
+        "route_to": "CA_Vehicle_Code_Specialist",
+        "jurisdiction": "CA_STATE"
+      },
+      {
+        "condition": "Identity documents, vital records, authentication requests",
+        "route_to": "CA_Records_Authentication_Specialist",
+        "jurisdiction": "CA_STATE"
+      }
+    ]
+  },
+
+  "visual_grounding_mandate": {
+    "_comment": "This exists because of a real failure: the CA_Family_Law_Litigator produced fabricated analysis from summaries instead of reading source documents. Ann Hillberg was misidentified. A phantom 'Hartmann' was invented. This mandate prevents that from ever happening again.",
+    "rule": "Every Citizen receiving a document from CUSTOS MUST read the document from its source file (pixels for scans, text for text files). No Citizen may rely on summaries, OCR alone, or secondhand descriptions. The CUSTOS manifest includes visual_grounding_required: true as a non-negotiable flag.",
+    "enforcement": "If a Citizen produces a finding that cannot be traced to a specific location in the source document, the finding is automatically INVALID and must be discarded.",
+    "origin": "Failure incident: CA_Family_Law_Litigator session, pre-CUSTOS. Litigator stated Christina's mother's grandparent visitation packet was filled out by Ann Hillberg (steward's mother, not Christina's). Referenced a phantom 'Hartmann' on court records. Root cause: document content was never read from source."
+  }
+}

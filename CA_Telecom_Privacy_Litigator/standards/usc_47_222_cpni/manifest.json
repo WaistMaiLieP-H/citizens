@@ -1,0 +1,49 @@
+{
+  "standard_id": "USC_47_222_CPNI",
+  "title": "47 U.S.C. § 222 — Privacy of Customer Proprietary Network Information",
+  "short_name": "CPNI — Carrier Duty to Protect Customer Information",
+  "citation": "47 U.S.C. § 222; implemented by 47 C.F.R. Part 64",
+  "jurisdiction": "Federal",
+  "court": "FCC (regulatory enforcement); U.S. District Courts (§ 207 private right of action)",
+  "type": "Federal Statute",
+  "domain": "telecommunications, CPNI, SIM swap authentication, carrier duty of care",
+  "enacted": "1996",
+  "origin_act": "Telecommunications Act of 1996 (Pub. L. 104-104, § 702)",
+  "last_material_amendment": "FCC Second Report and Order, WC Docket No. 21-441 (2024 SIM Swap rules)",
+  "current_version_date": "2024-01-01",
+  "positive_law": true,
+  "build_state": "PROPOSED",
+  "witness_state": "AWAITING-STEWARD",
+  "filed_at_utc": "2026-04-11T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "html_sha256": "PENDING_VERIFICATION",
+  "evolution_chain_hash": "PENDING_VERIFICATION",
+  "evolution_stages": [
+    "01_origin_1996",
+    "02_fcc_rules_2007",
+    "03_fcc_sim_swap_2024",
+    "04_current"
+  ],
+  "cases_documented": [
+    "fcc_in_re_att_2015"
+  ],
+  "cases_to_add": [
+    "FCC In re T-Mobile USA (2022) — $91.25M settlement for CPNI failures enabling SIM swap fraud",
+    "FCC In re Verizon (2024) — enforcement action for SIM swap authentication failures post-2024 rules"
+  ],
+  "cross_refs": [
+    "CAL_CIV_1798_80",
+    "USC_18_1030_CFAA",
+    "USC_47_222_FCC_PART64_REGS"
+  ],
+  "steward_relevance": "The AT&T, Verizon, and T-Mobile SIM swaps enabling Christina Cerretani's call interception and account takeover were violations of § 222(c)(1) — carrier disclosed CPNI (phone number identity, account access) to unauthorized parties (the SIM swap requestor) without approval of the customer (steward). The 2024 FCC SIM swap rules (WC Docket 21-441) also apply to events after their effective date.",
+  "first_step_triage": "Request CPNI access logs from each carrier under § 222(c)(2) (customer right to own CPNI on request). This gives evidence of: what was disclosed, to whom, when. File FCC complaint for each carrier (AT&T, Verizon, T-Mobile) under § 208 as prerequisite to § 207 private right of action. FCC complaint also creates official record for civil litigation.",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "version": "0.1.0-witnessed-by-herald",
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

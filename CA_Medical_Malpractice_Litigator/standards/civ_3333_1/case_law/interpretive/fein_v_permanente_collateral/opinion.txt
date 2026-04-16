@@ -1,0 +1,84 @@
+FEIN v. PERMANENTE MEDICAL GROUP
+38 Cal.3d 137 (1985)
+Supreme Court of California
+Decided: January 31, 1985
+Author: BIRD, C.J. (majority on damages); companion opinions on constitutional challenges
+
+---
+
+NOTE ON CITATION:
+Fein v. Permanente Medical Group appears in two primary contexts in the MICRA case law:
+(1) As the leading case upholding Civil Code § 3333.1 (collateral source rule modification) — this opinion.txt;
+(2) As the leading case upholding Civil Code § 3333.2 (noneconomic damages cap) — see civ_3333_2/case_law/uphold/fein_v_permanente.
+
+The 38 Cal.3d 137 citation covers both holdings from the same decision.
+
+---
+
+FACTS:
+
+Lawrence Fein suffered a heart attack while being treated by Permanente Medical Group. He alleged that Permanente's physicians negligently failed to diagnose his heart condition in time. The jury returned a verdict for Fein. On appeal, Permanente challenged the damages award and the constitutionality of MICRA, while Fein cross-appealed challenging MICRA's collateral source modification (§ 3333.1) and noneconomic damages cap (§ 3333.2).
+
+---
+
+HOLDING — CIVIL CODE § 3333.1 (COLLATERAL SOURCE RULE MODIFICATION):
+
+The California Supreme Court upheld Civil Code § 3333.1 against constitutional challenge.
+
+WHAT § 3333.1 DOES:
+In medical malpractice cases, § 3333.1(a) allows either party to introduce evidence that the plaintiff has received medical treatment or disability benefits from a collateral source (insurance, workers' compensation, Medicare/Medicaid, Social Security disability).
+
+§ 3333.1(b): If such evidence is introduced, the defendant may also introduce evidence of the premium paid by the plaintiff for the insurance (to show the plaintiff paid for the benefit).
+
+THE EFFECT: The trier of fact considers the collateral benefits received in assessing damages. The plaintiff does not receive a double recovery for losses already compensated by insurance. If the plaintiff received $200,000 in medical expense payments from her insurance company, the jury may reduce the defendant's liability by that amount.
+
+---
+
+CONSTITUTIONAL CHALLENGES REJECTED:
+
+EQUAL PROTECTION: The court held that MICRA's collateral source modification satisfies rational basis review. The Legislature had a rational basis for modifying the collateral source rule in medical malpractice cases specifically — to reduce the cost of medical malpractice judgments, which in turn was intended to reduce malpractice insurance premiums and protect access to medical care.
+
+DUE PROCESS: The modification does not deprive injured patients of a constitutionally protected property interest. Plaintiffs retain the right to recover all uncompensated losses; the modification prevents double recovery for compensated losses only.
+
+---
+
+PRACTICAL EFFECT OF § 3333.1:
+
+PLAINTIFF'S STRATEGY:
+In medical malpractice cases, plaintiffs must document all economic losses before trial, including what was and was not paid by insurers. The key calculation:
+- Total medical expenses incurred;
+- MINUS amounts paid by health insurance (which defendant may introduce under § 3333.1);
+- EQUALS the plaintiff's remaining uncompensated medical expenses.
+
+Plaintiffs should also present evidence of:
+- Future medical expenses (not yet incurred, so no collateral source offset);
+- Loss of future earning capacity (typically not offset by disability benefits);
+- Noneconomic damages (pain and suffering — not offset by any collateral source).
+
+SUBROGATION RIGHTS:
+If the plaintiff's health insurer paid medical expenses, the insurer may have subrogation rights against the malpractice recovery. Plaintiffs must account for subrogation in calculating net recovery.
+
+---
+
+APPLICATION TO SIRVA / SURGICAL MALPRACTICE:
+
+For a SIRVA case where the patient:
+- Received workers' compensation or Medicare/Medicaid for the shoulder injury treatment;
+- Received Social Security disability benefits during the period of disability;
+
+Under § 3333.1:
+1. The defendant healthcare provider may introduce evidence of these collateral benefits;
+2. The jury may reduce the defendant's damages liability by the amount of benefits received;
+3. The plaintiff should anticipate this and focus damages presentation on: (a) future unreimbursed medical costs; (b) wage loss not covered by disability; (c) noneconomic damages (unaffected by § 3333.1).
+
+---
+
+SOURCE PROVENANCE:
+Citation: 38 Cal.3d 137 (1985)
+Official reporter: California Reports, Third Series, vol. 38, page 137
+Court: Supreme Court of California
+Key holding (§ 3333.1 aspect): MICRA collateral source rule modification upheld; allows introduction of collateral benefit evidence; reduces double recovery
+Source of this text: Claude training data (knowledge cutoff August 2025). Fein v. Permanente Medical Group is the controlling California authority on § 3333.1 constitutionality. Full verbatim text should be verified at:
+  - courts.ca.gov
+  - Google Scholar: "Fein v. Permanente Medical Group 38 Cal.3d"
+Verification status: PROPOSED — pending steward witness review

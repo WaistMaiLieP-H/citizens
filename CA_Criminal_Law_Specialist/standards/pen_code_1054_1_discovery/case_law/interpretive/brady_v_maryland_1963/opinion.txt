@@ -1,0 +1,59 @@
+BRADY v. MARYLAND
+373 U.S. 83 (1963)
+United States Supreme Court
+Decided: May 13, 1963
+
+---
+
+FACTS:
+
+John Brady and a companion were convicted of murder in Maryland. Before trial, Brady's attorney requested any extrajudicial statements by Brady's companion. The prosecution complied but withheld one statement in which the companion admitted to actually committing the killing. Brady was sentenced to death. After conviction, the withheld statement was discovered.
+
+---
+
+HOLDING:
+
+THE BRADY RULE — CONSTITUTIONAL DISCLOSURE OBLIGATION:
+
+1. **Suppression of favorable evidence upon request violates due process where the evidence is material to guilt or punishment.** This is the core Brady rule — it is not limited to exculpatory evidence but also extends to evidence material to sentencing.
+
+2. **The rule applies regardless of the prosecution's good faith or bad faith.** The prosecution's intent to suppress is irrelevant. If the evidence is favorable and material, suppression is unconstitutional regardless of why it was withheld.
+
+3. **"Material" evidence creates a reasonable probability of a different outcome.** If the suppressed evidence would have created a reasonable probability of acquittal or lesser sentence, the Brady violation is complete.
+
+4. **The Brady obligation is affirmative — no defense request required.** Although Brady involved a request, United States v. Agurs (1976) 427 U.S. 97 clarified that the obligation exists even without a specific request. The prosecution must affirmatively search for and disclose material favorable evidence.
+
+5. **Brady extends to impeachment evidence.** Giglio v. United States (1972) 405 U.S. 150 extended Brady to impeachment evidence — any deal, promise, or benefit given to a prosecution witness in exchange for testimony must be disclosed.
+
+---
+
+MATERIALITY STANDARD (subsequent refinement):
+
+Strickler v. Greene (1999) 527 U.S. 263 established three Brady violation elements: (1) the evidence is favorable to the accused (exculpatory or impeaching); (2) it was suppressed by the prosecution either willfully or inadvertently; (3) prejudice resulted — the evidence was material (reasonable probability of different outcome if disclosed).
+
+Kyles v. Whitley (1995) 514 U.S. 419: Brady materiality is assessed by looking at the cumulative effect of all suppressed evidence, not each item in isolation. Even individually minor suppressions can combine to create a Brady violation.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For case 04-23-01959 (Contra Costa — § 273d), Brady material includes:
+1. Any prior reports involving the same child and similar allegations that were not sustained
+2. Any CPS notes showing inconsistencies in the child's account
+3. Any evidence that the reporting party had a motive to fabricate (custody dispute leverage)
+4. Any APD officer communications showing coordination with family law proceedings or parties
+5. Any exculpatory physical evidence (medical records showing no injury consistent with the allegation)
+6. Any prior false report history of the reporting witness under § 148.5
+7. Any benefits or promises given to any witness (Giglio)
+
+Brady demand must specifically list each category. After a specific written demand, any non-disclosure is willful on its face.
+
+---
+
+SOURCE PROVENANCE:
+Citation: Brady v. Maryland (1963) 373 U.S. 83, 83 S.Ct. 1194, 10 L.Ed.2d 215
+Court: United States Supreme Court
+Reporter: United States Reports, vol. 373, page 83
+Source: Primary — foundational United States Supreme Court case. Knowledge cutoff August 2025. Still the controlling constitutional floor for criminal discovery in every federal and state court.
+Verification: Westlaw / Google Scholar: "Brady v. Maryland 373 U.S. 83"
+Verification status: PROPOSED — verified citation; pending steward witness review

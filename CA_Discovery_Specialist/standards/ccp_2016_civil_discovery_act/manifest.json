@@ -1,0 +1,36 @@
+{
+  "standard_id": "CA_CCP_2016_CIVIL_DISCOVERY_ACT",
+  "version": "1.0.0-proposed",
+  "filed_at_utc": "2026-04-12T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "status": "PROPOSED",
+  "primary_citation": {
+    "code": "California Code of Civil Procedure",
+    "section": "§§ 2016.010 et seq.",
+    "popular_name": "Civil Discovery Act",
+    "jurisdiction": "California (state)",
+    "original_enactment": "Stats. 2004, Ch. 182 — effective January 1, 2005 (recodification of former discovery statutes)",
+    "positive_law_status": "In force; primary civil discovery framework for California superior court"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current/text.txt contains key operative sections",
+    "reasoning": "PRESENT — current/context.md documents six discovery mechanisms, scope standard, proportionality, ESI, case applications",
+    "historical_loss": "PRESENT — historical_chain.md documents pre-2004 patchwork, 2004 recodification response",
+    "cross_references": "PRESENT — cross_refs/refs.json",
+    "verifiable_provenance": "PARTIAL — 2004 enactment; current text at leginfo"
+  },
+  "six_mechanisms": [
+    "Oral depositions (§2025.010 et seq.)",
+    "Written interrogatories (§2030.010 et seq.) — 35 limit",
+    "Inspection demands (§2031.010 et seq.)",
+    "Requests for admission (§2033.010 et seq.)",
+    "Physical/mental examinations (§2032.010 et seq.)",
+    "Expert witness exchange (§2034.010 et seq.)"
+  ],
+  "citizen_relevance": "Governs all civil discovery in California superior court proceedings. Provides the six tools for compelling testimony (deposition), document production (inspection demands), admission of facts (RFAs), and ESI from parties. PMQ depositions of pension Trust, inspection demands for retirement election records, RFAs to establish undisputed facts about authorization, and ESI requests for database records are all governed by this Act.",
+  "two_witness_status": {
+    "status": "PROPOSED",
+    "first_mouth": "Claude (assistant)",
+    "second_mouth": "PENDING — steward review required"
+  }
+}

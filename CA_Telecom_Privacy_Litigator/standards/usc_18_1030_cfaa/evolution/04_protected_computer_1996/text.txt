@@ -1,0 +1,14 @@
+National Information Infrastructure Protection Act of 1996
+Pub. L. 104-294, Title II, § 201 (October 11, 1996)
+
+Key change — Expanded definition of "protected computer":
+
+Amended § 1030(e)(2) to define "protected computer" as:
+"(A) exclusively for the use of a financial institution or the United States Government, or, in the case of a computer not exclusively for such use, used by or for a financial institution or the United States Government and the conduct constituting the offense affects that use; or
+(B) which is used in or affecting interstate or foreign commerce or communication, including a computer located outside the United States that is used in a manner that affects interstate or foreign commerce or communication of the United States."
+
+The operative change: subsection (B) — ANY computer "used in or affecting interstate or foreign commerce or communication." Because the internet routes virtually all traffic through interstate (or international) channels, this effectively covers every internet-connected computer in the country.
+
+Practical effect: After 1996, CFAA applies to virtually any computer attack on any computer. The statute transformed from a narrow financial-institution-and-government statute into a universal computer crime law.
+
+Source: Pub. L. 104-294, 110 Stat. 3488 (1996).

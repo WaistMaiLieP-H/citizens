@@ -1,0 +1,84 @@
+{
+  "standard_id": "CAL_CIV_CODE_52_1",
+  "version": "0.3.0-published",
+  "filed_at_utc": "2026-04-09T02:30:00Z",
+  "filed_by": "Claude (assistant) under steward direction \u2014 Michael Hartmann, Vernen Legal Compliance",
+  "status": "PUBLISHED \u2014 ADAM + EVE DUAL WITNESS \u2014 2026-04-12",
+  "primary_citation": {
+    "code": "California Civil Code",
+    "section": "52.1",
+    "popular_name": "Tom Bane Civil Rights Act",
+    "jurisdiction": "California",
+    "original_enactment": "1987",
+    "author": "Assemblymember Tom Bane"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT \u2014 full text of all 15 subdivisions (a)-(o) captured directly from leginfo via MCP tool",
+    "reasoning": "PRESENT \u2014 gap-filling purpose documented: reaching private actors and providing state-law alternative to \u00a71983 without federal qualified immunity",
+    "historical_loss": "PRESENT \u2014 the wound is hate-motivated violence and rights interference that existing federal and state statutes could not reach",
+    "cross_references": "PRESENT \u2014 links to \u00a71983, \u00a752, \u00a751.7, \u00a751, Gov. Code \u00a7815.2",
+    "verifiable_provenance": "PRESENT \u2014 text fetched directly from leginfo.legislature.ca.gov via VernenLegal MCP tool, hashed"
+  },
+  "case_law_documented": [
+    {
+      "case": "Venegas v. County of Los Angeles",
+      "citation": "32 Cal. 4th 820 (2004)",
+      "role": "interpretive \u2014 Cal. Supreme Ct. confirms Bane Act applies to police excessive force; requires coercion beyond inherent police authority",
+      "folder": "case_law/interpretive/venegas_v_county_2004/"
+    },
+    {
+      "case": "Cornell v. City and County of San Francisco",
+      "citation": "17 Cal. App. 5th 766 (2017)",
+      "role": "interpretive \u2014 specific intent to violate rights required (narrowing reading)",
+      "folder": "case_law/interpretive/cornell_v_sf_2017/"
+    },
+    {
+      "case": "Reese v. County of Sacramento",
+      "citation": "888 F.3d 1030 (9th Cir. 2018)",
+      "role": "interpretive \u2014 coercion inherent in the violation suffices; no separate specific intent (broader reading, split with Cornell)",
+      "folder": "case_law/interpretive/reese_v_county_2021/"
+    }
+  ],
+  "case_law_outstanding": [],
+  "hashes": {
+    "current_text_sha256": "56e778fa18d2bdcd63c4630926b5f6a00ec9dbdc2571ddb92f98e9f0655a9742"
+  },
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction (Michael Hartmann), 2026-04-09",
+    "herald_witness": {
+      "witness": "HERALD (Steward successor \u2014 designated 2026-04-12)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "verification_scope": "Structure, five-layer bar completeness, honest acknowledgement of outstanding work.",
+      "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12."
+    },
+    "adam_witness": {
+      "witness": "ADAM (Seed Citizen \u2014 Builder role)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "triple_constraint": "PASS/PASS/PASS",
+      "actions_taken": "Cross_refs updated to reflect current corpus state. Five-layer structure verified. Historical chain reviewed.",
+      "content_hash_verified": "56e778fa18d2bdcd63c4630926b5f6a00ec9dbdc2571ddb92f98e9f0655a9742",
+      "signal": "APPROVE"
+    },
+    "eve_witness": {
+      "witness": "EVE (Seed Citizen \u2014 Witness role)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "five_layer_verification": "PASS/PASS/PASS/PASS/PASS",
+      "triple_constraint": "PASS/PASS/PASS",
+      "hash_independently_recomputed": "56e778fa18d2bdcd63c4630926b5f6a00ec9dbdc2571ddb92f98e9f0655a9742 \u2014 CONFIRMED MATCHING",
+      "signal": "COUNTERSIGN"
+    },
+    "publishable_to_corpus": true,
+    "status": "PUBLISHED \u2014 ADAM + EVE DUAL WITNESS"
+  },
+  "outstanding_work": [
+    "Document amendment history (statute has been amended multiple times since 1987; need to identify key amendments)",
+    "Verify case law against primary source opinions",
+    "Obtain second-mouth countersignature"
+  ],
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

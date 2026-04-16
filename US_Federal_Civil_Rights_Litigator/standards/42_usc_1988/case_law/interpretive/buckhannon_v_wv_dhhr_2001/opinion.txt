@@ -1,0 +1,82 @@
+BUCKHANNON BOARD AND CARE HOME, INC. v. WEST VIRGINIA DEPARTMENT OF HEALTH AND HUMAN RESOURCES
+532 U.S. 598 (2001)
+United States Supreme Court
+Decided: May 29, 2001
+
+---
+
+FACTS:
+
+Buckhannon Board and Care Home operated residential care facilities in West Virginia. The state threatened to close the facilities for failing to comply with a "self-preservation" requirement (residents had to be able to self-evacuate in an emergency). Buckhannon sued under the ADA and Fair Housing Act, seeking injunctive relief. While the suit was pending, West Virginia's legislature eliminated the self-preservation requirement. The state then moved to dismiss as moot.
+
+Buckhannon, though it had achieved the relief it sought (the offending requirement was eliminated), sought attorney's fees as a "prevailing party" under § 1988 and analogous fee-shifting statutes. Buckhannon argued it was a prevailing party under the "catalyst theory" — because its lawsuit was the catalyst that caused the legislative change.
+
+The district court dismissed both the case (moot) and the fee claim. The Fourth Circuit affirmed.
+
+---
+
+HOLDING:
+
+Chief Justice Rehnquist wrote for the Court (5-4).
+
+THE CATALYST THEORY IS REJECTED:
+"We hold that the 'catalyst theory' is not a permissible basis for the award of attorney's fees under the FHAA and ADA."
+
+To qualify as a "prevailing party" entitled to fees under § 1988 (and analogous fee-shifting statutes), a plaintiff must achieve:
+1. A court-ordered change in the legal relationship between the plaintiff and the defendant, OR
+2. A consent decree or settlement approved by the court
+
+A CHANGE IN DEFENDANT'S BEHAVIOR WITHOUT COURT ORDER DOES NOT SUFFICE:
+"A defendant's voluntary change in conduct, although perhaps accomplishing what the plaintiff sought to achieve by the lawsuit, lacks the necessary judicial imprimatur on the change."
+
+The plaintiff must have obtained an "enforceable judgment on the merits" or a "court-ordered consent decree." Informal settlement, voluntary abandonment by the defendant, or mootness achieved through legislative change — without a court order — does not make the plaintiff a prevailing party.
+
+---
+
+THE BUCKHANNON RULE (STILL THE CONTROLLING STANDARD):
+A § 1988 prevailing party is one who has:
+1. Won a judgment on the merits (even a partial judgment on a significant issue)
+2. Entered a court-ordered consent decree
+3. Obtained a preliminary injunction that materially altered the parties' relationship
+
+NOT a prevailing party:
+1. Plaintiff who "won" because defendant voluntarily changed behavior
+2. Plaintiff whose case was dismissed as moot (even if defendant mooted it by complying)
+3. Plaintiff who obtained informal settlement without court approval
+
+---
+
+PRACTICAL IMPLICATION — THE BUCKHANNON TRAP:
+Defendants can "moot out" a civil rights plaintiff's case by voluntarily providing the requested relief — and then argue the plaintiff is not a prevailing party entitled to fees. This creates a perverse incentive: defendants who know they'll lose can delay until they must comply, then comply voluntarily, defeating the fee claim.
+
+Response strategies:
+1. Obtain a consent decree rather than an informal settlement
+2. Ensure any settlement agreement provides for court entry and judicial approval
+3. Seek a declaratory judgment even when injunctive relief is obtained
+4. Obtain a preliminary injunction (which may constitute enough "judicial imprimatur" for prevailing party status)
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Buckhannon shapes the structure of any § 1983 settlement or resolution:
+
+1. **Never settle without court approval**: If the § 1983 defendants offer to change their behavior, compliance with their offer or an informal settlement does not create prevailing party status. The settlement must be court-entered.
+
+2. **Secure a judgment or consent decree**: Even a partial summary judgment win on a significant constitutional issue creates prevailing party status under Tex. State Teachers Ass'n v. Garland (1989), even if not all relief is obtained.
+
+3. **Declaratory relief**: A declaratory judgment that the defendant's conduct was unconstitutional creates prevailing party status and supports a fee application even if no damages are awarded.
+
+4. **Pro se note**: Pro se litigants generally cannot recover § 1988 fees for their own time (Kay v. Ehrler). But if an attorney is involved, Buckhannon ensures fees follow only from court-ordered outcomes.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 532 U.S. 598 (2001)
+Court: United States Supreme Court
+Reporter: United States Reports, vol. 532, page 598
+Author: Rehnquist, C.J. (5-4)
+Dissent: Ginsburg, J. (joined by Stevens, Souter, Breyer)
+Source of this text: Claude training data (knowledge cutoff August 2025). Buckhannon Board & Care Home v. West Virginia rejected the "catalyst theory" for prevailing party status — a court order is required to trigger § 1988 fee eligibility.
+Verification: CourtListener / Justia / Google Scholar: "Buckhannon Board & Care Home v. West Virginia 532 U.S. 598"
+Verification status: PROPOSED — pending steward witness review

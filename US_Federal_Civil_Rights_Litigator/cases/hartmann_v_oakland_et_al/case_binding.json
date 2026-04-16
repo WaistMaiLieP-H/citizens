@@ -1,0 +1,84 @@
+{
+  "case_id": "hartmann_v_oakland_et_al",
+  "case_caption": "Hartmann v. City of Oakland, et al.",
+  "court": "United States District Court, Northern District of California, Oakland Division",
+  "case_number": "NOT YET FILED",
+  "filed_date": null,
+  "status": "DRAFTED — complaint at ~/Downloads/FEDERAL_COMPLAINT_1983.txt",
+
+  "claims": [
+    {
+      "statute": "42 USC §1983",
+      "standard_path": "${citizens}/US_Federal_Civil_Rights_Litigator/standards/42_usc_1983/",
+      "constitutional_rights": ["Fourth Amendment (unreasonable seizure)", "Fourteenth Amendment (due process)"],
+      "theory": "Defendants acting under color of state law deprived plaintiff of custody without due process, fabricated police reports, manipulated law enforcement responses"
+    },
+    {
+      "statute": "42 USC §1985",
+      "standard_path": "${citizens}/US_Federal_Civil_Rights_Litigator/standards/42_usc_1985/",
+      "theory": "Conspiracy among defendants to deprive plaintiff of equal protection and constitutional rights"
+    }
+  ],
+
+  "jurisdiction": {
+    "primary": "28 USC §1331 (federal question)",
+    "specific": "28 USC §1343 (civil rights)",
+    "standard_path": "${citizens}/US_Federal_Civil_Rights_Litigator/standards/28_usc_1343/",
+    "supplemental": "28 USC §1367 (state law claims)"
+  },
+
+  "defendants": [
+    {
+      "name": "City of Oakland",
+      "type": "municipal corporation",
+      "capacity": "entity (Monell — official policy or custom)",
+      "shared_actor_id": null
+    },
+    {
+      "name": "City of Antioch",
+      "type": "municipal corporation",
+      "capacity": "entity (Monell)",
+      "shared_actor_id": null
+    },
+    {
+      "name": "City of Benicia",
+      "type": "municipal corporation",
+      "capacity": "entity (Monell)",
+      "shared_actor_id": null
+    },
+    {
+      "name": "Ann C. Hillberg",
+      "capacity": "individually and in her capacity as a State of California employee",
+      "shared_actor_id": "hillberg_ann",
+      "shared_actor_path": "${citizens}/_shared_actors/hillberg_ann.json"
+    },
+    {
+      "name": "Christina Cerretani",
+      "capacity": "individually",
+      "shared_actor_id": "cerretani_christina",
+      "shared_actor_path": "${citizens}/_shared_actors/cerretani_christina.json"
+    },
+    {
+      "name": "Does 1-10",
+      "capacity": "inclusive",
+      "note": "Placeholder for officers, mediators, and other state actors to be identified"
+    }
+  ],
+
+  "fees": {
+    "statute": "42 USC §1988",
+    "standard_path": "${citizens}/US_Federal_Civil_Rights_Litigator/standards/42_usc_1988/"
+  },
+
+  "ifp_status": "IFP application prepared (per memory: project_federal_complaint_draft.md)",
+
+  "complaint_source": "~/Downloads/FEDERAL_COMPLAINT_1983.txt",
+
+  "applicable_workflows": [
+    "case_workflows/section_1983_complaint_drafting.md",
+    "case_workflows/qualified_immunity_analysis.md",
+    "case_workflows/section_1985_conspiracy_pleading.md"
+  ],
+
+  "filed_at_utc": "2026-04-09T02:15:00Z"
+}

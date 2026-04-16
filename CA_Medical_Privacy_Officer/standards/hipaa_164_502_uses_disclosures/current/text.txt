@@ -1,0 +1,40 @@
+45 CFR § 164.502 — Uses and Disclosures of Protected Health Information: General Rules
+
+(a) Standard. A covered entity or business associate may not use or disclose protected health information, except as permitted or required by this subpart or by subpart C of part 160 of this subchapter.
+
+(1) Permitted uses and disclosures. A covered entity or business associate is permitted to use or disclose protected health information as follows:
+(i) To the individual;
+(ii) For treatment, payment, or health care operations, as permitted by and in compliance with § 164.506;
+(iii) Incident to a use or disclosure otherwise permitted or required as provided in paragraph (a)(1) of this section;
+(iv) Except for uses and disclosures prohibited under § 164.502(a)(5)(i), pursuant to and in compliance with a valid authorization under § 164.508;
+(v) Pursuant to an agreement under, or as otherwise permitted by, § 164.510; and
+(vi) As permitted by and in compliance with this section, § 164.512, § 164.514(e), (f), or (g).
+
+(2) Required disclosures. A covered entity is required to disclose protected health information:
+(i) To an individual, when requested under § 164.524 or § 164.528; and
+(ii) When required by the Secretary under subpart C of part 160 of this subchapter to investigate or determine the covered entity's compliance with this subchapter.
+
+(b) Standard: Minimum necessary.
+(1) Minimum necessary applies. When using or disclosing protected health information or when requesting protected health information from another covered entity or business associate, a covered entity or business associate must make reasonable efforts to limit protected health information to the minimum necessary to accomplish the intended purpose of the use, disclosure, or request.
+
+(2) Minimum necessary does not apply. This requirement does not apply to:
+(i) Disclosures to or requests by a health care provider for treatment purposes;
+(ii) Uses or disclosures made to the individual as permitted under paragraph (a)(1)(i) of this section or as required by paragraph (a)(2)(i) of this section;
+(iii) Uses or disclosures made pursuant to an authorization under § 164.508, if the authorization specifically permits the requested use or disclosure;
+(iv) Disclosures made to the Secretary in accordance with subpart C of part 160 of this subchapter;
+(v) Uses or disclosures that are required by law as described by § 164.512(a); and
+(vi) Uses or disclosures that are required for compliance with applicable requirements of this subchapter.
+
+(d) Standard: Uses and disclosures of protected health information subject to an agreed upon restriction. A covered entity that has agreed to a restriction pursuant to § 164.522(a)(1) may not use or disclose the protected health information covered by the restriction in violation of such restriction, except as otherwise provided in § 164.522(a).
+
+(e) Standard: Disclosures to business associates.
+(1) A covered entity may disclose protected health information to a business associate and may allow a business associate to create, receive, maintain, or transmit protected health information on its behalf, if the covered entity obtains satisfactory assurance, in accordance with § 164.504(e), that the business associate will appropriately safeguard the information.
+
+(f) Standard: Deceased individuals. A covered entity must comply with the requirements of this subpart with respect to the protected health information of a deceased individual.
+
+(g)(1) Standard: Personal representatives. As specified in this paragraph, a covered entity must, except as provided in paragraphs (g)(3) and (g)(5) of this section, treat a personal representative the same as the individual, with respect to uses and disclosures of the individual's protected health information, as well as the individual's rights under this subpart.
+
+(i) Patient's authorization as default. Except as otherwise permitted or required by this subchapter, a covered entity may not use or disclose protected health information without an authorization that is valid under § 164.508.
+
+---
+SOURCE: 45 CFR § 164.502 (HIPAA Privacy Rule). Current text as of 2023 amendments implementing 42nd Congress provisions. Full text available at ecfr.gov Title 45, Part 164, Subpart E. NOTE: This is a representative extract of the operative provisions most relevant to unauthorized disclosure and minimum necessary analysis. Practitioners should verify full current text at eCFR.

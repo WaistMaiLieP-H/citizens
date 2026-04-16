@@ -1,0 +1,22 @@
+{
+  "layer": "historical_chain",
+  "stage": "01_origin_1973",
+  "standard_id": "REHAB_ACT_504_NO_EXCLUSION",
+  "enacting_law": "Rehabilitation Act of 1973, Pub. L. 93-112, § 504, 87 Stat. 394 (September 26, 1973)",
+  "signed_by": "President Richard M. Nixon",
+  "signed_date": "1973-09-26",
+  "effective_date": "1973-09-26 (statute); 1977-04-28 (implementing regulations — delayed by HEW for four years)",
+  "official_source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section794",
+  "verified": false,
+  "verified_note": "USC tool blocked for Title 29 at build time; text from training knowledge. Verify at uscode.house.gov.",
+  "wound_record": "Pre-1973: no federal law prohibited exclusion of disabled individuals from federally-funded programs. § 504 was modeled on Title VI (race discrimination) and Title IX (sex discrimination) — brief add-on with sweeping implications that its drafters may not have fully recognized. HEW then refused to issue implementing regulations for four years, rendering the statute unenforceable. The 1977 sit-in (25 days in San Francisco HEW office; solidarity from Black Panther Party, UFW) forced Secretary Califano to sign the regulations. Grove City College v. Bell (1984) then narrowed the statute to program-specific coverage, forcing Congress to pass the CRRA (1987) to restore institution-wide coverage.",
+  "crra_note": "Civil Rights Restoration Act of 1987 (Pub. L. 100-259) — enacted over President Reagan's veto; restored institution-wide coverage; if any part of an entity receives federal funds, all programs of that entity are covered by §504, Title VI, Title IX, and Age Discrimination Act",
+  "key_milestones": [
+    "1973-09-26: §504 enacted (three sentences; sweeping implication not initially recognized)",
+    "1973–1977: HEW refuses to issue implementing regulations",
+    "1977-04-05: Disability rights organizations occupy HEW offices in 8 cities",
+    "1977-04-28: HEW Secretary Califano signs Section 504 regulations (San Francisco occupation: 25 days)",
+    "1984: Grove City College v. Bell narrows §504 to program-specific coverage",
+    "1987-03-22: CRRA enacted — institution-wide coverage restored; Grove City reversed"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "standard_id": "CA_PEN_835A",
+  "provenance_record_filed_at_utc": "2026-04-10T12:00:00Z",
+  "fetcher_software": "OUTSTANDING — primary source fetch not yet performed",
+  "fetcher_operator": "Claude (assistant) under steward direction (Michael Hartmann)",
+  "verification_principle": "Current-form HTML from leginfo.legislature.ca.gov is the primary artifact. The HTML snapshot will be hashed at fetch time so a future verifier can confirm it matches what the source served on that date.",
+  "fetches": [
+    {
+      "artifact_local_path": "current/ (EMPTY — fetch outstanding)",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=835a.&lawCode=PEN",
+      "source_authority": "California Legislative Information (leginfo.legislature.ca.gov)",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "OUTSTANDING",
+      "fetch_method": "OUTSTANDING — will use curl -sSL with Vernen-Provenance user-agent",
+      "file_size_bytes": null,
+      "sha256": null,
+      "content_description": "Penal Code section 835a — Use of Force by Peace Officers (AB 392 rewrite)"
+    }
+  ]
+}

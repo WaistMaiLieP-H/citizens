@@ -1,0 +1,51 @@
+{
+  "standard_id": "pen_code_1001_95_misdemeanor_diversion",
+  "statute": "California Penal Code § 1001.95",
+  "short_title": "Misdemeanor Diversion (Judge-Initiated)",
+  "citizen": "CA_Criminal_Law_Specialist",
+  "version": "1.1.0-witnessed-by-herald",
+  "created_at_utc": "2026-04-11T00:00:00Z",
+  "created_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "five_layer_status": {
+    "layer_1_rule": "COMPLETE — Pen. Code § 1001.95 text in current/text.txt",
+    "layer_2_reasoning": "COMPLETE — Eligibility, exclusions, judge discretion, prosecution objection irrelevant, 24-month max, completion → dismissal + record restriction in current/context.md",
+    "layer_3_historical_loss": "COMPLETE — 2021 enactment, pre-AB 3234 county-level variability, loss pattern documented in historical_chain.md",
+    "layer_4_cross_refs": "COMPLETE — 8 cross-references in cross_refs/refs.json covering companion tracks, exclusions, alternative diversion programs, legislative history",
+    "layer_5_provenance": "PARTIAL — No case law entries yet built. Primary statute is the operative document. Case law layer to be built in next session."
+  },
+  "five_layer_score": "4.5 / 5",
+  "case_law": {
+    "interpretive": [],
+    "note": "§ 1001.95 is relatively new (2021); case law is still developing. Priority cases to build: People v. Sheridan and any published decisions on scope of judicial discretion and excluded offense list interpretation."
+  },
+  "outstanding_work": [
+    {
+      "priority": "MEDIUM",
+      "item": "Build case law entries for judicial discretion scope under § 1001.95",
+      "reason": "Post-2021 published decisions needed to show courts have upheld judge-over-prosecutor discretion framework"
+    },
+    {
+      "priority": "MEDIUM",
+      "item": "Confirm M25-00758 specific charge against excluded offense list",
+      "reason": "If the charge falls within an excluded category (DV, stalking, sex offense), this track is unavailable and must be flagged immediately"
+    }
+  ],
+  "steward_case_connections": [
+    {
+      "case_id": "M25-00758",
+      "direction": "defendant",
+      "use": "Backup diversion track if § 1001.36 unavailable; judge can grant over prosecution objection; 24-month max with dismissal and record restriction on completion"
+    }
+  ],
+  "statute_enacted": "2021 (AB 3234, Stats. 2020, Ch. 334)",
+  "wobbler_note": "§ 1001.95 applies only to misdemeanors; felony charges require reduction to misdemeanor before this track applies",
+  "prosecution_veto": false,
+  "prosecution_veto_note": "Prosecution objection insufficient to block diversion — judge controls the decision",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

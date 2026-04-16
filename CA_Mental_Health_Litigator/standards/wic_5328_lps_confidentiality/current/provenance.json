@@ -1,0 +1,10 @@
+{
+  "standard_id": "wic_5328_lps_confidentiality",
+  "fetched_at": "2026-04-15",
+  "source": "leginfo.legislature.ca.gov",
+  "tool": "mcp__claude_ai_VernenLegal__california_get_section",
+  "code": "WIC",
+  "section": "5328",
+  "verified": true,
+  "notes": "Full enumerated subdivisions (a)(1)–(a)(28) + (b)–(d) fetched live 2026-04-15. Rule layer contains structured exception map."
+}

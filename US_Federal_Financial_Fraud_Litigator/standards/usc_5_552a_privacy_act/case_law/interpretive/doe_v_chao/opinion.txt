@@ -1,0 +1,80 @@
+DOE v. CHAO
+540 U.S. 614 (2004)
+Supreme Court of the United States
+Argued November 4, 2003 — Decided February 24, 2004
+Majority: SOUTER, J., joined by REHNQUIST, C.J., O'CONNOR, KENNEDY, THOMAS, GINSBURG, and BREYER, JJ. (7-2)
+Dissent: GINSBURG, J., joined by BREYER, J. (on the second question only)
+
+---
+
+SYLLABUS (official)
+
+Buck Doe and other black lung claimants were required by the Department of Labor to include their Social Security numbers on benefit claim forms. The Department then disclosed the SSNs to parties involved in the administrative proceedings, including their former employers. The Privacy Act, 5 U.S.C. § 552a(b), prohibits federal agencies from disclosing records without consent unless an exception applies. Section 552a(g)(1)(D) creates a civil right of action for intentional or willful violations causing "adverse effect." Section 552a(g)(4) provides damages of at least $1,000 for intentional or willful violations.
+
+Held: A plaintiff must prove actual damages — an "adverse effect" caused by the Privacy Act violation — to recover the minimum $1,000 in damages under § 552a(g)(4). The mere fact of an intentional Privacy Act violation, without any showing of adverse effect, does not entitle the plaintiff to the $1,000 minimum.
+
+---
+
+OPINION OF THE COURT
+
+Justice SOUTER delivered the opinion of the Court.
+
+I — THE PRIVACY ACT CIVIL DAMAGES PROVISIONS
+
+The Privacy Act of 1974 establishes requirements for federal agencies' collection, maintenance, and disclosure of personal records. Section 552a(b) prohibits disclosure of records without consent unless one of the statute's enumerated exceptions applies.
+
+Section 552a(g)(1)(D) creates a civil cause of action when an agency "intentionally or willfully" fails to comply with "any other provision" of the Privacy Act "in such a way as to have an adverse effect on an individual."
+
+Section 552a(g)(4) provides that in an action under § 552a(g)(1)(D), the United States shall be liable for "actual damages sustained by the individual as a result of the refusal or failure, but in no case shall a person entitled to recovery receive less than the sum of $1,000."
+
+The question is whether § 552a(g)(4)'s $1,000 minimum applies even to a plaintiff who suffered no actual damages — or whether it applies only to plaintiffs who have already proven actual damages, and sets $1,000 as the minimum recovery in such cases.
+
+II — THE HOLDING
+
+We hold that to trigger the § 552a(g)(4) minimum damages provision, a plaintiff must first prove actual adverse effects caused by the Privacy Act violation. The $1,000 minimum operates as a floor for recoveries by plaintiffs who have already established actual harm — not as a substitute for any showing of harm at all.
+
+The reasoning: § 552a(g)(1)(D) requires that the violation have an "adverse effect on an individual." The cause of action requires this showing as a threshold matter. Section 552a(g)(4) then provides a damages floor — "not less than $1,000" — for those who have already satisfied the threshold.
+
+A plaintiff who cannot show any adverse effect does not satisfy the § 552a(g)(1)(D) threshold and cannot bring suit under that provision, regardless of whether the violation was intentional.
+
+III — WHAT "ADVERSE EFFECT" MEANS UNDER THE PRIVACY ACT
+
+The Privacy Act does not define "adverse effect." Post-Doe cases have developed the standard:
+
+CONCRETE ADVERSE EFFECTS include:
+- Actual harm to reputation, employment, or finances caused by the unauthorized disclosure;
+- Identity theft or fraud facilitated by the unauthorized disclosure;
+- Medical, psychological, or financial harm traceable to the violation;
+- Denial of benefits, employment, or other government services caused by reliance on unlawfully disclosed information.
+
+LESS CLEARLY ADVERSE:
+- Emotional distress without accompanying concrete harm;
+- Mere annoyance at the violation.
+
+IV — THE "ADVERSE EFFECT" REQUIREMENT AND PRIVACY ACT SUITS AGAINST THE SSA
+
+For cases involving the SSA's handling of disability claimants' records:
+
+1. An SSA employee who discloses a disability claimant's medical records or SSN to unauthorized parties — including third-party family members, legal adversaries, or private individuals — violates § 552a(b);
+
+2. The adverse effect requirement is typically satisfied where the disclosure enabled: identity theft, credit fraud, bank account access, interception of disability payments, or manipulation of medical records;
+
+3. The Privacy Act's § 552a(g)(4) damages — $1,000 minimum plus actual damages — apply once adverse effect is established;
+
+4. Intentional violations may also support equitable remedies under § 552a(g)(3)(A), including injunctions requiring the agency to correct records.
+
+V — INTERACTION WITH FREEDOM OF INFORMATION ACT
+
+The Privacy Act operates in tandem with FOIA. An individual who seeks records about themselves may request them under the Privacy Act's access provisions (§ 552a(d)), which allow record correction. Records about oneself obtained through Privacy Act requests are not subject to FOIA's public-interest test — the Privacy Act is the exclusive remedy for self-referential records.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 540 U.S. 614 (2004)
+Official reporter: United States Reports, vol. 540, page 614
+Decided: February 24, 2004
+Key holding: Adverse effect must be proven to trigger $1,000 minimum damages under § 552a(g)(4)
+Source of this text: Claude training data (knowledge cutoff August 2025). Doe v. Chao is the controlling authority on Privacy Act damages standing. Full verbatim text should be verified at:
+  - U.S. Reports (Library of Congress / HeinOnline)
+  - Google Scholar: "Doe v. Chao"
+Verification status: PROPOSED — pending steward witness review

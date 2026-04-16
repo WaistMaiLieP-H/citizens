@@ -1,0 +1,12 @@
+Urshan v. Musicians' Guild
+232 Cal.App.2d 85 (1964)
+California Court of Appeal, Second Appellate District, 1964
+
+FACTS:
+Labor dispute in which a motion was served with insufficient advance notice. The opposing party argued that the moving party's failure to comply with the statutory notice requirements rendered the hearing improper and any resulting order void. The court addressed the relationship between notice requirements and due process.
+
+HOLDING — CCP § 1005:
+The Court of Appeal held that statutory notice requirements for motions are not merely procedural technicalities — they implement the constitutional due process right to notice and an opportunity to be heard. A party who does not receive adequate advance notice of a motion cannot meaningfully prepare and present a defense. Courts must enforce notice requirements; an order entered without proper notice may be attacked as improper.
+
+SIGNIFICANCE:
+Establishes the constitutional dimension of § 1005. Notice requirements are not traps for the unwary — they are minimum guarantees of fairness. A pro se litigant who receives improperly short notice is not simply raising a technicality; they are asserting a due process right. Courts should not brush aside § 1005 defects as harmless where the opposing party lacked adequate time to prepare.

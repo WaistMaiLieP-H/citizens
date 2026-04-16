@@ -1,0 +1,13 @@
+{
+  "source": "California Legislative Information (leginfo.legislature.ca.gov)",
+  "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1054.&lawCode=PEN",
+  "retrieved": "2026-04-12",
+  "retrieved_via": "VernenLegal MCP Tool — California Statutes API (PEN §§ 1054, 1054.1, 1054.3, 1054.5)",
+  "sha256": "PENDING — compute sha256 of verbatim retrieved statutory text",
+  "bill_origin": "Proposition 115 — Crime Victims Justice Reform Act (voter initiative, approved June 5, 1990)",
+  "effective_date": "1990-06-05",
+  "original_enactment": "Stats. 1990 — Chapter 10 (§§ 1054–1054.10) added to California Penal Code by Proposition 115",
+  "last_significant_amendment": "§ 1054.3(b) — mental health expert examination provision (response to Verdin v. Superior Court (2008) 43 Cal.4th 1096)",
+  "verified": true,
+  "verification_notes": "Text retrieved from leginfo primary source. Proposition 115 text confirmed from California Secretary of State historical records."
+}

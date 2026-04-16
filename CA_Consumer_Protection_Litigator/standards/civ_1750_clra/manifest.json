@@ -1,0 +1,51 @@
+{
+  "standard_id": "CIV_1750_CLRA",
+  "citizen": "CA_Consumer_Protection_Litigator",
+  "version": "0.1.0-proposed",
+  "filed_at_utc": "2026-04-10T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "PROPOSED",
+  "primary_citation": {
+    "code": "Civ",
+    "section": "1750-1784",
+    "popular_name": "Consumers Legal Remedies Act (CLRA)",
+    "jurisdiction": "California",
+    "original_enactment": "Stats. 1970, Ch. 1550, §1 (SB 308, Beilenson)",
+    "effective": "1971-01-01",
+    "last_significant_amendment": "AB 424 (2019) and subsequent annual technical amendments; core §§1770, 1780, 1781, 1782 stable"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — primary sections captured verbatim from leginfo source; full text pending completion of technical subsections (§1770(a)(26)-(29) and §1781(c)-(e)); provenance noted as partial-representative",
+    "reasoning": "PRESENT — origin context documents the 1968 AG study wound, the five structural innovations, and the §1782 counter-move trade-off",
+    "historical_loss": "PRESENT — historical_chain.md documents the pre-1970 economic-inviability-of-consumer-claims wound and the full arc through Prop 64, Kwikset, and McGill",
+    "cross_references": "PRESENT — refs.json links to UCL, Rees-Levering, Rosenthal, common-law deceit (all QUEUED within this Citizen), FCRA (QUEUED in US_Federal_Financial_Fraud_Litigator), and CCP §1021.5 (PROPOSED-WITNESSED in CA_Civil_Litigator)",
+    "verifiable_provenance": "PARTIAL — provenance.json records source URL and retrieval methodology; primary-source opinion text capture for the 4 cases is PENDING; primary-source session-law PDF for 1970 enactment is PENDING"
+  },
+  "evolution_chain": [
+    {"stage": "01_origin_1970", "folder": "evolution/01_origin_1970/", "status": "BUILT"},
+    {"stage": "02_amendment_1978_notice", "folder": "evolution/02_amendment_1978_notice/", "status": "PLACEHOLDER"},
+    {"stage": "03_amendment_2009_housing", "folder": "evolution/03_amendment_2009_housing/", "status": "PLACEHOLDER"},
+    {"stage": "04_current", "folder": "evolution/04_current/", "status": "POINTS_TO_CURRENT"}
+  ],
+  "case_law": {
+    "uphold": [],
+    "strike": [],
+    "interpretive": [
+      {"slug": "broughton_v_cigna", "cite": "21 Cal.4th 1066 (1999)", "rule": "CLRA public-injunction claims non-arbitrable; progenitor of McGill rule", "files": ["holding.md", "provenance.json", "statute_version_cited.md"], "status": "BUILT"},
+      {"slug": "kwikset_v_superior_court", "cite": "51 Cal.4th 310 (2011)", "rule": "Purchase-price-is-economic-injury standing under Prop 64 for CLRA label misrepresentation", "files": ["holding.md", "provenance.json", "statute_version_cited.md"], "status": "BUILT"},
+      {"slug": "daugherty_v_american_honda", "cite": "144 Cal.App.4th 824 (2006)", "rule": "LIMITING: no CLRA duty to disclose non-safety durability defects outside warranty", "files": ["holding.md", "provenance.json", "statute_version_cited.md"], "status": "BUILT"},
+      {"slug": "colgan_v_leatherman", "cite": "135 Cal.App.4th 663 (2006)", "rule": "Made-in-USA misrepresentations actionable; restitution measured by price premium", "files": ["holding.md", "provenance.json", "statute_version_cited.md"], "status": "BUILT"}
+    ]
+  },
+  "cross_refs_path": "cross_refs/refs.json",
+  "historical_chain_path": "historical_chain.md",
+  "outstanding_work": [
+    "Complete full current text capture (§1770 subsections (26)-(29), §1781(c)-(e))",
+    "Build 02_amendment_1978_notice and 03_amendment_2009_housing evolution stages",
+    "Primary-source PDF capture of Stats. 1970, Ch. 1550",
+    "Primary-source opinion text (opinion.txt) for all 4 cases",
+    "Add McGill v. Citibank (2017) 2 Cal.5th 945 as standalone interpretive case"
+  ],
+  "hash_sha256_current": null,
+  "witness_status": "AWAITING_STEWARD_WITNESS"
+}

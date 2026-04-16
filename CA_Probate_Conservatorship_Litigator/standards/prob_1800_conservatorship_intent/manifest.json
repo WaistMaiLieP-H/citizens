@@ -1,0 +1,13 @@
+{
+  "standard_id": "prob_1800_conservatorship_intent",
+  "authority": "Cal. Prob. Code \u00a71800",
+  "status": "PUBLISHED",
+  "content_hash": "4a104a95",
+  "build_date": "2026-04-13",
+  "terminal": "Terminal B",
+  "citizen": "CA_Probate_Conservatorship_Litigator",
+  "verified": true,
+  "adam_signal": "APPROVE",
+  "eve_signal": "COUNTERSIGN",
+  "witness_date": "2026-04-13"
+}

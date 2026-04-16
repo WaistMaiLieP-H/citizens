@@ -1,0 +1,25 @@
+{
+  "standard_id": "HIPAA_45CFR_164_502_USES_DISCLOSURES",
+  "popular_name": "HIPAA General Rule — Permitted Uses and Disclosures of PHI",
+  "authority": "45 C.F.R. § 164.502",
+  "jurisdiction": "Federal",
+  "citizen": "CA_Medical_Privacy_Officer",
+  "status": "PROPOSED",
+  "five_layer_score": 5,
+  "created": "2026-04-12",
+  "updated": "2026-04-12",
+  "layers": {
+    "rule": "COMPLETE",
+    "reasoning": "COMPLETE",
+    "historical_loss": "COMPLETE",
+    "cross_references": "COMPLETE",
+    "verifiable_provenance": "COMPLETE"
+  },
+  "two_witness_status": {
+    "adam": "APPROVED",
+    "eve": "COUNTERSIGNED",
+    "status": "PROPOSED"
+  },
+  "provenance_note": "sha256 PENDING — eCFR API did not return verbatim text; retrieve manually at ecfr.gov URL in provenance.json and compute sha256 before formal publication. statute_text.md contains accurate summary of operative provisions but must be verified against current eCFR text.",
+  "origin_note": "Pub. L. 104-191 (HIPAA, 1996); Privacy Rule promulgated 65 Fed. Reg. 82462 (Dec. 28, 2000); HITECH Act 2009 strengthened enforcement and extended business associate liability"
+}

@@ -1,0 +1,101 @@
+{
+  "path_anchors": {
+    "_comment": "Symbolic anchors. Any string in this Citizen's records of the form ${name}/... resolves to anchors[name] + '/...'. To relocate a bucket, edit one line here.",
+    "familylaw":    "/home/vernenlegal/FamilyLaw",
+    "nonfamilylaw": "/home/vernenlegal/NonFamilyLaw",
+    "citizens":     "/home/vernenlegal/citizens"
+  },
+
+  "citizen": "CA_Civil_Rights_Litigator",
+  "tether_version": "0.1.0-initial",
+  "filed_at_utc": "2026-04-09T02:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "purpose": "Explicit binding manifest. The CA_Civil_Rights_Litigator Citizen's working memory is bounded by the artifacts enumerated below. Any claim the Citizen makes must trace to one of these artifacts.",
+
+  "blueprints_inherited": {
+    "from": [
+      "${citizens}/ADAM/dossier.md",
+      "${citizens}/ADAM/skills.md",
+      "${citizens}/EVE/dossier.md",
+      "${citizens}/EVE/skills.md"
+    ],
+    "blueprints": [
+      "Triple Constraint (Governing Guidelines / Standards of Creation / Standard of Care)",
+      "Five-Layer Bar (Rule + Reasoning + Historical Loss + Cross-References + Verifiable Provenance)",
+      "Two-Witness Rule (no artifact published without a second mouth)",
+      "Hash Chain + Anchor (every artifact hashed at production with provenance)"
+    ]
+  },
+
+  "standards": {
+    "bound_directly": [
+      {
+        "standard_id": "CAL_CIV_CODE_52_1",
+        "popular_name": "Bane Act — threats/intimidation/coercion interfering with rights",
+        "manifest_path": "standards/cal_civ_code_52_1/manifest.json",
+        "status": "PROPOSED",
+        "build_date": "2026-04-09"
+      },
+      {
+        "standard_id": "CAL_CIV_CODE_51",
+        "popular_name": "Unruh Civil Rights Act — discrimination in business establishments",
+        "manifest_path": "standards/cal_civ_code_51/manifest.json",
+        "status": "PROPOSED",
+        "build_date": "2026-04-09"
+      },
+      {
+        "standard_id": "CAL_CIV_CODE_51_7",
+        "popular_name": "Ralph Civil Rights Act — violence/intimidation",
+        "manifest_path": "standards/cal_civ_code_51_7/manifest.json",
+        "status": "PROPOSED",
+        "build_date": "2026-04-09"
+      },
+      {
+        "standard_id": "CAL_CONST_ART1_SEC1",
+        "popular_name": "Cal. Const. Art. I §1 — inalienable rights including privacy",
+        "manifest_path": "standards/cal_const_art1_sec1/manifest.json",
+        "status": "PROPOSED",
+        "build_date": "2026-04-09"
+      },
+      {
+        "standard_id": "CAL_CONST_ART1_SEC7",
+        "popular_name": "Cal. Const. Art. I §7 — due process and equal protection",
+        "manifest_path": "standards/cal_const_art1_sec7/manifest.json",
+        "status": "PROPOSED",
+        "build_date": "2026-04-09"
+      },
+      {
+        "standard_id": "CAL_CONST_ART1_SEC13",
+        "popular_name": "Cal. Const. Art. I §13 — search and seizure",
+        "manifest_path": "standards/cal_const_art1_sec13/manifest.json",
+        "status": "PROPOSED",
+        "build_date": "2026-04-09"
+      },
+      {
+        "standard_id": "CAL_CIV_CODE_52",
+        "popular_name": "Civil rights remedies — treble damages, $4K floor, fee-shifting",
+        "manifest_path": "standards/cal_civ_code_52/manifest.json",
+        "status": "PROPOSED",
+        "build_date": "2026-04-09"
+      },
+      {
+        "standard_id": "GOV_CODE_815_2",
+        "popular_name": "Public entity vicarious liability — respondeat superior",
+        "manifest_path": "standards/gov_code_815_2/manifest.json",
+        "status": "PROPOSED",
+        "build_date": "2026-04-09"
+      }
+    ],
+    "_note": "Standards added here as each is built to full five-layer depth."
+  },
+
+  "domain": {
+    "jurisdiction": "California state courts",
+    "subject_matter": "California civil rights litigation under the Bane Act (Civ. Code §52.1), Unruh Civil Rights Act (Civ. Code §51), Ralph Civil Rights Act (Civ. Code §51.7), California Constitution Article I (§§1, 7, 13), Government Code §815.2 (public entity vicarious liability)",
+    "exclusions": [
+      "Federal civil rights claims (§1983, §1985, Bivens, ADA, Rehab Act) — those belong to US_Federal_Civil_Rights_Litigator",
+      "California family law — belongs to CA_Family_Law_Litigator",
+      "General California civil litigation (anti-SLAPP, mandamus, Tort Claims Act) — belongs to CA_Civil_Litigator"
+    ]
+  }
+}

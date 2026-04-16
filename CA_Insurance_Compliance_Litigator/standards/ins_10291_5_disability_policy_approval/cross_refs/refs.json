@@ -1,0 +1,20 @@
+{
+  "standard_id": "ins_10291_5_disability_policy_approval",
+  "cross_refs": [
+    {
+      "ref_id": "ins_790_03_unfair_claims_settlement",
+      "path": "${citizens}/CA_Insurance_Compliance_Litigator/standards/ins_790_03_unfair_claims_settlement",
+      "relationship": "\u00a710291.5 ambiguity \u2192 insurer's narrow interpretation \u2192 \u00a7790.03(h)(1) misrepresentation of policy provisions"
+    },
+    {
+      "ref_id": "ins_bad_faith_brandt_gruenberg",
+      "path": "${citizens}/CA_Insurance_Compliance_Litigator/standards/ins_bad_faith_brandt_gruenberg",
+      "relationship": "Ambiguous denial based on \u00a710291.5(b)(1) policy ambiguity \u2192 unreasonable denial under Gruenberg standard"
+    },
+    {
+      "ref_id": "ins_10123_135_prior_auth",
+      "path": "${citizens}/CA_Healthcare_Fraud_Litigator/standards/ins_10123_135_prior_auth",
+      "relationship": "Prior auth denial: \u00a710291.5 ambiguity argument applies to the policy form coverage of prior auth requirements"
+    }
+  ]
+}

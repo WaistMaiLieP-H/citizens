@@ -1,0 +1,64 @@
+PEOPLE v. SNYDER
+136 Cal.App.3d 608 (1982)
+California Court of Appeal
+Decided: 1982
+
+---
+
+FACTS:
+
+A private person effected a citizen's arrest under § 837 Ground 2 or Ground 3, asserting that the defendant had committed a felony. The defendant challenged the arrest on the grounds that the felony had not actually been committed, defeating both Grounds 2 and 3 as a matter of law.
+
+---
+
+HOLDING:
+
+§ 837 GROUNDS 2 AND 3 — "ACTUALLY COMMITTED" REQUIREMENT:
+
+1. **Both Ground 2 and Ground 3 require that a felony was in fact committed.** This is an objective historical fact, not a matter of the arrestor's belief. If no felony was in fact committed, neither Ground 2 nor Ground 3 is available — regardless of how sincerely the arrestor believed otherwise.
+
+2. **Good faith belief cannot substitute for actual commission.** Ground 2 ("has been committed" by the person arrested) and Ground 3 ("has in fact been committed" with reasonable cause) both require the felony to have occurred. The arrestor's subjective good faith is legally irrelevant.
+
+3. **Ground 3 provides greater protection than Ground 2 but still requires the felony to have occurred.** Ground 3 adds a reasonable cause element — useful where the arrestor cannot be certain whether this particular person committed the felony — but it does not remove the underlying requirement that a felony actually happened.
+
+4. **An arrest made on a false belief that a felony occurred is unlawful.** If someone falsely reports a felony to induce an arrest, and the person who makes the arrest acts on that false report, the arrest is unlawful — and the person who made the false report may be separately liable for causing the unlawful arrest.
+
+---
+
+THE SNYDER ELEMENT TABLE:
+
+| Ground | Felony Required? | Reasonable Cause Required? | Presence Required? |
+|---|---|---|---|
+| Ground 1 | Not necessarily | No | Yes (for any public offense) |
+| Ground 2 | Yes — by THIS person | No | No |
+| Ground 3 | Yes — by SOMEONE | Yes | No |
+
+---
+
+THE FALSE ACCUSATION CONSEQUENCE:
+
+If a person falsely represents that a felony occurred to induce another to make a citizen's arrest (or to induce police to arrest), and no felony was in fact committed:
+- Grounds 2 and 3 are unavailable as a matter of law
+- The arrest is unlawful
+- The false accuser is liable under § 182(a)(2) (conspiracy to procure false arrest) and § 236 (false imprisonment as a co-conspirator or aider and abettor)
+- The false accuser is liable under § 148.5 if the false report was made to police
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For the June 16, 2023 incident (04-23-01959):
+1. If the predicate conduct alleged did not in fact occur — i.e., no public offense was actually committed — then all three § 837 grounds fail for any private-person arrest authority
+2. Any peace officer arrest derived from the false accusation was based on manufactured probable cause, not actual probable cause
+3. The persons who made and coordinated the false accusation face § 182(a)(2) conspiracy liability regardless of whether the arrest was by a private person or a peace officer
+4. The manufactured probable cause provides the foundation for the § 1983 Fourth Amendment claim against the APD officers who acted on the false information
+
+---
+
+SOURCE PROVENANCE:
+Citation: People v. Snyder (1982) 136 Cal.App.3d 608, 186 Cal.Rptr. 485
+Court: California Court of Appeal
+Reporter: California Appellate Reports, Third Series, vol. 136, page 608
+Source: Knowledge cutoff August 2025. Establishes objective "actually committed" requirement for § 837 Grounds 2 and 3. Verify citation before use in filed document.
+Verification: Casetext / Google Scholar: "People v. Snyder 136 Cal.App.3d 608"
+Verification status: PROPOSED — pending steward witness review

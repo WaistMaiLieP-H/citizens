@@ -1,0 +1,15 @@
+{
+  "standard_id": "wic_5250_14_day_certification",
+  "cross_refs": [
+    {"type": "predicate", "citation": "Cal. WIC § 5150", "standard": "wic_5150_involuntary_hold", "relation": "§5250 certification may only follow a valid §5150 72-hour hold; §5150 defects void §5250 predicate"},
+    {"type": "escalation", "citation": "Cal. WIC § 5270.15", "standard": "wic_5270_15_additional_30_day", "relation": "§5250 expiration without release triggers §5270.15 additional 30-day certification for gravely-disabled"},
+    {"type": "escalation", "citation": "Cal. WIC § 5300", "standard": "EXTERNAL — not yet built", "relation": "§5250 dangerousness finding may lead to §5300 180-day post-certification for demonstrated dangerousness"},
+    {"type": "rights_attachment", "citation": "Cal. WIC § 5325", "standard": "wic_5325_patients_rights", "relation": "Patients' Bill of Rights attaches throughout §5250 period; right to refuse convulsive treatment and psychosurgery is absolute"},
+    {"type": "confidentiality", "citation": "Cal. WIC § 5328", "standard": "wic_5328_lps_confidentiality", "relation": "All §5250 evaluation/treatment records are §5328-confidential; disclosure without statutory authority is actionable"},
+    {"type": "procedural", "citation": "Cal. WIC § 5256", "standard": "EXTERNAL — not yet built", "relation": "§5256 certification review hearing is the preservation moment for §5250 defects"},
+    {"type": "conservatorship_predicate", "citation": "Cal. WIC § 5350", "standard": "wic_5350_lps (owned by CA_Probate_Conservatorship_Litigator)", "relation": "§5350 LPS conservatorship petition requires §5250 predicate grave-disability finding; undermined §5250 undermines §5350"},
+    {"type": "citizen_external", "citizen": "CA_Probate_Conservatorship_Litigator", "relation": "§5350 LPS pathway depends on §5250 validity"},
+    {"type": "citizen_external", "citizen": "US_Federal_Civil_Rights_Litigator", "relation": "§1983 due process claim for wrongful §5250 certification; state-actor involvement in the IT pipeline"},
+    {"type": "citizen_external", "citizen": "CA_Family_Law_Litigator", "relation": "§5250 records surface in custody/competency proceedings via §5328 disclosure analysis"}
+  ]
+}

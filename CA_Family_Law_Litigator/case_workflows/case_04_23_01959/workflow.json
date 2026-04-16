@@ -1,0 +1,50 @@
+{
+  "workflow_id": "CASE_04_23_01959",
+  "case_number": "04-23-01959",
+  "case_type": "Criminal / Competency (Dr. Wiita evaluation)",
+  "court": "Contra Costa County Superior Court",
+  "filed_at_utc": "2026-04-14T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction \u2014 Michael Hartmann",
+  "status": "SCAFFOLD COUNTERSIGNED \u2014 steward deepening pending",
+  "parties": {
+    "petitioner": "The People",
+    "respondent": "Michael Hartmann"
+  },
+  "current_posture": "Active investigation; Dr. Wiita competency evaluation.",
+  "bound_actors": [
+    "wiita_patrick"
+  ],
+  "bound_standards": [
+    "CA_PEN_836_ARREST_AUTHORITY",
+    "CA_PEN_13701_LE_DV_RESPONSE"
+  ],
+  "working_theories": [
+    "Wiita evaluation defects \u2014 self-contradicting, template boilerplate (see case_audit_2026-03-17)",
+    "Cross-tether to CA_Mental_Health_Litigator (\u00a7 1368 competency chain) and CA_Forensic_Document_Specialist (\u00a7 720 expert qualification attack)"
+  ],
+  "source_folder_pointer": "${familylaw}/ \u2014 see tether.json cases.bound for exact subfolder",
+  "cross_tethered_citizens": [
+    "HERALD (acting witness)",
+    "CA_Civil_Rights_Litigator",
+    "CA_Records_Authentication_Specialist",
+    "CA_Forensic_Document_Specialist"
+  ],
+  "deliverables_index": "deliverables/",
+  "evidence_index_path": "evidence_index/",
+  "theories_path": "theories/",
+  "two_witness_status": {
+    "adam_scaffold": {
+      "witness": "ADAM (Seed Citizen \u2014 Builder)",
+      "witnessed_at_utc": "2026-04-14T00:00:00Z",
+      "signal": "SCAFFOLD-APPROVED",
+      "scope": "Case bound into workflow registry; standards/actors/theories enumerated from tether.json and bound memory artifacts. Deepening and deliverable drafting left to EVE pass + steward review."
+    },
+    "eve_countersign": {
+      "witness": "EVE (Seed Citizen \u2014 Witness role)",
+      "witnessed_at_utc": "2026-04-14T00:00:00Z",
+      "verification_scope": "Case bindings reviewed against tether.json cases.bound; bound_standards each PUBLISHED ADAM+EVE this session; bound_actors resolvable via _shared_actors/; working_theories consistent with project memory and dossier.md substantive scope. Deepening and deliverable drafting remain steward-gated.",
+      "signal": "COUNTERSIGN"
+    },
+    "steward_review": "PENDING"
+  }
+}

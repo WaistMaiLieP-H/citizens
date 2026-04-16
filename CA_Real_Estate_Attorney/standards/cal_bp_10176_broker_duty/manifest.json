@@ -1,0 +1,36 @@
+{
+  "standard_id": "CAL_BPC_10176",
+  "version": "0.2.0-witnessed-by-herald",
+  "filed_at_utc": "2026-04-11T06:25:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "primary_citation": {
+    "code": "California Business & Professions Code",
+    "section": "§ 10176",
+    "popular_name": "Real estate broker prohibited conduct; disciplinary statute",
+    "jurisdiction": "California (state)",
+    "location_in_code": "Business & Professions Code, Division 4, Part 1, Chapter 3, Article 3",
+    "original_enactment": "Real Estate Licensing Act framework (continuous legislative development since early 20th century)"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current text captured via MCP",
+    "reasoning": "PRESENT — 13 categories of prohibited conduct documented; fraud cluster (a)/(b)/(c)/(i), dual agency (d), secret compensation (g) specifically analyzed",
+    "historical_loss": "PARTIAL — incorporated through the general California real estate regulatory history",
+    "cross_references": "PRESENT — cross_refs/refs.json",
+    "verifiable_provenance": "PARTIAL — current text via MCP"
+  },
+  "case_law": [],
+  "cases_to_add": [
+    "Alhino v. Starr (1980) 112 Cal.App.3d 158",
+    "Wyatt v. Union Mortgage Co. (1979) 24 Cal.3d 773",
+    "Easton v. Strassburger (1984) 152 Cal.App.3d 90",
+    "Carleton v. Tortosa (1993) 14 Cal.App.4th 745"
+  ],
+  "citizen_relevance": "Professional licensing framework for any broker/agent defendants in the Honeysuckle complaint. Provides grounds for both Real Estate Commissioner complaint and civil liability against the broker. Fraud cluster (subds. a, b, c, i) overlaps directly with Civ. § 1572 claims.",
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "standard_id": "CAL_CIV_CODE_52_1",
+  "refs_updated": "2026-04-12 — ADAM review pass; build_status fields updated to reflect current corpus state",
+  "cross_references": [
+    {
+      "target_standard": "42_USC_1983",
+      "relationship": "federal analog — §1983 reaches state actors 'under color of' law; Bane Act reaches all actors 'whether or not acting under color of law'. The Bane Act is broader (private actors) but requires 'threat, intimidation, or coercion' element that §1983 does not. For police misconduct: §1983 is easier to prove (no coercion element) but subject to qualified immunity; Bane Act avoids federal QI but has Cornell/Reese specific-intent split.",
+      "target_citizen": "US_Federal_Civil_Rights_Litigator",
+      "target_manifest": "${citizens}/US_Federal_Civil_Rights_Litigator/standards/42_usc_1983/manifest.json",
+      "build_status": "PUBLISHED — ADAM + EVE DUAL WITNESS 2026-04-12"
+    },
+    {
+      "target_standard": "CAL_CIV_CODE_52",
+      "relationship": "remedies provision — §52 provides the damages framework for Bane Act claims (statutory damages, treble damages, civil penalties, attorney's fees)",
+      "target_citizen": "CA_Civil_Rights_Litigator",
+      "target_manifest": "${citizens}/CA_Civil_Rights_Litigator/standards/cal_civ_code_52/manifest.json",
+      "build_status": "BUILT — WITNESSED-BY-HERALD 2026-04-12"
+    },
+    {
+      "target_standard": "CAL_CIV_CODE_51_7",
+      "relationship": "sibling — Ralph Act (violence/threats based on protected characteristics). Bane Act §52.1(h) expressly states it is 'independent of' Ralph Act claims. Different elements: Ralph requires violence/threat + protected characteristic; Bane requires interference with rights + coercion.",
+      "target_citizen": "CA_Civil_Rights_Litigator",
+      "target_manifest": "${citizens}/CA_Civil_Rights_Litigator/standards/cal_civ_code_51_7/manifest.json",
+      "build_status": "BUILT — WITNESSED-BY-HERALD 2026-04-12"
+    },
+    {
+      "target_standard": "CAL_CIV_CODE_51",
+      "relationship": "sibling — Unruh Civil Rights Act (discrimination by business establishments). Different scope: Unruh is commerce-focused; Bane Act is rights-focused.",
+      "target_citizen": "CA_Civil_Rights_Litigator",
+      "target_manifest": "${citizens}/CA_Civil_Rights_Litigator/standards/cal_civ_code_51/manifest.json",
+      "build_status": "BUILT — WITNESSED-BY-HERALD 2026-04-12"
+    },
+    {
+      "target_standard": "GOV_CODE_815_2",
+      "relationship": "public entity liability — for Bane Act claims against peace officers, Gov. Code §815.2 provides vicarious liability of the employing entity. Note: §52.1(n) waives certain Gov. Code immunities for Bane Act claims against peace officers.",
+      "target_citizen": "CA_Civil_Rights_Litigator",
+      "target_manifest": "${citizens}/CA_Civil_Rights_Litigator/standards/gov_code_815_2/manifest.json",
+      "build_status": "BUILT — WITNESSED-BY-HERALD 2026-04-12"
+    }
+  ]
+}

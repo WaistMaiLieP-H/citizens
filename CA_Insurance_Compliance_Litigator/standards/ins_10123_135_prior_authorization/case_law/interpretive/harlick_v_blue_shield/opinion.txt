@@ -1,0 +1,15 @@
+Harlick v. Blue Shield of California
+671 F.3d 1108 (9th Cir. 2012)
+
+SUMMARY (from training knowledge — see verification status)
+
+The Ninth Circuit held that Blue Shield of California violated the Mental Health Parity Act by applying more restrictive criteria to mental health/substance use disorder (MH/SUD) benefits than to medical/surgical benefits.
+
+Key holdings:
+- Blue Shield applied "medical necessity" criteria to MH/SUD benefits that were more restrictive than criteria applied to analogous medical/surgical benefits
+- The mental health parity requirement means that UR/UM criteria applied to mental health benefits must be no more restrictive than the predominant criteria applied to substantially all medical/surgical benefits
+- Blue Shield's reliance on the Milliman Care Guidelines for MH/SUD but not for medical/surgical benefits was discriminatory
+
+The court reversed the district court and remanded for determination of appropriate relief.
+
+Note: This is an ERISA case applying federal mental health parity law. Its relevance to §10123.135 is that it documents Blue Shield's pattern of applying more restrictive UR criteria to disfavored benefit categories — the same structural practice that §10123.135 addresses in the prior authorization context.

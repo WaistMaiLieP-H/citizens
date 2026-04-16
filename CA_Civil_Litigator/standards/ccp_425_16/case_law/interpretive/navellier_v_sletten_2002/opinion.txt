@@ -1,0 +1,65 @@
+NAVELLIER v. SLETTEN
+29 Cal.4th 82 (2002)
+California Supreme Court
+Decided: October 7, 2002
+
+---
+
+FACTS:
+
+Louis Navellier, an investment fund manager, sued Robert Sletten and related defendants for alleged breach of a prior settlement agreement and fraud. The defendants filed an anti-SLAPP motion under CCP § 425.16, arguing that Navellier's complaint arose from protected petition activity — specifically, the defendants' filing of a prior lawsuit (which they claimed was their protected petitioning activity). Navellier was suing them for having filed the earlier lawsuit and for statements made in connection with it.
+
+---
+
+HOLDING:
+
+Chief Justice George wrote for the Court.
+
+THE TWO-STEP § 425.16 ANALYSIS:
+Step 1: Defendant must show the plaintiff's claims arise from an "act in furtherance of the defendant's right of petition or free speech" — meaning the act is one of the four categories listed in § 425.16(e):
+(1) Written or oral statement or writing before a legislative, executive, or judicial proceeding;
+(2) Written or oral statement made in connection with an issue under consideration by a governmental body;
+(3) Written or oral statement made in a place open to the public or in a public forum in connection with a public issue; OR
+(4) Any other conduct in furtherance of the exercise of the constitutional right of petition or free speech in connection with a public issue.
+
+Step 2: If defendant shows protected activity, the burden shifts to the plaintiff to show a probability of prevailing on the merits. If the plaintiff cannot show "minimal merit," the case is dismissed.
+
+FILING A LAWSUIT IS PROTECTED PETITIONING ACTIVITY:
+"The filing of a lawsuit is a quintessential act in furtherance of the right of petition." A party who claims they were injured by another party's lawsuit can face an anti-SLAPP motion — because the underlying conduct giving rise to the claim (filing a lawsuit) is protected.
+
+THE NAVELLIER REFINEMENT:
+Even though the defendant's conduct (filing a prior lawsuit) was technically protected petitioning activity, the plaintiff can still survive if they show minimal merit on their claims. A complaint that is legally sufficient and supported by some evidence survives the second step.
+
+---
+
+THE § 425.16 FRAMEWORK:
+- Step 1 (Defendant's burden): Show plaintiff's claims arise from protected activity
+- Step 2 (Plaintiff's burden): Show minimal merit — legally sufficient complaint supported by some evidence
+- If plaintiff succeeds at Step 2: case proceeds normally; defendant owes mandatory attorney's fees to plaintiff
+- If defendant succeeds: case dismissed + plaintiff owes mandatory attorney's fees to defendant
+- The fee-shifting is MANDATORY — the prevailing party on an anti-SLAPP motion is entitled to fees and costs
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Anti-SLAPP is a two-edged sword:
+
+1. **Offensive use**: If any defendant files claims against the steward that arise from his protected petitioning activity (filing the § 1983 complaint, filing police reports, filing CalVCB application, filing administrative appeals), those claims against him are anti-SLAPP-able. The steward can move to strike them and recover mandatory fees.
+
+2. **Defensive use**: If defendants file anti-SLAPP motions against the steward's claims, the plaintiff burden at Step 2 is "minimal merit" — legally sufficient claim with some evidentiary support. Given the documented factual record, the steward's claims have more than minimal merit.
+
+3. **The mandatory fee trap**: Anti-SLAPP motions are risky for defendants in the steward's case — if the motion fails (because plaintiff shows minimal merit), the defendant owes the plaintiff's fees for the anti-SLAPP motion itself. This creates a deterrent against weak anti-SLAPP motions.
+
+4. **Munson limitation** (see Munson opinion.txt): Civil rights discrimination claims cannot be anti-SLAPP'd based on the plaintiff's own protected petitioning activity (filing the lawsuit). The claims must arise from the DEFENDANT's protected activity.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 29 Cal.4th 82 (2002)
+Court: California Supreme Court
+Reporter: California Reports, Fourth Series, vol. 29, page 82
+Author: George, C.J.
+Source of this text: Claude training data (knowledge cutoff August 2025). Navellier v. Sletten established the two-step § 425.16 framework — defendant shows protected activity; burden shifts to plaintiff to show minimal merit — with mandatory fee-shifting to prevailing party.
+Verification: Casetext / Google Scholar: "Navellier v. Sletten 29 Cal.4th 82"
+Verification status: PROPOSED — pending steward witness review

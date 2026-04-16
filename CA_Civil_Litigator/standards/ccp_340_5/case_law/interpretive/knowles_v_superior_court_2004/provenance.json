@@ -1,0 +1,27 @@
+{
+  "case_name": "Knowles v. Superior Court",
+  "citation": "118 Cal.App.4th 1290 (2004)",
+  "parallel_citations": ["13 Cal.Rptr.3d 222"],
+  "court": "California Court of Appeal, Second District",
+  "date_decided": "2004-06-09",
+  "docket_number": "B168824",
+  "jurisdiction": "California",
+  "standard_interpreted": "CCP 340.5 (discovery rule -- injury and cause, not negligence)",
+  "key_doctrine": "Discovery requires knowledge of injury and its cause, not knowledge that the cause constituted professional negligence",
+  "sources": [
+    {
+      "name": "Casetext",
+      "url": "https://casetext.com/case/knowles-v-superior-court"
+    },
+    {
+      "name": "Google Scholar",
+      "url": "https://scholar.google.com/scholar_case?case=knowles+superior+court+118+cal+app+4th+1290"
+    },
+    {
+      "name": "Westlaw",
+      "url": "https://www.westlaw.com/ (subscription required)"
+    }
+  ],
+  "created_utc": "2026-04-08",
+  "created_by": "Claude (assistant) under steward direction -- Michael Hartmann, Vernen Legal Compliance"
+}

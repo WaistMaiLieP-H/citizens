@@ -1,0 +1,11 @@
+{
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=3333.2.",
+  "source_publisher": "California Legislative Information (leginfo.legislature.ca.gov)",
+  "statute_citation": "Cal. Civ. Code §3333.2",
+  "fetch_method": "Captured from primary leginfo source",
+  "fetch_timestamp_utc": "2026-04-10T00:00:00Z",
+  "retrieval_steward": "Claude (assistant) under direction of Michael Hartmann",
+  "verbatim_capture_status": "COMPLETE — civ_3333_2_leginfo.txt contains verbatim text from leginfo",
+  "txt_sha256": "5610624e531c9e791c8ef73212522382522f3a601db713a49bca345a5e10e6c5",
+  "text_completeness": "FULL — all subdivisions (a)-(j) captured including AB 35 escalator schedule"
+}

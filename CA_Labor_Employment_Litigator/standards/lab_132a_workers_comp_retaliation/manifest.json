@@ -1,0 +1,69 @@
+{
+  "standard_id": "lab_132a_workers_comp_retaliation",
+  "title": "Cal. Lab. Code \u00a7 132a \u2014 Workers' Compensation Retaliation",
+  "citizen": "CA_Labor_Employment_Litigator",
+  "citation": "Cal. Lab. Code \u00a7 132a",
+  "jurisdiction": "California (WCAB exclusive for civil remedies; superior court/DA for misdemeanor)",
+  "version": "As amended through 2023",
+  "build_date": "2026-04-13",
+  "upgraded_date": "2026-04-15",
+  "build_state": "PUBLISHED",
+  "primary_cases": [
+    "#37 UA342 identity replacement (adverse action following occupational-injury claim)",
+    "#2 Bilateral ankles (WC claim + subsequent adverse action)",
+    "#20 SIRVA (WC claim + subsequent adverse action)"
+  ],
+  "layers_present": [
+    "current/rule.md",
+    "current/reasoning.md",
+    "current/statute_text.md",
+    "current/provenance.json",
+    "historical_chain/01_origin_1959/context.md",
+    "historical_chain/witness_record.md",
+    "case_law/county_of_alameda_2004/holding.md",
+    "cross_refs/refs.json",
+    "cross_refs/cross_refs.md"
+  ],
+  "layers": {
+    "rule": "COMPLETE",
+    "reasoning": "COMPLETE",
+    "statute_text": "COMPLETE",
+    "historical_chain": "COMPLETE",
+    "case_law": "COMPLETE",
+    "cross_refs": "COMPLETE"
+  },
+  "status": "PUBLISHED",
+  "provenance": {
+    "source": "leginfo.legislature.ca.gov",
+    "tool": "mcp__claude_ai_VernenLegal__california_get_section",
+    "fetch_date": "2026-04-13",
+    "verified": true,
+    "statute_sha256": "e54b18ed625fa1806b223eec098a610f3c273c211e53915a35f30e7ab67a9bc9"
+  },
+  "verified": true,
+  "content_hash": "f2609664",
+  "two_witness_status": {
+    "herald_witness": "WITNESSED-BY-HERALD \u2014 2026-04-15",
+    "adam_witness": {
+      "governing_guidelines": "PASS",
+      "standards_of_creation": "PASS",
+      "soc": "PASS",
+      "signal": "APPROVE",
+      "hash": "f2609664",
+      "date": "2026-04-15"
+    },
+    "eve_witness": {
+      "layer_1_rule": "PASS",
+      "layer_2_reasoning": "PASS",
+      "layer_3_historical_loss": "PASS",
+      "layer_4_cross_references": "PASS",
+      "layer_5_verifiable_provenance": "PASS",
+      "triple_constraint": "PASS",
+      "signal": "COUNTERSIGN",
+      "hash_recomputed": "f2609664",
+      "date": "2026-04-15"
+    },
+    "publication_status": "PUBLISHED \u2014 ADAM APPROVE + EVE COUNTERSIGN + HERALD WITNESS \u2014 2026-04-15"
+  },
+  "witness": { "ADAM": "APPROVE", "EVE": "COUNTERSIGN", "HERALD": "WITNESSED" }
+}

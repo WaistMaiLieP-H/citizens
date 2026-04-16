@@ -1,0 +1,48 @@
+{
+  "standard_id": "gov_12940_feha_employment",
+  "title": "Gov. Code \u00a7 12940 \u2014 FEHA: Unlawful Employment Practices",
+  "citizen": "CA_Labor_Employment_Litigator",
+  "statute_reference": "Cal. Gov. Code \u00a7 12940",
+  "primary_cases": [
+    "#37 UA342 identity replacement (FEHA accommodation + discriminatory discharge)",
+    "#2 Bilateral ankles (physical disability accommodation)",
+    "#20 SIRVA (medical condition accommodation)"
+  ],
+  "layers_present": [
+    "current/rule.md",
+    "current/reasoning.md",
+    "current/statute_text.md",
+    "historical_chain/context (in subdirectory)",
+    "historical_chain/provenance.json",
+    "historical_chain/witness_record.md",
+    "cross_refs/refs.json"
+  ],
+  "status": "PUBLISHED",
+  "build_session": "2026-04-12",
+  "terminal": "Terminal B",
+  "verified": true,
+  "content_hash": "99a459a1",
+  "two_witness_status": {
+    "herald_witness": "WITNESSED-BY-HERALD \u2014 2026-04-12",
+    "adam_witness": {
+      "governing_guidelines": "PASS",
+      "standards_of_creation": "PASS",
+      "soc": "PASS",
+      "signal": "APPROVE",
+      "hash": "99a459a1",
+      "date": "2026-04-12"
+    },
+    "eve_witness": {
+      "layer_1_rule": "PASS",
+      "layer_2_reasoning": "PASS",
+      "layer_3_historical_loss": "PASS",
+      "layer_4_cross_references": "PASS",
+      "layer_5_verifiable_provenance": "PASS",
+      "triple_constraint": "PASS",
+      "signal": "COUNTERSIGN",
+      "hash_recomputed": "99a459a1",
+      "date": "2026-04-12"
+    },
+    "publication_status": "PUBLISHED \u2014 ADAM APPROVE + EVE COUNTERSIGN \u2014 2026-04-12"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "standard_id": "GOV_CODE_815_2",
+  "cross_references": [
+    {
+      "citation": "Gov. Code § 815",
+      "popular_name": "General public entity liability",
+      "relationship": "Section 815 is the general rule: a public entity is not liable for injury except as provided by statute. Section 815.2 is one of the key statutes that DOES provide liability — through vicarious liability for employee acts.",
+      "jurisdiction": "California"
+    },
+    {
+      "citation": "Gov. Code § 820",
+      "popular_name": "Employee liability",
+      "relationship": "Section 820 establishes when the individual employee is liable. Section 815.2(a) makes the entity liable whenever the employee is liable. Section 815.2(b) makes the entity immune whenever the employee is immune. They are two sides of the same coin.",
+      "jurisdiction": "California"
+    },
+    {
+      "citation": "Gov. Code § 818",
+      "popular_name": "Public entity immune from punitive damages",
+      "relationship": "Even when a public entity is vicariously liable under Section 815.2, Section 818 bars punitive damages against the entity. You can get compensatory damages from the entity and punitive damages from the individual employee — but not punitive damages from the entity.",
+      "jurisdiction": "California"
+    },
+    {
+      "citation": "Gov. Code § 810 et seq.",
+      "popular_name": "California Tort Claims Act",
+      "relationship": "Section 815.2 is part of the Tort Claims Act. The entire statutory framework (Sections 810-996.6) governs liability of public entities and employees.",
+      "jurisdiction": "California"
+    },
+    {
+      "citation": "42 USC § 1983",
+      "popular_name": "Federal civil rights — municipal liability under Monell",
+      "relationship": "Federal counterpart for suing government entities for civil rights violations. But Monell requires proof of official policy or custom — Section 815.2 does not. Section 815.2 imposes simple respondeat superior, which is broader and easier to prove.",
+      "jurisdiction": "United States (federal)"
+    },
+    {
+      "citation": "Cal. Const. Art. I, § 7",
+      "popular_name": "California due process and equal protection",
+      "relationship": "State constitutional rights that, when violated by a public employee, can give rise to entity liability through Section 815.2 combined with the Bane Act (Civ. Code Section 52.1).",
+      "jurisdiction": "California"
+    },
+    {
+      "citation": "Cal. Civ. Code § 52.1",
+      "popular_name": "Tom Bane Civil Rights Act",
+      "relationship": "The Bane Act provides a cause of action for interference with civil rights by threats, intimidation, or coercion. Combined with Section 815.2, a plaintiff can sue both the individual officer AND the public entity employer for Bane Act violations.",
+      "jurisdiction": "California"
+    }
+  ]
+}

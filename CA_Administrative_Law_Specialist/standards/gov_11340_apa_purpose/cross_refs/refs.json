@@ -1,0 +1,47 @@
+{
+  "standard_id": "gov_11340_apa_purpose",
+  "citizen": "CA_Administrative_Law_Specialist",
+  "build_date": "2026-04-13",
+  "cross_references": [
+    {
+      "ref_id": "XREF-11340-001",
+      "target_citizen": "CA_Administrative_Law_Specialist",
+      "target_standard": "gov_11350_regulation_validity_challenge",
+      "path": "${citizens}/CA_Administrative_Law_Specialist/standards/gov_11350_regulation_validity_challenge/",
+      "relationship": "prerequisite",
+      "note": "GOV §11340(c) (unnecessary regulations) and (b) (unclear language) are the substantive basis for §11350 necessity challenges under §11350(b)(1). §11340 is the 'why'; §11350 is the enforcement vehicle."
+    },
+    {
+      "ref_id": "XREF-11340-002",
+      "target_citizen": "CA_Administrative_Law_Specialist",
+      "target_standard": "gov_11513_apa_hearing_procedures",
+      "path": "${citizens}/CA_Administrative_Law_Specialist/standards/gov_11513_apa_hearing_procedures/",
+      "relationship": "prerequisite",
+      "note": "GOV §11513 hearing procedures are the concrete implementation of the §11340 findings. The oath requirement, cross-examination, and hearsay limitation exist because §11340 identified unclear, inaccessible, and unaccountable agency proceedings as the problem."
+    },
+    {
+      "ref_id": "XREF-11340-003",
+      "target_citizen": "CA_Administrative_Law_Specialist",
+      "target_standard": "ccp_1094_5_administrative_mandamus",
+      "path": "${citizens}/CA_Administrative_Law_Specialist/standards/ccp_1094_5_administrative_mandamus/",
+      "relationship": "concurrent",
+      "note": "The 'manner required by law' in §1094.5(b) is defined by the APA chapter that §11340 introduces. When an agency does not proceed in the manner required by law, it has violated the very procedures the Legislature enacted in response to §11340's findings."
+    },
+    {
+      "ref_id": "XREF-11340-004",
+      "target_citizen": "CA_Victim_Compensation_Litigator",
+      "target_standard": "gov_13950_calvcb_framework",
+      "path": "${citizens}/CA_Victim_Compensation_Litigator/standards/gov_13950_calvcb_framework/",
+      "relationship": "application",
+      "note": "§11340(g) equity principle: CalVCB A25-10117946 applicant is a pro se party without resources to hire experts — exactly the party GOV §11340(g) identifies as most harmed by regulatory complexity and inaccessible procedures. Shortened deadlines and single-source denial are §11340(b)/(c) failures applied to a §11340(g) protected party."
+    },
+    {
+      "ref_id": "XREF-11340-005",
+      "target_citizen": "CA_Administrative_Law_Specialist",
+      "target_standard": "ccp_425_16_anti_slapp",
+      "path": "${citizens}/CA_Administrative_Law_Specialist/standards/ccp_425_16_anti_slapp/",
+      "relationship": "concurrent",
+      "note": "§11340's identification of regulatory complexity as a burden on unrepresented parties is the administrative law parallel to anti-SLAPP's protection of unrepresented participants from litigation-as-harassment. Both reflect the legislative concern that the legal system's procedural complexity can be weaponized against parties without resources."
+    }
+  ]
+}

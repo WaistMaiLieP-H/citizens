@@ -1,0 +1,53 @@
+{
+  "case_id": "hartmann_tort_claims",
+  "case_caption": "Hartmann — California Tort Claims and Civil Procedure",
+  "status": "ACTIVE — government tort claim presentation required before filing state-law tort claims",
+
+  "claims_and_procedures": [
+    {
+      "procedure": "Government tort claim presentation",
+      "statute": "Gov. Code §§ 810, 910, 911.2, 945.6",
+      "standard_path": "${citizens}/CA_Civil_Litigator/standards/gov_code_810/",
+      "workflow": "case_workflows/government_tort_claim_presentation.md",
+      "status": "PENDING — claim must be filed within 6 months of injury for personal injury, 1 year for other causes",
+      "critical_note": "§1983 claims in federal court do NOT require tort claim presentation (Felder v. Casey). But state-law tort claims against public entities DO."
+    },
+    {
+      "procedure": "MICRA statute of limitations analysis",
+      "statute": "CCP §340.5",
+      "standard_path": "${citizens}/CA_Civil_Litigator/standards/ccp_340_5/",
+      "theory": "Medical fraud timeline — SIRVA (Walgreens ~11/2021), spine surgery fraud (Dr. Wiseman 4/20/22). Discovery rule: 3 years from injury OR 1 year from discovery, whichever first. Fraud tolling available.",
+      "status": "ANALYSIS NEEDED — determine when discovery clock started for each medical claim"
+    },
+    {
+      "procedure": "Administrative mandamus",
+      "statute": "CCP §1094.5",
+      "standard_path": "${citizens}/CA_Civil_Litigator/standards/ccp_1094_5/",
+      "workflow": "case_workflows/administrative_mandamus_petition.md",
+      "theory": "Review of Ajaniku mediation recommendation — was the recommendation an abuse of discretion? Did the process proceed in the manner required by law when the recommender had no verifiable credentials?",
+      "status": "ANALYSIS NEEDED — statute of limitations for §1094.5 petition"
+    },
+    {
+      "procedure": "Anti-SLAPP defense",
+      "statute": "CCP §425.16",
+      "standard_path": "${citizens}/CA_Civil_Litigator/standards/ccp_425_16/",
+      "workflow": "case_workflows/anti_slapp_defense.md",
+      "theory": "If any defendant files retaliatory lawsuit against steward for filing the §1983 complaint or PRA requests, anti-SLAPP motion is the first response",
+      "status": "CONTINGENT — prepared but not needed unless retaliatory filing occurs"
+    },
+    {
+      "procedure": "Five-year rule monitoring",
+      "statute": "CCP §583.310",
+      "standard_path": "${citizens}/CA_Civil_Litigator/standards/ccp_583_310/",
+      "status": "MONITORING — clock starts when state-law action is filed; mandatory jurisdictional deadline"
+    }
+  ],
+
+  "defendants": [
+    {"name": "City of Antioch", "liability": "Gov. Code §815.2 (respondeat superior for APD officers)"},
+    {"name": "Dr. David Ditsworth", "liability": "CCP §340.5 (MICRA — SSA disability report)", "shared_actor_id": "ditsworth_david"},
+    {"name": "Dr. Patrick Wiita", "liability": "CCP §340.5 (MICRA — competency evaluation)", "shared_actor_id": "wiita_patrick"}
+  ],
+
+  "filed_at_utc": "2026-04-09T02:30:00Z"
+}

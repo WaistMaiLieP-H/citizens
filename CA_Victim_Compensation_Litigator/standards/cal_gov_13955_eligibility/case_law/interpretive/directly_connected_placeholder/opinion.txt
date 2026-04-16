@@ -1,0 +1,44 @@
+DOCTRINAL FRAMEWORK: § 13955 ELIGIBILITY — "DIRECTLY CONNECTED" CRIME REQUIREMENT
+[Specific published case citation pending primary-source verification]
+California Courts of Appeal / California Victim Compensation Board
+
+---
+
+CITATION STATUS:
+
+This folder documents the § 13955 requirement that the claimed crime be a qualifying crime under California law and that the claimant's victimization be "directly connected" to a crime within the Board's jurisdiction. A specific published case citation is pending primary-source verification.
+
+---
+
+HOLDING:
+
+§ 13955 "DIRECTLY CONNECTED" CRIME REQUIREMENT:
+
+1. **The qualifying crime must be a crime under California law.** Section 13955 requires that the compensable victimization arise from a qualifying crime under California Penal Code — felony or misdemeanor — or, where the crime occurred out of state, a crime that would be a qualifying crime under California law.
+
+2. **The crime does not need to result in a conviction.** CalVCB eligibility does not require that the perpetrator be arrested, charged, or convicted. A police report, medical record, or other documentation establishing that a crime occurred is sufficient predicate for the Board's jurisdiction.
+
+3. **The claimant must be the direct victim, an immediate family member, or a derivative victim.** Section 13955 establishes three categories: (a) the person who directly suffered the crime; (b) a family member of a homicide victim; and (c) a person who suffered psychological injury from witnessing a qualifying crime against a direct victim.
+
+4. **The "directly connected" requirement excludes collateral or speculative victimization.** The Board's jurisdiction does not extend to financial losses that are tangentially related to a crime but not "directly resulting from" the qualifying criminal act. However, where the crime is part of an ongoing pattern of criminal conduct (such as domestic violence or identity theft), each criminal act in the continuing pattern is a separately qualifying predicate crime.
+
+5. **The qualifying crime date determines the governing statute.** Where a claim spans multiple criminal acts, each act carries its own filing deadline measured from the date of that act — not from a general "discovery" date. This matters for multi-incident applications.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For application A25-10117946 (qualifying crime: June 16, 2023 incident):
+- The qualifying crime is the June 16, 2023 incident — the underlying criminal conduct that gave rise to Michael's victimization
+- The fact that Michael was arrested (not the perpetrator) does not negate his victim status where the criminal conduct of others caused him compensable harm
+- CalVCB's use of crime dates ranging from 10/20/2007 to 6/16/2018 to BLANK — rather than 6/16/2023 — represents the Board's own failure to correctly identify the qualifying crime date, which is a direct procedural defect in the denial
+- For a multi-incident claim (16-year orchestration), HERALD recommends briefing each incident as a separately qualifying criminal act with its own date, ensuring the claim is not dismissed because CalVCB used a wrong date for the primary incident
+
+---
+
+SOURCE PROVENANCE:
+Citation: Doctrinal placeholder — primary case citation pending verification
+Court: California Courts of Appeal / CalVCB administrative proceedings
+Source: Framework grounded in Gov. Code § 13955 statutory text and § 13950 liberal construction mandate. Knowledge cutoff August 2025.
+Verification: Search Casetext for § 13955 "directly connected" or "qualifying crime" date of crime CalVCB eligibility published decisions
+Verification status: PROPOSED — citation requires verification; framework confirmed by § 13955 statutory text; pending steward witness review

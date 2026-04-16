@@ -1,0 +1,30 @@
+{
+  "standard_id": "cal_gov_13953_timeliness",
+  "description": "Cross-references for Gov. Code § 13953 CalVCB timeliness framework",
+  "cross_references": [
+    {
+      "ref_id": "GOV_13950",
+      "title": "Gov. Code § 13950 — CalVCB Purpose (liberal construction mandate)",
+      "relationship": "The liberal construction mandate of § 13950 governs interpretation of § 13953 timeliness requirements. Ambiguous timeliness questions are resolved in favor of the applicant.",
+      "location": "~/citizens/CA_Victim_Compensation_Litigator/standards/cal_gov_13950_calvcb_purpose/"
+    },
+    {
+      "ref_id": "GOV_13955",
+      "title": "Gov. Code § 13955 — Eligibility",
+      "relationship": "A timely application is a prerequisite to eligibility; but if timeliness is disputed, the Board must consider the § 13953 good cause extension before denying on timeliness grounds.",
+      "location": "~/citizens/CA_Victim_Compensation_Litigator/standards/cal_gov_13955_eligibility/"
+    },
+    {
+      "ref_id": "GOV_13959",
+      "title": "Gov. Code § 13959 — Hearing and Appeal",
+      "relationship": "A timeliness denial is subject to hearing and appeal under § 13959. The Board's timeliness determination is a legal/factual question reviewable on the record.",
+      "location": "~/citizens/CA_Victim_Compensation_Litigator/standards/cal_gov_13959_hearing_appeal/"
+    },
+    {
+      "ref_id": "CCP_335_1_DISCOVERY",
+      "title": "Code of Civil Procedure § 335.1 — Discovery Rule (analogous)",
+      "relationship": "The CalVCB discovery rule in § 13953 is analogous to the civil discovery rule that tolls limitations periods until the plaintiff knew or should have known of the injury. The same policy rationale applies.",
+      "location": "External — Code of Civil Procedure"
+    }
+  ]
+}

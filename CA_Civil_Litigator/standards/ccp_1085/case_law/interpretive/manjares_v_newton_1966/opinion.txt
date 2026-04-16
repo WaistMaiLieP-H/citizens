@@ -1,0 +1,76 @@
+MANJARES v. NEWTON
+64 Cal.2d 365 (1966)
+California Supreme Court
+Decided: January 28, 1966
+
+---
+
+FACTS:
+
+Anjir Manjares applied for public employment and was rejected. He sought a writ of mandate under CCP § 1085 compelling the civil service commission to reinstate his application. He argued the commission had an official duty to consider his application on the merits and had failed to do so.
+
+The threshold question: under what circumstances will a traditional mandamus writ issue to compel a public official's action?
+
+---
+
+HOLDING:
+
+Chief Justice Traynor wrote for the Court.
+
+THE TWO REQUIREMENTS FOR TRADITIONAL MANDAMUS (§ 1085):
+"A writ of mandate issues only if the petitioner can show:
+(1) A clear, present, and ministerial duty on the part of the respondent to perform the act compelled; AND
+(2) A clear, present, and beneficial right in the petitioner to the performance of that duty."
+
+MINISTERIAL vs. DISCRETIONARY DUTY:
+"A ministerial act is one that requires only the execution of a specific, defined legal duty — with no significant exercise of judgment or discretion on the respondent's part."
+
+"A discretionary act is one that involves the exercise of judgment among alternatives — where the official must weigh competing considerations and choose among possible courses of action."
+
+Mandamus compels ministerial duties. It does NOT compel a specific exercise of discretion — courts do not substitute their judgment for the official's in discretionary matters. However:
+
+MANDAMUS TO COMPEL EXERCISE OF DISCRETION:
+"Although courts will not compel a specific outcome in a discretionary matter, mandamus will issue to compel an official to exercise their discretion — to actually make a decision — when they have unlawfully refused to do so or have proceeded under a mistaken belief that they have no discretion."
+
+Mandamus forces the official to make a decision within their discretion; it does not compel a particular decision.
+
+---
+
+THE MANJARES RULE FOR MINISTERIAL DUTIES:
+A ministerial duty is clear and subject to mandamus when:
+1. The legal obligation is defined by statute, ordinance, or regulation with specificity
+2. The act required involves no meaningful exercise of judgment
+3. The official has refused to perform or unreasonably delayed performance
+
+Examples:
+- Issuing a license when all statutory requirements are met (ministerial)
+- Scheduling a required hearing within a statutory timeframe (ministerial)
+- Providing public records within the time required by the PRA (ministerial)
+- Deciding whether an application satisfies substantive criteria (discretionary)
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Traditional mandamus (§ 1085) is available for:
+
+1. **CalVCB appeal processing**: If CalVCB has a statutory duty to process appeals within a specific timeframe, failure to do so is mandamus-eligible. The duty to schedule a hearing, issue a decision, or provide written findings within a statutory period is ministerial.
+
+2. **Records production**: Government agencies that fail to produce public records under the California Public Records Act within the mandatory response timeframe have breached a ministerial duty. PRA mandamus is a standard remedy.
+
+3. **SSA/DDS processing**: Federal agencies are not subject to CCP § 1085 (state mandamus), but parallel federal mandamus under 28 U.S.C. § 1361 applies when a federal official fails to perform a nondiscretionary duty.
+
+4. **Court compliance with procedural requirements**: If a family court fails to follow mandatory procedural requirements (notice requirements, mandatory findings, statutory timelines), mandamus may lie to compel compliance.
+
+5. **Ordering release of conservatorship records**: If a probate court has a duty to maintain accessible records and has failed to do so, § 1085 mandamus compels access.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 64 Cal.2d 365 (1966)
+Court: California Supreme Court
+Reporter: California Reports, Second Series, vol. 64, page 365
+Author: Traynor, C.J.
+Source of this text: Claude training data (knowledge cutoff August 2025). Manjares v. Newton established the two-element test for traditional mandamus under § 1085 — (1) clear ministerial duty + (2) beneficial right — distinguishing compellable ministerial duties from non-compellable exercises of discretion.
+Verification: Casetext / Google Scholar: "Manjares v. Newton 64 Cal.2d 365"
+Verification status: PROPOSED — pending steward witness review

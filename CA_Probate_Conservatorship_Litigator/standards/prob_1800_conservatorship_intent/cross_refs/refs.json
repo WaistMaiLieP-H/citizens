@@ -1,0 +1,25 @@
+{
+  "standard_id": "prob_1800_conservatorship_intent",
+  "cross_refs": [
+    {
+      "ref_id": "cal_prob_1801_conservatorship_appointment",
+      "path": "${citizens}/CA_Conservator_Investigator/standards/cal_prob_1801_conservatorship_appointment",
+      "relationship": "companion \u2014 \u00a71801 states the basis (C&C standard); \u00a71800 states the governing mandates that conservatorship must serve"
+    },
+    {
+      "ref_id": "cal_prob_1851",
+      "path": "${citizens}/CA_Conservator_Investigator/standards/cal_prob_1851",
+      "relationship": "\u00a71851 annual review is the mechanism for \u00a71800(e) periodic review mandate"
+    },
+    {
+      "ref_id": "wic_5350_lps_conservatorship",
+      "path": "${citizens}/CA_Probate_Conservatorship_Litigator/standards/wic_5350_lps_conservatorship",
+      "relationship": "\u00a75350(f) excludes \u00a71826/\u00a71851 from LPS conservatorship \u2014 \u00a71800 mandates still apply as minimum constitutional floor"
+    },
+    {
+      "ref_id": "prob_void_for_fraud",
+      "path": "${citizens}/CA_Probate_Conservatorship_Litigator/standards/prob_void_for_fraud",
+      "relationship": "Conservatorship that systematically violates \u00a71800 mandates is operating outside its statutory purpose \u2014 supports void/voidable analysis"
+    }
+  ]
+}

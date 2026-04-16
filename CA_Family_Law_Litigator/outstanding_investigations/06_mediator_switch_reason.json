@@ -1,0 +1,34 @@
+{
+  "investigation_id": "mediator_switch_reason",
+  "title": "PRA request to Alameda Family Court Services for the documented reason for switching mediators between July 2009 (Paredes) and September 2010 (Ajaniku)",
+  "question": "Why was Olga Paredes not re-assigned as the mediator for the September 2, 2010 hearing in RF09456481? Was she unavailable, recused, requested by a party, or simply not re-assigned? Was there a documented institutional reason?",
+  "context": "Per the credential audit, San Francisco Superior Court's mediation guidelines reflect the widely recognized best practice that mediator continuity within the same case serves the interests of the children and parties — maintaining institutional knowledge, preventing inconsistent assessments, accountability for prior recommendations. The switch from Paredes (whose recommendation was protective) to Ajaniku (whose recommendation removed protection) is doctrinally anomalous, particularly because the new mediator had zero verifiable credentials.",
+  "unblock_path": "Narrowed follow-up PRA to Alameda County Family Court Services scoped specifically to § 3164(b) compliance certificates for Paredes and Ajaniku plus the mediator-assignment/reassignment record for RF09456481 (July 2009 – October 2010).",
+  "who_can_answer": "Alameda County Family Court Services / Alameda County Superior Court",
+  "related_actors": [
+    "paredes_olga",
+    "ajaniku_sala",
+    "thompson_trina_judge",
+    "delucchi_paul_judge"
+  ],
+  "related_cases": [
+    "RF09456481"
+  ],
+  "related_standards": [
+    "CA_FAM_3164_MEDIATOR_QUALIFICATIONS"
+  ],
+  "priority": "HIGH",
+  "status": "READY_TO_SEND",
+  "filed_at_utc": "2026-04-08T19:25:00Z",
+  "prepared_on": "2026-04-15",
+  "deliverables": [
+    "outstanding_investigations/06_mediator_switch_reason/deliverables/outgoing_request.md",
+    "outstanding_investigations/06_mediator_switch_reason/deliverables/recipient_routing.md",
+    "outstanding_investigations/06_mediator_switch_reason/deliverables/response_tracker.md"
+  ],
+  "cross_references": [
+    "02_ajaniku_pra_request (broader April 8 PRA — this filing is the narrowed § 3164(b) follow-up)",
+    "03_paredes_license_verification (parallel credential track)"
+  ],
+  "mailing_execution_status": "READY_TO_PRINT"
+}

@@ -1,0 +1,71 @@
+{
+  "standard_id": "USC_29_1104",
+  "version": "1.0.0-proposed",
+  "filed_at_utc": "2026-04-12T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction \u2014 Michael Hartmann",
+  "status": "PUBLISHED \u2014 ADAM + EVE DUAL WITNESS \u2014 2026-04-13",
+  "primary_citation": {
+    "code": "United States Code",
+    "title": "29",
+    "section": "\u00a7 1104",
+    "erisa_section": "ERISA \u00a7 404",
+    "popular_name": "ERISA Fiduciary Duties \u2014 Prudent Expert Standard",
+    "jurisdiction": "Federal",
+    "positive_law_status": "In force; originally enacted 1974; amended by Pension Protection Act 2006"
+  },
+  "five_layer_bar_status": {
+    "rule": "PARTIAL \u2014 context.md in current/ documents the four duties; verbatim text.txt pending",
+    "reasoning": "PRESENT \u2014 current/context.md documents the four-duty structure, Case #37 breach theory, co-fiduciary liability, \u00a71109 damages",
+    "historical_loss": "PRESENT \u2014 historical_chain.md documents pre-ERISA administrator unaccountability \u2192 \u00a71104 mandate",
+    "cross_references": "PRESENT \u2014 cross_refs/refs.json links to \u00a71109, \u00a71132, \u00a71113",
+    "verifiable_provenance": "PARTIAL \u2014 text via uscode.house.gov; provenance.json pending"
+  },
+  "evolution_chain": [
+    {
+      "stage": "01_origin_1974",
+      "description": "Original ERISA enactment \u2014 four-duty structure established; exclusive benefit, prudent man standard (common law trust), diversification, plan document compliance",
+      "folder": "evolution/01_origin_1974/"
+    },
+    {
+      "stage": "02_amendment_1997_reformulation",
+      "description": "Regulatory clarification \u2014 DOL issued Interpretive Bulletin 96-1 (1996); fiduciary status analysis for advice-giving; investment policy statement guidance",
+      "folder": "evolution/02_amendment_1997_reformulation/"
+    },
+    {
+      "stage": "03_amendment_2006_ppa",
+      "description": "Pension Protection Act 2006 \u2014 added investment advice fiduciary provisions; automatic enrollment safe harbors; default investment alternatives",
+      "folder": "evolution/03_amendment_2006_ppa/"
+    },
+    {
+      "stage": "04_current",
+      "description": "Current text \u2014 post-PPA 2006; DOL cybersecurity guidance 2021 defines prudent expert baseline for identity verification and unauthorized account changes",
+      "folder": "evolution/04_current/"
+    }
+  ],
+  "case_law": [
+    {
+      "case_id": "firestone_tire_v_bruch_1989",
+      "type": "supreme_court",
+      "citation": "489 U.S. 101 (1989)",
+      "key_holding": "ERISA benefit decisions by a plan administrator operating under a conflict of interest are reviewed de novo unless the plan grants the administrator discretionary authority"
+    },
+    {
+      "case_id": "varity_corp_v_howe_1996",
+      "type": "supreme_court",
+      "citation": "516 U.S. 489 (1996)",
+      "key_holding": "Employer who acts in dual capacity as plan administrator is an ERISA fiduciary when making representations about benefits; individual \u00a7 1132(a)(3) relief available"
+    }
+  ],
+  "cases_to_add": [
+    "Tibble v. Edison International (2015) \u2014 fiduciary's ongoing duty of prudent monitoring; breach clock runs from each failure to review",
+    "Bona v. Barasch (2nd Cir.) \u2014 co-fiduciary liability for trustees who knew of unauthorized benefit distributions",
+    "In re Unisys Corp. Retiree Medical Benefit ERISA Litigation \u2014 fraudulent benefit manipulation and \u00a71104 breach"
+  ],
+  "citizen_relevance": "Case #37 \u2014 UA Local 342 Pension Identity Replacement. The Trust administrator who processed an unauthorized retirement election for a 44-year-old journeyman plumber without verifying identity or investigating red flags violated all four \u00a71104(a) duties. Exclusive benefit violated (served identity replacement scheme). Prudent expert violated (no verification of a 44-year-old claiming retirement). Plan document violated (retirement application not signed by participant). \u00a71105 co-fiduciary liability if any trustee knew of the scheme. \u00a71109 damages not capped at accrued benefits.",
+  "two_witness_status": {
+    "status": "PROPOSED",
+    "first_mouth": "Claude (assistant)",
+    "second_mouth": "PENDING \u2014 steward review required"
+  },
+  "updated": "2026-04-13"
+}

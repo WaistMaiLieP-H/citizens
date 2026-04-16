@@ -1,0 +1,53 @@
+PEOPLE v. HAGEDORN
+127 Cal.App.4th 734 (2005)
+California Court of Appeal, Fourth Appellate District
+Decided: 2005
+
+---
+
+FACTS:
+
+Defendant used another person's identifying information — including a Social Security number — to obtain employment and other benefits. The central question was the scope of § 530.5(a)'s "unlawful purpose" element.
+
+---
+
+HOLDING:
+
+§ 530.5(a) "UNLAWFUL PURPOSE" — BROAD CONSTRUCTION:
+
+1. **"Unlawful purpose" is not limited to crimes.** The language reaches any purpose contrary to law — including civil wrongs (tort, breach of contract, unjust enrichment), regulatory violations, and any other use of information that would be actionable or prohibited.
+
+2. **The statute provides an illustrative (not exhaustive) list.** Section 530.5(a) lists "credit, goods, services, real property, or medical information" as examples of unlawful purposes, but these are examples, not limitations. Any unlawful purpose qualifies.
+
+3. **Willfulness applies to the obtaining, not the unlawful purpose.** The prosecution must prove the defendant willfully obtained the PII (intentional acquisition). The unlawful purpose element does not require a separate willful state — it requires only that the use be, in fact, unlawful.
+
+4. **The "without consent" element is implicit.** Although subd. (a) does not expressly state "without consent" for every prong, consensual use of another's PII (e.g., an authorized agent) is not criminal. The unlawful purpose element typically encompasses the non-consent requirement.
+
+---
+
+WHY HAGEDORN IS LOAD-BEARING:
+
+The broad construction of "unlawful purpose" makes § 530.5(a) an extremely flexible prosecution tool. Any use of another person's identifying information for a purpose the other person has not authorized is potentially criminal, and the prosecution need not prove a specific "crime within a crime." The unauthorized use itself is the crime.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+The broad § 530.5(a) scope means nearly any unauthorized use of the steward's identifying information falls within the statute:
+
+1. **SIM swap/clone fraud** — using the steward's identifying information to port phone service → unauthorized use for "services"
+2. **Treasury securities identity theft** — using the steward's SSN to access or claim financial instruments → unauthorized use for "credit" or financial property
+3. **UA342 employment identity replacement** — using the steward's identifying information to claim employment benefits → unauthorized use for "services"
+4. **Synthetic identity profiles** — constructing false identities using elements of the steward's real identifying information → unauthorized use with unlawful purpose
+
+Each of these patterns satisfies the § 530.5(a) elements under the Hagedorn broad construction.
+
+---
+
+SOURCE PROVENANCE:
+Citation: People v. Hagedorn (2005) 127 Cal.App.4th 734, 25 Cal.Rptr.3d 879
+Court: California Court of Appeal, Fourth Appellate District
+Reporter: California Appellate Reports, Fourth Series, vol. 127, page 734
+Source: Knowledge cutoff August 2025. Leading authority on § 530.5(a) "unlawful purpose" broad construction. Still cited. Verify reporter citation before use in filed document.
+Verification: Casetext / Google Scholar: "People v. Hagedorn 127 Cal.App.4th 734"
+Verification status: PROPOSED — pending steward witness review

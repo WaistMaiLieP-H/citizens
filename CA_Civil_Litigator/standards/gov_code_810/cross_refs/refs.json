@@ -1,0 +1,34 @@
+{
+  "standard_id": "GOV_CODE_810",
+  "cross_references": [
+    {
+      "target_standard": "GOV_CODE_815_2",
+      "relationship": "core provision \u2014 vicarious liability. A public entity is liable for injury caused by an employee acting within the scope of employment to the same extent the employee is personally liable. This is the primary mechanism through which public entities are held accountable for employee misconduct.",
+      "target_citizen": "CA_Civil_Rights_Litigator",
+      "build_status": "BUILT"
+    },
+    {
+      "target_standard": "GOV_CODE_815",
+      "relationship": "core provision \u2014 public entity liability only where a statute provides. Abolishes common-law government liability. Every tort claim against a public entity must identify a statute that creates liability.",
+      "build_status": "NOT BUILT AS STANDALONE STANDARD \u2014 Gov. Code \u00a7815 (statute-based liability only) documented within gov_code_810 reasoning layer. Note: gov_code_815_2 (respondeat superior) IS BUILT in CA_Civil_Rights_Litigator."
+    },
+    {
+      "target_standard": "GOV_CODE_900",
+      "relationship": "claim presentation \u2014 the procedural gate. Before suing a public entity in tort, you must file a government tort claim. \u00a7\u00a7900-915.4 govern the claim process, deadlines, and consequences of failure.",
+      "build_status": "NOT BUILT AS STANDALONE STANDARD \u2014 claim presentation procedures (\u00a7\u00a7900-915.4) documented within gov_code_810 reasoning layer."
+    },
+    {
+      "target_standard": "42_USC_1983",
+      "relationship": "federal bypass \u2014 \u00a71983 claims are NOT subject to the Government Claims Act's claim presentation requirement (Felder v. Casey, 487 U.S. 131 (1988)). A plaintiff can file a \u00a71983 action against state actors without first filing a government tort claim. But state-law tort claims against the same entity still require claim presentation.",
+      "target_citizen": "US_Federal_Civil_Rights_Litigator",
+      "build_status": "BUILT"
+    },
+    {
+      "target_standard": "CCP_1094_5",
+      "relationship": "framework sibling \u2014 \u00a71094.5 reviews agency decisions; the Claims Act governs tort liability of the same entities. Different remedies for different wrongs, often arising from the same government conduct.",
+      "target_citizen": "CA_Civil_Litigator",
+      "build_status": "BUILT (this session)"
+    }
+  ],
+  "refs_updated": "2026-04-12 \u2014 ADAM review pass; build_status fields updated to reflect current corpus state"
+}

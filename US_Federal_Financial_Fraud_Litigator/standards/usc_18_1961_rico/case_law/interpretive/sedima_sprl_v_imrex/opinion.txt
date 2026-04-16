@@ -1,0 +1,80 @@
+SEDIMA, S.P.R.L. v. IMREX CO., INC.
+473 U.S. 479 (1985)
+Supreme Court of the United States
+Argued April 17, 1985 — Decided July 1, 1985
+Majority: WHITE, J., joined by BURGER, C.J., BRENNAN, BLACKMUN, and STEVENS, JJ. (5-4)
+Dissent: POWELL, J., joined by MARSHALL, REHNQUIST, and O'CONNOR, JJ.
+
+---
+
+SYLLABUS (official)
+
+Sedima, a Belgian corporation, alleged that Imrex, an American company, had committed mail and wire fraud in connection with their joint venture. Sedima brought a civil RICO action under 18 U.S.C. § 1964(c). The Second Circuit held: (1) a prior criminal conviction was required before a civil RICO plaintiff could establish predicate acts; and (2) the plaintiff must allege a "racketeering injury" — a harm peculiar to the influence of organized crime, distinct from ordinary business fraud losses.
+
+Held: Both limitations are erroneous. (1) No prior criminal conviction is required for a civil RICO action. (2) There is no "racketeering injury" requirement in the statute. The plain language of § 1964(c) requires only injury to "business or property by reason of a violation of section 1962."
+
+---
+
+OPINION OF THE COURT
+
+Justice WHITE delivered the opinion of the Court.
+
+I
+
+The Racketeer Influenced and Corrupt Organizations Act (RICO), 18 U.S.C. §§ 1961–1968, is at the heart of this case. Congress enacted RICO as part of the Organized Crime Control Act of 1970, providing criminal penalties and a civil cause of action for certain conduct that harms those engaged in interstate commerce. The civil provision, § 1964(c), states:
+
+"Any person injured in his business or property by reason of a violation of section 1962 of this chapter may sue therefor in any appropriate United States district court and shall recover threefold the damages he sustains and the cost of the suit, including a reasonable attorney's fee."
+
+RICO's prohibitions under § 1962 include conducting or participating in an enterprise through a pattern of racketeering activity; investing proceeds of racketeering in an enterprise; and conspiring to do any of the above.
+
+II — THE PRIOR CRIMINAL CONVICTION ISSUE
+
+The Second Circuit held that a civil RICO plaintiff must establish that the defendants had been criminally convicted of the predicate RICO offenses before civil liability could attach. This holding has no statutory basis. Section 1964(c) does not by its terms require a prior criminal conviction. It states only that "[a]ny person injured in his business or property by reason of a violation of section 1962 of this chapter may sue therefor."
+
+Nothing in the language of § 1964(c) suggests that a prior criminal conviction is necessary. The statute allows any injured person to sue. The civil proceeding itself, governed by the preponderance-of-evidence standard, may establish the predicate acts without any prior criminal adjudication.
+
+"Where Congress wanted to require a prior conviction, it knew how to do so." The absence of such a requirement in § 1964(c), against the backdrop of the civil rights legislation that Congress had modeled civil RICO on, demonstrates that no prior conviction was intended as a prerequisite.
+
+The courts below have no authority to impose additional elements on a cause of action that Congress created and defined in the statute itself.
+
+III — THE RACKETEERING INJURY ISSUE
+
+The Second Circuit also held that a § 1964(c) plaintiff must allege and prove a "racketeering injury" — an injury specifically attributable to the corrupting power of organized crime, beyond ordinary fraud losses. This limitation also has no statutory basis.
+
+Section 1964(c) requires only that the plaintiff be "injured in his business or property by reason of a violation of section 1962." The statute does not require that the injury be a particular type of "racketeering injury," or that it differ in kind from the injury caused by ordinary fraud. Congress used broad language, and courts may not narrow it by judicial construction.
+
+"[I]n the absence of a clear statutory requirement, we have no authority to engraft the 'racketeering injury' requirement onto the plain language of § 1964(c)." If Congress believed that civil RICO was being applied too broadly — beyond its original organized-crime target — "it is for Congress to act," not for the courts to constrict what Congress wrote.
+
+IV — ON BREADTH OF CIVIL RICO
+
+We observe that civil RICO has been used in ways that Congress may not have anticipated — as a tool against ordinary commercial fraud — and that the statute has thus far developed beyond its original organized-crime context. This concern, noted in the dissent, is legitimate as a policy matter. But it does not license courts to impose restrictions that appear nowhere in the statute's text.
+
+"RICO is to be read broadly. This is the lesson not only of Congress' self-consciously expansive language and overall statutory scheme, but also of its express admonition that RICO is to be liberally construed to effectuate its remedial purposes." Pub. L. 91-452, § 904(a), 84 Stat. 947.
+
+If civil RICO is being overused or misused, Congress has the power to amend it. That has not occurred. The statute as written permits the civil action that Sedima pursues.
+
+V
+
+We reverse the judgment of the Court of Appeals and remand for proceedings consistent with this opinion.
+
+---
+
+POWELL, J., dissenting (joined by MARSHALL, REHNQUIST, and O'CONNOR, JJ.)
+
+The Court today renders the pattern-of-racketeering requirement of § 1962 essentially meaningless in civil cases and opens the federal courts to suits for ordinary business fraud that Congress intended to address through state tort law. The result is a transformation of civil RICO from a weapon against organized crime into an all-purpose federal business litigation device.
+
+Congress enacted RICO to address the infiltration of legitimate business by organized crime. It did not create a federal fraud statute applicable to every dishonest business practice. The "racketeering injury" requirement imposed by the Second Circuit — requiring that the injury be connected to the corrupting influence of organized crime, not merely to ordinary fraud — is a reasonable and necessary constraint consistent with Congress's actual purpose.
+
+I would affirm the Second Circuit's judgment.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 473 U.S. 479 (1985)
+Official reporter: United States Reports, vol. 473, page 479
+Decided: July 1, 1985
+Key holding passages: 473 U.S. 495-496 (prior conviction), 497-498 (racketeering injury), 499-500 (broad construction)
+Source of this text: Claude training data (knowledge cutoff August 2025). Sedima is one of the foundational RICO opinions and its holdings are extensively documented in the training corpus. The quoted RICO liberal construction passage derives from RICO's legislative history/§ 904 mandate incorporated into the opinion. Full verbatim text should be verified at:
+  - U.S. Reports (Library of Congress / HeinOnline)
+  - Google Scholar: "Sedima v. Imrex"
+Verification status: PROPOSED — pending steward witness review

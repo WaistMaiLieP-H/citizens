@@ -1,0 +1,12 @@
+{
+  "standard_id": "42_USC_1985_3",
+  "source_url_primary": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1985&num=0&edition=prelim",
+  "source_url_secondary": "https://www.law.cornell.edu/uscode/text/42/1985",
+  "fetch_timestamp_utc": "2026-04-09T00:30:00Z",
+  "fetch_tool": "WebFetch (Claude Code)",
+  "retrieval_steward": "Claude (assistant) under steward direction — Michael Hartmann",
+  "text_file": "42_usc_1985_text.txt",
+  "text_sha256": "aeb280a2f0c42c70d3c7e2f63ceaa566d400633dc42a6b3890f11380a319f298",
+  "edition": "prelim (current as of 2026-04-09)",
+  "notes": "Full text of all three subsections captured. No amendments since original R.S. §1980 recodification — this statute has NEVER been textually amended. The only changes are judicial interpretations."
+}

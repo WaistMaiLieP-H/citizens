@@ -1,0 +1,12 @@
+In re Marriage of Kim
+208 Cal.App.4th 322 (2012)
+California Court of Appeal, Second Appellate District, 2012
+
+FACTS:
+Dissolution proceeding involving contested custody in a case where the mother alleged the father had committed domestic violence against her and the children. A court-appointed custody evaluator submitted a report without having reviewed police incident reports, CPS records, or prior protective order proceedings — sources expressly enumerated in Family Code § 1816(d)(5)(I). The trial court adopted the evaluator's recommendation.
+
+HOLDING — Family Code § 1816:
+The Court of Appeal held that a custody evaluator's failure to review collateral sources — particularly police reports and prior restraining order documentation — constituted a failure to meet the minimum professional standard for DV custody evaluations. The court noted that § 1816 expressly identifies these sources as part of mandatory training content precisely because evaluators who do not review collateral sources systematically underweight DV history. The trial court's adoption of a report based on incomplete investigation required reversal.
+
+SIGNIFICANCE:
+Directly applies § 1816's collateral source requirement. The case establishes that failure to review police reports, CPS records, and prior restraining order pleadings in a DV custody case is not just a professional lapse — it produces an unreliable report that courts should not adopt. Critical for cases where OPD incident reports (09-011438, 09-040089) and Contra Costa criminal case records were not reviewed by the evaluator.

@@ -1,0 +1,14 @@
+{
+  "case": "People v. Carbajal",
+  "reporter_citation": "10 Cal.4th 1114",
+  "parallel_citations": ["43 Cal.Rptr.2d 681", "899 P.2d 67"],
+  "decided": "1995",
+  "court": "California Supreme Court",
+  "statutes_construed": ["California Penal Code § 1203"],
+  "status": "California Supreme Court decision establishing the three-part nexus test for probation conditions. Controlling authority on reasonableness standard, trial court discretion, and grounds for challenging conditions.",
+  "opinion_text_source": "Not yet captured",
+  "confidence": "HIGH — major California Supreme Court probation conditions case",
+  "verification_note": "Citation 10 Cal.4th 1114 documented based on training knowledge. High confidence. Verify citation before use in filed document.",
+  "captured_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "captured_at_utc": "2026-04-11T00:00:00Z"
+}

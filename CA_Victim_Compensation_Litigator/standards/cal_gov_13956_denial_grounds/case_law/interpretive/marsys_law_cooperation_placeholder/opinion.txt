@@ -1,0 +1,44 @@
+DOCTRINAL FRAMEWORK: § 13956 DENIAL GROUNDS — MARSY'S LAW COOPERATION PROTECTIONS
+[Specific published case citation pending primary-source verification]
+California Courts of Appeal / California Victim Compensation Board
+
+---
+
+CITATION STATUS:
+
+This folder documents Marsy's Law (Cal. Const. Art. I § 28) as it modifies the § 13956 cooperation requirement. Marsy's Law was enacted by voters as Proposition 9 in November 2008 and directly constrains how CalVCB may apply the cooperation and contributing conduct denial grounds. A specific published case citation is pending primary-source verification.
+
+---
+
+HOLDING:
+
+MARSY'S LAW AND THE § 13956 COOPERATION REQUIREMENT:
+
+1. **Marsy's Law establishes affirmative victim rights that CalVCB must honor.** Article I, Section 28 of the California Constitution (enacted by Proposition 9, November 2008) gives crime victims the right to be treated with fairness, dignity, and respect; the right to be heard at all critical stages; and the right not to have their application for compensation denied without genuine consideration of their circumstances.
+
+2. **CalVCB is a state agency bound by Marsy's Law.** As a state agency adjudicating victim compensation claims, CalVCB must apply the statutory denial grounds in § 13956 consistently with the constitutional rights established by Marsy's Law. Where a § 13956 denial would violate a victim's Marsy's Law rights — for example, by denying without hearing, by using single-source adverse evidence, or by failing to consider mitigating factors — that denial is constitutionally defective.
+
+3. **The cooperation requirement cannot be applied to re-victimize victims who feared retaliation.** Section 13956(a)(2) lists mitigating factors for the cooperation requirement, including whether the applicant is a domestic violence victim, a sexual assault victim, or a trafficking victim whose cooperation was impaired by fear of retaliation, injury, or death. Marsy's Law reinforces these protections: a Board decision denying a DV victim for failure to cooperate — without addressing whether her cooperation was impaired by fear — violates both § 13956(a)(2) and Art. I § 28.
+
+4. **The Board may not use the applicant's own victimization against them.** Where the § 13956(b) contributing-conduct ground would penalize a victim for circumstances arising from the crime itself (e.g., a DV victim who struck her abuser in self-defense; a crime victim whose pre-existing criminal record arose from the coercive control of her trafficker), Marsy's Law's "fairness and dignity" mandate constrains the Board's application of that ground.
+
+5. **Marsy's Law creates a right to a meaningful response to adverse evidence.** Where the Board relies on a police report, investigation summary, or other single adverse source, Marsy's Law requires that the applicant have a genuine opportunity to contest that source. A denial based solely on a police report that the victim disputes — without investigation — violates Marsy's Law.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For application A25-10117946:
+- The CalVCB audit found 13 FAIL findings on procedural grounds, including shortened deadlines and single-source denial
+- If any of the denial grounds invoked § 13956 cooperation or contributing conduct, the appeal should separately argue that the denial violated Marsy's Law by failing to consider mitigating factors and failing to give the applicant a meaningful opportunity to respond to adverse evidence
+- Even where Marsy's Law is not the primary reversal ground, citing it in the appeal reinforces the seriousness of the procedural failures and connects the denial to constitutional rights, not just administrative technicalities
+- The appeal should request that the Board articulate whether any § 13956 ground was applied, and if so, specifically which mitigating factors it considered and rejected
+
+---
+
+SOURCE PROVENANCE:
+Citation: Doctrinal placeholder — primary case citation pending verification
+Statute: Cal. Const. Art. I § 28 (Marsy's Law, enacted Nov. 2008 by Proposition 9) as it modifies Gov. Code § 13956
+Source: Framework grounded in Marsy's Law constitutional text, § 13956 statutory text, and general California administrative law principles. Knowledge cutoff August 2025.
+Verification: Search Casetext for "Marsy's Law" "victim compensation" CalVCB cooperation published decisions
+Verification status: PROPOSED — citation requires verification; Marsy's Law constitutional text confirmed; § 13956 mitigating factor framework confirmed by statutory text; pending steward witness review

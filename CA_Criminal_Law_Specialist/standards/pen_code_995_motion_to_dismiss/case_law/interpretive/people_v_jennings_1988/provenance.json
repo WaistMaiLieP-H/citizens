@@ -1,0 +1,14 @@
+{
+  "case": "People v. Jennings",
+  "reporter_citation": "46 Cal.3d 963",
+  "parallel_citations": ["251 Cal.Rptr. 278", "760 P.2d 475"],
+  "decided": "1988",
+  "court": "Supreme Court of California",
+  "statutes_construed": ["California Penal Code § 995"],
+  "status": "Binding California Supreme Court precedent. Clarifies scope of § 995 review — complete evidentiary void required to set aside information. Still controlling.",
+  "opinion_text_source": "Not yet captured",
+  "folder_name_note": "Filed in legacy 'people_v_superior_court_1973' folder — rename to 'people_v_jennings_1988' in next maintenance pass.",
+  "verification_note": "Citation documented based on training knowledge. Verify reporter citation before use in filed document.",
+  "captured_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "captured_at_utc": "2026-04-11T00:00:00Z"
+}

@@ -1,0 +1,21 @@
+{
+  "layer": "historical_chain",
+  "sublayer": "01_vawa_1994",
+  "title": "VAWA 1994 — Housing Gap — Legislative Foundation Without Housing Protections",
+  "enacted": "1994-09-13",
+  "president": "Bill Clinton",
+  "enacting_law": "Violent Crime Control and Law Enforcement Act of 1994, Title IV (VAWA), Pub. L. 103-322, 108 Stat. 1902",
+  "primary_sponsor": "Senator Joseph R. Biden Jr. (D-DE)",
+  "housing_not_included": true,
+  "housing_omission_reason": "Political strategy — housing more complex regulatory domain; criminal law reform and funding achievable in 1994; housing provisions drafted for 2000 reauthorization but failed Senate",
+  "next_legislative_step": "VAWA 2005 (Pub. L. 109-162) — first housing protections added for public housing and Section 8",
+  "gap_period": "1994-2005",
+  "gap_evidence": [
+    "HUD 'one strike' policy (1996) — eviction for any criminal activity on premises, including DV incidents",
+    "National Coalition for the Homeless data — DV among top 3 causes of family homelessness",
+    "Congressional hearing testimony 2003-2004 — victim-eviction practices at public housing authorities"
+  ],
+  "verified": false,
+  "verified_note": "Legislative history from training knowledge. Pub. L. 103-322 text and Biden sponsorship are verifiable. One-strike policy origin (1996 HUD guidance) should be verified if cited in litigation.",
+  "retrieval_date": "2026-04-13"
+}

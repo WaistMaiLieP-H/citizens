@@ -1,0 +1,9 @@
+{
+  "layer": "historical_chain",
+  "node": "01_origin_1965",
+  "event": "California Evidence Code enacted — EVID §752 codified",
+  "date": "1965",
+  "source": "Stats. 1965, ch. 299",
+  "verified": true,
+  "note": "Evidence Code enacted 1965; §752 text stable since enactment. Verified via MCP fetch."
+}

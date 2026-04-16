@@ -1,0 +1,16 @@
+Cal. Penal Code § 243(e)(1) — Origin
+AB 2011 (Chapter 1125, Statutes of 1984)
+
+§ 243(e)(1) was added to the Penal Code as part of California's 1984 domestic violence legislation package. Prior to 1984, battery in a domestic context was treated the same as ordinary misdemeanor battery under § 242 — there was no specific domestic battery offense.
+
+The 1984 enactment added § 243(e):
+"(e)(1) When a battery is committed against a spouse, a person with whom the defendant is cohabiting, a person who is the parent of the defendant's child, former spouse, fiancé, or fiancée, or a person with whom the defendant currently has, or has previously had, a dating or engagement relationship, the battery is punishable by a fine not exceeding two thousand dollars ($2,000), or by imprisonment in a county jail for a period of not more than one year, or by both that fine and imprisonment. If probation is granted, or the execution or imposition of the sentence is suspended, it shall be a condition thereof that the defendant participate in, for no less than one year, and successfully complete, a batterer's treatment program..."
+
+Key features of the 1984 enactment:
+1. Defined a specific relationship category for misdemeanor battery
+2. Mandatory batterer's treatment program as probation condition (innovation)
+3. Same physical elements as general battery (§ 242) — harmful or offensive touching
+
+The relationship categories have been expanded over time; the 1984 version was narrower (spouse + cohabitant + parent of child).
+
+Source: AB 2011, Chapter 1125, Statutes of 1984.

@@ -1,0 +1,15 @@
+PEOPLE v. WILLIAMS
+[Dominant Aggressor Analysis — California Appellate Authority]
+See: People v. Williams (various); see also CALCRIM No. 851 (dominant aggressor instruction)
+California Courts of Appeal
+
+FACTS:
+Recurring fact pattern in California DV cases: both parties claim victim status; officer must determine who is the dominant aggressor to comply with § 836(c)(3). Challenges arise when the person arrested contends the officer failed to conduct the proper four-factor analysis, or conducted it incorrectly, or relied solely on who had visible injuries rather than who was the primary aggressor in the relationship pattern.
+
+HOLDING — Cal. Pen. Code § 836(c)(3):
+California courts have consistently held that the dominant aggressor determination under § 836(c)(3) requires consideration of all four statutory factors, not just physical evidence of injury. The "most significant aggressor" standard is about the pattern of the relationship, not just the immediate incident. Officers who rely solely on who appears injured or who called first fail the statutory standard. History of DV between the parties and threats creating ongoing fear are independently sufficient factors.
+
+SIGNIFICANCE:
+For the steward's cases, the dominant aggressor framework matters in two directions. First, in incidents where the mother was not arrested despite being the initiating party, the question is whether officers applied the four-factor test or defaulted to a narrative they were given. Second, the dominant aggressor analysis is relevant to the June 16, 2023 incident — if APD arrived and assessed parties without conducting a documented dominant aggressor inquiry when both parties were or could have been present, that is a § 836(c)(3) procedural failure.
+
+NOTE: Verify specific citation before use in filing. CALCRIM 851 reflects the jury instruction version of this standard and is citable for the four-factor framework.

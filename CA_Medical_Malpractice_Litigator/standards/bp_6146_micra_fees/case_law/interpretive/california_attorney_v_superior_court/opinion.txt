@@ -1,0 +1,87 @@
+CALIFORNIA ATTORNEY FOR INJURED WORKERS v. SUPERIOR COURT
+(MICRA Attorney Fee Cap — Business & Professions Code § 6146)
+
+NOTE: The California Attorney for Injured Workers case most directly associated with Business & Professions Code § 6146 in the MICRA context involves the constitutional challenges to the MICRA attorney fee cap and the California Supreme Court's upholding of it. The definitive authority on the constitutional validity of the MICRA fee cap is:
+
+ROA v. LODI MEDICAL GROUP, INC., 37 Cal.3d 920 (1985)
+— discussed within this document in conjunction with the primary constitutional framework.
+
+This folder documents the MICRA attorney fee cap framework under § 6146 and the cases that have interpreted its application.
+
+---
+
+BUSINESS & PROFESSIONS CODE § 6146 — MICRA ATTORNEY FEE CAP:
+
+Section 6146 (enacted 1975 as part of MICRA — Medical Injury Compensation Reform Act) limits the contingency fee that an attorney may charge in a medical malpractice case:
+
+ORIGINAL CAP (1975-2022):
+- 40% of the first $50,000 recovered;
+- 33⅓% of the next $50,000;
+- 25% of the next $500,000;
+- 15% of any amount over $600,000.
+
+AMENDED CAP (AB 35, effective January 1, 2023):
+- 25% of the first $500,000 recovered;
+- 15% of the amount over $500,000.
+
+AB 35 also increased MICRA's noneconomic damages cap from $250,000 to $350,000 effective 2023, with additional annual increases of $40,000 per year until reaching $750,000 in 2033.
+
+---
+
+CONSTITUTIONAL VALIDITY — ROA v. LODI MEDICAL GROUP:
+
+The California Supreme Court in Roa v. Lodi Medical Group, Inc., 37 Cal.3d 920 (1985), upheld the MICRA attorney fee cap against constitutional challenge.
+
+EQUAL PROTECTION: The court held the cap satisfies the rational basis test. The Legislature had a rational basis for limiting attorney fees in medical malpractice cases — specifically, to reduce the cost of medical liability insurance and thereby ensure continued access to medical care.
+
+DUE PROCESS: The cap does not deprive injured patients of due process because patients retain the right to recover economic damages in full and to retain counsel; the cap limits only the attorney's fee, not the patient's right to sue.
+
+KEY HOLDING: "The Legislature may constitutionally limit attorney fees in medical malpractice cases as part of a comprehensive reform of the medical liability system." (Paraphrase.)
+
+---
+
+SCOPE OF § 6146:
+
+The fee cap applies to:
+1. "Professional negligence" claims against healthcare providers (physicians, surgeons, dentists, hospitals, clinics, etc.);
+2. Cases where the plaintiff retains counsel on a contingency fee basis;
+3. All amounts actually recovered, including pre-trial settlements.
+
+The cap does NOT apply to:
+- MICRA cases where counsel is retained on an hourly basis (but this is rare in practice);
+- Non-malpractice claims against healthcare providers (battery, fraud, intentional torts — though these may be combined with malpractice claims);
+- Administrative proceedings (Medical Board).
+
+---
+
+INTERACTION WITH MICRA DAMAGES CAP (CIV. CODE § 3333.2):
+
+§ 6146 interacts with § 3333.2 (the MICRA noneconomic damages cap) as follows:
+- The damages cap limits the total noneconomic recovery;
+- The fee cap then limits what the attorney takes from the total recovery;
+- The combination can substantially reduce the net amount a severely injured patient recovers.
+
+EXAMPLE: A patient with $1,000,000 in noneconomic damages recovers $350,000 under the § 3333.2 cap (2023 amount). The attorney fee on $350,000 noneconomic + $500,000 economic damages = $850,000 total:
+- 25% of first $500,000 = $125,000
+- 15% of next $350,000 = $52,500
+- Total fee = $177,500 (vs. 33% = $280,500 under a standard contingency).
+
+---
+
+APPLICATION TO SIRVA / SURGICAL MALPRACTICE:
+
+For a SIRVA case (shoulder injury resulting from vaccine injection) combined with a surgical malpractice claim (failed corrective surgery):
+1. The claims are "professional negligence" against healthcare providers — § 6146 applies;
+2. Post-AB 35 cap: 25% / 15% applies to 2023+ cases;
+3. The SIRVA + surgical malpractice combination can generate both economic damages (medical costs, lost wages) and noneconomic damages (pain and suffering) — the § 3333.2 cap applies to the noneconomic portion;
+4. Total recovery includes: full economic damages (uncapped) + noneconomic damages (capped at $350,000 rising to $750,000 by 2033).
+
+---
+
+SOURCE PROVENANCE:
+Primary authority: Bus. & Prof. Code § 6146; Roa v. Lodi Medical Group, Inc., 37 Cal.3d 920 (1985); AB 35 (2022)
+Source of this text: Claude training data (knowledge cutoff August 2025). California MICRA fee cap materials should be verified at:
+  - California Legislature: leginfo.legislature.ca.gov (Bus. & Prof. Code § 6146)
+  - Google Scholar: "Roa v. Lodi Medical Group 37 Cal.3d"
+  - AB 35 text: leginfo.legislature.ca.gov
+Verification status: PROPOSED — pending steward witness review

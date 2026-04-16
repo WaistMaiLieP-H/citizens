@@ -1,0 +1,76 @@
+{
+  "citizen_id": "CA_MENTAL_HEALTH_LITIGATOR",
+  "version": "1.1-lps-expansion",
+  "status": "OPERATIONAL",
+  "build_date": "2026-04-13",
+  "last_expansion": "2026-04-15",
+  "steward": "Michael Hartmann",
+
+  "path_anchors": {
+    "citizens": "/home/vernenlegal/citizens",
+    "familylaw": "/home/vernenlegal/FamilyLaw",
+    "nonfamilylaw": "/home/vernenlegal/NonFamilyLaw"
+  },
+
+  "blueprints_inherited": ["ADAM", "EVE"],
+  "triple_constraint": {
+    "governing_guidelines": "Cal. Pen. Code §1368 (competency doubt duty); Cal. Pen. Code §1369 (competency evaluation procedure); Cal. WIC Code §5150 (involuntary 72-hour hold); Cal. BPC §2290.5 (telehealth standards); Dusky v. United States 362 U.S. 402 (1960) (federal CST standard)",
+    "standards_of_creation": "Five-layer bar; no stubs; ADAM+EVE dual witness; verified live-fetched statutes",
+    "standard_of_care": "Mental competency proceedings determine whether a person loses the fundamental right to control their own defense. A fraudulent competency evaluation — one conducted without proper credentials, without proper consent, across state lines in violation of telehealth standards — is not a procedural error. It is a mechanism for stripping constitutional rights."
+  },
+
+  "bound_standards": [
+    "pen_1368_competency_doubt",
+    "pen_1369_competency_determination",
+    "wic_5150_involuntary_hold",
+    "bpc_2290_5_telehealth",
+    "evid_1016_psychotherapist_privilege",
+    "wic_5250_14_day_certification",
+    "wic_5270_15_additional_30_day",
+    "wic_5325_patients_rights",
+    "wic_5328_lps_confidentiality",
+    "usc_42_290dd_2_substance_abuse_confidentiality"
+  ],
+
+  "expansion_2026_04_15_lps_pack": {
+    "summary": "LPS escalation + confidentiality chain. 5 new five-layer standards covering 14-day IT certification (§5250), 30-day gravely-disabled extension (§5270.15), Patients' Bill of Rights (§5325), LPS records confidentiality (§5328), and federal substance-abuse records confidentiality (42 USC §290dd-2 + 42 CFR Part 2).",
+    "critical_findings": {
+      "it_label_decoded": "'IT' in the conservatorship breakthrough dossier = WIC §5250 14-day intensive treatment certification. Every IT reference maps to a specific §5250 calendar window requiring four-element audit.",
+      "gravely_disabled_safety_valve": "§5250(d) requires written family/friend offers of support before gravely-disabled certification can stand. Absence of documented solicitation = facial §5250(d) defect.",
+      "absolute_rights": "§5325(f) ECT refusal and §5325(g) psychosurgery refusal are ABSOLUTE — not subject to Riese-style capacity override. §5325 non-waiver clause voids any conservator/parent/guardian attempted waiver.",
+      "5328_as_admissibility_gate": "Every LPS record surfacing in family-law, criminal, CalVCB, or administrative proceeding must trace to a numbered §5328(a) exception. Untraced disclosures are actionable under §5330.",
+      "dual_regime_sud": "SUD records in the LPS pipeline trigger BOTH §5328 and federal §290dd-2/Part 2. Stricter controls. §290dd-2(c) absolute proceedings-use bar is stricter than §5328(a)(6) 'to the courts' exception."
+    },
+    "verification_status": {
+      "wic_5250_5270_15_5325_5328": "live-fetched from leginfo.legislature.ca.gov 2026-04-15, verified=true",
+      "usc_42_290dd_2_42_cfr_part_2": "NOT FETCHED LIVE — Cornell LII + eCFR endpoints returned not-found. verified=false. STEWARD VERIFY BEFORE FILING."
+    },
+    "witness": "HERALD countersigned 2026-04-15 (4 standards COUNTERSIGN + 1 COUNTERSIGN_PROVISIONAL pending federal verification)"
+  },
+
+  "cases_covered": [
+    "dr_wiita_pc1368_competency_evaluation",
+    "ward_system_5150_holds",
+    "pc_1001_36_mental_health_diversion_crossref",
+    "lps_it_escalation_pipeline_audit",
+    "lps_confidentiality_family_law_disclosure_audit",
+    "sud_records_dual_regime_audit"
+  ],
+
+  "critical_mental_health_finding": {
+    "telehealth_consent_required": "BPC §2290.5(b): telehealth provider MUST inform patient and obtain verbal or written consent BEFORE delivery of health care via telehealth. Failure = unprofessional conduct (§2290.5(d)). SC-to-CA evaluation without consent is a BPC violation.",
+    "competency_presumption": "PC §1369(c)(3): defendant is PRESUMED competent to stand trial unless proved by preponderance of evidence to be mentally incompetent. The burden is on the party asserting incompetency. A fraudulent evaluation that inverts this presumption is a due process violation.",
+    "judge_duty_mandatory": "PC §1368(a): when doubt arises, the judge SHALL state the doubt in the record and inquire of defense counsel. This is not discretionary. If proceedings were not suspended and the competency question was not properly raised or evaluated, the conviction or adverse order is constitutionally infirm.",
+    "telehealth_professional_standards_apply": "BPC §2290.5(g): ALL laws and regulations governing professional responsibility, unprofessional conduct, and standards of practice that apply to the health care provider under their license apply while providing telehealth services. A SC-licensed psychologist providing competency evaluation services in California via telehealth is subject to California licensing standards for that evaluation."
+  },
+
+  "cross_citizen_refs": {
+    "CA_Criminal_Law_Specialist": "PC §1001.36 mental health diversion — cross-ref only; PC §1368/§1369 competency proceedings are this Citizen's domain. §290dd-2(c) absolute proceedings-use bar applies to any SUD records offered in criminal proceedings.",
+    "CA_Probate_Conservatorship_Litigator": "WIC §5350 LPS conservatorship = terminus of the §5150 → §5250 → §5270.15 → §5350 grave-disability staircase. Defects at any earlier gate (now covered by full LPS expansion pack) undermine downstream conservatorship orders.",
+    "US_Federal_Civil_Rights_Litigator": "§1983 due process claim for fraudulent competency evaluation + §1983 claims for forced ECT/psychosurgery under §5325(f)/(g) + §1983 claims for state-actor unauthorized §5328/§290dd-2 disclosure",
+    "CA_Medical_Privacy_Officer": "Mental health records confidentiality under CMIA + HIPAA overlays §5328 (LPS-specific) and §290dd-2 (SUD-specific). Stricter controls.",
+    "CA_Family_Law_Litigator": "§5328 is the admissibility gate for LPS records in custody/DVRO proceedings; §290dd-2(b)(2)(C) heightened-showing order required for SUD records; Dr. Wiita disclosure chain audit anchor",
+    "CA_Forensic_Document_Specialist": "Dr. Wiita three-layer attack (§720 + §1401 + §1402) gains §5328 fourth layer: disclosure-chain illegality overlay",
+    "HERALD": "Witness authentication for LPS pipeline audit records — interval-review notes, 36-hour notice logs, §5256 hearing minutes, Part 2 consent forms, redisclosure-notice receipts"
+  }
+}

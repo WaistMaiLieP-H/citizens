@@ -1,0 +1,33 @@
+Odorizzi v. Bloomfield School District
+54 Cal.Rptr. 533 (Cal. App. 1966)
+California Court of Appeal
+
+[Citation verified from training knowledge]
+
+Plaintiff Odorizzi, a school teacher, was arrested on criminal charges (later dismissed),
+questioned by police for several hours, then visited by school officials who pressured him
+to sign a resignation. He was told he must sign immediately or face public embarrassment;
+the officials created urgency and prevented him from consulting counsel.
+
+HELD: The doctrine of undue influence applies to transactions obtained by excessive
+pressure where the victim's free will is overcome. The key elements identified:
+
+1. **Vulnerability:** A person in a weakened state (physical exhaustion, emotional
+   distress, recent trauma) is more susceptible to undue influence than a person acting
+   from a position of strength.
+
+2. **Pressure:** The pressure must be excessive — beyond ordinary persuasion, offer of
+   inducement, or argument. Creating urgency, preventing consultation, making demands at
+   inappropriate times and places constitutes excessive pressure.
+
+3. **Causation:** The excessive pressure must actually overcome the victim's free will
+   — the victim acts because of the pressure, not from their own autonomous judgment.
+
+4. **Inequity:** The resulting transaction is typically disadvantageous to the victim —
+   they would not have agreed under normal circumstances.
+
+Odorizzi established that undue influence is not limited to fiduciary relationships —
+it can occur wherever one party has meaningful power over another and uses it excessively.
+
+The §15610.70 codification incorporated the Odorizzi framework and extended it to elder
+financial abuse contexts.

@@ -1,0 +1,44 @@
+{
+  "standard_id": "pen_code_859_preliminary_hearing",
+  "statute": "California Penal Code §§ 859, 859b, 872",
+  "short_title": "Preliminary Hearing — Arraignment, Timing, and Probable Cause",
+  "citizen": "CA_Criminal_Law_Specialist",
+  "version": "1.1.0-witnessed-by-herald",
+  "created_at_utc": "2026-04-11T00:00:00Z",
+  "created_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "five_layer_status": {
+    "layer_1_rule": "COMPLETE — Pen. Code §§ 859, 859b, 872 full text in current/text.txt",
+    "layer_2_reasoning": "COMPLETE — Three-section framework, 10/60-day timing rules, one-witness prelim (Prop 115), defense subpoena strategy, cross-examination targets, § 995 record-building, confrontation clause overlay in current/context.md",
+    "layer_3_historical_loss": "COMPLETE — 1872 origin, pre-Prop 115 full adversarial prelim, Prop 115 1990 one-witness prelim transformation in historical_chain.md",
+    "layer_4_cross_refs": "COMPLETE — 7 cross-references: § 995 motion, Brady discovery, § 872(b) hearsay, Pitchess, § 1050 continuance, Sixth Amendment, § 182 conspiracy theory development",
+    "layer_5_provenance": "COMPLETE — Whitman v. Superior Court (1991) 54 Cal.3d 1063 (CA Supreme Court — Prop 115 constitutional validation, one-witness prelim, hearsay relay by law enforcement, complaining witness withholding) in case_law/interpretive/whitman_v_superior_court_1991/"
+  },
+  "five_layer_score": "5 / 5",
+  "steward_case_connections": [
+    {
+      "case_id": "Case_7",
+      "case_ref": "04-23-01959",
+      "direction": "defendant",
+      "use": "Preliminary hearing transcript is the foundational document for § 995 motion and trial defense. Defense subpoenas for APD dispatch records and the complaining witness must be served. Cross-examination of APD officer to establish coordination theory."
+    }
+  ],
+  "outstanding_work": [
+    {
+      "priority": "HIGH",
+      "item": "Obtain 04-23-01959 preliminary hearing transcript",
+      "reason": "Without the transcript, the § 995 motion cannot be drafted with case-specific argument; cross-examination inconsistencies cannot be identified"
+    },
+    {
+      "priority": "HIGH",
+      "item": "Obtain 04-23-01959 preliminary hearing transcript",
+      "reason": "Without the transcript, the § 995 motion cannot be drafted with case-specific argument"
+    }
+  ],
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

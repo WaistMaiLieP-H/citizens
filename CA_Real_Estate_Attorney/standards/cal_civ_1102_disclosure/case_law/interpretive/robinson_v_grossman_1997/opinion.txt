@@ -1,0 +1,46 @@
+ROBINSON v. GROSSMAN
+57 Cal.App.4th 634 (1997)
+California Court of Appeal, Third Appellate District
+Decided: 1997
+
+---
+
+FACTS:
+
+Buyers purchased a residential property and after close of escrow discovered material defects that the seller had not disclosed on the Transfer Disclosure Statement. The buyers brought claims for breach of the TDS obligations under Civ. Code § 1102 et seq. and for fraud under § 1572. The central dispute concerned the scope of the seller's disclosure duty — specifically, whether the seller was obligated to disclose defects the seller had known about, remediated, and believed to be resolved, versus only current active defects at the time of sale.
+
+---
+
+HOLDING:
+
+THE DISCLOSURE DUTY EXTENDS TO KNOWN HISTORICAL CONDITIONS:
+The Court of Appeal addressed the scope of the TDS disclosure obligation as applied to conditions that were previously present and remediated. The court held that the TDS obligation requires sellers to disclose known material defects regardless of whether those defects have been repaired:
+
+1. **Prior defects material to the buyer are disclosable.** A seller who knows that a material defect existed on the property — even if it was later repaired — must disclose the existence of the prior defect and the fact of repair. A buyer has a material interest in knowing the history of defects, not just the current condition.
+
+2. **Seller's belief that a prior defect was "fixed" does not eliminate the disclosure duty.** The standard is whether the information would be material to a reasonable buyer's decision. Prior flooding, water intrusion, structural defects, or pest damage — even if repaired — are material because they affect a buyer's assessment of risk, quality, and value.
+
+3. **Non-disclosure of remediated defects is actionable under § 1102.4 and § 1572.** The § 1102.4 strict-liability framework applies to omitted historical conditions as well as current conditions. Where the seller intentionally omitted the prior defect, the § 1572 fraud theory also applies.
+
+4. **The TDS disclosure obligation is a floor, not a ceiling.** Section 1102 requires affirmative disclosure of known material facts. It does not limit the buyer's ability to pursue common-law fraud and deceit theories for facts that, while not explicitly listed on the TDS form, were material and suppressed.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For the 2958 Honeysuckle transaction, Robinson v. Grossman extends the TDS analysis to prior conditions:
+
+1. **Historical condition disclosure**: Any defects that existed on the property during the Hartmann occupancy — whether repaired or not — should have been disclosed on the TDS for the 2023 sale. Omission of known prior defects creates § 1102.4 strict liability.
+
+2. **Community property history is a "condition"**: While Robinson addresses physical defects, the principle extends to the legal/title condition of the property. The community property status and the disputed authority to sell — conditions the seller knew about — are material facts that should have been disclosed.
+
+3. **Layered claims**: TDS strict liability (§ 1102.4) + prior-defect concealment (§ 1572(3)) = layered claims that survive independently.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 57 Cal.App.4th 634 (1997) [verify — citation based on training knowledge]
+Court: California Court of Appeal, Third Appellate District
+Source of this text: Claude training data (knowledge cutoff August 2025). Robinson v. Grossman extended the California TDS disclosure obligation to known historical defects, not just current active conditions — a seller cannot avoid disclosure of a prior defect by pointing to a subsequent repair.
+Verification: Casetext / Google Scholar: "Robinson v. Grossman 57 Cal.App.4th 634"
+Verification status: PROPOSED — citation requires verification; pending steward witness review

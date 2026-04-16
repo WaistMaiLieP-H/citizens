@@ -1,0 +1,24 @@
+{
+  "stage": "01_origin_1965",
+  "statute": "California Government Code § 13955 (via predecessor former §§ 13959-13974)",
+  "original_enactment": "1965 — California first US state to enact crime victim compensation program",
+  "original_code_location": "Government Code former §§ 13959-13974 (pre-2002 location)",
+  "current_code_location": "Government Code §§ 13950-13969 (post-2002 recodification)",
+  "recodification": {
+    "date": "Stats. 2002, ch. 1141, effective 2003",
+    "effect": "Moved from former Art. 1 of Ch. 5 to current Ch. 5 of Part 4; renumbered sections; preserved cross-references via § 13950(c)"
+  },
+  "major_amendments_summary": [
+    "1970s: added derivative victim and mental health counseling",
+    "1982: Cal. Const. Art. I § 28 (Prop 8 victims' bill of rights)",
+    "1984: federal VOCA (42 USC § 10601) authorized matching funds",
+    "1999: expanded emotional-injury-only coverage and loosened police-report rule",
+    "2002: recodification (Stats. 2002, ch. 1141)",
+    "2008: Marsy's Law (Prop 9) constitutional expansion",
+    "Post-2008: human trafficking, military sexual assault, inflation cap adjustments"
+  ],
+  "source": "Pre-2002 statutory history traced through Deering's and West's annotation histories. Post-2002 statutory history traced through the Stats. chapter citations visible in the current codified text.",
+  "captured_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "captured_at_utc": "2026-04-10T22:45:00Z",
+  "pending": "Direct PDF captures of 1965 original enactment and 2002 recodification chapter text"
+}

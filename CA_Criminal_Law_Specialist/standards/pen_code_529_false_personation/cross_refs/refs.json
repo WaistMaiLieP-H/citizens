@@ -1,0 +1,13 @@
+{
+  "standard": "pen_code_529_false_personation",
+  "refs": [
+    {"type": "modern_parallel", "target": "Pen. Code § 530.5 (identity theft)", "relationship": "Modern parallel; broader but overlapping; charge both when applicable", "anchor": "${citizens}/CA_Criminal_Law_Specialist/standards/pen_code_530_5_identity_theft"},
+    {"type": "related_statute", "target": "Pen. Code § 528 (false personation - specific form)", "relationship": "Narrower companion statute"},
+    {"type": "related_statute", "target": "Pen. Code § 532 (theft by false pretenses)", "relationship": "General fraud statute; may be charged alternatively"},
+    {"type": "related_statute", "target": "Pen. Code §§ 470-477 (forgery)", "relationship": "Forgery statutes reach false signatures and instruments"},
+    {"type": "related_statute", "target": "Pen. Code § 118 (perjury)", "relationship": "Perjury covers false sworn statements; may overlap with § 529(a)(2) instrument verification"},
+    {"type": "civil_parallels", "target": "Impersonation, defamation, unfair business practices torts", "relationship": "Civil remedies for victims of false personation"},
+    {"type": "cross_citizen", "target": "US_Federal_Financial_Fraud_Litigator", "relationship": "Terminal A; federal identity fraud dimensions"}
+  ],
+  "generated_at_utc": "2026-04-11T01:15:00Z"
+}

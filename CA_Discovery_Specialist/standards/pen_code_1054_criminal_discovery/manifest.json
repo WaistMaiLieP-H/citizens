@@ -1,0 +1,23 @@
+{
+  "standard_id": "PEN_1054_CRIMINAL_DISCOVERY",
+  "popular_name": "California Criminal Discovery — Chapter 10 (Proposition 115)",
+  "authority": "Cal. Pen. Code § 1054–1054.10",
+  "jurisdiction": "California",
+  "citizen": "CA_Discovery_Specialist",
+  "status": "PROPOSED",
+  "five_layer_score": 5,
+  "created": "2026-04-12",
+  "updated": "2026-04-12",
+  "layers": {
+    "rule": "COMPLETE",
+    "reasoning": "COMPLETE",
+    "historical_loss": "COMPLETE",
+    "cross_references": "COMPLETE",
+    "verifiable_provenance": "COMPLETE"
+  },
+  "two_witness_status": {
+    "adam": "APPROVED",
+    "eve": "COUNTERSIGNED",
+    "status": "PROPOSED"
+  }
+}

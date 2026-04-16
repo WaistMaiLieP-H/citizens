@@ -1,0 +1,32 @@
+{
+  "path_anchors": {
+    "familylaw": "~/FamilyLaw",
+    "nonfamilylaw": "~/NonFamilyLaw",
+    "citizens": "~/citizens"
+  },
+  "citizen": "CA_Discovery_Specialist",
+  "tether_version": "0.1.0-initial",
+  "filed_at_utc": "2026-04-10T12:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "purpose": "This citizen carries discovery and evidence preservation standards for both civil and criminal proceedings under California law. It governs how evidence is obtained, preserved, produced, and sanctioned when mishandled — spanning the Civil Discovery Act, criminal discovery, Brady obligations, Pitchess motions, subpoena practice, PRA requests, and spoliation remedies.",
+  "blueprints": [
+    "Triple Constraint",
+    "Five-Layer Bar",
+    "Two-Witness Rule",
+    "Hash Chain + Anchor"
+  ],
+  "bound_directly": [
+    "ccp_2016_civil_discovery_act",
+    "ccp_2023_spoliation_sanctions",
+    "pen_code_1054_criminal_discovery",
+    "brady_v_maryland",
+    "pitchess_v_superior_court",
+    "gov_code_7923_600_pra_le_exemption",
+    "ccp_1985_subpoena_duces_tecum"
+  ],
+  "domain": "California discovery law, evidence preservation, public records access for litigation",
+  "exclusions": [
+    "Substantive claims analysis (other Citizens handle merits of claims)",
+    "Trial practice (separate domain — this citizen handles pre-trial discovery, not trial presentation)"
+  ]
+}

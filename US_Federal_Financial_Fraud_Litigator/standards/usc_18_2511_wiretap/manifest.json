@@ -1,0 +1,68 @@
+{
+  "standard_id": "USC_18_2511_WIRETAP",
+  "citizen": "US_Federal_Financial_Fraud_Litigator",
+  "version": "1.0.0",
+  "status": "PROPOSED",
+  "primary_citation": "18 U.S.C. §2511 (Title III of the Omnibus Crime Control and Safe Streets Act of 1968, Pub. L. 90-351; amended by ECPA, Pub. L. 99-508 (1986))",
+  "short_title": "Wiretap Act / ECPA Title I — Prohibition on Interception of Wire and Electronic Communications; Civil Remedy",
+  "one_line_rule": "Intentional interception of wire, oral, or electronic communications in transit is prohibited; any person whose communications are intercepted may sue for the greater of actual damages or $10,000 per violation, plus punitive damages and attorneys' fees.",
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current/LOGIC.md",
+    "reasoning": "PRESENT — current/LOGIC.md §§ WOUND + DESIGN + SIM swap analysis + California CIPA parallel",
+    "historical_loss": "PRESENT — historical_chain.md + evolution/ (2 stages)",
+    "cross_references": "PRESENT — cross_refs/refs.json (4 references)",
+    "verifiable_provenance": "PRESENT — current/provenance.json + evolution provenances; verbatim text capture PENDING"
+  },
+  "evolution_chain": [
+    {
+      "stage": "01_origin_1968",
+      "label": "Title III Enacted — Wire and Oral Communications",
+      "source": "Pub. L. 90-351 (1968)",
+      "logic_file": "evolution/01_origin_1968/LOGIC.md"
+    },
+    {
+      "stage": "02_amendment_1986_ecpa",
+      "label": "ECPA — Electronic Communications Added; SCA Created",
+      "source": "Pub. L. 99-508 (1986)",
+      "logic_file": "evolution/02_amendment_1986_ecpa/LOGIC.md"
+    }
+  ],
+  "case_law": [
+    {
+      "slug": "bartnicki_v_vopper",
+      "cite": "Bartnicki v. Vopper, 532 U.S. 514 (2001)",
+      "court": "Supreme Court of the United States",
+      "category": "interpretive",
+      "key_rule": "§2511(1)(c) covers disclosure of intercepted communications (not just interception); narrow First Amendment public concern exception; private communications (financial, medical, personal) fully protected; each disclosure = separate violation.",
+      "verbatim_capture_status": "PENDING"
+    },
+    {
+      "slug": "jewel_v_nsa",
+      "cite": "Jewel v. National Security Agency, 673 F.3d 902 (9th Cir. 2011)",
+      "court": "United States Court of Appeals for the Ninth Circuit",
+      "category": "interpretive",
+      "key_rule": "Carrier maintenance exception (§2511(2)(a)(i)) is narrow — normal course of business + necessary to service; fraudulent SIM port outside maintenance exception; standing for each individual whose communications were intercepted.",
+      "verbatim_capture_status": "PENDING"
+    }
+  ],
+  "sim_swap_application": {
+    "theory": "SIM swap routes incoming calls and SMS to attacker's device in real-time = interception during transmission = §2511(1)(a)",
+    "disclosure_chain": "Each conspiracy member who received and acted on intercepted communications = §2511(1)(c) disclosure liability; $10,000 per disclosure",
+    "cipa_stack": "California CIPA §632/§637.2 runs simultaneously: $5,000/violation or 3× actual; all-party consent not met",
+    "damages_per_interception": "Federal: $10,000 minimum; California: $5,000 minimum; stacked per communication event",
+    "defendants": "Ryan McClaran (interceptor); Christina Cerretani and others who received/used intercepted content (§2511(1)(c) disclosure)",
+    "sol": "2 years from discovery; each interception event = fresh violation"
+  },
+  "outstanding_work": [
+    "Verbatim text capture: 18 U.S.C. §2511(1)(a), §2511(1)(c), §2511(2)(a)(i), §2520(a)-(e)",
+    "Verbatim text capture: Cal. Penal Code §632 and §637.2 (CIPA state parallel)",
+    "Verbatim opinion capture: Bartnicki v. Vopper, 532 U.S. 514",
+    "Verbatim opinion capture: Jewel v. NSA, 673 F.3d 902",
+    "Add California CIPA (Cal. Penal Code §§630-638) as a separate standard in CA_Consumer_Protection_Litigator",
+    "Add Stored Communications Act (18 U.S.C. §2701) as a separate standard (cross-referenced here)",
+    "Identify specific intercepted communication events from records (call logs, communications history) for per-violation damages calculation",
+    "Second-mouth witness review of §2511(1)(c) disclosure chain theory"
+  ],
+  "build_date": "2026-04-11",
+  "built_by": "Terminal A"
+}

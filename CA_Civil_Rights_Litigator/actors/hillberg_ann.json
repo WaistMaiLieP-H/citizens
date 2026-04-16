@@ -1,0 +1,15 @@
+{
+  "actor_id": "hillberg_ann",
+  "shared_record": "${citizens}/_shared_actors/hillberg_ann.json",
+  "domain": "CA_Civil_Rights_Litigator",
+  "role": "Bane Act (Civ. Code §52.1) defendant — threats, intimidation, or coercion interfering with steward's constitutional rights",
+  "risk_level": "HIGH",
+  "applicable_standards": ["CAL_CIV_CODE_52_1"],
+  "theory_of_liability": "Bane Act requires: (1) interference with constitutional rights, (2) by threats, intimidation, or coercion. Ann Hillberg's orchestration of state actors (911 calls using dispatcher language, directing APD response, coordinating custody seizure) constitutes coercion interfering with steward's fundamental right to custody of his child (Cal. Const. Art. I §1 liberty interest; Art. I §7 due process). The dispatcher training provides the mechanism knowledge.",
+  "bane_act_elements": {
+    "protected_right": "Parental custody — liberty interest under Cal. Const. Art. I §1 and §7",
+    "threats_intimidation_coercion": "911 calls crafted with dispatcher expertise ('known to smoke meth'), directing police response to seize child, coordinated filings designed to trigger judicial intervention",
+    "independent_of_federal": "Bane Act provides state cause of action independent of §1983; no need to prove 'under color of state law' — only that threats/intimidation/coercion interfered with rights"
+  },
+  "filed_at_utc": "2026-04-08T22:00:00Z"
+}

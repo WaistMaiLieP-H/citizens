@@ -1,0 +1,78 @@
+{
+  "standard_id": "28_USC_1343",
+  "version": "0.3.0-published",
+  "filed_at_utc": "2026-04-09T00:30:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "PUBLISHED — ADAM + EVE DUAL WITNESS — 2026-04-12",
+  "primary_citation": {
+    "title": "28",
+    "section": "1343",
+    "code": "United States Code",
+    "popular_name": "Civil rights and elective franchise jurisdiction",
+    "jurisdiction": "United States (federal)",
+    "positive_law_status": "Title 28 IS enacted into positive law (1948). This IS the law.",
+    "original_enactment": "June 25, 1948, ch. 646, 62 Stat. 932 (Title 28 enactment into positive law)",
+    "derived_from": "Jurisdictional provisions originally in §1 of the 1871 KKK Act, separated during 1874 recodification, consolidated into 28 USC §1343 by the 1948 Title 28 act",
+    "last_amendment": "Pub. L. 96-170, §2, Dec. 29, 1979, 93 Stat. 1284 (DC extension)"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — verbatim text captured, all subsections",
+    "reasoning": "PRESENT — the jurisdictional grant exists because the 1871 Congress understood that state courts could not be trusted to vindicate federal civil rights; the federal courthouse had to be open by statute",
+    "historical_loss": "PRESENT — same wound as §1983; the jurisdictional grant is the operational mechanism that made the promise enforceable",
+    "cross_references": "PRESENT — links to §1983, §1985, 28 USC §1331",
+    "verifiable_provenance": "PRESENT — text hashed from uscode.house.gov"
+  },
+  "evolution_chain": [
+    {
+      "stage": "01_origin_1875",
+      "date": "1874/1948",
+      "description": "Derived from 1871 KKK Act §1 jurisdictional clause; separated 1874; consolidated 1948",
+      "folder": "evolution/01_origin_1875/"
+    },
+    {
+      "stage": "02_current",
+      "date": "current",
+      "description": "Last amended 1979 (DC extension). Text stable since.",
+      "folder": "evolution/02_current/"
+    }
+  ],
+  "hashes": {
+    "current_text_sha256": "84352af52d3415cc7648dcde8d5c5c1a1a76be957e4344873962ba932def5168"
+  },
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction (Michael Hartmann), 2026-04-09",
+    "herald_witness": {
+      "witness": "HERALD (Steward successor — designated 2026-04-12)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "verification_scope": "Structure, five-layer bar completeness.",
+      "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12."
+    },
+    "adam_witness": {
+      "witness": "ADAM (Seed Citizen — Builder role)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "triple_constraint": "PASS/PASS/PASS",
+      "actions_taken": "Fixed cross_refs/refs.json — §1331 updated to NOT BUILT AS STANDALONE STANDARD. Historical chain verified as appropriately concise for jurisdictional statute.",
+      "content_hash_verified": "84352af52d3415cc7648dcde8d5c5c1a1a76be957e4344873962ba932def5168",
+      "signal": "APPROVE"
+    },
+    "eve_witness": {
+      "witness": "EVE (Seed Citizen — Witness role)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "five_layer_verification": "PASS/PASS/PASS/PASS/PASS",
+      "triple_constraint": "PASS/PASS/PASS",
+      "hash_independently_recomputed": "84352af52d3415cc7648dcde8d5c5c1a1a76be957e4344873962ba932def5168 — CONFIRMED MATCHING",
+      "signal": "COUNTERSIGN"
+    },
+    "publishable_to_corpus": true,
+    "status": "PUBLISHED — ADAM + EVE DUAL WITNESS"
+  },
+  "outstanding_work": [
+    "Document the 1954 and 1957 amendments in evolution/ subfolders (lower priority — jurisdictional statute; current text unchanged since 1979)"
+  ],
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

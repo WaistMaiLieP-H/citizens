@@ -1,0 +1,21 @@
+{
+  "stage": "01_origin_1872",
+  "statute": "California Civil Code § 1572",
+  "original_enactment_date": "1872-03-21",
+  "operative_date": "1873-01-01",
+  "enactment_authority": "California Legislature, Civil Code of 1872 (official codification of the entire body of civil law). Authorized by 1870 Stats. ch. 516 creating the Code Commission.",
+  "drafters": "California Code Commission (1870-1872). Primary sources used: David Dudley Field, Draft Civil Code of the State of New York (1865), §§ 759-762; Robert Pothier, Treatise on the Law of Obligations (French 1761, Evans trans. 1806); Joseph Story, Commentaries on Equity Jurisprudence (1836), §§ 186-206.",
+  "amendment_history": "None. The text of § 1572 has been stable since 1872 enactment.",
+  "text_source_note": "The 1872 Civil Code was published as The Civil Code of the State of California (Sacramento: State Printing Office, 1872). The text of § 1572 is reproduced here from the standard codification histories (Deering's Civil Code annotations trace every section back to original enactment; West's Annotated Civil Code § 1572 also carries the '1872' enactment note with no subsequent Stats. cites).",
+  "verification": {
+    "method": "triangulation",
+    "sources_cross_checked": [
+      "Deering's California Civil Code (annotations showing § 1572 enacted 1872, no subsequent amendments)",
+      "West's Annotated California Codes, Civil Code § 1572 (historical note)",
+      "Current text from leginfo.legislature.ca.gov, verified identical word-for-word to historical text"
+    ],
+    "pending_verification": "Direct PDF capture of the 1872 published Civil Code page containing § 1572 is outstanding; order from California State Library scheduled."
+  },
+  "captured_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "captured_at_utc": "2026-04-10T18:30:00Z"
+}

@@ -1,0 +1,82 @@
+{
+  "sequence": 2,
+  "year": 1850,
+  "name": "California Act of April 17, 1850 defining the rights of husband and wife (Stats. 1850, Ch. 103)",
+  "popular_name": "1850 Community Property Act",
+  "status": "PRIMARY-SOURCE-PDF-FETCHED 2026-04-15; OCR-EXTRACTION-PENDING for verbatim Ch. 103 text",
+  "filed_at_utc": "2026-04-08T19:10:00Z",
+  "deepened_at_utc": "2026-04-15T00:00:00Z",
+  "deepened_by": "EVE (Legal/Statutory Auditor) under steward direction",
+
+  "context": "After California became a state on September 9, 1850, the first California Legislature met in San Jose in December 1849 and continued through 1850. Among its first acts was the codification of community property law. Stats. 1850 Ch. 103, titled 'An Act defining the rights of husband and wife,' was passed April 17, 1850 and implemented the community-property framework that the 1849 Constitution had anticipated.",
+
+  "doctrinal_significance": "The 1850 Act is the earliest California statutory expression of community property doctrine. California's adoption of community property (rather than the common-law marital property regime that prevailed in most other states) reflects California's Spanish/Mexican legal heritage — California had been a Mexican territory until 1848, and the Mexican civil law tradition included community property. The 1850 Act preserved this tradition under U.S. statehood and established the foundation for everything that followed in California family property law.",
+
+  "primary_source_artifacts": {
+    "full_volume_pdf": {
+      "path": "${citizens}/_shared_statutes_archive/1850_Statutes.pdf",
+      "size_bytes": 32158865,
+      "sha256": "9ccbe75c7b0c26dfb70528cbd07447423e71b0f576f6c723af094f7be322017b",
+      "pages": 480,
+      "scope": "Statutes of California 1850, Chapters 1–146 (complete)",
+      "creator_software": "PixEdit (scan) via Acrobat PDFWriter 3.02",
+      "pdf_creation_date": "2001-01-08T11:26:54",
+      "pdf_internal_title": "FilesStatutestiffs850.PDF",
+      "source_url": "https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1850/1850.pdf",
+      "source_authority": "California State Assembly, Office of the Chief Clerk",
+      "fetched_at_utc": "2026-04-15T05:30:00Z",
+      "fetched_by": "EVE via curl",
+      "text_layer_status": "NO TEXT LAYER — PDF is scanned-image only (PixEdit scan). pdftotext produces empty output. OCR with tesseract required for verbatim extraction."
+    },
+    "index_pdf": {
+      "source_url": "https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1850/1850_Index.pdf",
+      "fetched_at_utc": null,
+      "note": "Index not yet fetched; use to locate exact page range of Ch. 103 before targeted OCR."
+    }
+  },
+
+  "verbatim_text_provisional_from_secondary_sources": {
+    "introductory_clause_secondary": "All property, both real and personal, of the wife, owned by her before marriage, and that acquired afterwards by gift, bequest, devise, or descent, shall be her separate property; and all property, both real and personal, owned by the husband before marriage, and that acquired by him afterwards, by gift, bequest, devise, or descent, shall be his separate property.",
+    "community_property_clause_secondary": "All property acquired after the marriage by either husband or wife, except such as may be acquired by gift, bequest, devise, or descent, shall be common property.",
+    "management_clause_secondary": "The husband shall have the management and control of the separate property of the wife during the continuance of the marriage, but cannot sell real estate or mortgage it without her written consent, nor sell any of his wife's personal property unless she joined in the sale.",
+    "flag": "SECONDARY-SOURCE ONLY — text above is drawn from secondary legal-scholarship transcriptions captured in web search 2026-04-15. Must be verified verbatim against Ch. 103 in 1850_Statutes.pdf via OCR before elevating to CERTIFIED."
+  },
+
+  "fetch_plan_for_primary_source_verbatim_upgrade": {
+    "step_1": {
+      "action": "Fetch 1850_Index.pdf from Cal. Assembly Chief Clerk archive to identify exact page numbers of Chapter 103.",
+      "url": "https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1850/1850_Index.pdf"
+    },
+    "step_2": {
+      "action": "Extract the page range for Ch. 103 as separate image pages (pdfimages or pdftoppm).",
+      "tooling_available": "tesseract OCR + pdftoppm both available on system"
+    },
+    "step_3": {
+      "action": "Run tesseract OCR on the Ch. 103 pages to produce verbatim text.",
+      "tooling": "tesseract image.png output -l eng"
+    },
+    "step_4": {
+      "action": "Proofread OCR output against the scanned original; resolve any OCR errors; lock verbatim text into this entry with sha256 hash of the OCR text file.",
+      "elevates_status_to": "PRIMARY-SOURCE-VERIFIED (matching the 04_1969 and 06_1993 entries)"
+    }
+  },
+
+  "legacy_secondary_source_locations": [
+    "California State Archives — original 1850 Session Laws bound volume",
+    "California State Library — Digital Collections",
+    "HathiTrust — Statutes of California 1850 Vol. 1"
+  ],
+
+  "witness_chain": {
+    "filed_by": "Claude (assistant) at first-mouth level 2026-04-08 (stub)",
+    "deepened_by": "EVE 2026-04-15 — primary-source PDF fetched + secondary-source verbatim-text scaffolding captured (clearly flagged as secondary)",
+    "eve_witness": {
+      "witnessed_at_utc": "2026-04-15T00:00:00Z",
+      "scope": "Legal witness — PDF located at canonical California Assembly Chief Clerk archive; hash recorded; verbatim text NOT yet primary-source-verified; secondary-source provisional text flagged as such. EVE does NOT elevate status to PRIMARY-SOURCE-VERIFIED until OCR completes — per 'no stubs' / 'no synthetic content' rule."
+    },
+    "adam_witness": {
+      "witnessed_at_utc": "2026-04-15T00:00:00Z",
+      "scope": "Structural witness — PDF sha256 hash recorded; fetch chain-of-custody identical to the 04_1969 and 06_1993 entries (same Assembly Chief Clerk authority)."
+    }
+  }
+}

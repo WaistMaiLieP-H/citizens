@@ -1,0 +1,35 @@
+{
+  "standard_id": "CIV_1788_ROSENTHAL",
+  "cross_references": [
+    {
+      "anchor": "usc_15_1692_fdcpa",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_15_1692_fdcpa/",
+      "relationship": "federal_analog_primary",
+      "note": "Always plead both: FDCPA (against third-party collectors) + Rosenthal (against all collectors including original creditors). Federal court: FDCPA claim + supplemental jurisdiction for Rosenthal. State court: Rosenthal claim avoids Article III standing issues (Spokeo/TransUnion). Rosenthal §1788.30(b) punitive damages are the primary advantage over federal-only pleading."
+    },
+    {
+      "anchor": "civ_2981_rees_levering",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/civ_2981_rees_levering/",
+      "relationship": "compound_claim_auto_fraud",
+      "note": "Rees-Levering void contracts + Rosenthal abusive collection = compound auto fraud claim. The four auto cases (RedJag, BlueJag, WhiteJag, KiaSoul): Rees-Levering provides forfeiture + CLRA damages; Rosenthal provides separate damages for the collection conduct on the voidable contracts. Collecting on a known-void contract is §1692e(2)(A) false representation of legal status — which is incorporated into Rosenthal §1788.17."
+    },
+    {
+      "anchor": "civ_1750_clra",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/civ_1750_clra/",
+      "relationship": "companion_consumer_statute",
+      "note": "CLRA + Rosenthal compound claim: the same deceptive conduct in the auto sale (CLRA violations in inducing the sale) and in the subsequent collection (Rosenthal violations in pursuing payment on the fraudulent contract) can be pled in the same action."
+    },
+    {
+      "anchor": "usc_15_1681_fcra",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_15_1681_fcra/",
+      "relationship": "compound_reporting_claim",
+      "note": "Rosenthal + FCRA: when a California debt collector (including original creditor) reports disputed debt to a CRA, the reporting is both a Rosenthal §1788.17 / §1692e(8) violation and a FCRA §1681s-2(b) furnisher violation if the collector fails to correct after dispute."
+    },
+    {
+      "anchor": "debt_collections_case",
+      "path": "${nonfamilylaw}/Debt_Collections/",
+      "relationship": "case_binding_primary",
+      "note": "Rosenthal Act claims from Debt_Collections folder. Also review auto fraud cases (RedJag, BlueJag, WhiteJag, KiaSoul) for collection conduct on the installment contracts after the fraudulent sales."
+    }
+  ]
+}

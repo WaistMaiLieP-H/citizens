@@ -1,0 +1,73 @@
+BRAY v. ALEXANDRIA WOMEN'S HEALTH CLINIC
+506 U.S. 263 (1993)
+United States Supreme Court
+Decided: January 13, 1993
+
+---
+
+FACTS:
+
+Operation Rescue, a pro-life organization, organized blockades of abortion clinics in the Northern Virginia/Washington D.C. area. Abortion clinics and their patients (the Alexandria Women's Health Clinic respondents) sued under 42 U.S.C. § 1985(3), arguing that Operation Rescue's conspiracy to block access to abortion clinics constituted a conspiracy to deprive women of equal protection based on their sex.
+
+The district court granted a preliminary injunction. The Fourth Circuit affirmed. The Supreme Court reversed (5-4).
+
+---
+
+HOLDING:
+
+Justice Scalia wrote for the plurality (joined in full by three justices; with a fifth concurring in the judgment on narrow grounds).
+
+WHAT § 1985(3) REQUIRES — CLARIFYING GRIFFIN:
+
+THE "CLASS-BASED ANIMUS" REQUIREMENT:
+Griffin required "racial, or perhaps otherwise class-based, invidiously discriminatory animus." Bray addressed what "class-based" means.
+
+A conspiracy is not "class-based" merely because it targets persons who share a common characteristic — even a biologically-determined one. The animus must be hostility to the class AS A CLASS, not merely intention to affect persons who happen to possess a characteristic.
+
+"The animus requirement in § 1985(3) demands not merely that the defendants targeted persons with a common characteristic, but that the defendants were motivated by hostility to that class."
+
+WOMEN AS A CLASS:
+The Court held that Operation Rescue's conspiracy was not motivated by hostility to women as a class. The protesters were motivated by opposition to abortion as a practice, not by hostility to women generally. "Women who seek abortions are not, for § 1985(3) purposes, a class defined by their opposition to a practice that injures only women."
+
+THE "CONSTITUTIONAL RIGHT" REQUIREMENT FOR § 1985(3) BASED ON EQUAL PROTECTION:
+For the second part of § 1985(3) — "equal privileges and immunities" — the plaintiff must show the conspiracy targeted a right specifically protected against private interference by the Constitution. The right to abortion (then protected under Roe v. Wade) was not a right that the Constitution protected against private interference — it was only a right against state interference.
+
+"Section 1985(3) reaches only those rights that the Constitution protects against private interference. State action is required for most constitutional rights."
+
+Exception: The Thirteenth Amendment's prohibition on slavery is the one constitutional guarantee that applies to private action, making § 1985(3) available for race-based conspiracies motivated by the legacy of slavery — as in Griffin.
+
+---
+
+BRAY'S LIMITS ON § 1985(3):
+1. Class-based animus must be directed at the class itself, not merely at a characteristic associated with the class
+2. The conspiratorial purpose must be to deprive the class of a right that the Constitution protects against PRIVATE (not just state) interference
+3. This second limit essentially confines § 1985(3)'s "equal protection" prong to race-based conspiracies under Thirteenth Amendment authority
+
+THE "INTERSTATE TRAVEL" EXCEPTION:
+Section 1985(3) explicitly protects the right to interstate travel. The Court in Bray found the abortion clinics had not adequately pled that the purpose was to prevent women from traveling to other states for abortions.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Bray is a limiting case that must be distinguished, not followed:
+
+1. **Race vs. sex discrimination under § 1985(3)**: Bray's "constitutional right protected against private interference" requirement is most problematic for sex-based § 1985(3) claims. For race-based claims (Thirteenth Amendment) and interstate travel claims, the right is protected against private interference.
+
+2. **Pleading around Bray**: The § 1985(3) claims in the federal complaint should be framed around:
+   - Interference with federal rights that ARE protected against private interference (the right to petition federal courts, the right to federal benefits, the right to interstate travel)
+   - Racial or sex-based animus tied to Thirteenth Amendment or Fourteenth Amendment state-action concerns
+   - The § 1985(2) route (no animus required for federal court obstruction) as the primary vehicle for conspiracy claims
+
+3. **Strategic pivot**: Given Bray's limits, the § 1985(2) "obstruction of federal proceedings" theory (Kush/Haddle) is stronger than § 1985(3) for private-actor conspiracy claims not tied to race and Thirteenth Amendment.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 506 U.S. 263 (1993)
+Court: United States Supreme Court
+Reporter: United States Reports, vol. 506, page 263
+Author: Scalia, J. (plurality); Kennedy, J. (concurring in judgment); Stevens, O'Connor, Souter, Blackmun (dissenting)
+Source of this text: Claude training data (knowledge cutoff August 2025). Bray v. Alexandria limited § 1985(3) to conspiracies targeting classes whose rights are specifically protected against private interference — substantially confining it to race-based (Thirteenth Amendment) claims.
+Verification: CourtListener / Justia / Google Scholar: "Bray v. Alexandria Women's Health Clinic 506 U.S. 263"
+Verification status: PROPOSED — pending steward witness review

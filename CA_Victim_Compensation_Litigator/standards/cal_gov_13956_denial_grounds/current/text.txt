@@ -1,0 +1,25 @@
+California Government Code § 13956 — Grounds for denial of CalVCB compensation
+
+[Full text retrieved via VernenLegal MCP on 2026-04-10. Complete statutory text preserved in the retrieval record.]
+
+Abbreviated structure:
+
+(a) Involvement denial. An application MAY be denied if the Board finds the victim/derivative victim was involved in the events leading to the crime.
+  (1) Involvement factors: (A) initiated, provoked, or aggravated; (B) reasonably foreseeable consequence of victim conduct; (C) victim committing chargeable felony (with specific exceptions for sexual offense victims).
+  (2) Mitigating factors that may overcome involvement: (A) injuries significantly more serious than level of involvement predicted; (B) third-party interference not reasonably foreseeable; (C) Board shall consider age, physical condition, psychological state, and compelling health/safety concerns.
+
+(b) Failure to cooperate denial. An application SHALL be denied if the victim/derivative victim failed to cooperate reasonably with law enforcement.
+  (1) Reasonable cooperation factors: age, physical condition, psychological state, cultural/linguistic barriers, compelling health/safety concerns, reasonable fear of retaliation.
+  (1) (continued) Special rules: DV victims not found non-cooperative based on conduct at scene; delays in reporting sexual assault/DV/trafficking don't establish non-cooperation.
+  (2) Domestic violence applications cannot be denied solely because no police report was made.
+  (3) Sexual assault applications cannot be denied solely because no police report was made.
+  (4) Human trafficking applications cannot be denied solely because no police report was made.
+  (5) Military sexual assault applications cannot be denied solely because not reported to superior officer or law enforcement.
+
+(c) Felony status denial. A person convicted of a PC § 667.5(c) violent felony SHALL NOT be granted compensation until discharged from probation/correctional institution/parole/postrelease community supervision/mandatory supervision for that crime. Compensation shall not be granted while applicant is incarcerated or registered as a sex offender under PC § 290.
+
+(d) Sunset provision (conditional July 2024 / January 2025 repeal if certain General Fund conditions are met; Restitution Fund backfill requirement).
+
+---
+
+Source: leginfo.legislature.ca.gov via VernenLegal MCP, retrieved 2026-04-10. Full statutory text with all enumerations preserved in the retrieval record for verifiable provenance.

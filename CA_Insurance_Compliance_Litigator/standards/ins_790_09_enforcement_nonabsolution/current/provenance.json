@@ -1,0 +1,8 @@
+{
+  "source": "leginfo.legislature.ca.gov",
+  "tool": "mcp__claude_ai_VernenLegal__california_get_section",
+  "fetch_date": "2026-04-13",
+  "verified": true,
+  "statute_sha256": "f38c78c9690f2006e3f0ef04cb8a3d0021972f4b805f453e5be52c6c4bec443f",
+  "retrieval_steward": "CA_Insurance_Compliance_Litigator build session 2026-04-13"
+}

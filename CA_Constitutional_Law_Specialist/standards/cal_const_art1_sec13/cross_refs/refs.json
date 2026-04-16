@@ -1,0 +1,5 @@
+[
+  {"target":"${citizens}/CA_Constitutional_Law_Specialist/standards/cal_const_art1_sec1/manifest.json","relationship":"Section 1 privacy right (1974) and Section 13 search/seizure protection operate as complementary privacy guarantees"},
+  {"target":"${citizens}/CA_Constitutional_Law_Specialist/standards/cal_const_art1_sec24/manifest.json","relationship":"Section 24 lockstep provision limits §13 to the 4th Amendment floor in criminal cases but NOT in civil cases"},
+  {"target":"${citizens}/CA_Medical_Privacy_Officer/standards/cmia_civ_56_10/manifest.json","relationship":"CMIA §56.10 provides statutory implementation of medical privacy rights that §13 constitutionally protects"}
+]

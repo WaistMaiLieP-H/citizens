@@ -1,0 +1,87 @@
+PEN Code § 630
+
+The Legislature hereby declares that advances in science and technology have led to the development of new devices and techniques for the purpose of eavesdropping upon private communications and that the invasion of privacy resulting from the continual and increasing use of such devices and techniques has created a serious threat to the free exercise of personal liberties and cannot be tolerated in a free and civilized society. The Legislature by this chapter intends to protect the right of privacy of the people of this state. The Legislature recognizes that law enforcement agencies have a legitimate need to employ modern listening devices and techniques in the investigation of criminal conduct and the apprehension of lawbreakers. Therefore, it is not the intent of the Legislature to place greater restraints on the use of listening devices and techniques by law enforcement agencies than existed prior to the effective date of this chapter.
+
+---
+
+PEN Code § 631
+
+(a) Any person who, by means of any machine, instrument, or contrivance, or in any other manner, intentionally taps, or makes any unauthorized connection, whether physically, electrically, acoustically, inductively, or otherwise, with any telegraph or telephone wire, line, cable, or instrument, including the wire, line, cable, or instrument of any internal telephonic communication system, or who willfully and without the consent of all parties to the communication, or in any unauthorized manner, reads, or attempts to read, or to learn the contents or meaning of any message, report, or communication while the same is in transit or passing over any wire, line, or cable, or is being sent from, or received at any place within this state; or who uses, or attempts to use, in any manner, or for any purpose, or to communicate in any way, any information so obtained, or who aids, agrees with, employs, or conspires with any person or persons to unlawfully do, or permit, or cause to be done any of the acts or things mentioned above in this section, is punishable by a fine not exceeding two thousand five hundred dollars ($2,500), or by imprisonment in the county jail not exceeding one year, or by imprisonment pursuant to subdivision (h) of Section 1170, or by both a fine and imprisonment in the county jail or pursuant to subdivision (h) of Section 1170. If the person has previously been convicted of a violation of this section or Section 632, 632.5, 632.6, 632.7, or 636, the offense is punishable by a fine not exceeding ten thousand dollars ($10,000), or by imprisonment in the county jail not exceeding one year, or by imprisonment pursuant to subdivision (h) of Section 1170, or by both that fine and imprisonment.
+
+(b) This section shall not apply to any of the following:
+
+(1) Any public utility, or telephone company, engaged in the business of providing communications services and facilities, or to the officers, employees or agents thereof, where the acts otherwise prohibited herein are for the purpose of construction, maintenance, conduct or operation of the services and facilities of the public utility or telephone company.
+
+(2) The use of any instrument, equipment, facility, or service furnished and used pursuant to the tariffs of a public utility.
+
+(3) Any telephonic communication system used for communication exclusively within a state, county, city and county, or city correctional facility.
+
+(c) For purposes of this section, "telephone company" is defined in paragraph (3) of subdivision (c) of Section 638.
+
+(d) Except as proof in an action or prosecution for violation of this section, no evidence obtained in violation of this section shall be admissible in any judicial, administrative, legislative, or other proceeding.
+
+---
+
+PEN Code § 632
+
+(a) A person who, intentionally and without the consent of all parties to a confidential communication, uses an electronic amplifying or recording device to eavesdrop upon or record the confidential communication, whether the communication is carried on among the parties in the presence of one another or by means of a telegraph, telephone, or other device, except a radio, shall be punished by a fine not exceeding two thousand five hundred dollars ($2,500) per violation, or imprisonment in a county jail not exceeding one year, or in the state prison, or by both that fine and imprisonment. If the person has previously been convicted of a violation of this section or Section 631, 632.5, 632.6, 632.7, or 636, the person shall be punished by a fine not exceeding ten thousand dollars ($10,000) per violation, by imprisonment in a county jail not exceeding one year, or in the state prison, or by both that fine and imprisonment.
+
+(b) For the purposes of this section, "person" means an individual, business association, partnership, corporation, limited liability company, or other legal entity, and an individual acting or purporting to act for or on behalf of any government or subdivision thereof, whether federal, state, or local, but excludes an individual known by all parties to a confidential communication to be overhearing or recording the communication.
+
+(c) For the purposes of this section, "confidential communication" means any communication carried on in circumstances as may reasonably indicate that any party to the communication desires it to be confined to the parties thereto, but excludes a communication made in a public gathering or in any legislative, judicial, executive, or administrative proceeding open to the public, or in any other circumstance in which the parties to the communication may reasonably expect that the communication may be overheard or recorded.
+
+(d) Except as proof in an action or prosecution for violation of this section, evidence obtained as a result of eavesdropping upon or recording a confidential communication in violation of this section is not admissible in any judicial, administrative, legislative, or other proceeding.
+
+(e) This section does not apply (1) to any public utility engaged in the business of providing communications services and facilities, or to the officers, employees, or agents thereof, if the acts otherwise prohibited by this section are for the purpose of construction, maintenance, conduct, or operation of the services and facilities of the public utility, (2) to the use of any instrument, equipment, facility, or service furnished and used pursuant to the tariffs of a public utility, or (3) to any telephonic communication system used for communication exclusively within a state, county, city and county, or city correctional facility.
+
+(f) This section does not apply to the use of hearing aids and similar devices, by persons afflicted with impaired hearing, for the purpose of overcoming the impairment to permit the hearing of sounds ordinarily audible to the human ear.
+
+---
+
+PEN Code § 632.7
+
+(a) Every person who, without the consent of all of the parties to a communication, intercepts or receives and intentionally records, or assists in the interception or reception and intentional recordation of, a communication transmitted between two cellular radio telephones, a cellular radio telephone and a landline telephone, two cordless telephones, a cordless telephone and a landline telephone, or a cordless telephone and a cellular radio telephone, shall be punished by a fine not exceeding two thousand five hundred dollars ($2,500), or by imprisonment in a county jail not exceeding one year, or in the state prison, or by both that fine and imprisonment. If the person has been convicted previously of a violation of this section or of Section 631, 632, 632.5, 632.6, or 636, the person shall be punished by a fine not exceeding ten thousand dollars ($10,000), by imprisonment in a county jail not exceeding one year, or in the state prison, or by both that fine and imprisonment.
+
+(b) This section shall not apply to any of the following:
+
+(1) Any public utility, or telephone company, engaged in the business of providing communications services and facilities, or to the officers, employees, or agents thereof, where the acts otherwise prohibited are for the purpose of construction, maintenance, conduct, or operation of the services and facilities of the public utility or telephone company.
+
+(2) The use of any instrument, equipment, facility, or service furnished and used pursuant to the tariffs of the public utility.
+
+(3) Any telephonic communication system used for communication exclusively within a state, county, city and county, or city correctional facility.
+
+(c) For purposes of this section, "telephone company" is defined in paragraph (3) of subdivision (c) of Section 638.
+
+(d) As used in this section, each of the following terms have the following meaning:
+
+(1) "Cellular radio telephone" means a wireless telephone authorized by the Federal Communications Commission to operate in the frequency bandwidth reserved for cellular radio telephones.
+
+(2) "Cordless telephone" means a two-way, low power communication system consisting of two parts, a "base" unit which connects to the public switched telephone network and a handset or "remote" unit, that are connected by a radio link and authorized by the Federal Communications Commission to operate in the frequency bandwidths reserved for cordless telephones.
+
+(3) "Communication" includes, but is not limited to, communications transmitted by voice, data, or image, including facsimile.
+
+---
+
+PEN Code § 637.2
+
+(a) Any person who has been injured by a violation of this chapter may bring an action against the person who committed the violation for the greater of the following amounts:
+
+(1) Five thousand dollars ($5,000) per violation.
+
+(2) Three times the amount of actual damages, if any, sustained by the plaintiff.
+
+(b) Any person may, in accordance with Chapter 3 (commencing with Section 525) of Title 7 of Part 2 of the Code of Civil Procedure, bring an action to enjoin and restrain any violation of this chapter, and may in the same action seek damages as provided by subdivision (a).
+
+(c) It is not a necessary prerequisite to an action pursuant to this section that the plaintiff has suffered, or be threatened with, actual damages.
+
+(d) This section shall not be construed to affect Title 4 (commencing with Section 3425.1) of Part 1 of Division 4 of the Civil Code.
+
+---
+SOURCE: California Legislative Information — leginfo.legislature.ca.gov
+URLs:
+  §630: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=630.&lawCode=PEN
+  §631: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=631.&lawCode=PEN
+  §632: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=632.&lawCode=PEN
+  §632.7: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=632.7.&lawCode=PEN
+  §637.2: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=637.2.&lawCode=PEN
+FETCHED: 2026-04-11

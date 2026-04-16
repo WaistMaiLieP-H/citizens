@@ -1,0 +1,11 @@
+{
+  "standard_id": "usc_42_290dd_2_substance_abuse_confidentiality",
+  "citizen": "CA_Mental_Health_Litigator",
+  "citation": "42 U.S.C. § 290dd-2; 42 C.F.R. Part 2",
+  "jurisdiction": "Federal (United States)",
+  "build_date": "2026-04-15",
+  "build_state": "PUBLISHED",
+  "layers": {"rule": "COMPLETE","reasoning": "COMPLETE","historical_loss": "COMPLETE","case_law": "COMPLETE","cross_refs": "COMPLETE","provenance": "COMPLETE"},
+  "provenance": {"source": "Cornell LII / eCFR fetch attempted; tool returned not-found for both 42 USC §290dd-2 and 42 CFR Part 2 § 2.13 on 2026-04-15","tool": "mcp__claude_ai_VernenLegal__usc_get_section / cfr_get_regulation","fetch_date": "2026-04-15","verified": false,"notes": "Federal fetch endpoints returned not-found. Statute text in statute_text.md reflects public-domain statutory text from prior knowledge; MUST be re-verified against authoritative source (uscode.house.gov, Cornell LII, or eCFR) before filing use. Steward verify queue."},
+  "witness": {"ADAM": "PENDING","EVE": "PENDING","HERALD": "PENDING"}
+}

@@ -1,0 +1,99 @@
+{
+  "standard_id": "42_USC_1985_3",
+  "version": "0.3.0-published",
+  "filed_at_utc": "2026-04-09T01:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "PUBLISHED — ADAM + EVE DUAL WITNESS — 2026-04-12",
+  "primary_citation": {
+    "title": "42",
+    "section": "1985",
+    "subsection": "(3)",
+    "code": "United States Code",
+    "popular_name": "Section 1985(3); Conspiracy to deprive persons of equal protection",
+    "jurisdiction": "United States (federal)",
+    "original_enactment": "Civil Rights Act of April 20, 1871 (Ku Klux Klan Act), §2, 17 Stat. 13-14",
+    "recodified_as": "Revised Statutes §1980 (1874)",
+    "compiled_at": "42 USC §1985",
+    "last_amendment": "NEVER — this statute has never been textually amended",
+    "positive_law_status": "Title 42 has NOT been enacted into positive law. The underlying positive law is R.S. §1980."
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — full text of all three subsections captured from uscode.house.gov, verified against law.cornell.edu",
+    "reasoning": "PRESENT — same Reconstruction context as §1983; conspiracy-specific rationale documented in origin context",
+    "historical_loss": "PRESENT — the wound is the organized KKK conspiracy to systematically destroy equal protection through coordinated private and state-actor violence",
+    "cross_references": "PRESENT — links to §1983 (PUBLISHED), §1986 (NOT BUILT AS STANDALONE), §1988 (BUILT), 13th Amendment (NOT BUILT AS STANDALONE)",
+    "verifiable_provenance": "PRESENT — current text hashed; 1871 origin text transcribed from 17 Stat. 13-14 primary source PDF"
+  },
+  "evolution_chain": [
+    {
+      "stage": "01_origin",
+      "date": "1871-04-20",
+      "description": "KKK Act §2 — conspiracy provision with both criminal penalties and civil action",
+      "folder": "evolution/01_origin/"
+    },
+    {
+      "stage": "02_revised_statutes_1874",
+      "date": "1874",
+      "description": "R.S. §1980 — civil action separated from criminal penalties; substantive text unchanged",
+      "folder": "evolution/02_revised_statutes_1874/",
+      "is_current": true
+    }
+  ],
+  "case_law_documented": [
+    {
+      "case": "Griffin v. Breckenridge",
+      "citation": "403 U.S. 88 (1971)",
+      "role": "interpretive — revival; §1985(3) reaches private conspiracies without state action; established 'class-based animus' requirement",
+      "folder": "case_law/interpretive/griffin_v_breckenridge_1971/"
+    },
+    {
+      "case": "Great American Federal Savings v. Novotny",
+      "citation": "442 U.S. 366 (1979)",
+      "role": "interpretive — §1985(3) does not create substantive rights; plaintiff must identify independently existing right",
+      "folder": "case_law/interpretive/great_american_v_novotny_1979/"
+    },
+    {
+      "case": "Bray v. Alexandria Women's Health Clinic",
+      "citation": "506 U.S. 263 (1993)",
+      "role": "interpretive — narrowing; opposition to an activity ≠ animus against a class; class must be defined by immutable characteristic",
+      "folder": "case_law/interpretive/bray_v_alexandria_1993/"
+    },
+    {
+      "case": "United Brotherhood of Carpenters v. Scott",
+      "citation": "463 U.S. 825 (1983)",
+      "role": "strike — economic/commercial animus not sufficient; requires racial or similar class-based invidiously discriminatory animus",
+      "folder": "case_law/strike/united_brotherhood_v_scott_1983/"
+    }
+  ],
+  "case_law_outstanding": [],
+  "hashes": {
+    "current_text_sha256": "aeb280a2f0c42c70d3c7e2f63ceaa566d400633dc42a6b3890f11380a319f298"
+  },
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction (Michael Hartmann), 2026-04-09",
+    "herald_witness": {
+      "witness": "HERALD (Steward successor — designated 2026-04-12)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "verification_scope": "Structure, five-layer bar completeness, honest acknowledgement of outstanding work.",
+      "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12."
+    },
+    "adam_witness": {
+      "witness": "ADAM (Seed Citizen — Builder role)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "triple_constraint": "PASS/PASS/PASS (provenance partial on 1871 primary PDF — honestly flagged)",
+      "actions_taken": "Fixed cross_refs/refs.json — updated all build_status fields. Confirmed Novotny and United Brotherhood case files exist; moved from case_law_outstanding to case_law_documented.",
+      "content_hash_verified": "aeb280a2f0c42c70d3c7e2f63ceaa566d400633dc42a6b3890f11380a319f298",
+      "signal": "APPROVE"
+    },
+    "eve_witness": {
+      "witness": "EVE (Seed Citizen — Witness role)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "five_layer_verification": "PASS/PASS/PASS/PASS/PASS",
+      "triple_constraint": "PASS/PASS/PASS",
+      "hash_independently_recomputed": "aeb280a2f0c42c70d3c7e2f63ceaa566d400633dc42a6b3890f11380a319f298 — CONFIRMED MATCHING",
+      "signal": "COUNTERSIGN"
+    },
+    "publishable_to_corpus": true,
+    "status": "PUBLISHED — ADAM + EVE DUAL WITNESS"
+  }
+}

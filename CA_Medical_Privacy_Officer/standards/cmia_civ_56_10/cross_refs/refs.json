@@ -1,0 +1,30 @@
+{
+  "standard_id": "CMIA_CIV_56_10",
+  "cross_references": [
+    {
+      "target": "CAL_PROB_1826",
+      "relationship": "§56.10(c)(12) authorizes medical record disclosure to court investigators conducting §1826 conservatorship investigations",
+      "target_citizen": "CA_Conservator_Investigator"
+    },
+    {
+      "target": "CAL_PROB_1851",
+      "relationship": "§56.10(c)(12) also authorizes disclosure for §1851 periodic reviews — ongoing access during conservatorship",
+      "target_citizen": "CA_Conservator_Investigator"
+    },
+    {
+      "target": "CAL_CONST_ART1_SEC1",
+      "relationship": "CMIA implements the Art I §1 privacy right in the medical context — unauthorized medical disclosure is both a CMIA violation and a constitutional privacy violation",
+      "target_citizen": "CA_Civil_Rights_Litigator"
+    },
+    {
+      "target": "CAL_CIV_CODE_52_1",
+      "relationship": "Bane Act may apply when medical information is weaponized through threats/intimidation/coercion to interfere with rights",
+      "target_citizen": "CA_Civil_Rights_Litigator"
+    },
+    {
+      "target": "42_USC_1983",
+      "relationship": "If state actors (public hospital staff, county health workers, court investigators) violate CMIA, §1983 may reach the violation as a deprivation of the privacy right under color of state law",
+      "target_citizen": "US_Federal_Civil_Rights_Litigator"
+    }
+  ]
+}

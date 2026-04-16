@@ -1,0 +1,16 @@
+{
+  "evolution_stage": "01_origin_pre1975",
+  "standard_id": "CAL_FAM_721",
+  "description": "Pre-1975 California Civil Code coverture-era predecessor provisions",
+  "predecessor_sections": ["Civ. Code § 155 (1872)", "Civ. Code § 156 (1872)", "Civ. Code § 158 (1872)"],
+  "enacted": "1872-03-21",
+  "source": "California Civil Code, enacted by the Legislature of California, Statutes 1872",
+  "primary_source_url": "https://www.legislature.ca.gov/",
+  "retrieval_method": "Historical legal knowledge — requires primary source verification against 1872 California Civil Code (Deering's)",
+  "verification_status": "REQUIRES_PRIMARY_SOURCE_VERIFICATION",
+  "verification_note": "Consult: California State Archives (Sacramento) or Bancroft Library (UCB) for 1872 Deering's Civil Code. Digital scan: HathiTrust and Google Books have 1872 California Civil Code scans.",
+  "html_sha256": null,
+  "fetch_timestamp": "2026-04-11T00:00:00Z",
+  "fetch_tool": "historical research",
+  "retrieval_steward": "Claude (assistant) under steward direction — Michael Hartmann"
+}

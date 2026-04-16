@@ -1,0 +1,14 @@
+{
+  "layer": "historical_chain",
+  "stage": "01_origin_1974",
+  "standard_id": "USC_29_1140_ERISA_INTERFERENCE",
+  "enacting_law": "Pub. L. 93-406 (ERISA), § 510, 88 Stat. 895 (Sept. 2, 1974)",
+  "signed_by": "President Gerald R. Ford",
+  "signed_date": "1974-09-02",
+  "effective_date": "1974-09-02",
+  "official_source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1140",
+  "verified": false,
+  "verified_note": "USC tool blocked for Title 29; text from training knowledge. Verify at uscode.house.gov.",
+  "wound_record": "Pre-ERISA employer terminations timed to prevent pension vesting; Congressional investigation found suspicious correlation between firing and vesting milestones",
+  "key_case": "Ingersoll-Rand Co. v. McClendon, 498 U.S. 133 (1990) — §1140 preempts state wrongful discharge claims based on pension interference"
+}

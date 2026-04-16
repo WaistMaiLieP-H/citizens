@@ -1,0 +1,48 @@
+DOCTRINAL FRAMEWORK: § 1001.36 SUITABILITY AND PROSECUTION BURDEN
+[CITATION IMPOSSIBLE — SEE BELOW]
+California Court of Appeal
+
+---
+
+CITATION STATUS: CHRONOLOGICALLY IMPOSSIBLE
+
+§ 1001.36 WAS ENACTED IN 2018 (AB 1628, Ch. 34, Stats. 2018, effective July 1, 2018). No case decided in 2016 could address § 1001.36 — the statute did not exist yet. The "People v. Wade (2016)" folder name is therefore an impossible citation.
+
+This folder documents the § 1001.36 suitability hearing burden framework as a doctrinal companion to the people_v_frahs_2020 folder (the verified primary citation at 9 Cal.5th 618). The framework is grounded in § 1001.36 statutory text and Frahs.
+
+DO NOT CITE "People v. Wade (2016)" for § 1001.36 in any filed document. Cite Frahs (2020) 9 Cal.5th 618 instead.
+
+---
+
+HOLDING:
+
+PROSECUTION BURDEN AT § 1001.36 SUITABILITY HEARINGS:
+
+1. **The eligibility presumption runs for the defendant.** Once the defense establishes a qualifying mental disorder (subd. (b)(1)), the court must find the disorder was a significant factor UNLESS the prosecution proves by clear and convincing evidence that it was not a motivating, causal, or contributing factor. This heavy burden is seldom met.
+
+2. **Suitability factors require affirmative court findings.** All four suitability criteria (subd. (c)) must be found by the court. The defense bears the burden of going forward on mental health expert opinion and consent/treatment agreement. The prosecution may present evidence only on the narrow "danger to public safety" factor.
+
+3. **"Danger to public safety" is defined narrowly.** The "unreasonable risk" standard imported from Proposition 47 (§ 1170.18) means a significant and unreasonable risk of committing a "super strike" offense. Ordinary risk of re-offense or property crime does not satisfy this high threshold.
+
+4. **Court discretion must engage the statutory criteria.** While subd. (a) uses "may" (discretionary), post-Frahs courts must conduct the eligibility and suitability analysis on the record when the defendant makes a prima facie showing. Failure to engage with the statutory criteria is reversible error.
+
+5. **Prosecution objection is advisory only.** Under subd. (a), the court considers the prosecution's position but is not bound by it. A prosecution objection standing alone is not grounds to deny diversion.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For M25-00758 (Solano County):
+
+1. The significant-factor argument: any offense arising in the context of the documented 16-year orchestration scheme can be argued to be causally connected to PTSD and/or anxiety/depression resulting from the scheme — satisfying the "significant factor" element with the benefit of the presumption.
+2. The danger-to-public-safety bar is very high — a non-violent offense will rarely meet the Proposition 47 "super strike" standard.
+3. The prosecution's objection does not control the outcome; the court decides.
+
+---
+
+SOURCE PROVENANCE:
+Citation: CHRONOLOGICALLY IMPOSSIBLE — People v. Wade (2016) cannot exist for § 1001.36; statute enacted 2018
+Court: N/A
+Source: Suitability framework derived from Pen. Code § 1001.36 text (subdivisions (b)(1), (c)(1)-(4)) and People v. Frahs (2020) 9 Cal.5th 618 (retroactivity + diversion eligibility structure). The 2022 SB 1223 amendments (removing "at the court's discretion" from subd. (a)) reinforced the mandatory engagement rule.
+PRIMARY CITATION: People v. Frahs (2020) 9 Cal.5th 618 — see separate folder. Use Frahs for any § 1001.36 citation in a filed document.
+Verification status: CITATION IMPOSSIBLE — § 1001.36 enacted 2018; a 2016 case cannot cite this statute; DO NOT CITE; use Frahs (2020) 9 Cal.5th 618

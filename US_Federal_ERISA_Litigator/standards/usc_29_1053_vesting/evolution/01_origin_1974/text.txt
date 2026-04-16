@@ -1,0 +1,31 @@
+29 U.S.C. § 1053 — Minimum Vesting Standards
+As enacted: Pub. L. 93-406, 88 Stat. 855 (September 2, 1974)
+
+Original 1974 vesting schedules (LESS favorable than current):
+
+Option 1 — 10-YEAR CLIFF VESTING:
+Employee is fully vested after 10 years of service; 0% before that.
+
+Option 2 — "RULE OF 45" (AGE + SERVICE COMBINED):
+If employee's age and years of service total at least 45, employee must be at least 50% vested.
+Each additional year of service adds 10% until 100% vested.
+
+Option 3 — 5-15 YEAR GRADED:
+  5 years  = 25%
+  6 years  = 30%
+  7 years  = 35%
+  8 years  = 40%
+  9 years  = 45%
+  10 years = 50%
+  11 years = 60%
+  12 years = 70%
+  13 years = 80%
+  14 years = 90%
+  15+ years = 100%
+
+Year of service: 1,000 hours in 12-month period — same definition as current.
+
+Note: The 1974 schedules allowed 10-year cliff vesting, meaning workers who left before 10 years
+(or were terminated before 10 years) could receive nothing for all employer contributions. This is
+exactly the Studebaker scenario — workers terminated or laid off before reaching the vesting threshold.
+The 10-year cliff was a major target of subsequent reform.

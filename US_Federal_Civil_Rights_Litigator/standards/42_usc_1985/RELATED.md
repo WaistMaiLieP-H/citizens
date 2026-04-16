@@ -1,0 +1,1 @@
+This standard covers the full 42 USC §1985 (all three subsections). For the deeper subsection (3)-specific build with additional case law (Griffin, Bray, United Brotherhood, Great American, Novotny), see ../42_usc_1985_3/. The two builds are complementary, not conflicting.

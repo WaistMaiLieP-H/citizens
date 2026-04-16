@@ -1,0 +1,14 @@
+IN RE MARRIAGE OF LAMUSGA
+32 Cal.4th 1072
+Supreme Court of California, 2004
+
+FACTS:
+Susan LaMusga (mother) sought to relocate from the San Francisco Bay Area to Ohio with the parties' two children. Gary LaMusga (father) opposed. The trial court denied the move, finding it would be detrimental to the children's relationship with the father. The Court of Appeal reversed. The Supreme Court granted review to clarify the standards for move-away custody determinations following Burgess.
+
+HOLDING — FAMILY CODE § 3011:
+The Supreme Court reaffirmed Burgess and held that when a custodial parent seeks to relocate, the trial court must conduct a full § 3011 best-interest analysis. The court identified the specific § 3011 factors a trial court must examine in a move-away case: "the children's interest in stability and continuity in the custodial arrangement; the distance of the move; the age of the children; the children's relationship with both parents; the relationship between the parents including, but not limited to, their ability to communicate and cooperate effectively and their willingness to put the interests of the children above their individual interests; the wishes of the children if they are mature enough for such an inquiry to be appropriate; the reasons for the proposed move; and the extent to which the parents currently are sharing custody."
+
+The court held the trial court has "broad discretion" to make custody determinations, including denying relocation when the § 3011 analysis supports that conclusion.
+
+SIGNIFICANCE:
+LaMusga is the most comprehensive application of § 3011 by the California Supreme Court. It identifies the full constellation of factors that trial courts must consider and explains how each § 3011 enumerated factor maps onto real custody disputes. LaMusga confirms that the nature-and-amount-of-contact factor (§ 3011(a)(3)) is one factor among many — not a trump card — and that health, safety, and welfare (§ 3011(a)(1)) remains the primary concern. The case is essential authority for any § 3011 argument involving long-running custody disputes where contact patterns have been established and are now being reconsidered.

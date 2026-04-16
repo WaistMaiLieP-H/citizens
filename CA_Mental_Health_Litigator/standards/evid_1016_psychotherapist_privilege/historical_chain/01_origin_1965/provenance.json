@@ -1,0 +1,11 @@
+{
+  "standard_id": "evid_1016_psychotherapist_privilege",
+  "primary_source": "Cal. Evid. Code \u00a7 1016",
+  "enactment": "Stats. 1965, Ch. 299 (California Evidence Code enacted)",
+  "current_form_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1016.&lawCode=EVID",
+  "verified": true,
+  "fetch_method": "VernenLegal MCP california_get_section",
+  "fetch_date": "2026-04-12",
+  "chronicle_flag": false,
+  "note": "Evid. Code \u00a71023 (criminal competency exception) not separately fetched; documented from training knowledge in rule.md; should be fetched and built as separate standard if CA_Mental_Health_Litigator is expanded"
+}

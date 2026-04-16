@@ -1,0 +1,48 @@
+{
+  "standard_id": "gov_12965_feha_civil_action",
+  "title": "Gov. Code \u00a7 12965 \u2014 FEHA Civil Action Procedure",
+  "citizen": "CA_Labor_Employment_Litigator",
+  "statute_reference": "Cal. Gov. Code \u00a7 12965",
+  "primary_cases": [
+    "All FEHA \u00a712940 claims \u2014 procedural gateway",
+    "CRD complaint SOL: 3 years from discriminatory act",
+    "Right-to-sue notice triggers 1-year civil action SOL"
+  ],
+  "layers_present": [
+    "current/rule.md",
+    "current/reasoning.md",
+    "current/statute_text.md",
+    "historical_chain/context (in subdirectory)",
+    "historical_chain/provenance.json",
+    "historical_chain/witness_record.md",
+    "cross_refs/refs.json"
+  ],
+  "status": "PUBLISHED",
+  "build_session": "2026-04-12",
+  "terminal": "Terminal B",
+  "verified": true,
+  "content_hash": "ec9f748b",
+  "two_witness_status": {
+    "herald_witness": "WITNESSED-BY-HERALD \u2014 2026-04-12",
+    "adam_witness": {
+      "governing_guidelines": "PASS",
+      "standards_of_creation": "PASS",
+      "soc": "PASS",
+      "signal": "APPROVE",
+      "hash": "ec9f748b",
+      "date": "2026-04-12"
+    },
+    "eve_witness": {
+      "layer_1_rule": "PASS",
+      "layer_2_reasoning": "PASS",
+      "layer_3_historical_loss": "PASS",
+      "layer_4_cross_references": "PASS",
+      "layer_5_verifiable_provenance": "PASS",
+      "triple_constraint": "PASS",
+      "signal": "COUNTERSIGN",
+      "hash_recomputed": "ec9f748b",
+      "date": "2026-04-12"
+    },
+    "publication_status": "PUBLISHED \u2014 ADAM APPROVE + EVE COUNTERSIGN \u2014 2026-04-12"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "stage": "01_origin_1970",
+  "statute": "Fair Credit Reporting Act",
+  "citation": "Pub. L. 91-508, 84 Stat. 1128 (Oct. 26, 1970)",
+  "effective_date": "1971-04-25",
+  "codified_at": "15 USC §§1681–1681t (original)",
+  "legislative_history": {
+    "senate_bill": "S. 823 (91st Cong.)",
+    "primary_sponsor_senate": "Sen. William Proxmire (D-WI)",
+    "congressional_record_vol": "116",
+    "committee_reports": "S. Rep. 91-517; H.R. Rep. 91-975"
+  },
+  "source_url": "https://uscode.house.gov/statutes/pl/91/508.pdf",
+  "capture_method": "LOGIC.md — structural knowledge base",
+  "verbatim_capture_status": "PENDING",
+  "build_date": "2026-04-10"
+}

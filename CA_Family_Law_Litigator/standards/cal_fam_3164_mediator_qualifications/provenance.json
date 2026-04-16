@@ -1,0 +1,18 @@
+{
+  "standard_id": "CA_FAM_3164_MEDIATOR_QUALIFICATIONS",
+  "provenance_record_filed_at_utc": "2026-04-08T18:50:00Z",
+  "fetcher_software": "curl with sha256sum",
+  "fetcher_operator": "Claude (assistant) under steward direction (Michael Hartmann)",
+  "fetches": [
+    {
+      "artifact_local_path": "current/cal_fam_3164_leginfo.html",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3164.&lawCode=FAM",
+      "source_authority": "California Legislative Information (leginfo.legislature.ca.gov)",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-08T18:50:00Z",
+      "fetch_method": "curl --fail --retry 5 --retry-all-errors",
+      "sha256": "a6194b6d7c54d64331a6f160e2407800ad9a31fe7c84da0cc719d119c044bba5",
+      "content_description": "Custody Mediator Designation and Qualifications Requirement"
+    }
+  ]
+}

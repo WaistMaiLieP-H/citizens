@@ -1,0 +1,14 @@
+Scotch v. Art Institute of California
+173 Cal.App.4th 986 (2009)
+
+SUMMARY (from training knowledge — see verification status)
+
+The California Court of Appeal held that an employer's delay in initiating and completing the interactive process under GOV §12940(n) constitutes a failure to engage, actionable as an independent FEHA violation.
+
+Key holdings:
+- Timing matters: the interactive process must begin promptly after the employer learns of the employee's disability and accommodation need
+- An employer who stalls for months and then claims no reasonable accommodation was available has failed to engage in good faith
+- The employer cannot create the delay and then use the resulting absence of accommodation as a defense
+- Interactive process failures are independently compensable; plaintiff need not prove a reasonable accommodation would have resulted
+
+Court: An employer that "runs out the clock" on an employee's need for accommodation — by delaying the interactive process until the employee can no longer continue working — has constructively denied a reasonable accommodation.

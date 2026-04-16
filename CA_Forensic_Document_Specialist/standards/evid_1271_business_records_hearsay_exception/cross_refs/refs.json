@@ -1,0 +1,47 @@
+{
+  "standard_id": "evid_1271_business_records_hearsay_exception",
+  "citizen": "CA_Forensic_Document_Specialist",
+  "build_date": "2026-04-13",
+  "cross_references": [
+    {
+      "ref_id": "XREF-1271-001",
+      "target_citizen": "CA_Forensic_Document_Specialist",
+      "target_standard": "evid_1400_authentication_definition",
+      "path": "${citizens}/CA_Forensic_Document_Specialist/standards/evid_1400_authentication_definition/",
+      "relationship": "prerequisite",
+      "note": "§§1400-1401 authentication is required before §1271 business records exception can be invoked. Authentication of the record's identity is the threshold; §1271 is the hearsay exception that follows."
+    },
+    {
+      "ref_id": "XREF-1271-002",
+      "target_citizen": "CA_Forensic_Document_Specialist",
+      "target_standard": "evid_1402_altered_writing_burden",
+      "path": "${citizens}/CA_Forensic_Document_Specialist/standards/evid_1402_altered_writing_burden/",
+      "relationship": "concurrent",
+      "note": "A business record that appears altered fails BOTH §1402 (altered document burden) AND §1271(d) (trustworthiness). Both arguments run concurrently."
+    },
+    {
+      "ref_id": "XREF-1271-003",
+      "target_citizen": "CA_Vehicle_Code_Specialist",
+      "target_standard": "veh_11713_dealer_prohibited_acts",
+      "path": "${citizens}/CA_Vehicle_Code_Specialist/standards/veh_11713_dealer_prohibited_acts/",
+      "relationship": "application",
+      "note": "RedJag wrong CARFAX: §1271 analysis of wrong vehicle history report — §1271(d) trustworthiness fails for a CARFAX belonging to a different VIN. VEH §11713 is the dealer fraud claim; §1271 is the evidentiary vehicle."
+    },
+    {
+      "ref_id": "XREF-1271-004",
+      "target_citizen": "CA_Forensic_Document_Specialist",
+      "target_standard": "evid_1521_secondary_evidence_rule",
+      "path": "${citizens}/CA_Forensic_Document_Specialist/standards/evid_1521_secondary_evidence_rule/",
+      "relationship": "concurrent",
+      "note": "When original business records are unavailable, §1521 secondary evidence rule applies. §1271 establishes what the business record IS; §1521 determines whether a copy or secondary evidence of it may be admitted."
+    },
+    {
+      "ref_id": "XREF-1271-005",
+      "target_citizen": "CA_Criminal_Law_Specialist",
+      "target_standard": "pen_530_5_identity_theft",
+      "path": "${citizens}/CA_Criminal_Law_Specialist/standards/pen_530_5_identity_theft/",
+      "relationship": "parallel",
+      "note": "Synthetic identity documents and fabricated business records: §1271(a)/(b)/(d) failure analysis of forged identity documents; PC §530.5 is the criminal theory; §1271 is why the forged records fail in court."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "case": "FCC Report and Order — SIM Swap Authentication Requirements",
+  "reporter_citation": "FCC WC Docket No. 21-341",
+  "parallel_citations": ["FCC 23-100"],
+  "decided": "November 2023 (effective February 2024)",
+  "forum": "Federal Communications Commission",
+  "provisions_construed": [
+    "47 U.S.C. § 222",
+    "47 C.F.R. Part 64",
+    "California Civil Code § 1798.81.5 (standard of care)"
+  ],
+  "status": "FCC binding order establishing authentication requirements for carrier SIM change processing. Defines 'reasonable security' for § 1798.81.5 claims. Acknowledges DV/stalking SIM swap context. Publicly available at FCC.gov.",
+  "opinion_text_source": "FCC.gov, WC Docket No. 21-341",
+  "confidence": "HIGH — publicly available FCC binding rule",
+  "verification_note": "Available at FCC.gov. Verify docket number and effective date.",
+  "captured_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "captured_at_utc": "2026-04-11T00:00:00Z"
+}

@@ -1,0 +1,95 @@
+FCC CPNI ENFORCEMENT HISTORY — CARRIER AUTHENTICATION FAILURES
+(Regulatory Record — not a single court opinion)
+
+Document type: Regulatory enforcement pattern
+Primary agency: Federal Communications Commission, Enforcement Bureau
+Relevance: Establishes industry knowledge, standard of care, and AT&T's actual notice
+of SIM swap / CPNI authentication vulnerabilities
+
+---
+
+I. STATUTORY AND REGULATORY FRAMEWORK
+
+47 U.S.C. § 222 — Protection of Customer Proprietary Network Information
+
+Section 222(a): "Every telecommunications carrier has a duty to protect the confidentiality of proprietary information of, and relating to, other telecommunications carriers, equipment manufacturers, and customers."
+
+Section 222(c)(1): "Except as required by law or with the approval of the customer, a telecommunications carrier that receives or obtains customer proprietary network information by virtue of its provision of a telecommunications service shall only use, disclose, or permit access to individually identifiable customer proprietary network information in its provision of (A) the telecommunications service from which such information is derived; or (B) services necessary to, or used in, the provision of such telecommunications service."
+
+47 C.F.R. § 64.2010 — Safeguards on the disclosure of CPNI: [See main current text file for verbatim regulatory text.]
+
+---
+
+II. TIMELINE OF FCC CPNI ENFORCEMENT — AUTHENTICATION-SPECIFIC ACTIONS
+
+2006 — HP PRETEXTING SCANDAL
+Hewlett-Packard's board surveillance scandal exposed widespread use of "pretexting" — fraudulent social engineering to obtain phone records from carriers. Congress held hearings; FCC began rulemaking.
+
+2007 — FCC ADOPTS ENHANCED CPNI AUTHENTICATION RULES (FCC 07-22)
+Report and Order, CC Docket No. 96-115 (adopted February 22, 2007):
+- Required carriers to authenticate customers using shared-secret passwords/PINs rather than biographical information alone (name, address, last four of SSN);
+- Prohibited carriers from using biographical information as the primary authentication method for phone-based CPNI requests;
+- Required carriers to notify customers of account changes;
+- Added specific SIM-change authentication requirements (later enhanced).
+
+KEY EFFECT: After FCC 07-22, every carrier including AT&T was on constructive notice that authentication based on biographical information (Social Security numbers, dates of birth, addresses) was legally inadequate for CPNI protection.
+
+2010-2012 — CPNI CERTIFICATION ENFORCEMENT
+FCC fined multiple carriers for failure to file required annual CPNI compliance certifications. While technical filing violations, these actions demonstrated ongoing FCC oversight of CPNI compliance.
+
+2014-2015 — AT&T $25 MILLION CPNI CONSENT DECREE
+See: In re AT&T Inc., EB-TCD-14-00016243 (FCC Enforcement Bureau, April 8, 2015)
+AT&T paid $25 million to settle FCC investigation into call center employee unauthorized access to CPNI, including Social Security numbers and account PINs. Overseas call center employees provided CPNI to third parties enabling phone unlocking and identity fraud. AT&T committed to enhanced authentication and vendor oversight.
+
+SIGNIFICANCE: This is the largest CPNI enforcement action in FCC history. It put AT&T on ACTUAL NOTICE — post-settlement, post-compliance-plan — that its authentication procedures were being exploited by insiders and external fraudsters.
+
+2016-2019 — GROWING SIM SWAP VICTIM COMPLAINTS
+Class actions against AT&T (and other carriers) for SIM swap fraud increased dramatically. Consumer advocacy organizations (EFF, ACLU) filed FCC complaints. The FCC began categorizing SIM swap fraud as a distinct CPNI complaint category.
+
+Notable: T-Mobile, AT&T, and Verizon all faced state AG investigations and private class actions for SIM swap-facilitated CPNI violations during this period.
+
+2022-2023 — FCC SIM SWAP DECLARATORY RULING (FCC 23-67)
+FCC Report and Order and Further Notice of Proposed Rulemaking (July 2023):
+- Declared SIM swap fraud a CPNI violation subject to § 64.2010;
+- Required carriers to notify customers BEFORE completing SIM swaps;
+- Required additional verification for SIM port requests to other carriers;
+- Allowed customers to "lock" SIM against unauthorized porting;
+- Required carriers to maintain logs of SIM swap requests.
+
+---
+
+III. WHAT THIS ENFORCEMENT HISTORY ESTABLISHES FOR CIVIL LITIGATION
+
+A. NEGLIGENCE PER SE:
+Violation of FCC CPNI regulations (47 C.F.R. § 64.2010) may constitute negligence per se — a statutory violation that establishes the duty and breach elements of a negligence claim without further proof. Where AT&T executed a SIM swap without adequate authentication in violation of § 64.2010, the statutory violation supports a negligence per se theory.
+
+B. INDUSTRY KNOWLEDGE — ACTUAL AND CONSTRUCTIVE NOTICE:
+The enforcement timeline demonstrates that SIM swap and authentication fraud vulnerabilities were:
+- Publicly documented from at least 2006 (HP pretexting scandal);
+- Subject to specific FCC rules from 2007 (FCC 07-22);
+- The subject of AT&T's own $25M consent decree in 2015;
+- The subject of escalating civil litigation from 2016 forward.
+
+AT&T cannot claim ignorance. By 2018 (when the alleged SIM swap attack began), AT&T had been on notice of this specific vulnerability for eleven years of FCC rules, three years since paying $25M for this exact type of failure, and two years of escalating class action litigation.
+
+C. STANDARD OF CARE:
+The FCC rules define the minimum standard of care:
+- § 64.2010(h)(1): Carriers must use secure methods to authenticate customers that are reasonably designed to confirm the customer's identity before executing a SIM change;
+- Authentication cannot rely solely on biographical information, recent payment information, or call detail information;
+- The authentication method must be reviewed and updated annually.
+
+Any SIM swap executed without complying with these authentication standards is a CPNI violation and a breach of the duty of care.
+
+---
+
+SOURCE PROVENANCE:
+This is a regulatory enforcement pattern document, not a single court opinion.
+Key authorities cited:
+  - 47 U.S.C. § 222
+  - 47 C.F.R. § 64.2010 (as amended)
+  - FCC 07-22 (2007 CPNI authentication rules)
+  - AT&T $25M CPNI Consent Decree (April 8, 2015), EB-TCD-14-00016243
+  - FCC 23-67 (2023 SIM swap declaratory ruling)
+Verification: FCC order citations should be verified at fcc.gov/enforcement and ecfr.gov before filing.
+Source of this text: Claude training data + publicly documented FCC enforcement history
+Verification status: PROPOSED — pending steward witness review

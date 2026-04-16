@@ -1,0 +1,4 @@
+[
+  {"target":"${citizens}/CA_First_Amendment_Litigator/standards/cal_ccp_425_16_anti_slapp/manifest.json","relationship":"SLAPPback arises from a dismissal under §425.16; the two are structurally linked"},
+  {"target":"${citizens}/CA_First_Amendment_Litigator/standards/cal_ccp_425_17_anti_slapp_exemptions/manifest.json","relationship":"§425.16 (shield), §425.17 (guardrail), §425.18 (sword) form the complete anti-SLAPP ecosystem"}
+]

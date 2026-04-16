@@ -1,0 +1,30 @@
+{
+  "standard_id": "wic_5350_lps_conservatorship",
+  "cross_refs": [
+    {
+      "ref_id": "wic_5150_involuntary_hold",
+      "path": "${citizens}/CA_Mental_Health_Litigator/standards/wic_5150_involuntary_hold",
+      "relationship": "\u00a75150 72-hr hold is the intake mechanism that leads to \u00a75250 14-day hold \u2192 \u00a75350 LPS conservatorship petition"
+    },
+    {
+      "ref_id": "cal_prob_1826",
+      "path": "${citizens}/CA_Conservator_Investigator/standards/cal_prob_1826",
+      "relationship": "\u00a75350(f) EXCLUDES \u00a71826 from LPS \u2014 this cross-reference documents the safeguard that was bypassed"
+    },
+    {
+      "ref_id": "cal_prob_1851",
+      "path": "${citizens}/CA_Conservator_Investigator/standards/cal_prob_1851",
+      "relationship": "\u00a75350(f) EXCLUDES \u00a71851 chapter from LPS \u2014 annual review not required under LPS pathway"
+    },
+    {
+      "ref_id": "prob_1800_conservatorship_intent",
+      "path": "${citizens}/CA_Probate_Conservatorship_Litigator/standards/prob_1800_conservatorship_intent",
+      "relationship": "\u00a71800 mandates still apply as minimum floor even for LPS conservatorship \u2014 but enforcement mechanism (\u00a71851) is excluded"
+    },
+    {
+      "ref_id": "prob_1827_jury_trial_right",
+      "path": "${citizens}/CA_Probate_Conservatorship_Litigator/standards/prob_1827_jury_trial_right",
+      "relationship": "\u00a75350(d) provides its own jury trial right (5-day demand, 10-day trial) \u2014 parallel to Prob. \u00a71827"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "standard_id": "bpc_9880_automotive_repair_act",
+  "authority": "Cal. Bus. & Prof. Code \u00a7\u00a79884.7, 9884.9 (Automotive Repair Act)",
+  "status": "PUBLISHED",
+  "content_hash": "7f7669f7",
+  "build_date": "2026-04-12",
+  "terminal": "Terminal B",
+  "citizen": "CA_Vehicle_Code_Specialist",
+  "verified": true,
+  "adam_signal": "APPROVE",
+  "eve_signal": "COUNTERSIGN",
+  "witness_date": "2026-04-12"
+}

@@ -1,0 +1,27 @@
+{
+  "standard_id": "CAL_PROB_1851_ANNUAL_REVIEW",
+  "refs_updated": "2026-04-12",
+  "cross_references": [
+    {
+      "target_standard": "CAL_PROB_1826_INVESTIGATOR_PRE_APPOINTMENT",
+      "relationship": "\u00a71826 is the pre-appointment investigation; \u00a71851 is the ongoing periodic review. Same court investigator function, same independence requirement, same duty to determine conservatee's wishes. \u00a71851 is \u00a71826 recurring.",
+      "target_citizen": "CA_Conservator_Investigator",
+      "target_manifest": "${citizens}/CA_Conservator_Investigator/standards/cal_prob_1826/manifest.json",
+      "build_status": "BUILT \u2014 same Citizen"
+    },
+    {
+      "target_standard": "CAL_PROB_1860_TERMINATION",
+      "relationship": "\u00a71851(a)(A) requires the investigator to ask whether the conservatee wishes to terminate; the conservatee's answer is the trigger for \u00a71860 termination proceedings. \u00a71851 is the discovery mechanism for the \u00a71860 termination right.",
+      "target_citizen": "CA_Conservator_Investigator",
+      "target_manifest": "${citizens}/CA_Conservator_Investigator/standards/cal_prob_1860/manifest.json",
+      "build_status": "BUILT \u2014 same Citizen"
+    },
+    {
+      "target_standard": "CAL_PROB_2620_ACCOUNTING",
+      "relationship": "\u00a71851 requires conservator to make all books, records, and financial accounts available to the investigator. \u00a72620 requires annual accountings to the court. The two provisions create overlapping financial oversight \u2014 the \u00a72620 accounting is the conservator's self-report; the \u00a71851 review is the independent check.",
+      "target_citizen": "CA_Conservator_Investigator",
+      "target_manifest": "${citizens}/CA_Conservator_Investigator/standards/cal_prob_2620/manifest.json",
+      "build_status": "BUILT \u2014 same Citizen"
+    }
+  ]
+}

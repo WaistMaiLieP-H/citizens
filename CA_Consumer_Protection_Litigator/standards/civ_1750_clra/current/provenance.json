@@ -1,0 +1,12 @@
+{
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?division=3.&chapter=&lawCode=CIV&title=1.5.&part=4.",
+  "source_publisher": "California Legislative Information (leginfo.legislature.ca.gov)",
+  "statute_citation": "Cal. Civ. Code §§1750-1784 (Consumers Legal Remedies Act)",
+  "fetch_method": "Captured from primary California leginfo source",
+  "fetch_timestamp_utc": "2026-04-10T00:00:00Z",
+  "retrieval_steward": "Claude (assistant) under direction of Michael Hartmann, Vernen Legal Compliance",
+  "text_completeness": "PARTIAL-REPRESENTATIVE — §§1750, 1751, 1752, 1760, 1761, 1770 (core enumerated list), 1780, 1781, 1782, 1783, 1784 captured in full or with clear omission markers. §1770 subsections (26)-(29), §1781 subsections (c)-(e), and other technical subsections marked for later full capture.",
+  "primary_source_pdf": null,
+  "txt_sha256": "aa1400237d779067794979a4ad40d92ac47251454eae949d870fa3c5e5e28e8b",
+  "verbatim_capture_status": "PARTIAL-REPRESENTATIVE — civ_1750_text.txt; §1770 subsections (26)-(29) and §1781(c)-(e) marked for later full capture; main operative provisions present"
+}

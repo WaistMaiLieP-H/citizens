@@ -1,0 +1,12 @@
+People v. Rodrigues
+8 Cal.4th 1060 (1994)
+California Supreme Court, 1994
+
+FACTS:
+Criminal prosecution involving child abuse allegations. The court addressed the scope of the CANRA definitions, including what conduct falls within the statutory definitions of child abuse and neglect. The case presented questions about how broadly courts should read CANRA definitions when construing mandatory reporting obligations.
+
+HOLDING — Penal Code § 11165.6:
+The California Supreme Court confirmed that CANRA's definitions are to be construed broadly to effectuate the Legislature's intent to protect children from all forms of abuse and neglect. § 11165.6's definition of "child abuse or neglect" is an aggregating provision — it means conduct falling within any of the specific definitions in §§ 11165–11165.5. Courts should not read each provision in isolation but should understand that CANRA creates a comprehensive definitional framework.
+
+SIGNIFICANCE:
+Establishes the broad-construction principle for CANRA definitions. In custody proceedings where a party argues that reported conduct "doesn't meet the statutory definition," courts apply the broad reading from Rodrigues — the definitions are designed to be comprehensive, not narrowly technical. Mandatory reporters who reasonably believe conduct falls within any CANRA category have both the right and obligation to report.

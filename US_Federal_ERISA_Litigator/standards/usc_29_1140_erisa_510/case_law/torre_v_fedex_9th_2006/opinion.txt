@@ -1,0 +1,32 @@
+Torre v. Federated Mutual Insurance Company
+[Note: The precise "Torre v. FedEx" 9th Circuit 2006 citation is UNVERIFIED.
+The following reflects the established Ninth Circuit §510 burden-shifting framework
+as applied in this circuit. Steward: verify specific citation via Westlaw/Lexis.]
+
+**UNVERIFIED CITATION — Do not file reliance on this citation without independent verification**
+
+The Ninth Circuit applies a McDonnell Douglas burden-shifting framework to §510 claims:
+
+**Step 1 — Plaintiff's prima facie case:**
+Plaintiff must show:
+(a) Plaintiff was a participant in an ERISA plan
+(b) Plaintiff was subjected to an adverse action
+(c) The adverse action was taken to interfere with ERISA rights or to retaliate
+    for exercising ERISA rights
+(d) Causal connection between the adverse action and protected status/activity
+
+Temporal proximity between adverse action and approaching vesting date is strong
+circumstantial evidence of §510 intent.
+
+**Step 2 — Employer's burden:**
+Employer articulates a legitimate, non-discriminatory reason for the adverse action.
+
+**Step 3 — Plaintiff's rebuttal:**
+Plaintiff must show the employer's stated reason is pretextual — that the actual
+motivation was interference with ERISA rights.
+
+The burden of persuasion remains with the plaintiff throughout.
+
+Courts in the Ninth Circuit have held that §510 claims are not limited to pre-vesting
+termination — the statute covers any discriminatory conduct intended to interfere with
+a participant's ERISA rights, including post-vesting benefit manipulation.

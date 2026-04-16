@@ -1,0 +1,36 @@
+{
+  "standard_id": "42_USC_1985_3",
+  "refs_updated": "2026-04-12 — ADAM review pass; build_status fields updated",
+  "cross_references": [
+    {
+      "target_standard": "42_USC_1983",
+      "relationship": "sibling — §1983 reaches state actors acting 'under color of' law; §1985(3) reaches private conspiracies. Together they cover the full spectrum of the 1871 Act's enforcement vision.",
+      "target_citizen": "US_Federal_Civil_Rights_Litigator",
+      "target_manifest": "${citizens}/US_Federal_Civil_Rights_Litigator/standards/42_usc_1983/manifest.json",
+      "build_status": "PUBLISHED — ADAM + EVE DUAL WITNESS 2026-04-12"
+    },
+    {
+      "target_standard": "42_USC_1986",
+      "relationship": "companion — §1986 creates liability for persons who KNOW about a §1985 conspiracy and have power to prevent it but neglect or refuse to do so. Derived from §6 of the 1871 Act.",
+      "target_citizen": "US_Federal_Civil_Rights_Litigator",
+      "build_status": "NOT BUILT AS STANDALONE STANDARD — §1986 not yet in the build queue. Document as cross-reference when §1985 full build is deepened."
+    },
+    {
+      "target_standard": "42_USC_1988",
+      "relationship": "fee provision — prevailing plaintiffs in §1985 actions may recover attorney's fees under §1988",
+      "target_citizen": "US_Federal_Civil_Rights_Litigator",
+      "target_manifest": "${citizens}/US_Federal_Civil_Rights_Litigator/standards/42_usc_1988/manifest.json",
+      "build_status": "BUILT — WITNESSED-BY-HERALD 2026-04-12"
+    },
+    {
+      "target_standard": "US_CONST_AMEND_13",
+      "relationship": "constitutional authority — Griffin v. Breckenridge grounded §1985(3)'s reach over private conduct in the Thirteenth Amendment, which prohibits slavery and its badges and incidents without requiring state action",
+      "build_status": "NOT BUILT AS STANDALONE STANDARD — 13th Amendment context documented within §1985_3 historical_chain.md and Griffin v. Breckenridge holding."
+    },
+    {
+      "target_standard": "42_USC_1983",
+      "relationship": "overlap — when a conspiracy involves state actors, both §1983 and §1985(3) may apply; §1985(3) adds the conspiracy element and reaches co-conspirators who are not themselves state actors",
+      "note": "duplicate cross-ref to §1983 for doctrinal completeness — different relationship than the sibling relationship above"
+    }
+  ]
+}

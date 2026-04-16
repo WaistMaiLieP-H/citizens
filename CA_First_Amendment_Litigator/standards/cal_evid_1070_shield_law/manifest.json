@@ -1,0 +1,77 @@
+{
+  "standard_id": "CA_EVID_1070",
+  "version": "0.2.0-evolution-built",
+  "status": "PROPOSED — evolution chain complete (4 stages + current pointer), 1 case, provenance tracked. Two evolution stages have honest gaps (1965 and 1971 primary text not located).",
+  "primary_citation": {
+    "code": "Evidence Code",
+    "section": "1070",
+    "popular_name": "Shield Law — Journalist/Publisher Privilege",
+    "jurisdiction": "California",
+    "current_codification_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1070.&lawCode=EVID"
+  },
+  "key_holding": "Publishers, editors, reporters, and persons connected with news media CANNOT be held in contempt for refusing to disclose (1) the source of any information procured for publication or broadcast, or (2) any unpublished information obtained in gathering news. Operates at two levels: statutory (§1070) and constitutional (Art. I §2(b), added 1980).",
+  "hashes": {
+    "current_text_sha256": "cb1eaaa7be4559759e3913f1046f095233ae39c474eedda1ab5987f5ee45dac2"
+  },
+  "evolution_chain": [
+    {"stage": "01_origin_1965", "event": "Shield law transferred from CCP §1881(6) to Evidence Code §1070 (Stats. 1965, Ch. 299). Originally enacted 1935. Protected source identity only.", "primary_text_status": "NOT YET LOCATED — gap acknowledged in provenance"},
+    {"stage": "02_amendment_1971", "event": "Stats. 1971, Ch. 1455. Specific changes unknown.", "primary_text_status": "NOT YET LOCATED — gap acknowledged in provenance"},
+    {"stage": "03_amendment_1974", "event": "Stats. 1974, Ch. 1323. Added 'unpublished information' protection. Response to Branzburg v. Hayes (1972). Believed to be current text.", "primary_text_status": "INFERRED — current text believed identical since no subsequent amendments"},
+    {"stage": "04_constitutional_elevation_1980", "event": "Prop. 5 (Res.Ch. 77, 1978), approved June 3, 1980. Added Art. I §2(b). Elevated shield to constitutional status.", "primary_text_status": "VERIFIED — text from leginfo Article I capture"}
+  ],
+  "case_law": [
+    {"case": "O'Grady v. Superior Court (Apple Computer, Inc.), 139 Cal.App.4th 1423 (2006)", "category": "interpretive", "rule": "Shield law extends to online publishers. A person who gathers information for communication to the public through an online publication is protected regardless of medium. No subject-matter exception for trade secrets."}
+  ],
+  "amendment_history": [
+    {"year": 1935, "event": "Original enactment as CCP §1881(6) — newspaper source protection only"},
+    {"year": 1961, "event": "Extended to radio and television reporters"},
+    {"year": 1965, "event": "Stats. 1965, Ch. 299 — transferred to Evidence Code §1070"},
+    {"year": 1971, "event": "Stats. 1971, Ch. 1455 — amendment (details pending primary source)"},
+    {"year": 1974, "event": "Stats. 1974, Ch. 1323 — added 'unpublished information' protection (response to Branzburg v. Hayes)"},
+    {"year": 1980, "event": "Prop. 5 (Res.Ch. 77, 1978) — elevated to California Constitution Art. I §2(b)"}
+  ],
+  "triple_constraint_test_results": {
+    "governing_guidelines": {"passes": true, "evidence": "Evidence Code §1070 from VernenLegal MCP tool; binding California statutory authority. Constitutional companion at Art. I §2(b)."},
+    "standards_of_creation": {"passes": true, "evidence": "Evolution chain with 4 stages (2 with honest gaps noted), case law with holding and provenance, cross-references."},
+    "standard_of_care": {
+      "passes": "PARTIAL — honest gaps in evolution chain",
+      "current_layer": "VERIFIED — text fetched via MCP tool, hashed",
+      "evolution_layer": "PARTIAL — 1965 and 1971 primary texts not located. 1974 inferred from current text. 1980 constitutional text verified from leginfo.",
+      "origin_layer": "IDENTIFIED — 1935 CCP §1881(6) origin documented but primary text not fetched"
+    }
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — verbatim current text captured and hashed",
+    "reasoning": "PRESENT — Branzburg v. Hayes context, legislative findings in each evolution stage",
+    "historical_loss": "PRESENT — journalists jailed for source protection; Branzburg closed federal avenue; state shield became primary protection",
+    "cross_references": "PRESENT — refs.json links to Art. I §2(b), §425.16, §425.17(d)(1)",
+    "verifiable_provenance": "PARTIAL — current text hashed and sourced; 2 evolution stages have acknowledged gaps"
+  },
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction (Michael Hartmann), 2026-04-09",
+    "second_mouth_witness": "NONE — not yet countersigned",
+    "publishable_to_corpus": false,
+    "status": "PROPOSED"
+  },
+  "files": {
+    "origin": ["evolution/01_origin_1965/text.txt", "evolution/01_origin_1965/context.md", "evolution/01_origin_1965/provenance.json"],
+    "evolution": [
+      "evolution/02_amendment_1971/text.txt", "evolution/02_amendment_1971/provenance.json",
+      "evolution/03_amendment_1974/text.txt", "evolution/03_amendment_1974/context.md", "evolution/03_amendment_1974/provenance.json",
+      "evolution/04_constitutional_elevation_1980/text.txt", "evolution/04_constitutional_elevation_1980/context.md", "evolution/04_constitutional_elevation_1980/provenance.json",
+      "evolution/05_current/README.md"
+    ],
+    "current": ["current/cal_evid_1070_leginfo.txt", "current/provenance.json"],
+    "case_law": ["case_law/interpretive/ogrady_v_superior_court_2006/holding.md", "case_law/interpretive/ogrady_v_superior_court_2006/statute_version_cited.md", "case_law/interpretive/ogrady_v_superior_court_2006/provenance.json"],
+    "cross_refs": ["cross_refs/refs.json"],
+    "manifest": "manifest.json"
+  },
+  "outstanding_work": [
+    "FETCH primary source: Statutes of California 1965, Chapter 299 (original §1070 text) from California State Library",
+    "FETCH primary source: Statutes of California 1971, Chapter 1455 (amendment text)",
+    "CONFIRM: current text = 1974 text by fetching Stats. 1974, Ch. 1323",
+    "FETCH full opinion text for O'Grady v. Superior Court from Justia",
+    "Add additional case law: Delaney v. Superior Court (1990), Mitchell v. Superior Court (1984)",
+    "Obtain second-mouth countersignature"
+  ]
+}

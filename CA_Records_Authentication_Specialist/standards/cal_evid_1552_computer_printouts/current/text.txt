@@ -1,0 +1,18 @@
+California Evidence Code § 1552 — Printed Representation of Computer Information
+
+(a) A printed representation of computer information or a computer program is presumed to be an accurate representation of the computer information or computer program that it purports to represent. This presumption is a presumption affecting the burden of producing evidence. If a party to the action introduces evidence that a printed representation of computer information or computer program is inaccurate or unreliable, the party offering the printed representation into evidence shall have the burden of proving, by a preponderance of evidence, that the printed representation is an accurate representation of the computer information or computer program that it purports to represent.
+
+(b) Subdivision (a) shall not apply to computer-generated official records certified in accordance with Section 452.5 or 1530.
+
+(Amended by Stats. 1998, Ch. 100, Sec. 1.)
+
+---
+
+California Evidence Code § 1553 — Printed Representation of Images Stored on Video or Digital Medium
+
+A printed representation of images stored on a video or digital medium is presumed to be an accurate representation of the images it purports to represent. This presumption is a presumption affecting the burden of producing evidence. If a party to the action introduces evidence that a printed representation of an image stored on a video or digital medium is inaccurate or unreliable, the party offering the printed representation into evidence shall have the burden of proving, by a preponderance of evidence, that the printed representation is an accurate representation of the image it purports to represent.
+
+(Added by Stats. 1998, Ch. 100, Sec. 2.)
+
+---
+SOURCE: California Evidence Code §§ 1552-1553 (Computer and Digital Records Presumptions). §1552 enacted by Stats. 1965, Ch. 299; amended Stats. 1998, Ch. 100. §1553 added Stats. 1998, Ch. 100. Current text available at leginfo.legislature.ca.gov. Note: §1552(b) exception for official records cross-references §452.5 (judicial notice of official records) and §1530 (certified copies).

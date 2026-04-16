@@ -1,0 +1,27 @@
+{
+  "standard_id": "CAL_PROB_1826_INVESTIGATOR_PRE_APPOINTMENT",
+  "refs_updated": "2026-04-12",
+  "cross_references": [
+    {
+      "target_standard": "CAL_PROB_1801_CONSERVATORSHIP_APPOINTMENT",
+      "relationship": "\u00a71826 investigator must assess whether \u00a71801 grounds are met. The investigator's report is the factual foundation for the court's \u00a71801 finding. No \u00a71801 appointment is valid without \u00a71826 investigation compliance.",
+      "target_citizen": "CA_Conservator_Investigator",
+      "target_manifest": "${citizens}/CA_Conservator_Investigator/standards/cal_prob_1801_conservatorship_appointment/manifest.json",
+      "build_status": "BUILT \u2014 same Citizen"
+    },
+    {
+      "target_standard": "CAL_PROB_1851_ANNUAL_REVIEW",
+      "relationship": "structural parallel \u2014 \u00a71826 is the pre-appointment investigation; \u00a71851 is the ongoing periodic review. Same investigator function, same duties, but \u00a71851 applies after appointment with biennial frequency.",
+      "target_citizen": "CA_Conservator_Investigator",
+      "target_manifest": "${citizens}/CA_Conservator_Investigator/standards/cal_prob_1851/manifest.json",
+      "build_status": "BUILT \u2014 same Citizen"
+    },
+    {
+      "target_standard": "CAL_PROB_811_CAPACITY",
+      "relationship": "\u00a71826(a)(4)(B) cross-references \u00a7811 directly \u2014 the investigator must determine whether \u00a7811 mental function deficits exist and significantly impair the proposed conservatee's ability to function. \u00a7811 is the clinical framework the \u00a71826 investigation must apply.",
+      "target_citizen": "CA_Conservator_Investigator",
+      "target_manifest": "${citizens}/CA_Conservator_Investigator/standards/cal_prob_811/manifest.json",
+      "build_status": "BUILT \u2014 same Citizen"
+    }
+  ]
+}

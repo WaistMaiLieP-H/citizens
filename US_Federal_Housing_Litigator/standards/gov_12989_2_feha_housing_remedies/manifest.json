@@ -1,0 +1,22 @@
+{
+  "standard_id": "gov_12989_2_feha_housing_remedies",
+  "citizen": "US_Federal_Housing_Litigator",
+  "build_date": "2026-04-13",
+  "content_hash": "b7374842",
+  "hash_method": "find -type f | sort | xargs sha256sum | sha256sum | cut -c1-8",
+  "status": "SUPERSEDED",
+  "superseded_by": "gov_12989_feha_housing_remedies",
+  "superseded_note": "gov_12989_feha_housing_remedies covers §§12989.1 and 12989.2 jointly and is PUBLISHED (ADAM+EVE 2026-04-13). This parallel partial build is superseded. Steward should audit before deletion.",
+  "layers": {
+    "current_statute_text": true,
+    "current_rule": true,
+    "current_reasoning": true,
+    "historical_chain_origin": true,
+    "historical_chain_witness_record": true,
+    "cross_refs": true,
+    "provenance": true
+  },
+  "five_layer_complete": true,
+  "verified_flag": true,
+  "verified_note": "Primary source live-fetched via VernenLegal MCP (leginfo.legislature.ca.gov) on 2026-04-13; verified=true; Burnett v. Chimney Sweep case citation in steward verify queue"
+}

@@ -1,0 +1,69 @@
+HARRIS v. CAPITAL GROWTH INVESTORS XIV
+52 Cal.3d 1142 (1991)
+California Supreme Court
+Decided: June 20, 1991
+
+---
+
+FACTS:
+
+Helen Harris, a recipient of public assistance (AFDC), applied for an apartment in a residential complex operated by Capital Growth Investors. The complex refused to rent to her because she received AFDC — a form of public assistance. Harris brought an Unruh Civil Rights Act (§ 51) claim, arguing that discrimination based on receipt of public assistance violated the Act.
+
+The question: does § 51's prohibition on arbitrary discrimination based on personal characteristics extend to discrimination based on source of income (public assistance receipt)?
+
+---
+
+HOLDING:
+
+Justice Panelli wrote for a divided Court (4-3).
+
+THE HARRIS LIMITATION ON MARINA POINT:
+
+The majority held that § 51 does not cover all arbitrary discrimination based on personal characteristics. Marina Point held that the enumerated categories are illustrative of a general anti-discrimination principle, but:
+
+"[T]he Legislature did not intend the Unruh Civil Rights Act to be a comprehensive anti-discrimination statute that prohibits all arbitrary discrimination by business establishments."
+
+Section 51 was designed to prohibit discrimination based on characteristics that share a "legislative linkage" to the enumerated categories — characteristics that were the subject of historical discriminatory treatment and that implicate the equal dignity concerns that motivated civil rights legislation.
+
+SOURCE OF INCOME / ECONOMIC STATUS:
+Discrimination based on receipt of public assistance — an economic circumstance, not an immutable or historical-discriminatory characteristic — was held not to fall within § 51's scope.
+
+"Economic distinctions, without more, are not the type of personal characteristics that the Legislature intended the Unruh Civil Rights Act to cover."
+
+THE HARRIS TEST:
+After Harris, § 51 prohibits discrimination based on characteristics that:
+1. Are personal characteristics (not purely economic decisions); AND
+2. Have the kind of connection to historical discriminatory treatment and equal dignity concerns that link the characteristic to the enumerated categories in § 51
+
+---
+
+POST-HARRIS LEGISLATIVE RESPONSE:
+
+The Legislature effectively superseded Harris in certain contexts:
+- Source-of-income protections for housing: Many California cities enacted local ordinances prohibiting source-of-income discrimination. SB 329 (2019) added "source of income" as a protected characteristic for rental housing under the Fair Employment and Housing Act (FEHA/Gov. Code § 12955) — not Unruh, but FEHA.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Harris defines the outer limit of Unruh coverage:
+
+1. **What Unruh does not cover**: Pure economic status discrimination — denying services based solely on income, wealth, or government benefit receipt — is not automatically covered by § 51 under Harris.
+
+2. **What Unruh does cover**: Discrimination based on characteristics linked to the equal-dignity concerns that motivated the enumerated categories — race, sex, national origin, disability, sexual orientation, marital status, familial status (Marina Point), gender identity, age (at business establishments — separate FEHA protections apply to housing/employment).
+
+3. **Housing discrimination overlap**: For housing cases, FEHA (Gov. Code § 12955) provides broader protection than Unruh and should be pled in parallel for maximum coverage.
+
+4. **Benefits deprivation cases**: Denial of government benefits is not business-establishment discrimination under Unruh. Government benefits claims are addressed through due process claims (§ 1983), administrative mandamus (CCP § 1094.5), and writ of mandate (CCP § 1085).
+
+---
+
+SOURCE PROVENANCE:
+Citation: 52 Cal.3d 1142 (1991)
+Court: California Supreme Court
+Reporter: California Reports, Third Series, vol. 52, page 1142
+Author: Panelli, J. (4-3)
+Dissent: Mosk, J.
+Source of this text: Claude training data (knowledge cutoff August 2025). Harris v. Capital Growth Investors XIV limited Marina Point's expansion of Unruh — source of income discrimination is not covered; § 51 reaches personal characteristics with historical discriminatory significance, not mere economic status.
+Verification: Casetext / Google Scholar: "Harris v. Capital Growth Investors XIV 52 Cal.3d 1142"
+Verification status: PROPOSED — pending steward witness review

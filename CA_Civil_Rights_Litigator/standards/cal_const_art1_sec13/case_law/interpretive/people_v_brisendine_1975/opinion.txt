@@ -1,0 +1,60 @@
+PEOPLE v. BRISENDINE
+13 Cal.3d 528 (1975)
+California Supreme Court
+Decided: September 10, 1975
+
+---
+
+FACTS:
+
+Thomas Brisendine was convicted of drug possession after backpackers' packs were searched at a police checkpoint in the Cajon Pass. The officers conducted a warrantless search of the hikers' backpacks and belongings without consent, relying on a "stop and frisk" theory. Brisendine challenged the search as violating both the Fourth Amendment and Article I, Section 13 of the California Constitution.
+
+The California Supreme Court reversed the conviction, finding the search unconstitutional.
+
+---
+
+HOLDING:
+
+Chief Justice Wright wrote for the Court.
+
+CALIFORNIA'S ART. I, § 13 PROVIDES INDEPENDENT PROTECTION FROM THE FEDERAL FLOOR:
+"The California right to be free from unreasonable searches and seizures, guaranteed by Article I, Section 13, provides greater protection than the Fourth Amendment in some circumstances."
+
+California courts are not bound to interpret state constitutional protections identically to federal constitutional protections. Where the California text, history, and purpose support broader protection than the federal standard, California courts are free to provide it.
+
+"A state court is the ultimate guardian of the rights secured by its own constitution. California's constitutional protection against unreasonable searches and seizures is not a poor copy of the federal guarantee — it is an independent substantive protection."
+
+WARRANTLESS SEARCH OF BACKPACKS FAILED BOTH STANDARDS:
+The Court held that the warrantless search of Brisendine's backpack during a pedestrian encounter on a public trail was unreasonable under both the Fourth Amendment and Art. I, § 13. The state offered no basis for the intrusion beyond the officers' curiosity.
+
+THE INDEPENDENT STATE GROUNDS DOCTRINE (ESTABLISHED IN BRISENDINE):
+Brisendine was among the first cases to clearly articulate the "independent state grounds" doctrine for California:
+- A California court may rule on state constitutional grounds independently of federal constitutional analysis
+- A state constitutional ruling that does not depend on federal law is not reviewable by the U.S. Supreme Court (adequate and independent state grounds)
+- California may extend greater protections without violating federal supremacy — states set a floor below which federal standards cannot go, but California can go above the floor
+
+---
+
+SIGNIFICANCE:
+Brisendine established the framework used in People v. Disbrow (1976) and all subsequent California cases interpreting Art. I, § 13 more broadly than the Fourth Amendment. It enabled the California Supreme Court to reject the "good faith exception" (United States v. Leon) for California cases — the California exclusionary rule under Art. I, § 13 has no good faith exception.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+1. **Art. I, § 13 independent protection**: California's search and seizure protection operates independently of federal Fourth Amendment doctrine. Even where a federal qualified immunity defense might succeed, the California Art. I, § 13 claim may still be actionable under the Bane Act (§ 52.1) if the search was unreasonable.
+
+2. **No good faith exception under California exclusionary rule**: Evidence obtained through a search that violated Art. I, § 13 is excluded in California criminal proceedings even if officers acted in good faith. For the criminal case (04-23-01959), any evidence obtained through warrantless searches is excludable under state standards stricter than federal doctrine.
+
+3. **Broader protection scope**: Brisendine's independent-state-grounds holding means that even if a federal court rejects a Fourth Amendment claim on qualified immunity or good-faith grounds, a parallel Art. I, § 13 claim in California state court may succeed.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 13 Cal.3d 528 (1975)
+Court: California Supreme Court
+Reporter: California Reports, Third Series, vol. 13, page 528
+Author: Wright, C.J.
+Source of this text: Claude training data (knowledge cutoff August 2025). People v. Brisendine established California's independent state grounds doctrine for Art. I, § 13 — California's search and seizure protection is interpreted independently from the Fourth Amendment and may exceed federal protections.
+Verification: Casetext / Google Scholar: "People v. Brisendine 13 Cal.3d 528"
+Verification status: PROPOSED — pending steward witness review

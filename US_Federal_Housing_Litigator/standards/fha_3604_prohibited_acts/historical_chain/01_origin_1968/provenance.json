@@ -1,0 +1,22 @@
+{
+  "layer": "historical_chain",
+  "sublayer": "01_origin_1968",
+  "title": "Civil Rights Act of 1968, Title VIII — Fair Housing Act — Original Enactment",
+  "enacted": "1968-04-11",
+  "president": "Lyndon B. Johnson",
+  "enacting_law": "Pub. L. 90-284, 82 Stat. 73",
+  "relevant_section": "§ 804 (codified at 42 U.S.C. § 3604)",
+  "original_protected_classes": ["race", "color", "religion", "national origin"],
+  "trigger_event": "Assassination of Dr. Martin Luther King Jr., April 4, 1968",
+  "trigger_commission": "National Advisory Commission on Civil Disorders (Kerner Commission), Report February 29, 1968",
+  "legislative_precursor_blocked": "Civil Rights Act of 1966 and 1967 — both failed in Senate through filibuster",
+  "companion_case": "Jones v. Alfred H. Mayer Co., 392 U.S. 409 (1968) — decided June 17, 1968, two months after enactment; 42 U.S.C. § 1982 bars all racial property discrimination under Thirteenth Amendment enforcement power",
+  "federal_complicity_sources": [
+    "FHA Underwriting Manual 1938 — racial stability provisions",
+    "HOLC residential security maps — redlining origin",
+    "VA loan guarantee program under GI Bill, Pub. L. 78-346 (1944) — exclusion of Black veterans"
+  ],
+  "verified": false,
+  "verified_note": "Legislative history from training knowledge. Kerner Commission, Pub. L. 90-284 text, and Jones v. Mayer citation are verifiable. FHA/HOLC/VA primary sources available in National Archives.",
+  "retrieval_date": "2026-04-13"
+}

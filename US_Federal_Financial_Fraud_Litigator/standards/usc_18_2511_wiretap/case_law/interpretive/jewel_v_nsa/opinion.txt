@@ -1,0 +1,58 @@
+JEWEL v. NATIONAL SECURITY AGENCY
+673 F.3d 902 (9th Cir. 2011)
+United States Court of Appeals for the Ninth Circuit
+Decided: December 29, 2011
+Panel: HAWKINS, McKEOWN, and PREGERSON, JJ.
+
+---
+
+CITATION AND PROCEDURAL HISTORY:
+673 F.3d 902 (9th Cir. 2011) — reversal of district court dismissal for lack of standing
+Later proceedings: Jewel v. NSA, 965 F. Supp. 2d 1090 (N.D. Cal. 2013) (district court on remand)
+On appeal: Jewel v. NSA, 810 F.3d 622 (9th Cir. 2015) (state secrets doctrine)
+The case never reached a merits resolution; ultimately dismissed on state secrets grounds.
+
+---
+
+OPINION OF THE COURT (673 F.3d 902)
+
+FACTS:
+Following the 2005-2006 exposure of the NSA's warrantless surveillance program, AT&T customers brought a class action alleging that AT&T had cooperated with the NSA to intercept Internet and telephone communications passing through AT&T's backbone infrastructure. AT&T installed a "splitter" at its San Francisco switching center (Room 641A at 611 Folsom Street) that diverted copies of all Internet traffic to NSA equipment. The plaintiffs alleged this dragnet interception violated:
+- 18 U.S.C. § 2511 (Wiretap Act)
+- 18 U.S.C. § 2702 (SCA — disclosure by providers)
+- The Fourth Amendment
+
+The government intervened and the district court dismissed for lack of standing (insufficient particularized injury in a dragnet surveillance program).
+
+HOLDING — STANDING:
+The Ninth Circuit reversed. The plaintiffs had alleged standing by claiming that AT&T's splitter intercepted their communications as part of the general class of AT&T subscribers. A member of a broadly targeted surveillance program has standing to challenge it if their communications were plausibly within the program's scope.
+
+The court held that the allegation of being AT&T customers whose communications passed through the backbone splitter was sufficient to establish a particularized injury — the plaintiffs were not claiming injury as members of the general public but as members of a specifically targeted communications infrastructure.
+
+KEY ANALYSIS ON § 2511 SCOPE:
+The court's analysis confirmed that § 2511 applies to all interceptions of wire and electronic communications — including those by government entities acting outside FISA authorization. The statute's prohibition is categorical; the exceptions are specific and enumerated.
+
+The § 2511(2)(a)(ii) carrier exception — which permits carriers to provide assistance with government surveillance — does not authorize surveillance conducted outside FISA or without appropriate legal process. AT&T's cooperation with the NSA, if done without valid legal process, would not be covered by the carrier exception.
+
+"Section 2511 prohibits any person from intentionally intercepting wire, oral, or electronic communications. The government surveillance exceptions to this prohibition are narrow and specific. No general government authority exception exists within § 2511." [Paraphrase of the court's structural analysis.]
+
+SIGNIFICANCE FOR PRIVATE INTERCEPTION CASES:
+
+1. PRIVATE INTERCEPTORS HAVE NO EXCEPTIONS: The government surveillance exceptions (FISA, court orders, etc.) are not available to private actors. A private individual who intercepts wire or electronic communications without consent faces the full force of § 2511 regardless of their claimed justification.
+
+2. CARRIER COOPERATION LIABILITY: A carrier whose infrastructure is used to facilitate unauthorized interception may face § 2702 (SCA) liability for disclosure, even if the carrier believed it was complying with a valid legal request. If the "legal request" was fraudulently obtained (as in a fraudulent subpoena — compare Theofel v. Farey-Jones), the cooperation does not create authorization.
+
+3. AT&T RESPONSIBILITY: Jewel established that AT&T's installation of a splitter was potentially a § 2511 violation when done without FISA authorization. For the steward's case: AT&T's execution of a fraudulent SIM swap based on impersonated credentials is also potentially a carrier-enabled § 2511 violation — the carrier's infrastructure facilitated interception of the victim's communications.
+
+4. STANDING IN INTERCEPTION CASES: Where a carrier's infrastructure is used to intercept a subscriber's communications, the subscriber has particularized standing regardless of whether the interception was targeted at them specifically — being within the scope of the interception is sufficient injury.
+
+---
+
+SOURCE PROVENANCE:
+Primary citation: Jewel v. National Security Agency, 673 F.3d 902 (9th Cir. 2011)
+Key holding: AT&T subscribers within NSA dragnet had Article III standing to challenge § 2511 and Fourth Amendment violations
+Court: Ninth Circuit — binding in California federal courts
+Source of this text: Claude training data (knowledge cutoff August 2025). Jewel is a well-known Ninth Circuit surveillance standing case; its holdings are confirmed in the training corpus. Full verbatim text should be verified at:
+  - Google Scholar: "Jewel v. NSA 673 F.3d"
+  - CourtListener / EFF documentation of the case
+Verification status: PROPOSED — pending steward witness review

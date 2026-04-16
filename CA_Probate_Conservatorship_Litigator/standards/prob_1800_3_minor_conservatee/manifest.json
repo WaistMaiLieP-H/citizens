@@ -1,0 +1,17 @@
+{
+  "citizen": "CA_Probate_Conservatorship_Litigator",
+  "standard_id": "prob_1800_3_minor_conservatee",
+  "citation": "Cal. Prob. Code § 1800.3",
+  "popular_name": "Least Restrictive Alternative; Minor Conservatee Limitation",
+  "jurisdiction": "California",
+  "code": "PROB",
+  "section": "1800.3",
+  "build_state": "PUBLISHED",
+  "verified": true,
+  "fetch_method": "mcp__claude_ai_VernenLegal__california_get_section",
+  "fetch_date": "2026-04-13",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1800.3.&lawCode=PROB",
+  "build_date": "2026-04-13",
+  "steward": "Michael Hartmann",
+  "witness": "ADAM+EVE"
+}

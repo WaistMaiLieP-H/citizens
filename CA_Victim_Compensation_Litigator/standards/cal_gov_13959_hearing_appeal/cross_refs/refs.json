@@ -1,0 +1,13 @@
+{
+  "standard": "cal_gov_13959_hearing_appeal",
+  "refs": [
+    {"type": "substantive_companion", "target": "Gov. Code § 13955 (eligibility)", "relationship": "§ 13959(c) burden of proof addresses § 13955 eligibility elements"},
+    {"type": "substantive_companion", "target": "Gov. Code § 13956 (denial grounds)", "relationship": "§ 13959 hearings most commonly review § 13956 denials"},
+    {"type": "writ_of_mandate", "target": "CCP § 1094.5", "relationship": "Final § 13959 decisions (after reconsideration) are reviewable in superior court by writ of mandate", "anchor": "${citizens}/CA_Civil_Litigator/standards/ccp_1094_5"},
+    {"type": "constitutional_overlay", "target": "Cal. Const. Art. I § 28 (Marsy's Law)", "relationship": "Constitutional victim rights provide due process floor beneath § 13959 procedural rules", "anchor": "${citizens}/CA_Victim_Compensation_Litigator/standards/cal_const_art1_28_marsys_law"},
+    {"type": "federal_constitutional", "target": "US Const. 14th Amendment (procedural due process)", "relationship": "Federal procedural due process applies to state administrative proceedings; gross violations of § 13959 procedural rules may support § 1983 due process claim", "anchor": "${citizens}/US_Federal_Civil_Rights_Litigator/standards/42_usc_1983"},
+    {"type": "public_meeting_law", "target": "Gov. Code § 11123 (Bagley-Keene Open Meeting Act)", "relationship": "§ 13959(b) explicitly 'notwithstanding Section 11123' permits closed hearings for specific crime categories at applicant's option"},
+    {"type": "regulatory_overlay", "target": "2 CCR § 649 et seq.", "relationship": "CalVCB regulations implement § 13959 — regulatory compliance is independent appeal ground", "anchor": "${citizens}/CA_Victim_Compensation_Litigator/standards/ccr_title_2_649 (to be built)"}
+  ],
+  "generated_at_utc": "2026-04-10T23:45:00Z"
+}

@@ -1,0 +1,16 @@
+{
+  "layer": "historical_chain",
+  "stage": "01_origin_1990",
+  "standard_id": "ADA_12112_TITLE_I_EMPLOYMENT",
+  "enacting_law": "Americans with Disabilities Act of 1990, Pub. L. 101-336, Title I, § 102, 104 Stat. 331 (July 26, 1990)",
+  "signed_by": "President George H.W. Bush",
+  "signed_date": "1990-07-26",
+  "effective_date_phase_1": "1992-07-26 (employers with 25+ employees)",
+  "effective_date_phase_2": "1994-07-26 (employers with 15+ employees)",
+  "official_source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12112",
+  "verified": false,
+  "verified_note": "USC tool blocked for Title 42 at build time; text from training knowledge. Verify at uscode.house.gov.",
+  "wound_record": "Pre-ADA: private employers with no federal funding had no statutory obligation to accommodate disabled employees. EEOC estimates 43 million Americans with disabilities excluded from mainstream employment. No federal floor for the private employment sector; §504 of the Rehabilitation Act applied only to federal funding recipients.",
+  "adaaa_correction_note": "Sutton v. United Air Lines (1999) and Toyota Motor Mfg. v. Williams (2002) narrowed coverage to exclude people whose conditions were managed by mitigating measures. Congress enacted ADAAA (2008) to restore the broad coverage originally intended by the 1990 Act.",
+  "key_case": "ADAAA (Pub. L. 110-325, 2008) — Congressional restoration of broad disability definition after Supreme Court narrowing"
+}

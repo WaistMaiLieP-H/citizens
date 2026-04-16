@@ -1,0 +1,14 @@
+{
+  "standard": "pen_code_236_false_imprisonment",
+  "refs": [
+    {"type": "punishment_companion", "target": "Pen. Code § 237 (punishment)", "relationship": "§ 236 defines the offense; § 237 specifies the misdemeanor/felony punishment"},
+    {"type": "related_statute", "target": "Pen. Code § 207 (kidnapping)", "relationship": "Kidnapping adds asportation element; charged alternatively"},
+    {"type": "related_statute", "target": "Pen. Code § 236.1 (human trafficking)", "relationship": "More serious offense with commercial exploitation element"},
+    {"type": "arrest_authority", "target": "Pen. Code § 837 (citizen's arrest)", "relationship": "Lawful citizen's arrest authority can defeat § 236 element of unlawfulness", "anchor": "${citizens}/CA_Criminal_Law_Specialist/standards/pen_code_837_citizens_arrest"},
+    {"type": "civil_parallel", "target": "Common-law false imprisonment tort", "relationship": "State civil tort with similar elements; pursued in civil court"},
+    {"type": "federal_civil_rights", "target": "42 USC § 1983 (Fourth Amendment seizure)", "relationship": "Unlawful seizure by state actors is actionable as federal civil rights violation", "anchor": "${citizens}/US_Federal_Civil_Rights_Litigator/standards/42_usc_1983"},
+    {"type": "cross_citizen", "target": "CA_Law_Enforcement_Procedures_Specialist", "relationship": "Peace officer arrest authority and § 835a use of force analysis"},
+    {"type": "cross_citizen", "target": "CA_Civil_Litigator", "relationship": "Civil false imprisonment tort claims"}
+  ],
+  "generated_at_utc": "2026-04-11T01:45:00Z"
+}

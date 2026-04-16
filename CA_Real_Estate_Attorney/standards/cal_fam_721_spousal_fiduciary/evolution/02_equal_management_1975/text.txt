@@ -1,0 +1,15 @@
+CALIFORNIA CIVIL CODE § 5103 (enacted 1969, substantially amended 1975)
+Equal Management Reform — Spousal Fiduciary Duty
+
+SOURCE: Stats. 1969, ch. 1608 (initial § 5103 enactment); Stats. 1973, ch. 987 (SB 569 — equal management); Stats. 1974, ch. 1206 (technical corrections); Stats. 1975, ch. 1272 (SB 364 — definitive equal management reform)
+
+--- Civil Code § 5103 (post-1975 reform text) ---
+(a) Either spouse may enter into any transaction with the other, or with any other person, respecting property, which either might if unmarried.
+
+(b) In transactions between themselves, spouses are subject to the general rules governing fiduciary relationships that control the actions of persons occupying confidential relations with each other, as defined by the rules that govern the duties of persons occupying confidential relations with each other. This confidential relationship imposes a duty of the highest good faith and fair dealing on each spouse, and neither shall take any unfair advantage of the other.
+
+NOTE: The 1975 version of § 5103 established the "highest good faith and fair dealing" standard for the first time as an enforceable statutory duty. Earlier versions referenced "confidential relations" in the older sense but the 1975 reform gave it actual bite by coupling it with the equal management provisions that stripped the husband of exclusive control.
+
+The explicit Corporations Code cross-references (§§ 16403, 16404, 16503) and the three specific obligations (books access, information on request, accounting/trustee) were added by a later amendment — see stage 04. This 1975 text represents the core fiduciary duty formulation.
+
+PROVENANCE: Requires primary source verification. See provenance.json.

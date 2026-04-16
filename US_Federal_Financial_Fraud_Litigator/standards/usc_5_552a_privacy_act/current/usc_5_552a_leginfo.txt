@@ -1,0 +1,57 @@
+5 U.S.C. § 552a. Records maintained on individuals (Privacy Act of 1974)
+
+(b) Conditions of Disclosure.—No agency shall disclose any record which is contained in a system of records by any means of communication to any person, or to another agency, except pursuant to a written request by, or with the prior written consent of, the individual to whom the record pertains, unless disclosure of the record would be—
+
+(1) to those officers and employees of the agency which maintains the record who have a need for the record in the performance of their duties;
+
+(2) required under section 552 of this title [FOIA];
+
+(3) for a routine use as defined in subsection (a)(7) of this section and described under subsection (e)(4)(D) of this section;
+
+(4) to the Bureau of the Census for purposes of planning or carrying out a census or survey or related activity pursuant to the provisions of title 13;
+
+(5) to a recipient who has provided the agency with advance adequate written assurance that the record will be used solely as a statistical research or reporting record, and the record is to be transferred in a form that is not individually identifiable;
+
+(6) to the National Archives and Records Administration as a record which has sufficient historical or other value to warrant its continued preservation by the United States Government, or for evaluation by the Archivist of the United States or the designee of the Archivist to determine whether the record has such value;
+
+(7) to another agency or to an instrumentality of any governmental jurisdiction within or under the control of the United States for a civil or criminal law enforcement activity if the activity is authorized by law, and if the head of the agency or instrumentality has made a written request to the agency which maintains the record specifying the particular portion desired and the law enforcement activity for which the record is sought;
+
+(8) to a person pursuant to a showing of compelling circumstance affecting the health or safety of an individual if upon such disclosure notification is transmitted to the last known address of such individual;
+
+(9) to either House of Congress, or, to the extent of matter within its jurisdiction, any committee or subcommittee thereof, any joint committee of Congress or subcommittee of any such joint committee;
+
+(10) to the Comptroller General, or any of his authorized representatives, in the course of the performance of the duties of the Government Accountability Office;
+
+(11) pursuant to the order of a court of competent jurisdiction; or
+
+(12) to a consumer reporting agency in accordance with section 3711(e) of title 31.
+
+---
+
+(g) Civil Remedies.—
+
+(1) Whenever any agency—
+
+(A) makes a determination under subsection (d)(3) of this section not to amend an individual's record in accordance with his request, or fails to make such review in conformity with that subsection;
+
+(B) refuses to comply with an individual request under subsection (d)(1) of this section;
+
+(C) fails to maintain any record concerning any individual with such accuracy, relevance, timeliness, and completeness as is necessary to assure fairness in any determination relating to the qualifications, character, rights, or opportunities of, or benefits to the individual that may be made on the basis of such record, and consequently a determination is made which is adverse to the individual; or
+
+(D) fails to comply with any other provision of this section, or any rule promulgated thereunder, in such a way as to have an adverse effect on an individual;
+
+the individual may bring a civil action against the agency, and the district courts of the United States shall have jurisdiction in the matters under the provisions of this subsection.
+
+[...]
+
+(4) In any suit brought under the provisions of subsection (g)(1)(C) or (D) of this section in which the court determines that the agency acted in a manner which was intentional or willful, the United States shall be liable to the individual in an amount equal to the sum of—
+
+(A) actual damages sustained by the individual as a result of the refusal or failure, but in no case shall a person entitled to recovery receive less than the sum of $1,000; and
+
+(B) the costs of the action together with reasonable attorney fees as determined by the court.
+
+---
+NOTE: §552a(b) conditions of disclosure and §552a(g)(1) and (g)(4) civil remedy provisions are verbatim from uscode.house.gov. Full §552a text (subsections (a)-(x)) requires verification before filing.
+SOURCE: Office of the Law Revision Counsel — uscode.house.gov
+URL: https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim
+FETCHED: 2026-04-11

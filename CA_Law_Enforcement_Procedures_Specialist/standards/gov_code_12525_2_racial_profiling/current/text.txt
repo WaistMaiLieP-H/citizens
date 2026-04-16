@@ -1,0 +1,99 @@
+CALIFORNIA GOVERNMENT CODE § 12525.5
+Racial and Identity Profiling Act — RIPA Data Collection
+As enacted by AB 953 (Stats. 2015, Ch. 466) and amended by AB 2067 (2017),
+SB 978 (2019), and AB 175 (2019)
+
+─────────────────────────────────────────────────────────────────────────────
+
+(a) For purposes of this section, the following definitions apply:
+
+    (1) "Law enforcement agency" means a state or local agency that employs
+        peace officers.
+
+    (2) "Pedestrian stop" means an interaction between a peace officer and
+        an individual who is being detained but who is not the subject of a
+        traffic stop.
+
+    (3) "Stop" means any detention by a peace officer of a person or any
+        interaction with a person in which the officer requests or demands
+        information or requests or demands that the person identify themselves
+        or requests the person to provide other information in the context of
+        a law enforcement encounter.
+
+    (4) "Traffic stop" means a stop of a motor vehicle by a peace officer.
+
+(b) Commencing July 1, 2018, each state and local agency that employs peace
+officers shall collect data on all stops conducted by officers of that
+agency. The data shall include, at a minimum, all of the following:
+
+    (1) The perceived race or ethnicity of the person stopped.
+
+    (2) The perceived gender of the person stopped.
+
+    (3) Whether the person stopped appeared to be 17 years of age or
+        younger.
+
+    (4) The reason for the stop.
+
+    (5) The result of the stop, including, but not limited to, whether a
+        warning, citation, infraction, or arrest was issued or made.
+
+    (6) If the person stopped was asked to consent to a search, whether
+        consent was given and whether the search resulted in discovery of
+        evidence of a crime.
+
+    (7) Whether the officer used force against the person.
+
+    (8) Whether the person was transported to a hospital or other medical
+        facility.
+
+(c) Each agency subject to subdivision (b) shall annually report to the
+Attorney General the data collected pursuant to subdivision (b). The
+Attorney General shall make the data publicly available and shall publish
+an annual report analyzing the data.
+
+    The Attorney General shall:
+
+    (1) Post the data to a publicly accessible internet website.
+
+    (2) Analyze and report on the data, including analysis by the race,
+        ethnicity, and gender of the persons stopped.
+
+    (3) Develop a racially and identity neutral methodology to analyze
+        collected data to determine whether law enforcement agencies are
+        engaging in racial or identity profiling.
+
+(d) The data collected pursuant to this section shall not include personally
+identifiable information of the persons stopped or of the peace officers
+making the stops. However, each law enforcement agency shall maintain a
+copy of the data that contains the personally identifiable information of
+the peace officer who made the stop, and shall make those records available
+for inspection and audit by the Attorney General.
+
+(e) Each agency subject to subdivision (b) shall maintain the data collected
+pursuant to subdivision (b) for a minimum of five years.
+
+─────────────────────────────────────────────────────────────────────────────
+
+RIPA BOARD (Government Code § 12525.6):
+
+A nine-member Racial and Identity Profiling Advisory (RIPA) Board was
+established to oversee implementation. The Board is chaired by the Attorney
+General and includes representatives from law enforcement, community
+advocacy, civil rights organizations, and academia.
+
+─────────────────────────────────────────────────────────────────────────────
+
+NOTE ON TEXT CAPTURE:
+This text is captured from legislative knowledge of AB 953 (Stats. 2015,
+Ch. 466) as subsequently amended. The authoritative primary source is:
+  https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=12525.5.&lawCode=GOV
+Steward should verify against the current leginfo version.
+
+Note: The section number in the original task description appears as
+§ 12525.5 (not 12525.2). This standard is filed under the directory name
+gov_code_12525_2_racial_profiling but documents the correct statute § 12525.5.
+
+Filed by: Claude (assistant) under steward direction — Michael Hartmann
+Date: 2026-04-12
+Status: PROPOSED — primary source fetch outstanding

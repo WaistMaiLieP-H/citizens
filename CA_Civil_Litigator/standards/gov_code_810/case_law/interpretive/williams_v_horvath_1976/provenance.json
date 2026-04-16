@@ -1,0 +1,27 @@
+{
+  "case_name": "Williams v. Horvath",
+  "citation": "16 Cal.3d 834 (1976)",
+  "parallel_citations": ["129 Cal.Rptr. 453", "548 P.2d 1125"],
+  "court": "Supreme Court of California",
+  "date_decided": "1976-05-06",
+  "docket_number": "L.A. 30692",
+  "jurisdiction": "California",
+  "standard_interpreted": "Gov. Code 810 et seq. (Government Claims Act as comprehensive framework)",
+  "key_doctrine": "Government Claims Act is a comprehensive statutory scheme, not a restoration of sovereign immunity; must be read as a whole",
+  "sources": [
+    {
+      "name": "Casetext",
+      "url": "https://casetext.com/case/williams-v-horvath"
+    },
+    {
+      "name": "Google Scholar",
+      "url": "https://scholar.google.com/scholar_case?case=4889526897841601707"
+    },
+    {
+      "name": "Westlaw",
+      "url": "https://www.westlaw.com/ (subscription required)"
+    }
+  ],
+  "created_utc": "2026-04-08",
+  "created_by": "Claude (assistant) under steward direction -- Michael Hartmann, Vernen Legal Compliance"
+}

@@ -1,0 +1,66 @@
+{
+  "standard_id": "USC_18_3121_PEN_REGISTER",
+  "citizen": "US_Federal_Financial_Fraud_Litigator",
+  "version": "1.0.0",
+  "status": "PROPOSED",
+  "primary_citation": "18 U.S.C. §§3121-3127 (Pen Register Act, Title III of ECPA, Pub. L. 99-508 (1986); amended by USA PATRIOT Act, Pub. L. 107-56 (2001))",
+  "short_title": "Pen Register Act / ECPA Title III — Routing Metadata Protection; Evidence Framework (No Civil Damages)",
+  "one_line_rule": "Installing or using a pen register or trap and trace device without a court order or user consent is prohibited; the Pen Register Act covers routing metadata (who called whom, IP addresses, email headers) but NOT communication content; no private civil damages — criminal enforcement only; critical as an evidence framework for quantifying SIM swap violations under §2511 and CIPA.",
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current/LOGIC.md",
+    "reasoning": "PRESENT — current/LOGIC.md §§ WOUND (Smith v. Maryland; no constitutional protection) + DESIGN (§3121 prohibition, §3127 definitions, no civil damages) + ECPA three-title structure + SIM swap evidence value + URL content debate",
+    "historical_loss": "PRESENT — historical_chain.md + evolution/ (2 stages)",
+    "cross_references": "PRESENT — cross_refs/refs.json (4 references: §2511 Wiretap, §2701 SCA, CPNI, CFAA)",
+    "verifiable_provenance": "PRESENT — current/provenance.json + evolution provenances; verbatim text capture PENDING"
+  },
+  "evolution_chain": [
+    {
+      "stage": "01_origin_1986_ecpa",
+      "label": "Pen Register Act — ECPA Title III Original Enactment",
+      "source": "Electronic Communications Privacy Act of 1986, Pub. L. 99-508, Title III",
+      "logic_file": "evolution/01_origin_1986_ecpa/LOGIC.md"
+    },
+    {
+      "stage": "02_amendment_2001_internet_routing",
+      "label": "USA PATRIOT Act — Internet Routing Information Added",
+      "source": "USA PATRIOT Act, Pub. L. 107-56, §216 (2001)",
+      "logic_file": "evolution/02_amendment_2001_internet_routing/LOGIC.md"
+    }
+  ],
+  "case_law": [
+    {
+      "slug": "smith_v_maryland",
+      "cite": "Smith v. Maryland, 442 U.S. 735 (1979)",
+      "court": "Supreme Court of the United States",
+      "category": "foundational",
+      "key_rule": "No Fourth Amendment protection for telephone numbers dialed (pen register metadata); third-party doctrine applies; prompted Congress to create ECPA Title III (1986) statutory protection. Limited by Carpenter v. United States (2018) for comprehensive CSLI — Smith not overruled but narrowed.",
+      "verbatim_capture_status": "PENDING"
+    },
+    {
+      "slug": "in_re_application_for_pen_register",
+      "cite": "United States v. Forrester, 512 F.3d 500 (9th Cir. 2008) (URL question); In re Application for Pen Register, 396 F. Supp. 2d 747 (S.D. Tex. 2005)",
+      "court": "United States Court of Appeals for the Ninth Circuit; United States District Court, S.D. Texas",
+      "category": "interpretive",
+      "key_rule": "IP addresses and email headers = routing information (Pen Register Act); URL paths potentially content (Wiretap Act) — 9th Circuit left URL question unresolved. Critical for classification of SIM swap account access records and damages theory.",
+      "verbatim_capture_status": "PENDING"
+    }
+  ],
+  "evidence_framework_application": {
+    "no_civil_damages": "§3121 has NO civil damages provision — all civil remedies flow from §2511 (Wiretap), §2701 (SCA), and CIPA §632.7",
+    "critical_evidence_value": "Call routing records documenting SIM swap period = essential evidence for per-violation damages calculation under §2511 ($10K/event) and CIPA ($5K/event)",
+    "civil_subpoena_path": "AT&T call records obtainable through civil discovery subpoena (not just government §2703 process); routing logs show which calls were diverted during SIM swap",
+    "url_content_argument": "If SSA disability portal and financial account URL accesses during hijacked session = content under Wiretap Act → additional §2511 violations at $10,000/event beyond the base SIM swap interception theory",
+    "criminal_referral": "§3121 criminal violation by SIM swap = law enforcement referral pathway; government prosecution of McClaran for pen register violation + §2511 would provide additional civil leverage",
+    "carpenter_extension": "Carpenter v. United States (2018) logic potentially applies to comprehensive SIM swap routing surveillance — ongoing monitoring through redirected SIM may require higher legal protection analysis"
+  },
+  "outstanding_work": [
+    "Verbatim text capture: 18 U.S.C. §§3121(a)-(d), 3127(3)-(4)",
+    "Verbatim opinion capture: Smith v. Maryland, 442 U.S. 735",
+    "Verbatim opinion capture: United States v. Forrester, 512 F.3d 500",
+    "Verbatim opinion capture: Carpenter v. United States, 585 U.S. 296 (2018) — URL/metadata extension analysis",
+    "Research whether Carpenter applies to SIM swap routing records (ongoing vs. historical surveillance distinction)",
+    "Develop civil subpoena template for AT&T call records during SIM swap period (routing logs for violation counting)"
+  ],
+  "build_date": "2026-04-11",
+  "built_by": "Terminal A"
+}

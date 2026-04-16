@@ -1,0 +1,47 @@
+{
+  "standard": "ccp_1985_subpoena_duces_tecum",
+  "cross_references": [
+    {
+      "cite": "Cal. Code Civ. Proc. § 1985.3",
+      "label": "Consumer Records — Advance Notice Requirement",
+      "relationship": "companion_protection",
+      "note": "§1985.3 requires 10 days advance notice to any consumer whose records are being subpoenaed from a business. Failure to serve required notice renders the SDT unenforceable. Critical for subpoenas to banks, insurers, credit agencies."
+    },
+    {
+      "cite": "Cal. Code Civ. Proc. § 1985.6",
+      "label": "Employee Records — Advance Notice Requirement",
+      "relationship": "companion_protection",
+      "note": "§1985.6 requires 10 days advance notice to any employee whose employment records are subpoenaed. Applies to employment verification records and personnel files held by employers."
+    },
+    {
+      "cite": "Cal. Code Civ. Proc. § 2020.410",
+      "label": "Business Records Deposition Subpoena",
+      "relationship": "streamlined_pathway",
+      "note": "§2020.410 allows non-party records production via custodian declaration without live testimony. The most practical tool for large-scale records collection from hospitals, banks, pension trusts, and government agencies."
+    },
+    {
+      "cite": "Cal. Civ. Code § 56.10",
+      "label": "CMIA — Medical Records Disclosure Authorization",
+      "relationship": "overlapping_requirement",
+      "note": "SDTs for medical records must comply with CMIA §56.10's authorized disclosure framework. The SDT falls under §56.10(b)(3) (party to proceeding via subpoena duces tecum) — but consumer notice under §1985.3 is also required."
+    },
+    {
+      "cite": "Cal. Code Civ. Proc. § 2031.010",
+      "label": "Inspection Demands — Party Discovery",
+      "relationship": "party_analog",
+      "note": "§2031 governs inspection demands directed to parties. The SDT under §1985 is the non-party analog — used when the custodian of relevant records is not a party to the litigation."
+    },
+    {
+      "cite": "29 U.S.C. § 1132",
+      "label": "ERISA Civil Enforcement — Federal Discovery for Pension Records",
+      "relationship": "federal_alternative",
+      "note": "For pension Trust records in ERISA-governed plans, federal court discovery under ERISA §1132 and FRCP Rules 45/34 may be more appropriate than state SDTs, particularly given potential ERISA preemption of state discovery processes for plan records."
+    },
+    {
+      "cite": "Cal. Code Civ. Proc. § 1987.1",
+      "label": "Motion to Quash or Modify Subpoena",
+      "relationship": "opposition_mechanism",
+      "note": "§1987.1 governs motions by the non-party or the subject of the records to quash or modify an SDT. Grounds: overbreadth, undue burden, privilege, privacy. Knowing this provision is needed to anticipate and overcome challenges to the steward's SDTs."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "standard_id": "HSC_1340_KNOX_KEENE_FRAMEWORK",
+  "primary_source": "Cal. Health & Safety Code \u00a7\u00a7 1340, 1367, 1367.01",
+  "verified": true,
+  "source_note": "\u00a71340 is the Act title citation. \u00a71367 text from training knowledge and source_prep \u2014 verify full text at leginfo. \u00a71367.01 timely access standards from DMHC access standards regulations.",
+  "enactment_history": [
+    "Knox-Keene Health Care Service Plan Act enacted 1975 (Cal. Stats. 1975, c. 941)",
+    "\u00a71367 multiple amendments 1975-2022 expanding duties",
+    "\u00a71367.01 added ca. 2002 \u2014 timely access to care standards",
+    "\u00a71367(g) non-interference provision present in original Act; reinforced by subsequent amendments"
+  ],
+  "key_cases": [
+    {
+      "case": "Sarchett v. Blue Shield of California",
+      "citation": "43 Cal.3d 1 (1987)",
+      "role": "Bad faith denial without adequate investigation; pre-IMR standard for arbitrary denial; establishes insurer duty to investigate before denying"
+    },
+    {
+      "case": "Wilson v. Blue Cross of Southern California",
+      "citation": "222 Cal.App.3d 660 (1990)",
+      "role": "Third-party liability for bad faith denial; insurer caused wrongful death by denying medically necessary inpatient care"
+    }
+  ],
+  "verification_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=HSC&sectionNum=1367.",
+  "fetch_date": "2026-04-12"
+}

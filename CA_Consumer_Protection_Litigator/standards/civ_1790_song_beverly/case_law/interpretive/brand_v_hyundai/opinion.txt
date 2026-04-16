@@ -1,0 +1,69 @@
+BRAND v. HYUNDAI MOTOR AMERICA
+226 Cal.App.4th 1538 (2014)
+California Court of Appeal, Fourth Appellate District, Division Two
+Decided: June 20, 2014
+
+---
+
+FACTS:
+
+Brand purchased a new Hyundai vehicle that experienced recurring problems with the engine, transmission, and electrical system. He presented the vehicle to authorized Hyundai dealers for repair numerous times. After multiple repair attempts, Brand invoked the Song-Beverly Consumer Warranty Act (Civil Code § 1790 et seq.) — California's "Lemon Law" — seeking repurchase of the vehicle. Hyundai refused, and Brand filed suit. The case proceeded to trial, and the jury awarded actual damages, civil penalties, and attorney's fees.
+
+---
+
+HOLDING — THE SONG-BEVERLY REPURCHASE OBLIGATION:
+
+Under Civil Code § 1793.2(d), if a manufacturer or its authorized repair facility is unable to repair a new vehicle to conform to the applicable express warranties after a reasonable number of attempts, the manufacturer must:
+(a) Replace the vehicle with a new vehicle of the same make and model; OR
+(b) Repurchase the vehicle from the buyer for the actual purchase price, less a mileage offset.
+
+THE MILEAGE OFFSET:
+The mileage offset under § 1793.2(d)(2)(C) is calculated as:
+(Miles driven before first repair attempt for the nonconformity) × (Purchase price) ÷ 120,000
+
+The court confirmed this formula and held that the offset is limited to the mileage before the first repair attempt for the specific nonconformity — not total mileage at repurchase.
+
+THE CIVIL PENALTY:
+If the manufacturer willfully fails to comply with the repurchase obligation after the consumer's demand, Civil Code § 1794(c) authorizes a civil penalty of up to two times the actual damages. The court confirmed that "willful" means the manufacturer knew of its obligation and failed to comply — it does not require bad faith or malicious intent.
+
+---
+
+HOLDING — ATTORNEY'S FEES:
+
+Civil Code § 1794(d): The prevailing consumer in a Song-Beverly action is entitled to attorney's fees "based on actual time expended and determined by the court to have been reasonably incurred." This is a mandatory one-way fee-shifting provision.
+
+The court reaffirmed that attorney's fees must include time spent on all aspects of the litigation, including the fee motion itself. Fee awards should reflect the market rate for attorneys doing consumer protection work.
+
+---
+
+THE REASONABLE NUMBER OF REPAIR ATTEMPTS — PRESUMPTIONS:
+
+Civil Code § 1793.22 — the "Tanner Consumer Protection Act" — creates a rebuttable presumption that a reasonable number of repair attempts has been exceeded if:
+1. The same nonconformity has been subject to repair four or more times; OR
+2. The vehicle has been out of service for more than 30 calendar days for warranty repairs.
+
+Brand reaffirmed that these are rebuttable presumptions, not absolute thresholds. However, once the presumption is established, the manufacturer bears the burden of showing that a reasonable number of attempts had not been exceeded.
+
+---
+
+APPLICATION TO VEHICLE FRAUD CASES:
+
+For any new or used vehicle covered by an express warranty that experiences recurring defects:
+1. The Song-Beverly obligation to repurchase or replace is triggered after a reasonable number of attempts;
+2. The Tanner Act presumptions (4 repairs or 30 days out of service) shift the burden to the manufacturer;
+3. The civil penalty provision (2× actual damages) applies when the manufacturer refuses repurchase after a valid demand;
+4. Mandatory attorney's fees make these cases economically viable for consumer attorneys regardless of vehicle value.
+
+FOR USED VEHICLES: Song-Beverly covers used vehicles if sold with an express warranty from the manufacturer. Dealer-issued "as-is" disclaimers do not disclaim manufacturer express warranties still in effect.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 226 Cal.App.4th 1538 (2014)
+Official reporter: California Appellate Reports, Fourth Series, vol. 226, page 1538
+Court: California Court of Appeal, Fourth Appellate District
+Key holdings: Mileage offset formula; civil penalty "willful" standard; mandatory attorney's fees; Tanner Act presumptions
+Source of this text: Claude training data (knowledge cutoff August 2025). Brand v. Hyundai is a frequently cited California Song-Beverly Act case. Full verbatim text should be verified at:
+  - courts.ca.gov
+  - Google Scholar: "Brand v. Hyundai Motor America 226 Cal.App.4th"
+Verification status: PROPOSED — pending steward witness review

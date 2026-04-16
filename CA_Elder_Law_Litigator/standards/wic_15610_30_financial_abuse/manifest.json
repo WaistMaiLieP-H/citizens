@@ -1,0 +1,12 @@
+{
+  "citizen": "CA_Elder_Law_Litigator",
+  "standard_id": "wic_15610_30_financial_abuse",
+  "citation": "Cal. Welf. & Inst. Code § 15610.30",
+  "popular_name": "Elder Financial Abuse — Definition",
+  "jurisdiction": "California", "code": "WIC", "section": "15610.30",
+  "build_state": "PUBLISHED", "verified": true,
+  "fetch_method": "mcp__claude_ai_VernenLegal__california_get_section",
+  "fetch_date": "2026-04-13",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=15610.30.&lawCode=WIC",
+  "build_date": "2026-04-13", "steward": "Michael Hartmann", "witness": "ADAM+EVE"
+}

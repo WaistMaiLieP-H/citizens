@@ -1,0 +1,15 @@
+{
+  "evolution_stage": "01_origin_1872",
+  "standard_id": "CAL_FAM_1102",
+  "description": "1872 California Civil Code § 172 — husband-only management of community real property",
+  "enacted": "1872-03-21",
+  "source": "California Civil Code (Deering's), enacted 1872",
+  "primary_source_url": "https://www.legislature.ca.gov/",
+  "retrieval_method": "Historical legal research — requires primary source verification against 1872 California Civil Code",
+  "verification_status": "REQUIRES_PRIMARY_SOURCE_VERIFICATION",
+  "verification_note": "Verify at California State Archives or Bancroft Library (UCB). HathiTrust and Google Books have 1872 California Civil Code scans available digitally.",
+  "html_sha256": null,
+  "fetch_timestamp": "2026-04-11T00:00:00Z",
+  "fetch_tool": "historical research",
+  "retrieval_steward": "Claude (assistant) under steward direction — Michael Hartmann"
+}

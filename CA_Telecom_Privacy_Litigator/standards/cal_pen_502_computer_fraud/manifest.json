@@ -1,0 +1,50 @@
+{
+  "standard_id": "CAL_PEN_502",
+  "title": "Cal. Penal Code § 502 — Comprehensive Computer Data Access and Fraud Act",
+  "short_name": "California Computer Data Access and Fraud Act",
+  "citation": "Cal. Penal Code § 502",
+  "jurisdiction": "California",
+  "court": "California Superior Court (criminal + civil private right of action § 502(e))",
+  "type": "Statute",
+  "domain": "computer fraud, unauthorized access, data theft, SIM swap criminal liability",
+  "enacted": "1979",
+  "origin_act": "SB 1012 (Chapter 858, Statutes of 1979)",
+  "last_material_amendment": "SB 1386 / AB 1805 (2012 and subsequent years)",
+  "current_version_date": "2022-01-01",
+  "positive_law": true,
+  "build_state": "PROPOSED",
+  "witness_state": "AWAITING-STEWARD",
+  "filed_at_utc": "2026-04-11T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "html_sha256": "PENDING_VERIFICATION",
+  "evolution_chain_hash": "PENDING_VERIFICATION",
+  "evolution_stages": [
+    "01_origin_1979",
+    "02_amendment_1988",
+    "03_amendment_1998",
+    "04_current"
+  ],
+  "cases_documented": [
+    "people_v_childs_2013"
+  ],
+  "cases_to_add": [
+    "People v. Lawton (2002) — § 502(c)(2) unauthorized copying; access without permission",
+    "Facebook Inc. v. Power Ventures (N.D. Cal. 2012) — civil § 502(e) private right of action; IP blocking as revocation of authorization"
+  ],
+  "cross_refs": [
+    "USC_18_1030_CFAA",
+    "CAL_PEN_530_5_IDENTITY_THEFT",
+    "CAL_PEN_529_FALSE_PERSONATION",
+    "CAL_CIV_1798_80"
+  ],
+  "steward_relevance": "Ryan McClaran (IT operator) and the ward system's digital surveillance apparatus used unauthorized computer access against the steward. § 502(c) criminal prosecution + § 502(e) civil cause of action for compensatory damages + injunctive relief. Device admin control, proxy networks, and SIM swap-enabled account access are all § 502(c)(7) violations (unauthorized access to computer system).",
+  "first_step_triage": "Document each unauthorized access event: what system was accessed (AT&T account, email, phone), when, by what method, and who had authorization. § 502(c)(7) is the broadest provision — 'knowingly and without permission accesses or causes to be accessed any computer system.' Does not require financial loss for criminal liability.",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "version": "0.1.0-witnessed-by-herald",
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

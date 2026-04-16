@@ -1,0 +1,12 @@
+BALISTRERI v. PACIFICA POLICE DEPARTMENT
+855 F.2d 1421
+United States Court of Appeals, Ninth Circuit, 1988
+
+FACTS:
+Jena Balistreri repeatedly called Pacifica PD for help after her husband assaulted her. Officers repeatedly failed to respond adequately, failed to arrest despite probable cause, and failed to enforce a restraining order. When she sued under 42 U.S.C. § 1983, the district court dismissed. The Ninth Circuit reversed.
+
+HOLDING — Cal. Pen. Code § 836 / 42 U.S.C. § 1983:
+The Ninth Circuit held that a plaintiff states a § 1983 equal protection claim when law enforcement officers systematically fail to enforce mandatory DV arrest statutes against one class of perpetrators (domestic abusers targeting women). The court held that when California has imposed mandatory DV enforcement duties through statutes like § 836, consistent non-enforcement of those duties can constitute deliberate indifference to constitutional rights and equal protection violations. The mandatory nature of § 836 is central: if the Legislature made arrest mandatory, officers cannot exercise discretion to not arrest.
+
+SIGNIFICANCE:
+This is the foundational Ninth Circuit case for § 1983 DV enforcement failure claims. It directly connects California's mandatory arrest statute (§ 836) to federal constitutional liability. For the steward's federal complaint, Balistreri is the anchor case: the pattern of APD and CCCSO non-enforcement of mandatory DV provisions during 2009-2025 maps directly onto the theory this court sustained. The case was decided in the same Ninth Circuit that governs NDCA Oakland — the steward's intended filing jurisdiction.

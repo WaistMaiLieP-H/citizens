@@ -1,0 +1,14 @@
+{
+  "standard_id": "USC_18_1030_CFAA",
+  "primary_source": "18 U.S.C. §1030",
+  "enacted": "Counterfeit Access Device and Computer Fraud and Abuse Act of 1984, Pub. L. 98-473, §2102(a), 98 Stat. 2190",
+  "current_version_source": "18 U.S.C. §1030 as amended through the USA PATRIOT Act of 2001 (Pub. L. 107-56) and Identity Theft Enforcement and Restitution Act of 2008 (Pub. L. 110-326)",
+  "codification": "Title 18 (Crimes and Criminal Procedure), Part I (Crimes), Chapter 47 (Fraud and False Statements), §1030",
+  "civil_action": "§1030(g) — compensatory damages + injunctive/equitable relief; $5,000 loss threshold for private civil action",
+  "fetch_method": "WebFetch — uscode.house.gov official source",
+  "fetch_timestamp_utc": "2026-04-11T00:00:00Z",
+  "retrieval_steward": "Claude (assistant) under direction of Michael Hartmann",
+  "verbatim_capture_status": "COMPLETE — usc_18_1030_leginfo.txt contains verbatim text of §1030(a)(2), (a)(4), (a)(5), and (g); full §1030(a) enumeration requires verification",
+  "txt_sha256": "2b521110b44b303a6cc4ef176b07ad88c872a0845cf02d0756eb987cf3ab5266",
+  "build_date": "2026-04-11"
+}

@@ -1,0 +1,84 @@
+{
+  "standard_id": "USC_18_1343_WIRE_FRAUD",
+  "citizen": "US_Federal_Financial_Fraud_Litigator",
+  "version": "0.1.0-proposed",
+  "filed_at_utc": "2026-04-11T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "PROPOSED",
+  "build_method": "Logical Delta (LOGIC.md at each evolution stage)",
+  "primary_citation": {
+    "code": "18 USC",
+    "section": "§1343",
+    "popular_name": "Wire Fraud",
+    "jurisdiction": "Federal",
+    "original_enactment": "Act of June 25, 1952, ch. 879, §18(a), 66 Stat. 722",
+    "effective": "1952-06-25",
+    "companion_statute": "18 USC §1341 (Mail Fraud) — identical structure",
+    "companion_honest_services": "18 USC §1346 (enacted 1988) — bribery/kickback honest services"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current/LOGIC.md documents 3 elements (scheme to defraud property, materiality, wire in furtherance), specific intent, sentencing, civil RICO predicate pathway",
+    "reasoning": "PRESENT — LOGIC.md at each evolution stage documents the wound (interstate telephone/radio fraud beyond mail fraud reach) and the logical structure",
+    "historical_loss": "PRESENT — historical_chain.md documents the 1952 mirror-statute origin, 35-year honest-services expansion, McNally contraction, §1346 restoration, Skilling/Kelly narrowing",
+    "cross_references": "PRESENT — refs.json links to §1028 (companion ID theft), §1028A (enhancement), civil RICO (predicate), FCRA (downstream), Treasury and crypto case bindings",
+    "verifiable_provenance": "PARTIAL — provenance.json files at each stage; primary-source capture PENDING"
+  },
+  "evolution_chain": [
+    {"stage": "01_origin_1952", "folder": "evolution/01_origin_1952/", "status": "LOGIC_BUILT"},
+    {"stage": "02_mcnally_1346_1987_1988", "folder": "evolution/02_mcnally_1346_1987_1988/", "status": "LOGIC_BUILT"},
+    {"stage": "03_current", "folder": "current/", "status": "LOGIC_BUILT"}
+  ],
+  "case_law": {
+    "uphold": [],
+    "strike": [],
+    "interpretive": [
+      {
+        "slug": "carpenter_v_united_states",
+        "cite": "484 US 19 (1987)",
+        "rule": "'Property' includes intangible confidential business information — supports identity-credentials-as-property theory",
+        "files": ["holding.md", "provenance.json", "statute_version_cited.md"],
+        "status": "BUILT"
+      },
+      {
+        "slug": "neder_v_united_states",
+        "cite": "527 US 1 (1999)",
+        "rule": "Materiality is an element of §1343; natural-tendency-to-influence standard; identity misrepresentations inherently material",
+        "files": ["holding.md", "provenance.json", "statute_version_cited.md"],
+        "status": "BUILT"
+      },
+      {
+        "slug": "kelly_v_united_states",
+        "cite": "590 US 391 (2020)",
+        "rule": "Scheme must target property; regulatory-authority schemes not covered; does not threaten financial property fraud cases",
+        "files": ["holding.md", "provenance.json", "statute_version_cited.md"],
+        "status": "BUILT"
+      }
+    ]
+  },
+  "cross_refs_path": "cross_refs/refs.json",
+  "historical_chain_path": "historical_chain.md",
+  "operational_notes_for_steward_cases": {
+    "wire_fraud_pleading_checklist": [
+      "Identify the scheme: what was the fraudulent plan and who devised it?",
+      "Identify the property object: what money/property was the scheme designed to obtain/deprive?",
+      "Identify the material misrepresentation: what false statement/omission was made? Is it material (would a reasonable person care)?",
+      "Identify each wire communication: date, medium (phone/email/EFT/online), content/purpose, interstate nexus",
+      "Map specific intent: evidence that the actor knew the representations were false and intended to defraud"
+    ],
+    "count_strategy": "Each wire communication in furtherance of the scheme = one §1343 count. In a complex identity theft scheme with multiple electronic account openings, wire transfers, and electronic inquiries, the count exposure can be very high. This drives plea leverage and referral priority.",
+    "rico_stacking": "Multiple §1343 counts across Treasury + crypto + ChexSystems + Hillberg constitute related predicate acts satisfying RICO's pattern + continuity requirements. See civil_rico_1961_1968 standard for treble damages pathway.",
+    "criminal_referral_targets": [
+      "FBI - Internet Crime Complaint Center (IC3) at ic3.gov for all wire fraud + identity theft",
+      "IRS Criminal Investigation for tax-related wire fraud (IRS records case)",
+      "Treasury Inspector General for Treasury Securities fraud",
+      "CFPB for financial institution fraud via wire (ChexSystems downstream)"
+    ]
+  },
+  "outstanding_work": [
+    "Primary-source opinion text for Carpenter, Neder, Kelly",
+    "Second-mouth witness review",
+    "Add case: United States v. Skilling, 561 US 358 (2010) — §1346 honest services limitation",
+    "Add case: Ciminelli v. United States, 598 US 306 (2023) — right-to-control theory rejected (Second Circuit theory of wire fraud covering loss of right to control assets dismissed as without textual basis)"
+  ],
+  "witness_status": "AWAITING_STEWARD_WITNESS"
+}

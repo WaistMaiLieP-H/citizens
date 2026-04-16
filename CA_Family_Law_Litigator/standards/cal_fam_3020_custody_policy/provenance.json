@@ -1,0 +1,18 @@
+{
+  "standard_id": "CA_FAM_3020_CUSTODY_POLICY",
+  "provenance_record_filed_at_utc": "2026-04-08T14:50:00Z",
+  "fetcher_software": "curl with sha256sum",
+  "fetcher_operator": "Claude (assistant) under steward direction (Michael Hartmann)",
+  "fetches": [
+    {
+      "artifact_local_path": "current/cal_fam_3020_leginfo.html",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3020.&lawCode=FAM",
+      "source_authority": "California Legislative Information (leginfo.legislature.ca.gov), maintained by the Office of Legislative Counsel of California",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-08T14:50:00Z",
+      "fetch_method": "curl -sSL --max-time 60",
+      "sha256": "53f9bf7383b1f8215913f15c0cc05b10e48f7ee0c75ea7f4d597a32bfd00194c",
+      "content_description": "Custody Policy \u2014 Health/Safety/Welfare Primary; Frequent and Continuing Contact; Conflict-Resolution Rule"
+    }
+  ]
+}

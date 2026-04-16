@@ -1,0 +1,866 @@
+{
+  "path_anchors": {
+    "_comment": "Symbolic anchors. Any string in this Citizen's records of the form ${name}/... resolves to anchors[name] + '/...'. To relocate a bucket, edit one line here. Future readers (including future Claude sessions) MUST consult this block before assuming an absolute path.",
+    "familylaw": "/home/vernenlegal/FamilyLaw",
+    "nonfamilylaw": "/home/vernenlegal/NonFamilyLaw",
+    "citizens": "/home/vernenlegal/citizens"
+  },
+  "citizen": "CA_Family_Law_Litigator",
+  "tether_version": "0.3.1-standards-migrated-registered",
+  "tether_lifecycle": {
+    "0.1.0-initial": "2026-04-08 — initial filing, 18 standards verbatim-extracted, 9 cases bound",
+    "0.2.0-adam-pass": "2026-04-14 — ADAM witness pass on all 18 standards; 9 case_workflow scaffolds + federal_1983 workflow built; awaiting EVE countersignature",
+    "0.3.0-orphan-migration": "2026-04-15 — EVE orphan-migration pass: 6 orphan standards (FAMCODE-§217, §2030, §3027, §3048, §3100, §3170) migrated from flat .md files into full five-layer manifest directories under standards/cal_fam_*/; each manifest carries ADAM + EVE dual witness block; prior .md orphans deleted after migration; bound_directly registry expanded 18 → 24 this patch. See EVE handoff EVE_COUNTERSIGN_2026-04-15.md and historical_chain/07_current.json re-audit. ADAM+EVE witness chain per each manifest's dual_witness block; tether patch registers the bindings so CUSTOS can resolve manifests forensically.",
+    "0.3.1-version-string-drift-reconciled": "2026-04-15 — EVE synced 18 pre-existing bound_directly version strings to their respective manifest.json version fields, resolving drift left from the 2026-04-14 ADAM publication pass (where manifests received '-adam-eve-published' suffix but tether kept the pre-publication strings). No standard content changed; tether registry now matches on-disk manifest versions for all 24 entries. Full sync log attached as bound_directly_version_sync_log_20260415."
+  },
+  "filed_at_utc": "2026-04-08T17:55:00Z",
+  "updated_at_utc": "2026-04-15T07:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "purpose": "Explicit binding manifest. The CA_Family_Law_Litigator Citizen's working memory is bounded by the artifacts enumerated below. Any claim the Citizen makes must trace to one of these artifacts. Any task the Citizen performs that requires information outside this set must be refused with reasoning, or paused until the tether is updated.",
+  "blueprints_inherited": {
+    "from": [
+      "${citizens}/ADAM/dossier.md",
+      "${citizens}/ADAM/skills.md",
+      "${citizens}/EVE/dossier.md",
+      "${citizens}/EVE/skills.md"
+    ],
+    "blueprints": [
+      "Triple Constraint (Governing Guidelines / Standards of Creation / Standard of Care)",
+      "Five-Layer Bar (Rule + Reasoning + Historical Loss + Cross-References + Verifiable Provenance)",
+      "Two-Witness Rule (no artifact published without a second mouth)",
+      "Hash Chain + Anchor (every artifact hashed at production with provenance)"
+    ]
+  },
+  "standards": {
+    "bound_directly": [
+      {
+        "standard_id": "CA_FAMILY_CODE_3011_BEST_INTEREST",
+        "manifest_path": "${citizens}/CA_Family_Law_Litigator/standards/family_code_3011_best_interest/manifest.json",
+        "verbatim_text_path": "${citizens}/CA_Family_Law_Litigator/standards/family_code_3011_best_interest/current/fam_3011_leginfo.txt",
+        "html_sha256": "edc7e36f29f8ebaa65eba192322cac0f90819cc61bb03aba08b6f8bee2b72a69",
+        "version": "0.2.0-verbatim-and-steward-audited-adam-eve-published",
+        "audit_status": "8 factor audits, 2 CRITICAL ((a)(2)(B) corroboration, (a)(5)(A) written reasons)"
+      },
+      {
+        "standard_id": "CA_FAM_3020_CUSTODY_POLICY",
+        "manifest_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_fam_3020_custody_policy/manifest.json",
+        "verbatim_text_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_fam_3020_custody_policy/current/cal_fam_3020_leginfo.txt",
+        "html_sha256": "53f9bf7383b1f8215913f15c0cc05b10e48f7ee0c75ea7f4d597a32bfd00194c",
+        "version": "0.2.0-substance-and-steward-audited-second-seed-adam-eve-published",
+        "audit_status": "5 factor audits, 1 CRITICAL ((c) safety-of-all-family-members)"
+      },
+      {
+        "standard_id": "CA_FAM_6203_DVPA_ABUSE_DEFINITION",
+        "manifest_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_fam_6203_dvpa_abuse_definition/manifest.json",
+        "verbatim_text_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_fam_6203_dvpa_abuse_definition/current/cal_fam_6203_leginfo.txt",
+        "html_sha256": "6819693aa157c7a0f97f232be98d46e8f518db71cb91b8b85600973549bea036",
+        "version": "0.2.0-substance-and-steward-audited-second-seed-adam-eve-published",
+        "audit_status": "5 factor audits, 2 CRITICAL ((a)(2)(B) bridge to Family Code § 3011, OPD records pickup combined audit)"
+      },
+      {
+        "standard_id": "CA_FAM_6320_DVPA_ENJOINABLE_BEHAVIORS",
+        "manifest_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_fam_6320_dvpa_enjoinable_behaviors/manifest.json",
+        "verbatim_text_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_fam_6320_dvpa_enjoinable_behaviors/current/cal_fam_6320_leginfo.txt",
+        "html_sha256": "086e03e133cb08d82ed42cfe3fc30e0ce001bd33302576b074a41ce475b85ab9",
+        "version": "0.2.0-verbatim-and-steward-audited-adam-eve-published",
+        "audit_status": "6 factor audits, 1 CRITICAL ((c) third-party orchestration capture from SB 50 effective 2026-01-01 — potentially enables affirmative DVRO petition by steward against Christina based on Christina-Hillberg-McClaran orchestration pattern)"
+      },
+      {
+        "standard_id": "CA_FAM_3164_MEDIATOR_QUALIFICATIONS",
+        "manifest_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_fam_3164_mediator_qualifications/manifest.json",
+        "verbatim_text_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_fam_3164_mediator_qualifications/current/cal_fam_3164_leginfo.txt",
+        "html_sha256": "a6194b6d7c54d64331a6f160e2407800ad9a31fe7c84da0cc719d119c044bba5",
+        "version": "0.2.0-verbatim-and-steward-audited-adam-eve-published",
+        "audit_status": "Mediator-qualifications anchor — § 3164(b) 'shall meet § 1815' requirement is the load-bearing claim of the Ajaniku PRA letter; original 1993 enactment now primary-source verified at vol1 PDF p1897"
+      },
+      {
+        "standard_id": "CA_FAM_1815_COUNSELOR_OF_CONCILIATION_QUALIFICATIONS",
+        "manifest_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_fam_1815_counselor_qualifications/manifest.json",
+        "verbatim_text_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_fam_1815_counselor_qualifications/current/cal_fam_1815_leginfo.txt",
+        "html_sha256": "bba2be733fb9f5b80422035cedfe55c73060c842a2b961ced79b267281d28c39",
+        "version": "0.2.0-verbatim-and-steward-audited-adam-eve-published",
+        "audit_status": "The seven qualification elements imported by § 3164(b); element (7) routes to § 1816 DV training"
+      },
+      {
+        "standard_id": "CA_FAM_1816_MEDIATOR_DV_TRAINING",
+        "manifest_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_fam_1816_mediator_dv_training/manifest.json",
+        "verbatim_text_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_fam_1816_mediator_dv_training/current/cal_fam_1816_leginfo.txt",
+        "html_sha256": "9236d87657985d76ec8d702a8ba724eafd908fb1befb1a461bd5a36158a37816",
+        "version": "0.2.0-verbatim-and-steward-audited-adam-eve-published",
+        "audit_status": "16-hour basic + 4-hour annual + § 1816(g) court-notification requirement; the PRA letter request #4 targets these certificates"
+      },
+      {
+        "standard_id": "CA_PEN_836_ARREST_AUTHORITY",
+        "manifest_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_pen_836_arrest_authority/manifest.json",
+        "verbatim_text_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_pen_836_arrest_authority/current/cal_pen_836_leginfo.txt",
+        "version": "0.2.0-verbatim-extracted-adam-eve-published",
+        "audit_status": "Verbatim extracted. (c)(1) mandatory DVRO arrest; (c)(3) dominant aggressor analysis; (d) DV assault arrest"
+      },
+      {
+        "standard_id": "CA_PEN_11165_6_CHILD_ABUSE_DEFINITION",
+        "manifest_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_pen_11165_6_child_abuse_definition/manifest.json",
+        "verbatim_text_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_pen_11165_6_child_abuse_definition/current/cal_pen_11165_6_leginfo.txt",
+        "version": "0.2.0-verbatim-extracted-adam-eve-published",
+        "audit_status": "Verbatim extracted. Cross-referenced by Family Code § 3011(b) for 'abuse against the child' definition"
+      },
+      {
+        "standard_id": "CA_PEN_13701_LE_DV_RESPONSE",
+        "manifest_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_pen_13701_le_dv_response/manifest.json",
+        "verbatim_text_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_pen_13701_le_dv_response/current/cal_pen_13701_leginfo.txt",
+        "version": "0.2.0-verbatim-extracted-adam-eve-published",
+        "audit_status": "Verbatim extracted. (b) mandatory arrest on PO violation; (c) enumerated DV response standards; companion to § 836(c)"
+      },
+      {
+        "standard_id": "CA_FAM_3046_ABSENCE_DV",
+        "manifest_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_fam_3046_absence_dv/manifest.json",
+        "verbatim_text_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_fam_3046_absence_dv/current/cal_fam_3046_leginfo.txt",
+        "version": "0.2.0-verbatim-extracted-adam-eve-published",
+        "audit_status": "Verbatim extracted. (a)(2) absence due to DV not held against parent; (c)(1) does NOT apply to party with PO against them"
+      },
+      {
+        "standard_id": "CA_FAM_6321_DVRO_EXCLUSION",
+        "manifest_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_fam_6321_dvro_exclusion/manifest.json",
+        "verbatim_text_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_fam_6321_dvro_exclusion/current/cal_fam_6321_leginfo.txt",
+        "version": "0.2.0-verbatim-extracted-adam-eve-published",
+        "audit_status": "Verbatim extracted. (b) three-part showing for exclusion: right to possession + assault/threat + harm would result"
+      },
+      {
+        "standard_id": "CA_FAM_6323_DVRO_CUSTODY_VISITATION",
+        "manifest_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_fam_6323_dvro_custody_visitation/manifest.json",
+        "verbatim_text_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_fam_6323_dvro_custody_visitation/current/cal_fam_6323_leginfo.txt",
+        "version": "0.2.0-verbatim-extracted-adam-eve-published",
+        "audit_status": "Verbatim extracted. (a) temporary custody in DVRO; (c) transfer conditions; (d) third-person-present or suspension/denial"
+      },
+      {
+        "standard_id": "CA_CIV_52_1_BANE_ACT",
+        "manifest_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_civ_52_1_bane_act/manifest.json",
+        "verbatim_text_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_civ_52_1_bane_act/current/cal_civ_52_1_leginfo.txt",
+        "version": "0.2.0-verbatim-extracted-adam-eve-published",
+        "audit_status": "Verbatim extracted. (b)-(c) threat/intimidation/coercion interfering with rights; (i) attorney fees; (n) peace officer immunity waiver"
+      },
+      {
+        "standard_id": "CA_CCP_1005_MOTION_NOTICE",
+        "manifest_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_ccp_1005_motion_notice/manifest.json",
+        "verbatim_text_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_ccp_1005_motion_notice/current/cal_ccp_1005_leginfo.txt",
+        "version": "0.2.0-verbatim-extracted-adam-eve-published",
+        "audit_status": "Verbatim extracted. (b) 16 court days + mailing extensions; opposition 9 court days; reply 5 court days"
+      },
+      {
+        "standard_id": "CA_CCP_2015_5_DECLARATION_PERJURY",
+        "manifest_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_ccp_2015_5_declaration_perjury/manifest.json",
+        "verbatim_text_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_ccp_2015_5_declaration_perjury/current/cal_ccp_2015_5_leginfo.txt",
+        "version": "0.2.0-verbatim-extracted-adam-eve-published",
+        "audit_status": "Verbatim extracted. Unsworn declaration has 'like force and effect' if certified under penalty of perjury + signed + dated"
+      },
+      {
+        "standard_id": "CA_CRC_5_210_CUSTODY_MEDIATION",
+        "manifest_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_crc_5_210_custody_mediation/manifest.json",
+        "verbatim_text_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_crc_5_210_custody_mediation/current/cal_crc_5_210_courts_ca_gov.txt",
+        "version": "0.2.0-substance-and-steward-audited-first-seed-adam-eve-published",
+        "audit_status": "Verbatim extracted. (d) mediator competence/impartiality; (e)(6) abuse suspension; (f) training per §§ 1815/1816; (g) certificate requirements; (h) 12 ethics standards"
+      },
+      {
+        "standard_id": "CA_CRC_5_215_DV_PROTOCOL",
+        "manifest_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_crc_5_215_dv_protocol/manifest.json",
+        "verbatim_text_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_crc_5_215_dv_protocol/current/cal_crc_5_215_courts_ca_gov.txt",
+        "version": "0.2.0-substance-and-steward-audited-first-seed-adam-eve-published",
+        "audit_status": "Verbatim extracted. (d) DV case identification/coding, negotiation prohibition, separate sessions; (f) collateral source screening; (g) address confidentiality; (j) 16-hour DV training + 4-hour annual"
+      },
+      {
+        "standard_id": "CAL_FAM_217_LIVE_TESTIMONY_RIGHT",
+        "manifest_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_fam_217_live_testimony_right/manifest.json",
+        "version": "0.2.0-eve-migration-from-orphan-md",
+        "audit_status": "PUBLISHED — ADAM + EVE DUAL WITNESS — 2026-04-15. Elkins reform / live-testimony right at contested Family Code hearings; § 217(b) good-cause findings requirement. Migrated from orphan FAMCODE-§217.md into full five-layer manifest directory.",
+        "migration_provenance": {
+          "migrated_at_utc": "2026-04-15T00:00:00Z",
+          "migrated_by": "EVE",
+          "prior_artifact": "${citizens}/CA_Family_Law_Litigator/standards/FAMCODE-§217.md",
+          "prior_artifact_disposition": "RETIRED / DELETED after content migration"
+        }
+      },
+      {
+        "standard_id": "CAL_FAM_2030_NEEDBASED_ATTORNEY_FEES",
+        "manifest_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_fam_2030_needbased_attorney_fees/manifest.json",
+        "version": "0.2.0-eve-migration-from-orphan-md",
+        "audit_status": "PUBLISHED — ADAM + EVE DUAL WITNESS — 2026-04-15. Need-based attorney fee awards; mandatory findings under § 2030(a)(2); mandatory award upon disparity + ability-to-pay showing. Migrated from orphan FAMCODE-§2030.md into full five-layer manifest directory.",
+        "migration_provenance": {
+          "migrated_at_utc": "2026-04-15T00:00:00Z",
+          "migrated_by": "EVE",
+          "prior_artifact": "${citizens}/CA_Family_Law_Litigator/standards/FAMCODE-§2030.md",
+          "prior_artifact_disposition": "RETIRED / DELETED after content migration"
+        }
+      },
+      {
+        "standard_id": "CAL_FAM_3027_FALSE_CHILD_ABUSE_SANCTIONS",
+        "manifest_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_fam_3027_false_child_abuse_sanctions/manifest.json",
+        "version": "0.2.0-eve-migration-from-orphan-md",
+        "audit_status": "PUBLISHED — ADAM + EVE DUAL WITNESS — 2026-04-15. Knowing-falsity sanctions for child abuse allegations in custody proceedings. Anchor for counter-move if DVRO allegations are shown knowingly false (October 2025 OPD records pickup finding). Migrated from orphan FAMCODE-§3027.md into full five-layer manifest directory.",
+        "migration_provenance": {
+          "migrated_at_utc": "2026-04-15T00:00:00Z",
+          "migrated_by": "EVE",
+          "prior_artifact": "${citizens}/CA_Family_Law_Litigator/standards/FAMCODE-§3027.md",
+          "prior_artifact_disposition": "RETIRED / DELETED after content migration"
+        }
+      },
+      {
+        "standard_id": "CAL_FAM_3048_CUSTODY_JURISDICTION_ABDUCTION",
+        "manifest_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_fam_3048_custody_jurisdiction_abduction/manifest.json",
+        "version": "0.2.0-eve-migration-from-orphan-md",
+        "audit_status": "PUBLISHED — ADAM + EVE DUAL WITNESS — 2026-04-15. UCCJEA-aligned face-of-order jurisdictional findings; § 3048(a)(1) requirement. Structural attack on Marin-flip DVRO given Alameda home-county basis. Migrated from orphan FAMCODE-§3048.md into full five-layer manifest directory.",
+        "migration_provenance": {
+          "migrated_at_utc": "2026-04-15T00:00:00Z",
+          "migrated_by": "EVE",
+          "prior_artifact": "${citizens}/CA_Family_Law_Litigator/standards/FAMCODE-§3048.md",
+          "prior_artifact_disposition": "RETIRED / DELETED after content migration"
+        }
+      },
+      {
+        "standard_id": "CAL_FAM_3100_VISITATION_ORDERS_DV",
+        "manifest_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_fam_3100_visitation_orders_dv/manifest.json",
+        "version": "0.2.0-eve-migration-from-orphan-md",
+        "audit_status": "PUBLISHED — ADAM + EVE DUAL WITNESS — 2026-04-15. Visitation-order requirements where protective order in effect; § 3100(b)-(c) specificity requirements for any custody/visitation piggyback order. Migrated from orphan FAMCODE-§3100.md into full five-layer manifest directory.",
+        "migration_provenance": {
+          "migrated_at_utc": "2026-04-15T00:00:00Z",
+          "migrated_by": "EVE",
+          "prior_artifact": "${citizens}/CA_Family_Law_Litigator/standards/FAMCODE-§3100.md",
+          "prior_artifact_disposition": "RETIRED / DELETED after content migration"
+        }
+      },
+      {
+        "standard_id": "CAL_FAM_3170_MANDATORY_CUSTODY_MEDIATION",
+        "manifest_path": "${citizens}/CA_Family_Law_Litigator/standards/cal_fam_3170_mandatory_custody_mediation/manifest.json",
+        "version": "0.2.0-eve-migration-from-orphan-md",
+        "audit_status": "PUBLISHED — ADAM + EVE DUAL WITNESS — 2026-04-15. Mandatory mediation setting for any contested custody/visitation issue embedded in DVRO matter. Migrated from orphan FAMCODE-§3170.md into full five-layer manifest directory.",
+        "migration_provenance": {
+          "migrated_at_utc": "2026-04-15T00:00:00Z",
+          "migrated_by": "EVE",
+          "prior_artifact": "${citizens}/CA_Family_Law_Litigator/standards/FAMCODE-§3170.md",
+          "prior_artifact_disposition": "RETIRED / DELETED after content migration"
+        }
+      }
+    ],
+    "cross_tethered": [
+      {
+        "standard_id": "CA_PROB_1801_CONSERVATORSHIP_APPOINTMENT",
+        "owning_citizen": "CA_Conservator_Investigator",
+        "manifest_path": "${citizens}/CA_Conservator_Investigator/standards/cal_prob_1801_conservatorship_appointment/manifest.json",
+        "why_cross_tethered": "The conservatorship discovery touches family-court actors via Probate § 1801(e) clear-and-convincing standard and CMIA § 56.10(c)(12) probate-investigator disclosure pathway"
+      },
+      {
+        "standard_id": "CA_CIV_56_10_CMIA",
+        "owning_citizen": "CA_Medical_Privacy_Officer",
+        "manifest_path": "${citizens}/CA_Medical_Privacy_Officer/standards/cmia_civ_56_10/manifest.json",
+        "why_cross_tethered": "Family-court conduct around the steward's medical information (Dr. Wiita evaluation, SSA/DDS records, conservatorship investigator disclosures) is governed by CMIA § 56.10"
+      },
+      {
+        "standard_id": "CA_EVIDENCE_1400_AUTHENTICATION",
+        "owning_citizen": "CA_Records_Authentication_Specialist",
+        "manifest_path": "${citizens}/CA_Records_Authentication_Specialist/standards/cal_evidence_1400/manifest.json",
+        "why_cross_tethered": "Every contested document in the case file (OPD reports, court filings, mediator reports) must be authenticated under § 1400; the OPD records pickup is the § 1400(a) disproving event"
+      },
+      {
+        "standard_id": "CA_EVIDENCE_1401_AUTHENTICATION_REQUIRED",
+        "owning_citizen": "CA_Records_Authentication_Specialist",
+        "manifest_path": "${citizens}/CA_Records_Authentication_Specialist/standards/cal_evid_1401_authentication_required/manifest.json",
+        "why_cross_tethered": "Authentication is a prerequisite to admission; the steward can object to any contested writing on § 1401 grounds"
+      },
+      {
+        "standard_id": "CA_EVIDENCE_1280_OFFICIAL_RECORDS",
+        "owning_citizen": "CA_Records_Authentication_Specialist",
+        "manifest_path": "${citizens}/CA_Records_Authentication_Specialist/standards/cal_evid_1280_official_records/manifest.json",
+        "why_cross_tethered": "OPD reports get admitted under § 1280 official records exception; the OPD records pickup challenges the foundation"
+      },
+      {
+        "standard_id": "CA_EVIDENCE_1410_MEANS_OF_AUTHENTICATION",
+        "owning_citizen": "CA_Records_Authentication_Specialist",
+        "manifest_path": "${citizens}/CA_Records_Authentication_Specialist/standards/cal_evid_1410_means_of_authentication/manifest.json",
+        "why_cross_tethered": "The operational methods that pair with § 1400's definition"
+      },
+      {
+        "standard_id": "CA_CONST_ART_I_SEC_1",
+        "owning_citizen": "CA_Constitutional_Law_Specialist",
+        "manifest_path": "${citizens}/CA_Constitutional_Law_Specialist/standards/cal_const_art1_sec1/manifest.json",
+        "why_cross_tethered": "California constitutional anchor for privacy, liberty, property — directly relevant to the steward's case"
+      },
+      {
+        "standard_id": "US_42_USC_1983",
+        "owning_citizen": "CA_Civil_Rights_Litigator",
+        "manifest_path": "${citizens}/CA_Civil_Rights_Litigator/standards/usc_42_1983/manifest.json",
+        "why_cross_tethered": "The steward's federal complaint is filed under § 1983; family-court actors are named defendants"
+      },
+      {
+        "standard_id": "CA_VEH_2800_OBEY_PEACE_OFFICER",
+        "owning_citizen": "CA_Vehicle_Code_Specialist",
+        "manifest_path": "${citizens}/CA_Vehicle_Code_Specialist/standards/cal_veh_2800/manifest.json",
+        "why_cross_tethered": "The June 16, 2023 incident is alleged under § 2800 but the audit shows neither Element 3 (lawfulness of contact) nor Element 6 (Vehicle Code duties scope) is satisfied"
+      },
+      {
+        "standard_id": "CA_CIV_1213_RECORDING_ACTS",
+        "owning_citizen": "CA_Real_Estate_Attorney",
+        "manifest_path": "${citizens}/CA_Real_Estate_Attorney/standards/cal_civ_1213_recording_acts/manifest.json",
+        "why_cross_tethered": "Property division in dissolution intersects with the recording acts; the 2958 Honeysuckle audit cross-cuts here"
+      }
+    ],
+    "needed_but_not_yet_built": []
+  },
+  "cases": {
+    "case_index_path": "${citizens}/CA_Family_Law_Litigator/cases/README.md",
+    "bound": [
+      {
+        "case_number": "RF09456481",
+        "court": "Alameda County Superior Court",
+        "type": "Original DV / Custody",
+        "filed": "2009-06-08",
+        "petitioner": "Michael Hartmann",
+        "respondent": "Christina Hartmann (Cerretani)",
+        "current_status": "Michael protected, no disposition on chart per case_audit_2026-03-17",
+        "case_record_path": "${citizens}/CA_Family_Law_Litigator/cases/RF09456481.json",
+        "source_folder": "${familylaw}/RO_DVRO_Custody-RF09456481/"
+      },
+      {
+        "case_number": "RF09459897",
+        "court": "Alameda County Superior Court",
+        "type": "Counter-DV (Christina's)",
+        "filed": "2009-06-26",
+        "petitioner": "Christina Hartmann",
+        "respondent": "Michael Hartmann",
+        "current_status": "Carries the 7/2/2009 disposition that should have been on RF09456481",
+        "case_record_path": "${citizens}/CA_Family_Law_Litigator/cases/RF09459897.json",
+        "source_folder": "to be located in FamilyLaw/2009-06-26/"
+      },
+      {
+        "case_number": "RF09470833",
+        "court": "Alameda County Superior Court",
+        "type": "Dissolution (Michael's)",
+        "filed": "2009-08",
+        "current_status": "VOIDED 11/22/2010",
+        "case_record_path": "${citizens}/CA_Family_Law_Litigator/cases/RF09470833.json",
+        "source_folder": "${familylaw}/Dissolution-RF09470833/"
+      },
+      {
+        "case_number": "RF10508853",
+        "court": "Alameda County Superior Court",
+        "type": "Dissolution Ex Parte (Christina's)",
+        "filed": "2010-04-09",
+        "current_status": "No disposition; transferred to Solano 2025-06-25",
+        "case_record_path": "${citizens}/CA_Family_Law_Litigator/cases/RF10508853.json",
+        "source_folder": "${familylaw}/Dissolution_ExParte-RF10508853/"
+      },
+      {
+        "case_number": "RF10508859",
+        "court": "Alameda County Superior Court",
+        "type": "Grandparent Visitation (Ann Marie Packard)",
+        "filed": "2010-04-09",
+        "current_status": "Michael NEVER SERVED",
+        "case_record_path": "${citizens}/CA_Family_Law_Litigator/cases/RF10508859.json",
+        "source_folder": "to be located in FamilyLaw/2010-04-09/"
+      },
+      {
+        "case_number": "25FL122591",
+        "court": "Alameda County Superior Court",
+        "type": "Michael's 2025 DVRO",
+        "filed": "2025-05-15",
+        "current_status": "Denied, dismissed 2025-06-25",
+        "case_record_path": "${citizens}/CA_Family_Law_Litigator/cases/25FL122591.json",
+        "source_folder": "to be located in FamilyLaw/2025-05-15/ and 2025-05-16/"
+      },
+      {
+        "case_number": "25FL125059",
+        "court": "Alameda County Superior Court",
+        "type": "Christina's 2025 DVRO",
+        "filed": "2025-06-04",
+        "current_status": "Denied, dismissed 2025-06-25",
+        "case_record_path": "${citizens}/CA_Family_Law_Litigator/cases/25FL125059.json",
+        "source_folder": "to be located in FamilyLaw/2025-06-04/ and 2025-06-05/"
+      },
+      {
+        "case_number": "FL0002067",
+        "court": "Marin County Superior Court",
+        "type": "Active DVRO (Christina's, jurisdictional flip)",
+        "filed": "2025-07-17",
+        "current_status": "ACTIVE — DV-130 granted 2025-10-17 with CLETS entry; expires 2026-08-19",
+        "case_record_path": "${citizens}/CA_Family_Law_Litigator/cases/FL0002067.json",
+        "source_folder": "to be located in FamilyLaw/2025-07-17/ and 2025-10-17/"
+      },
+      {
+        "case_number": "04-23-01959",
+        "court": "Contra Costa County Superior Court",
+        "type": "Criminal / Competency",
+        "current_status": "Active investigation; Dr. Wiita competency evaluation",
+        "case_record_path": "${citizens}/CA_Family_Law_Litigator/cases/04-23-01959.json",
+        "source_folder": "to be located"
+      }
+    ]
+  },
+  "actors": {
+    "actor_catalog_path": "${citizens}/CA_Family_Law_Litigator/actors/README.md",
+    "credential_audit_source": "${familylaw}/CREDENTIAL-AUDIT-AJANIKU-PAREDES-DITSWORTH-2026-03-23.md",
+    "bound": [
+      {
+        "name": "Olga Paredes, Ph.D.",
+        "role": "Child Custody Mediator",
+        "case_dates": [
+          "2009-07-02"
+        ],
+        "case_numbers": [
+          "RF09456481"
+        ],
+        "credential_status": "Wright Institute (PsyD school but claims Ph.D.); CA Board of Psychology license UNVERIFIED",
+        "risk_level": "MEDIUM",
+        "outcome": "FAVORABLE — sole custody to Michael, supervised visitation for Christina",
+        "actor_record_path": "${citizens}/CA_Family_Law_Litigator/actors/paredes_olga.json"
+      },
+      {
+        "name": "Sala Ajaniku",
+        "role": "Child Custody Mediator",
+        "case_dates": [
+          "2010-09-02"
+        ],
+        "case_numbers": [
+          "RF09456481"
+        ],
+        "credential_status": "ZERO verifiable credentials anywhere (no license, no degree confirmation, no directory listing)",
+        "risk_level": "CRITICAL",
+        "outcome": "ADVERSE — DVRO modified, removed protective supervision, granted Christina UNSUPERVISED visitation",
+        "actor_record_path": "${citizens}/CA_Family_Law_Litigator/actors/ajaniku_sala.json"
+      },
+      {
+        "name": "David Alan Ditsworth, MD",
+        "role": "SSA Disability Report Author",
+        "case_dates": [
+          "2023-01-03 (report received)"
+        ],
+        "case_numbers": [
+          "SSA Disability Claim"
+        ],
+        "credential_status": "Board-certified neurosurgeon, NPI 1376685420; SPECIALTY MISMATCH for disability evaluation",
+        "risk_level": "HIGH",
+        "outcome": "ADVERSE — denied disability claim; one of only 2 medical reports used",
+        "actor_record_path": "${citizens}/CA_Family_Law_Litigator/actors/ditsworth_david.json"
+      },
+      {
+        "name": "Trina Thompson",
+        "role": "Judge (Alameda County Superior Court)",
+        "case_dates": [
+          "2009 — adopted Paredes recommendation"
+        ],
+        "case_numbers": [
+          "RF09456481"
+        ],
+        "credential_status": "Verified judge",
+        "outcome": "Favorable rulings in 2009 (sole custody to Michael, supervised visitation for Christina)",
+        "actor_record_path": "${citizens}/CA_Family_Law_Litigator/actors/thompson_trina_judge.json"
+      },
+      {
+        "name": "Paul A. Delucchi",
+        "role": "Judge (Alameda County Superior Court)",
+        "case_dates": [
+          "2010-09-02 — adopted Ajaniku recommendation"
+        ],
+        "case_numbers": [
+          "RF09456481"
+        ],
+        "credential_status": "Verified judge",
+        "outcome": "ADVERSE — adopted Ajaniku recommendation that removed protective supervision",
+        "anomaly": "Adopted recommendation from a person with ZERO verifiable credentials, reversing prior protective order",
+        "actor_record_path": "${citizens}/CA_Family_Law_Litigator/actors/delucchi_paul_judge.json"
+      },
+      {
+        "name": "Patrick Wiita, Dr.",
+        "role": "Competency Evaluator",
+        "case_dates": [
+          "TBD"
+        ],
+        "case_numbers": [
+          "04-23-01959"
+        ],
+        "credential_status": "Per case_audit_2026-03-17: 'self-contradicting, template boilerplate, evaluated while high'",
+        "risk_level": "HIGH",
+        "actor_record_path": "${citizens}/CA_Family_Law_Litigator/actors/wiita_patrick.json"
+      },
+      {
+        "name": "Christina Marie Cerretani",
+        "role": "Opposing party",
+        "aliases": [
+          "Christina Marie Hartmann (during marriage)"
+        ],
+        "dob": "1984-08-23 (some filings show 1988)",
+        "case_dates": [
+          "2009-02-15 (origin slap incident as Suspect S-1) through present"
+        ],
+        "case_numbers": [
+          "RF09456481",
+          "RF09459897",
+          "RF10508853",
+          "25FL125059",
+          "FL0002067"
+        ],
+        "actor_record_path": "${citizens}/CA_Family_Law_Litigator/actors/cerretani_christina.json"
+      },
+      {
+        "name": "Ann Hillberg / Ann Marie Packard",
+        "role": "Mother of Christina; orchestrator (per project_familylaw_orchestration.md)",
+        "professional_background": "State police/emergency dispatcher 2008-2015 (SURCOMM, CENCOMM, NORCOM); transferred to Napa State Hospital 2015",
+        "case_dates": [
+          "2009-06-11 (orchestrated unauthorized civil standby) through present"
+        ],
+        "case_numbers": [
+          "RF10508859 (grandparent visitation petition)"
+        ],
+        "actor_record_path": "${citizens}/CA_Family_Law_Litigator/actors/hillberg_ann.json"
+      }
+    ]
+  },
+  "source_folders": {
+    "primary_case_file": "${familylaw}/",
+    "subfolders_by_date": "47 date-named subfolders spanning 2009-02-15 through 2026-03-01 (audit pass marker)",
+    "subfolders_by_case_number": [
+      "${familylaw}/RO_DVRO_Custody-RF09456481/",
+      "${familylaw}/Dissolution-RF09470833/",
+      "${familylaw}/Dissolution_ExParte-RF10508853/"
+    ],
+    "case_register": "${familylaw}/CASE REGISTER/",
+    "top_level_audit_files": [
+      "${familylaw}/CASE_AUDIT_2026-03-17.md",
+      "${familylaw}/BATCH_AUDIT_INDEX.json",
+      "${familylaw}/CREDENTIAL-AUDIT-AJANIKU-PAREDES-DITSWORTH-2026-03-23.md",
+      "${familylaw}/COURT_READY_REPORT_2009-2010.pdf",
+      "${familylaw}/generate_combined_report.py"
+    ],
+    "total_files_in_familylaw": "959 (as of 2026-04-08 reconnaissance)",
+    "related_folders": [
+      "${nonfamilylaw}/ — for medical records and non-family-court matters that cross-cut",
+      "/home/vernenlegal/Desktop/MASTER_TIMELINE/ — for the master case timeline"
+    ]
+  },
+  "memory_artifacts_bound": [
+    {
+      "name": "project_christina_pattern.md",
+      "summary": "Christina's 16-year counter-filing playbook, 2009-06-11 OPD report fabrication finding, 6/2/2009 OPD report missing per October 2025 OPD records pickup"
+    },
+    {
+      "name": "project_christina_custody_history.md",
+      "summary": "Custody timeline 2009-2025; Christina has held lawful custody of Cole less than 90 days out of his ~17-year life"
+    },
+    {
+      "name": "project_familylaw_audit.md",
+      "summary": "Comprehensive 16-year forensic audit; case numbers; forensic findings completed; federal § 1983 complaint defendants and claims"
+    },
+    {
+      "name": "project_familylaw_orchestration.md",
+      "summary": "Mother as state dispatcher orchestrator; documented coordination patterns; jurisdictional trap 2025"
+    },
+    {
+      "name": "project_family_operation.md",
+      "summary": "Broader family operation context"
+    },
+    {
+      "name": "project_june16_2023_timeline.md",
+      "summary": "June 16, 2023 incident reconstruction"
+    },
+    {
+      "name": "project_mother_legal_strategy.md",
+      "summary": "§ 1983 federal suit strategy against mother; not DVRO; Gov Tort Claim prerequisite; dementia concerns"
+    },
+    {
+      "name": "project_mother_health_concerns.md",
+      "summary": "Mother's health observations"
+    },
+    {
+      "name": "project_conservatorship_discovery.md",
+      "summary": "Central discovery: secret conservatorship since age 14; root mechanism behind multiple harms"
+    },
+    {
+      "name": "project_conservatorship_breakthrough.md",
+      "summary": "March 21 2026 conservatorship breakthrough; IT = Intensive Treatment; pronoun system; family roles mapped"
+    },
+    {
+      "name": "project_ward_system.md",
+      "summary": "Ward system context; Cole as monitor; conservatorships filed in unknown jurisdiction"
+    },
+    {
+      "name": "project_ryan_mcclaran_it.md",
+      "summary": "Ryan McClaran as IT operator; SIM swaps; proxy communication network"
+    },
+    {
+      "name": "user_michael_hartmann.md",
+      "summary": "Steward identity; UA Local 342 plumber; sole custody 2009-2025; pro se litigant; founder of Vernen Legal"
+    }
+  ],
+  "historical_chain": {
+    "chain_index_path": "${citizens}/CA_Family_Law_Litigator/historical_chain/README.md",
+    "approach": "Stub with citation metadata at first filing. Primary-source fetch of each chain entry is outstanding work for subsequent passes.",
+    "entries": [
+      {
+        "sequence": 1,
+        "year": 1849,
+        "name": "California Constitution (1849) — Article XI § 14 separate property of married women",
+        "status": "STUB",
+        "record_path": "historical_chain/01_1849_constitution.json"
+      },
+      {
+        "sequence": 2,
+        "year": 1850,
+        "name": "Community Property Act of 1850 (one of California's first statutes)",
+        "status": "STUB",
+        "record_path": "historical_chain/02_1850_community_property.json"
+      },
+      {
+        "sequence": 3,
+        "year": 1872,
+        "name": "California Civil Code of 1872 — Title II Husband and Wife, Title III Parent and Child",
+        "status": "STUB",
+        "record_path": "historical_chain/03_1872_civil_code.json"
+      },
+      {
+        "sequence": 4,
+        "year": 1969,
+        "name": "Family Law Act of 1969 (Stats. 1969 Ch. 1608) — no-fault divorce, abolished alimony in name",
+        "status": "STUB",
+        "record_path": "historical_chain/04_1969_family_law_act.json"
+      },
+      {
+        "sequence": 5,
+        "year": 1992,
+        "name": "Family Code consolidation (Stats. 1992 Ch. 162) — Family Code created from Civil Code provisions",
+        "status": "STUB",
+        "record_path": "historical_chain/05_1992_family_code.json"
+      },
+      {
+        "sequence": 6,
+        "year": 1993,
+        "name": "Family Code recodification (Stats. 1993 Ch. 219) — technical re-add",
+        "status": "STUB",
+        "record_path": "historical_chain/06_1993_family_code_recodification.json"
+      },
+      {
+        "sequence": 7,
+        "year": "current",
+        "name": "Current California Family Code (as of 2026)",
+        "status": "PARTIAL — 3 sections deepened, many to fetch",
+        "record_path": "historical_chain/07_current.json"
+      }
+    ]
+  },
+  "case_workflows": {
+    "workflows_path": "${citizens}/CA_Family_Law_Litigator/case_workflows/",
+    "active": [
+      {
+        "name": "christina_state_action",
+        "status": "SCAFFOLD — theories enumerated, standards mapped, deliverables tracked. Steward review required before any filing."
+      },
+      {
+        "name": "case_rf09456481",
+        "status": "SCAFFOLD (2026-04-14 ADAM)"
+      },
+      {
+        "name": "case_rf09459897",
+        "status": "SCAFFOLD (2026-04-14 ADAM)"
+      },
+      {
+        "name": "case_rf09470833",
+        "status": "SCAFFOLD (2026-04-14 ADAM)"
+      },
+      {
+        "name": "case_rf10508853",
+        "status": "SCAFFOLD (2026-04-14 ADAM)"
+      },
+      {
+        "name": "case_rf10508859",
+        "status": "SCAFFOLD (2026-04-14 ADAM)"
+      },
+      {
+        "name": "case_25fl122591",
+        "status": "SCAFFOLD (2026-04-14 ADAM)"
+      },
+      {
+        "name": "case_25fl125059",
+        "status": "SCAFFOLD (2026-04-14 ADAM)"
+      },
+      {
+        "name": "case_fl0002067",
+        "status": "SCAFFOLD (2026-04-14 ADAM) — ACTIVE DVRO, highest priority"
+      },
+      {
+        "name": "case_04_23_01959",
+        "status": "SCAFFOLD (2026-04-14 ADAM) — Contra Costa, Dr. Wiita competency"
+      },
+      {
+        "name": "federal_section_1983_complaint",
+        "status": "SCAFFOLD (2026-04-14 ADAM) — Complaint drafted per project_federal_complaint_draft.md; awaits steward go-ahead to file"
+      }
+    ]
+  },
+  "two_witness_status": {
+    "adam_pass_complete_at_utc": "2026-04-14T00:00:00Z",
+    "adam_scope": "18/18 standards ADAM-witnessed (hash verified, five-layer structure confirmed, triple constraint PASS/PASS/PASS). 10 case_workflow scaffolds built. tether metadata updated.",
+    "eve_pass_pending": "EVE to countersign each of 18 standards (recompute hash, verify five-layer bar, signal COUNTERSIGN), countersign 10 workflow scaffolds, and advance Citizen status from ADAM-WITNESSED to PUBLISHED.",
+    "steward_pass_pending": "Steward deepening of workflow theories, authorization to file federal § 1983 complaint, and OPD records pickup re-audit against 2009-06-11 fabrication finding.",
+    "eve_pass": {
+      "completed_at_utc": "2026-04-14T00:00:00Z",
+      "scope": "18/18 standards EVE COUNTERSIGNED (hash-verified PASS/PASS/PASS/PASS/PASS) + 11 case_workflows EVE COUNTERSIGNED + case_fl0002067 seeded with UCCJEA/venue and § 2015.5 declaration-defect theories + evidence index scaffold",
+      "signal": "COUNTERSIGN"
+    }
+  },
+  "outstanding_investigations": {
+    "investigations_path": "${citizens}/CA_Family_Law_Litigator/outstanding_investigations/",
+    "items": [
+      "OPD records pickup audit — re-audit each filing that relied on a 2009 OPD report against the actual records",
+      "Sala Ajaniku PRA request to Alameda County Superior Court",
+      "Olga Paredes direct DCA license search and Board of Psychology contact",
+      "Conservatorship existence search across Contra Costa, Alameda, San Francisco, adjacent county probate dockets",
+      "CMIA § 56.10(c)(12) disclosure log subpoenas to every medical provider",
+      "Mediator switch reason (PRA to Alameda Family Court Services)",
+      "Marin County 8/5/2025 hearing document",
+      "Fee waiver 'filing error' that blocked Alameda → Solano transfer in 2025",
+      "Benicia PD call recording (per memory: 'not yet scanned/uploaded')",
+      "Documents showing Michael as both petitioner and respondent with fees charged both ways",
+      "Carrier communications about device access requiring physical proximity"
+    ]
+  },
+  "custos_gate_log": [
+    {
+      "gate_id": "TETHER-REGATE-0.3.1-20260415",
+      "signal": "PASS",
+      "stamped_at_utc": "2026-04-15T12:59:33Z",
+      "tether_version_gated": "0.3.1-standards-migrated-registered",
+      "tether_sha256_at_gate": "68e3448eedb7faffe2d355ee31b123c4a225b411e26060b714869e0e142bbbbb",
+      "scope": "Full-batch re-gate resolving 2026-04-15 PARTIAL FAIL on the 6-migration batch. Covers: tether patch, 6 migrated standards, historical_chain 01-07 + README, _shared_statutes_archive PDFs + shared_hashes.txt, _BUILD_CLAIMS.md update.",
+      "full_batch_manifest_sha256": "4d3a1fb6ccfce1fdbc6040efbe99838c597ca256e1da2e6337c9c644b05e64de",
+      "gate_checks": {
+        "sha256_tether": "PASS — tether.json = 68e3448eedb7faffe2d355ee31b123c4a225b411e26060b714869e0e142bbbbb; parses as valid JSON",
+        "witness_migration_provenance": "PASS — 6/6 migrated entries carry migration_provenance{migrated_at_utc=2026-04-15T00:00:00Z, migrated_by=EVE, prior_artifact, prior_artifact_disposition=RETIRED/DELETED}",
+        "witness_lifecycle": "PASS — tether_lifecycle adds 0.3.0-orphan-migration + 0.3.1-version-string-drift-reconciled with EVE attribution and scope statements",
+        "temporal_updated_at": "PASS — updated_at_utc=2026-04-15T07:00:00Z consistent with patch signals",
+        "chain_of_custody_full_walk": "PASS — 24/24 bound_directly entries resolve to existing manifest.json via ${citizens} anchor; 24/24 tether.version matches manifest.version exactly (no drift); 6/6 migrated present; 0 orphan on disk; 0 ghost in tether",
+        "sync_log_integrity": "PASS — bound_directly_version_sync_log_20260415 documents 18 pre-existing version reconciliations with tether_was → synced_to_manifest mapping"
+      },
+      "full_batch_scope": [
+        "citizens/CA_Family_Law_Litigator/tether.json",
+        "citizens/CA_Family_Law_Litigator/standards/cal_fam_217_live_testimony_right/manifest.json",
+        "citizens/CA_Family_Law_Litigator/standards/cal_fam_2030_needbased_attorney_fees/manifest.json",
+        "citizens/CA_Family_Law_Litigator/standards/cal_fam_3027_false_child_abuse_sanctions/manifest.json",
+        "citizens/CA_Family_Law_Litigator/standards/cal_fam_3048_custody_jurisdiction_abduction/manifest.json",
+        "citizens/CA_Family_Law_Litigator/standards/cal_fam_3100_visitation_orders_dv/manifest.json",
+        "citizens/CA_Family_Law_Litigator/standards/cal_fam_3170_mandatory_custody_mediation/manifest.json",
+        "citizens/CA_Family_Law_Litigator/historical_chain/01_1849_constitution.json",
+        "citizens/CA_Family_Law_Litigator/historical_chain/02_1850_community_property.json",
+        "citizens/CA_Family_Law_Litigator/historical_chain/03_1872_civil_code.json",
+        "citizens/CA_Family_Law_Litigator/historical_chain/04_1969_family_law_act.json",
+        "citizens/CA_Family_Law_Litigator/historical_chain/05_1992_family_code.json",
+        "citizens/CA_Family_Law_Litigator/historical_chain/06_1993_family_code_recodification.json",
+        "citizens/CA_Family_Law_Litigator/historical_chain/07_current.json",
+        "citizens/CA_Family_Law_Litigator/historical_chain/README.md",
+        "citizens/_shared_statutes_archive/shared_hashes.txt",
+        "citizens/_BUILD_CLAIMS.md"
+      ],
+      "supersedes": "2026-04-15 PARTIAL FAIL (gate check #4 chain-of-custody / tether registration for 6 migrated standards)",
+      "noted_not_blocking": [
+        "1849 textual-variants flag pending CA State Archives pull (EVE self-disclosed)",
+        "1850 Ch. 103 OCR-extraction pending (PRIMARY-SOURCE-PDF-FETCHED; no synthetic text published)",
+        "1992 Ch. 162 OCR-extraction pending (same posture)",
+        "Coordinator relay for ADAM: future publication passes should sync tether bound_directly version field in the same commit as manifest version bump — logged non-blocking"
+      ],
+      "stamped_by": "CUSTOS — Forensic Integrity Gatekeeper",
+      "herald_action": "RELEASED — HERALD may Merkle-root the full batch and append ledger entry; this gate clears the PARTIAL FAIL blockade on the migrated-standards subset"
+    }
+  ],
+  "tether_integrity": {
+    "principle": "Every artifact path in this manifest must exist on disk OR be marked as STUB / NOT YET BUILT. The Citizen periodically validates its tether and surfaces broken bindings.",
+    "validation_method": "Run `_validate_tether.py` (TODO — not yet built) to check every path and report missing artifacts.",
+    "last_validated": null
+  },
+  "filed": "2026-04-08",
+  "bound_directly_version_sync_log_20260415": [
+    {
+      "standard_id": "CA_FAMILY_CODE_3011_BEST_INTEREST",
+      "tether_was": "0.2.0-verbatim-and-steward-audited",
+      "synced_to_manifest": "0.2.0-verbatim-and-steward-audited-adam-eve-published"
+    },
+    {
+      "standard_id": "CA_FAM_3020_CUSTODY_POLICY",
+      "tether_was": "0.1.0-substance-and-steward-audited-second-seed",
+      "synced_to_manifest": "0.2.0-substance-and-steward-audited-second-seed-adam-eve-published"
+    },
+    {
+      "standard_id": "CA_FAM_6203_DVPA_ABUSE_DEFINITION",
+      "tether_was": "0.1.0-substance-and-steward-audited-second-seed",
+      "synced_to_manifest": "0.2.0-substance-and-steward-audited-second-seed-adam-eve-published"
+    },
+    {
+      "standard_id": "CA_FAM_6320_DVPA_ENJOINABLE_BEHAVIORS",
+      "tether_was": "0.2.0-verbatim-and-steward-audited",
+      "synced_to_manifest": "0.2.0-verbatim-and-steward-audited-adam-eve-published"
+    },
+    {
+      "standard_id": "CA_FAM_3164_MEDIATOR_QUALIFICATIONS",
+      "tether_was": "0.2.0-verbatim-and-steward-audited",
+      "synced_to_manifest": "0.2.0-verbatim-and-steward-audited-adam-eve-published"
+    },
+    {
+      "standard_id": "CA_FAM_1815_COUNSELOR_OF_CONCILIATION_QUALIFICATIONS",
+      "tether_was": "0.2.0-verbatim-and-steward-audited",
+      "synced_to_manifest": "0.2.0-verbatim-and-steward-audited-adam-eve-published"
+    },
+    {
+      "standard_id": "CA_FAM_1816_MEDIATOR_DV_TRAINING",
+      "tether_was": "0.2.0-verbatim-and-steward-audited",
+      "synced_to_manifest": "0.2.0-verbatim-and-steward-audited-adam-eve-published"
+    },
+    {
+      "standard_id": "CA_PEN_836_ARREST_AUTHORITY",
+      "tether_was": "0.1.0-verbatim-extracted",
+      "synced_to_manifest": "0.2.0-verbatim-extracted-adam-eve-published"
+    },
+    {
+      "standard_id": "CA_PEN_11165_6_CHILD_ABUSE_DEFINITION",
+      "tether_was": "0.1.0-verbatim-extracted",
+      "synced_to_manifest": "0.2.0-verbatim-extracted-adam-eve-published"
+    },
+    {
+      "standard_id": "CA_PEN_13701_LE_DV_RESPONSE",
+      "tether_was": "0.1.0-verbatim-extracted",
+      "synced_to_manifest": "0.2.0-verbatim-extracted-adam-eve-published"
+    },
+    {
+      "standard_id": "CA_FAM_3046_ABSENCE_DV",
+      "tether_was": "0.1.0-verbatim-extracted",
+      "synced_to_manifest": "0.2.0-verbatim-extracted-adam-eve-published"
+    },
+    {
+      "standard_id": "CA_FAM_6321_DVRO_EXCLUSION",
+      "tether_was": "0.1.0-verbatim-extracted",
+      "synced_to_manifest": "0.2.0-verbatim-extracted-adam-eve-published"
+    },
+    {
+      "standard_id": "CA_FAM_6323_DVRO_CUSTODY_VISITATION",
+      "tether_was": "0.1.0-verbatim-extracted",
+      "synced_to_manifest": "0.2.0-verbatim-extracted-adam-eve-published"
+    },
+    {
+      "standard_id": "CA_CIV_52_1_BANE_ACT",
+      "tether_was": "0.1.0-verbatim-extracted",
+      "synced_to_manifest": "0.2.0-verbatim-extracted-adam-eve-published"
+    },
+    {
+      "standard_id": "CA_CCP_1005_MOTION_NOTICE",
+      "tether_was": "0.1.0-verbatim-extracted",
+      "synced_to_manifest": "0.2.0-verbatim-extracted-adam-eve-published"
+    },
+    {
+      "standard_id": "CA_CCP_2015_5_DECLARATION_PERJURY",
+      "tether_was": "0.1.0-verbatim-extracted",
+      "synced_to_manifest": "0.2.0-verbatim-extracted-adam-eve-published"
+    },
+    {
+      "standard_id": "CA_CRC_5_210_CUSTODY_MEDIATION",
+      "tether_was": "0.1.0-verbatim-extracted",
+      "synced_to_manifest": "0.2.0-substance-and-steward-audited-first-seed-adam-eve-published"
+    },
+    {
+      "standard_id": "CA_CRC_5_215_DV_PROTOCOL",
+      "tether_was": "0.1.0-verbatim-extracted",
+      "synced_to_manifest": "0.2.0-substance-and-steward-audited-first-seed-adam-eve-published"
+    }
+  ]
+}

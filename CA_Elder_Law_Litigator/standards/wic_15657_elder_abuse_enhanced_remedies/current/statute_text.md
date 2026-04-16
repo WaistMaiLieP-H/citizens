@@ -1,0 +1,18 @@
+# Enhanced Civil Remedies — Elder/Dependent Adult Physical Abuse — Statutory Text
+
+**Source:** Cal. Welf. & Inst. Code § 15657
+**Retrieved:** 2026-04-12
+**URL:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=15657.&lawCode=WIC
+**Verified:** true (VernenLegal MCP california_get_section returned full text)
+
+## Text
+
+If it is proven by clear and convincing evidence, or by a preponderance of the evidence pursuant to Section 15657.02, that a defendant is liable for physical abuse as defined in Section 15610.63, neglect as defined in Section 15610.57, or abandonment as defined in Section 15610.05, and that the defendant has been guilty of recklessness, oppression, fraud, or malice in the commission of this abuse, the following shall apply, in addition to all other remedies otherwise provided by law:
+
+(a) The court shall award to the plaintiff reasonable attorney's fees and costs. The term "costs" includes, but is not limited to, reasonable fees for the services of a conservator, if any, devoted to the litigation of a claim brought under this article.
+
+(b) The limitations imposed by Section 377.34 of the Code of Civil Procedure on the damages recoverable shall not apply. However, the damages recovered shall not exceed the damages permitted to be recovered pursuant to subdivision (b) of Section 3333.2 of the Civil Code.
+
+(c) The standards set forth in subdivision (b) of Section 3294 of the Civil Code regarding the imposition of punitive damages on an employer based upon the acts of an employee shall be satisfied before any damages or attorney's fees permitted under this section may be imposed against an employer.
+
+**[Note: Financial abuse enhanced remedies are governed by § 15657.5 (separate standard). §15657.02 provides preponderance alternative in certain institutional abuse settings.]**

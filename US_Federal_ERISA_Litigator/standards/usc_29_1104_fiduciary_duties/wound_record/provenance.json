@@ -1,0 +1,18 @@
+{
+  "wound_authority": "Pre-ERISA common law trust standard for pension administrators; LMRA § 302 (29 U.S.C. § 186(c)(5)) for multi-employer funds",
+  "jurisdiction": "Federal and state (patchwork — varied by state)",
+  "in_force_period": "From establishment of private pension plans in the United States (early 20th century) until September 2, 1974",
+  "superseded_by": "Employee Retirement Income Security Act (ERISA), Pub. L. 93-406, signed September 2, 1974; specifically § 404 (codified at 29 U.S.C. § 1104)",
+  "current_status": "SUPERSEDED — no longer operative as the governing standard for pension plan administrators. The pre-ERISA framework survives only as background historical law; it has no operative effect after September 2, 1974.",
+  "primary_sources_pending": [
+    "S. Rep. No. 93-127 (Senate Labor Committee Report on ERISA, 1973) — describes pre-ERISA inadequacies in detail",
+    "H.R. Rep. No. 93-1280 (House Education and Labor Committee Report on ERISA, 1974)",
+    "Congressional Record, 93rd Cong., 2d Sess. (1974) — floor debate on § 404 fiduciary standard",
+    "Harvard College v. Amory, 26 Mass. 446 (1830) — original common law prudent man rule",
+    "29 U.S.C. § 186(c)(5) — LMRA § 302 multi-employer fund provision (pre-ERISA text)"
+  ],
+  "verification_status": "PARTIAL — framework description drawn from standard ERISA legislative history sources. Verbatim text of pre-ERISA plan documents and state pension statutes pending primary-source fetch.",
+  "purpose_of_preservation": "Defensive historical record — accurate citation of the legal wound that 29 U.S.C. § 1104 was enacted to address. Required to demonstrate the magnitude of the ERISA reform and the specific gap the prudent expert standard closed.",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "filed_at_utc": "2026-04-12T00:00:00Z"
+}

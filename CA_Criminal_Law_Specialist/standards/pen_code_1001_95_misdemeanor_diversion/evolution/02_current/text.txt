@@ -1,0 +1,14 @@
+Pointer to current/ directory.
+
+The current text of Cal. Penal Code § 1001.95 is in:
+../../../current/text.txt
+
+The chain closes here: SB 282 (2022 enactment) → current.
+
+§ 1001.95 was enacted in 2022 and has not been materially amended. The current text IS the origin text plus any technical corrections.
+
+Key operative provisions for Solano M25-00758:
+- § 1001.95(a): judicial authority over prosecutorial objection
+- § 1001.95(b): up to 24-month diversion with court-ordered conditions
+- § 1001.95(c): mandatory dismissal upon completion
+- § 1001.95(e)(2): DV exclusion — must confirm charge is NOT "domestic violence" under § 13700(b)

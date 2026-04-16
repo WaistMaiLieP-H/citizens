@@ -1,0 +1,41 @@
+{
+  "standard": "usc_29_1109_fiduciary_breach",
+  "cross_references": [
+    {
+      "cite": "29 U.S.C. § 1132(a)(2)",
+      "label": "ERISA Civil Enforcement — § 1109 Relief",
+      "relationship": "enforcement_vehicle",
+      "note": "§ 1109 defines the breach and the remedy (make plan whole); § 1132(a)(2) is the vehicle that brings it to federal court"
+    },
+    {
+      "cite": "29 U.S.C. § 1104",
+      "label": "Fiduciary Duties (Prudent Expert Standard)",
+      "relationship": "duty_source",
+      "note": "§ 1109 liability attaches when § 1104 duties are breached; the prudent expert standard defines what conduct is a breach"
+    },
+    {
+      "cite": "29 U.S.C. § 1105",
+      "label": "Liability for Co-Fiduciary Breach",
+      "relationship": "extended_liability",
+      "note": "Fiduciary who knowingly enabled or failed to remedy another's breach is co-liable under § 1105; applies if insider facilitated fraudulent retirement election"
+    },
+    {
+      "cite": "29 U.S.C. § 1106",
+      "label": "Prohibited Transactions",
+      "relationship": "per_se_breach",
+      "note": "§ 1106 transactions are prohibited regardless of outcome; fiduciary dealing in plan assets for own account is per se breach without need to prove harm"
+    },
+    {
+      "cite": "29 U.S.C. § 1113",
+      "label": "ERISA Statute of Limitations",
+      "relationship": "time_constraint",
+      "note": "§ 1109 claims: 6 years from last act of breach, 3 years from actual knowledge; fraud tolls; Tibble confirms ongoing monitoring failures extend the period"
+    },
+    {
+      "cite": "DOL Cybersecurity Guidance (April 2021)",
+      "label": "DOL Plan Cybersecurity Best Practices",
+      "relationship": "standard_of_care_definition",
+      "note": "DOL guidance establishes what a prudent expert fiduciary would do to prevent unauthorized account changes including unauthorized retirement elections; not binding but defines § 1104 'prudent expert' baseline in 2021+ context"
+    }
+  ]
+}

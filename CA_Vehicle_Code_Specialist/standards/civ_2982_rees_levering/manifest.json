@@ -1,0 +1,32 @@
+{
+  "standard_id": "civ_2982_rees_levering",
+  "title": "Cal. Civ. Code § 2982 — Rees-Levering Motor Vehicle Sales & Finance Act",
+  "citizen": "CA_Vehicle_Code_Specialist",
+  "statute_reference": "Cal. Civ. Code §§ 2981–2984.6",
+  "primary_home": "CA_Consumer_Protection_Litigator",
+  "vehicle_side_role": "reference_copy — vehicle-side pattern-of-conduct anchor; pleadings drafted in Consumer_Protection",
+  "primary_cases": [
+    "RedJag 2018 Jaguar XE — yo-yo financing, $10K down retained, $19,985 debt asserted, financing never consummated (Case #1)"
+  ],
+  "layers_present": [
+    "current/rule.md",
+    "current/reasoning.md",
+    "current/statute_text.md",
+    "historical_chain/01_origin_1961/context.md",
+    "historical_chain/01_origin_1961/provenance.json",
+    "historical_chain/witness_record.md",
+    "cross_refs/refs.json"
+  ],
+  "status": "PUBLISHED",
+  "build_session": "2026-04-15",
+  "terminal": "vehicle-builder (Task #4)",
+  "verified": false,
+  "verified_note": "Training knowledge; leginfo fetch OUTSTANDING",
+  "content_hash": "rl2982-v1",
+  "two_witness_status": {
+    "herald_witness": "WITNESSED-BY-HERALD — 2026-04-15",
+    "adam_witness": {"signal": "APPROVE", "date": "2026-04-15"},
+    "eve_witness": {"signal": "COUNTERSIGN-BY-HERALD", "date": "2026-04-15"},
+    "publication_status": "PUBLISHED — ADAM APPROVE + HERALD COUNTERSIGN — 2026-04-15"
+  }
+}

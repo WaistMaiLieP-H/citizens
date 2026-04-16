@@ -1,0 +1,9 @@
+{
+  "stage": "01_origin_1977",
+  "source": "Information Practices Act of 1977, Stats. 1977, Ch. 709 (SB 1983)",
+  "effective": "1978-07-01",
+  "wound_addressed": "No California statute governing state agency collection, use, or disclosure of personal information; no access, amendment, or remedy rights for citizens harmed by false state agency records",
+  "design_departure_from_federal": "$200 floor without willfulness requirement (federal Privacy Act requires willfulness for $1,000 floor); §1798.53 individual employee liability (no federal analog)",
+  "verbatim_capture_status": "PENDING",
+  "build_date": "2026-04-11"
+}

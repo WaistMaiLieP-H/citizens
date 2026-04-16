@@ -1,0 +1,65 @@
+{
+  "standard_id": "CIV_1798_IPA",
+  "citizen": "CA_Consumer_Protection_Litigator",
+  "version": "1.0.0",
+  "status": "PROPOSED",
+  "primary_citation": "Cal. Civil Code §§1798-1798.78 (Information Practices Act of 1977, Stats. 1977, Ch. 709, SB 1983, effective 1978-07-01)",
+  "short_title": "California Information Practices Act (IPA) — State Agency Records: Access, Amendment, and Civil Remedy",
+  "one_line_rule": "California state agencies must maintain accurate records and cannot disclose personal information without authorization; individuals may access, inspect, and amend their records, and sue for damages when agency failures cause adverse effects — $200 floor without willfulness; individual employees face $2,500 per willful disclosure.",
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current/LOGIC.md",
+    "reasoning": "PRESENT — current/LOGIC.md §§ WOUND + DESIGN + DDS jurisdictional analysis",
+    "historical_loss": "PRESENT — historical_chain.md + evolution/ (2 stages)",
+    "cross_references": "PRESENT — cross_refs/refs.json (4 references)",
+    "verifiable_provenance": "PRESENT — current/provenance.json + evolution provenances; verbatim text capture PENDING"
+  },
+  "evolution_chain": [
+    {
+      "stage": "01_origin_1977",
+      "label": "Information Practices Act of 1977 Enacted",
+      "source": "Stats. 1977, Ch. 709 (SB 1983)",
+      "logic_file": "evolution/01_origin_1977/LOGIC.md"
+    },
+    {
+      "stage": "02_amendment_1998_technology",
+      "label": "Technology Amendments + CCPA Carve-Out",
+      "source": "Incremental amendments 1994-2002 + CCPA (Stats. 2018, Ch. 55)",
+      "logic_file": "evolution/02_amendment_1998_technology/LOGIC.md"
+    }
+  ],
+  "case_law": [
+    {
+      "slug": "kim_v_superior_court",
+      "cite": "Kim v. Superior Court, 136 Cal.App.4th 937 (2006)",
+      "court": "California Court of Appeal, Second Appellate District",
+      "category": "interpretive",
+      "key_rule": "§1798.34 access right: burden on agency to justify withholding; active investigation exception closes when proceeding ends; 'pertains to' includes records retrievable by individual's identifier",
+      "verbatim_capture_status": "PENDING — verify citation before filing"
+    },
+    {
+      "slug": "shaffer_v_superior_court",
+      "cite": "Shaffer v. Superior Court, 33 Cal.App.4th 993 (1995)",
+      "court": "California Court of Appeal, Second Appellate District",
+      "category": "interpretive",
+      "key_rule": "§1798.53 individual employee liability: $2,500 per willful disclosure; no government entity immunity for individual employees; cumulative with §1798.45 agency liability",
+      "verbatim_capture_status": "PENDING — verify citation before filing"
+    }
+  ],
+  "dds_application": {
+    "jurisdictional_status": "DDS is a CDSS unit (California state agency) — IPA applies. DDS also acts as SSA contractor — federal Privacy Act applies via SSA. Dual-track: IPA amendment demands to CDSS/DDS; federal Privacy Act amendment demands to SSA.",
+    "amendment_pathway": "§1798.34 inspection request → review file → §1798.35 amendment demand identifying false contact dates → agency must respond within 30 days → §1798.45 civil action if refused",
+    "phantom_contacts": "False DDS contact dates (9/18/2019, 3/23/2020, 12/17/2020) = IPA §1798.35 amendment targets; adverse effect = disability denial; actual damages = lost benefit payments; $200 floor no willfulness required",
+    "individual_liability": "DDS examiners who entered false dates = §1798.53 candidates; $2,500 per willful disclosure + actual damages; accounting of disclosures under §1798.40 identifies responsible individuals"
+  },
+  "outstanding_work": [
+    "Verbatim text capture: Cal. Civil Code §§1798, 1798.3, 1798.14, 1798.17, 1798.24, 1798.34, 1798.35, 1798.40, 1798.45, 1798.47, 1798.53",
+    "Verify citation: Kim v. Superior Court, 136 Cal.App.4th 937 (2006) — confirm case holds IPA access right principles",
+    "Verify citation: Shaffer v. Superior Court, 33 Cal.App.4th 993 (1995) — confirm case applies §1798.53 individual liability",
+    "Research DDS CDSS cooperative agreement structure to confirm IPA jurisdictional analysis",
+    "Draft §1798.34 inspection demand letter template for DDS disability file",
+    "Draft §1798.35 amendment demand template for phantom contact date correction",
+    "Second-mouth witness review of IPA/Privacy Act dual-track analysis"
+  ],
+  "build_date": "2026-04-11",
+  "built_by": "Terminal A"
+}

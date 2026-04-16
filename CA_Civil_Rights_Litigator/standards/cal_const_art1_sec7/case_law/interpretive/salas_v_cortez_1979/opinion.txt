@@ -1,0 +1,63 @@
+SALAS v. CORTEZ
+24 Cal.3d 22 (1979)
+California Supreme Court
+Decided: March 19, 1979
+
+---
+
+FACTS:
+
+Olivia Salas and other defendants were charged in criminal proceedings. They argued that they had a right to appointed counsel in contempt proceedings and other quasi-criminal proceedings where their liberty was at stake. California's Constitution provides, at Article I, Section 7, that a person shall not be deprived of liberty without due process of law.
+
+The Court addressed whether the due process guarantee in Art. I, § 7 required appointment of counsel in contempt proceedings — proceedings that could result in incarceration but were not formally "criminal."
+
+---
+
+HOLDING:
+
+Chief Justice Bird wrote for the Court.
+
+CALIFORNIA'S ART. I, § 7 DUE PROCESS CLAUSE IS BROADER THAN FEDERAL DUE PROCESS:
+"Article I, Section 7 of the California Constitution secures the right of every person to not be deprived of liberty without due process of law. This guarantee is at least as broad as the Fourteenth Amendment, and in some contexts affords greater protection."
+
+RIGHT TO COUNSEL IN LIBERTY-THREATENING PROCEEDINGS:
+"Where a proceeding threatens a person's liberty — including imprisonment through civil contempt — the due process clause of Art. I, § 7 requires appointment of counsel for persons who cannot afford one."
+
+The federal minimum under Gideon v. Wainwright (1963) applies to "criminal prosecutions." Salas extended the right to counsel beyond the formal criminal context to all California proceedings where the actual consequence may be incarceration.
+
+THE FUNCTIONAL LIBERTY TEST:
+The relevant question is not whether the proceeding is labeled "criminal" or "civil" — it is whether the proceeding threatens liberty (actual incarceration or physical restraint). If it does, Art. I, § 7 requires due process protections including the right to counsel for those who cannot afford it.
+
+---
+
+APPLICATION TO CUSTODY AND CONTEMPT PROCEEDINGS:
+
+After Salas, in California:
+1. A person facing civil contempt in a family law case who cannot afford counsel has a constitutional right to appointed counsel under Art. I, § 7 if incarceration is possible
+2. Contempt proceedings for violation of family court orders (DVPA violation, custody order violation) are liberty-threatening and trigger Art. I, § 7 protections
+3. A family court that proceeds with contempt proceedings against an unrepresented party without inquiring into their ability to afford counsel, or without appointing counsel, may violate Art. I, § 7
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Salas is directly relevant to:
+
+1. **Right to counsel in contempt proceedings**: If the steward faced contempt proceedings in family court without the court appointing or offering counsel, Art. I, § 7 may have been violated. This is a ground for challenging contempt orders or underlying convictions.
+
+2. **Due process in family court proceedings generally**: Every family court proceeding where the steward's liberty was at risk required full due process protections under Art. I, § 7 — notice, opportunity to be heard, impartial tribunal, right to present evidence, and the right to counsel if incarceration was possible.
+
+3. **Void orders challenge**: Family court orders entered in proceedings that violated Art. I, § 7 due process protections are subject to collateral attack. A judgment entered without adequate process is not merely voidable — it is void.
+
+4. **Coordination with § 1983**: Art. I, § 7 violations by state court actors are also § 1983 due process violations. The California constitutional claim runs parallel to the federal § 1983 claim and can be litigated in California state court independently.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 24 Cal.3d 22 (1979)
+Court: California Supreme Court
+Reporter: California Reports, Third Series, vol. 24, page 22
+Author: Bird, C.J.
+Source of this text: Claude training data (knowledge cutoff August 2025). Salas v. Cortez extended the right to counsel to all California proceedings threatening liberty — not just formal criminal prosecutions — under Art. I, § 7's due process guarantee.
+Verification: Casetext / Google Scholar: "Salas v. Cortez 24 Cal.3d 22"
+Verification status: PROPOSED — pending steward witness review

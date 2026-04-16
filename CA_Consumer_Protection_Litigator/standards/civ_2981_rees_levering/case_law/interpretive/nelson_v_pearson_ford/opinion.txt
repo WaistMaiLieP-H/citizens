@@ -1,0 +1,69 @@
+NELSON v. PEARSON FORD CO.
+186 Cal.App.4th 983 (2010)
+California Court of Appeal, Fourth Appellate District, Division Two
+Decided: July 30, 2010
+
+---
+
+FACTS:
+
+Nelson purchased a vehicle from Pearson Ford using a conditional sale contract. The contract included a financing contingency. The dealer subsequently contacted Nelson and told him the financing had not been approved and he needed to return the vehicle or sign new financing at a higher interest rate — a classic "yo-yo financing" scheme. Nelson refused and brought claims under the Rees-Levering Motor Vehicle Sales and Finance Act (Civil Code § 2981 et seq.), the CLRA, and the UCL.
+
+---
+
+HOLDING — REES-LEVERING CONDITIONAL SALE CONTRACTS:
+
+CONDITIONAL DELIVERY AGREEMENT REQUIREMENTS:
+Under Civil Code § 2982, a conditional sale contract (retail installment sale contract) must disclose all terms of the sale, including any financing conditions, in the written contract itself. A separate conditional delivery agreement that purports to make the sale "conditional" on financing approval must comply with Rees-Levering's disclosure requirements.
+
+THE YO-YO FINANCING SCHEME:
+The court addressed the legality of the dealer's practice of delivering a vehicle under a contract that appeared final on its face while retaining a secret right to rescind if financing could not be assigned to a third-party lender at the dealer's desired terms.
+
+A conditional delivery agreement that is not disclosed to the buyer in clear and conspicuous terms before signing violates Rees-Levering because § 2982 requires complete disclosure of all terms affecting the buyer's rights and obligations.
+
+---
+
+HOLDING — RESCISSION RIGHTS:
+
+Where a dealer violates Rees-Levering's disclosure requirements:
+1. The buyer may void the contract and recover all amounts paid (down payment, trade-in value, monthly payments);
+2. The buyer may retain any benefit received (use of the vehicle during the period held, offset against the restitution);
+3. The buyer is not responsible for deficiency on a void contract.
+
+"A dealer who fails to comply with Rees-Levering's disclosure requirements cannot enforce the contract against the buyer." (Paraphrase of holding.)
+
+---
+
+THE YO-YO FINANCING LEGAL FRAMEWORK:
+
+When a dealer delivers a vehicle and then later claims financing fell through and demands return or re-signing:
+1. If the original contract did not clearly disclose the financing contingency in compliance with § 2982, the contingency is unenforceable;
+2. The buyer's acceptance and continued possession of the vehicle may create an enforceable contract on the original disclosed terms;
+3. A demand to return the vehicle or sign new financing at different terms, after delivery under an apparently-final contract, may itself be an unfair business practice under UCL § 17200.
+
+---
+
+APPLICATION TO THE REDJAG YO-YO SCENARIO:
+
+For the RedJag transaction where:
+- The vehicle was delivered under what appeared to be a final retail installment sale contract;
+- The dealer subsequently demanded return or re-financing;
+- The conditional nature of the financing was not clearly disclosed:
+
+Under Nelson v. Pearson Ford:
+1. If the conditional delivery agreement was not disclosed per § 2982, it is void and unenforceable;
+2. The down payment ($10K cash) is recoverable as restitution on the void/rescinded contract;
+3. Any deficiency collection attempt on the rescinded contract is unlawful;
+4. The dealer's conduct in the yo-yo sequence is independently actionable under UCL as an unfair business practice.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 186 Cal.App.4th 983 (2010)
+Official reporter: California Appellate Reports, Fourth Series, vol. 186, page 983
+Court: California Court of Appeal, Fourth Appellate District
+Key holding: Rees-Levering yo-yo financing disclosure requirements; void contract rescission and restitution
+Source of this text: Claude training data (knowledge cutoff August 2025). Nelson v. Pearson Ford is the leading California yo-yo financing / Rees-Levering case. Full verbatim text should be verified at:
+  - courts.ca.gov
+  - Google Scholar: "Nelson v. Pearson Ford 186 Cal.App.4th"
+Verification status: PROPOSED — pending steward witness review

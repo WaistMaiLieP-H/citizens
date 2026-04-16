@@ -1,0 +1,19 @@
+CALIFORNIA FAMILY CODE § 1101 (as recodified 1994)
+Civil Code § 5125.1 → Family Code § 1101
+
+SOURCE: Stats. 1992, ch. 162 (AB 1650) — enacted the Family Code; effective January 1, 1994.
+REQUIRES_PRIMARY_SOURCE_VERIFICATION for exact text at recodification.
+
+--- Family Code § 1101 (1994 recodification — substantive content preserved from Civ. Code § 5125.1) ---
+[Substantively identical to Civ. Code § 5125.1 (1987); reorganized into labeled subdivisions (a)–(g) of the Family Code structure. Core elements preserved:]
+- (a): Claim for breach of fiduciary duty impairing claimant spouse's one-half interest
+- (b): Court authority for accounting and property-rights determinations
+- (c): Court authority to reform title to reflect community character (with enumerated exceptions for certain business interests)
+- (d): Three-year SOL from actual knowledge; no SOL for dissolution/death-concurrent actions; laches available; July 1, 1987 retroactivity limit
+- (e): Court may dispense with non-consenting spouse's consent under prescribed conditions
+- (f): Action may be brought independently or with dissolution/nullity/legal separation
+- (g): 50% remedy + attorney's fees + costs; highest-value measurement rule
+
+NOTE: The 100% remedy — § 1101(h) — was NOT yet present at the 1994 recodification. It was added by a subsequent amendment. See stage 03.
+
+PROVENANCE: Requires primary source verification. See provenance.json.

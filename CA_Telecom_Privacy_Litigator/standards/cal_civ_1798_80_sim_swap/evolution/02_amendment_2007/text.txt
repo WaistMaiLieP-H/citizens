@@ -1,0 +1,15 @@
+AB 1168 (Chapter 699, Statutes of 2007) — Expansion of breach notification
+
+Key additions to § 1798.82:
+
+1. Expanded definition of "personal information" to include medical information and health insurance information — not just financial identifiers.
+
+2. Added a "timing" clarification: notification must be in "the most expedient time possible and without unreasonable delay" — courts interpreted this against companies that waited months before notifying.
+
+3. Added an alternative "substitute notice" procedure for companies with more than 500,000 California residents in their database (email + conspicuous posting on website + notification to major statewide media).
+
+4. Added § 1798.82(d): Medical Information Exemption — entities subject to CMIA or HIPAA have a modified notification framework.
+
+Note: This amendment expanded scope but did not yet add the private right of action or the specific reasonable-security mandate that drives carrier SIM swap liability.
+
+Source: Chapter 699, Statutes of 2007; AB 1168.

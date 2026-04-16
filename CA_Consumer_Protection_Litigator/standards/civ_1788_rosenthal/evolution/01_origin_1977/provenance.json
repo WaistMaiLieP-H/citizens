@@ -1,0 +1,12 @@
+{
+  "stage": "01_origin_1977",
+  "citation": "Stats. 1977, Ch. 907 (AB 2109, Assemblyman Barry Rosenthal, D-Los Angeles)",
+  "effective_date": "1978-01-01",
+  "codified_at": "California Civil Code §§1788–1788.33",
+  "legislative_context": "Enacted same year as federal FDCPA (Pub. L. 95-109, Sept. 20, 1977); California bill passed October 1977; both take effect in early 1978",
+  "key_mechanism": "§1788.17 incorporates federal FDCPA §§1692b–1692j by reference, then extends 'debt collector' to original creditors",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml",
+  "capture_method": "LOGIC.md — structural knowledge base",
+  "verbatim_capture_status": "PENDING",
+  "build_date": "2026-04-11"
+}

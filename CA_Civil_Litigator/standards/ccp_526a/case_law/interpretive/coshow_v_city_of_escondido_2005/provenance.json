@@ -1,0 +1,25 @@
+{
+  "case_id": "coshow_v_city_of_escondido_2005",
+  "full_citation": "Coshow v. City of Escondido, 132 Cal.App.4th 687 (2005)",
+  "parallel_citations": ["33 Cal.Rptr.3d 764"],
+  "court": "Court of Appeal, Fourth Appellate District, Division One",
+  "decided": "2005-09-01",
+  "category": "interpretive",
+  "sources": [
+    {
+      "name": "Justia",
+      "url": "https://law.justia.com/cases/california/court-of-appeal/4th/132/687.html"
+    },
+    {
+      "name": "Casetext",
+      "url": "https://casetext.com/case/coshow-v-city-of-escondido"
+    },
+    {
+      "name": "Google Scholar",
+      "url": "https://scholar.google.com/scholar_case?case=1802483614972735456"
+    }
+  ],
+  "verification_status": "pending_primary_source_confirmation",
+  "filed_at_utc": "2026-04-08T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction -- Michael Hartmann, Vernen Legal Compliance"
+}

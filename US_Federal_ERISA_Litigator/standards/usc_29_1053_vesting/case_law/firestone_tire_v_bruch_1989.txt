@@ -1,0 +1,12 @@
+Firestone Tire & Rubber Co. v. Bruch
+489 U.S. 101 (1989)
+United States Supreme Court, 1989
+
+FACTS:
+Employees who were terminated in a corporate divestiture sought benefits under an ERISA plan. The employer claimed discretionary authority to interpret the plan and denied benefits. The employees argued that courts should apply de novo review to plan administrator decisions denying benefits.
+
+HOLDING — 29 U.S.C. § 1132 / § 1053:
+The Supreme Court held that courts should apply de novo review to plan administrator decisions denying benefits UNLESS the plan expressly grants the administrator discretionary authority to interpret the plan or determine eligibility. If the plan grants such discretion, the arbitrary-and-capricious standard applies. However, a conflict of interest (e.g., the plan administrator is also the employer paying benefits) is a factor in the court's review.
+
+SIGNIFICANCE:
+The governing standard of review case for all ERISA benefit denial claims. When a participant challenges a denial of vested pension benefits: (1) identify whether the plan document grants the administrator discretion; (2) if yes, arbitrary-and-capricious review applies, but conflicts of interest still factor in; (3) if no, de novo review applies and the court owes no deference to the administrator. For union multi-employer funds, the trustee board is the administrator — any conflict of interest affecting a trustee's decision to deny benefits is subject to heightened scrutiny.

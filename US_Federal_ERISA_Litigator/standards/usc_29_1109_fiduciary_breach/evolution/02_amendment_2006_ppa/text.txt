@@ -1,0 +1,18 @@
+29 U.S.C. § 1109 — Amendment by Pension Protection Act of 2006
+Pub. L. 109-280, 120 Stat. 780 (August 17, 2006)
+
+Core § 1109(a) and (b) text was not amended by PPA 2006.
+
+PPA 2006 added § 1109(c), which provides:
+
+(c) Nothing in this subchapter shall be construed to relieve a fiduciary from
+responsibility or liability under any federal or state law or to preclude any recovery
+under section 409 [§ 1109] by reason of any exemption or relief granted under this
+subchapter with respect to a fiduciary or plan.
+
+PPA also added the "eligible investment advice arrangement" framework under § 408(b)(14),
+which creates a co-existing permitted investment advisor role. When such advisors violate
+the conditions of their exemption, § 1109 fiduciary breach liability attaches.
+
+The core § 1109(a) personal liability provision — personal liability to restore plan losses,
+disgorge profits, and submit to equitable remedies including removal — has never been amended.

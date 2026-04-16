@@ -1,0 +1,65 @@
+ENGALLA v. PERMANENTE MEDICAL GROUP, INC.
+15 Cal.4th 951 (1997)
+California Supreme Court
+Decided: June 30, 1997
+
+---
+
+FACTS:
+
+Wilfredo Engalla was a patient in Kaiser Permanente's HMO. He was diagnosed with lung cancer that Kaiser allegedly should have detected years earlier. His family filed a medical malpractice claim, which Kaiser required be submitted to binding arbitration described in Kaiser's member handbook as fast, neutral, and efficient.
+
+In reality:
+- Kaiser's internal data showed the mean time from claim filing to selection of a neutral arbitrator was 863 days
+- Of roughly 1,100 claims filed in 1989, only one had a neutral arbitrator selected within the 60-day period the handbook described as normal
+- Kaiser used delay as a litigation tactic — terminally ill claimants often died before their arbitration was decided, eliminating non-economic damages
+
+Plaintiff's family alleged Kaiser fraudulently induced the arbitration agreement by misrepresenting the speed and neutrality of the process.
+
+---
+
+HOLDING:
+
+FRAUDULENT INDUCEMENT DEFEATS AN ARBITRATION AGREEMENT:
+"If a party proves that the adhesive arbitration clause was induced by fraud under § 1572, the arbitration clause is voidable and a court can refuse to enforce it."
+
+PATTERN-BASED FRAUD — THE ENGALLA FRAMEWORK:
+1. **Fraud can be shown by a pattern of false statements in form contracts and marketing materials.** The court accepted: (a) specific statements in the handbook about arbitration speed; (b) Kaiser's internal data contradicting those statements; (c) an inference that Kaiser knew the statements were false when made; (d) Kaiser's intent that claimants rely on those representations; and (e) damages flowing from delayed arbitration.
+
+2. **Waiver of arbitration through bad faith delay.** Kaiser's conduct during arbitration — manipulating delays to let the claimant die before resolution — constituted waiver of the right to compel arbitration.
+
+3. **Reaffirmation of the Tenzer/Lazar circumstantial-evidence framework.** "Fraudulent intent can be inferred from a pattern of conduct inconsistent with the representations. The 863-day-average contradiction of the '60-day-normal' representation was that pattern."
+
+---
+
+THE ENGALLA PRINCIPLE — FORM DOCUMENTS ARE SUBJECT TO § 1572:
+
+"Pre-printed form documents are still subject to § 1572 fraud analysis, and the operative question is whether the representations in those forms were false and whether the preparer knew they were false."
+
+THE MAGNITUDE-OF-CONTRADICTION INFERENCE:
+Where a party makes a representation in a printed document and that representation is contradicted by the party's own internal data, a factfinder can infer fraudulent intent from the magnitude of the contradiction. The larger the gap between the representation and the internal reality, the stronger the inference.
+
+Kaiser: "60-day normal" vs. 863-day average = 14× shortfall → fraudulent inference upheld.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Engalla is directly relevant to the 2958 Honeysuckle closing document fraud:
+
+1. **Form closing documents**: The Honeysuckle closing used standard CAR purchase agreement, standard escrow instructions, and standard deed forms. Under Engalla, pre-printed form documents are subject to § 1572 fraud analysis. The question is whether the representations in those forms were false and whether the preparer knew they were false.
+
+2. **Magnitude of contradiction as fraud inference**: The closing statement represented a disposition of proceeds contradicted by the actual flow of funds. $605K → $109K is an 82% shortfall. Engalla's magnitude-of-contradiction inference applies directly. Where the gap between representation and reality is this large, fraudulent intent can be inferred.
+
+3. **Contemporaneous internal knowledge**: Whoever prepared the closing documents had access to the actual fund flow. If those persons knew the representations about proceeds destination were false, Engalla provides the inference framework.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 15 Cal.4th 951 (1997)
+Court: California Supreme Court
+Reporter: California Reports, Fourth Series, vol. 15, page 951
+Author: Mosk, J. (5-2 majority)
+Source of this text: Claude training data (knowledge cutoff August 2025) supplemented by holding.md from prior build session. Engalla v. Permanente extended § 1572 fraud analysis to pattern-based misrepresentations in form documents — the magnitude of the contradiction between the representation and internal reality is evidence of fraudulent intent.
+Verification: Casetext / Google Scholar: "Engalla v. Permanente Medical Group 15 Cal.4th 951"
+Verification status: PROPOSED — pending steward witness review

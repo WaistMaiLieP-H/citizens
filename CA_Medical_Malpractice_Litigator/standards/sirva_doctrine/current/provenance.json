@@ -1,0 +1,14 @@
+{
+  "standard_type": "case-law + regulatory framework (no single statutory text)",
+  "primary_authorities": [
+    "42 USC §300aa-10 et seq. (National Childhood Vaccine Injury Act / NCVIA)",
+    "42 USC §247d-6d (PREP Act liability immunity)",
+    "42 USC §247d-6e (CICP — Countermeasures Injury Compensation Program)",
+    "HHS Vaccine Injury Table (42 CFR §100.3, updated through 2017 SIRVA addition)",
+    "Bruesewitz v. Wyeth, 562 U.S. 223 (2011)",
+    "California CCP §340.5, §364, §3333.2 (MICRA overlay for state-court negligent-administration claims)"
+  ],
+  "current_framework_last_updated": "2026-04-10",
+  "retrieval_steward": "Claude (assistant) under direction of Michael Hartmann",
+  "verification_status": "PENDING — primary-source PDF capture of PREP Act declarations, CICP rulings, VICP Special Master SIRVA decisions, and the Bruesewitz opinion"
+}

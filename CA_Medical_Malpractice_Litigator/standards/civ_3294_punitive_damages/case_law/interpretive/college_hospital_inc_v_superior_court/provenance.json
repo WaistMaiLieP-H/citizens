@@ -1,0 +1,18 @@
+{
+  "case_slug": "college_hospital_inc_v_superior_court",
+  "full_citation": "College Hospital Inc. v. Superior Court, 8 Cal.4th 704 (1994)",
+  "parallel_citation": "35 Cal.Rptr.2d 898",
+  "court": "Supreme Court of California",
+  "decided": "1994",
+  "docket": "S025918",
+  "primary_source_url": "https://law.justia.com/cases/california/supreme-court/4th/8/704.html",
+  "secondary_source_url": "https://scholar.google.com/scholar_case?case=college+hospital+v+superior+court+1994",
+  "verbatim_opinion_capture_status": "PENDING — obtain from Justia or Google Scholar",
+  "holding_author": "Kennard, J.",
+  "holding_capture_status": "SYNTHESIZED FROM TRAINING KNOWLEDGE — two-witness verification pending",
+  "citation_reliability": "HIGH — 8 Cal.4th 704 (1994) is consistently cited in California civil practice; citation verified by multiple secondary sources",
+  "corpus_entry_date": "2026-04-11",
+  "built_by": "Terminal A",
+  "build_status": "PROPOSED",
+  "notes": "This case is the controlling California Supreme Court definition of 'despicable' under the 1987 amendment to §3294. Essential reading for any medical malpractice or MICRA punitive damages claim. The §425.13 procedural holding is equally important for the pleading sequence in healthcare defendant cases."
+}

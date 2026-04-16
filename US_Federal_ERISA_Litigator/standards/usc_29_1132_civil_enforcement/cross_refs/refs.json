@@ -1,0 +1,47 @@
+{
+  "standard": "usc_29_1132_civil_enforcement",
+  "cross_references": [
+    {
+      "cite": "29 U.S.C. § 1001",
+      "label": "ERISA Congressional Findings and Purpose",
+      "relationship": "parent_purpose",
+      "note": "§ 1132 enforcement mechanism gives effect to § 1001 congressional intent to protect pension rights of workers"
+    },
+    {
+      "cite": "29 U.S.C. § 1109",
+      "label": "Liability for Breach of Fiduciary Duty",
+      "relationship": "enforcement_target",
+      "note": "§ 1132(a)(2) authorizes civil action for relief under § 1109; fiduciary breach + enforcement are paired statutes"
+    },
+    {
+      "cite": "29 U.S.C. § 1113",
+      "label": "ERISA Statute of Limitations",
+      "relationship": "procedural_constraint",
+      "note": "Three-year SOL from actual knowledge of breach; six-year SOL from last act of breach; fraudulent concealment tolls"
+    },
+    {
+      "cite": "29 U.S.C. § 1133",
+      "label": "Claims Procedure",
+      "relationship": "exhaustion_predicate",
+      "note": "§ 1133 requires plan to provide adequate claims procedure; failure excuses § 1132 exhaustion requirement"
+    },
+    {
+      "cite": "29 C.F.R. § 2560.503-1",
+      "label": "ERISA Claims Procedure Regulation",
+      "relationship": "exhaustion_predicate",
+      "note": "Minimum standards for claims and appeals; violation by administrator excuses participant from exhaustion before filing § 1132 suit"
+    },
+    {
+      "cite": "18 U.S.C. § 1028",
+      "label": "Federal Identity Theft",
+      "relationship": "parallel_criminal",
+      "note": "Fraudulent retirement election filed using participant's SSN and identifying information without authorization is § 1028(a)(7) aggravated identity theft; parallel criminal referral to FBI and DOL-OIG"
+    },
+    {
+      "cite": "29 U.S.C. § 1021",
+      "label": "Plan Reporting and Disclosure",
+      "relationship": "document_demand_predicate",
+      "note": "§ 1132(c)(1) $110/day penalty is triggered by failure to produce documents required under § 1021; Summary Plan Description and plan document are primary demand targets"
+    }
+  ]
+}

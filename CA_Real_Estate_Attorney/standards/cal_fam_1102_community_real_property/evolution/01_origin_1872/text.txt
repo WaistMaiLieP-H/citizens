@@ -1,0 +1,15 @@
+CALIFORNIA CIVIL CODE § 172 (enacted 1872)
+Husband's Exclusive Management of Community Property — Origin
+
+SOURCE: California Civil Code, enacted March 21, 1872 (Deering's)
+REQUIRES_PRIMARY_SOURCE_VERIFICATION.
+
+--- Civil Code § 172 (1872 text) ---
+The husband has the management and control of the community personal property, with like absolute power of disposition, other than testamentary, as he has of his separate estate; but the wife, either personally or by duly authorized agent, must join with him in executing any instrument by which such community real property or any interest therein is leased for a longer period than one year, or is sold, conveyed, or encumbered; provided, however, that the sole lease, contract, mortgage or deed of the husband, holding the record title to community real property to a lessee, purchaser, or encumbrancer in good faith without knowledge of the marriage relation shall be presumed to be valid.
+
+--- Context for "join" requirement ---
+The original 1872 provision required the WIFE to join the HUSBAND's instrument for real property transactions. The husband held the "record title" and managed; the wife could only "join" — she could not initiate. This structural asymmetry was the precondition for the 19-unsigned-document pattern that recurs in community real property fraud.
+
+NOTE: This predecessor to § 1102 was also the direct predecessor to the present-day "both spouses must join" requirement. The critical change in 1975 was transforming "wife must join husband" into "both spouses must jointly execute" — removing the initiator/joiner hierarchy.
+
+PROVENANCE: Historical text. See provenance.json.

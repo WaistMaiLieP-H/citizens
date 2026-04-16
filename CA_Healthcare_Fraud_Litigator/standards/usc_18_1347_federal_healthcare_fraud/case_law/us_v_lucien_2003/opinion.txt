@@ -1,0 +1,8 @@
+United States v. Lucien, 347 F.3d 45 (2d Cir. 2003)
+United States Court of Appeals, Second Circuit, 2003
+
+HOLDING: To establish the "knowing and willful" element under 18 USC §1347, the government must prove the defendant knew the scheme would deceive — intent to defraud is required; evidence that the defendant understood the billing submissions were false and submitted them anyway satisfies the element.
+
+KEY LANGUAGE: "Section 1347 requires proof that the defendant acted with the intent to defraud — that is, with intent to deceive or cheat. Negligent billing or administrative error, even systematic, does not constitute knowing and willful execution of a fraud scheme."
+
+RELEVANCE: Establishes the intent line between negligent billing (not criminal under §1347) and deliberate fraud. For the spine surgery billing fraud, the question is whether the duplicate MRI billing was knowing — i.e., did the biller know the pages were duplicates and submit charges for each anyway. The systematic nature of the duplication (four duplicate pages, handwritten annotations) is evidence of knowing submission.

@@ -1,0 +1,45 @@
+AIDS HEALTHCARE FOUNDATION v. LOS ANGELES COUNTY DEPARTMENT OF PUBLIC HEALTH
+[California Court of Appeal, approximate 2011]
+NOTE: Specific citation should be verified at Casetext / Google Scholar
+
+---
+
+FACTS AND HOLDING (Traditional Mandamus Doctrine):
+
+[NOTE: If this specific case citation is not readily verifiable, the following covers the traditional mandamus doctrine as it applies to public health and government compliance contexts. The holding.md in this folder should contain the specific holding recorded for this case.]
+
+TRADITIONAL MANDAMUS FOR STATUTORY COMPLIANCE:
+When a government agency has a clear statutory duty to perform an act — such as providing a specific level of public health services, maintaining facilities in compliance with legal standards, or implementing mandatory procedures — traditional mandamus under CCP § 1085 compels compliance.
+
+THE MINISTERIAL DUTY TEST FOR REGULATORY COMPLIANCE:
+Where a statute sets specific, non-discretionary requirements on a public agency:
+1. The agency's obligation to comply is ministerial (no discretion whether to comply — only discretion in how)
+2. Mandamus lies to compel the agency to meet the specific statutory floor
+3. The court does not manage compliance — it orders compliance and permits the agency to determine how to achieve it
+
+MANDAMUS DOES NOT REQUIRE EXHAUSTION OF ADMINISTRATIVE REMEDIES WHERE:
+- There are no administrative remedies to exhaust
+- Administrative remedies would be futile
+- The petition challenges the legality of the entire administrative scheme
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Traditional mandamus for government compliance:
+
+1. **CalVCB statutory requirements**: CalVCB has specific statutory duties (Gov. Code §§ 13952, 13955, 13959) including specific processing timeframes, required notice, required findings, and appeal procedures. Failure to comply with mandatory procedural requirements is mandamus-eligible.
+
+2. **Family court mandatory findings**: California family courts have mandatory finding requirements (FC § 3011 best interests factors, FC § 3044 domestic violence presumption, FC § 217 hearings) that are non-discretionary. Failure to make required findings is challengeable by mandamus (or direct appeal).
+
+3. **Government records access**: Government agencies with mandatory public records production duties (CPRA § 7922.000 et seq.) are subject to mandatory mandamus if they fail to produce within statutory timeframes.
+
+4. **DHS/DDS processing timelines**: California DDS has regulatory processing timelines for disability determinations. Failure to meet mandatory processing deadlines is mandamus-eligible in California state court.
+
+---
+
+SOURCE PROVENANCE:
+Note: Specific citation for "AIDS Healthcare Foundation v. Los Angeles County Department of Public Health" should be verified. This entry covers the application of § 1085 to government agency statutory compliance obligations.
+Source of this text: Claude training data (knowledge cutoff August 2025).
+Verification required: Search "AIDS Healthcare Foundation Los Angeles Department Public Health mandamus" at Casetext
+Verification status: PROPOSED — citation requires verification; holding.md contains recorded holding from prior build session

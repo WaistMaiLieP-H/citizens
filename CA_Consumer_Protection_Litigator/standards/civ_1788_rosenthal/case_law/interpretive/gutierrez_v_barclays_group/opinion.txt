@@ -1,0 +1,66 @@
+GUTIERREZ v. BARCLAYS GROUP
+NO. 10-CV-1012-DMS (BGS) (S.D. Cal. 2011)
+United States District Court, Southern District of California
+Decided: 2011
+
+---
+
+FACTS:
+
+Plaintiffs brought claims under the Rosenthal Fair Debt Collection Practices Act (Cal. Civ. Code § 1788 et seq.) and the federal FDCPA (15 U.S.C. § 1692 et seq.) against Barclays Group and its debt collection affiliate for allegedly harassing debt collection phone calls. The calls were made at times and with a frequency that plaintiffs alleged constituted harassment under both statutes.
+
+The case addressed the Rosenthal Act's prohibition on harassment and abuse, particularly the provisions governing communication frequency and timing of collection calls.
+
+---
+
+HOLDING — ROSENTHAL HARASSMENT PROVISIONS:
+
+ROSENTHAL § 1788.11 PROHIBITION:
+No debt collector shall "cause a telephone to ring repeatedly or continuously to annoy the person called" or "place telephone calls without disclosure of the caller's identity." Cal. Civ. Code § 1788.11(d)-(e).
+
+The court applied the "least sophisticated debtor" standard in analyzing whether collection practices would be harassing or abusive — a standard lower than the "reasonable person" to provide extra protection to unsophisticated consumers.
+
+MULTIPLE CALLS IN A SHORT PERIOD:
+Evidence of repeated calls in a short time period — particularly when the debtor has asked for them to stop or has communicated that the calls are inconvenient — can support a Rosenthal harassment claim. The frequency and pattern of calls is a fact question.
+
+PRIVATE RIGHT OF ACTION:
+The Rosenthal Act provides a private right of action for violations. Civil Code § 1788.30:
+- Actual damages (including emotional distress damages);
+- Statutory damages up to $1,000 per case;
+- Attorney's fees to prevailing plaintiff.
+
+CLASS ACTIONS:
+The Rosenthal Act supports class actions. In a class action, the statutory damages cap is the lesser of $500,000 or 1% of the collector's net worth (per the incorporated FDCPA class cap, 15 U.S.C. § 1692k(a)(2)(B)).
+
+---
+
+THE RELATIONSHIP BETWEEN ROSENTHAL AND FDCPA:
+
+The Rosenthal Act incorporates by reference many FDCPA prohibitions (§§ 1788.11-1788.14), and California courts apply FDCPA case law to interpret parallel Rosenthal provisions. Federal FDCPA cases are therefore persuasive authority for Rosenthal claims.
+
+Key differences remain:
+- Rosenthal covers first-party collectors (original creditors); FDCPA does not;
+- Rosenthal has no bona fide error defense as robust as the federal version;
+- Rosenthal's "debt collector" definition is broader.
+
+---
+
+APPLICATION TO AUTO FRAUD COLLECTION:
+
+For a consumer subjected to debt collection activity following a void or rescinded auto financing transaction (such as a yo-yo financing contract returned to the dealer):
+1. The finance company or debt buyer collecting the deficiency is a "debt collector" under Rosenthal;
+2. Repeated calls about a debt the consumer disputes as not owed may constitute harassment under § 1788.11;
+3. Misrepresenting the amount or character of the deficiency (where the underlying contract was rescinded) is a false representation under § 1788.13;
+4. The private right of action includes actual damages, $1,000 statutory damages per case, and mandatory attorney's fees.
+
+---
+
+SOURCE PROVENANCE:
+Citation: No. 10-CV-1012-DMS (BGS) (S.D. Cal. 2011)
+Court: United States District Court, Southern District of California
+Note: This is a district court decision — persuasive authority interpreting Rosenthal Act harassment provisions. Not binding precedent. California state court decisions on the same provisions are controlling.
+Key holding: Rosenthal Act harassment provisions; least sophisticated debtor standard; private right of action scope
+Source of this text: Claude training data (knowledge cutoff August 2025). Gutierrez addresses Rosenthal harassment and call-frequency issues. Full verbatim text should be verified at:
+  - PACER / CourtListener (federal district court records)
+  - Google Scholar: "Gutierrez v. Barclays Group" 10-CV-1012
+Verification status: PROPOSED — pending steward witness review

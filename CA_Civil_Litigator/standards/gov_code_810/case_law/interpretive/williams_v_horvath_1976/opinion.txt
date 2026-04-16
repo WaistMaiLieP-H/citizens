@@ -1,0 +1,75 @@
+WILLIAMS v. HORVATH
+16 Cal.3d 834 (1976)
+California Supreme Court
+Decided: September 2, 1976
+
+---
+
+FACTS:
+
+Williams sued a public employee (Horvath, a police officer) for injuries sustained in a traffic accident caused by the officer's negligent driving. Williams failed to present a timely claim under the Government Claims Act (Gov. Code § 910 et seq.) before filing suit. The defendant moved to dismiss on the ground that timely claim presentation was a mandatory prerequisite to suit against a public employee and that the failure to present a timely claim barred the action.
+
+The California Supreme Court addressed whether the Government Claims Act's claim presentation requirement applied to suits against individual public employees — not just suits against governmental entities.
+
+---
+
+HOLDING:
+
+THE GOVERNMENT CLAIMS ACT COVERS SUITS AGAINST PUBLIC EMPLOYEES:
+"The Government Claims Act requires presentation of a claim not only against a public entity, but also against any public employee whose act or omission is alleged to have caused the injury. A plaintiff who fails to present a timely claim against the public employee cannot maintain a suit against that employee."
+
+THE STATUTORY BASIS — GOV. CODE § 950.2:
+Government Code § 950.2 expressly extends the claim presentation requirement to actions against public employees. The statute provides that a cause of action against a public employee for an act or omission in the scope of the employee's employment is subject to the claim presentation requirements of Part 3 of the Claims Act.
+
+THE HORVATH PRINCIPLE:
+"Where the plaintiff's cause of action arises from conduct of a public employee acting within the scope of employment, the plaintiff must present a timely Government Claims Act claim against the public employee as a condition precedent to filing suit — just as the plaintiff must present a claim against the employing entity."
+
+THE SCOPE-OF-EMPLOYMENT REQUIREMENT:
+The Act's reach to individual employees extends only when the employee was acting within the scope of employment at the time of the injury. Acts entirely outside the scope of employment may not trigger the Act's claim requirements as against the individual employee — but will typically also not be subject to employer (entity) liability.
+
+---
+
+THE CLAIM PRESENTATION REQUIREMENTS — PRACTICAL APPLICATION:
+
+WHO MUST BE NAMED IN A GOVERNMENT CLAIMS ACT CLAIM:
+Under Williams v. Horvath and § 950.2:
+1. The government entity (county, city, district, state agency) — always required under § 910
+2. Individual government employees acting within scope of employment — also required
+3. Failure to name an employee in the claim may bar the claim against that employee even if the claim against the entity was timely presented
+
+DOES THE CLAIM HAVE TO NAME EACH EMPLOYEE?
+Williams requires that claim presentation occur for public employee defendants. Practical guidance:
+- Name all known individual defendants in the Government Claims Act claim
+- If individual employees are not yet identified, describe the conduct and roles with sufficient particularity
+- For cases involving police officer conduct, name the agency and describe the officers by badge number and role
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Williams v. Horvath is foundational for cases involving individual government employees:
+
+1. **APD officers must be named in Government Claims Act claims**: For any claims against individual Antioch Police Department officers (excessive force, false arrest, unreasonable seizure, etc.) under California state tort law, those individual officers must be named in the Government Claims Act claim presentation — not just the City of Antioch.
+
+2. **Entity + employee both required**: The claim must be presented to both the City of Antioch AND to each named APD officer (or the claim must describe the officers sufficiently to give notice).
+
+3. **Scope of employment question**: State tort claims against APD officers for conduct in the course of their official duties fall within scope of employment → Government Claims Act applies to the officers individually. Intentional tortious misconduct by officers acting under color of authority may also be within scope under Mary M. v. City of Los Angeles (coercive authority).
+
+4. **§ 1983 claims are not subject to this rule**: Felder v. Casey (487 U.S. 131) holds that § 1983 claims against public employees do not require Government Claims Act presentation. Williams v. Horvath governs state tort claims only.
+
+5. **Claim presentation checklist for each case**:
+   - Present claim against the governmental entity (city/county)
+   - Present claim against each individual public employee defendant
+   - Serve within six months of accrual
+   - Retain proof of service
+
+---
+
+SOURCE PROVENANCE:
+Citation: 16 Cal.3d 834 (1976)
+Court: California Supreme Court
+Reporter: California Reports, Third Series, vol. 16, page 834
+Author: Mosk, J.
+Source of this text: Claude training data (knowledge cutoff August 2025). Williams v. Horvath held that the Government Claims Act claim presentation requirement extends to individual public employees acting within the scope of their employment — not just to governmental entities.
+Verification: Casetext / Google Scholar: "Williams v. Horvath 16 Cal.3d 834"
+Verification status: PROPOSED — pending steward witness review

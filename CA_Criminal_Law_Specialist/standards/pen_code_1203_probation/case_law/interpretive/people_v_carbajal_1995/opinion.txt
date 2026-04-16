@@ -1,0 +1,55 @@
+PEOPLE v. CARBAJAL
+10 Cal.4th 1114 (1995)
+California Supreme Court
+Decided: 1995
+
+---
+
+FACTS:
+
+The defendant was convicted and placed on probation with conditions the court imposed to promote rehabilitation and protect the community. The defendant challenged specific conditions as unreasonable, arguing they were unrelated to the crime of conviction or the defendant's personal history.
+
+---
+
+HOLDING:
+
+NEXUS TEST FOR PROBATION CONDITIONS:
+
+1. **Three-part nexus test.** A probation condition is valid if it: (a) has a relationship to the crime of which the defendant was convicted, OR (b) relates to conduct that is not criminal but that the court reasonably believes the defendant is likely to re-engage in if not prohibited, OR (c) relates to future criminality generally and is reasonably designed to prevent the type of conduct that led to the conviction.
+
+2. **Broad trial court discretion.** Trial courts have broad discretion in imposing probation conditions. An appellate court will not disturb a probation condition unless the trial court abused its discretion — i.e., unless the condition is arbitrary or bears no reasonable relationship to rehabilitation.
+
+3. **Conditions cannot be patently unreasonable.** Even with broad discretion, conditions that are overbroad, vague, or that impose unconstitutional burdens on fundamental rights are subject to challenge. Constitutional challenges (First Amendment, Fourth Amendment) are evaluated by the sentencing court.
+
+4. **Rehabilitative purpose governs.** The primary purpose of probation is rehabilitation, not additional punishment. Conditions must be anchored to that purpose, though the nexus can be indirect.
+
+---
+
+NEXUS TEST IN PRACTICE:
+
+- **Relationship to the crime** — A condition directly related to the offense (e.g., no contact with victim in a battery case; no alcohol for a DUI) satisfies the nexus test on its face.
+- **Likely future conduct** — Even if not connected to the specific crime, valid if the record shows a pattern of conduct the condition is designed to interrupt (e.g., drug testing for a person with substance abuse history even if the conviction was not drug-related).
+- **General crime prevention** — Broadest prong; conditions designed to reduce recidivism generally are permissible if not arbitrary.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For case 04-23-01959 (§ 273d allegation), if probation is granted:
+1. **Mandatory counseling** (domestic violence or parent-child counseling) — nexus to § 273d is clear; appropriate under Carbajal
+2. **No-contact with child victim** — must be carefully tailored; overbroad condition preventing all contact with children when defendant is custodial parent must be challenged under Carbajal prong (a) — no nexus to a non-existing violent history
+3. **Firearms prohibition** — separately mandated by statute; Carbajal does not govern
+4. **Substance abuse testing** — requires nexus; if no substance abuse in the facts, condition should be challenged as failing all three Carbajal prongs
+5. **GPS monitoring** — privacy interest; must satisfy Carbajal + reasonableness; overbroad if not tied to a specific flight or safety risk
+
+A probation condition preventing a parent from contacting their custodial children must be evaluated under Carbajal AND the Family Code framework. Probation cannot strip constitutionally protected family rights beyond what the offense and child safety require.
+
+---
+
+SOURCE PROVENANCE:
+Citation: People v. Carbajal (1995) 10 Cal.4th 1114, 43 Cal.Rptr.2d 681
+Court: California Supreme Court
+Reporter: California Reports, Fourth Series, vol. 10, page 1114
+Source: Knowledge cutoff August 2025. Major California Supreme Court probation decision. HIGH CONFIDENCE. Verify citation before use in filed document.
+Verification: Casetext / Google Scholar: "People v. Carbajal 10 Cal.4th 1114"
+Verification status: PROPOSED — pending steward witness review

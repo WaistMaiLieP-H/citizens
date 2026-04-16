@@ -1,0 +1,20 @@
+CALIFORNIA CIVIL CODE § 5125.1 (enacted 1987)
+First Statutory Remedy for Breach of Spousal Fiduciary Duty During Marriage
+
+SOURCE: Stats. 1987, ch. 128 (SB 1030) — enacted Civ. Code § 5125.1, effective July 1, 1987
+REQUIRES_PRIMARY_SOURCE_VERIFICATION for exact bill text and chapter number.
+
+--- Civil Code § 5125.1 (1987 text — summary) ---
+A spouse shall have a claim against the other spouse for any breach of the fiduciary duty set forth in Section 5103 [now Fam. Code § 721] that results in impairment to the claimant spouse's undivided one-half interest in the community estate.
+
+[Includes:]
+- Court authority to order accounting of community property
+- Court authority to order title reformation to reflect community character
+- Three-year statute of limitations from actual knowledge of the transaction
+- Remedies:
+  - 50% of any asset undisclosed or transferred in breach (§ 5125.1(g))
+  - Value measured at highest value at: (i) date of breach, (ii) date of sale/disposition, or (iii) date of court award
+
+NOTE: The 1987 text established the foundational remedy structure. The 100% super-remedy for §3294 (despicable) breaches — now Fam. Code § 1101(h) — was added by a subsequent amendment. See stage 03.
+
+PROVENANCE: Requires primary source verification. See provenance.json.

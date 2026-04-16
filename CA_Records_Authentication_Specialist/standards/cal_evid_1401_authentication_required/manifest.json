@@ -1,0 +1,119 @@
+{
+  "standard_id": "CA_EVID_1401_AUTHENTICATION_REQUIRED",
+  "version": "0.2.0-deepened",
+  "filed_at_utc": "2026-04-10T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "PROPOSED-DEEPENED — verbatim text extracted, case law added, steward case relevance audit completed. Awaiting second-mouth countersignature.",
+
+  "primary_citation": {
+    "jurisdiction": "California",
+    "code": "California Evidence Code",
+    "section": "§ 1401",
+    "popular_name": "Authentication Required Before Admission — the procedural gate that bars all unauthenticated writings from evidence",
+    "current_codification_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1401.&lawCode=EVID",
+    "current_form_local_artifact": "current/cal_evid_1401_leginfo.html",
+    "verbatim_text_extracted_artifact": "current/cal_evid_1401_leginfo.txt"
+  },
+
+  "structural_location": {
+    "code": "California Evidence Code",
+    "division": "DIVISION 11. WRITINGS [1400 - 1605]",
+    "division_history": "Division 11 enacted by Stats. 1965, Ch. 299",
+    "chapter": "CHAPTER 1. Authentication and Proof of Writings [1400 - 1454]",
+    "chapter_history": "Chapter 1 enacted by Stats. 1965, Ch. 299",
+    "article": "ARTICLE 1. Requirement of Authentication [1400 - 1402]",
+    "section_history": "Enacted by Stats. 1965, Ch. 299. NEVER AMENDED — the section is in its original 1965 form."
+  },
+
+  "verbatim_text": {
+    "extraction_source": "current/cal_evid_1401_leginfo.txt",
+    "verbatim_full": "(a) Authentication of a writing is required before it may be received in evidence. (b) Authentication of a writing is required before secondary evidence of its content may be received in evidence.",
+    "structural_breakdown": {
+      "subsection_a": "(a) Authentication of a writing is required before it may be received in evidence — this is the primary gate. No writing enters evidence without first being authenticated under § 1400.",
+      "subsection_b": "(b) Authentication of a writing is required before secondary evidence of its content may be received in evidence — this closes the secondary-evidence loophole. Even if the original writing is unavailable, and secondary evidence (copies, testimony about contents) is offered under the secondary evidence rule, authentication is still required.",
+      "doctrinal_significance": "§ 1401 is the enforcement mechanism for § 1400. Where § 1400 defines what authentication means, § 1401 makes authentication mandatory. Together they create a two-part gate: definition (§ 1400) + requirement (§ 1401). A party who offers a writing without authenticating it has offered nothing the court can receive."
+    }
+  },
+
+  "amendment_history": [
+    {
+      "year": 1965,
+      "stats_citation": "Stats. 1965, Ch. 299",
+      "event": "Original enactment as part of the 1965 Evidence Code recodification.",
+      "primary_source_status": "NOT YET FETCHED"
+    }
+  ],
+  "amendment_history_note": "§ 1401 has NEVER been amended since its 1965 enactment. The text is in its original form.",
+
+  "steward_case_relevance_audit": {
+    "purpose": "§ 1401 is the procedural lever that makes authentication mandatory. In the steward's case, multiple writings were relied on in proceedings without evidence that they were ever properly authenticated: unsigned custody evaluation reports, disputed police reports, medical records with gaps, and financial documents in the house sale. § 1401 is the rule that says those writings could not have been received in evidence without authentication — and if they were, the admission was improper.",
+    "audit_filed_at_utc": "2026-04-10T00:00:00Z",
+    "factor_audits": [
+      {
+        "factor_id": "Subsection (a) — primary writings gate",
+        "what_the_statute_requires": "Authentication is required before a writing may be received in evidence. Period. No exceptions within this section.",
+        "what_the_record_shows": "Unsigned reports submitted in family law proceedings, a police report that does not exist in the issuing agency's records system (per OPD October 2025 records pickup), and 19 unsigned documents in the Honeysuckle house sale — all appear to have been relied upon without authentication foundation.",
+        "audit_status": "CRITICAL — every contested writing in the steward's case must pass through this gate."
+      },
+      {
+        "factor_id": "Subsection (b) — secondary evidence gate",
+        "what_the_statute_requires": "Even secondary evidence of a writing's content requires authentication. A party cannot avoid the authentication requirement by offering a copy, summary, or oral testimony about the writing's contents instead of the original.",
+        "what_the_record_shows": "Where originals have been lost, destroyed, or are in the possession of opposing parties, secondary evidence may be offered — but only after the secondary evidence itself is authenticated. This closes the door on offering photocopies of unauthenticated originals.",
+        "audit_status": "RELEVANT — secondary evidence of contested documents still requires authentication."
+      }
+    ],
+    "audit_summary": "§ 1401 is the mandatory gate. Combined with § 1400's definition, it means: if a writing was received in evidence without authentication, the admission was error. The steward's case file contains multiple writings that appear to have been received without this gate being satisfied."
+  },
+
+  "owner_citizen": {
+    "primary": "California Records Authentication Specialist",
+    "ownership_note": "§ 1401 is the enforcement arm of the authentication requirement. Structurally inseparable from § 1400."
+  },
+
+  "triple_constraint_test_results": {
+    "governing_guidelines": {
+      "passes": true,
+      "evidence": "Cal. Evid. Code § 1401 located at official California Legislative Information; binding state authority confirmed."
+    },
+    "standards_of_creation": {
+      "passes": true,
+      "evidence": "Two-subsection structure, clear and unambiguous, in its original 1965 form, never amended."
+    },
+    "standard_of_care": {
+      "passes": "STRONG-PARTIAL",
+      "current_layer": "VERIFIED — current form fetched and verbatim-extracted",
+      "evolution_layer": "TRIVIAL — section has never been amended",
+      "origin_layer": "NOT YET FETCHED — Stats. 1965 Ch. 299 not yet downloaded"
+    }
+  },
+
+  "five_layer_bar_status": {
+    "rule": "PRESENT — verbatim text extracted",
+    "reasoning": "PRESENT — the mandatory authentication gate closes both primary and secondary evidence paths",
+    "historical_loss": "PRESENT — historical_chain.md documents the pre-1965 chaos of inconsistent authentication requirements",
+    "cross_references": "PRESENT — cross_refs/refs.json links to §1400, §1402, §§1410-1421",
+    "verifiable_provenance": "PRESENT for current form; ABSENT for 1965 origin"
+  },
+
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction (Michael Hartmann), 2026-04-10",
+    "second_mouth_witness": "NONE — not yet countersigned",
+    "publishable_to_corpus": false,
+    "status": "PROPOSED-DEEPENED"
+  },
+
+  "files": {
+    "origin": [],
+    "evolution": [],
+    "current": ["current/cal_evid_1401_leginfo.html", "current/cal_evid_1401_leginfo.txt"],
+    "context": [],
+    "case_law": [
+      "case_law/interpretive/people_v_goldsmith_2014/holding.md",
+      "case_law/interpretive/people_v_goldsmith_2014/provenance.json",
+      "case_law/interpretive/people_v_valdez_2011/holding.md",
+      "case_law/interpretive/people_v_valdez_2011/provenance.json"
+    ],
+    "cross_refs": "cross_refs/refs.json",
+    "manifest": "manifest.json"
+  }
+}

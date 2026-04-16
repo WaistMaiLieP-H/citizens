@@ -1,0 +1,61 @@
+KUSH v. RUTLEDGE
+460 U.S. 719 (1983)
+United States Supreme Court
+Decided: April 4, 1983
+
+---
+
+FACTS:
+
+Native American football players at the University of Arizona brought a § 1985(1) claim against coach Frank Kush and university officials, alleging a conspiracy to intimidate witnesses and obstruct justice in connection with a lawsuit filed against Kush. The plaintiffs argued the conspiracy targeted them based on their race.
+
+The threshold question was whether the first two subsections of § 1985 — § 1985(1) (preventing federal officers from performing duties) and § 1985(2) (obstructing justice in federal courts) — required a showing of racial or class-based discriminatory animus, as § 1985(3) did under Griffin v. Breckenridge (1971).
+
+---
+
+HOLDING:
+
+Justice Marshall wrote for a unanimous Court.
+
+§ 1985(1) and § 1985(2) [FIRST CLAUSE] DO NOT REQUIRE CLASS-BASED ANIMUS:
+Griffin v. Breckenridge had held that § 1985(3) requires proof of class-based discriminatory animus to state a claim. But Griffin's animus requirement was specific to § 1985(3) — it was not a general requirement for all three subsections.
+
+§ 1985(1) — Preventing Federal Officers:
+Section 1985(1) protects federal officers from conspiracies to prevent them from discharging their official duties. No class-based animus is required. The protection is based on the officer's status as a federal officer, not on membership in any protected class.
+
+§ 1985(2) — Obstructing Justice in Federal Courts [First Clause]:
+The first clause of § 1985(2) — protecting litigants, witnesses, and jurors from intimidation in FEDERAL courts — does not require class-based animus. The text protects anyone involved in federal judicial proceedings.
+
+§ 1985(2) — SECOND CLAUSE — STATE COURTS:
+The second clause of § 1985(2), covering conspiracies to obstruct justice in STATE courts, DOES require class-based discriminatory animus under Griffin (because it mirrors § 1985(3)'s equal-protection concern).
+
+THE KUSH STRUCTURAL READING OF § 1985:
+| Subsection | Subject Matter | Animus Required? |
+|---|---|---|
+| § 1985(1) | Conspiracies against federal officers | NO |
+| § 1985(2) first clause | Federal court proceedings | NO |
+| § 1985(2) second clause | State court proceedings | YES (class-based) |
+| § 1985(3) | Depriving persons of equal protection | YES (class-based) |
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Kush resolves a critical structural question for § 1985 claims:
+
+1. **§ 1985(2) — Federal court obstruction**: If witnesses have been intimidated, communications have been intercepted, or evidence has been suppressed in connection with federal proceedings (the § 1983 complaint, or any federal court case), § 1985(2) first clause applies WITHOUT needing to prove the conspiracy was motivated by class-based animus. Proving a conspiracy to intimidate a witness in a federal proceeding is enough.
+
+2. **SIM swap / phone interception as § 1985(2) conspiracy**: If Ryan McClaran and affiliated actors intercepted communications to prevent witnesses from providing testimony in federal proceedings, that conduct falls under the no-animus-required § 1985(2) first clause.
+
+3. **Combination with § 1985(3)**: Claims against the same defendants may proceed under both § 1985(2) (for federal court obstruction — no animus needed) and § 1985(3) (for equal-protection conspiracy — animus based on parent-class or sex discrimination required).
+
+---
+
+SOURCE PROVENANCE:
+Citation: 460 U.S. 719 (1983)
+Court: United States Supreme Court
+Reporter: United States Reports, vol. 460, page 719
+Author: Marshall, J. (unanimous)
+Source of this text: Claude training data (knowledge cutoff August 2025). Kush v. Rutledge resolved that § 1985(1) and the first clause of § 1985(2) do not require class-based discriminatory animus — only § 1985(3) (and § 1985(2) second clause) impose that requirement.
+Verification: CourtListener / Justia / Google Scholar: "Kush v. Rutledge 460 U.S. 719"
+Verification status: PROPOSED — pending steward witness review

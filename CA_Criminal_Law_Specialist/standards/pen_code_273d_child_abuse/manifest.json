@@ -1,0 +1,46 @@
+{
+  "standard_id": "pen_code_273d_child_abuse",
+  "cite": "Pen. Code § 273d",
+  "short_name": "Child Abuse — Corporal Punishment / Traumatic Condition",
+  "citizen": "CA_Criminal_Law_Specialist",
+  "layer_status": {
+    "statute_current": "COMPLETE — text.txt captured from leginfo via VernenLegal MCP 2026-04-11",
+    "context": "COMPLETE — elements, defense framework, case relevance",
+    "historical_chain": "COMPLETE — 1965 origin, major amendments, CALCRIM",
+    "cross_refs": "COMPLETE — 11 cross-references",
+    "case_law": "PARTIAL — 1 documented case (People v. Hamlin 2009), 1 doctrinal placeholder",
+    "evolution_layer": "NOT YET BUILT — major amendment detail (1987 probation conditions, 1992 treatment program) pending",
+    "opinion_text": "NOT YET CAPTURED"
+  },
+  "five_layer_score": "3.5 / 5",
+  "cases_documented": 1,
+  "cases_placeholder": 1,
+  "case_references": [
+    {
+      "folder": "people_v_hamlin_2009",
+      "cite": "People v. Hamlin (2009) 170 Cal.App.4th 1412",
+      "type": "documented",
+      "key_holding": "traumatic condition defined as any wound from physical force, regardless of severity; photographs sufficient"
+    },
+    {
+      "folder": "people_v_frahs_placeholder",
+      "cite": "DOCTRINAL PLACEHOLDER — False Accusation Defense",
+      "type": "placeholder",
+      "key_holding": "pending"
+    }
+  ],
+  "target_cases": [
+    "04-23-01959 (Criminal 04-23-01959 — Child Abuse, Contra Costa)"
+  ],
+  "priority": "CRITICAL — active criminal case",
+  "built_by": "Claude (CA_Criminal_Law_Specialist) under steward direction — Michael Hartmann",
+  "built_at_utc": "2026-04-11T00:00:00Z",
+  "version": "v0.3.0-witnessed-by-herald",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

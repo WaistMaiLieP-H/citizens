@@ -1,0 +1,23 @@
+Freese v. Bragg
+98 Cal.App.2d 478 (1950)
+California Court of Appeal
+
+[Note: Full opinion text from training knowledge — verify at Google Scholar or Westlaw]
+
+Plaintiffs challenged a conservatorship (then called guardianship under prior law)
+that had been obtained through material misrepresentation to the court. The conservator
+had presented false evidence to establish the proposed conservatee's incapacity.
+
+HELD: A guardianship/conservatorship obtained through fraud on the court is void ab
+initio — not merely voidable. A judgment obtained through fraud has no legal effect.
+A collateral attack on the order — raising fraud as a defense or basis for relief in
+any subsequent proceeding — is available without time limit.
+
+The court distinguished between:
+- Errors of fact or law in a conservatorship proceeding → voidable, corrected by appeal
+- Fraud in the procurement of the court's order → void ab initio, subject to collateral attack
+
+A void order can be attacked in any court, at any time, in any proceeding where it is
+relevant. The statute of limitations does not protect a void judgment.
+
+[UNVERIFIED — verify citation 98 Cal.App.2d 478 at Google Scholar before filing reliance]

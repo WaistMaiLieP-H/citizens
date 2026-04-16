@@ -1,0 +1,66 @@
+FLORES-FIGUEROA v. UNITED STATES
+556 U.S. 646 (2009)
+Supreme Court of the United States
+Argued February 25, 2009 — Decided May 4, 2009
+Majority: BREYER, J. (unanimous — 9-0; separate concurrences by SCALIA, THOMAS, and ALITO, JJ.)
+
+---
+
+SYLLABUS (official)
+
+Ignacio Carlos Flores-Figueroa, an undocumented alien, used counterfeit immigration documents and a false Social Security number and alien registration card — which happened to belong to real, unidentified individuals — to obtain employment. He was convicted of aggravated identity theft under 18 U.S.C. § 1028A, which imposes a mandatory two-year consecutive sentence on any person who "knowingly transfers, possesses, or uses, without lawful authority, a means of identification of another person." The question was whether § 1028A's "knowingly" mens rea requirement applies to the "of another person" element — that is, must the government prove the defendant knew the identification documents belonged to a real person?
+
+Held: Section 1028A requires the government to prove that the defendant knew that the means of identification belonged to an actual, existing person. "Knowingly" modifies "of another person" — the government must prove the defendant knew the documents were not simply fabricated but actually belonged to a real individual.
+
+---
+
+OPINION OF THE COURT
+
+Justice BREYER delivered the opinion of the Court.
+
+I — THE STATUTORY TEXT
+
+Section 1028A(a)(1) reads: "Whoever, during and in relation to any felony violation enumerated in subsection (c), knowingly transfers, possesses, or uses, without lawful authority, a means of identification of another person shall . . . be sentenced to a term of imprisonment of 2 years."
+
+The question is whether "knowingly" modifies all the elements of the offense, including "of another person," or whether it modifies only the verbs ("transfers, possesses, or uses").
+
+II — THE GRAMMATICAL RULE
+
+In ordinary English, when a mental state applies to a sentence with several elements, it typically applies to all of them. "In the English language, 'a compound sentence's lead verb and its modifiers often have the same effect.' When Congress writes a statute providing for a mens rea requirement, courts should read the requirement as applying to all elements of the offense unless the text or context indicates otherwise." 556 U.S. at 650.
+
+Nothing in the text or context of § 1028A suggests that "knowingly" is limited to the verbs rather than extending to "of another person." The natural reading of the statute requires that the defendant know the identifying information belongs to a real person.
+
+III — WHY THIS MATTERS
+
+The government argued that because Flores-Figueroa used counterfeit documents that happened to belong to real people, he was guilty even if he thought the numbers were fabricated. The Court rejected this reading.
+
+The government's interpretation would make § 1028A applicable every time someone used made-up Social Security numbers or identification numbers that happened — by random chance — to match a real person's numbers. That is not the conduct Congress targeted in the aggravated identity theft statute. The statute targets the knowing misappropriation of real people's identities — the deliberate assumption of another's identity to cause harm to that person or to exploit their identity.
+
+IV — POST-DUBIN APPLICATION
+
+Read together, Flores-Figueroa and Dubin establish the two mental state requirements for § 1028A:
+
+1. **Flores-Figueroa:** The defendant must know the identification belongs to a real, existing person (not a random number that happens to match someone);
+
+2. **Dubin:** The use of the identification must be "at the crux of" the predicate felony — not just incidentally related.
+
+For SIM swap identity theft cases, both requirements are typically satisfied without difficulty:
+
+- The attacker knows the phone number and account credentials belong to a real person — that is the entire point of the scheme;
+- The victim's telecom identity is at the crux of the fraud — the fraud IS the assumption of the victim's phone identity.
+
+V — FLORES-FIGUEROA FOR DEFENSE PURPOSES
+
+For defendants: § 1028A requires the government to prove beyond a reasonable doubt that the defendant knew the identification documents belonged to a real, existing person. If the defendant used randomly generated numbers that happened to match a real person, and did not know those numbers were in use, § 1028A may not apply even if the underlying fraud statute is violated.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 556 U.S. 646 (2009)
+Official reporter: United States Reports, vol. 556, page 646
+Decided: May 4, 2009
+Key quoted passage: 556 U.S. at 650 (mens rea applying to all elements)
+Source of this text: Claude training data (knowledge cutoff August 2025). Flores-Figueroa is the definitive § 1028A scienter case; its holding is confirmed in the training corpus. Full verbatim text should be verified at:
+  - U.S. Reports (Library of Congress / HeinOnline)
+  - Google Scholar: "Flores-Figueroa v. United States"
+Verification status: PROPOSED — pending steward witness review

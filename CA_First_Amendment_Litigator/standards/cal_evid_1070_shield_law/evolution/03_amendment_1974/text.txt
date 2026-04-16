@@ -1,0 +1,26 @@
+Evidence Code Section 1070 (as amended by Stats. 1974, Ch. 1323)
+
+[NOTE: The exact verbatim text of the 1974 amendment is believed to be substantially identical
+to the CURRENT text, since §1070 has not been amended since 1974.]
+
+The 1974 amendment is the most consequential amendment to §1070. According to secondary sources
+(Wikipedia, RCFP Compendium), the 1974 amendment:
+
+1. Added protection for "unpublished information" — not just source identity
+2. Defined "unpublished information" broadly to include "all notes, outtakes, photographs,
+   tapes or other data of whatever sort not itself disseminated to the public through a
+   medium of communication"
+
+The 1974 amendment was enacted in the same year as:
+- Proposition 7 (November 5, 1974), which comprehensively revised Article I of the Constitution
+- Two years after Branzburg v. Hayes (1972), in which the U.S. Supreme Court held 5-4 that
+  the First Amendment does not protect journalists from grand jury subpoenas seeking source
+  identity — making state shield laws the primary protection
+
+The current text of §1070 (confirmed via VernenLegal MCP tool, 2026-04-09) is believed to be
+the 1974 text without subsequent amendment. If this is correct, the current text IS the 1974 text.
+
+PRIMARY SOURCE STATUS: The enrolled bill text (Stats. 1974, Ch. 1323) would confirm this.
+Not yet fetched from California State Library.
+
+See current/cal_evid_1070_leginfo.txt for the text as it reads today.

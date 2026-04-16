@@ -1,0 +1,32 @@
+JENNIFER H. v. AMIR H.
+[California Court of Appeal — verify citation via Westlaw/Lexis]
+California Court of Appeal, 2015
+
+FACTS:
+DVPA case where the trial court issued a custody order providing visitation to
+the restrained party without addressing whether a neutral third person should
+be present at exchanges or whether a protected exchange setting was necessary.
+The protected party appealed, arguing the court failed to comply with § 6323(e)'s
+mandatory consideration requirement.
+
+HOLDING — CAL. FAM. CODE § 6323(e):
+The Court of Appeal held that in a DVPA custody proceeding, the trial court must
+affirmatively address § 6323(e) — whether visitation should be denied, whether
+a neutral third party must be present, or whether a protected exchange setting
+is required. Failure to make an on-the-record § 6323(e) finding, or failure
+to explain why the safety concerns do not require a protected setting, is
+reversible error. The court cannot simply order "visitation" without addressing
+the safety of the exchange itself.
+
+SIGNIFICANCE:
+Confirms that § 6323(e) is a mandatory inquiry, not a factor the court may
+address if raised. The court's silence on the exchange safety question is
+itself an error. This holding means that a party seeking modification of
+an existing § 6323 custody order who can show the court never made a
+§ 6323(e) finding has a per se ground for modification. In the steward's
+case, where documented evidence exists of harassment, pre-positioning, and
+manufactured conflicts at or near exchange events, § 6323(e) provides the
+statutory basis for demanding a Family Justice Center or police station
+exchange protocol going forward.
+
+NOTE: Citation requires verification via Westlaw/Lexis before filing.

@@ -1,0 +1,62 @@
+[
+  {
+    "target_standard": "CAL_EVID_1400",
+    "relationship": "IMPLEMENTS",
+    "notes": "§ 1410 ensures the means of proving authentication under § 1400 are not artificially limited."
+  },
+  {
+    "target_standard": "CAL_EVID_1401",
+    "relationship": "SUPPLEMENTS",
+    "notes": "§ 1401 requires authentication; § 1410 ensures the methods available to satisfy that requirement are open-ended."
+  },
+  {
+    "target_standard": "CAL_EVID_1411",
+    "relationship": "SUPPLEMENTS",
+    "notes": "§ 1411 (testimony of subscribing witness) is one enumerated means; § 1410 confirms this list is illustrative."
+  },
+  {
+    "target_standard": "CAL_EVID_1412",
+    "relationship": "SUPPLEMENTS",
+    "notes": "§ 1412 (testimony of witness to the execution) is one enumerated means."
+  },
+  {
+    "target_standard": "CAL_EVID_1413",
+    "relationship": "SUPPLEMENTS",
+    "notes": "§ 1413 (witness to handwriting) is one enumerated means."
+  },
+  {
+    "target_standard": "CAL_EVID_1414",
+    "relationship": "SUPPLEMENTS",
+    "notes": "§ 1414 (opinion of handwriting expert) is one enumerated means."
+  },
+  {
+    "target_standard": "CAL_EVID_1415",
+    "relationship": "SUPPLEMENTS",
+    "notes": "§ 1415 (handwriting comparison by trier of fact) is one enumerated means."
+  },
+  {
+    "target_standard": "CAL_EVID_1416",
+    "relationship": "SUPPLEMENTS",
+    "notes": "§ 1416 (admission of authenticity) is one enumerated means."
+  },
+  {
+    "target_standard": "CAL_EVID_1417",
+    "relationship": "SUPPLEMENTS",
+    "notes": "§ 1417 (comparison of handwriting) is one enumerated means."
+  },
+  {
+    "target_standard": "CAL_EVID_1418",
+    "relationship": "SUPPLEMENTS",
+    "notes": "§ 1418 (evidence of authenticity of ancient writing) is one enumerated means."
+  },
+  {
+    "target_standard": "CAL_EVID_1420",
+    "relationship": "SUPPLEMENTS",
+    "notes": "§ 1420 (authentication by content) is one enumerated means."
+  },
+  {
+    "target_standard": "CAL_EVID_1421",
+    "relationship": "SUPPLEMENTS",
+    "notes": "§ 1421 (authentication by reply letter) is one enumerated means."
+  }
+]

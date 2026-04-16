@@ -1,0 +1,25 @@
+KWIKSET CORP. v. SUPERIOR COURT
+51 Cal.4th 310 (2011)
+
+[Cross-reference: Canonical opinion.txt at CA_Consumer_Protection_Litigator/standards/bp_17200_ucl/case_law/interpretive/kwikset_v_superior_court/opinion.txt]
+
+This case appears in two standard folders:
+- bp_17200_ucl — canonical location (UCL standing analysis)
+- civ_1750_clra — this cross-reference (CLRA standing analysis)
+
+CLRA STANDING UNDER KWIKSET:
+Kwikset was decided under both the UCL and the CLRA. The CLRA's standing requirement (Civil Code § 1780(a) — "Any consumer who suffers any damage as a result of the use or employment by any person of a method, act, or practice declared to be unlawful") is interpreted in parallel with the UCL § 17204 "lost money or property" test.
+
+The economic injury standard is essentially identical: a consumer who paid money based on a fraudulent misrepresentation, and would not have paid that amount (or any amount) absent the misrepresentation, has suffered "damage as a result of" the CLRA violation.
+
+CLRA REMEDIES BEYOND UCL:
+Unlike the UCL (which provides only restitution and injunctive relief per Korea Supply), the CLRA provides:
+- Actual damages (§ 1780(a)(1));
+- Restitution of property (§ 1780(a)(2));
+- Punitive damages (§ 1780(a)(4)) — requires intentional violation;
+- Injunctive relief (§ 1780(a)(3));
+- Attorneys' fees (§ 1780(e) — mandatory for prevailing plaintiff in individual actions; discretionary for class actions).
+
+SOURCE PROVENANCE:
+See canonical opinion.txt at bp_17200_ucl/case_law/interpretive/kwikset_v_superior_court/opinion.txt
+Verification status: PROPOSED — cross-reference record

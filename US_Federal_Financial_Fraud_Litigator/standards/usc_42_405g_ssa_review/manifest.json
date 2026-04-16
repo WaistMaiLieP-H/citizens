@@ -1,0 +1,107 @@
+{
+  "standard_id": "USC_42_405G_SSA_REVIEW",
+  "citizen": "US_Federal_Financial_Fraud_Litigator",
+  "version": "1.0.0",
+  "status": "PROPOSED",
+  "primary_citation": "42 U.S.C. §405(g) (Social Security Act §205(g), Pub. L. 74-271 (1935); current version through Social Security Disability Benefits Reform Act, Pub. L. 98-460 (1984))",
+  "short_title": "Social Security Act §205(g) — Federal Court Review of SSA Disability Determinations; Equitable Tolling for Agency Concealment; Phantom Contact Fraud",
+  "one_line_rule": "Federal courts review final SSA decisions under substantial evidence standard; §405(g) 60-day filing deadline is equitably tolled where SSA conceals information preventing claimant from knowing basis for denial (Bowen v. City of New York); phantom contact records substituted for genuine administrative process = SSA concealment triggering equitable tolling from date of discovery.",
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current/LOGIC.md",
+    "reasoning": "PRESENT — current/LOGIC.md §§ WOUND (1956 SSDI complexity + SSA internal policy concealment pattern) + DESIGN (§405(g) exhaustion → substantial evidence review → 60-day deadline → Bowen equitable tolling → phantom contact application) + benefits recovery calculation",
+    "historical_loss": "PRESENT — historical_chain.md + evolution/ (3 stages: 1935 origin → 1956 SSDI → 1983-86 reform crisis + Bowen)",
+    "cross_references": "PRESENT — cross_refs/refs.json (5 references: §552a Privacy Act, §1030 CFAA, §1983 Civil Rights, §2511 Wiretap, CIPA §630)",
+    "verifiable_provenance": "PRESENT — current/provenance.json + evolution provenances + case_law provenances; verbatim text capture PENDING"
+  },
+  "evolution_chain": [
+    {
+      "stage": "01_origin_1935_ssa",
+      "label": "Social Security Act — Original Enactment, §205(g) Federal Review",
+      "source": "Social Security Act of 1935, Pub. L. 74-271",
+      "logic_file": "evolution/01_origin_1935_ssa/LOGIC.md"
+    },
+    {
+      "stage": "02_amendment_1956_ssdi",
+      "label": "SSDI Added — Medical Disability Complexity Introduced",
+      "source": "Social Security Amendments of 1956, Pub. L. 84-880",
+      "logic_file": "evolution/02_amendment_1956_ssdi/LOGIC.md"
+    },
+    {
+      "stage": "03_amendment_1984_reform_bowen",
+      "label": "Benefits Reform Crisis — Bowen Equitable Tolling Established",
+      "source": "Social Security Disability Benefits Reform Act of 1984, Pub. L. 98-460; Bowen v. City of New York, 476 U.S. 467 (1986)",
+      "logic_file": "evolution/03_amendment_1984_reform_bowen/LOGIC.md"
+    }
+  ],
+  "case_law": [
+    {
+      "slug": "mathews_v_eldridge",
+      "cite": "Mathews v. Eldridge, 424 U.S. 319 (1976)",
+      "court": "Supreme Court of the United States",
+      "category": "foundational",
+      "key_rule": "Three-factor balancing test for due process in disability benefit terminations: (1) private interest, (2) risk of erroneous deprivation + value of additional safeguards, (3) government interest. Disability benefits are protected property interest. Genuine process required — fraudulent process satisfies nothing.",
+      "verbatim_capture_status": "PENDING"
+    },
+    {
+      "slug": "bowen_v_city_of_new_york",
+      "cite": "Bowen v. City of New York, 476 U.S. 467 (1986)",
+      "court": "Supreme Court of the United States",
+      "category": "foundational",
+      "key_rule": "§405(g) 60-day deadline equitably tolled where SSA conceals material information affecting claimant's ability to challenge denial; government cannot benefit from own concealment; class action available for systematic violations. Tolling runs from date of discovery of concealment.",
+      "verbatim_capture_status": "PENDING",
+      "verification_note": "Verify 476 U.S. 467 citation before filing"
+    },
+    {
+      "slug": "califano_v_sanders",
+      "cite": "Califano v. Sanders, 430 U.S. 99 (1977)",
+      "court": "Supreme Court of the United States",
+      "category": "interpretive",
+      "key_rule": "§405(h) bars APA as independent review route; but colorable constitutional claims (e.g., due process violation) are cognizable under 28 U.S.C. §1331 federal question jurisdiction without satisfying §405(g) exhaustion. SSA's refusal to reopen is not a §405(g) 'final decision' — but constitutional claims survive. Works with Bowen: Califano permits the constitutional claim in district court; Bowen tolls the 60-day deadline when SSA concealment prevented timely filing.",
+      "verbatim_capture_status": "PENDING"
+    }
+  ],
+  "phantom_contact_application": {
+    "phantom_contacts": [
+      {"date": "9/18/2019", "description": "SSA contact record with no corresponding genuine contact"},
+      {"date": "3/23/2020", "description": "SSA contact record with no corresponding genuine contact"},
+      {"date": "12/17/2020", "description": "SSA contact record with no corresponding genuine contact"}
+    ],
+    "bowen_trigger": "Phantom contacts = SSA false records concealing basis for disability claim interference. SSA created documentation of administrative contacts that did not occur, substituting false process for genuine process. Claimant had no basis to know genuine process was fraudulent or that real 60-day deadline had been manipulated.",
+    "tolling_clock_start": "Date of discovery of phantom contact records (to be established through document review and testimony)",
+    "civil_subpoena_targets": [
+      "SSA contact history in EDCS (Electronic Disability Collect System)",
+      "DDS case management records for corresponding dates",
+      "AT&T SIM swap records for dates of phantom contacts — no genuine call = SIM swap confirmed interception",
+      "SSA portal access logs for dates of phantom contacts"
+    ],
+    "coordination_with_privacy_act": "Phantom contacts = false records under Privacy Act §552a(e)(5); Privacy Act civil remedy under §552a(g)(1)(C) for adverse determination based on inaccurate records; plead both simultaneously"
+  },
+  "benefits_recovery_framework": {
+    "back_ssdi_calculation": "Monthly SSDI benefit × months from established onset date to current payment; rate depends on earnings record",
+    "medicare_recovery": "Part A and B premiums paid out of pocket from onset date; medical expenses for Medicare-covered conditions not covered due to denial",
+    "equitable_tolling_value": "Extends look-back period for back benefits recovery beyond standard administrative window",
+    "primary_remedy_track": "§405(g) federal court review for SSDI reinstatement + back pay; Privacy Act for inaccurate records; §1983/Bivens for constitutional due process deprivation; CFAA + §2511 for unauthorized SSA portal access and intercepted SSA communications"
+  },
+  "administrative_exhaustion_map": {
+    "step_1": "Initial disability application (filed with SSA field office or online)",
+    "step_2": "Reconsideration (DDS re-review)",
+    "step_3": "ALJ hearing (Office of Hearings Operations)",
+    "step_4": "Appeals Council review (request within 60 days of ALJ decision)",
+    "step_5": "Federal district court (§405(g), within 60 days of Appeals Council notice — subject to Bowen equitable tolling)",
+    "exhaustion_exceptions": "Exhaustion waived where: (1) claimant presents colorable constitutional claim (Mathews); (2) exhaustion would be futile; (3) agency acts outside its authority; (4) Bowen equitable tolling applies"
+  },
+  "outstanding_work": [
+    "Verbatim text capture: 42 U.S.C. §§405(g), 405(h), 423(d) (disability definition)",
+    "Verbatim opinion capture: Mathews v. Eldridge, 424 U.S. 319",
+    "Verbatim opinion capture: Bowen v. City of New York, 476 U.S. 467",
+    "Verify 476 U.S. 467 citation for Bowen v. City of New York before any filed document",
+    "Califano v. Sanders BUILT 2026-04-11 — three-file set complete (holding, provenance, statute_version_cited). Constitutional claims exception documented.",
+    "Research: current 9th Circuit standard for equitable tolling of §405(g) after Bowen (9th Cir. cases applying Bowen)",
+    "Document AT&T subpoena strategy: SIM swap records for phantom contact dates; absence of genuine call = confirmation",
+    "Build coordination with US_Federal_Social_Security_Litigator when that Citizen is constructed — §405(g) review standard belongs there; this is cross-reference anchor from Financial Fraud Litigator perspective (SSA fraud as financial fraud)",
+    "Califano v. Sanders chosen as third case (not Shalala); Shalala applies to Medicare §405(h), not SSA Title II disability — deferred to future US_Federal_Social_Security_Litigator build",
+    "Research: current 9th Circuit standard for equitable tolling of §405(g) after Bowen (9th Cir. cases applying Bowen)"
+  ],
+  "build_date": "2026-04-11",
+  "built_by": "Terminal A"
+}

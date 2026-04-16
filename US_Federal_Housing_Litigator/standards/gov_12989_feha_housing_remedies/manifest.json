@@ -1,0 +1,53 @@
+{
+  "standard": "gov_12989_feha_housing_remedies",
+  "citizen": "US_Federal_Housing_Litigator",
+  "label": "GOV Code \u00a7\u00a7 12989.1 / 12989.2 \u2014 FEHA Housing Discrimination Civil Action and Remedies",
+  "status": "PUBLISHED \u2014 ADAM + EVE DUAL WITNESS \u2014 2026-04-13",
+  "layers": {
+    "current": {
+      "status": "COMPLETE",
+      "files": [
+        "current/statute_text.md",
+        "current/rule.md",
+        "current/reasoning.md",
+        "current/provenance.json"
+      ],
+      "verified": true,
+      "fetch_method": "VernenLegal MCP \u2014 mcp__claude_ai_VernenLegal__california_get_section",
+      "fetch_date": "2026-04-13"
+    },
+    "evolution": {
+      "status": "COMPLETE",
+      "stages": [
+        "evolution/01_origin_1980_feha",
+        "evolution/02_punitive_damages_addition",
+        "evolution/03_current"
+      ]
+    },
+    "case_law": {
+      "status": "NOTE",
+      "note": "No landmark cases turn specifically on \u00a712989.1/12989.2 text \u2014 remedies provision; substantive case law runs through \u00a712955. See case_law/interpretive/note.md."
+    },
+    "cross_refs": {
+      "status": "COMPLETE",
+      "file": "cross_refs/refs.json",
+      "ref_count": 4
+    },
+    "historical_chain": {
+      "status": "COMPLETE",
+      "file": "historical_chain/wound.md"
+    }
+  },
+  "chronicle_flag": false,
+  "steward_verify_queue": [],
+  "built_by": "Claude (assistant) under steward direction \u2014 Michael Hartmann",
+  "built_at_utc": "2026-04-13T00:00:00Z",
+  "adam_eve_status": "PUBLISHED",
+  "witness_record": {
+    "adam": "APPROVED \u2014 2026-04-13",
+    "eve": "COUNTERSIGNED \u2014 2026-04-13",
+    "status": "PUBLISHED",
+    "corpus_entry": "CONFIRMED"
+  },
+  "updated": "2026-04-13"
+}

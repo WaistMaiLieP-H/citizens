@@ -1,0 +1,12 @@
+{
+  "case_name": "People v. Greenfield",
+  "citation": "People v. Greenfield (1982) 134 Cal.App.3d Supp. 1",
+  "court": "California Superior Court, Appellate Department",
+  "year": 1982,
+  "source": "manifest.json cases_to_add list",
+  "verification_status": "PROPOSED — citation from manifest; Supp. reporter designation is legitimate (Appellate Dept. of Superior Court); recommend verification at Justia or courts.ca.gov before citing in filed document",
+  "key_holding": "§ 166 willfulness element; conscious/deliberate violation required; mistake of law not a defense; genuine mistake of fact about order's existence may negate willfulness",
+  "standard_cited": "pen_code_166_contempt",
+  "built_by": "Claude (CA_Criminal_Law_Specialist) under steward direction — Michael Hartmann",
+  "built_at_utc": "2026-04-12T00:00:00Z"
+}

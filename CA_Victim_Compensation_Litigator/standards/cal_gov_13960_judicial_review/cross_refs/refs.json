@@ -1,0 +1,40 @@
+{
+  "standard": "cal_gov_13960_judicial_review",
+  "cross_references": [
+    {
+      "cite": "CCP § 1094.5",
+      "label": "Standard of judicial review in administrative mandamus — incorporated by reference in § 13960(a)",
+      "relationship": "incorporated_by_reference"
+    },
+    {
+      "cite": "CCP § 1021.5",
+      "label": "Private attorney general fee recovery — expressly preserved by § 13960(b)(3); primary fee vehicle for CalVCB writ petitions",
+      "relationship": "fee_recovery"
+    },
+    {
+      "cite": "Gov. Code § 13959",
+      "label": "Administrative hearing and reconsideration — must be pursued (or waived) before § 13960 petition",
+      "relationship": "prerequisite"
+    },
+    {
+      "cite": "Bixby v. Pierno (1971) 4 Cal.3d 130",
+      "label": "Controlling standard for whether independent judgment or substantial evidence review applies under CCP § 1094.5",
+      "relationship": "controlling_case_law"
+    },
+    {
+      "cite": "Cal. Const. Art. I, § 28 (Marsy's Law)",
+      "label": "Elevates victim rights to constitutional status — supports argument for independent judgment review of CalVCB denials",
+      "relationship": "constitutional_foundation"
+    },
+    {
+      "cite": "Gov. Code § 13955",
+      "label": "Eligibility — legal questions under § 13955 reviewed de novo on writ petition",
+      "relationship": "substantive_standard"
+    },
+    {
+      "cite": "Gov. Code § 13956",
+      "label": "Denial grounds — legal questions under § 13956 reviewed de novo on writ petition",
+      "relationship": "substantive_standard"
+    }
+  ]
+}

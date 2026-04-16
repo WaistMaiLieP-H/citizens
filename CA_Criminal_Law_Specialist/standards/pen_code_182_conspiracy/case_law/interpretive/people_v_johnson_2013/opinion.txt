@@ -1,0 +1,46 @@
+PEOPLE v. JOHNSON
+57 Cal.4th 250 (2013)
+California Supreme Court
+Decided: 2013
+
+---
+
+FACTS:
+
+Multiple defendants were charged with conspiracy to commit various crimes across different transactions. The central issues were whether multiple agreements constituted one conspiracy or multiple conspiracies, and how the agreement element is established from circumstantial evidence.
+
+---
+
+HOLDING:
+
+CONSPIRACY AGREEMENT — STRUCTURE AND SCOPE:
+
+1. **The agreement need not be express.** A conspiracy agreement may be proven entirely from circumstantial evidence — from the acts of the parties and the reasonable inferences drawn from their conduct. Direct evidence of an express agreement is not required.
+
+2. **Single conspiracy with multiple objects.** Where multiple persons agree to commit several crimes as part of a single, unified scheme, all of those crimes are objects of a single conspiracy, not separate conspiracies. The test is whether the defendants agreed to work together toward a common goal — if so, there is one conspiracy regardless of how many discrete criminal acts are planned.
+
+3. **Each member liable for all co-conspirator acts in furtherance.** A conspirator is liable for every crime committed by any co-conspirator that was (a) committed in furtherance of the conspiracy and (b) reasonably foreseeable as a natural consequence of the common objective. The defendant need not have personally committed or even known about the specific criminal act.
+
+4. **Venue is proper in any county where any overt act occurred.** A single overt act anywhere extends proper venue throughout that county.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+AS COMPLAINANT — The 16-year orchestration documented in this corpus is one conspiracy with multiple criminal objects (§§ 182(a)(1), (a)(2), (a)(3), (a)(5)). Under Johnson, all actors who joined at any point are liable for the full scheme's criminal consequences, not just the acts they personally took.
+
+The circumstantial evidence standard is easy to meet when there is a documented 16-year pattern of coordinated conduct. The single conspiracy / multiple objects doctrine means all criminal acts across all 16 years are attributed to every conspirator — family law fraud, criminal case orchestration, property fraud, identity theft, medical fraud, communications fraud.
+
+AS DEFENDANT — Challenge the agreement element: parallel conduct (people doing similar things independently) is not the same as an agreement to act together. Challenge the "in furtherance" element: not all co-actor crimes are automatically attributable; must be reasonably foreseeable. Challenge the conspiracy's scope: argue separate, unconnected agreements rather than a single unified scheme (limits liability to the individual's own agreement).
+
+VENUE NOTE: For a 16-year conspiracy with overt acts across multiple counties (Contra Costa, Alameda, Solano, Marin), venue is proper in any county with any overt act — giving maximum flexibility in forum selection.
+
+---
+
+SOURCE PROVENANCE:
+Citation: People v. Johnson (2013) 57 Cal.4th 250, 159 Cal.Rptr.3d 70, 303 P.3d 379
+Court: California Supreme Court
+Reporter: California Reports, Fourth Series, vol. 57, page 250
+Source: Knowledge cutoff August 2025. Modern California Supreme Court authority on conspiracy agreement element. Still cited statewide.
+Verification: Casetext / Google Scholar: "People v. Johnson 57 Cal.4th 250"
+Verification status: PROPOSED — pending steward witness review

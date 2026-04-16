@@ -1,0 +1,36 @@
+{
+  "standard_id": "CAL_FAM_1102",
+  "version": "0.2.0-witnessed-by-herald",
+  "filed_at_utc": "2026-04-11T05:55:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "domain_note": "Community real property dual-consent rule. Paired with Fam. § 1100 (personal property) and § 1101 (remedy). Canonical build in CA_Real_Estate_Attorney because the Honeysuckle fact pattern is the target case.",
+  "primary_citation": {
+    "code": "California Family Code",
+    "section": "§ 1102",
+    "popular_name": "Community real property dual-consent rule",
+    "jurisdiction": "California (state)",
+    "location_in_code": "Family Code, Division 4, Part 4, Chapter 2",
+    "original_enactment": "Predecessor Civ. Code § 5127 (1872-era with 1975 equal-management reform); recodified to Fam. Code § 1102 in 1992/1994"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current text captured via MCP",
+    "reasoning": "PRESENT — dual-consent rule, bona fide purchaser exception, one-year SOL, interspousal exception, and interaction with § 1100 all documented",
+    "historical_loss": "PRESENT — pre-1975 husband's-management era covered in § 1100 historical chain; 1975 equal-management reform extended to community real property",
+    "cross_references": "PRESENT — cross_refs/refs.json",
+    "verifiable_provenance": "PARTIAL — current text via MCP"
+  },
+  "case_law": [],
+  "cases_to_add": [
+    "Mitchell v. American Reserve Ins. Co. (1980) 110 Cal.App.3d 220",
+    "Gantner v. Gantner (1952) 39 Cal.2d 272",
+    "In re Marriage of Starr (2010) 189 Cal.App.4th 277"
+  ],
+  "citizen_relevance": "Direct governing statute for the Honeysuckle house sale. Determines whether both spouses' signatures were required and whether the one-year SOL forecloses avoidance. Runs parallel to § 1101 remedy and § 1572 tort fraud claims.",
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

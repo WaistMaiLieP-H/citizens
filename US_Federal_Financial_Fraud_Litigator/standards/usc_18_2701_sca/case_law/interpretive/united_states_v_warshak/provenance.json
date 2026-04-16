@@ -1,0 +1,15 @@
+{
+  "case_slug": "united_states_v_warshak",
+  "citation": "United States v. Warshak, 631 F.3d 266 (6th Cir. 2010)",
+  "court": "United States Court of Appeals for the Sixth Circuit",
+  "year": 2010,
+  "reporter": "Federal Reporter, Third Series",
+  "volume": 631,
+  "page": 266,
+  "category": "interpretive",
+  "statute_version_applicable": "18 U.S.C. §§2701, 2703(b) (post-PATRIOT Act version)",
+  "rule_established": "Fourth Amendment requires search warrant for government access to stored email content regardless of storage age; SCA 180-day rule is unconstitutional for email content; stored email has same constitutional protection as sealed postal mail",
+  "circuit": "6th Circuit (persuasive authority in 9th Circuit California courts; DOJ adopted national warrant policy)",
+  "verbatim_capture_status": "PENDING",
+  "verification_note": "Verify 631 F.3d 266 citation via Westlaw or Lexis before use in filed documents; note 6th Circuit (not binding in 9th Circuit)"
+}

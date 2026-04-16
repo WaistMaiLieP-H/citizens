@@ -1,0 +1,77 @@
+COLGAN v. LEATHERMAN TOOL GROUP, INC.
+135 Cal.App.4th 663 (2006)
+California Court of Appeal, Second Appellate District
+Decided: January 25, 2006
+
+---
+
+FACTS:
+
+Leatherman Tool Group manufactured and sold multi-tools labeled "Made in U.S.A." The plaintiff discovered that the tools incorporated significant foreign-sourced components. Plaintiff brought CLRA, UCL (unlawful and fraudulent prongs), and False Advertising Law (§ 17500) claims on behalf of a class of California purchasers.
+
+---
+
+HOLDING — MATERIALITY OF ORIGIN REPRESENTATION:
+
+A "Made in U.S.A." label is a material representation to a reasonable consumer. Materiality was supported by survey evidence showing that a significant percentage of consumers prefer American-made products and would pay a premium for them. The court found this was not a close case — country-of-origin is widely recognized as a material fact to consumers.
+
+The representation violated CLRA § 1770(a)(7) (representing goods have characteristics, ingredients, uses, benefits, or qualities that they do not have).
+
+---
+
+HOLDING — RESTITUTION METHODOLOGY:
+
+Restitution under CLRA § 1780 and UCL § 17203 is measured by the "price premium" — the difference between the price the consumer actually paid and what the product was actually worth given the true facts.
+
+The court rejected two extreme approaches:
+- NOT "Full refund" — the consumer received a functioning multi-tool; they are not entitled to return the product and get everything back if the product had some value.
+- NOT "Zero recovery" — the consumer paid for an American-made product and received one made partly overseas; the difference in value is real.
+
+PRICE PREMIUM METHODOLOGY:
+"Restitution is the fair market value of what the plaintiff received minus the fair market value of what the plaintiff should have received. The difference is the economic harm attributable to the misrepresentation." (Paraphrase of court's methodology.)
+
+In practice, this requires evidence (typically expert testimony or survey evidence) of:
+1. The market price for the represented product (American-made multi-tools);
+2. The actual market value of what was received (foreign-component multi-tools);
+3. The premium = (1) minus (2).
+
+---
+
+FEDERAL PREEMPTION REJECTED:
+
+The defendant argued that the FTC's "all or virtually all" standard for "Made in U.S.A." claims under federal law preempted California's stricter interpretation. The court held that the FTC standard sets a federal floor, not a ceiling; California consumer protection law was not preempted.
+
+---
+
+APPLICATION TO AUTO FRAUD — CONDITION REPRESENTATIONS:
+
+Colgan's price premium methodology applies directly to vehicle condition misrepresentations:
+
+If a vehicle was represented as:
+- Accident-free (CARFAX showing no accidents) but had prior accident damage;
+- In good mechanical condition but had hidden defects;
+- With certain features or option packages that were missing;
+
+...the price premium is:
+- Market value of a vehicle with the represented characteristics;
+- Minus the actual market value of the vehicle with its true characteristics;
+- Equals the economic harm from the misrepresentation.
+
+For the RedJag (2018 Jaguar XE with wrong CARFAX):
+- Market value of a 2018 Jaguar XE with clean CARFAX as represented;
+- Minus actual market value of the 2018 Jaguar XE with true history (stripped, prior damage, or whatever the actual condition was);
+- = Restitution under CLRA/UCL.
+
+Expert evidence on vehicle condition and fair market value is required to quantify, but the methodology is established.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 135 Cal.App.4th 663 (2006)
+Official reporter: California Appellate Reports, Fourth Series, vol. 135, page 663
+Court: California Court of Appeal, Second Appellate District
+Key holding: Price premium methodology for CLRA/UCL restitution in misrepresentation cases
+Source of this text: Claude training data (knowledge cutoff August 2025). Colgan is cited as a foundational price-premium damages case. Full verbatim text should be verified at:
+  - courts.ca.gov
+  - Google Scholar: "Colgan v. Leatherman Tool Group"
+Verification status: PROPOSED — pending steward witness review

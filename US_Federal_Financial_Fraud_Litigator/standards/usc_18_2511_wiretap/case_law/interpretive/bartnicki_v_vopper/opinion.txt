@@ -1,0 +1,78 @@
+BARTNICKI v. VOPPER
+532 U.S. 514 (2001)
+Supreme Court of the United States
+Argued December 5, 2000 — Decided May 21, 2001
+Majority: STEVENS, J., joined by O'CONNOR, SOUTER, GINSBURG, and BREYER, JJ. (6-3)
+Concurrence: BREYER, J., joined by O'CONNOR, J.
+Dissent: REHNQUIST, C.J., joined by SCALIA and THOMAS, JJ.
+
+---
+
+SYLLABUS (official)
+
+An unknown person illegally intercepted and recorded a cell phone conversation between two union officials discussing labor negotiations, including a comment suggesting violence against school board members. The recording was given to Vopper, a radio commentator, who broadcast it multiple times. Bartnicki and Yocum (the union officials) sued Vopper under the federal Wiretap Act (18 U.S.C. § 2511) and state wiretapping law, seeking damages for the unauthorized disclosure of their conversation.
+
+Held: Where a person: (1) obtained a tape through lawful means; (2) knew or had reason to know the tape had been made through an illegal interception; and (3) the conversation involves a matter of public concern — the First Amendment interest in disclosure outweighs the government's interest in deterring wiretapping and protecting privacy. Vopper was not liable under these circumstances.
+
+---
+
+OPINION OF THE COURT
+
+Justice STEVENS delivered the opinion of the Court.
+
+I — THE TENSION
+
+This case involves a conflict between two fundamental interests: the privacy of the plaintiffs in their telephone conversation (protected by the Wiretap Act) and the First Amendment right of the defendants to disclose that conversation to the public.
+
+The Wiretap Act, 18 U.S.C. § 2511(1)(c) and (d), prohibits not only the interception of wire communications, but also the intentional disclosure or use of the contents of illegally intercepted communications when the disclosing party knows or has reason to know the communication was illegally intercepted.
+
+Section 2520 provides a civil remedy including actual damages, statutory damages of $100/day or $10,000 (whichever is greater), punitive damages, and attorneys' fees.
+
+II — THE NARROW HOLDING
+
+This case does not call into question the application of the Wiretap Act to the person who made the illegal interception, or to an interceptor who disclosed the conversation. The Act's civil and criminal penalties fully apply to the original interceptor.
+
+The question is the narrow one: can a third party who did not participate in the illegal interception — who received the recording through lawful means — be held liable for disclosing information that matters to the public?
+
+We hold that in this narrow circumstance — a third party who lawfully obtained an illegally intercepted recording, who knew of the interception, and who disclosed information of genuine public concern — the First Amendment bars liability.
+
+"[W]e hold that a stranger's illegal conduct does not suffice to remove the First Amendment shield from speech about a matter of public concern." 532 U.S. at 535.
+
+III — WHAT BARTNICKI DOES NOT HOLD
+
+BARTNICKI IS NOT A GENERAL IMMUNITY FOR DISCLOSING INTERCEPTED COMMUNICATIONS. The Court's holding is narrowly limited to:
+
+1. Third parties who did not participate in the illegal interception;
+2. Who obtained the recording through lawful means;
+3. Disclosing information of genuine public concern.
+
+BARTNICKI DOES NOT PROTECT:
+1. The person who made the illegal interception — full Wiretap Act liability applies;
+2. Persons who obtained the recording through illegal means (not lawfully);
+3. Disclosure of private conversations that do not involve matters of public concern;
+4. Disclosure for commercial gain or private advantage rather than public interest.
+
+IV — SIGNIFICANCE FOR PRIVATE INTERCEPTION CASES
+
+For cases where a private party (such as Christina Cerretani) allegedly intercepted phone calls or communications:
+
+1. The original interceptor faces full Wiretap Act civil and criminal liability — § 2511(1)(a) prohibits the interception itself;
+2. Any person who subsequently discloses the contents, knowing they were illegally intercepted, faces § 2511(1)(c) and (d) liability — Bartnicki's limited exception applies only to genuine matters of public concern disclosed by an uninvolved third party;
+3. Using illegally intercepted communications to inform strategy in family court or other proceedings, or sharing with state actors to influence government decisions, is not "disclosure of a matter of public concern" — it is private use for personal advantage, fully covered by § 2511(1)(d).
+
+The Bartnicki exception does not shelter:
+- Interception by a spouse or family member for personal advantage in litigation;
+- Sharing intercepted communications with law enforcement to prompt adverse action against the victim;
+- Using intercepted information to redirect or intercept services, communications, or benefits.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 532 U.S. 514 (2001)
+Official reporter: United States Reports, vol. 532, page 514
+Decided: May 21, 2001
+Key quoted passage: 532 U.S. at 535 ("stranger's illegal conduct" / First Amendment shield)
+Source of this text: Claude training data (knowledge cutoff August 2025). Bartnicki is the leading authority on First Amendment limits on Wiretap Act liability for third parties; its holdings are confirmed in the training corpus. Full verbatim text should be verified at:
+  - U.S. Reports (Library of Congress / HeinOnline)
+  - Google Scholar: "Bartnicki v. Vopper"
+Verification status: PROPOSED — pending steward witness review

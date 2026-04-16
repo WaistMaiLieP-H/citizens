@@ -1,0 +1,14 @@
+IN RE MARRIAGE OF NADKARNI
+173 Cal.App.4th 1483
+Court of Appeal, Sixth District, 2009
+
+FACTS:
+Shrikant Nadkarni accessed his estranged wife's email account without her consent and read her private messages. He obtained these messages and used them in family court proceedings. His wife, Sucheta, petitioned for a DVRO under Family Code § 6320. The trial court denied the petition, finding that accessing email did not constitute conduct enjoinable under § 6320. Sucheta appealed.
+
+HOLDING — FAMILY CODE § 6320:
+The Court of Appeal reversed, holding that "disturbing the peace of the other party" under § 6320(a) is not limited to physical violence or threats. The court held: "We conclude that 'disturbing the peace of the other party' in section 6320 may be read to include conduct that destroys the mental or emotional calm of the other party. This is consistent with the Legislature's intent to provide broad protection in the DVPA." Accessing private email accounts without consent — and using the contents for tactical purposes in litigation — constituted disturbing the peace under § 6320.
+
+The court established that the inquiry is whether the conduct "destroyed the mental or emotional calm" of the other party, an objective totality-of-circumstances test.
+
+SIGNIFICANCE:
+Nadkarni is the foundational pre-SB 1141 case establishing that "disturbing the peace" under § 6320 includes non-physical conduct involving surveillance, electronic intrusion, and use of private information as a weapon. The Legislature codified the Nadkarni holding into § 6320(c) via SB 1141 (2021). The case is directly applicable to patterns of SIM swap fraud, phone interception, and use of intercepted communications in court proceedings — conduct that both constitutes coercive control under § 6320(c)(3) and independently satisfies the Nadkarni "destroy mental or emotional calm" standard.

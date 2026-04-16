@@ -1,0 +1,37 @@
+{
+  "case_number": "RF09470833",
+  "court": "Alameda County Superior Court",
+  "type": "Dissolution (Michael's)",
+  "petitioner": "Michael Hartmann",
+  "respondent": "Christina Hartmann",
+  "filed_date": "2009-08",
+  "current_status": "VOIDED 2010-11-22",
+  "key_dates": [
+    {
+      "date": "2009-08",
+      "event": "Michael files for dissolution"
+    },
+    {
+      "date": "2010-11-22",
+      "event": "Case VOIDED"
+    }
+  ],
+  "source_folder": "${familylaw}/Dissolution-RF09470833/",
+  "related_actors": [
+    "cerretani_christina"
+  ],
+  "related_standards": [],
+  "related_cases": [
+    "RF09456481",
+    "RF10508853"
+  ],
+  "known_anomalies": [
+    "Case was voided in 2010-11-22 without explanation in the case file \u2014 the void event itself is an anomaly that should be investigated",
+    "Christina's separate dissolution filing (RF10508853) was filed 2010-04-09 while Michael's RF09470833 was still active \u2014 duplicate dissolution filings are prohibited"
+  ],
+  "outstanding_investigations": [
+    "Why was RF09470833 voided on 2010-11-22? What was the order or stipulation that led to the voiding?",
+    "Did the voiding of RF09470833 have any procedural relationship to the 2010-09-02 Ajaniku/Delucchi hearing that removed protective supervision?"
+  ],
+  "filed_at_utc": "2026-04-08T18:05:00Z"
+}

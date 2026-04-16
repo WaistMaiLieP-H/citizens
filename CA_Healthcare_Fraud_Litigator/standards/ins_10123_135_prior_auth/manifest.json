@@ -1,0 +1,37 @@
+{
+  "standard_id": "INS_10123_135_PRIOR_AUTH",
+  "version": "0.3.0-published",
+  "citizen": "CA_Healthcare_Fraud_Litigator",
+  "popular_name": "Prior Authorization Requirements \u2014 Utilization Review Physician Mandate",
+  "authority": "Cal. Ins. Code \u00a7 10123.135",
+  "jurisdiction": "California",
+  "standard_type": "STATE_STATUTE",
+  "status": "PUBLISHED",
+  "five_layer_score": 5,
+  "created": "2026-04-12",
+  "updated": "2026-04-12",
+  "build_session": "2026-04-12",
+  "case_relevance": [
+    "#11 \u2014 Spine Surgery Fraud: Blue Shield prior auth denial \u2014 was denial made by licensed physician in relevant specialty? Was timeline met? Was AI/algorithm used to deny?",
+    "#12-14 \u2014 Related prior auth denials in same treatment arc",
+    "#20 \u2014 SIRVA surgery: prior auth compliance for Dr. Wiseman shoulder procedure"
+  ],
+  "layers": {
+    "rule": "COMPLETE",
+    "reasoning": "COMPLETE",
+    "historical_loss": "COMPLETE",
+    "cross_references": "COMPLETE",
+    "verifiable_provenance": "COMPLETE"
+  },
+  "two_witness_status": {
+    "adam": "APPROVED",
+    "eve": "COUNTERSIGNED",
+    "status": "PUBLISHED"
+  },
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12.",
+    "scope": "Structure, five-layer bar completeness, case-relevance reviewed."
+  }
+}

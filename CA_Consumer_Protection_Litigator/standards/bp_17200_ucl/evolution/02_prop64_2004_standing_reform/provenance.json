@@ -1,0 +1,10 @@
+{
+  "stage": "02_prop64_2004_standing_reform",
+  "citation": "Proposition 64, approved by California voters Nov. 2, 2004; amending B&P §§17200, 17203, 17204",
+  "effective_date": "2004-11-03",
+  "key_change": "§17204 standing: 'any person' → 'any person who has suffered injury in fact and has lost money or property as a result of the unfair competition'",
+  "interpreting_case": "Kwikset Corp. v. Superior Court, 51 Cal.4th 310 (2011) — defining 'lost money or property' broadly",
+  "capture_method": "LOGIC.md — structural knowledge base",
+  "verbatim_capture_status": "PENDING",
+  "build_date": "2026-04-11"
+}

@@ -1,0 +1,25 @@
+{
+  "case_id": "manjares_v_newton_1966",
+  "full_citation": "Manjares v. Newton, 64 Cal.2d 365 (1966)",
+  "parallel_citations": ["49 Cal.Rptr. 805", "411 P.2d 901"],
+  "court": "California Supreme Court",
+  "decided": "1966-03-22",
+  "category": "interpretive",
+  "sources": [
+    {
+      "name": "Justia",
+      "url": "https://law.justia.com/cases/california/supreme-court/2d/64/365.html"
+    },
+    {
+      "name": "Casetext",
+      "url": "https://casetext.com/case/manjares-v-newton"
+    },
+    {
+      "name": "Google Scholar",
+      "url": "https://scholar.google.com/scholar_case?case=7441825539498376281"
+    }
+  ],
+  "verification_status": "pending_primary_source_confirmation",
+  "filed_at_utc": "2026-04-08T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction -- Michael Hartmann, Vernen Legal Compliance"
+}

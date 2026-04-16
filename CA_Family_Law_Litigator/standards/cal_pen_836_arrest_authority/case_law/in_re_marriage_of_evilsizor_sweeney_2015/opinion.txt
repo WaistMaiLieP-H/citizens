@@ -1,0 +1,12 @@
+IN RE MARRIAGE OF EVILSIZOR AND SWEENEY
+(2015) 237 Cal.App.4th 1416
+Court of Appeal, First Appellate District, 2015
+
+FACTS:
+During custody dispute proceedings, one party obtained electronic communications through unauthorized access to the other party's devices and cloud accounts. Those communications were used to support a DVRO application. The court had to determine whether the DV protective order process could be used when the underlying evidence was obtained through a privacy violation, and also addressed DV enforcement procedures generally.
+
+HOLDING — Cal. Pen. Code § 836 / DVPA:
+The court affirmed the protective order while addressing the tension between the DVPA's protective purposes and evidentiary concerns. The court confirmed that the DVPA's enforcement mechanisms, including the mandatory arrest provisions of § 836, operate independently of how the initial DV evidence comes to light. The DV enforcement framework is designed to protect victims and its mandatory provisions must be applied when the statutory predicates are met.
+
+SIGNIFICANCE:
+This case is cited in the § 836 context for its treatment of DV enforcement as a mandatory framework, not a discretionary one. The holding reinforces that when the statutory predicates for mandatory arrest or notification exist, officers and courts cannot substitute their own judgment for the Legislature's. Also important for the steward's cases because it arose in the First Appellate District covering Contra Costa and Alameda counties — the same courts where Antioch PD and CCCSO enforcement failures occurred.

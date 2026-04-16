@@ -1,0 +1,81 @@
+{
+  "standard_id": "CCP_425_13_PUNITIVE_GATE",
+  "citizen": "CA_Medical_Malpractice_Litigator",
+  "version": "1.0.0",
+  "status": "PROPOSED",
+  "primary_citation": "Cal. Code Civ. Proc. §425.13 (Stats. 1987, Ch. 1498 (AB 3601), effective 1988-01-01)",
+  "short_title": "Punitive Damages Gate — Professional Negligence Against Health Care Providers",
+  "one_line_rule": "No punitive damages claim may be included in any pleading against a health care provider for professional negligence unless the court, on noticed motion supported by affidavit, finds substantial probability the plaintiff will prevail under §3294.",
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current/LOGIC.md",
+    "reasoning": "PRESENT — current/LOGIC.md §§ WOUND + DESIGN",
+    "historical_loss": "PRESENT — historical_chain.md + evolution/ (2 stages)",
+    "cross_references": "PRESENT — cross_refs/refs.json (4 references)",
+    "verifiable_provenance": "PRESENT — current/provenance.json; verbatim text capture PENDING"
+  },
+  "evolution_chain": [
+    {
+      "stage": "01_origin_1987",
+      "label": "Categorical Pleading Gate Enacted",
+      "source": "Stats. 1987, Ch. 1498 (AB 3601)",
+      "logic_file": "evolution/01_origin_1987/LOGIC.md"
+    },
+    {
+      "stage": "02_college_hospital_1994_despicable",
+      "label": "College Hospital — Despicable Defined; Prima Facie Standard Set",
+      "source": "College Hospital, Inc. v. Superior Court, 8 Cal.4th 704 (1994)",
+      "logic_file": "evolution/02_college_hospital_1994_despicable/LOGIC.md"
+    }
+  ],
+  "case_law": [
+    {
+      "slug": "central_pathology_v_superior_court",
+      "cite": "Central Pathology Service Medical Clinic, Inc. v. Superior Court, 3 Cal.App.4th 181 (1992)",
+      "court": "California Court of Appeal, Second Appellate District",
+      "category": "interpretive",
+      "key_rule": "Substance-over-label: §425.13 applies if the claim arises out of professional negligence, regardless of how plaintiff labels the cause of action. Genuine independent intentional torts (no nexus to professional conduct) are exempt.",
+      "verbatim_capture_status": "PENDING"
+    },
+    {
+      "slug": "college_hospital_v_superior_court",
+      "cite": "College Hospital, Inc. v. Superior Court, 8 Cal.4th 704 (1994)",
+      "court": "California Supreme Court",
+      "category": "interpretive",
+      "key_rule": "'Despicable' = so vile, base, contemptible, miserable, wretched or loathsome that it would be looked down upon and despised by ordinary decent people. 'Substantial probability' = prima facie case showing, not summary judgment standard. Financial motive + conscious disregard = despicable.",
+      "verbatim_capture_status": "PENDING"
+    }
+  ],
+  "micra_lattice_position": {
+    "gate_function": "§425.13 is the procedural gate; must be cleared before punitive damages can be pled",
+    "cap_interaction": "§3333.2 caps noneconomic compensatory damages but does NOT cap punitive damages; clearing §425.13 unlocks uncapped punitive recovery",
+    "collateral_source_interaction": "§3333.1 affects compensatory side only; punitive damages are separate and unaffected",
+    "hrimnak_escape": "Genuine intentional tort framing removes claim from §425.13 scope entirely (Central Pathology substance-over-label test); if escape applies, §3333.2 cap and §6146 fee cap also fall"
+  },
+  "operational_notes": {
+    "spine_surgery_fraud": {
+      "theory": "Surgeon performing clinically unindicated surgery for financial gain = conscious disregard of patient safety for financial benefit = despicable under College Hospital",
+      "evidence_package": [
+        "Expert declaration: surgery not clinically indicated per pre-op findings",
+        "Billing records: procedure selected maximized reimbursement",
+        "Outcome evidence: post-surgical condition worse than pre-surgical",
+        "Prior Medical Board complaints if any: pattern = conscious disregard",
+        "Surgeon financial records (if obtainable): correlation between billing maximization and procedure selection"
+      ],
+      "dual_track_pleading": "File intentional fraud/battery claim (Hrimnak escape attempt) + prepare §425.13 motion in parallel; if intentional tort survives, no gate; if Central Pathology catches it, §425.13 motion already ready"
+    },
+    "sirva_case": {
+      "theory": "§425.13 applies if claim is framed as professional negligence. Walgreens injector = health care provider scope question (verify on facts). Evidence: training records + prior SIRVA complaints at that location + injector technique documentation",
+      "note": "SIRVA doctrine cross-referenced; health care provider status of pharmacy/pharmacist/technician must be verified on the specific facts"
+    }
+  },
+  "outstanding_work": [
+    "Verbatim text capture: Cal. Code Civ. Proc. §425.13 full text (Stats. 1987, Ch. 1498)",
+    "Verbatim opinion capture: Central Pathology, 3 Cal.App.4th 181",
+    "Verbatim opinion capture: College Hospital, 8 Cal.4th 704",
+    "Second-mouth witness review of substance-over-label test application to SIRVA framing",
+    "Verify whether Walgreens pharmacist/pharmacy technician qualifies as 'health care provider' under §425.13 scope",
+    "Identify and add Hrimnak v. Texaco or controlling authority for intentional tort escape — confirm case citation"
+  ],
+  "build_date": "2026-04-11",
+  "built_by": "Terminal A"
+}

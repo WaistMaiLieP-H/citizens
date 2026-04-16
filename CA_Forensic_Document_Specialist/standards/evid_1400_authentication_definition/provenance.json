@@ -1,0 +1,19 @@
+{
+  "standard_id": "evid_1400_authentication_definition",
+  "citizen": "CA_Forensic_Document_Specialist",
+  "source_type": "statute",
+  "primary_source": "Cal. Evidence Code §§ 1400, 1401",
+  "fetch_method": "VernenLegal MCP — california_get_section (EVID, 1400) and (EVID, 1401)",
+  "fetch_date": "2026-04-13",
+  "verified": true,
+  "verification_note": "Both §1400 and §1401 live-fetched via VernenLegal MCP. Full text returned for both sections.",
+  "secondary_sources": [
+    "People v. Goldsmith (2014) 59 Cal.4th 258 — circumstantial authentication; digital evidence",
+    "Cal. Evidence Code §§1410-1421 — specific authentication methods (not separately built here)",
+    "Cal. Law Revision Commission Comments to §§1400-1401"
+  ],
+  "historical_origin": "English common law + California pre-1965 practice → codified in 1965 Evidence Code (Stats. 1965, ch. 299), operative January 1, 1967",
+  "chronicle_flag": false,
+  "build_session": "2026-04-13",
+  "terminal": "Terminal B"
+}

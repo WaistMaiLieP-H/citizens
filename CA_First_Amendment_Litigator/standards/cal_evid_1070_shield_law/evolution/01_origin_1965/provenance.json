@@ -1,0 +1,19 @@
+{
+  "standard_id": "CA_EVID_1070",
+  "evolution_stage": "01_origin_1965",
+  "enacted_as": "Evidence Code Section 1070 (Stats. 1965, Ch. 299)",
+  "pre_history": "Originally enacted as CCP §1881(6) in 1935; amended 1961 to include broadcast journalists; transferred to Evidence Code §1070 in 1965",
+  "effective": "1967-01-01 (Evidence Code effective date)",
+  "source_description": "Exact verbatim text of 1965 original NOT YET LOCATED in primary source. Context reconstructed from Wikipedia article on California Shield Law, RCFP Reporters' Privilege Compendium, and legislative history references.",
+  "sources_consulted": [
+    {"url": "https://en.wikipedia.org/wiki/California_Shield_Law", "description": "Historical overview of shield law development", "fetch_timestamp_utc": "2026-04-09T06:15:00Z"},
+    {"url": "https://www.rcfp.org/privilege-compendium/california/", "description": "Reporters Committee for Freedom of the Press — California shield law analysis", "found_via": "WebSearch"},
+    {"url": "https://codes.findlaw.com/ca/evidence-code/evid-sect-1070/", "description": "FindLaw — current text with amendment history"}
+  ],
+  "primary_source_outstanding": "Statutes of California 1965, Chapter 299 — the enrolled bill text. Not available online at clerk.assembly.ca.gov (404 for 1965 volumes). Available at California State Library, Sacramento.",
+  "text_file": "text.txt",
+  "context_file": "context.md",
+  "fetch_timestamp_utc": "2026-04-09T06:40:00Z",
+  "retrieval_steward": "Claude (assistant) under steward direction — Michael Hartmann",
+  "honesty_note": "The text.txt file for this evolution stage contains a NOTE indicating that the exact 1965 verbatim text has not been located. The context.md describes what is known about the 1965 version from secondary sources. This is an honest gap, not a fabricated primary source."
+}

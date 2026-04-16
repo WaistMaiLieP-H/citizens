@@ -1,0 +1,27 @@
+{
+  "standard_id": "USC_29_1132_ERISA_502A",
+  "popular_name": "ERISA Civil Enforcement \u2014 \u00a7502(a)",
+  "authority": "29 U.S.C. \u00a7 1132 (ERISA \u00a7 502)",
+  "jurisdiction": "Federal",
+  "citizen": "US_Federal_ERISA_Litigator",
+  "status": "SUPERSEDED",
+  "five_layer_score": 5,
+  "created": "2026-04-12",
+  "updated": "2026-04-12",
+  "layers": {
+    "rule": "COMPLETE",
+    "reasoning": "COMPLETE",
+    "historical_loss": "COMPLETE",
+    "cross_references": "COMPLETE",
+    "verifiable_provenance": "COMPLETE"
+  },
+  "two_witness_status": {
+    "adam": "PENDING",
+    "eve": "PENDING",
+    "status": "PROPOSED"
+  },
+  "fetch_note": "USC tool returned not found for 29 USC \u00a71132. Text from training knowledge. Verify at law.cornell.edu/uscode/text/29/1132 before filing reliance. verified=false.",
+  "superseded_by": "usc_29_1132_civil_enforcement",
+  "superseded_date": "2026-04-13",
+  "note": "Superseded by usc_29_1132_civil_enforcement (PUBLISHED \u2014 ADAM + EVE DUAL WITNESS \u2014 2026-04-13). Legacy stub retained for reference."
+}

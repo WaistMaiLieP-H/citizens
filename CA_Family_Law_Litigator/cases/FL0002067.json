@@ -1,0 +1,72 @@
+{
+  "case_number": "FL0002067",
+  "court": "Marin County Superior Court",
+  "type": "DVRO (Christina's, jurisdictional flip)",
+  "petitioner": "Christina Cerretani",
+  "respondent": "Michael Hartmann",
+  "filed_date": "2025-07-17",
+  "current_status": "ACTIVE \u2014 DV-130 granted 2025-10-17 with CLETS entry; expires 2026-08-19",
+  "key_dates": [
+    {
+      "date": "2025-07-08",
+      "event": "Ann Hillberg hands Cole to Christina at night during transfer window (per project_familylaw_orchestration.md)"
+    },
+    {
+      "date": "2025-07-13",
+      "event": "Christina takes Cole to Marin County (no court order at this point)"
+    },
+    {
+      "date": "2025-07-14 to 2025-07-17",
+      "event": "Michael calls Benicia PD for 4 days \u2014 no response, no reports taken"
+    },
+    {
+      "date": "2025-07-17",
+      "event": "Christina files DVRO in Marin (4 days AFTER Cole taken; 22 days after Alameda dismissal; jurisdictional flip)"
+    },
+    {
+      "date": "2025-07-17",
+      "event": "Benicia PD finally shows up \u2014 to serve Michael with the restraining order, NOT to take his missing-Cole report"
+    },
+    {
+      "date": "2025-08-05",
+      "event": "Marin assumes jurisdiction; judge refuses to let Michael speak"
+    },
+    {
+      "date": "2025-10-17",
+      "event": "DV-130 granted with CLETS entry"
+    },
+    {
+      "date": "2026-08-19",
+      "event": "Order expires"
+    }
+  ],
+  "source_folder": "FamilyLaw/2025-07-17/, 2025-08-05/, 2025-10-17/ (presumed)",
+  "related_actors": [
+    "cerretani_christina",
+    "hillberg_ann"
+  ],
+  "related_standards": [
+    "CA_FAM_6203_DVPA_ABUSE_DEFINITION",
+    "CA_FAMILY_CODE_3011_BEST_INTEREST",
+    "CA_FAM_3020_CUSTODY_POLICY"
+  ],
+  "related_cases": [
+    "25FL122591",
+    "25FL125059",
+    "RF10508853"
+  ],
+  "known_anomalies": [
+    "Filed 4 days after Cole was taken (matches 4-day window of the counter-filing playbook for cross-jurisdictional flips)",
+    "Marin assumed jurisdiction over a child whose habitual residence per UCCJEA was Solano County \u2014 UCCJEA challenge is the structural defense",
+    "Benicia PD refused to act on Michael's reports for 4 days, then served the restraining order instead \u2014 pattern matches the broader orchestration finding",
+    "Marin judge refused to let Michael speak at the 8/5/2025 hearing (per project_familylaw_orchestration.md)",
+    "This is currently the ONLY active custody-affecting order against Michael; the steward's pending state action against Christina is presumably aimed at vacating or undermining FL0002067 OR is a separate civil action arising from the same conduct"
+  ],
+  "outstanding_investigations": [
+    "Marin County 8/5/2025 hearing document \u2014 not yet in case file per memory",
+    "Benicia PD call recording for the 7/14-17 calls \u2014 per memory: 'not yet scanned/uploaded'",
+    "UCCJEA habitual residence analysis \u2014 was Cole's habitual residence Solano County under UCCJEA \u00a7 3402(g)? If yes, Marin lacked jurisdiction"
+  ],
+  "case_theory_significance": "FL0002067 is the active operational order against Michael. Vacating or limiting it is the most direct case objective. The combination of UCCJEA jurisdictional challenge + the documented orchestration pattern + the OPD records pickup audit + the credential audit on Paredes/Ajaniku may produce a viable motion to vacate or a fresh civil action.",
+  "filed_at_utc": "2026-04-08T18:05:00Z"
+}

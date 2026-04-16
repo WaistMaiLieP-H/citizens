@@ -1,0 +1,88 @@
+{
+  "sequence": 1,
+  "year": 1849,
+  "name": "California Constitution of 1849 — Article XI § 14 (Separate Property of Married Women)",
+  "popular_name": "1849 California Constitution",
+  "status": "SECONDARY-SOURCE-VERIFIED 2026-04-15 (Wikisource transcription); ARCHIVAL-PULL-PENDING for State Archives original",
+  "filed_at_utc": "2026-04-08T19:10:00Z",
+  "deepened_at_utc": "2026-04-15T00:00:00Z",
+  "deepened_by": "EVE (Legal/Statutory Auditor) under steward direction",
+
+  "context": "California's first constitution, drafted at the Constitutional Convention in Monterey September–October 1849, before California was a U.S. state. California was admitted to the Union on September 9, 1850. The 1849 Constitution included one of the earliest explicit constitutional protections for the property rights of married women in U.S. history. Article XI § 14 protected the separate property of married women. This provision predates the federal Married Women's Property Acts and the more famous New York Married Women's Property Act of 1848.",
+
+  "doctrinal_significance": "Article XI § 14 of the 1849 Constitution is the textual origin of California's distinctive community-property regime. By treating married women's separate property as constitutionally protected, the framers created the structural framework under which California family law has evolved for 177 years. The provision is the earliest specific California constitutional protection touching family relationships and is the doctrinal predecessor of every subsequent California family-law statute.",
+
+  "verbatim_text": {
+    "citation": "Cal. Const. of 1849, art. XI, § 14",
+    "full_text": "All property, both real and personal, of the wife, owned or claimed by marriage, and that acquired afterwards by gift, devise, or descent, shall be her separate property; and laws shall be passed more clearly defining the rights of the wife, in relation as well to her separate property, as to that held in common with her husband. Laws shall also be passed providing for the registration of the wife's separate property.",
+    "secondary_source_captured_from": "Wikisource — The Federal and State Constitutions (Thorpe compilation), Constitution of California 1849",
+    "secondary_source_url": "https://en.wikisource.org/wiki/The_Federal_and_State_Constitutions/Constitution_of_California%E2%80%941849",
+    "accessed_at_utc": "2026-04-15T04:50:00Z",
+    "structural_verification_note": "Prior stub had incomplete verbatim (truncated 'owned or claimed by her before marriage'); Wikisource text reads 'owned or claimed by marriage' — the Wikisource version has been proofread against Thorpe's 1909 compilation. The 1849 Constitution's actual textual authority is the original engrossed document in the California State Archives. Two known publication-era variants exist (Browne's 1850 printed Debates and Proceedings vs. Thorpe's 1909 Federal and State Constitutions); resolution of apparent textual variants must be done against the State Archives original."
+  },
+
+  "textual_variants_flag": {
+    "issue": "Multiple secondary-source transcriptions of Art. XI § 14 exist with minor wording differences. The prior T3 stub had a reconstruction that differed from Wikisource. Possible variants: 'owned or claimed by her before marriage' vs. 'owned or claimed by marriage' vs. 'owned or claimed before marriage'. Also the second sentence ('Laws shall also be passed providing for the registration...') appears in some transcriptions but not others, suggesting possible edition differences between the 1849 original and the 1862-era reprintings.",
+    "resolution_required": "Primary-source pull from California State Archives or from Browne's 1850 official Debates and Proceedings print."
+  },
+
+  "primary_source_locations": [
+    {
+      "archive": "California State Archives",
+      "holding": "Original engrossed 1849 Constitution document",
+      "location": "Sacramento, California",
+      "catalog_url": "https://www.sos.ca.gov/archives/",
+      "notes": "The engrossed original is the textual authority. Access by research appointment. Request pull reference: 'Constitution of the State of California (engrossed 1849)'."
+    },
+    {
+      "archive": "California State Library — Digital Collections",
+      "url": "https://www.library.ca.gov/collections/digital-collections/",
+      "notes": "Digital holdings include Browne 1850 Debates and Proceedings of the Convention of California, which reproduces the Constitution as finally adopted."
+    },
+    {
+      "archive": "Library of Congress — Law Library",
+      "digital_collection": "American Memory — A Century of Lawmaking",
+      "url": "https://guides.loc.gov/american-women-law/state-laws",
+      "notes": "Law Library research guide cross-references early state constitutions including California 1849."
+    },
+    {
+      "archive": "HathiTrust Digital Library",
+      "notes": "Thorpe, The Federal and State Constitutions, Colonial Charters, and Other Organic Laws (7 vols., 1909) — authoritative compilation including the 1849 California Constitution. Record search: 'Thorpe federal state constitutions Volume 1'."
+    },
+    {
+      "archive": "Internet Archive / Bancroft Library (UC Berkeley)",
+      "notes": "Browne, J. Ross, Report of the Debates in the Convention of California on the Formation of the State Constitution (Washington: John T. Towers, 1850) — contemporary record of the convention proceedings."
+    }
+  ],
+
+  "fetch_plan_for_primary_source_upgrade": {
+    "priority_1": {
+      "target": "Browne 1850 Debates and Proceedings (digitized)",
+      "method": "Internet Archive or HathiTrust fetch; search 'Browne California Constitutional Convention 1849'",
+      "rationale": "Browne is the earliest contemporary printing of the adopted Constitution text. Most likely source to resolve the textual variant flagged above."
+    },
+    "priority_2": {
+      "target": "Thorpe 1909 Federal and State Constitutions vol. 1",
+      "method": "HathiTrust digital retrieval",
+      "rationale": "Authoritative compilation; Wikisource text cross-references Thorpe."
+    },
+    "priority_3": {
+      "target": "California State Archives engrossed original",
+      "method": "Written research request to California State Archives, Secretary of State's office, Sacramento",
+      "rationale": "Ultimate textual authority; required for CERTIFIED status."
+    }
+  },
+
+  "witness_chain": {
+    "filed_by": "Claude (assistant) at first-mouth level 2026-04-08 (stub)",
+    "deepened_by": "EVE 2026-04-15 from Wikisource verbatim capture",
+    "eve_witness": {
+      "witnessed_at_utc": "2026-04-15T00:00:00Z",
+      "scope": "Legal witness — verbatim text captured from Wikisource; textual-variants flag logged; primary-source fetch plan documented. Per 'no stubs' and 'no synthetic content' rules, EVE did not close the archival-pull-pending flag — this entry is SECONDARY-SOURCE-VERIFIED, not PRIMARY-SOURCE-VERIFIED."
+    },
+    "adam_witness": {
+      "witnessed_at_utc": "2026-04-15T00:00:00Z",
+      "scope": "Structural witness — Wikisource URL captured; archive locations catalogued; fetch plan structure matches the 1993 Ch. 219 model already in the corpus."
+    }
+  }
+}

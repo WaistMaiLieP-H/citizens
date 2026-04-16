@@ -1,0 +1,33 @@
+{
+  "standard_id": "USC_15_1638_TILA",
+  "cross_references": [
+    {
+      "ref_id": "VEH_11711_DEALER_FRAUD",
+      "short_title": "Cal. Vehicle Code §11711 — Dealer Fraud Treble Damages",
+      "relationship": "primary_california_parallel",
+      "description": "§11711 is the primary California civil remedy for the Jaguar XE yo-yo financing and dealer fraud facts. §11711 provides treble damages (up to 3× actual damages) + mandatory attorneys' fees for fraudulent acts or misrepresentations by licensed dealers. TILA establishes the federal standard for the financing disclosure violations; §11711 provides the California treble damages remedy for the same fraudulent misrepresentations.",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/veh_11711_dealer_fraud"
+    },
+    {
+      "ref_id": "CLRA_1750",
+      "short_title": "Cal. Civil Code §1750 — CLRA Consumer Legal Remedies Act",
+      "relationship": "complementary_california",
+      "description": "CLRA prohibits misrepresenting the terms of a transaction (§1770(a)(14)) and making false statements of fact (§1770(a)(5)). Yo-yo financing where original disclosed terms are false = CLRA violation. CLRA provides actual damages, $1,000 minimum, punitive damages, injunction, and attorneys' fees. TILA and CLRA run simultaneously on the same auto financing facts.",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/clra_1750"
+    },
+    {
+      "ref_id": "UCL_17200",
+      "short_title": "Bus. & Prof. Code §17200 — UCL Unfair Business Practices",
+      "relationship": "ucl_predicate",
+      "description": "TILA violation = unlawful prong predicate for UCL §17200 claim. UCL adds 4-year SOL (longer than TILA's 1-year SOL), injunctive relief, and restitution. The yo-yo financing scheme independently qualifies as 'unfair' under the UCL balancing test. UCL SOL (4 years) may make the Jaguar XE TILA-predicate UCL claim viable where the direct TILA claim is time-barred.",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/bpc_17200_ucl"
+    },
+    {
+      "ref_id": "REES_LEVERING",
+      "short_title": "Cal. Civil Code §§2981-2984 — Rees-Levering Motor Vehicle Sales and Finance Act",
+      "relationship": "california_parallel_auto_financing",
+      "description": "Rees-Levering is California's state auto financing disclosure law — the state parallel to federal TILA. For auto sales where the financing terms were misrepresented (yo-yo financing), Rees-Levering provides an independent state-law claim with a 4-year SOL that may not be time-barred for the 2018 Jaguar XE. Rees-Levering's remedies (voiding the contract, recovering payments made) may be more powerful than TILA's statutory damages for certain facts.",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/rees_levering"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "standard_id": "BP_17500_FALSE_ADVERTISING",
+  "citizen": "CA_Consumer_Protection_Litigator",
+  "version": "1.0.0",
+  "status": "PROPOSED",
+  "primary_citation": "Cal. Bus. & Prof. Code §17500 (Stats. 1941, Ch. 807; amended through Prop 64 (2004))",
+  "short_title": "False Advertising Law (FAL) — Untrue or Misleading Statements to the Public",
+  "one_line_rule": "Any person making a statement about goods or services to the public that is untrue or misleading, and which they know or should know is untrue or misleading, violates California law; injured consumers may seek injunction and restitution.",
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current/LOGIC.md",
+    "reasoning": "PRESENT — current/LOGIC.md §§ WOUND + DESIGN + auto fraud application section",
+    "historical_loss": "PRESENT — historical_chain.md + evolution/ (2 stages)",
+    "cross_references": "PRESENT — cross_refs/refs.json (4 references)",
+    "verifiable_provenance": "PRESENT — current/provenance.json + evolution provenances; verbatim text capture PENDING"
+  },
+  "evolution_chain": [
+    {
+      "stage": "01_origin_1941",
+      "label": "False Advertising Prohibition Enacted",
+      "source": "Stats. 1941, Ch. 807",
+      "logic_file": "evolution/01_origin_1941/LOGIC.md"
+    },
+    {
+      "stage": "02_1972_private_right_expansion",
+      "label": "Private Right Expansion + Prop 64 Standing Reform",
+      "source": "Judicial expansion (1970s-2004) + Proposition 64 (Nov. 2004) + internet amendment Stats. 1998 Ch. 581",
+      "logic_file": "evolution/02_1972_private_right_expansion/LOGIC.md"
+    }
+  ],
+  "case_law": [
+    {
+      "slug": "kasky_v_nike",
+      "cite": "Kasky v. Nike, Inc., 27 Cal.4th 939 (2002)",
+      "court": "California Supreme Court",
+      "category": "interpretive",
+      "key_rule": "Three-part commercial speech test: (1) commercial speaker + (2) consumer audience + (3) commercial content = §17500 applies. No First Amendment shield for false commercial speech.",
+      "verbatim_capture_status": "PENDING"
+    },
+    {
+      "slug": "williams_v_gerber_products",
+      "cite": "Williams v. Gerber Products Co., 552 F.3d 934 (9th Cir. 2008)",
+      "court": "United States Court of Appeals for the Ninth Circuit",
+      "category": "interpretive",
+      "key_rule": "Reasonable consumer test: significant portion of the public acting reasonably could be misled. Back-label disclosure does not cure front-label deception. Deception by implication actionable.",
+      "verbatim_capture_status": "PENDING"
+    },
+    {
+      "slug": "in_re_tobacco_ii",
+      "cite": "In re Tobacco II Cases, 46 Cal.4th 298 (2009)",
+      "court": "California Supreme Court",
+      "category": "interpretive",
+      "key_rule": "Post-Prop 64 reliance requirement: class representative must show personal reliance on specific misrepresentations; absent class members exempt from individual reliance; purchase price = 'lost money'; direct-recipient reliance (point-of-sale misrepresentation) satisfies causation.",
+      "verbatim_capture_status": "PENDING"
+    }
+  ],
+  "case_applications": {
+    "jaguar_xe_2018": {
+      "violations": [
+        "Wrong CARFAX (different VIN presented) — false statement about vehicle history",
+        "Yo-yo financing terms misrepresented as complete at signing",
+        "Vehicle advertised as saleable when stripped/stolen — false statement about product being sold",
+        "Each = separate §17500 statement + §17200 unlawful prong violation"
+      ],
+      "remedies": "Restitution of all money paid (down payment + payments) + injunction; §17200 stacks; §1709 deceit + §3294 punitive if willfulness shown",
+      "soc_trigger": "4 years from date of transaction or discovery"
+    }
+  },
+  "outstanding_work": [
+    "Verbatim text capture: Cal. Bus. & Prof. Code §17500 full current text",
+    "Verbatim opinion capture: Kasky v. Nike, 27 Cal.4th 939",
+    "Verbatim opinion capture: Williams v. Gerber Products, 552 F.3d 934",
+    "Second-mouth witness review of yo-yo financing §17500 theory",
+    "Verify SOL for Jaguar XE claim — purchase date + 4 years; confirm not time-barred or tolled"
+  ],
+  "build_date": "2026-04-11",
+  "built_by": "Terminal A"
+}

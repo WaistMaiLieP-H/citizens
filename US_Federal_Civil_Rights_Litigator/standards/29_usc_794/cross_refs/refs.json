@@ -1,0 +1,24 @@
+{
+  "standard_id": "29_USC_794",
+  "cross_references": [
+    {
+      "target_standard": "42_USC_12132",
+      "relationship": "broader successor — ADA Title II extended Section 504's disability discrimination prohibition from federally funded programs to ALL public entities regardless of funding source",
+      "target_citizen": "US_Federal_Civil_Rights_Litigator",
+      "target_manifest": "${citizens}/US_Federal_Civil_Rights_Litigator/standards/42_usc_12132/manifest.json",
+      "build_status": "BUILT"
+    },
+    {
+      "target_standard": "42_USC_1983",
+      "relationship": "enforcement vehicle — Section 504 violations by state actors under color of law are actionable through §1983",
+      "target_citizen": "US_Federal_Civil_Rights_Litigator",
+      "target_manifest": "${citizens}/US_Federal_Civil_Rights_Litigator/standards/42_usc_1983/manifest.json",
+      "build_status": "BUILT"
+    },
+    {
+      "target_standard": "42_USC_2000d",
+      "relationship": "model statute — Section 504 was modeled on Title VI of the Civil Rights Act of 1964; same framework (no discrimination in federally funded programs) applied to disability instead of race",
+      "build_status": "NOT BUILT AS STANDALONE STANDARD — Title VI of the Civil Rights Act of 1964 not yet in corpus. Section 504 model-statute relationship documented within 29_USC_794 reasoning layer."
+    }
+  ]
+}

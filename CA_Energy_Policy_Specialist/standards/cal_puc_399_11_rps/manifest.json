@@ -1,0 +1,116 @@
+{
+  "standard_id": "CA_PUC_399_11_RPS",
+  "version": "0.2.0-verbatim-and-substance-audited",
+  "filed_at_utc": "2026-04-08T09:23:00Z",
+  "deepened_at_utc": "2026-04-08T11:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction \u2014 Michael Hartmann, Vernen Legal Compliance",
+  "status": "PROPOSED-DEEPENED-COMPACT \u2014 verbatim text extracted, brief substance audit completed. Standard is in an umbrella with INDIRECT relevance to the steward's case file; the audit is calibrated accordingly. Awaiting second-mouth countersignature.",
+  "build_context": "Originally built 2026-04-08 as part of the breadth-first umbrella seeding pass (Umbrella 17 Energy first occupant). Deepened later same day with verbatim text and brief substance audit via _deepen_remaining_manifests.py.",
+  "primary_citation": {
+    "jurisdiction": "California",
+    "code": "California Public Utilities Code",
+    "section": "\u00a7 399.11",
+    "popular_name": "California Renewables Portfolio Standard (RPS) \u2014 Legislative Findings",
+    "current_codification_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=399.11.&lawCode=PUC",
+    "current_form_local_artifact": "current/cal_puc_399_11_leginfo.html",
+    "verbatim_text_extracted_artifact": "current/cal_puc_399_11_leginfo.txt"
+  },
+  "structural_location": {
+    "division": "DIVISION 1. REGULATION OF PUBLIC UTILITIES [201 - 3299.100]",
+    "division_history": "Division 1 enacted by Stats. 1951, Ch. 764",
+    "part": "PART 1. PUBLIC UTILITIES ACT [201 - 2120]",
+    "chapter": "CHAPTER 2.3. Electrical Restructuring [330 - 400.3]",
+    "chapter_history": "Chapter 2.3 added by Stats. 1996, Ch. 854, Sec. 10",
+    "article": "ARTICLE 16. California Renewables Portfolio Standard Program [399.11 - 399.33]",
+    "article_history": "Article 16 added by Stats. 2002, Ch. 516, Sec. 3",
+    "section_history": "Most recent amendment: Stats. 2018, Ch. 312, Sec. 2 (SB 100) Effective January 1, 2019"
+  },
+  "verbatim_summary": "Legislative findings for the California Renewables Portfolio Standard. (a) Targets: 20% renewables by 12/31/2013, 33% by 12/31/2020, 50% by 12/31/2026, 60% by 12/31/2030. (b) Nine independently-justifying benefits enumerated: (1) displacing fossil fuel; (2) adding new generation in WECC; (3) reducing air pollution and toxics; (4) meeting climate goals; (5) promoting stable retail rates; (6) energy generation diversity; (7) resource adequacy; (8) grid reliability; (9) transmission and land-use planning. (c) Complements the Energy Commission's Renewable Energy Resources Program (PRC \u00a7 25740). (d) New transmission may be needed. (e) Out-of-state renewables count equally and disadvantaged-community air-quality benefits flagged.",
+  "amendment_history_visible_on_leginfo": [
+    {
+      "year": 2002,
+      "stats": "Stats. 2002, Ch. 516, Sec. 3 (SB 1078)",
+      "event": "Original enactment of California RPS \u2014 first renewable portfolio mandate"
+    },
+    {
+      "year": 2018,
+      "stats": "Stats. 2018, Ch. 312, Sec. 2 (SB 100)",
+      "event": "Most recent amendment. SB 100 set the 100% zero-carbon by 2045 target as California's clean-energy commitment"
+    }
+  ],
+  "substance_audit": {
+    "purpose": "The RPS is foundational California energy policy but not directly steward-relevant.",
+    "audit_filed_at_utc": "2026-04-08T11:00:00Z",
+    "audit_filed_by": "Claude (assistant) at first-mouth level; steward review required",
+    "audit_items": [
+      {
+        "audit_id": "Trajectory targets (a)",
+        "recommendation": "20% / 33% / 50% / 60% trajectory has been the policy backbone of California renewable energy investment for two decades",
+        "audit_status": "ROUTINE"
+      },
+      {
+        "audit_id": "Disadvantaged community air quality (e)(1)",
+        "recommendation": "RPS implementation must consider disadvantaged community air quality. Not currently steward-relevant",
+        "audit_status": "ROUTINE"
+      },
+      {
+        "audit_id": "Next-step deepening",
+        "recommendation": "The operative RPS provisions (compliance percentages, RECs, banking, alternative compliance) are in \u00a7\u00a7 399.12-399.33. Fetching is outstanding work",
+        "audit_status": "OUTSTANDING"
+      }
+    ]
+  },
+  "umbrellas": [
+    "Energy (Umbrella 17) \u2014 primary"
+  ],
+  "owner_citizen": {
+    "primary": "CA_Energy_Policy_Specialist"
+  },
+  "triple_constraint_test_results": {
+    "governing_guidelines": {
+      "passes": true,
+      "evidence": "California Public Utilities Code \u00a7 399.11 located at official primary source; binding California authority confirmed; verbatim text extracted to current/cal_puc_399_11_leginfo.txt"
+    },
+    "standards_of_creation": {
+      "passes": true,
+      "evidence": "Section is well-formed and properly codified."
+    },
+    "standard_of_care": {
+      "passes": "PARTIAL",
+      "current_layer": "VERIFIED \u2014 current form fetched, hashed (sha256: b87326aeab366aa71777e92498f3d9648b57c6343a6d40caaae704ac0d1daff4), and verbatim-extracted",
+      "evolution_layer": "PARTIAL \u2014 amendment history captured at manifest level; primary-source amendment volumes not yet downloaded",
+      "origin_layer": "IDENTIFIED \u2014 original enactment recorded in amendment_history; primary-source not yet fetched"
+    }
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT \u2014 verbatim text extracted",
+    "reasoning": "PARTIAL \u2014 recorded in legislative findings where applicable",
+    "historical_loss": "OUTSTANDING",
+    "cross_references": "PARTIAL",
+    "verifiable_provenance": "PRESENT for current form; ABSENT for evolution and origin layers"
+  },
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction (Michael Hartmann), 2026-04-08",
+    "second_mouth_witness": "NONE \u2014 not yet countersigned",
+    "publishable_to_corpus": false,
+    "status": "PROPOSED-DEEPENED-COMPACT"
+  },
+  "files": {
+    "origin": [],
+    "evolution": [],
+    "current": [
+      "current/cal_puc_399_11_leginfo.html",
+      "current/cal_puc_399_11_leginfo.txt"
+    ],
+    "context": [],
+    "manifest": "manifest.json",
+    "provenance": "provenance.json"
+  },
+  "outstanding_work": [
+    "Locate and fetch primary-source statute volumes for the original enactment and key amendments",
+    "Document the historical-loss layer \u2014 what specific incidents drove the section's enactment",
+    "Fetch operative downstream sections in the same article/chapter as integrity-tracked HTML markers",
+    "Build cross-references to other Vernen corpus standards where applicable",
+    "Obtain second-mouth countersignature on the standard"
+  ]
+}

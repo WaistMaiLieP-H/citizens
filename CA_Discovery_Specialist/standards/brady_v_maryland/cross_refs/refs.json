@@ -1,0 +1,47 @@
+{
+  "standard": "brady_v_maryland",
+  "cross_references": [
+    {
+      "cite": "Cal. Pen. Code § 1054.1",
+      "label": "California Statutory Criminal Discovery — Prosecution Obligations",
+      "relationship": "state_codification",
+      "note": "§1054.1 codifies Brady-equivalent disclosure obligations in California state court as a statutory requirement with contempt/sanctions enforcement. Brady constitutional violation and §1054.1 statutory violation may occur simultaneously but are enforced through different mechanisms."
+    },
+    {
+      "cite": "Giglio v. United States, 405 U.S. 150 (1972)",
+      "label": "Brady Extension — Impeachment Evidence",
+      "relationship": "doctrinal_extension",
+      "note": "Giglio extends Brady to impeachment evidence: prosecution must disclose evidence undermining credibility of its own witnesses, including cooperation agreements, prior criminal records, prior inconsistent statements, inducements, and payments."
+    },
+    {
+      "cite": "Cal. Pen. Code § 832.7",
+      "label": "Peace Officer Records — SB 1421 Disclosure",
+      "relationship": "brady_source",
+      "note": "Post-SB 1421 (effective January 2019), sustained findings of officer dishonesty, false statements, and fabricating evidence are subject to PRA disclosure. Such records are simultaneously Brady/Giglio material — the prosecution must disclose them as impeachment evidence against officers who testify."
+    },
+    {
+      "cite": "Pitchess v. Superior Court, 11 Cal.3d 531 (1974)",
+      "label": "Officer Personnel Records Discovery",
+      "relationship": "access_mechanism",
+      "note": "Pitchess motions provide in camera access to officer personnel records that may contain Brady/Giglio material (prior complaints of dishonesty, fabricating reports, excessive force). Pitchess is the discovery mechanism; Brady is the constitutional disclosure obligation triggered once Brady material is found in those records."
+    },
+    {
+      "cite": "United States v. Bagley, 473 U.S. 667 (1985)",
+      "label": "Brady Materiality Standard",
+      "relationship": "doctrinal_element",
+      "note": "Bagley defines materiality: evidence is material if there is a reasonable probability that, had it been disclosed, the outcome would have been different. This is the governing materiality standard for all Brady claims."
+    },
+    {
+      "cite": "People v. Salazar, 35 Cal.4th 1031 (2005)",
+      "label": "Constructive Knowledge — Police Files",
+      "relationship": "california_application",
+      "note": "California Supreme Court holds that the prosecution is charged with constructive knowledge of evidence in police files. The prosecution cannot avoid Brady obligations by claiming it did not personally know of evidence that police had."
+    },
+    {
+      "cite": "Cal. Const. Art. I, § 15",
+      "label": "California Constitution — Right to Fair Trial",
+      "relationship": "state_constitutional_basis",
+      "note": "Brady obligations exist independently under California Constitution Art. I § 15 as a matter of state constitutional law, in addition to federal due process. California courts apply Brady under both grounds."
+    }
+  ]
+}

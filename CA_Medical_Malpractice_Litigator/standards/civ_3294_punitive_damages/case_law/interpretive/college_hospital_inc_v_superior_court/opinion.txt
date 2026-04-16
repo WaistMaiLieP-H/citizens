@@ -1,0 +1,51 @@
+COLLEGE HOSPITAL INC. v. SUPERIOR COURT
+8 Cal.4th 704 (1994)
+[CROSS-REFERENCE — PRIMARY OPINION IN ccp_425_13_punitive_gate]
+
+---
+
+CROSS-REFERENCE NOTICE:
+The full opinion.txt for College Hospital Inc. v. Superior Court, 8 Cal.4th 704 (1994) is located at:
+
+  CA_Medical_Malpractice_Litigator/standards/ccp_425_13_punitive_gate/case_law/interpretive/college_hospital_v_superior_court/opinion.txt
+
+---
+
+RELEVANCE TO CIV. CODE § 3294 PUNITIVE DAMAGES:
+
+College Hospital Inc. v. Superior Court establishes the authoritative California definition of "despicable conduct" under Civil Code § 3294(c)(1) and (c)(2) — which is the substantive punitive damages statute.
+
+KEY HOLDINGS FOR § 3294 PURPOSES:
+
+1. MALICE UNDER § 3294(c)(1) — THE DESPICABLE CONDUCT ELEMENT:
+"Despicable conduct which is carried on by the defendant with a willful and conscious disregard of the rights or safety of others" satisfies the malice prong. The court defined "despicable" as: conduct so vile, base, contemptible, miserable, wretched, or loathsome that it would be looked down upon and despised by ordinary decent people. 8 Cal.4th at 726.
+
+2. OPPRESSION UNDER § 3294(c)(2):
+"Despicable conduct that subjects a person to cruel and unjust hardship in conscious disregard of that person's rights." The same "despicable" standard applies.
+
+3. EMPLOYER LIABILITY — § 3294(b):
+A corporation is liable for punitive damages based on employee conduct only when:
+- An officer, director, or managing agent had advance knowledge of the employee's unfitness AND employed him/her with conscious disregard of others' rights or safety; OR
+- The corporation authorized or ratified the wrongful conduct; OR
+- The corporation itself was personally guilty of malice, oppression, or fraud.
+
+4. THE DESPICABLE CONDUCT BAR IS HIGH:
+Ordinary negligence, even gross negligence, does not reach despicable conduct. The conduct must fall into a category that "ordinary decent people would despise." This prevents punitive damages from being routinely awarded in medical malpractice cases where the primary theory is substandard care.
+
+---
+
+APPLICATION TO CIVIL CODE § 3294 ANALYSIS:
+
+For punitive damages in any California civil case involving healthcare providers:
+- Start with § 3294(c) definitions (malice, oppression, fraud);
+- Apply College Hospital's "despicable conduct" definition to assess whether the facts meet the standard;
+- For institutional defendants, analyze § 3294(b) employer liability separately;
+- For § 425.13 purposes, show substantial probability of meeting all elements.
+
+---
+
+SOURCE PROVENANCE:
+Cross-reference to: CA_Medical_Malpractice_Litigator/standards/ccp_425_13_punitive_gate/case_law/interpretive/college_hospital_v_superior_court/opinion.txt
+Citation: 8 Cal.4th 704 (1994)
+Court: Supreme Court of California
+Verification status: PROPOSED — see primary opinion.txt for full provenance

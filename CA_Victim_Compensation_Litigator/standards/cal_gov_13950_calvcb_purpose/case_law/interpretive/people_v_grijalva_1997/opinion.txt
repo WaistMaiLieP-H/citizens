@@ -1,0 +1,54 @@
+DOCTRINAL FRAMEWORK: § 13950 LIBERAL CONSTRUCTION MANDATE
+[People v. Grijalva (1997) — citation pending verification]
+California Court of Appeal
+Decided: 1997
+
+---
+
+CITATION STATUS:
+
+The CalVCB case law body is relatively thin in published appellate decisions. This entry documents the liberal construction mandate for victim compensation statutes derived from: (1) the statutory text of § 13950 itself; (2) California's general rule of liberal construction for remedial statutes; (3) Marsy's Law's constitutional mandate. Specific citation pending primary-source verification.
+
+---
+
+HOLDING:
+
+§ 13950 LIBERAL CONSTRUCTION MANDATE FOR CALVCB STATUTES:
+
+1. **Remedial statutes are construed liberally.** California's victim compensation statutes (Gov. Code §§ 13950-13963) are remedial in nature — established to compensate innocent victims of crime for financial harm they could not otherwise recover. Remedial statutes are construed liberally to effectuate their compensatory purpose.
+
+2. **The liberal construction rule operates at every stage of the claims process.** Courts and the Board itself must apply liberal construction when: determining eligibility under § 13955; evaluating denial grounds under § 13956; measuring compensable losses under § 13957; reviewing denial decisions at hearing and on appeal.
+
+3. **Eligibility criteria are construed in favor of the applicant when ambiguous.** A close or borderline case should be resolved in favor of compensation, not denial.
+
+4. **Denial grounds are construed narrowly.** The § 13956 grounds for denial are limitations on the general right to compensation. As exceptions to the general rule, they are construed narrowly and applied only where clearly applicable.
+
+5. **Documentation requirements are not applied mechanically.** When an applicant cannot produce specific documentation because of circumstances beyond their control (records destroyed, records held by the defendant, agency failure to provide), the Board must consider alternative evidence and cannot deny solely on documentation grounds.
+
+---
+
+THE PURPOSE OF § 13950:
+
+Section 13950 states that CalVCB's purpose is to compensate victims of crime for direct financial losses resulting from the crime. The Board's processes and decisions must be oriented toward fulfilling this purpose. Administrative procedures and documentation requirements are means to that end — not independent grounds for denial.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For application A25-10117946, the § 13950 liberal construction principle requires:
+
+1. **Each of the 13 FAIL findings** must be evaluated against the liberal construction standard. A CalVCB process failure (improper denial, inadequate notice, mechanical documentation rejection) that resulted in denial is inconsistent with § 13950.
+
+2. **Shortened deadlines** — if CalVCB's notice of deadlines was inadequate or deadlines were administratively shortened without proper notice, the liberal construction mandate requires that the Board not penalize applicants for failures attributable to the agency's own process defects.
+
+3. **Single-source denial** — denying a claim based on a single point of failure (one document missing, one form error) without considering the totality of the evidence is inconsistent with a liberal construction of the statute's compensatory purpose.
+
+---
+
+SOURCE PROVENANCE:
+Citation: People v. Grijalva (1997) — NO CASE FOUND
+Court: California Court of Appeal
+Source: Framework derived from Gov. Code § 13950 statutory text, California remedial statute doctrine (remedial statutes construed liberally), and Cal. Const. Art. I § 28. Published appellate CalVCB case law is thin. No "People v. Grijalva" case for CalVCB § 13950 found after search. The CalVCB Legal page (victims.ca.gov/legal/) and the 2002 recodification documents confirm the liberal construction principle flows from the statute's remedial purpose, not from a specific published case.
+PRIMARY AUTHORITY: Gov. Code § 13950 itself (text expressly states compensatory purpose); California remedial statute doctrine (general). No published California appellate case specifically articulates the § 13950 liberal construction holding documented here.
+ACTION REQUIRED: No People v. Grijalva 1997 case found. The liberal construction principles documented above are accurate as a statement of California law but are derived from general remedial statute doctrine, not a specific case. Use § 13950 text directly in any CalVCB appeal brief; do not cite "People v. Grijalva (1997)" in a filed document.
+Verification status: CITATION NOT FOUND — no People v. Grijalva 1997 CalVCB case confirmed after search; liberal construction framework accurate from § 13950 text and general California doctrine; DO NOT CITE in filed documents

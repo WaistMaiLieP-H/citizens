@@ -1,0 +1,27 @@
+{
+  "case_name": "Sanchez v. City of Los Angeles",
+  "citation": "109 Cal.App.4th 1262 (2003)",
+  "parallel_citations": ["1 Cal.Rptr.3d 6"],
+  "court": "California Court of Appeal, Second District",
+  "date_decided": "2003-07-02",
+  "docket_number": "B158793",
+  "jurisdiction": "California",
+  "standard_interpreted": "CCP 583.310 and 583.340(c) (court congestion and five-year dismissal)",
+  "key_doctrine": "Court congestion alone does not establish impossibility or impracticability; plaintiff must show reasonable diligence throughout the five-year period",
+  "sources": [
+    {
+      "name": "Casetext",
+      "url": "https://casetext.com/case/sanchez-v-city-of-los-angeles-14"
+    },
+    {
+      "name": "Google Scholar",
+      "url": "https://scholar.google.com/scholar_case?case=sanchez+city+los+angeles+109+cal+app+4th+1262"
+    },
+    {
+      "name": "Westlaw",
+      "url": "https://www.westlaw.com/ (subscription required)"
+    }
+  ],
+  "created_utc": "2026-04-08",
+  "created_by": "Claude (assistant) under steward direction -- Michael Hartmann, Vernen Legal Compliance"
+}

@@ -1,0 +1,68 @@
+{
+  "standard_id": "lab_1102_5_whistleblower",
+  "title": "Cal. Lab. Code \u00a7 1102.5 \u2014 Whistleblower Protection",
+  "citizen": "CA_Labor_Employment_Litigator",
+  "citation": "Cal. Lab. Code \u00a7 1102.5",
+  "jurisdiction": "California",
+  "version": "As amended through 2023",
+  "build_date": "2026-04-13",
+  "upgraded_date": "2026-04-15",
+  "build_state": "PUBLISHED",
+  "primary_cases": [
+    "#37 UA342 identity replacement (disclosures to regulators + refusal to participate in pension-benefits manipulation)",
+    "ua342_apprenticeship_advancement_fraud (disclosure of Steve Silber coordinator pattern to DAS / internal union officers)"
+  ],
+  "layers_present": [
+    "current/rule.md",
+    "current/reasoning.md",
+    "current/statute_text.md",
+    "current/provenance.json",
+    "historical_chain/01_origin_1984/context.md",
+    "historical_chain/witness_record.md",
+    "case_law/patten_v_grant_joint_union/holding.md",
+    "cross_refs/refs.json",
+    "cross_refs/cross_refs.md"
+  ],
+  "layers": {
+    "rule": "COMPLETE",
+    "reasoning": "COMPLETE",
+    "statute_text": "COMPLETE",
+    "historical_chain": "COMPLETE",
+    "case_law": "COMPLETE",
+    "cross_refs": "COMPLETE"
+  },
+  "status": "PUBLISHED",
+  "provenance": {
+    "source": "leginfo.legislature.ca.gov",
+    "tool": "mcp__claude_ai_VernenLegal__california_get_section",
+    "fetch_date": "2026-04-13",
+    "verified": true,
+    "statute_sha256": "7605b46d962f59914ae5d713110922cf7d54a38ae7e6c2dba79f07e3e35c7fdc"
+  },
+  "verified": true,
+  "content_hash": "46170e6d",
+  "two_witness_status": {
+    "herald_witness": "WITNESSED-BY-HERALD \u2014 2026-04-15",
+    "adam_witness": {
+      "governing_guidelines": "PASS",
+      "standards_of_creation": "PASS",
+      "soc": "PASS",
+      "signal": "APPROVE",
+      "hash": "46170e6d",
+      "date": "2026-04-15"
+    },
+    "eve_witness": {
+      "layer_1_rule": "PASS",
+      "layer_2_reasoning": "PASS",
+      "layer_3_historical_loss": "PASS",
+      "layer_4_cross_references": "PASS",
+      "layer_5_verifiable_provenance": "PASS",
+      "triple_constraint": "PASS",
+      "signal": "COUNTERSIGN",
+      "hash_recomputed": "46170e6d",
+      "date": "2026-04-15"
+    },
+    "publication_status": "PUBLISHED \u2014 ADAM APPROVE + EVE COUNTERSIGN + HERALD WITNESS \u2014 2026-04-15"
+  },
+  "witness": { "ADAM": "APPROVE", "EVE": "COUNTERSIGN", "HERALD": "WITNESSED" }
+}

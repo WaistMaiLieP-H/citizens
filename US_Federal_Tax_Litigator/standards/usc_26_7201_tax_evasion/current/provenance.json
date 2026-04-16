@@ -1,0 +1,12 @@
+{
+  "statute": "26 U.S.C. § 7201",
+  "source_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section7201",
+  "source_url_gpo": "https://www.govinfo.gov/link/uscode/26/7201",
+  "fetch_timestamp": "FETCH_REQUIRED",
+  "fetch_tool": "BLOCKED — federal USC fetch tool returned 'not found' in environment",
+  "html_sha256": "FETCH_REQUIRED",
+  "verbatim_text_sha256": "FETCH_REQUIRED",
+  "retrieval_steward": "Michael Hartmann",
+  "verification_status": "PENDING_STEWARD",
+  "notes": "Statute text captured from authoritative secondary sources (Spies, Sansone, Cheek, current IRM 9.1.3) and cross-checked against Cornell LII mirror. Steward must pull primary source from uscode.house.gov and compute hash for corpus admission."
+}

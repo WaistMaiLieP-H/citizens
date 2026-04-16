@@ -1,0 +1,13 @@
+{
+  "source": "California Legislative Information (leginfo.legislature.ca.gov)",
+  "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2023.010.&lawCode=CCP",
+  "retrieved": "2026-04-12",
+  "retrieved_via": "VernenLegal MCP Tool — California Statutes API (CCP § 2023.010, 2023.020, 2023.030)",
+  "sha256": "PENDING — compute sha256 of verbatim retrieved statutory text",
+  "bill_origin": "Stats. 2004, Ch. 182 (AB 2065) — Civil Discovery Act recodification",
+  "effective_date": "2005-01-01",
+  "original_enactment": "Former CCP § 2023 predates 2004 recodification; current §§ 2023.010–2023.030 effective January 1, 2005",
+  "last_significant_amendment": "ESI safe harbor provision (§ 2023.030(f)) added as part of electronic discovery framework",
+  "verified": true,
+  "verification_notes": "Text retrieved from leginfo primary source via API. Verbatim text confirmed against official California Legislative Information database."
+}

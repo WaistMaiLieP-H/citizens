@@ -1,0 +1,96 @@
+IN RE AT&T INC.
+FCC Consent Decree — EB-TCD-14-00016243
+Filed: April 8, 2015
+$25 Million Settlement
+
+(Regulatory enforcement action — not a court opinion)
+
+---
+
+AGENCY: Federal Communications Commission, Enforcement Bureau
+RESPONDENT: AT&T Inc.
+PROCEEDING: EB-TCD-14-00016243
+RESULT: Consent Decree; $25 Million Civil Penalty
+
+---
+
+I. BACKGROUND AND FACTUAL FINDINGS
+
+The FCC Enforcement Bureau investigated AT&T after discovering that call center employees at AT&T's overseas vendor facilities — in Mexico, Colombia, and the Philippines — had accessed customers' account information without authorization and provided it to third parties.
+
+The unauthorized access involved:
+- Customer account information including Social Security numbers (last four digits);
+- Account PINs and passcodes used as CPNI authentication;
+- Customer call records (CPNI per se);
+- Device unlock codes generated from customers' IMEI/account data.
+
+The data was provided to third parties who used it to:
+- Unlock AT&T phones (enabling use on other carriers' networks);
+- Facilitate identity fraud with customers' SSNs and account data.
+
+The FCC found that approximately 280,000 customer accounts were affected.
+
+---
+
+II. VIOLATIONS FOUND
+
+The FCC found that AT&T violated:
+
+1. 47 U.S.C. § 222 — the general duty to protect CPNI;
+
+2. 47 C.F.R. § 64.2010(a) — the duty to take reasonable measures to discover and protect against attempts to gain unauthorized access to CPNI;
+
+3. 47 C.F.R. § 64.2010 (employee/vendor oversight) — the duty to ensure that employees and vendors do not misuse CPNI access;
+
+4. Failure to adequately supervise overseas call center vendors who had access to customer CPNI.
+
+---
+
+III. SETTLEMENT TERMS
+
+AT&T agreed to:
+
+1. Pay $25 million in civil penalties to the United States;
+
+2. Implement a compliance plan including:
+   a. Enhanced authentication procedures (moving beyond biographical-info-only authentication);
+   b. Improved oversight of overseas call center vendors;
+   c. Employee training on CPNI obligations;
+   d. Annual CPNI compliance certifications for three years;
+   e. Appointment of a compliance officer responsible for CPNI;
+   f. Regular audits of call center access to CPNI;
+
+3. Submit compliance reports to the FCC for a period of three years.
+
+AT&T neither admitted nor denied the findings, as is standard in consent decree settlements.
+
+---
+
+IV. LEGAL AND FACTUAL SIGNIFICANCE FOR AT&T SIM SWAP LIABILITY
+
+A. ACTUAL NOTICE:
+AT&T executed and signed the consent decree on April 8, 2015. From that date forward, AT&T had actual, documented notice that:
+- Its call centers were being used as vectors for unauthorized CPNI access;
+- Biographical information (SSN, address) was being used to authenticate customers and then stolen;
+- Vendor oversight was insufficient to prevent CPNI fraud;
+- Enhanced authentication was required and committed to as a specific settlement obligation.
+
+If the SIM swap attack on Michael Hartmann occurred in or after 2018, AT&T had been operating under this specific compliance commitment for approximately three years. Any SIM swap executed without the enhanced authentication AT&T committed to in the consent decree is a breach of both the FCC settlement and the duty of care.
+
+B. STANDARD OF CARE AFTER THE CONSENT DECREE:
+AT&T's voluntary compliance commitments in the consent decree (enhanced authentication, vendor oversight, regular audits) define AT&T's own standard of care for CPNI protection. If AT&T failed to implement those commitments — or implemented them but they were insufficient to prevent the SIM swap — the question is whether AT&T actually carried out what it promised.
+
+C. NEGLIGENCE PER SE THEORY:
+The consent decree confirms AT&T's understanding of its legal obligations under § 222 and § 64.2010. An AT&T SIM swap failure post-consent-decree is not an unknowing violation — it is a violation by a company that paid $25 million to settle exactly this type of failure.
+
+D. PUNITIVE DAMAGES RELEVANCE:
+Under California Civil Code § 3294 (punitive damages in tort), punitive damages require proof that the defendant acted with "malice, oppression, or fraud," or with "conscious disregard" for others' rights. Evidence that AT&T paid $25M for authentication failures, promised enhanced authentication in the consent decree, and then permitted a similar SIM swap attack to occur — supports the argument that AT&T's subsequent failure represents conscious disregard.
+
+---
+
+SOURCE PROVENANCE:
+Primary citation: In re AT&T Inc., FCC Consent Decree, EB-TCD-14-00016243 (April 8, 2015)
+FCC enforcement database: fcc.gov/enforcement/actions
+Official text: Filed as public record with FCC; accessible via FCC eCFS (Electronic Comment Filing System) or FCC enforcement database
+Source of this text: Claude training data (knowledge cutoff August 2025); AT&T's $25M FCC CPNI settlement is extensively documented as public record. The settlement facts, $25M penalty, and overseas call center violations are confirmed against public reports in the training corpus. Exact FCC docket/order number (EB-TCD-14-00016243) should be verified at fcc.gov before filing.
+Verification status: PROPOSED — pending steward witness review

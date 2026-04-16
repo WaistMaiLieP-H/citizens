@@ -1,0 +1,82 @@
+{
+  "standard": "lab_3700_employer_comp_obligation",
+  "cross_references": [
+    {
+      "id": "lab_3700_5",
+      "label": "Lab. Code §3700.5",
+      "relationship": "criminal enforcement",
+      "description": "Criminal penalties for §3700 violation. Knowing failure to secure = misdemeanor ($10K fine / 1 yr jail); second offense or > 50 employees = felony. §3700 obligation + §3700.5 criminal exposure operate as a pair — one defines the duty, the other enforces it.",
+      "direction": "outbound",
+      "citizen": "CA_Workers_Compensation_Litigator"
+    },
+    {
+      "id": "lab_3702",
+      "label": "Lab. Code §3702",
+      "relationship": "self-insurance pathway",
+      "description": "Certificate of Consent to Self-Insure requirements. §3700(b) option (individual self-insurance) is only available with a §3702 certificate from DWC Director. Certificate is the proof of §3700(b) compliance.",
+      "direction": "outbound",
+      "citizen": "CA_Workers_Compensation_Litigator"
+    },
+    {
+      "id": "lab_3706",
+      "label": "Lab. Code §3706",
+      "relationship": "civil consequence — negligence presumption",
+      "description": "Uninsured employer loses assumption of risk, contributory negligence, and fellow-servant defenses. Negligence presumed. This is the tort-track enabler when §3700 fails — the worker can sue in civil court for full damages including pain and suffering.",
+      "direction": "outbound",
+      "citizen": "CA_Workers_Compensation_Litigator"
+    },
+    {
+      "id": "lab_3715_3717",
+      "label": "Lab. Code §§3715-3717 (UEBTF)",
+      "relationship": "civil consequence — UEBTF safety net",
+      "description": "Uninsured Employers Benefit Trust Fund. When §3700 fails, UEBTF pays worker's WC benefits and pursues the employer for recovery. Three-track strategy (WCAB/UEBTF + tort + criminal referral) opens when §3700 is violated.",
+      "direction": "outbound",
+      "citizen": "CA_Workers_Compensation_Litigator"
+    },
+    {
+      "id": "lab_3601",
+      "label": "Lab. Code §3601",
+      "relationship": "exclusive remedy provision",
+      "description": "§3601 grants tort immunity to compliant employers. §3700 is the precondition: the exclusive remedy bargain only works if coverage is secured. Uninsured employer cannot invoke §3601 immunity. §3700 and §3601 are two sides of the same bargain.",
+      "direction": "outbound",
+      "citizen": "CA_Workers_Compensation_Litigator"
+    },
+    {
+      "id": "lab_3202",
+      "label": "Lab. Code §3202 (liberal construction)",
+      "relationship": "interpretive standard",
+      "description": "§3202 liberal construction applies when coverage disputes arise under §3700. Exclusions from coverage construed narrowly. Employer label challenges (misclassification) resolved in favor of worker where evidence is ambiguous. See Western Growers v. WCAB (1993).",
+      "direction": "outbound",
+      "citizen": "CA_Workers_Compensation_Litigator",
+      "standard_path": "standards/lab_3202_liberal_construction"
+    },
+    {
+      "id": "lab_4553",
+      "label": "Lab. Code §4553 (serious and willful misconduct enhancement)",
+      "relationship": "enhancement on deliberate §3700 violation",
+      "description": "Where employer deliberately fails to secure coverage (§3700 violation) and the non-coverage is itself serious and willful misconduct, §4553's 50% compensation enhancement applies to the underlying WC award. Deliberate misclassification as an independent contractor to avoid §3700 coverage can constitute §4553 conduct.",
+      "direction": "outbound",
+      "citizen": "CA_Workers_Compensation_Litigator",
+      "standard_path": "standards/lab_4553_serious_willful_misconduct_enhancement"
+    },
+    {
+      "id": "lab_132a",
+      "label": "Lab. Code §132a (discrimination for filing WC claim)",
+      "relationship": "retaliation companion",
+      "description": "Misclassification post-injury to deny WC coverage can constitute §132a discrimination. Worker who is reclassified as 'independent contractor' after filing or threatening to file a WC claim has a §132a retaliation claim.",
+      "direction": "outbound",
+      "citizen": "CA_Workers_Compensation_Litigator"
+    },
+    {
+      "id": "ca_labor_employment_lab_226",
+      "label": "Lab. Code §226 (wage statement requirements)",
+      "relationship": "misclassification evidence",
+      "description": "Wage statements showing worker as 1099 vs. W-2 employee are evidence in §3700 coverage disputes. Missing or altered payroll records in misclassification cases implicate both §3700 and §226.",
+      "direction": "outbound",
+      "citizen": "CA_Labor_Employment_Litigator"
+    }
+  ],
+  "built_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "built_at_utc": "2026-04-13T00:00:00Z",
+  "status": "PROPOSED"
+}

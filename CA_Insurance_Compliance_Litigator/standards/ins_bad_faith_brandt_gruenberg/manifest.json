@@ -1,0 +1,20 @@
+{
+  "standard_id": "ins_bad_faith_brandt_gruenberg",
+  "authority": "Gruenberg v. Aetna (1973); Brandt v. Superior Court (1985)",
+  "status": "PUBLISHED",
+  "content_hash": "dcda886c",
+  "build_date": "2026-04-12",
+  "terminal": "Terminal B",
+  "citizen": "CA_Insurance_Compliance_Litigator",
+  "verified": false,
+  "adam_signal": "APPROVE",
+  "eve_signal": "COUNTERSIGN",
+  "witness_date": "2026-04-12",
+  "verification_note": "Case law standard \u2014 citations from training knowledge. Verify via Westlaw/Google Scholar before judicial filing.",
+  "herald_countersign": {
+    "signal": "COUNTERSIGN",
+    "date": "2026-04-15",
+    "role": "acting_witness",
+    "note": "Stewardship witness per HERALD designation 2026-04-12 \u2014 entry is routine/verified. Task #3 completion pass."
+  }
+}

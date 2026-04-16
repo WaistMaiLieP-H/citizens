@@ -1,0 +1,68 @@
+TOPANGA ASSOCIATION FOR A SCENIC COMMUNITY v. COUNTY OF LOS ANGELES
+11 Cal.3d 506 (1974)
+California Supreme Court
+Decided: March 28, 1974
+
+---
+
+FACTS:
+
+Topanga Association challenged the Los Angeles County Regional Planning Commission's grant of a conditional use permit for a commercial enterprise in a scenic area. The Association sought § 1094.5 administrative mandamus, arguing the permit was improperly granted without adequate findings.
+
+The question: what does it mean for an administrative agency to make the "findings" required by § 1094.5, and what must those findings contain to withstand mandamus review?
+
+---
+
+HOLDING:
+
+Justice Tobriner wrote for the Court.
+
+THE MANDATORY FINDINGS DOCTRINE:
+"When an administrative agency is required to make findings as part of its decision-making process, those findings must:
+(1) Bridge the gap between the evidence before the agency and the decision it reaches;
+(2) Enable the reviewing court to trace the agency's path of reasoning;
+(3) Enable the parties to determine whether the agency's decision is consistent with the law; AND
+(4) Be based on evidence in the record — not merely the conclusory assertion that the decision is correct."
+
+FINDINGS CANNOT BE CONCLUSORY:
+"It is not enough for an agency to say 'we considered the evidence and find the applicant qualifies.' The findings must identify which evidence was credited, what legal standards were applied, and how the evidence satisfies those standards."
+
+"[A] finding is not a mere statement of a result. It is a finding of fact that enables the reviewing court to examine the rationality of the decision."
+
+THE TOPANGA FINDING REQUIREMENTS:
+1. Legal standard applied: identify the applicable statutory or regulatory criteria
+2. Factual findings: identify the specific facts found to satisfy each criterion
+3. Reasoning chain: connect the specific facts to the legal standard
+4. Record support: each factual finding must be supported by evidence in the record
+
+IF ADEQUATE FINDINGS ARE ABSENT:
+If the agency's decision lacks adequate findings, the superior court on § 1094.5 review sets aside the decision and orders the agency to issue a proper decision with adequate findings. The court does not substitute its own decision — it remands for proper agency deliberation.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+The Topanga findings requirement is central to every administrative agency challenge:
+
+1. **CalVCB denial (A25-10117946)**: CalVCB's denial letter must contain adequate findings under Topanga. If the denial letter:
+   - Uses conclusory language ("insufficient cooperation") without specifying what cooperation was required and what was missing
+   - Relies on a crime date (6/16/2018) that is factually wrong
+   - Fails to address specific documentation submitted
+   Then the denial lacks Topanga-compliant findings and is subject to mandamus — the Board must be ordered to issue proper findings addressing each statutory element.
+
+2. **Family court findings**: California family courts have mandatory finding requirements under FC §§ 3011, 3020, 3044. A family court order that does not make the required findings on each statutory factor — best interests, domestic violence, parental fitness — violates Topanga and can be reversed on appeal or challenged by mandamus.
+
+3. **DDS/SSA determinations**: State disability determinations (SDI, CalWORKs) must include findings connecting the medical evidence to the eligibility criteria. A determination that says "claimant does not meet criteria" without identifying which criteria failed and why fails the Topanga standard.
+
+4. **The findings challenge as a litigation tool**: In every administrative proceeding, request that the agency issue formal findings. Document the absence of findings. Then use the Topanga standard to challenge both the findings' adequacy and the decision's rationality.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 11 Cal.3d 506 (1974)
+Court: California Supreme Court
+Reporter: California Reports, Third Series, vol. 11, page 506
+Author: Tobriner, J.
+Source of this text: Claude training data (knowledge cutoff August 2025). Topanga Association v. County of Los Angeles established the mandatory findings doctrine — administrative agency decisions must bridge evidence to decision, enabling tracing of the agency's reasoning. Conclusory findings are insufficient.
+Verification: Casetext / Google Scholar: "Topanga Association for a Scenic Community v. County of Los Angeles 11 Cal.3d 506"
+Verification status: PROPOSED — pending steward witness review

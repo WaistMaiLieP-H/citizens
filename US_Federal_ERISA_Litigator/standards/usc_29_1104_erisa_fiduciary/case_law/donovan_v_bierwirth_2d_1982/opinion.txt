@@ -1,0 +1,31 @@
+Donovan v. Bierwirth
+680 F.2d 263 (2d Cir. 1982)
+United States Court of Appeals, Second Circuit
+JUDGE FRIENDLY
+
+Trustees of the Grumman Corporation pension fund used plan assets to purchase Grumman
+stock to resist a hostile takeover by LTV Corporation. The Secretary of Labor brought
+suit alleging breach of fiduciary duty under ERISA §404.
+
+HELD: The trustees violated their ERISA fiduciary duties by placing Grumman's corporate
+interests above the interests of plan participants and beneficiaries.
+
+The court established the framework for evaluating conflicts of interest in fiduciary
+decision-making:
+
+1. A trustee who faces a conflict of interest "must start from the premise that he must
+   not serve his own interests or those of the employer, but must act for the exclusive
+   benefit of the participants."
+
+2. The trustee bears the burden of showing that the challenged decision was made "without
+   taint of self-dealing or conflict of interest."
+
+3. When a trustee acts under a conflict, the court applies "heightened scrutiny" —
+   more searching review than when no conflict exists.
+
+4. "Solely in the interest" means exclusively — not primarily, not substantially,
+   but solely. Any admixture of the employer's interest in a fiduciary decision taints it.
+
+Donovan v. Bierwirth is the foundational case for ERISA conflict-of-interest analysis.
+It established that §404's exclusivity requirement is non-negotiable and that the
+court, not the trustee, determines whether a conflicted decision was proper.

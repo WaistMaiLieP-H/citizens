@@ -1,0 +1,12 @@
+In re Marriage of Carney
+24 Cal.3d 725 (1979)
+California Supreme Court, 1979
+
+FACTS:
+Custody modification proceeding in which the trial court awarded custody based on a change in one parent's physical circumstances. The Supreme Court addressed the standards for determining the "best interests" of children in custody proceedings, and the primacy of the child's health, safety, and welfare as the overriding concern.
+
+HOLDING — Family Code § 3020 (then Civil Code § 4600):
+The California Supreme Court held that in every custody determination, the child's health, safety, and welfare must be the paramount concern — not the preferences of the parents or the convenience of the court. The court rejected any approach that treats parental factors as automatically determinative without relating them to the child's actual welfare. The best interest standard is child-centered.
+
+SIGNIFICANCE:
+The foundational California case on the primacy of child welfare in custody determinations. § 3020(a)'s explicit legislative finding that "health, safety, and welfare of children shall be the court's primary concern" codifies the principle established in Carney. Courts citing § 3020 frequently reference Carney for the proposition that no other consideration — including frequent contact preferences — overrides child safety.

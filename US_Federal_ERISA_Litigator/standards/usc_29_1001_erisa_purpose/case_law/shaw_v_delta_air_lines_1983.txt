@@ -1,0 +1,12 @@
+Shaw v. Delta Air Lines, Inc.
+463 U.S. 85 (1983)
+United States Supreme Court, 1983
+
+FACTS:
+Delta Air Lines challenged a New York Human Rights Law requiring employers to pay disability benefits during pregnancy leave. Delta argued the state law was preempted by ERISA. The Supreme Court addressed the scope of ERISA's preemption provision in light of § 1001's declaration of national policy for uniform benefit plan regulation.
+
+HOLDING — 29 U.S.C. § 1001 / § 1144:
+The Supreme Court held that ERISA's preemption clause (§ 1144) is extremely broad — it preempts any state law that "relates to" an employee benefit plan. The Court grounded this holding in § 1001's declaration that a national, uniform system for regulating employee benefit plans was essential to protect participants and enable employers to maintain consistent plans. The breadth of ERISA preemption reflects the breadth of § 1001's congressional purpose.
+
+SIGNIFICANCE:
+The foundational preemption case. Establishes that § 1001's national uniformity purpose supports sweeping ERISA preemption. For participants: this means state court remedies are often unavailable; everything must go through § 1132. For employers and plans: ERISA's uniform national standards preempt inconsistent state requirements. The case is cited in virtually every ERISA preemption dispute.

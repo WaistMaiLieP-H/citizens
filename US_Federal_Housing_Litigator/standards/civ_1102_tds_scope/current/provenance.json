@@ -1,0 +1,19 @@
+{
+  "standard": "civ_1102_tds_scope",
+  "layer": "current",
+  "source": "VernenLegal MCP — mcp__claude_ai_VernenLegal__california_get_section",
+  "code": "CIV",
+  "sections": ["1102", "1102.3"],
+  "fetch_date": "2026-04-13",
+  "verified": true,
+  "verification_method": "Live fetch from leginfo.legislature.ca.gov via VernenLegal MCP tool",
+  "notes": [
+    "§1102 text: scope, BPS definitions, waiver-void provision",
+    "§1102.3 text: delivery timing, cancellation window (3 days in person / 5 days mail / 5 days electronic), Section I/II/III completion requirement",
+    "§1102.2 (exceptions) not fetched — references probate/trust/new construction; verify exceptions at leginfo if any apply to Honeysuckle facts",
+    "§1102.6 (TDS form) not fetched — the actual form; verify at leginfo for complete three-section structure",
+    "§1102.13 (rescission remedy) not fetched — 3-year rescission window; include in steward verify queue"
+  ],
+  "built_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "built_at_utc": "2026-04-13T00:00:00Z"
+}

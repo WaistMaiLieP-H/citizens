@@ -1,0 +1,41 @@
+ORIGIN TEXT — 1970 ENACTMENT
+Source: Stats. 1970, Ch. 1550, §1
+Effective: January 1, 1971
+
+The Consumers Legal Remedies Act was enacted in 1970 by Chapter 1550 of the 1970 Statutes. The core structure as originally enacted included:
+
+§1750 — Short title ("Consumers Legal Remedies Act")
+§1751 — Waiver void (anti-waiver provision)
+§1752 — Non-exclusivity of remedies
+§1760 — Liberal construction mandate
+§1761 — Definitions (goods, services, person, consumer, transaction)
+§1770 — The original enumerated list of deceptive practices (originally subdivisions (a)(1)-(18)). The core prohibitions on:
+  - passing off, misrepresenting source/sponsorship/approval,
+  - misrepresenting affiliation/certification,
+  - deceptive geographic origin representations,
+  - misrepresenting characteristics/uses/benefits,
+  - representing deteriorated goods as new,
+  - misrepresenting standard/quality/grade,
+  - disparaging another's goods,
+  - bait-and-switch advertising,
+  - advertising without intent to supply reasonable demand,
+  - false "reasons for" price-reduction claims,
+  - representing rights/remedies/obligations that do not exist,
+  - representing unnecessary parts/repair as needed,
+  - misrepresenting prior supply in accordance with representation,
+  - rebates contingent on post-consummation events,
+  - misrepresenting salesperson authority,
+  - inserting unconscionable contract provisions.
+
+§1780 — Private right of action: actual damages (with $100 minimum per individual action — later increased), injunctive relief, restitution of property, punitive damages, "any other relief deemed proper."
+§1781 — Class action provision.
+§1782 — 30-day pre-suit notice-and-cure requirement for damages claims (no notice required for injunctive relief).
+§1783 — Three-year statute of limitations.
+§1784 — Innocent affirmative defense (bona fide error + correction within 30 days of notice).
+
+KEY FEATURES OF THE 1970 ENACTMENT:
+1. Liberal construction mandate was written into the text (§1760) — unusual for a California statute and a deliberate instruction to courts that the statute was to be read favorably to consumers.
+2. Anti-waiver clause (§1751) — consumers cannot contractually waive the CLRA. This was in direct response to form-contract waivers that had become standard in the 1960s.
+3. The enumerated list (§1770) was modeled on the Uniform Deceptive Trade Practices Act (UDTPA, 1966 revision) but expanded — California added practices not in the uniform model.
+4. Individual private right of action + class action right in the same statute. This is the structural innovation.
+5. Attorney fee provision (§1780(d) in original numbering) — prevailing plaintiff fees mandatory. This is what makes the statute economically viable in individual low-dollar consumer cases.

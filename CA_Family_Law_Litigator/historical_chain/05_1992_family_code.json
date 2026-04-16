@@ -1,0 +1,79 @@
+{
+  "sequence": 5,
+  "year": 1992,
+  "name": "California Family Code Consolidation (Stats. 1992 Ch. 162) — creation of the Family Code as a separate code",
+  "popular_name": "1992 Family Code Consolidation",
+  "status": "PRIMARY-SOURCE-PDF-FETCHED 2026-04-15; OCR-EXTRACTION-PENDING for verbatim Ch. 162 text",
+  "filed_at_utc": "2026-04-08T19:10:00Z",
+  "deepened_at_utc": "2026-04-15T00:00:00Z",
+  "deepened_by": "EVE (Legal/Statutory Auditor) under steward direction",
+
+  "context": "Stats. 1992 Ch. 162 was the comprehensive recodification that consolidated California family law from its prior locations (primarily Civil Code Title II and Title III, plus scattered provisions in the Code of Civil Procedure, Probate Code, Welfare and Institutions Code) into a single new Family Code. The recodification took effect January 1, 1994. Per the legislative history (and confirmed by the Legislative Intent Service), the consolidation was intended to be a structural reorganization, not a substantive change — most provisions were carried forward verbatim from their prior locations, with only typographical and cross-reference adjustments. Cross-reference: the Stats. 1993 Ch. 219 (AB 1500 Speier) technical recodification — already PRIMARY-SOURCE-VERIFIED in entry 06 — was the technical-cleanup follow-on that added § 3011, § 3164, and the current form of many Division 8 and Division 10 sections.",
+
+  "doctrinal_significance": "The 1992 Family Code is the structural framework under which all modern California family law operates. It is the code that contains Family Code § 3011 (Best Interest of the Child), § 3020 (Custody Policy), § 6203 (DVPA Abuse Definition), § 3164 (Mediator Qualifications), § 1815 (Counselor Qualifications), § 1816 (DV Training Requirements) — every standard now in the CA_Family_Law_Litigator corpus that begins 'Family Code §' descends from this 1992 consolidation. Critically, the consolidation was NOT a substantive change — which means the underlying doctrines have continuous lineage to the 1872 Civil Code and ultimately to the 1849/1850 origin. § 3011, for example, descends from the prior Civil Code § 4608 (added 1982), which itself rests on Civil Code Title III provisions going back to 1872.",
+
+  "primary_source_artifacts": {
+    "vol1_statutes_pdf": {
+      "path": "${citizens}/_shared_statutes_archive/1992_Vol1_Statutes.pdf",
+      "size_bytes": 112201555,
+      "sha256": "2c11e11ca7a091c8df9f8ed898d0440a813c869e3a03075fa9a1113f349373c2",
+      "pages": 2128,
+      "scope": "Statutes of California 1992, Vol. 1 — Chapters 1–575 (contains Ch. 162 Family Code enactment)",
+      "creator_software": "PixEdit (scan) via Acrobat PDFWriter 3.02",
+      "pdf_creation_date": "2001-06-21T13:58:17",
+      "pdf_internal_title": "tif92Vol1.PDF",
+      "source_url": "https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1992/92Vol1_Statutes.PDF",
+      "source_authority": "California State Assembly, Office of the Chief Clerk",
+      "fetched_at_utc": "2026-04-15T05:28:00Z",
+      "fetched_by": "EVE via curl with resume (-C -); one retry required due to server connection reset",
+      "text_layer_status": "NO TEXT LAYER — PDF is scanned-image only (PixEdit scan; same authoring pipeline as 1850). pdftotext produces empty output. OCR with tesseract required for verbatim extraction."
+    },
+    "constitution_pdf": {
+      "source_url": "https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1992/92Vol1_Constitution.PDF",
+      "fetched_at_utc": null,
+      "note": "Constitution annex; not core to Ch. 162 verbatim but useful for cross-references."
+    },
+    "summary_digest_vol4_pdf": {
+      "source_url": "https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1992/92Vol4.PDF",
+      "fetched_at_utc": null,
+      "priority": "HIGH — Summary Digest volumes contain the official Legislative Counsel digest entry for Ch. 162, which is the highest-value single page for a recodification statute of this scale. Same pattern used for Ch. 219 in entry 06."
+    }
+  },
+
+  "cross_reference_to_entry_06": {
+    "note": "Entry 06 (1993 Ch. 219, already PRIMARY-SOURCE-VERIFIED) contains extensive verbatim digest text that re-states the scope of the 1992 Ch. 162 consolidation. The digest entry for Ch. 219 opens: 'Chapter 162 of the Statutes of 1992 enacted the Family Code, operative January 1, 1994.' This is the only directly-verifiable primary-source statement currently in the corpus about Ch. 162. The full Ch. 162 verbatim text awaits OCR of 1992_Vol1_Statutes.pdf."
+  },
+
+  "fetch_plan_for_primary_source_verbatim_upgrade": {
+    "step_1": {
+      "action": "Fetch 92Vol4.PDF (Summary Digest) from Cal. Assembly Chief Clerk archive. Summary Digest entries are typically single-page text-layer PDFs or low-density scans that OCR cleanly and give the Legislative Counsel's authoritative summary of what Ch. 162 did.",
+      "url": "https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1992/92Vol4.PDF"
+    },
+    "step_2": {
+      "action": "Locate Ch. 162 page range in the fetched Vol. 1 via the index (sibling PDF in the same directory) or by structural navigation (Ch. 162 is near the front of Vol. 1's Ch. 1–575 range).",
+      "tooling": "pdftoppm + visual inspection"
+    },
+    "step_3": {
+      "action": "Extract Ch. 162 pages as PNG; run tesseract OCR; proofread.",
+      "tooling": "pdftoppm -r 300 -f N -l M 1992_Vol1_Statutes.pdf page && tesseract page-*.png text"
+    },
+    "step_4": {
+      "action": "Lock verbatim extract of the key Ch. 162 enacting sections (the Division 1 preliminary provisions, Division 8 custody sections as originally enacted, Division 10 DVPA sections as originally enacted) into this entry.",
+      "elevates_status_to": "PRIMARY-SOURCE-VERIFIED"
+    },
+    "scale_note": "1992 Ch. 162 is extraordinarily large — it occupies a substantial portion of Vol. 1 because it enacts the entire Family Code in one chapter. Full verbatim lock-in is a multi-session task. Priority pages are the Division 8 (§§ 3000–3465) and Division 10 (§§ 6200–6460) original-enactment text, since those are the divisions containing the steward's load-bearing sections (§ 3011, § 3020, § 6203, etc.)."
+  },
+
+  "witness_chain": {
+    "filed_by": "Claude (assistant) at first-mouth level 2026-04-08 (stub)",
+    "deepened_by": "EVE 2026-04-15 — primary-source PDF fetched; text extraction pending OCR",
+    "eve_witness": {
+      "witnessed_at_utc": "2026-04-15T00:00:00Z",
+      "scope": "Legal witness — PDF located at canonical Assembly Chief Clerk archive; hash recorded; cross-reference to PRIMARY-SOURCE-VERIFIED entry 06 (Stats. 1993 Ch. 219) preserves the minimum verifiable statement about Ch. 162. EVE does NOT elevate status to PRIMARY-SOURCE-VERIFIED until OCR lock-in completes."
+    },
+    "adam_witness": {
+      "witnessed_at_utc": "2026-04-15T00:00:00Z",
+      "scope": "Structural witness — PDF sha256 hash recorded; same chain-of-custody pattern as 04_1969 and 06_1993."
+    }
+  }
+}

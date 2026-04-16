@@ -1,0 +1,22 @@
+[
+  {
+    "target_standard": "CAL_EVID_1400",
+    "relationship": "SUPPLEMENTS",
+    "notes": "§ 1280 removes the hearsay bar for official records, but the records must still be authenticated under § 1400 before admission. Hearsay exception and authentication are independent requirements."
+  },
+  {
+    "target_standard": "CAL_EVID_1271",
+    "relationship": "SUPPLEMENTS",
+    "notes": "§ 1271 is the business records exception; § 1280 is the official records exception. Government agencies that operate business-like record-keeping systems may qualify under either or both. The requirements differ: § 1271 requires a custodian witness; § 1280 requires the record be made by a public employee within scope of duty."
+  },
+  {
+    "target_standard": "CAL_EVID_1560",
+    "relationship": "SUPPLEMENTS",
+    "notes": "§ 1560 governs the production of business records by subpoena duces tecum and establishes the custodian-of-records affidavit procedure. Official records produced under subpoena may need to satisfy both § 1280 and § 1560."
+  },
+  {
+    "target_standard": "PEN_CODE_832_7",
+    "relationship": "INTERPRETS",
+    "notes": "Penal Code § 832.7 governs the confidentiality of peace officer personnel records. Official records of law enforcement agencies may be subject to § 832.7 restrictions that affect their availability but not their § 1280 admissibility analysis."
+  }
+]

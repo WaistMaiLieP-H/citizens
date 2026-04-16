@@ -1,0 +1,15 @@
+{
+  "standard_id": "pen_1368_mental_competency",
+  "primary_source": "Cal. Pen. Code \u00a7 1368",
+  "enactment": "Stats. 1872",
+  "key_amendments": [
+    "Post-1960 Dusky implementation",
+    "Stats. 2016, Ch. 86 (revocation proceedings added)"
+  ],
+  "current_form_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1368.&lawCode=PEN",
+  "verified": true,
+  "fetch_method": "VernenLegal MCP california_get_section",
+  "fetch_date": "2026-04-12",
+  "key_case": "Dusky v. United States, 362 U.S. 402 (1960); Drope v. Missouri, 420 U.S. 162 (1975)",
+  "chronicle_flag": false
+}

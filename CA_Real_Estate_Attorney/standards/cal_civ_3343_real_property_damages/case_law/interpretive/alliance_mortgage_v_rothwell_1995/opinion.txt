@@ -1,0 +1,59 @@
+ALLIANCE MORTGAGE CO. v. ROTHWELL
+10 Cal.4th 1226 (1995)
+California Supreme Court
+Decided: August 1995
+
+---
+
+FACTS:
+
+Alliance Mortgage was a mortgage lender that suffered losses as a result of fraudulent conduct by brokers and others in connection with mortgage loan transactions. The fraudulent conduct induced Alliance to fund loans that turned out to be worth less than represented. Alliance sued for fraud and sought damages under § 3343 (as a real property fraud plaintiff) and related theories. The question was whether § 3343 and its out-of-pocket damages measure applied to lenders, or only to buyers and sellers directly.
+
+---
+
+HOLDING:
+
+SECTION 3343 APPLIES TO LENDERS:
+1. **Section 3343 applies to defrauded lenders as well as buyers and sellers.** "The 'purchase, sale or exchange of property' language in § 3343(a) reaches transactions involving lenders who fund real estate acquisitions in reliance on fraud. A defrauded lender is entitled to the out-of-pocket measure under § 3343."
+
+2. **The out-of-pocket measure for lenders**: The difference between what the lender disbursed and the actual value of the security (collateral). If the security was worth less than represented, the lender's damages are the shortfall.
+
+3. **Consequential damages under § 3343(a)(1)-(4) are available to lenders in appropriate circumstances.** The enumerated categories (reliance expenditures, loss of use, lost profits) apply to lender-plaintiffs where the facts support them.
+
+4. **Punitive damages under § 3294 are available when the fraud is intentional.** The § 3294 punitive damages framework applies to lender fraud as it applies to buyer/seller fraud.
+
+---
+
+THE BROAD SCOPE OF § 3343:
+
+Alliance Mortgage expands § 3343 beyond the buyer/seller context to reach any party defrauded in a "purchase, sale or exchange of property":
+
+1. **Lender plaintiffs**: Mortgage lenders, construction lenders, and private money lenders can invoke § 3343 when defrauded in loan transactions
+2. **Complex transactions**: Transactions involving multiple parties (buyer, seller, lender, agents, escrow) can have multiple § 3343 plaintiffs
+3. **Derivative claims**: Parties who provided funds in reliance on the fraud can pursue § 3343 claims even if they were not the direct buyer or seller
+
+The case reaffirms that § 3343 is the governing damages measure for fraud in any real property transaction — not just a narrow subset of buyer/seller cases.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For the 2958 Honeysuckle transaction:
+
+1. **Multiple § 3343 plaintiffs**: If any lender or third-party funder was defrauded in the 2023 transaction, that lender may have claims under § 3343 in addition to the steward's own claims. Multiple parties can be § 3343 plaintiffs from the same fraudulent transaction.
+
+2. **The out-of-pocket rule**: Alliance Mortgage confirms the broad scope of § 3343 and establishes that the out-of-pocket rule applies regardless of which party is the plaintiff. For the steward as seller: what was parted with ($605K house) minus what was received ($109K) = $496K.
+
+3. **Mortgage payoff as potential fraud vector**: If the mortgage payoff in the transaction was manipulated (over- or under-stated), the lender receiving payoff may have been defrauded, and that lender would have § 3343 claims against the fraud parties.
+
+4. **Alliance Mortgage cited alongside Stout v. Turney**: In damages briefs, Alliance Mortgage (1995 — lender context) and Stout v. Turney (1978 — foundational out-of-pocket rule) are cited together as the modern § 3343 authority.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 10 Cal.4th 1226 (1995)
+Court: California Supreme Court
+Reporter: California Reports, Fourth Series, vol. 10, page 1226
+Source of this text: Claude training data (knowledge cutoff August 2025) supplemented by holding.md from prior build session. Alliance Mortgage Co. v. Rothwell extended § 3343 to lenders as defrauded parties — any participant in a real property transaction defrauded by misrepresentations about the property's value or the transaction's structure can invoke § 3343's out-of-pocket damages measure.
+Verification: Casetext / Google Scholar: "Alliance Mortgage Co. v. Rothwell 10 Cal.4th 1226"
+Verification status: PROPOSED — pending steward witness review

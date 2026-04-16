@@ -1,0 +1,43 @@
+{
+  "standard_id": "FRE_613",
+  "popular_name": "Prior inconsistent statements — federal (Witness's Prior Statement)",
+  "citizen_owner": "HERALD",
+  "filed": "2026-04-12",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "version": "1.0.0-witnessed-by-herald",
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  },
+  "layers_complete": {
+    "rule": true,
+    "reasoning": true,
+    "historical_loss": true,
+    "cross_refs": true,
+    "provenance": true
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — full FRE 613 verbatim text; FRE 801(d)(1)(A) oath requirement documented; California contrast noted",
+    "reasoning": "PRESENT — Queen's Case history; how courts apply inconsistency; opportunity to explain; oath requirement doctrine; strategic framework for federal proceedings",
+    "historical_loss": "PRESENT — four failure modes; three documented patterns; application to steward's 5 active cases",
+    "cross_refs": "PRESENT — FRE 801(d)(1)(A), Cal. Evid. Code § 1235, § 770, § 780(h), § 1220, FRE 602; comparison chart; case-by-case application",
+    "verifiable_provenance": "PRESENT — Cornell LII URL confirmed; Pub. L. 93-595 enactment; 2011 restyling noted; Dietrich and Russell cited (PROPOSED — not yet retrieved)"
+  },
+  "five_layer_score": "5 / 5",
+  "primary_source": "Federal Rules of Evidence, Rule 613 — Pub. L. 93-595, January 2, 1975",
+  "source_url": "https://www.law.cornell.edu/rules/fre/rule_613",
+  "priority": "MEDIUM",
+  "use_in_cases": [
+    "1983_NDCA",
+    "criminal_04-23-01959",
+    "CalVCB_A25-10117946"
+  ],
+  "key_doctrine": "Prior inconsistent statement = impeachment only under FRE 613 unless it was made under oath at formal proceeding (FRE 801(d)(1)(A)). California § 1235 removes oath requirement — in California, all prior inconsistent statements are substantive evidence. Always check jurisdiction before characterizing the statement's use.",
+  "flags": [
+    "Dietrich (1980) and Russell (1983) — PROPOSED; verify before direct quotation",
+    "Oath requirement is the critical dividing line between FRE 613 (impeachment only) and FRE 801(d)(1)(A) (substantive evidence)",
+    "Jurisdiction check required: federal proceedings → FRE 613; California proceedings → § 1235"
+  ]
+}

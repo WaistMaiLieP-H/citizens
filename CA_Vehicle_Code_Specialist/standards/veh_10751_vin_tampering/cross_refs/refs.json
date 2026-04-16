@@ -1,0 +1,25 @@
+{
+  "standard_id": "veh_10751_vin_tampering",
+  "cross_refs": [
+    {
+      "ref_id": "veh_11713_dealer_prohibited_acts",
+      "path": "${citizens}/CA_Vehicle_Code_Specialist/standards/veh_11713_dealer_prohibited_acts",
+      "relationship": "Selling VIN-altered vehicle: \u00a711713(i) (equipment standards) + \u00a711713(a)(u) (misrepresentation) concurrent with \u00a710751"
+    },
+    {
+      "ref_id": "veh_5900_title_transfer_odometer",
+      "path": "${citizens}/CA_Vehicle_Code_Specialist/standards/veh_5900_title_transfer_odometer",
+      "relationship": "VIN-altered vehicle will have false title transfer documentation \u2014 \u00a75900 violation concurrent with \u00a710751"
+    },
+    {
+      "ref_id": "pen_550_insurance_fraud",
+      "path": "${citizens}/CA_Healthcare_Fraud_Litigator/standards/pen_550_insurance_fraud",
+      "relationship": "If insurance claim filed on stolen/VIN-altered vehicle: Pen. \u00a7550 insurance fraud concurrent with \u00a710751 VIN violation"
+    },
+    {
+      "ref_id": "pen_496_receiving_stolen_property",
+      "path": "EXTERNAL \u2014 Pen. Code \u00a7496 (criminal; verify via leginfo before citing)",
+      "relationship": "Criminal companion: knowingly receiving stolen vehicle/parts with altered VIN = Pen. \u00a7496 + \u00a710751 concurrent"
+    }
+  ]
+}

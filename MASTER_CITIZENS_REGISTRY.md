@@ -1,0 +1,2367 @@
+# VERNEN CITIZENS — MASTER REGISTRY
+## Universal Priority Build List — All ~1,800 Named Citizens
+**Generated:** 2026-04-12
+**Source:** CATALOG-SUMMARY-2026-03-22.md + 41 catalog files
+**Total unique Citizens in registry:** 2176
+**Deduplication note:** Catalog lists 2,689+ pre-deduplication; registry removes exact-title duplicates across files; ~2176 unique professional roles remain
+**With 50-state jurisdictional adapters:** ~10,880 total instantiated Citizens
+**With international expansion:** ~21,760 global Citizens
+
+## STATUS KEY
+- `[BUILT]` — Operational or active build; do not claim
+- `[QUEUE-T1]` — Tier 1 Priority Queue; source_prep/ file exists; claim from _PRIORITY_QUEUE.md
+- `[QUEUE-T2/T3]` — Tier 2/3 Queue; named but not yet prepped
+- `[OPEN]` — Available for claim; not yet prepped
+
+## COLLISION RULE
+Before building any Citizen in this registry:
+1. Check `_BUILD_CLAIMS.md` — if it appears there, do not build without coordination
+2. Enter a claim in `_BUILD_CLAIMS.md` before writing any files
+3. Update this registry row's status when claimed
+
+---
+
+## Legal / Courts
+**Count:** 69
+
+- `LEGAL__Trial_Court_Judge` — Trial Court Judge (Superior Court)
+- `LEGAL__Appellate_Justice` — Appellate Justice
+- `LEGAL__Magistrate_Judge` — Magistrate Judge (Federal)
+- `LEGAL__Administrative_Law_Judge` — Administrative Law Judge
+- `LEGAL__Court_Clerk_Clerk_of_Court` — Court Clerk / Clerk of Court
+- `LEGAL__Court_Administrator_Court_Executive_Officer` — Court Administrator / Court Executive Officer
+- `LEGAL__Court_Reporter_Court_Stenographer` — Court Reporter / Court Stenographer
+- `LEGAL__Court_Interpreter` — Court Interpreter
+- `LEGAL__Jury_Commissioner_Jury_Services_Manager` — Jury Commissioner / Jury Services Manager
+- `LEGAL__Attorney_at_Law` — Attorney at Law (Civil Litigation)
+- `LEGAL__Criminal_Defense_Attorney` — Criminal Defense Attorney
+- `LEGAL__Prosecutor_District_Attorney` — Prosecutor / District Attorney
+- `LEGAL__Family_Law_Attorney` — Family Law Attorney
+- `LEGAL__Immigration_Attorney` — Immigration Attorney
+- `LEGAL__Bankruptcy_Attorney` — Bankruptcy Attorney
+- `LEGAL__Estate_Planning_Probate_Attorney` — Estate Planning / Probate Attorney
+- `LEGAL__Appellate_Attorney` — Appellate Attorney
+- `LEGAL__Paralegal_Legal_Assistant` — Paralegal / Legal Assistant
+- `LEGAL__Legal_Document_Assistant_Legal_Document_Preparer` — Legal Document Assistant (LDA) / Legal Document Preparer
+- `LEGAL__Process_Server` — Process Server
+- `LEGAL__Notary_Public` — Notary Public
+- `LEGAL__Legal_Secretary` — Legal Secretary
+- `LEGAL__Probation_Officer` — Probation Officer
+- `LEGAL__Court_Investigator` — Court Investigator (Probate/Conservatorship)
+- `LEGAL__Custody_Evaluator_Child_Custody_Recommending_Counselor` — Custody Evaluator / Child Custody Recommending Counselor
+- `LEGAL__Guardian_ad_Litem_Minors_Counsel` — Guardian ad Litem / Minor's Counsel
+- `LEGAL__Court_Appointed_Special_Advocate` — Court Appointed Special Advocate (CASA)
+- `LEGAL__Mediator` — Mediator (Court-Connected)
+- `LEGAL__Arbitrator` — Arbitrator
+- `LEGAL__Private_Judge` — Private Judge (Judge Pro Tem / Referee)
+- `LEGAL__Law_Enforcement_Officer` — Law Enforcement Officer (Sworn)
+- `LEGAL__Victim_Advocate_Victim_Witness_Coordinator` — Victim Advocate / Victim-Witness Coordinator
+- `LEGAL__Sheriff_Marshal` — Sheriff / Marshal (Court Services)
+- `LEGAL__Parole_Agent_Parole_Officer` — Parole Agent / Parole Officer
+- `LEGAL__Forensic_Scientist_Crime_Lab_Analyst` — Forensic Scientist / Crime Lab Analyst
+- `LEGAL__Court_Appointed_Receiver` — Court-Appointed Receiver
+- `LEGAL__Special_Master` — Special Master
+- `LEGAL__Bail_Agent_Bail_Bond_Agent` — Bail Agent / Bail Bond Agent
+- `LEGAL__Certified_Shorthand_Reporter` — Certified Shorthand Reporter (Deposition Officer)
+- `LEGAL__Expert_Witness` — Expert Witness (General)
+- `LEGAL__Forensic_Accountant_Financial_Forensic_Expert` — Forensic Accountant / Financial Forensic Expert
+- `LEGAL__Forensic_Psychologist_Psychiatrist` — Forensic Psychologist / Psychiatrist
+- `LEGAL__Forensic_Document_Examiner` — Forensic Document Examiner
+- `LEGAL__Court_Appointed_Appraiser_Real_Property_Referee` — Court-Appointed Appraiser / Real Property Referee
+- `LEGAL__Child_Protective_Services_Social_Worker` — Child Protective Services (CPS) Social Worker
+- `LEGAL__Adoption_Social_Worker_Adoption_Agency_Professional` — Adoption Social Worker / Adoption Agency Professional
+- `LEGAL__State_Bar_Prosecutor_Office_of_Chief_Trial_Counsel` — State Bar Prosecutor / Office of Chief Trial Counsel
+- `LEGAL__Judicial_Performance_Commission_Investigator` — Judicial Performance Commission Investigator
+- `LEGAL__Conservator` — Conservator (of Person and/or Estate)
+- `LEGAL__Guardian` — Guardian (of Minor)
+- `LEGAL__Trustee` — Trustee (Court-Supervised)
+- `LEGAL__Personal_Representative_Executor_Administrator` — Personal Representative / Executor / Administrator
+- `LEGAL__Child_Support_Commissioner_Family_Law_Facilitator` — Child Support Commissioner / Family Law Facilitator
+- `LEGAL__DCSS_Enforcement_Officer` — DCSS Enforcement Officer
+- `LEGAL__Court_IT_Director_Court_Technology_Officer` — Court IT Director / Court Technology Officer
+- `LEGAL__Court_Records_Manager_Archivist` — Court Records Manager / Archivist
+- `LEGAL__Self_Help_Center_Attorney_Facilitator` — Self-Help Center Attorney / Facilitator
+- `LEGAL__US_Bankruptcy_Trustee` — U.S. Bankruptcy Trustee
+- `LEGAL__Federal_Probation_Pretrial_Services_Officer` — Federal Probation / Pretrial Services Officer
+- `LEGAL__Immigration_Judge` — Immigration Judge (IJ)
+- `LEGAL__Legal_Aid_Attorney` — Legal Aid Attorney
+- `LEGAL__Certified_Legal_Translator` — Certified Legal Translator
+- `LEGAL__Electronic_Filing_Service_Provider` — Electronic Filing Service Provider (EFSP)
+- `LEGAL__Legal_Videographer` — Legal Videographer
+- `LEGAL__CLETS_Administrator_Criminal_Justice_Information_Compliance_Officer` — CLETS Administrator / Criminal Justice Information Compliance Officer
+- `LEGAL__ADA_Access_Compliance_Officer` — ADA / Access Compliance Officer (Court)
+- `LEGAL__Title_Officer_Escrow_Officer` — Title Officer / Escrow Officer (Litigation-Related)
+- `LEGAL__Public_Defender_Administrator_Indigent_Defense_Coordinator` — Public Defender Administrator / Indigent Defense Coordinator
+- `LEGAL__Penal_Civil_Procedure_Evidence_Family_Probate_Government_Business_Professions_Welfare_Institutions_Insurance_Financial_Health_Safety_Corporations` — Penal, Civil Procedure, Evidence, Family, Probate, Government, Business & Professions, Welfare & Institutions, Insurance, Financial, Health & Safety, Corporations
+
+## Healthcare
+**Count:** 90
+
+- `HEALTH__Attending_Physician` — Attending Physician
+- `HEALTH__Hospitalist` — Hospitalist
+- `HEALTH__Emergency_Medicine_Physician` — Emergency Medicine Physician
+- `HEALTH__Surgeon` — Surgeon
+- `HEALTH__Anesthesiologist` — Anesthesiologist
+- `HEALTH__Radiologist` — Radiologist
+- `HEALTH__Pathologist` — Pathologist
+- `HEALTH__Psychiatrist` — Psychiatrist
+- `HEALTH__Medical_Examiner_Coroner` — Medical Examiner / Coroner
+- `HEALTH__Registered_Nurse` — Registered Nurse (RN)
+- `HEALTH__Nurse_Practitioner_Advanced_Practice_Registered_Nurse` — Nurse Practitioner (NP) / Advanced Practice Registered Nurse (APRN)
+- `HEALTH__Certified_Registered_Nurse_Anesthetist` — Certified Registered Nurse Anesthetist (CRNA)
+- `HEALTH__Certified_Nurse_Midwife` — Certified Nurse Midwife (CNM)
+- `HEALTH__Licensed_Practical_Vocational_Nurse` — Licensed Practical/Vocational Nurse (LPN/LVN)
+- `HEALTH__Emergency_Medical_Technician_Paramedic` — Emergency Medical Technician (EMT) / Paramedic
+- `HEALTH__Physician_Assistant` — Physician Assistant (PA)
+- `HEALTH__Radiologic_Technologist` — Radiologic Technologist (RT)
+- `HEALTH__Medical_Laboratory_Scientist_Medical_Technologist` — Medical Laboratory Scientist (MLS) / Medical Technologist (MT)
+- `HEALTH__Pharmacist` — Pharmacist
+- `HEALTH__Physical_Therapist` — Physical Therapist (PT)
+- `HEALTH__Occupational_Therapist` — Occupational Therapist (OT)
+- `HEALTH__Speech_Language_Pathologist` — Speech-Language Pathologist (SLP)
+- `HEALTH__Respiratory_Therapist` — Respiratory Therapist (RT)
+- `HEALTH__Dentist` — Dentist
+- `HEALTH__Optometrist` — Optometrist
+- `HEALTH__Ophthalmologist` — Ophthalmologist
+- `HEALTH__Chiropractor` — Chiropractor
+- `HEALTH__Clinical_Psychologist` — Clinical Psychologist
+- `HEALTH__Licensed_Clinical_Social_Worker` — Licensed Clinical Social Worker (LCSW)
+- `HEALTH__Licensed_Professional_Counselor_Licensed_Marriage_and_Family_Therapist` — Licensed Professional Counselor (LPC) / Licensed Marriage and Family Therapist (LMFT)
+- `HEALTH__Substance_Abuse_Counselor` — Substance Abuse Counselor (CASAC/CADC/LADC)
+- `HEALTH__Health_Information_Management_Director_Medical_Records_Director` — Health Information Management (HIM) Director / Medical Records Director
+- `HEALTH__Medical_Coder` — Medical Coder (CPC, CCS, RHIT)
+- `HEALTH__Clinical_Documentation_Integrity_Specialist` — Clinical Documentation Integrity (CDI) Specialist
+- `HEALTH__Health_Information_Exchange_Specialist` — Health Information Exchange (HIE) Specialist
+- `HEALTH__Medical_Billing_Specialist` — Medical Billing Specialist
+- `HEALTH__Healthcare_Compliance_Officer` — Healthcare Compliance Officer
+- `HEALTH__Utilization_Review_Utilization_Management_Specialist` — Utilization Review / Utilization Management Specialist
+- `HEALTH__Insurance_Claims_Adjuster_Medical_Director` — Insurance Claims Adjuster / Medical Director (Payer Side)
+- `HEALTH__HIPAA_Privacy_Officer` — HIPAA Privacy Officer
+- `HEALTH__HIPAA_Security_Officer` — HIPAA Security Officer
+- `HEALTH__Health_IT_EHR_Specialist` — Health IT / EHR Specialist
+- `HEALTH__Quality_Improvement_Patient_Safety_Officer` — Quality Improvement / Patient Safety Officer
+- `HEALTH__Infection_Preventionist` — Infection Preventionist (IP)
+- `HEALTH__Risk_Manager` — Risk Manager
+- `HEALTH__Accreditation_Coordinator_Survey_Readiness_Specialist` — Accreditation Coordinator / Survey Readiness Specialist
+- `HEALTH__Epidemiologist` — Epidemiologist
+- `HEALTH__Public_Health_Nurse` — Public Health Nurse
+- `HEALTH__Vital_Records_Registrar` — Vital Records Registrar
+- `HEALTH__Clinical_Research_Coordinator` — Clinical Research Coordinator (CRC)
+- `HEALTH__IRB_Administrator_Human_Subjects_Protection_Specialist` — IRB Administrator / Human Subjects Protection Specialist
+- `HEALTH__Biostatistician` — Biostatistician
+- `HEALTH__Home_Health_Nurse_Home_Health_Aide_Supervisor` — Home Health Nurse / Home Health Aide Supervisor
+- `HEALTH__Hospice_Nurse_Hospice_Medical_Director` — Hospice Nurse / Hospice Medical Director
+- `HEALTH__Long_Term_Care_Administrator` — Long-Term Care (Nursing Home) Administrator
+- `HEALTH__Disability_Examiner` — Disability Examiner (SSA)
+- `HEALTH__Workers_Compensation_Physician_QME` — Workers' Compensation Physician / QME
+- `HEALTH__VA_Disability_Examiner_CP_Examiner` — VA Disability Examiner / C&P Examiner
+- `HEALTH__Forensic_Psychiatrist` — Forensic Psychiatrist
+- `HEALTH__Forensic_Psychologist` — Forensic Psychologist
+- `HEALTH__Independent_Medical_Examiner` — Independent Medical Examiner (IME Physician)
+- `HEALTH__Life_Care_Planner` — Life Care Planner
+- `HEALTH__Medical_Staff_Credentialing_Specialist` — Medical Staff Credentialing Specialist
+- `HEALTH__Peer_Review_Committee_Member_Physician_Peer_Reviewer` — Peer Review Committee Member / Physician Peer Reviewer
+- `HEALTH__Dietitian_Clinical_Nutritionist` — Dietitian / Clinical Nutritionist
+- `HEALTH__Genetic_Counselor` — Genetic Counselor
+- `HEALTH__Certified_Diabetes_Educator_Diabetes_Care_and_Education_Specialist` — Certified Diabetes Educator / Diabetes Care and Education Specialist
+- `HEALTH__Wound_Care_Specialist` — Wound Care Specialist
+- `HEALTH__Perfusionist` — Perfusionist
+- `HEALTH__Audiologist` — Audiologist
+- `HEALTH__Podiatrist` — Podiatrist
+- `HEALTH__Nuclear_Medicine_Technologist` — Nuclear Medicine Technologist
+- `HEALTH__Organ_Procurement_Coordinator` — Organ Procurement Coordinator
+- `HEALTH__Occupational_Health_Physician_Occupational_Medicine_Specialist` — Occupational Health Physician / Occupational Medicine Specialist
+- `HEALTH__Toxicologist` — Toxicologist (Clinical/Forensic)
+- `HEALTH__Oral_and_Maxillofacial_Surgeon` — Oral and Maxillofacial Surgeon
+- `HEALTH__Dental_Hygienist` — Dental Hygienist
+- `HEALTH__Biomedical_Engineer_Clinical_Engineer` — Biomedical Engineer / Clinical Engineer
+- `HEALTH__Blood_Bank_Specialist_Transfusion_Medicine_Physician` — Blood Bank Specialist / Transfusion Medicine Physician
+- `HEALTH__Managed_Care_Compliance_Analyst_HEDIS_Analyst` — Managed Care Compliance Analyst / HEDIS Analyst
+- `HEALTH__Healthcare_Facility_Safety_Officer` — Healthcare Facility Safety Officer
+- `HEALTH__Radiation_Safety_Officer` — Radiation Safety Officer (RSO)
+- `HEALTH__Clinical_Ethicist_Ethics_Committee_Chair` — Clinical Ethicist / Ethics Committee Chair
+- `HEALTH__Healthcare_Attorney` — Healthcare Attorney
+- `HEALTH__Nurse_Attorney_Legal_Nurse_Consultant` — Nurse Attorney / Legal Nurse Consultant
+- `HEALTH__Graduate_Medical_Education_Director_Designated_Institutional_Official` — Graduate Medical Education (GME) Director / Designated Institutional Official (DIO)
+- `HEALTH__Patient_Access_Registration_Specialist` — Patient Access / Registration Specialist
+- `HEALTH__Sterile_Processing_Technician` — Sterile Processing Technician
+- `HEALTH__Board_Certified_Behavior_Analyst` — Board Certified Behavior Analyst (BCBA)
+- `HEALTH__Psychiatric_Mental_Health_Nurse_Practitioner` — Psychiatric Mental Health Nurse Practitioner (PMHNP)
+
+## Financial Services
+**Count:** 60
+
+- `FIN__Bank_Compliance_Officer` — Bank Compliance Officer
+- `FIN__BSA_AML_Analyst` — BSA/AML Analyst
+- `FIN__Wire_Transfer_Operations_Officer` — Wire Transfer Operations Officer
+- `FIN__ACH_EFT_Compliance_Specialist` — ACH/EFT Compliance Specialist
+- `FIN__Check_Processing_Image_Exchange_Specialist` — Check Processing / Image Exchange Specialist
+- `FIN__Banking_Fraud_Investigator` — Banking Fraud Investigator
+- `FIN__Mortgage_Loan_Officer` — Mortgage Loan Officer
+- `FIN__Mortgage_Loan_Processor` — Mortgage Loan Processor
+- `FIN__Mortgage_Underwriter` — Mortgage Underwriter
+- `FIN__Mortgage_Servicer_Compliance_Officer` — Mortgage Servicer Compliance Officer
+- `FIN__Consumer_Lending_Compliance_Officer` — Consumer Lending Compliance Officer
+- `FIN__Auto_Finance_Compliance_Officer` — Auto Finance Compliance Officer
+- `FIN__Real_Estate_Appraiser` — Real Estate Appraiser
+- `FIN__Title_Officer_Title_Examiner` — Title Officer / Title Examiner
+- `FIN__Escrow_Officer` — Escrow Officer
+- `FIN__Student_Loan_Servicer_Compliance_Officer` — Student Loan Servicer Compliance Officer
+- `FIN__Debt_Collection_Compliance_Officer` — Debt Collection Compliance Officer
+- `FIN__Credit_Reporting_Compliance_Analyst` — Credit Reporting Compliance Analyst
+- `FIN__Registered_Investment_Adviser_Chief_Compliance_Officer` — Registered Investment Adviser (RIA) Chief Compliance Officer
+- `FIN__FINRA_Compliance_Officer` — FINRA Compliance Officer (Broker-Dealer)
+- `FIN__Securities_Operations_Trade_Settlement_Specialist` — Securities Operations / Trade Settlement Specialist
+- `FIN__Investment_Fund_Compliance_Officer` — Investment Fund Compliance Officer
+- `FIN__Retirement_Plan_Administrator_ERISA_Compliance_Officer` — Retirement Plan Administrator / ERISA Compliance Officer
+- `FIN__Certified_Public_Accountant_Tax` — Certified Public Accountant (CPA) — Tax
+- `FIN__Enrolled_Agent` — Enrolled Agent (EA)
+- `FIN__Tax_Attorney` — Tax Attorney
+- `FIN__State_Tax_Compliance_Specialist` — State Tax Compliance Specialist
+- `FIN__IRS_Revenue_Agent_Examiner` — IRS Revenue Agent / Examiner
+- `FIN__Insurance_Compliance_Officer_Property_Casualty` — Insurance Compliance Officer — Property & Casualty
+- `FIN__Auto_Insurance_Claims_Adjuster` — Auto Insurance Claims Adjuster
+- `FIN__Homeowner_Renter_Insurance_Specialist` — Homeowner / Renter Insurance Specialist
+- `FIN__Life_Insurance_Annuity_Compliance_Officer` — Life Insurance / Annuity Compliance Officer
+- `FIN__Real_Estate_Attorney` — Real Estate Attorney
+- `FIN__RESPA_TILA_Disclosure_Compliance_Specialist` — RESPA/TILA Disclosure Compliance Specialist
+- `FIN__Bankruptcy_Attorney` — Bankruptcy Attorney
+- `FIN__Bankruptcy_Trustee` — Bankruptcy Trustee
+- `FIN__SEC_Examiner_Enforcement_Attorney` — SEC Examiner / Enforcement Attorney
+- `FIN__FinCEN_Compliance_Examiner` — FinCEN Compliance Examiner
+- `FIN__OFAC_Compliance_Officer` — OFAC Compliance Officer
+- `FIN__Unclaimed_Property_Compliance_Officer` — Unclaimed Property Compliance Officer
+- `FIN__Treasury_Securities_Specialist` — Treasury Securities Specialist
+- `FIN__Cryptocurrency_Compliance_Officer` — Cryptocurrency Compliance Officer
+- `FIN__Blockchain_Forensic_Analyst` — Blockchain Forensic Analyst
+- `FIN__CFPB_Examiner` — CFPB Examiner
+- `FIN__Consumer_Financial_Counselor_HUD_Approved_Housing_Counselor` — Consumer Financial Counselor / HUD-Approved Housing Counselor
+- `FIN__Certified_Fraud_Examiner` — Certified Fraud Examiner (CFE)
+- `FIN__Forensic_Accountant` — Forensic Accountant
+- `FIN__Financial_Crimes_Investigator` — Financial Crimes Investigator (Federal)
+- `FIN__Certified_Financial_Planner` — Certified Financial Planner (CFP)
+- `FIN__Estate_and_Trust_Attorney` — Estate and Trust Attorney
+- `FIN__Payment_Card_Industry_Compliance_Officer` — Payment Card Industry Compliance Officer
+- `FIN__Credit_Card_Issuer_Compliance_Officer` — Credit Card Issuer Compliance Officer
+- `FIN__Trust_Officer_Corporate_Trustee` — Trust Officer / Corporate Trustee
+- `FIN__Financial_Services_Information_Security_Officer` — Financial Services Information Security Officer (CISO)
+- `FIN__IT_Auditor_Financial_Services` — IT Auditor — Financial Services
+- `FIN__External_Auditor_Financial_Services` — External Auditor (CPA) — Financial Services
+- `FIN__State_Banking_Examiner` — State Banking Examiner
+- `FIN__State_Insurance_Examiner` — State Insurance Examiner
+- `FIN__State_Securities_Examiner` — State Securities Examiner
+- `FIN__Identity_Theft_Resolution_Specialist` — Identity Theft Resolution Specialist
+
+## Government / Law Enforcement / Digital
+**Count:** 94
+
+- `GOV__SSA_Claims_Specialist` — SSA Claims Specialist (Initial Claims)
+- `GOV__Disability_Determination_Services_Examiner` — Disability Determination Services (DDS) Examiner
+- `GOV__SSA_Administrative_Law_Judge_Standards_Auditor` — SSA Administrative Law Judge (ALJ) Standards Auditor
+- `GOV__SSA_Fraud_Investigator` — SSA Fraud Investigator
+- `GOV__VA_Rating_Veterans_Service_Representative` — VA Rating Veterans Service Representative (RVSR)
+- `GOV__VA_CP_Examiner` — VA C&P Examiner
+- `GOV__VA_Privacy_FOIA_Officer` — VA Privacy / FOIA Officer
+- `GOV__USCIS_Adjudications_Officer` — USCIS Adjudications Officer
+- `GOV__Immigration_Judge_Standards_Auditor` — Immigration Judge Standards Auditor
+- `GOV__USCIS_Fraud_Detection_and_National_Security_Officer` — USCIS Fraud Detection and National Security (FDNS) Officer
+- `GOV__Federal_FOIA_Compliance_Officer` — Federal FOIA Compliance Officer
+- `GOV__State_Public_Records_Act_Specialist` — State Public Records Act Specialist (California)
+- `GOV__Federal_Contracting_Officer` — Federal Contracting Officer (CO)
+- `GOV__Government_Contract_Auditor` — Government Contract Auditor (DCAA)
+- `GOV__GAO_Analyst` — GAO Analyst
+- `GOV__OSHA_Compliance_Safety_and_Health_Officer` — OSHA Compliance Safety and Health Officer (CSHO)
+- `GOV__EPA_Compliance_Inspector` — EPA Compliance Inspector
+- `GOV__FTC_Investigator` — FTC Investigator
+- `GOV__SEC_Examiner` — SEC Examiner
+- `GOV__SBA_Program_Compliance_Specialist` — SBA Program Compliance Specialist
+- `GOV__Federal_Inspector_General_Investigator` — Federal Inspector General Investigator
+- `GOV__Single_Audit_Auditor` — Single Audit (Uniform Guidance) Auditor
+- `GOV__Military_Records_DD_214_Verification_Specialist` — Military Records / DD-214 Verification Specialist
+- `GOV__Military_Justice_UCMJ_Records_Specialist` — Military Justice / UCMJ Records Specialist
+- `GOV__Vital_Records_Registrar` — Vital Records Registrar
+- `GOV__DMV_Records_Specialist` — DMV Records Specialist
+- `GOV__SNAP_CalFresh_Eligibility_Worker` — SNAP/CalFresh Eligibility Worker
+- `GOV__Medicaid_Medi_Cal_Eligibility_Specialist` — Medicaid/Medi-Cal Eligibility Specialist
+- `GOV__Medicare_Claims_Appeals_Specialist` — Medicare Claims / Appeals Specialist
+- `GOV__WIC_Program_Compliance_Specialist` — WIC Program Compliance Specialist
+- `GOV__Child_Support_Enforcement_Specialist` — Child Support Enforcement (DCSS) Specialist
+- `GOV__CPS_DCFS_Investigator` — CPS/DCFS Investigator
+- `GOV__HUD_Public_Housing_Section_8_Specialist` — HUD Public Housing / Section 8 Specialist
+- `GOV__Environmental_Compliance_Inspector` — Environmental Compliance Inspector (State)
+- `GOV__NEPA_Compliance_Specialist` — NEPA Compliance Specialist
+- `GOV__Elections_Voter_Registration_Official` — Elections / Voter Registration Official
+- `GOV__Jury_Commissioner_Manager` — Jury Commissioner / Manager
+- `GOV__FBI_Special_Agent_Records_Compliance_Specialist` — FBI Special Agent / Records Compliance Specialist
+- `GOV__DEA_Diversion_Investigator_Special_Agent` — DEA Diversion Investigator / Special Agent
+- `GOV__ATF_Special_Agent_Industry_Operations_Inspector` — ATF Special Agent / Industry Operations Inspector (IOI)
+- `GOV__US_Marshals_Service_Deputy_Investigator` — U.S. Marshals Service Deputy / Investigator
+- `GOV__Secret_Service_Agent_Investigator` — Secret Service Agent / Investigator
+- `GOV__ICE_CBP_Agent_Officer` — ICE/CBP Agent / Officer
+- `GOV__State_Police_Highway_Patrol_Officer` — State Police / Highway Patrol Officer (Report Standards)
+- `GOV__State_Bureau_of_Investigation_Agent` — State Bureau of Investigation Agent
+- `GOV__Sheriff_Department_Civil_Process_Court_Services` — Sheriff Department Civil Process / Court Services
+- `GOV__Sheriff_Coroner_Medical_Examiner_Investigator` — Sheriff Coroner / Medical Examiner Investigator
+- `GOV__Campus_Police_Clery_Act_Compliance_Officer` — Campus Police / Clery Act Compliance Officer
+- `GOV__Tribal_Police_Officer_BIA_Law_Enforcement` — Tribal Police Officer / BIA Law Enforcement
+- `GOV__Military_Police_NCIS_OSI_CID_Investigator` — Military Police / NCIS / OSI / CID Investigator
+- `GOV__Probation_Officer` — Probation Officer
+- `GOV__Parole_Agent_Officer` — Parole Agent / Officer
+- `GOV__Sex_Offender_Registration_Compliance_Officer` — Sex Offender Registration Compliance Officer
+- `GOV__Gang_Intelligence_Analyst_Database_Administrator` — Gang Intelligence Analyst / Database Administrator
+- `GOV__Fusion_Center_Intelligence_Analyst` — Fusion Center Intelligence Analyst
+- `GOV__Body_Worn_Camera_Program_Manager_DEMS_Administrator` — Body-Worn Camera Program Manager / DEMS Administrator
+- `GOV__Public_Safety_Dispatcher_CAD_Analyst` — Public Safety Dispatcher / CAD Analyst
+- `GOV__Forensic_DNA_Analyst` — Forensic DNA Analyst
+- `GOV__Forensic_Latent_Print_Examiner` — Forensic Latent Print Examiner
+- `GOV__Forensic_Ballistics_Firearms_Examiner` — Forensic Ballistics / Firearms Examiner
+- `GOV__Forensic_Toxicologist` — Forensic Toxicologist
+- `GOV__Crime_Scene_Investigator_Technician` — Crime Scene Investigator (CSI) / Technician
+- `GOV__Missing_Persons_Investigator_AMBER_Alert_Coordinator` — Missing Persons Investigator / AMBER Alert Coordinator
+- `GOV__Confidential_Informant_Handler_Manager` — Confidential Informant (CI) Handler / Manager
+- `GOV__Financial_Crimes_Forensic_Accountant_Investigator` — Financial Crimes / Forensic Accountant Investigator
+- `GOV__Title_III_Wiretap_Compliance_Monitor` — Title III Wiretap Compliance Monitor
+- `GOV__Pen_Register_Trap_Trace_CSLI_Order_Specialist` — Pen Register / Trap-Trace / CSLI Order Specialist
+- `GOV__Computer_Forensic_Examiner` — Computer Forensic Examiner
+- `GOV__Mobile_Device_Forensic_Examiner` — Mobile Device Forensic Examiner
+- `GOV__Forensic_Image_Video_Analyst` — Forensic Image / Video Analyst
+- `GOV__Network_Forensic_Analyst_Incident_Responder` — Network Forensic Analyst / Incident Responder
+- `GOV__Malware_Analyst_Reverse_Engineer` — Malware Analyst / Reverse Engineer
+- `GOV__Penetration_Tester_Red_Team_Operator` — Penetration Tester / Red Team Operator (Forensic Reporting)
+- `GOV__Telecommunications_Records_Analyst` — Telecommunications Records Analyst (CDR/CSLI)
+- `GOV__SIM_Swap_Telecommunications_Fraud_Investigator` — SIM Swap / Telecommunications Fraud Investigator
+- `GOV__ISP_Records_Analyst_Legal_Compliance` — ISP Records Analyst / Legal Compliance
+- `GOV__Social_Media_Forensic_Analyst` — Social Media Forensic Analyst
+- `GOV__Cloud_Storage_SaaS_Forensic_Examiner` — Cloud Storage / SaaS Forensic Examiner
+- `GOV__Email_Forensic_Analyst` — Email Forensic Analyst
+- `GOV__Encrypted_Communications_Analyst` — Encrypted Communications Analyst
+- `GOV__Dark_Web_Cryptocurrency_Investigator` — Dark Web / Cryptocurrency Investigator
+- `GOV__Data_Breach_Notification_Compliance_Officer` — Data Breach Notification Compliance Officer
+- `GOV__CISO_Information_Security_Officer` — CISO / Information Security Officer (Audit Function)
+- `GOV__Privacy_Impact_Assessment_Analyst` — Privacy Impact Assessment (PIA) Analyst
+- `GOV__Identity_Theft_Investigator` — Identity Theft Investigator (Federal)
+- `GOV__Internet_Crimes_Against_Children_Investigator` — Internet Crimes Against Children (ICAC) Investigator
+- `GOV__Sextortion_Online_Exploitation_Investigator` — Sextortion / Online Exploitation Investigator
+- `GOV__Mobile_Device_Management_Enterprise_Forensic_Analyst` — Mobile Device Management (MDM) / Enterprise Forensic Analyst
+- `GOV__VPN_Anonymization_Service_Records_Analyst` — VPN / Anonymization Service Records Analyst
+- `GOV__CPNI_Compliance_Officer` — CPNI Compliance Officer
+- `GOV__Telecommunications_Regulatory_Compliance_Analyst` — Telecommunications Regulatory Compliance Analyst
+- `GOV__Digital_Evidence_Custodian_Lab_Manager` — Digital Evidence Custodian / Lab Manager
+- `GOV__Expert_Witness_Daubert_Compliance_Specialist` — Expert Witness / Daubert Compliance Specialist (Digital Evidence)
+- `GOV__NIST_Standards_Body_Digital_Evidence_Specialist` — NIST / Standards Body Digital Evidence Specialist
+
+## Employment / Real Estate / Education / Immigration / Family / Vehicles
+**Count:** 0
+
+
+## Defense / IP / Technology
+**Count:** 0
+
+
+## Energy / Utilities
+**Count:** 48
+
+- `ENERGY__Public_Utility_Regulatory_Analyst` — Public Utility Regulatory Analyst
+- `ENERGY__Utility_Rate_Engineer` — Utility Rate Engineer
+- `ENERGY__Utility_Billing_Compliance_Analyst` — Utility Billing Compliance Analyst
+- `ENERGY__Smart_Grid_Meter_Data_Engineer` — Smart Grid/Meter Data Engineer
+- `ENERGY__NERC_Reliability_Compliance_Officer` — NERC Reliability Compliance Officer
+- `ENERGY__NERC_CIP_Cybersecurity_Specialist` — NERC CIP Cybersecurity Specialist
+- `ENERGY__FERC_Regulatory_Attorney` — FERC Regulatory Attorney
+- `ENERGY__Transmission_Planning_Engineer` — Transmission Planning Engineer
+- `ENERGY__Grid_Interconnection_Engineer` — Grid Interconnection Engineer
+- `ENERGY__Nuclear_Regulatory_Compliance_Specialist` — Nuclear Regulatory Compliance Specialist
+- `ENERGY__Health_Physicist_Radiation_Safety_Officer` — Health Physicist / Radiation Safety Officer
+- `ENERGY__Nuclear_Quality_Assurance_Manager` — Nuclear Quality Assurance Manager
+- `ENERGY__Petroleum_Engineer` — Petroleum Engineer
+- `ENERGY__Pipeline_Safety_Engineer` — Pipeline Safety Engineer
+- `ENERGY__PHMSA_Compliance_Officer` — PHMSA Compliance Officer
+- `ENERGY__Corrosion_Engineer` — Corrosion Engineer
+- `ENERGY__Well_Inspector_Drilling_Inspector` — Well Inspector / Drilling Inspector
+- `ENERGY__CEQA_Lead_Analyst_Environmental_Planner` — CEQA Lead Analyst / Environmental Planner
+- `ENERGY__NEPA_Compliance_Specialist` — NEPA Compliance Specialist
+- `ENERGY__Air_Quality_Engineer_Permit_Writer` — Air Quality Engineer / Permit Writer
+- `ENERGY__Greenhouse_Gas_Carbon_Compliance_Specialist` — Greenhouse Gas / Carbon Compliance Specialist
+- `ENERGY__Water_Rights_Attorney_Water_Resources_Specialist` — Water Rights Attorney / Water Resources Specialist
+- `ENERGY__Stormwater_Wastewater_Compliance_Engineer` — Stormwater/Wastewater Compliance Engineer
+- `ENERGY__Renewable_Energy_Certificate_Administrator` — Renewable Energy Certificate (REC) Administrator
+- `ENERGY__Power_Purchase_Agreement_Analyst` — Power Purchase Agreement (PPA) Analyst
+- `ENERGY__Title_24_Energy_Compliance_Analyst_HERS_Rater` — Title 24 Energy Compliance Analyst / HERS Rater
+- `ENERGY__Solar_Wind_Project_Engineer` — Solar/Wind Project Engineer
+- `ENERGY__Electric_Vehicle_Infrastructure_Specialist` — Electric Vehicle Infrastructure Specialist
+- `ENERGY__Energy_Industry_Safety_Engineer` — Energy Industry Safety Engineer (OSHA)
+- `ENERGY__MSHA_Inspector_Mine_Safety_Compliance_Officer` — MSHA Inspector / Mine Safety Compliance Officer
+- `ENERGY__Industrial_Hygienist_Energy_Sector` — Industrial Hygienist — Energy Sector
+- `ENERGY__Hazardous_Materials_Compliance_Manager` — Hazardous Materials Compliance Manager
+- `ENERGY__Emergency_Response_HAZMAT_Coordinator` — Emergency Response / HAZMAT Coordinator
+- `ENERGY__Radioactive_Waste_Management_Specialist` — Radioactive Waste Management Specialist
+- `ENERGY__Professional_Engineer_Electrical` — Professional Engineer — Electrical (Power Systems)
+- `ENERGY__Professional_Geologist_Hydrogeologist` — Professional Geologist / Hydrogeologist
+- `ENERGY__Energy_Market_Compliance_Analyst` — Energy Market Compliance Analyst
+- `ENERGY__Energy_Industry_Financial_Auditor` — Energy Industry Financial Auditor
+- `ENERGY__Energy_Insurance_Risk_Underwriter` — Energy Insurance / Risk Underwriter
+- `ENERGY__Environmental_Site_Assessor_Phase_I_II_ESA_Specialist` — Environmental Site Assessor / Phase I/II ESA Specialist
+- `ENERGY__Reclamation_Mine_Closure_Specialist` — Reclamation / Mine Closure Specialist
+- `ENERGY__Wildfire_Safety_Compliance_Officer` — Wildfire Safety Compliance Officer
+- `ENERGY__Energy_Storage_Systems_Engineer` — Energy Storage Systems Engineer
+- `ENERGY__Dam_Safety_Engineer` — Dam Safety Engineer
+- `ENERGY__Seismic_Safety_Compliance_Engineer` — Seismic Safety Compliance Engineer
+- `ENERGY__Tribal_and_Cultural_Resources_Compliance_Specialist` — Tribal and Cultural Resources Compliance Specialist
+- `ENERGY__Endangered_Species_Biological_Resources_Compliance_Specialist` — Endangered Species / Biological Resources Compliance Specialist
+- `ENERGY__Sustainability_ESG_Reporting_Officer` — Sustainability / ESG Reporting Officer
+
+## Aviation / Maritime / Transport
+**Count:** 0
+
+
+## Manufacturing / Construction / Space
+**Count:** 0
+
+
+## Hospitality / Retail / Media / Sports
+**Count:** 0
+
+
+## Environmental / Tribal / Cannabis / Gaming
+**Count:** 72
+
+- `ENV__CEQA_Lead_Analyst_Environmental_Impact_Report_Manager` — CEQA Lead Analyst / Environmental Impact Report Manager
+- `ENV__NEPA_Compliance_Specialist_EIS_Preparer` — NEPA Compliance Specialist / EIS Preparer
+- `ENV__Environmental_Planning_Consultant` — Environmental Planning Consultant
+- `ENV__Environmental_Attorney` — Environmental Attorney (CEQA/NEPA Litigation)
+- `ENV__Phase_I_Environmental_Site_Assessor` — Phase I Environmental Site Assessor
+- `ENV__Phase_II_Environmental_Site_Assessor` — Phase II Environmental Site Assessor
+- `ENV__Remediation_Engineer_Corrective_Action_Specialist` — Remediation Engineer / Corrective Action Specialist
+- `ENV__Superfund_CERCLA_Program_Manager` — Superfund / CERCLA Program Manager
+- `ENV__Clean_Air_Act_Permit_Specialist` — Clean Air Act Permit Specialist
+- `ENV__Emissions_Trading_Carbon_Credit_Specialist` — Emissions Trading / Carbon Credit Specialist
+- `ENV__Clean_Water_Act_Permit_Manager_NPDES_Specialist` — Clean Water Act Permit Manager / NPDES Specialist
+- `ENV__Stormwater_Compliance_Manager` — Stormwater Compliance Manager
+- `ENV__Wetlands_Delineation_Specialist` — Wetlands Delineation Specialist
+- `ENV__RCRA_Hazardous_Waste_Compliance_Manager` — RCRA Hazardous Waste Compliance Manager
+- `ENV__Underground_Storage_Tank_Compliance_Officer` — Underground Storage Tank (UST) Compliance Officer
+- `ENV__Toxic_Release_Inventory_Reporting_Specialist` — Toxic Release Inventory (TRI) Reporting Specialist
+- `ENV__Asbestos_Lead_Abatement_Specialist` — Asbestos / Lead Abatement Specialist
+- `ENV__Endangered_Species_Act_Biologist_Section_7_Consultant` — Endangered Species Act (ESA) Biologist / Section 7 Consultant
+- `ENV__Environmental_Insurance_Specialist` — Environmental Insurance Specialist
+- `ENV__Brownfield_Redevelopment_Specialist` — Brownfield Redevelopment Specialist
+- `ENV__Proposition_65_Compliance_Specialist` — Proposition 65 Compliance Specialist (California)
+- `ENV__Groundwater_Monitoring_Specialist_Hydrogeologist` — Groundwater Monitoring Specialist / Hydrogeologist
+- `ENV__Tribal_Court_Judge_Justice` — Tribal Court Judge / Justice
+- `ENV__Tribal_Attorney_General_Counsel` — Tribal Attorney / General Counsel
+- `ENV__Tribal_Legislative_Analyst_Code_Drafter` — Tribal Legislative Analyst / Code Drafter
+- `ENV__Tribal_Enrollment_Officer` — Tribal Enrollment Officer
+- `ENV__ICWA_Specialist_Indian_Child_Welfare_Attorney` — ICWA Specialist / Indian Child Welfare Attorney
+- `ENV__Indian_Health_Service_Compliance_Officer` — Indian Health Service (IHS) Compliance Officer
+- `ENV__Tribal_Land_Trust_Specialist_Realty_Officer` — Tribal Land Trust Specialist / Realty Officer
+- `ENV__Tribal_Water_Rights_Attorney_Water_Resources_Manager` — Tribal Water Rights Attorney / Water Resources Manager
+- `ENV__Tribal_Environmental_Director_NHPA_Section_106_Specialist` — Tribal Environmental Director / NHPA Section 106 Specialist
+- `ENV__NAGPRA_Compliance_Officer` — NAGPRA Compliance Officer
+- `ENV__Tribal_Gaming_Commissioner_Regulatory_Officer` — Tribal Gaming Commissioner / Regulatory Officer
+- `ENV__Tribal_Gaming_Compact_Negotiator` — Tribal Gaming Compact Negotiator
+- `ENV__Tribal_Gaming_Auditor` — Tribal Gaming Auditor
+- `ENV__Tribal_Tax_Administrator` — Tribal Tax Administrator
+- `ENV__TERO_Director_Tribal_Employment_Rights_Officer` — TERO Director / Tribal Employment Rights Officer
+- `ENV__Federal_Indian_Law_Attorney_Sovereignty_Litigation_Specialist` — Federal Indian Law Attorney / Sovereignty Litigation Specialist
+- `ENV__Cannabis_Licensing_Attorney_Regulatory_Specialist` — Cannabis Licensing Attorney / Regulatory Specialist
+- `ENV__Cannabis_Compliance_Officer_Director_of_Compliance` — Cannabis Compliance Officer / Director of Compliance
+- `ENV__Cannabis_Track_and_Trace_Administrator` — Cannabis Track-and-Trace Administrator
+- `ENV__Cannabis_Testing_Laboratory_Director` — Cannabis Testing Laboratory Director
+- `ENV__Cannabis_Quality_Assurance_Quality_Control_Manager` — Cannabis Quality Assurance / Quality Control Manager
+- `ENV__Cannabis_Occupational_Safety_Specialist` — Cannabis Occupational Safety Specialist
+- `ENV__Cannabis_Tax_Accountant_IRC_280E_Specialist` — Cannabis Tax Accountant / IRC 280E Specialist
+- `ENV__Cannabis_Banking_Compliance_Officer_BSA_Specialist` — Cannabis Banking Compliance Officer / BSA Specialist
+- `ENV__Cannabis_Insurance_Specialist` — Cannabis Insurance Specialist
+- `ENV__Cannabis_Waste_Disposal_Environmental_Compliance_Manager` — Cannabis Waste Disposal / Environmental Compliance Manager
+- `ENV__Cannabis_Land_Use_Zoning_Attorney` — Cannabis Land Use / Zoning Attorney
+- `ENV__Cannabis_Delivery_Compliance_Manager` — Cannabis Delivery Compliance Manager
+- `ENV__Cannabis_Social_Equity_Program_Administrator` — Cannabis Social Equity Program Administrator
+- `ENV__Cannabis_Advertising_Marketing_Compliance_Specialist` — Cannabis Advertising / Marketing Compliance Specialist
+- `ENV__Cannabis_Interstate_Commerce_Compliance_Specialist` — Cannabis Interstate Commerce Compliance Specialist (Emerging)
+- `ENV__Gaming_Commission_Executive_Director_Commissioner` — Gaming Commission Executive Director / Commissioner
+- `ENV__Gaming_License_Investigator_Background_Investigation_Specialist` — Gaming License Investigator / Background Investigation Specialist
+- `ENV__Gaming_Compliance_Officer_Internal_Compliance_Director` — Gaming Compliance Officer / Internal Compliance Director
+- `ENV__Casino_Controller_Gaming_Financial_Officer` — Casino Controller / Gaming Financial Officer
+- `ENV__Gaming_AML_BSA_Compliance_Officer` — Gaming AML / BSA Compliance Officer
+- `ENV__Gaming_Internal_Auditor` — Gaming Internal Auditor
+- `ENV__Gaming_Equipment_Testing_Laboratory_Director` — Gaming Equipment Testing Laboratory Director
+- `ENV__Slot_Operations_Director_Electronic_Gaming_Manager` — Slot Operations Director / Electronic Gaming Manager
+- `ENV__iGaming_Online_Gaming_Compliance_Director` — iGaming / Online Gaming Compliance Director
+- `ENV__Sports_Betting_Compliance_Manager_Sportsbook_Director` — Sports Betting Compliance Manager / Sportsbook Director
+- `ENV__Responsible_Gaming_Program_Director` — Responsible Gaming Program Director
+- `ENV__Patron_Dispute_Gaming_Dispute_Resolution_Specialist` — Patron Dispute / Gaming Dispute Resolution Specialist
+- `ENV__Gaming_Advertising_Compliance_Specialist` — Gaming Advertising Compliance Specialist
+- `ENV__Lottery_Commission_Compliance_Officer_Lottery_Director` — Lottery Commission Compliance Officer / Lottery Director
+- `ENV__Gaming_Surveillance_Director` — Gaming Surveillance Director
+- `ENV__Tribal_Environmental_Intersection_Tribal_Environmental_Protection_Agency_Director` — Tribal-Environmental Intersection — Tribal Environmental Protection Agency Director
+- `ENV__Tribal_Gaming_AML_Intersection_Tribal_Casino_AML_BSA_Compliance_Officer` — Tribal-Gaming-AML Intersection — Tribal Casino AML/BSA Compliance Officer
+- `ENV__Cannabis_Gaming_Intersection_Cannabis_Consumption_Lounge_Casino_Compliance_Specialist` — Cannabis-Gaming Intersection — Cannabis Consumption Lounge / Casino Compliance Specialist
+- `ENV__Environmental_Cannabis_Intersection_Cannabis_Cultivation_Environmental_Compliance_Specialist` — Environmental-Cannabis Intersection — Cannabis Cultivation Environmental Compliance Specialist
+
+## Nonprofit / Religious / International
+**Count:** 77
+
+- `NGO__Nonprofit_Tax_Counsel` — Nonprofit Tax Counsel
+- `NGO__Form_990_Preparer_Reviewer` — Form 990 Preparer / Reviewer
+- `NGO__UBIT_Specialist` — UBIT Specialist
+- `NGO__Private_Foundation_Compliance_Specialist` — Private Foundation Compliance Specialist
+- `NGO__State_Charitable_Registration_Specialist` — State Charitable Registration Specialist
+- `NGO__Professional_Fundraiser_Solicitation_Counsel` — Professional Fundraiser / Solicitation Counsel
+- `NGO__Donor_Acknowledgment_Gift_Administration_Specialist` — Donor Acknowledgment / Gift Administration Specialist
+- `NGO__Grant_Compliance_Manager` — Grant Compliance Manager
+- `NGO__Single_Audit_A_133_Auditor` — Single Audit / A-133 Auditor
+- `NGO__Fiscal_Sponsor_Administrator` — Fiscal Sponsor Administrator
+- `NGO__Nonprofit_Financial_Controller_CFO` — Nonprofit Financial Controller / CFO
+- `NGO__Nonprofit_Executive_Compensation_Specialist` — Nonprofit Executive Compensation Specialist
+- `NGO__Nonprofit_Governance_Attorney_Board_Advisor` — Nonprofit Governance Attorney / Board Advisor
+- `NGO__Nonprofit_Valuation_Specialist` — Nonprofit Valuation Specialist (In-Kind / Asset)
+- `NGO__Lobbying_Compliance_Specialist` — Lobbying Compliance Specialist
+- `NGO__Political_Activity_Compliance_Specialist` — Political Activity Compliance Specialist (501(c)(4)/(c)(6))
+- `NGO__Endowment_Investment_Manager` — Endowment / Investment Manager (Nonprofit)
+- `NGO__Donor_Advised_Fund_Administrator` — Donor-Advised Fund Administrator
+- `NGO__Social_Enterprise_B_Corp_Compliance_Specialist` — Social Enterprise / B-Corp Compliance Specialist
+- `NGO__Volunteer_Management_Risk_Officer` — Volunteer Management / Risk Officer
+- `NGO__Charitable_Trust_Officer` — Charitable Trust Officer
+- `NGO__Church_Tax_Exemption_Specialist` — Church Tax Exemption Specialist
+- `NGO__Church_Financial_Administrator` — Church Financial Administrator
+- `NGO__Minister_Compensation_Housing_Allowance_Specialist` — Minister Compensation / Housing Allowance Specialist
+- `NGO__Church_Audit_Defense_Specialist` — Church Audit Defense Specialist
+- `NGO__Religious_Land_Use_Attorney` — Religious Land Use Attorney (RLUIPA)
+- `NGO__Clergy_Mandatory_Reporting_Compliance_Officer` — Clergy Mandatory Reporting Compliance Officer
+- `NGO__Religious_Organization_Employment_Attorney` — Religious Organization Employment Attorney (Ministerial Exception)
+- `NGO__Religious_Immigration_Attorney` — Religious Immigration Attorney (R-1 Visa)
+- `NGO__Religious_School_Accreditation_Specialist` — Religious School Accreditation Specialist
+- `NGO__Sacramental_Records_Administrator` — Sacramental Records Administrator
+- `NGO__Religious_Arbitration_Specialist` — Religious Arbitration Specialist
+- `NGO__Faith_Based_Initiative_Grant_Compliance_Officer` — Faith-Based Initiative Grant Compliance Officer
+- `NGO__Religious_Broadcasting_Compliance_Officer` — Religious Broadcasting Compliance Officer
+- `NGO__Cemetery_and_Burial_Compliance_Specialist` — Cemetery and Burial Compliance Specialist
+- `NGO__Child_Protection_Policy_Administrator` — Child Protection Policy Administrator (Religious Institution)
+- `NGO__Export_Control_Officer` — Export Control Officer (BIS/EAR)
+- `NGO__ITAR_Compliance_Officer` — ITAR Compliance Officer (DDTC)
+- `NGO__Deemed_Export_Control_Specialist` — Deemed Export Control Specialist
+- `NGO__Wassenaar_Arrangement_Multilateral_Export_Control_Specialist` — Wassenaar Arrangement / Multilateral Export Control Specialist
+- `NGO__Licensed_Customs_Broker` — Licensed Customs Broker
+- `NGO__Import_Compliance_Specialist` — Import Compliance Specialist
+- `NGO__Foreign_Trade_Zone_Administrator` — Foreign Trade Zone (FTZ) Administrator
+- `NGO__Harmonized_Tariff_Classification_Specialist` — Harmonized Tariff Classification Specialist
+- `NGO__Trade_Finance_Specialist` — Trade Finance Specialist (Letters of Credit)
+- `NGO__Certificate_of_Origin_Specialist` — Certificate of Origin Specialist
+- `NGO__Customs_Bond_Specialist` — Customs Bond Specialist
+- `NGO__OFAC_Sanctions_Compliance_Officer` — OFAC Sanctions Compliance Officer
+- `NGO__FCPA_Compliance_Officer` — FCPA Compliance Officer
+- `NGO__UK_Bribery_Act_International_Anti_Corruption_Specialist` — UK Bribery Act / International Anti-Corruption Specialist
+- `NGO__Trade_Remedy_Attorney` — Trade Remedy Attorney (AD/CVD)
+- `NGO__Export_Administration_AES_Filing_Specialist` — Export Administration / AES Filing Specialist
+- `NGO__Embargo_Comprehensive_Sanctions_Specialist` — Embargo / Comprehensive Sanctions Specialist
+- `NGO__End_Use_Certificate_End_User_Verification_Specialist` — End-Use Certificate / End-User Verification Specialist
+- `NGO__Trade_Compliance_Auditor` — Trade Compliance Auditor
+- `NGO__Power_of_Attorney_Administrator` — Power of Attorney (Customs) Administrator
+- `NGO__Treaty_Law_Specialist` — Treaty Law Specialist
+- `NGO__International_Arbitration_Practitioner` — International Arbitration Practitioner (ICSID/ICC/LCIA)
+- `NGO__Hague_Convention_Specialist` — Hague Convention Specialist
+- `NGO__International_Child_Custody_Attorney` — International Child Custody Attorney (UCCJEA)
+- `NGO__Foreign_Judgment_Recognition_Attorney` — Foreign Judgment Recognition Attorney
+- `NGO__Sovereign_Immunity_Attorney` — Sovereign Immunity Attorney (FSIA)
+- `NGO__Diplomatic_Immunity_Specialist` — Diplomatic Immunity Specialist
+- `NGO__International_Humanitarian_Law_Specialist` — International Humanitarian Law (IHL) Specialist
+- `NGO__UN_Security_Council_Compliance_Officer` — UN Security Council Compliance Officer
+- `NGO__International_Criminal_Tribunal_Practitioner` — International Criminal Tribunal Practitioner
+- `NGO__Human_Rights_Complaint_Practitioner` — Human Rights Complaint Practitioner (International Bodies)
+- `NGO__Refugee_Status_Determination_Specialist` — Refugee Status Determination (RSD) Specialist
+- `NGO__Statelessness_Determination_Specialist` — Statelessness Determination Specialist
+- `NGO__International_Sanctions_Compliance_Specialist` — International Sanctions Compliance Specialist (Non-U.S.)
+- `NGO__International_Labor_Standards_Specialist` — International Labor Standards Specialist (ILO)
+- `NGO__Cross_Border_Data_Transfer_Compliance_Officer` — Cross-Border Data Transfer Compliance Officer
+- `NGO__MLAT_International_Legal_Cooperation_Attorney` — MLAT / International Legal Cooperation Attorney
+- `NGO__Extradition_Attorney` — Extradition Attorney
+- `NGO__FISA_Foreign_Intelligence_Surveillance_Attorney` — FISA / Foreign Intelligence Surveillance Attorney
+- `NGO__International_Anti_Corruption_Attorney` — International Anti-Corruption Attorney (Foreign Dimension)
+- `NGO__International_Data_Privacy_Enforcement_Liaison` — International Data Privacy Enforcement Liaison
+
+## Pharma / Biotech / Food Safety
+**Count:** 96
+
+- `PHARMA__Regulatory_Affairs_Director` — Regulatory Affairs Director
+- `PHARMA__Regulatory_Affairs_Specialist_CMC` — Regulatory Affairs Specialist — CMC
+- `PHARMA__Regulatory_Affairs_Specialist_Labeling` — Regulatory Affairs Specialist — Labeling
+- `PHARMA__Patent_Attorney_Pharmaceutical` — Patent Attorney — Pharmaceutical
+- `PHARMA__Principal_Investigator` — Principal Investigator (Clinical Trials)
+- `PHARMA__Clinical_Research_Associate_Monitor` — Clinical Research Associate (CRA) / Monitor
+- `PHARMA__IRB_Chair_IRB_Administrator` — IRB Chair / IRB Administrator
+- `PHARMA__Bioethicist_Clinical_Research` — Bioethicist — Clinical Research
+- `PHARMA__Biostatistician_Clinical_Trials` — Biostatistician — Clinical Trials
+- `PHARMA__Clinical_Data_Manager` — Clinical Data Manager
+- `PHARMA__Drug_Safety_Physician` — Drug Safety Physician
+- `PHARMA__Pharmacovigilance_Specialist` — Pharmacovigilance Specialist
+- `PHARMA__REMS_Program_Manager` — REMS Program Manager
+- `PHARMA__Drug_Recall_Coordinator` — Drug Recall Coordinator
+- `PHARMA__Quality_Assurance_Director_Pharmaceutical` — Quality Assurance Director — Pharmaceutical
+- `PHARMA__Quality_Control_Chemist` — Quality Control Chemist
+- `PHARMA__Validation_Engineer_Pharmaceutical` — Validation Engineer — Pharmaceutical
+- `PHARMA__GMP_Compliance_Auditor` — GMP Compliance Auditor
+- `PHARMA__DEA_Registrant_Controlled_Substances_Manager` — DEA Registrant / Controlled Substances Manager
+- `PHARMA__Pharmacist_in_Charge` — Pharmacist-in-Charge (PIC)
+- `PHARMA__Clinical_Pharmacist_Drug_Utilization_Review` — Clinical Pharmacist — Drug Utilization Review
+- `PHARMA__340B_Program_Compliance_Specialist` — 340B Program Compliance Specialist
+- `PHARMA__Pharmacy_Benefit_Manager_Compliance_Officer` — Pharmacy Benefit Manager (PBM) Compliance Officer
+- `PHARMA__Expanded_Access_Program_Coordinator` — Expanded Access Program Coordinator
+- `PHARMA__Drug_Supply_Chain_Security_Specialist` — Drug Supply Chain Security Specialist
+- `PHARMA__Pharmaceutical_Wholesaler_Compliance_Officer` — Pharmaceutical Wholesaler Compliance Officer
+- `PHARMA__Medical_Science_Liaison` — Medical Science Liaison (MSL)
+- `PHARMA__Government_Pricing_Specialist` — Government Pricing Specialist
+- `PHARMA__Environmental_Health_and_Safety_Officer_Pharma` — Environmental Health and Safety Officer — Pharma
+- `PHARMA__Computer_Systems_Validation_Specialist` — Computer Systems Validation (CSV) Specialist
+- `PHARMA__Gene_Therapy_Regulatory_Affairs_Specialist` — Gene Therapy Regulatory Affairs Specialist
+- `PHARMA__Gene_Therapy_Manufacturing_Specialist` — Gene Therapy Manufacturing Specialist
+- `PHARMA__CRISPR_Gene_Editing_Research_Scientist` — CRISPR/Gene Editing Research Scientist
+- `PHARMA__Stem_Cell_Research_Compliance_Officer` — Stem Cell Research Compliance Officer
+- `PHARMA__Institutional_Biosafety_Committee_Chair` — Institutional Biosafety Committee (IBC) Chair
+- `PHARMA__Biosafety_Officer` — Biosafety Officer (BSO)
+- `PHARMA__Select_Agent_Responsible_Official` — Select Agent Responsible Official (RO)
+- `PHARMA__Radiation_Safety_Officer` — Radiation Safety Officer (Biotech Context)
+- `PHARMA__Biotechnology_Regulatory_Affairs_Agricultural` — Biotechnology Regulatory Affairs — Agricultural
+- `PHARMA__Environmental_Risk_Assessor_Biotechnology` — Environmental Risk Assessor — Biotechnology
+- `PHARMA__Institutional_Review_Entity_for_DURC` — Institutional Review Entity (IRE) for DURC
+- `PHARMA__Research_Integrity_Officer` — Research Integrity Officer (RIO)
+- `PHARMA__Bioethicist_Emerging_Technologies` — Bioethicist — Emerging Technologies
+- `PHARMA__NIH_Grants_Compliance_Officer` — NIH Grants Compliance Officer
+- `PHARMA__Technology_Transfer_Officer` — Technology Transfer Officer
+- `PHARMA__Export_Control_Officer_Biotechnology` — Export Control Officer — Biotechnology
+- `PHARMA__Clinical_Laboratory_Director` — Clinical Laboratory Director (CLIA)
+- `PHARMA__Clinical_Laboratory_Technical_Supervisor` — Clinical Laboratory Technical Supervisor
+- `PHARMA__Clinical_Laboratory_Quality_Manager` — Clinical Laboratory Quality Manager
+- `PHARMA__Biobank_Director_Biorepository_Manager` — Biobank Director / Biorepository Manager
+- `PHARMA__Genomic_Data_Privacy_Officer` — Genomic Data Privacy Officer
+- `PHARMA__Biological_Materials_Transfer_Specialist` — Biological Materials Transfer Specialist
+- `PHARMA__Institutional_Animal_Care_and_Use_Committee_Administrator` — Institutional Animal Care and Use Committee (IACUC) Administrator
+- `PHARMA__Conflict_of_Interest_Officer_Research` — Conflict of Interest (COI) Officer — Research
+- `PHARMA__Food_Safety_Manager_HACCP_Team_Leader` — Food Safety Manager / HACCP Team Leader
+- `PHARMA__Preventive_Controls_Qualified_Individual` — Preventive Controls Qualified Individual (PCQI)
+- `PHARMA__Food_Manufacturing_Quality_Assurance_Manager` — Food Manufacturing Quality Assurance Manager
+- `PHARMA__Food_Microbiologist` — Food Microbiologist
+- `PHARMA__Food_Labeling_Compliance_Specialist` — Food Labeling Compliance Specialist
+- `PHARMA__Food_Allergen_Management_Specialist` — Food Allergen Management Specialist
+- `PHARMA__Country_of_Origin_Labeling_Compliance_Officer` — Country of Origin Labeling (COOL) Compliance Officer
+- `PHARMA__USDA_FSIS_Compliance_Officer` — USDA-FSIS Compliance Officer
+- `PHARMA__USDA_Accredited_Veterinarian` — USDA Accredited Veterinarian
+- `PHARMA__State_Veterinarian` — State Veterinarian
+- `PHARMA__Grain_Inspector` — Grain Inspector (FGIS)
+- `PHARMA__Food_Recall_Coordinator` — Food Recall Coordinator
+- `PHARMA__Food_Defense_Coordinator` — Food Defense Coordinator
+- `PHARMA__USDA_Organic_Certifying_Agent` — USDA Organic Certifying Agent
+- `PHARMA__Organic_Farm_Inspector` — Organic Farm Inspector (IOIA)
+- `PHARMA__Pesticide_Registration_Specialist` — Pesticide Registration Specialist
+- `PHARMA__Pesticide_Residue_Chemist` — Pesticide Residue Chemist
+- `PHARMA__Worker_Protection_Standard_Compliance_Officer` — Worker Protection Standard (WPS) Compliance Officer
+- `PHARMA__Agricultural_Water_Quality_Specialist` — Agricultural Water Quality Specialist
+- `PHARMA__Soil_Scientist_Agronomist` — Soil Scientist / Agronomist
+- `PHARMA__Veterinary_Drug_Regulatory_Affairs_Specialist` — Veterinary Drug Regulatory Affairs Specialist
+- `PHARMA__Food_Animal_Veterinarian` — Food Animal Veterinarian
+- `PHARMA__Phytosanitary_Certificate_Officer` — Phytosanitary Certificate Officer
+- `PHARMA__Commodity_Broker_CFTC_Compliance_Officer_Agricultural` — Commodity Broker / CFTC Compliance Officer — Agricultural
+- `PHARMA__USDA_Export_Program_Manager` — USDA Export Program Manager
+- `PHARMA__Federal_Crop_Insurance_Agent_Loss_Adjuster` — Federal Crop Insurance Agent / Loss Adjuster
+- `PHARMA__Produce_Safety_Alliance_Grower_Trainer` — Produce Safety Alliance (PSA) Grower Trainer
+- `PHARMA__FSMA_Foreign_Supplier_Verification_Program_Importer` — FSMA Foreign Supplier Verification Program (FSVP) Importer
+- `PHARMA__Agricultural_Safety_and_Health_Specialist` — Agricultural Safety and Health Specialist
+- `PHARMA__FSMA_Third_Party_Certification_Body_Auditor` — FSMA Third-Party Certification Body Auditor
+- `PHARMA__Veterinary_Feed_Directive_Compliance_Specialist` — Veterinary Feed Directive (VFD) Compliance Specialist
+- `PHARMA__FDA_Food_Facility_Registration_Specialist` — FDA Food Facility Registration Specialist
+- `PHARMA__Food_Fraud_Prevention_Specialist` — Food Fraud Prevention Specialist
+- `PHARMA__Food_Packaging_Compliance_Specialist` — Food Packaging Compliance Specialist
+- `PHARMA__Dairy_Safety_Inspector_Pasteurized_Milk_Ordinance_Specialist` — Dairy Safety Inspector / Pasteurized Milk Ordinance Specialist
+- `PHARMA__Seafood_HACCP_Specialist` — Seafood HACCP Specialist
+- `PHARMA__Cannabis_Hemp_Compliance_Officer` — Cannabis/Hemp Compliance Officer (Food/Agriculture Context)
+- `PHARMA__Food_Transportation_Sanitary_Transport_Specialist` — Food Transportation Sanitary Transport Specialist
+- `PHARMA__USDA_Grading_Inspector` — USDA Grading Inspector
+- `PHARMA__Animal_Welfare_Auditor_Food_Production` — Animal Welfare Auditor — Food Production
+- `PHARMA__Dietary_Supplement_GMP_Compliance_Officer` — Dietary Supplement GMP Compliance Officer
+- `PHARMA__Agricultural_Biotechnology_Trait_Stewardship_Manager` — Agricultural Biotechnology Trait Stewardship Manager
+
+## Telecom / Security / PI / Bail
+**Count:** 45
+
+- `TELECOM__FCC_Licensing_Specialist` — FCC Licensing Specialist
+- `TELECOM__Spectrum_Allocation_Engineer` — Spectrum Allocation Engineer
+- `TELECOM__Tower_Antenna_Siting_Compliance_Officer` — Tower/Antenna Siting Compliance Officer
+- `TELECOM__E_Rate_Program_Compliance_Manager` — E-Rate Program Compliance Manager
+- `TELECOM__USF_Contribution_Compliance_Analyst` — USF Contribution Compliance Analyst
+- `TELECOM__CPNI_Compliance_Officer` — CPNI Compliance Officer
+- `TELECOM__TCPA_Robocall_Compliance_Specialist` — TCPA/Robocall Compliance Specialist
+- `TELECOM__Billing_Disputes_Consumer_Protection_Analyst` — Billing Disputes & Consumer Protection Analyst
+- `TELECOM__CALEA_Compliance_Engineer` — CALEA Compliance Engineer
+- `TELECOM__Emergency_Services_Compliance_Manager` — Emergency Services Compliance Manager (911/E911/NG911)
+- `TELECOM__Emergency_Alert_System_Compliance_Specialist` — Emergency Alert System (EAS) Compliance Specialist
+- `TELECOM__Interconnection_Agreement_Specialist` — Interconnection Agreement Specialist
+- `TELECOM__Submarine_Cable_International_Compliance_Officer` — Submarine Cable & International Compliance Officer
+- `TELECOM__Broadband_Deployment_Reporting_Analyst` — Broadband Deployment & Reporting Analyst
+- `TELECOM__VoIP_UCaaS_Compliance_Manager` — VoIP/UCaaS Compliance Manager
+- `TELECOM__Accessibility_Compliance_Specialist` — Accessibility Compliance Specialist (Section 255/508)
+- `TELECOM__Section_230_Content_Moderation_Compliance_Counsel` — Section 230 / Content Moderation Compliance Counsel
+- `TELECOM__Net_Neutrality_Compliance_Analyst` — Net Neutrality Compliance Analyst
+- `TELECOM__Private_Patrol_Operator_Licensee` — Private Patrol Operator (PPO) Licensee
+- `TELECOM__Registered_Security_Guard` — Registered Security Guard
+- `TELECOM__Armed_Security_Guard_Firearms_Permit_Holder` — Armed Security Guard / Firearms Permit Holder
+- `TELECOM__Alarm_Company_Operator_Licensee` — Alarm Company Operator (ACO) Licensee
+- `TELECOM__CCTV_Surveillance_Systems_Compliance_Specialist` — CCTV/Surveillance Systems Compliance Specialist
+- `TELECOM__Executive_Protection_Specialist` — Executive Protection Specialist
+- `TELECOM__Event_Security_Planner` — Event Security Planner
+- `TELECOM__Licensed_Locksmith` — Licensed Locksmith
+- `TELECOM__Security_Consultant_Risk_Assessor` — Security Consultant / Risk Assessor
+- `TELECOM__Licensed_Private_Investigator` — Licensed Private Investigator (Principal)
+- `TELECOM__PI_Qualified_Manager` — PI Qualified Manager
+- `TELECOM__Surveillance_Investigator` — Surveillance Investigator
+- `TELECOM__Skip_Tracer_Locator` — Skip Tracer / Locator
+- `TELECOM__Corporate_Investigation_Specialist` — Corporate Investigation Specialist
+- `TELECOM__Process_Server` — Process Server
+- `TELECOM__Digital_Forensics_Investigator` — Digital Forensics Investigator (PI)
+- `TELECOM__Accident_Scene_Investigator` — Accident & Scene Investigator
+- `TELECOM__Insurance_Fraud_Investigator` — Insurance Fraud Investigator (SIU)
+- `TELECOM__Licensed_Bail_Agent` — Licensed Bail Agent
+- `TELECOM__Bail_Fugitive_Recovery_Agent` — Bail Fugitive Recovery Agent
+- `TELECOM__Licensed_Debt_Collector` — Licensed Debt Collector
+- `TELECOM__Debt_Buyer_Compliance_Officer` — Debt Buyer Compliance Officer
+- `TELECOM__Skip_Trace_Specialist` — Skip Trace Specialist (Collections)
+- `TELECOM__Licensed_Pawnbroker` — Licensed Pawnbroker
+- `TELECOM__Secondhand_Dealer_Precious_Metals_Dealer` — Secondhand Dealer / Precious Metals Dealer
+- `TELECOM__Payday_Title_Loan_Compliance_Officer` — Payday/Title Loan Compliance Officer
+- `TELECOM__Licensed_Repossession_Agent` — Licensed Repossession Agent
+
+## Elder Care / Veterinary / Funeral
+**Count:** 0
+
+
+## Forestry / Fishing / Mining / Diving
+**Count:** 56
+
+- `NATURAL__Registered_Professional_Forester` — Registered Professional Forester (RPF)
+- `NATURAL__Licensed_Timber_Operator` — Licensed Timber Operator (LTO)
+- `NATURAL__CAL_FIRE_Forester_Resource_Protection_Inspector` — CAL FIRE Forester / Resource Protection Inspector
+- `NATURAL__Certified_Burn_Boss` — Certified Burn Boss
+- `NATURAL__Wildfire_Investigator_Fire_Prevention_Officer` — Wildfire Investigator / Fire Prevention Officer
+- `NATURAL__Wildlife_Biologist` — Wildlife Biologist (Forestry-Qualified)
+- `NATURAL__Certified_Erosion_and_Sediment_Control_Specialist` — Certified Erosion and Sediment Control Specialist (CPESC)
+- `NATURAL__Registered_Herbicide_Applicator_Pest_Control_Advisor` — Registered Herbicide Applicator / Pest Control Advisor (PCA)
+- `NATURAL__Registered_Professional_Archaeologist` — Registered Professional Archaeologist (RPA)
+- `NATURAL__Forest_Carbon_Offset_Verifier` — Forest Carbon Offset Verifier
+- `NATURAL__Forest_Road_Engineer` — Forest Road Engineer
+- `NATURAL__Biomass_Energy_Facility_Compliance_Officer` — Biomass Energy Facility Compliance Officer
+- `NATURAL__Christmas_Tree_Farm_Inspector_Nursery_Inspector` — Christmas Tree Farm Inspector / Nursery Inspector
+- `NATURAL__NOAA_Fisheries_Management_Plan_Analyst` — NOAA Fisheries Management Plan Analyst
+- `NATURAL__State_Commercial_Fishing_License_Administrator` — State Commercial Fishing License Administrator
+- `NATURAL__Fisheries_Catch_Monitor_At_Sea_Observer` — Fisheries Catch Monitor / At-Sea Observer
+- `NATURAL__Vessel_Monitoring_System_Compliance_Officer` — Vessel Monitoring System (VMS) Compliance Officer
+- `NATURAL__HACCP_Trained_Seafood_Processor` — HACCP-Trained Seafood Processor
+- `NATURAL__SIMP_Compliance_Specialist` — SIMP Compliance Specialist (Seafood Import Monitoring Program)
+- `NATURAL__Aquaculture_Facility_Manager_Permit_Holder` — Aquaculture Facility Manager / Permit Holder
+- `NATURAL__Shellfish_Sanitation_Program_Officer` — Shellfish Sanitation Program Officer
+- `NATURAL__Marine_Protected_Area_Enforcement_Officer` — Marine Protected Area Enforcement Officer
+- `NATURAL__Marine_Mammal_Biologist_Interaction_Monitor` — Marine Mammal Biologist / Interaction Monitor
+- `NATURAL__Coast_Guard_Commercial_Fishing_Vessel_Examiner` — Coast Guard Commercial Fishing Vessel Examiner
+- `NATURAL__Fisheries_Aquatic_Invasive_Species_Specialist` — Fisheries Aquatic Invasive Species (AIS) Specialist
+- `NATURAL__Tribal_Fisheries_Manager` — Tribal Fisheries Manager
+- `NATURAL__BLM_Mining_Claims_Adjudicator` — BLM Mining Claims Adjudicator
+- `NATURAL__SMARA_Lead_Agency_Mine_Inspector` — SMARA Lead Agency Mine Inspector (California)
+- `NATURAL__MSHA_Mine_Inspector` — MSHA Mine Inspector
+- `NATURAL__Mine_Safety_Training_Coordinator` — Mine Safety Training Coordinator (Part 46/48)
+- `NATURAL__Certified_Mine_Rescue_Team_Captain` — Certified Mine Rescue Team Captain
+- `NATURAL__Respirable_Dust_Sampling_Technician_Industrial_Hygienist` — Respirable Dust Sampling Technician / Industrial Hygienist
+- `NATURAL__Mine_Methane_Monitoring_Specialist` — Mine Methane Monitoring Specialist (Coal)
+- `NATURAL__Mining_Engineer_Ground_Control_Specialist` — Mining Engineer / Ground Control Specialist
+- `NATURAL__Mine_Surveyor_Cartographer` — Mine Surveyor / Cartographer
+- `NATURAL__Mining_Water_Discharge_Compliance_Specialist` — Mining Water Discharge Compliance Specialist
+- `NATURAL__Tailings_Dam_Safety_Engineer` — Tailings Dam Safety Engineer
+- `NATURAL__Licensed_Blaster_Explosives_Engineer` — Licensed Blaster / Explosives Engineer
+- `NATURAL__Mineral_Royalty_Auditor` — Mineral Royalty Auditor
+- `NATURAL__Rare_Earth_Critical_Mineral_Export_Compliance_Officer` — Rare Earth / Critical Mineral Export Compliance Officer
+- `NATURAL__ADCI_Commercial_Diver` — ADCI Commercial Diver
+- `NATURAL__Diving_Medical_Examiner` — Diving Medical Examiner (DME)
+- `NATURAL__Diving_Supervisor` — Diving Supervisor
+- `NATURAL__Diving_Safety_Officer_Scientific_Diving` — Diving Safety Officer (DSO) — Scientific Diving
+- `NATURAL__Hyperbaric_Chamber_Operator_Technician` — Hyperbaric Chamber Operator / Technician
+- `NATURAL__Saturation_Diving_System_Superintendent` — Saturation Diving System Superintendent
+- `NATURAL__Underwater_Welder` — Underwater Welder (Certified)
+- `NATURAL__Underwater_Demolition_Specialist` — Underwater Demolition Specialist
+- `NATURAL__ROV_Pilot_Technician` — ROV Pilot/Technician
+- `NATURAL__Underwater_NDT_Inspector` — Underwater NDT Inspector (Bridge, Pipeline, Dam)
+- `NATURAL__Marine_Salvage_Master` — Marine Salvage Master
+- `NATURAL__Marine_Construction_Project_Manager` — Marine Construction Project Manager
+- `NATURAL__Public_Safety_Dive_Team_Leader` — Public Safety Dive Team Leader
+- `NATURAL__Navy_Military_Diving_Supervisor` — Navy / Military Diving Supervisor
+- `NATURAL__Diving_Contractor_Safety_Manager_HSE_Manager` — Diving Contractor Safety Manager / HSE Manager
+- `NATURAL__Offshore_Diving_Safety_Case_Author` — Offshore Diving Safety Case Author (BSEE/OSHA Compliance)
+
+## Court Support / Notary / Licensing
+**Count:** 64
+
+- `COURT_SUP__Certified_Shorthand_Reporter` — Certified Shorthand Reporter (CSR)
+- `COURT_SUP__Real_Time_Captioning_Provider` — Real-Time Captioning Provider (CART)
+- `COURT_SUP__Deposition_Officer` — Deposition Officer
+- `COURT_SUP__Shorthand_Reporting_Corporation_Officer` — Shorthand Reporting Corporation Officer
+- `COURT_SUP__Certified_Court_Interpreter` — Certified Court Interpreter
+- `COURT_SUP__Registered_Court_Interpreter` — Registered Court Interpreter
+- `COURT_SUP__Administrative_Hearing_Interpreter` — Administrative Hearing Interpreter
+- `COURT_SUP__Registered_Process_Server` — Registered Process Server
+- `COURT_SUP__Substituted_Service_Specialist` — Substituted Service Specialist
+- `COURT_SUP__Service_by_Publication_Specialist` — Service by Publication Specialist
+- `COURT_SUP__Court_Appointed_Expert_Witness` — Court-Appointed Expert Witness
+- `COURT_SUP__Court_Appointed_Receiver` — Court-Appointed Receiver
+- `COURT_SUP__Special_Master_Referee` — Special Master / Referee
+- `COURT_SUP__Elisor` — Elisor
+- `COURT_SUP__Mediator` — Mediator (Court-Connected)
+- `COURT_SUP__Neutral_Arbitrator` — Neutral Arbitrator
+- `COURT_SUP__ADR_Provider_Organization` — ADR Provider Organization
+- `COURT_SUP__Legal_Document_Assistant` — Legal Document Assistant (LDA)
+- `COURT_SUP__Unlawful_Detainer_Assistant` — Unlawful Detainer Assistant (UDA)
+- `COURT_SUP__Legal_Document_Preparer` — Legal Document Preparer (Federal/Out-of-State)
+- `COURT_SUP__Immigration_Consultant` — Immigration Consultant
+- `COURT_SUP__Jury_Consultant` — Jury Consultant
+- `COURT_SUP__Commissioned_Notary_Public` — Commissioned Notary Public
+- `COURT_SUP__Notary_Journal_Compliance_Auditor` — Notary Journal Compliance Auditor
+- `COURT_SUP__Copy_Certification_Notary` — Copy Certification Notary
+- `COURT_SUP__Signature_Witnessing_Notary` — Signature Witnessing Notary
+- `COURT_SUP__Remote_Online_Notarization_Provider` — Remote Online Notarization (RON) Provider
+- `COURT_SUP__Electronic_Notarization_Specialist` — Electronic Notarization Specialist
+- `COURT_SUP__Online_Notarization_Platform_Administrator` — Online Notarization Platform Administrator
+- `COURT_SUP__Apostille_Specialist` — Apostille Specialist
+- `COURT_SUP__Authentication_Certificate_Specialist` — Authentication Certificate Specialist
+- `COURT_SUP__Consular_Notarization_Specialist` — Consular Notarization Specialist
+- `COURT_SUP__Notary_Bond_Compliance_Officer` — Notary Bond Compliance Officer
+- `COURT_SUP__Notary_Errors_and_Omissions_Insurance_Specialist` — Notary Errors and Omissions Insurance Specialist
+- `COURT_SUP__Notary_Compliance_Auditor` — Notary Compliance Auditor
+- `COURT_SUP__Mobile_Notary_Loan_Signing_Agent` — Mobile Notary / Loan Signing Agent
+- `COURT_SUP__Foreign_Language_Notary_Specialist` — Foreign Language Notary Specialist
+- `COURT_SUP__Protest_Notary` — Protest Notary (Commercial Paper)
+- `COURT_SUP__Licensed_General_Specialty_Contractor` — Licensed General/Specialty Contractor
+- `COURT_SUP__Licensed_Architect` — Licensed Architect
+- `COURT_SUP__Professional_Engineer` — Professional Engineer (PE)
+- `COURT_SUP__Licensed_Land_Surveyor` — Licensed Land Surveyor
+- `COURT_SUP__Real_Estate_Licensee` — Real Estate Licensee (Broker/Salesperson)
+- `COURT_SUP__Insurance_Agent_Broker` — Insurance Agent/Broker
+- `COURT_SUP__Certified_Public_Accountant` — Certified Public Accountant (CPA)
+- `COURT_SUP__Professional_Fiduciary` — Professional Fiduciary
+- `COURT_SUP__Licensed_Attorney` — Licensed Attorney (State Bar Member)
+- `COURT_SUP__Court_Reporter` — Court Reporter (Licensed)
+- `COURT_SUP__Licensed_Dentist` — Licensed Dentist
+- `COURT_SUP__Registered_Nurse_Licensed_Vocational_Nurse` — Registered Nurse (RN) / Licensed Vocational Nurse (LVN)
+- `COURT_SUP__Licensed_Pharmacist` — Licensed Pharmacist
+- `COURT_SUP__Licensed_Acupuncturist` — Licensed Acupuncturist
+- `COURT_SUP__Licensed_Chiropractor` — Licensed Chiropractor
+- `COURT_SUP__Licensed_Optometrist` — Licensed Optometrist
+- `COURT_SUP__Licensed_Physical_Therapist` — Licensed Physical Therapist
+- `COURT_SUP__Licensed_Speech_Language_Pathologist_Audiologist` — Licensed Speech-Language Pathologist / Audiologist
+- `COURT_SUP__Licensed_Clinical_Social_Worker` — Licensed Clinical Social Worker (LCSW)
+- `COURT_SUP__Licensed_Marriage_and_Family_Therapist` — Licensed Marriage and Family Therapist (LMFT)
+- `COURT_SUP__Licensed_Professional_Clinical_Counselor` — Licensed Professional Clinical Counselor (LPCC)
+- `COURT_SUP__Professional_Geologist_Geophysicist` — Professional Geologist / Geophysicist
+- `COURT_SUP__Licensed_Barber_Cosmetologist` — Licensed Barber / Cosmetologist
+- `COURT_SUP__Licensed_Auctioneer` — Licensed Auctioneer
+- `COURT_SUP__Licensed_Talent_Agency` — Licensed Talent Agency
+- `COURT_SUP__` — -----------------:|
+
+## Childcare / Social Services / Housing
+**Count:** 53
+
+- `SOCIAL__Community_Care_Licensing_Program_Analyst` — Community Care Licensing Program Analyst
+- `SOCIAL__Family_Child_Care_Home_Licensing_Evaluator` — Family Child Care Home Licensing Evaluator
+- `SOCIAL__After_School_Program_Licensing_Specialist` — After-School Program Licensing Specialist
+- `SOCIAL__TrustLine_Registry_Specialist` — TrustLine Registry Specialist
+- `SOCIAL__Mandated_Reporter_Compliance_Coordinator` — Mandated Reporter Compliance Coordinator
+- `SOCIAL__Child_Care_Personnel_Records_Manager` — Child Care Personnel Records Manager
+- `SOCIAL__Child_Care_Health_Consultant` — Child Care Health Consultant
+- `SOCIAL__CACFP_Nutrition_Program_Specialist` — CACFP Nutrition Program Specialist
+- `SOCIAL__Emergency_Preparedness_Plan_Reviewer` — Emergency Preparedness Plan Reviewer
+- `SOCIAL__Pesticide_Exposure_Prevention_Specialist` — Pesticide Exposure Prevention Specialist
+- `SOCIAL__Child_Care_Subsidy_Eligibility_Specialist` — Child Care Subsidy Eligibility Specialist
+- `SOCIAL__Developmental_Screening_Coordinator` — Developmental Screening Coordinator
+- `SOCIAL__Parent_Authorization_Transport_Safety_Specialist` — Parent Authorization & Transport Safety Specialist
+- `SOCIAL__Emancipated_Minor_Documentation_Specialist` — Emancipated Minor Documentation Specialist
+- `SOCIAL__CalWORKs_Eligibility_Worker` — CalWORKs Eligibility Worker
+- `SOCIAL__CalFresh_SNAP_Benefits_Specialist` — CalFresh/SNAP Benefits Specialist
+- `SOCIAL__Medi_Cal_Enrollment_Specialist` — Medi-Cal Enrollment Specialist
+- `SOCIAL__General_Assistance_Relief_Caseworker` — General Assistance/Relief Caseworker
+- `SOCIAL__WIC_Program_Specialist` — WIC Program Specialist
+- `SOCIAL__SSI_SSDI_Representative_Payee_Specialist` — SSI/SSDI Representative Payee Specialist
+- `SOCIAL__Domestic_Violence_Shelter_Intake_Coordinator` — Domestic Violence Shelter Intake Coordinator
+- `SOCIAL__Rape_Crisis_Center_Counselor_Advocate` — Rape Crisis Center Counselor/Advocate
+- `SOCIAL__Mental_Health_Crisis_Intervention_Specialist` — Mental Health Crisis Intervention Specialist (5150/5585)
+- `SOCIAL__Human_Trafficking_Victim_Services_Specialist` — Human Trafficking Victim Services Specialist
+- `SOCIAL__Substance_Abuse_Treatment_Admission_Counselor` — Substance Abuse Treatment Admission Counselor (ASAM)
+- `SOCIAL__Drug_Court_Compliance_Coordinator` — Drug Court Compliance Coordinator
+- `SOCIAL__Lanterman_Act_Regional_Center_Service_Coordinator` — Lanterman Act Regional Center Service Coordinator
+- `SOCIAL__Disability_Rights_Compliance_Analyst` — Disability Rights Compliance Analyst
+- `SOCIAL__HMIS_Data_Entry_Specialist` — HMIS Data Entry Specialist
+- `SOCIAL__IHSS_Social_Worker` — IHSS Social Worker
+- `SOCIAL__Refugee_Resettlement_Caseworker` — Refugee Resettlement Caseworker
+- `SOCIAL__Veterans_Services_Representative` — Veterans Services Representative
+- `SOCIAL__Section_8_Housing_Choice_Voucher_Specialist` — Section 8 Housing Choice Voucher Specialist
+- `SOCIAL__Public_Housing_Eligibility_Specialist` — Public Housing Eligibility Specialist
+- `SOCIAL__HUD_Inspector` — HUD Inspector (REAC/NSPIRE)
+- `SOCIAL__HOME_Program_Compliance_Specialist` — HOME Program Compliance Specialist
+- `SOCIAL__CDBG_Program_Compliance_Specialist` — CDBG Program Compliance Specialist
+- `SOCIAL__LIHTC_Compliance_Specialist` — LIHTC Compliance Specialist
+- `SOCIAL__Inclusionary_Zoning_Density_Bonus_Analyst` — Inclusionary Zoning & Density Bonus Analyst
+- `SOCIAL__Community_Land_Trust_Compliance_Officer` — Community Land Trust Compliance Officer
+- `SOCIAL__Fair_Housing_Investigator` — Fair Housing Investigator
+- `SOCIAL__Reasonable_Accommodation_Specialist` — Reasonable Accommodation Specialist
+- `SOCIAL__Tenant_Screening_Compliance_Analyst` — Tenant Screening Compliance Analyst (FCRA)
+- `SOCIAL__Rent_Stabilization_Rent_Control_Compliance_Analyst` — Rent Stabilization/Rent Control Compliance Analyst
+- `SOCIAL__Lead_Paint_Disclosure_Specialist` — Lead Paint Disclosure Specialist (EPA RRP)
+- `SOCIAL__Habitability_Property_Condition_Inspector` — Habitability & Property Condition Inspector
+- `SOCIAL__Mold_Environmental_Hazard_Disclosure_Specialist` — Mold & Environmental Hazard Disclosure Specialist
+- `SOCIAL__Bedbug_Disclosure_Pest_Management_Specialist` — Bedbug Disclosure & Pest Management Specialist
+- `SOCIAL__Mobile_Home_Park_Compliance_Specialist` — Mobile Home Park (MRL) Compliance Specialist
+- `SOCIAL__SRO_Compliance_Inspector` — SRO (Single Room Occupancy) Compliance Inspector
+- `SOCIAL__ADU_Permit_Specialist` — ADU (Accessory Dwelling Unit) Permit Specialist
+- `SOCIAL__Uniform_Relocation_Act_Specialist` — Uniform Relocation Act (URA) Specialist
+- `SOCIAL__Eviction_Prevention_Program_Coordinator` — Eviction Prevention Program Coordinator
+
+## Waste / Water / Pest / Towing
+**Count:** 53
+
+- `WASTE__Solid_Waste_Facility_Operator_Manager` — Solid Waste Facility Operator / Manager
+- `WASTE__Landfill_Environmental_Compliance_Officer` — Landfill Environmental Compliance Officer
+- `WASTE__Composting_Facility_Operator` — Composting Facility Operator
+- `WASTE__Hazardous_Waste_Facility_Manager` — Hazardous Waste Facility Manager
+- `WASTE__Hazardous_Waste_Transporter` — Hazardous Waste Transporter
+- `WASTE__Hazardous_Waste_Generator_Compliance_Officer` — Hazardous Waste Generator Compliance Officer
+- `WASTE__Medical_Waste_Management_Officer` — Medical Waste Management Officer
+- `WASTE__Electronic_Waste_Recycling_Compliance_Officer` — Electronic Waste (E-Waste) Recycling Compliance Officer
+- `WASTE__Used_Oil_Recycling_Compliance_Specialist` — Used Oil Recycling Compliance Specialist
+- `WASTE__Tire_Recycling_Program_Manager` — Tire Recycling Program Manager
+- `WASTE__Radioactive_Waste_Compliance_Officer` — Radioactive Waste Compliance Officer
+- `WASTE__Waste_to_Energy_Facility_Compliance_Manager` — Waste-to-Energy Facility Compliance Manager
+- `WASTE__Extended_Producer_Responsibility_Compliance_Manager` — Extended Producer Responsibility (EPR) Compliance Manager
+- `WASTE__Recycling_Program_Manager` — Recycling Program Manager (AB 939 / SB 1383)
+- `WASTE__Construction_Demolition_Debris_Recycling_Manager` — Construction/Demolition Debris Recycling Manager
+- `WASTE__Water_Treatment_Plant_Operator` — Water Treatment Plant Operator
+- `WASTE__Water_Distribution_System_Operator` — Water Distribution System Operator
+- `WASTE__Backflow_Prevention_Assembly_Tester` — Backflow Prevention Assembly Tester
+- `WASTE__Water_System_Sanitary_Survey_Inspector` — Water System Sanitary Survey Inspector
+- `WASTE__Wastewater_Treatment_Plant_Operator` — Wastewater Treatment Plant Operator
+- `WASTE__NPDES_Permit_Compliance_Manager` — NPDES Permit Compliance Manager
+- `WASTE__Sewer_Lateral_Collection_System_Inspector` — Sewer Lateral / Collection System Inspector
+- `WASTE__Water_Meter_Tester_Calibration_Technician` — Water Meter Tester / Calibration Technician
+- `WASTE__Dam_Safety_Inspector_Engineer` — Dam Safety Inspector / Engineer
+- `WASTE__Flood_Control_Levee_Inspector` — Flood Control / Levee Inspector
+- `WASTE__Water_Recycling_Reuse_Program_Manager` — Water Recycling / Reuse Program Manager
+- `WASTE__Groundwater_Monitoring_Specialist` — Groundwater Monitoring Specialist
+- `WASTE__Drought_Water_Conservation_Compliance_Manager` — Drought / Water Conservation Compliance Manager
+- `WASTE__Desalination_Facility_Permit_Manager` — Desalination Facility Permit Manager
+- `WASTE__Water_Rights_Adjudication_Specialist` — Water Rights Adjudication Specialist
+- `WASTE__Structural_Pest_Control_Operator` — Structural Pest Control Operator (Branch 1 - Fumigation)
+- `WASTE__Structural_Pest_Control_Company_Registrant` — Structural Pest Control Company Registrant
+- `WASTE__Agricultural_Pest_Control_Adviser` — Agricultural Pest Control Adviser (PCA)
+- `WASTE__Restricted_Materials_Permit_Holder_Applicator` — Restricted Materials Permit Holder / Applicator
+- `WASTE__Pest_Control_Dealer` — Pest Control Dealer
+- `WASTE__Mosquito_and_Vector_Control_District_Operator` — Mosquito and Vector Control District Operator
+- `WASTE__Wildlife_Control_Operator` — Wildlife Control Operator
+- `WASTE__Pesticide_Safety_Worker_Protection_Standard_Compliance_Officer` — Pesticide Safety / Worker Protection Standard (WPS) Compliance Officer
+- `WASTE__School_IPM_Compliance_Coordinator` — School IPM Compliance Coordinator
+- `WASTE__Pest_Control_Vehicle_Inspector` — Pest Control Vehicle Inspector
+- `WASTE__Tow_Truck_Operator_Driver` — Tow Truck Operator / Driver
+- `WASTE__CHP_Tow_Rotation_Manager` — CHP Tow Rotation Manager
+- `WASTE__Tow_Company_Owner_Business_Manager` — Tow Company Owner / Business Manager
+- `WASTE__Police_Authorized_Tow_Coordinator` — Police-Authorized Tow Coordinator
+- `WASTE__Abandoned_Vehicle_Abatement_Officer` — Abandoned Vehicle Abatement Officer
+- `WASTE__OES_Emergency_Tow_Coordinator` — OES Emergency Tow Coordinator
+- `WASTE__Private_Property_Impound_Coordinator` — Private Property Impound (PPI) Coordinator
+- `WASTE__Lien_Sale_Processing_Agent` — Lien Sale Processing Agent
+- `WASTE__Vehicle_Storage_Facility_Operator` — Vehicle Storage Facility Operator
+- `WASTE__Licensed_Repossession_Agent` — Licensed Repossession Agent
+- `WASTE__Skip_Tow_Investigator` — Skip Tow Investigator
+- `WASTE__Accident_Scene_Tow_Operator` — Accident Scene Tow Operator
+- `WASTE__Heavy_Duty_Tow_Operator` — Heavy-Duty Tow Operator
+
+## Agriculture / Ranching / Storage
+**Count:** 71
+
+- `AG__Farm_Labor_Contractor_Licensing_Specialist` — Farm Labor Contractor (FLC) Licensing Specialist
+- `AG__H_2A_Agricultural_Visa_Compliance_Officer` — H-2A Agricultural Visa Compliance Officer
+- `AG__Agricultural_Employer_Registration_Specialist` — Agricultural Employer Registration Specialist
+- `AG__Farm_Worker_Housing_Inspector` — Farm Worker Housing Inspector
+- `AG__Field_Sanitation_Compliance_Officer` — Field Sanitation Compliance Officer
+- `AG__Heat_Illness_Prevention_Program_Manager` — Heat Illness Prevention Program Manager
+- `AG__Youth_Agricultural_Employment_Compliance_Specialist` — Youth Agricultural Employment Compliance Specialist
+- `AG__Agricultural_Water_Quality_Permit_Specialist` — Agricultural Water Quality Permit Specialist
+- `AG__Irrigation_District_Compliance_Officer` — Irrigation District Compliance Officer
+- `AG__Agricultural_Burning_Permit_Officer` — Agricultural Burning Permit Officer
+- `AG__Agricultural_Drone_Permit_Specialist` — Agricultural Drone (UAS) Permit Specialist
+- `AG__Crop_Insurance_Specialist` — Crop Insurance Specialist (FCIC/RMA)
+- `AG__Agricultural_Commodity_Grader` — Agricultural Commodity Grader
+- `AG__Grain_Warehouse_Licensing_Specialist` — Grain Warehouse Licensing Specialist
+- `AG__Agricultural_Marketing_Order_Compliance_Specialist` — Agricultural Marketing Order Compliance Specialist
+- `AG__Organic_Certification_Specialist` — Organic Certification Specialist
+- `AG__Farmers_Market_CSA_Permit_Specialist` — Farmers Market / CSA Permit Specialist
+- `AG__Farm_Bill_Compliance_Specialist` — Farm Bill Compliance Specialist (USDA FSA)
+- `AG__Conservation_Reserve_Program_Specialist` — Conservation Reserve Program (CRP) Specialist
+- `AG__Agricultural_Easement_Specialist` — Agricultural Easement Specialist
+- `AG__Williamson_Act_Agricultural_Tax_Assessment_Specialist` — Williamson Act / Agricultural Tax Assessment Specialist
+- `AG__Farm_Equipment_Safety_Inspector` — Farm Equipment Safety Inspector
+- `AG__Agricultural_Cooperative_Compliance_Officer` — Agricultural Cooperative Compliance Officer
+- `AG__Right_to_Farm_Compliance_Specialist` — Right-to-Farm Compliance Specialist
+- `AG__Pesticide_Use_Compliance_Specialist` — Pesticide Use Compliance Specialist
+- `AG__Livestock_Brand_Registration_Specialist` — Livestock Brand Registration Specialist
+- `AG__Brand_Inspector` — Brand Inspector
+- `AG__Cattle_Health_Certificate_Officer` — Cattle Health Certificate Officer (Interstate/International)
+- `AG__Livestock_Transportation_Compliance_Officer` — Livestock Transportation Compliance Officer
+- `AG__Livestock_Auction_Compliance_Specialist` — Livestock Auction Compliance Specialist
+- `AG__Feedlot_CAFO_Permit_Specialist` — Feedlot / CAFO Permit Specialist
+- `AG__Grazing_Permit_Specialist` — Grazing Permit Specialist (Federal Lands)
+- `AG__Scrapie_Program_Compliance_Officer` — Scrapie Program Compliance Officer (Sheep/Goat)
+- `AG__Poultry_Flock_Health_Officer` — Poultry Flock Health Officer
+- `AG__Swine_Health_Monitoring_Specialist` — Swine Health Monitoring Specialist
+- `AG__Livestock_Exhibition_Health_Compliance_Officer` — Livestock Exhibition Health Compliance Officer
+- `AG__Predator_Management_Program_Officer` — Predator Management Program Officer
+- `AG__Fencing_Compliance_Specialist` — Fencing Compliance Specialist
+- `AG__Livestock_Mortality_Disposal_Specialist` — Livestock Mortality Disposal Specialist
+- `AG__Equine_Activity_Liability_Specialist` — Equine Activity Liability Specialist
+- `AG__Rodeo_Permit_Compliance_Officer` — Rodeo Permit / Compliance Officer
+- `AG__Artificial_Insemination_Technician_Certification_Specialist` — Artificial Insemination Technician Certification Specialist
+- `AG__Dairy_Farm_Inspection_Specialist` — Dairy Farm Inspection Specialist
+- `AG__Milk_Quality_Testing_Specialist` — Milk Quality Testing Specialist
+- `AG__Meat_Processing_Facility_Compliance_Officer` — Meat Processing Facility Compliance Officer (USDA Inspected)
+- `AG__Custom_Exempt_Slaughter_Compliance_Officer` — Custom Exempt Slaughter Compliance Officer
+- `AG__Mobile_Slaughter_Unit_Permit_Specialist` — Mobile Slaughter Unit Permit Specialist
+- `AG__Livestock_Insurance_Specialist` — Livestock Insurance Specialist
+- `AG__Livestock_Drug_Residue_Testing_Specialist` — Livestock Drug Residue Testing Specialist
+- `AG__Animal_Welfare_Humane_Handling_Certification_Specialist` — Animal Welfare / Humane Handling Certification Specialist
+- `AG__Public_Warehouse_Licensing_Specialist` — Public Warehouse Licensing Specialist
+- `AG__Bonded_Warehouse_Specialist` — Bonded Warehouse Specialist (CBP)
+- `AG__Grain_Elevator_Inspection_Specialist` — Grain Elevator Inspection Specialist
+- `AG__Warehouse_Receipt_Compliance_Specialist` — Warehouse Receipt Compliance Specialist (UCC Article 7)
+- `AG__Cold_Storage_Facility_Inspector` — Cold Storage Facility Inspector
+- `AG__Pharmaceutical_Storage_Compliance_Specialist` — Pharmaceutical Storage Compliance Specialist
+- `AG__Wine_Spirits_Storage_Permit_Specialist` — Wine/Spirits Storage Permit Specialist
+- `AG__Fur_Storage_Compliance_Specialist` — Fur Storage Compliance Specialist
+- `AG__Art_Storage_Fine_Art_Handling_Specialist` — Art Storage / Fine Art Handling Specialist
+- `AG__Warehouse_Worker_Safety_Officer` — Warehouse Worker Safety Officer (OSHA)
+- `AG__Forklift_Operator_Certification_Specialist` — Forklift Operator Certification Specialist
+- `AG__Racking_Inspection_Specialist` — Racking Inspection Specialist
+- `AG__Fire_Suppression_System_Inspection_Specialist` — Fire Suppression System Inspection Specialist
+- `AG__Hazmat_Storage_Compliance_Specialist` — Hazmat Storage Compliance Specialist (Fire Code)
+- `AG__Self_Storage_Facility_Lien_Compliance_Specialist` — Self-Storage Facility Lien Compliance Specialist
+- `AG__Fumigation_Records_Specialist` — Fumigation Records Specialist (Stored Commodities)
+- `AG__Records_Storage_Facility_Compliance_Specialist` — Records Storage Facility Compliance Specialist (Vital Records)
+- `AG__Document_Destruction_Shredding_Compliance_Specialist` — Document Destruction / Shredding Compliance Specialist
+- `AG__Inventory_Management_Compliance_Specialist` — Inventory Management Compliance Specialist
+- `AG__Data_Center_Facility_Compliance_Specialist` — Data Center Facility Compliance Specialist
+- `AG__Warehouse_Management_System_Compliance_Specialist` — Warehouse Management System (WMS) Compliance Specialist
+
+## Fitness / Beauty / Tattoo / Explosives / Transport
+**Count:** 100
+
+- `TRADE__Health_Club_Owner_Operator` — Health Club Owner/Operator
+- `TRADE__Health_Club_Membership_Sales_Representative` — Health Club Membership Sales Representative
+- `TRADE__AED_CPR_Compliance_Officer` — AED/CPR Compliance Officer (Gym)
+- `TRADE__Gym_Facility_Safety_Inspector` — Gym Facility Safety Inspector
+- `TRADE__Certified_Personal_Trainer` — Certified Personal Trainer
+- `TRADE__Yoga_Pilates_Instructor` — Yoga/Pilates Instructor
+- `TRADE__Martial_Arts_Instructor_School_Operator` — Martial Arts Instructor/School Operator
+- `TRADE__Sports_Medicine_Exercise_Physiologist` — Sports Medicine / Exercise Physiologist (Non-Physician)
+- `TRADE__Registered_Dietitian` — Registered Dietitian (RD/RDN)
+- `TRADE__Weight_Loss_Program_Operator` — Weight Loss Program Operator
+- `TRADE__Supplement_Retailer_Advisor` — Supplement Retailer/Advisor (Fitness Context)
+- `TRADE__Certified_Massage_Therapist` — Certified Massage Therapist (CAMTC)
+- `TRADE__Massage_Establishment_Owner_Operator` — Massage Establishment Owner/Operator
+- `TRADE__Licensed_Acupuncturist` — Licensed Acupuncturist
+- `TRADE__Spa_Wellness_Facility_Operator` — Spa/Wellness Facility Operator (Pool/Sauna/Steam)
+- `TRADE__Cryotherapy_Float_Tank_Facility_Operator` — Cryotherapy / Float Tank Facility Operator
+- `TRADE__Tanning_Facility_Operator` — Tanning Facility Operator
+- `TRADE__Concussion_Protocol_Officer` — Concussion Protocol Officer (Youth Sports)
+- `TRADE__Athletic_Trainer` — Athletic Trainer (Certified)
+- `TRADE__Health_Club_Bond_Surety_Compliance_Officer` — Health Club Bond/Surety Compliance Officer
+- `TRADE__Licensed_Cosmetologist` — Licensed Cosmetologist
+- `TRADE__Licensed_Barber` — Licensed Barber
+- `TRADE__Licensed_Esthetician` — Licensed Esthetician
+- `TRADE__Licensed_Nail_Technician` — Licensed Nail Technician (Manicurist)
+- `TRADE__Licensed_Electrologist` — Licensed Electrologist
+- `TRADE__Permanent_Makeup_Microblading_Practitioner` — Permanent Makeup / Microblading Practitioner
+- `TRADE__Eyelash_Extension_Technician` — Eyelash Extension Technician
+- `TRADE__Hair_Braiding_Professional` — Hair Braiding Professional
+- `TRADE__Laser_IPL_Light_Based_Treatment_Operator` — Laser/IPL/Light-Based Treatment Operator
+- `TRADE__Cosmetology_Establishment_Owner_Licensee` — Cosmetology Establishment Owner/Licensee
+- `TRADE__Mobile_Salon_Operator` — Mobile Salon Operator
+- `TRADE__Cosmetology_School_Director_Accreditation_Compliance_Officer` — Cosmetology School Director / Accreditation Compliance Officer
+- `TRADE__Cosmetology_Apprenticeship_Supervisor` — Cosmetology Apprenticeship Supervisor
+- `TRADE__Salon_Chemical_Safety_Officer` — Salon Chemical Safety Officer (OSHA Compliance)
+- `TRADE__Cosmetic_Product_Compliance_Specialist` — Cosmetic Product Compliance Specialist
+- `TRADE__Organic_Natural_Beauty_Claims_Compliance_Officer` — Organic/Natural Beauty Claims Compliance Officer
+- `TRADE__Booth_Rental_Agreement_Compliance_Auditor` — Booth Rental Agreement Compliance Auditor
+- `TRADE__Salon_Tip_Reporting_Compliance_Officer` — Salon Tip Reporting Compliance Officer
+- `TRADE__Salon_ADA_Accessibility_Compliance_Officer` — Salon ADA / Accessibility Compliance Officer
+- `TRADE__Salon_Insurance_Risk_Management_Specialist` — Salon Insurance / Risk Management Specialist
+- `TRADE__Registered_Tattoo_Artist` — Registered Tattoo Artist
+- `TRADE__Tattoo_Establishment_Owner_Permit_Holder` — Tattoo Establishment Owner/Permit Holder
+- `TRADE__Tattoo_Apprentice` — Tattoo Apprentice
+- `TRADE__Tattoo_Ink_Supply_Manufacturer_Compliance_Officer` — Tattoo Ink/Supply Manufacturer Compliance Officer
+- `TRADE__Registered_Body_Piercer` — Registered Body Piercer
+- `TRADE__Ear_Piercing_Specialist` — Ear Piercing Specialist (Retail/Mall Setting)
+- `TRADE__Body_Modification_Specialist` — Body Modification Specialist (Advanced: Dermal Implants, Scarification, Tongue Splitting)
+- `TRADE__Body_Art_Infection_Control_Officer` — Body Art Infection Control Officer
+- `TRADE__Medical_Waste_Compliance_Officer` — Medical Waste Compliance Officer (Body Art)
+- `TRADE__County_Health_Department_Body_Art_Inspector` — County Health Department Body Art Inspector
+- `TRADE__Hepatitis_HIV_Exposure_Protocol_Officer` — Hepatitis/HIV Exposure Protocol Officer
+- `TRADE__Tattoo_Removal_Facility_Operator` — Tattoo Removal Facility Operator (Laser)
+- `TRADE__Cosmetic_Tattoo_Crossover_Compliance_Specialist` — Cosmetic Tattoo (PMU) Crossover Compliance Specialist
+- `TRADE__Mobile_Tattoo_Piercing_Event_Coordinator` — Mobile Tattoo/Piercing Event Coordinator
+- `TRADE__Tattoo_Aftercare_Compliance_Specialist` — Tattoo Aftercare Compliance Specialist
+- `TRADE__Tattoo_Client_Records_Manager` — Tattoo Client Records Manager
+- `TRADE__Tattoo_Age_Verification_Compliance_Officer` — Tattoo Age Verification Compliance Officer
+- `TRADE__Body_Art_Waste_Disposal_Technician` — Body Art Waste Disposal Technician
+- `TRADE__Body_Art_Consumer_Complaint_Investigator` — Body Art Consumer Complaint Investigator
+- `TRADE__Body_Art_Insurance_Specialist` — Body Art Insurance Specialist
+- `TRADE__Federal_Explosives_Licensee` — Federal Explosives Licensee (FEL Holder)
+- `TRADE__Explosives_Transaction_Records_Custodian` — Explosives Transaction Records Custodian
+- `TRADE__ATF_Compliance_Inspector` — ATF Compliance Inspector (Government)
+- `TRADE__Explosives_Theft_Loss_Reporting_Officer` — Explosives Theft/Loss Reporting Officer
+- `TRADE__California_Explosives_Permit_Holder` — California Explosives Permit Holder
+- `TRADE__Certified_Blaster` — Certified Blaster
+- `TRADE__Explosives_Magazine_Keeper` — Explosives Magazine Keeper
+- `TRADE__Demolition_Contractor` — Demolition Contractor (Explosive Demolition)
+- `TRADE__Licensed_Pyrotechnic_Operator` — Licensed Pyrotechnic Operator
+- `TRADE__Special_Effects_Pyrotechnician` — Special Effects (SFX) Pyrotechnician (Film/TV/Theater)
+- `TRADE__Fireworks_Display_Permit_Officer` — Fireworks Display Permit Officer (Local Authority)
+- `TRADE__Consumer_Fireworks_Retailer` — Consumer Fireworks ("Safe and Sane") Retailer
+- `TRADE__Explosives_Transport_Driver` — Explosives Transport Driver (DOT Hazmat)
+- `TRADE__Explosives_Security_Officer` — Explosives Security Officer (Facility)
+- `TRADE__Seismograph_Blast_Monitoring_Technician` — Seismograph/Blast Monitoring Technician
+- `TRADE__Military_EOD_Explosives_Disposal_Specialist` — Military/EOD Explosives Disposal Specialist (Document Interface)
+- `TRADE__Mining_Blast_Supervisor` — Mining Blast Supervisor (Surface/Underground)
+- `TRADE__Quarry_Blast_Compliance_Officer` — Quarry Blast Compliance Officer
+- `TRADE__Model_Rocketry_High_Power_Rocketry_Compliance_Specialist` — Model Rocketry / High Power Rocketry Compliance Specialist
+- `TRADE__Fireworks_Manufacturer_Compliance_Director` — Fireworks Manufacturer Compliance Director
+- `TRADE__Armored_Car_Company_Operator` — Armored Car Company Operator (PPO/ACC License)
+- `TRADE__Armored_Car_Guard` — Armored Car Guard (Registered)
+- `TRADE__Cash_in_Transit_Operations_Manager` — Cash-in-Transit (CIT) Operations Manager
+- `TRADE__Vault_Safe_Compliance_Inspector` — Vault/Safe Compliance Inspector
+- `TRADE__ATM_Servicing_Technician` — ATM Servicing Technician (Armored Transport)
+- `TRADE__Federal_Reserve_Cash_Operations_Liaison` — Federal Reserve Cash Operations Liaison
+- `TRADE__CIT_Insurance_Risk_Analyst` — CIT Insurance/Risk Analyst
+- `TRADE__Bail_Bond_Agent` — Bail Bond Agent (Licensed)
+- `TRADE__Bail_Fugitive_Recovery_Agent` — Bail Fugitive Recovery Agent (Bounty Hunter)
+- `TRADE__Bail_Bond_Forfeiture_Surrender_Specialist` — Bail Bond Forfeiture / Surrender Specialist
+- `TRADE__Skip_Tracer` — Skip Tracer (Fugitive Recovery Context)
+- `TRADE__Bail_Bond_DOI_Examiner` — Bail Bond DOI Examiner (Government)
+- `TRADE__Interstate_Fugitive_Recovery_Compliance_Officer` — Interstate Fugitive Recovery Compliance Officer
+- `TRADE__Prisoner_Detainee_Transport_Officer` — Prisoner/Detainee Transport Officer (Private)
+- `TRADE__Extradition_Transport_Coordinator` — Extradition Transport Coordinator
+- `TRADE__Courthouse_Security_Transport_Officer` — Courthouse Security Transport Officer
+- `TRADE__GPS_Electronic_Monitoring_Compliance_Officer` — GPS/Electronic Monitoring Compliance Officer (Bail)
+- `TRADE__Bail_Bounty_Hunter_Insurance_Specialist` — Bail / Bounty Hunter Insurance Specialist
+- `TRADE__Arrest_Authority_Documentation_Specialist` — Arrest Authority Documentation Specialist
+- `TRADE__Armored_Transport_Recovery_Fleet_Compliance_Manager` — Armored Transport / Recovery Fleet Compliance Manager
+
+## Insurance / Banking / Tax (Deep)
+**Count:** 93
+
+- `INS_BANK__Licensed_Property_Broker_Agent` — Licensed Property Broker-Agent
+- `INS_BANK__Licensed_Casualty_Broker_Agent` — Licensed Casualty Broker-Agent
+- `INS_BANK__Personal_Lines_Broker_Agent` — Personal Lines Broker-Agent
+- `INS_BANK__Surplus_Lines_Broker` — Surplus Lines Broker
+- `INS_BANK__Insurance_Claims_Adjuster` — Insurance Claims Adjuster
+- `INS_BANK__Public_Insurance_Adjuster` — Public Insurance Adjuster
+- `INS_BANK__Unfair_Claims_Settlement_Practices_Compliance_Officer` — Unfair Claims Settlement Practices Compliance Officer
+- `INS_BANK__Life_Agent` — Life Agent
+- `INS_BANK__Life_Settlement_Broker` — Life Settlement Broker
+- `INS_BANK__Bail_Agent` — Bail Agent
+- `INS_BANK__Title_Insurance_Underwriter_Officer` — Title Insurance Underwriter / Officer
+- `INS_BANK__Crop_Insurance_Agent` — Crop Insurance Agent
+- `INS_BANK__Flood_Insurance_Specialist` — Flood Insurance Specialist (NFIP)
+- `INS_BANK__California_Earthquake_Authority_Producer` — California Earthquake Authority (CEA) Producer
+- `INS_BANK__Workers_Compensation_Insurance_Specialist` — Workers' Compensation Insurance Specialist
+- `INS_BANK__Workers_Compensation_Claims_Adjuster` — Workers' Compensation Claims Adjuster
+- `INS_BANK__Professional_Liability_EO_Underwriter` — Professional Liability / E&O Underwriter
+- `INS_BANK__Directors_Officers_Insurance_Specialist` — Directors & Officers (D&O) Insurance Specialist
+- `INS_BANK__Cyber_Liability_Insurance_Specialist` — Cyber Liability Insurance Specialist
+- `INS_BANK__Environmental_Liability_Insurance_Specialist` — Environmental Liability Insurance Specialist
+- `INS_BANK__Product_Liability_Insurance_Specialist` — Product Liability Insurance Specialist
+- `INS_BANK__Umbrella_Excess_Insurance_Specialist` — Umbrella/Excess Insurance Specialist
+- `INS_BANK__Reinsurance_Intermediary_Broker` — Reinsurance Intermediary-Broker
+- `INS_BANK__Reinsurance_Intermediary_Manager` — Reinsurance Intermediary-Manager
+- `INS_BANK__Lloyds_Coverholder_Managing_Agent_Representative` — Lloyd's Coverholder / Managing Agent Representative
+- `INS_BANK__Captive_Insurance_Company_Manager` — Captive Insurance Company Manager
+- `INS_BANK__Risk_Retention_Group_Compliance_Officer` — Risk Retention Group Compliance Officer
+- `INS_BANK__Special_Investigations_Unit_Investigator` — Special Investigations Unit (SIU) Investigator
+- `INS_BANK__Subrogation_Specialist` — Subrogation Specialist
+- `INS_BANK__Bad_Faith_Litigation_Specialist_Coverage_Counsel` — Bad Faith Litigation Specialist / Coverage Counsel
+- `INS_BANK__Insurance_Actuary_Rate_Filing_Specialist` — Insurance Actuary / Rate Filing Specialist
+- `INS_BANK__Insurance_Holding_Company_Compliance_Officer` — Insurance Holding Company Compliance Officer
+- `INS_BANK__Managing_General_Agent` — Managing General Agent (MGA)
+- `INS_BANK__Third_Party_Administrator` — Third Party Administrator (TPA)
+- `INS_BANK__Surplus_Lines_Tax_Compliance_Specialist` — Surplus Lines Tax Compliance Specialist
+- `INS_BANK__Bank_Charter_Compliance_Officer` — Bank Charter Compliance Officer (OCC)
+- `INS_BANK__State_Chartered_Bank_Compliance_Officer` — State-Chartered Bank Compliance Officer (FDIC/State)
+- `INS_BANK__Credit_Union_Charter_Compliance_Officer` — Credit Union Charter Compliance Officer (NCUA)
+- `INS_BANK__De_Novo_Bank_Credit_Union_Compliance_Specialist` — De Novo Bank/Credit Union Compliance Specialist
+- `INS_BANK__CRA_Compliance_Officer` — CRA Compliance Officer
+- `INS_BANK__Fair_Lending_Compliance_Officer` — Fair Lending Compliance Officer (ECOA/HMDA)
+- `INS_BANK__BSA_AML_Compliance_Officer` — BSA/AML Compliance Officer
+- `INS_BANK__Know_Your_Customer_Customer_Due_Diligence_Analyst` — Know Your Customer (KYC) / Customer Due Diligence (CDD) Analyst
+- `INS_BANK__Regulation_E_Compliance_Officer` — Regulation E Compliance Officer
+- `INS_BANK__Regulation_Z_Compliance_Officer` — Regulation Z (TILA) Compliance Officer
+- `INS_BANK__Regulation_CC_Compliance_Officer` — Regulation CC Compliance Officer
+- `INS_BANK__Regulation_DD_Compliance_Officer` — Regulation DD (Truth in Savings) Compliance Officer
+- `INS_BANK__UDAAP_Compliance_Officer` — UDAAP Compliance Officer
+- `INS_BANK__Overdraft_Program_Compliance_Specialist` — Overdraft Program Compliance Specialist
+- `INS_BANK__ATM_Debit_Card_Compliance_Officer` — ATM/Debit Card Compliance Officer
+- `INS_BANK__Mobile_Banking_Compliance_Officer` — Mobile Banking Compliance Officer
+- `INS_BANK__Remote_Deposit_Capture_Compliance_Officer` — Remote Deposit Capture (RDC) Compliance Officer
+- `INS_BANK__Wire_Transfer_OFAC_Compliance_Specialist` — Wire Transfer / OFAC Compliance Specialist
+- `INS_BANK__Correspondent_Banking_Compliance_Officer` — Correspondent Banking Compliance Officer
+- `INS_BANK__Money_Services_Business_Compliance_Officer` — Money Services Business (MSB) Compliance Officer
+- `INS_BANK__Prepaid_Card_Compliance_Specialist` — Prepaid Card Compliance Specialist
+- `INS_BANK__Fintech_Partnership_Charter_Compliance_Officer` — Fintech Partnership / Charter Compliance Officer
+- `INS_BANK__Open_Banking_API_Compliance_Officer` — Open Banking / API Compliance Officer
+- `INS_BANK__Bank_Merger_Acquisition_Compliance_Specialist` — Bank Merger/Acquisition Compliance Specialist
+- `INS_BANK__Prompt_Corrective_Action_Compliance_Officer` — Prompt Corrective Action (PCA) Compliance Officer
+- `INS_BANK__Stress_Testing_Compliance_Specialist` — Stress Testing Compliance Specialist (DFAST/CCAR)
+- `INS_BANK__Bank_Credit_Union_Examination_Liaison` — Bank/Credit Union Examination Liaison
+- `INS_BANK__CDFI_Certification_Compliance_Officer` — CDFI Certification Compliance Officer
+- `INS_BANK__PTIN_Holder_Paid_Tax_Return_Preparer` — PTIN Holder / Paid Tax Return Preparer
+- `INS_BANK__CTEC_Registered_Tax_Preparer` — CTEC Registered Tax Preparer (California)
+- `INS_BANK__Enrolled_Agent` — Enrolled Agent (EA)
+- `INS_BANK__Certified_Public_Accountant_Tax_Practice` — Certified Public Accountant (CPA) -- Tax Practice
+- `INS_BANK__IRS_Audit_Representative` — IRS Audit Representative (Power of Attorney)
+- `INS_BANK__State_Tax_Audit_Representative` — State Tax Audit Representative (FTB)
+- `INS_BANK__Offer_in_Compromise_Specialist` — Offer in Compromise Specialist
+- `INS_BANK__Installment_Agreement_Specialist` — Installment Agreement Specialist
+- `INS_BANK__Innocent_Spouse_Relief_Specialist` — Innocent Spouse Relief Specialist
+- `INS_BANK__Penalty_Abatement_Specialist` — Penalty Abatement Specialist
+- `INS_BANK__Tax_Court_Petition_Specialist` — Tax Court Petition Specialist
+- `INS_BANK__Tax_Planning_Engagement_Specialist` — Tax Planning Engagement Specialist
+- `INS_BANK__Tax_Opinion_Letter_Author` — Tax Opinion Letter Author
+- `INS_BANK__Compilation_Engagement_Practitioner` — Compilation Engagement Practitioner
+- `INS_BANK__Review_Engagement_Practitioner` — Review Engagement Practitioner
+- `INS_BANK__Audit_Engagement_Practitioner` — Audit Engagement Practitioner
+- `INS_BANK__Attestation_Engagement_Practitioner` — Attestation Engagement Practitioner
+- `INS_BANK__Agreed_Upon_Procedures_Practitioner` — Agreed-Upon Procedures (AUP) Practitioner
+- `INS_BANK__Forensic_Accountant` — Forensic Accountant
+- `INS_BANK__Business_Valuation_Analyst` — Business Valuation Analyst
+- `INS_BANK__Sarbanes_Oxley_Compliance_Auditor` — Sarbanes-Oxley (SOX) Compliance Auditor
+- `INS_BANK__PCAOB_Inspection_Specialist` — PCAOB Inspection Specialist
+- `INS_BANK__Peer_Review_Specialist` — Peer Review Specialist (AICPA)
+- `INS_BANK__Internal_Auditor` — Internal Auditor
+- `INS_BANK__Management_Letter_Author` — Management Letter Author
+- `INS_BANK__Bookkeeping_Service_Provider` — Bookkeeping Service Provider
+- `INS_BANK__Payroll_Tax_Compliance_Specialist` — Payroll Tax Compliance Specialist
+- `INS_BANK__Sales_Use_Tax_Compliance_Specialist` — Sales/Use Tax Compliance Specialist
+- `INS_BANK__Property_Tax_Assessment_Appeal_Specialist` — Property Tax Assessment Appeal Specialist
+- `INS_BANK__International_Tax_Compliance_Specialist` — International Tax Compliance Specialist (FBAR/FATCA)
+
+## Civil Engineering / Surveying / Planning
+**Count:** 0
+
+
+## Research / Academic / Museums
+**Count:** 60
+
+- `RESEARCH__Research_Grants_Administrator` — Research Grants Administrator
+- `RESEARCH__Post_Award_Grants_Accountant` — Post-Award Grants Accountant
+- `RESEARCH__Export_Control_Officer` — Export Control Officer
+- `RESEARCH__Technology_Transfer_Officer` — Technology Transfer Officer
+- `RESEARCH__Sponsored_Programs_Officer` — Sponsored Programs Officer
+- `RESEARCH__Research_Data_Steward` — Research Data Steward
+- `RESEARCH__Research_Compliance_Training_Coordinator` — Research Compliance Training Coordinator
+- `RESEARCH__IRB_Chair_Member` — IRB Chair / Member
+- `RESEARCH__Human_Research_Protection_Program_Director` — Human Research Protection Program Director
+- `RESEARCH__Informed_Consent_Specialist` — Informed Consent Specialist
+- `RESEARCH__Clinical_Research_Monitor_CRA` — Clinical Research Monitor / CRA
+- `RESEARCH__Certificate_of_Confidentiality_Administrator` — Certificate of Confidentiality Administrator
+- `RESEARCH__IACUC_Chair_Administrator` — IACUC Chair / Administrator
+- `RESEARCH__Attending_Veterinarian` — Attending Veterinarian
+- `RESEARCH__Research_Integrity_Officer` — Research Integrity Officer (RIO)
+- `RESEARCH__Conflict_of_Interest_Officer` — Conflict of Interest (COI) Officer
+- `RESEARCH__Responsible_Authorship_Publication_Ethics_Officer` — Responsible Authorship & Publication Ethics Officer
+- `RESEARCH__Faculty_Affairs_Officer` — Faculty Affairs Officer
+- `RESEARCH__Graduate_Program_Director` — Graduate Program Director
+- `RESEARCH__Postdoctoral_Affairs_Officer` — Postdoctoral Affairs Officer
+- `RESEARCH__Facility_Security_Officer` — Facility Security Officer (Research)
+- `RESEARCH__Research_Security_Foreign_Influence_Analyst` — Research Security & Foreign Influence Analyst
+- `RESEARCH__Quality_Manager` — Quality Manager (ISO 17025)
+- `RESEARCH__CLIA_Laboratory_Director` — CLIA Laboratory Director
+- `RESEARCH__Metrology_Manager_Calibration_Laboratory_Supervisor` — Metrology Manager / Calibration Laboratory Supervisor
+- `RESEARCH__Proficiency_Testing_Coordinator` — Proficiency Testing Coordinator
+- `RESEARCH__Laboratory_Accreditation_Coordinator` — Laboratory Accreditation Coordinator
+- `RESEARCH__Chemical_Hygiene_Officer` — Chemical Hygiene Officer
+- `RESEARCH__Radiation_Safety_Officer` — Radiation Safety Officer (RSO)
+- `RESEARCH__Institutional_Biosafety_Officer_Biosafety_Committee_Chair` — Institutional Biosafety Officer / Biosafety Committee (IBC) Chair
+- `RESEARCH__Select_Agent_Responsible_Official` — Select Agent Responsible Official (RO)
+- `RESEARCH__Laser_Safety_Officer` — Laser Safety Officer (LSO)
+- `RESEARCH__GLP_Study_Director` — GLP Study Director
+- `RESEARCH__GLP_Quality_Assurance_Unit_Manager` — GLP Quality Assurance Unit (QAU) Manager
+- `RESEARCH__Laboratory_Information_Management_System_Administrator` — Laboratory Information Management System (LIMS) Administrator
+- `RESEARCH__Data_Integrity_Officer` — Data Integrity Officer (Scientific)
+- `RESEARCH__Environmental_Monitoring_Specialist` — Environmental Monitoring Specialist
+- `RESEARCH__Cleanroom_Certification_Specialist` — Cleanroom Certification Specialist
+- `RESEARCH__Method_Validation_Scientist` — Method Validation Scientist
+- `RESEARCH__Chain_of_Custody_Officer` — Chain of Custody Officer (Scientific Samples)
+- `RESEARCH__Scientific_Equipment_Validation_Engineer` — Scientific Equipment Validation Engineer
+- `RESEARCH__Reference_Standards_Custodian` — Reference Standards Custodian
+- `RESEARCH__Registrar` — Registrar (Museum)
+- `RESEARCH__Provenance_Researcher` — Provenance Researcher
+- `RESEARCH__NAGPRA_Compliance_Officer` — NAGPRA Compliance Officer
+- `RESEARCH__Cultural_Property_Compliance_Officer` — Cultural Property Compliance Officer
+- `RESEARCH__Collections_Manager` — Collections Manager
+- `RESEARCH__Objects_Conservator` — Objects Conservator
+- `RESEARCH__Digital_Preservation_Specialist` — Digital Preservation Specialist
+- `RESEARCH__Preservation_Librarian` — Preservation Librarian
+- `RESEARCH__Government_Archivist_Records_Manager` — Government Archivist / Records Manager
+- `RESEARCH__FOIA_Officer_Public_Records_Specialist` — FOIA Officer / Public Records Specialist
+- `RESEARCH__Declassification_Review_Specialist` — Declassification Review Specialist
+- `RESEARCH__Processing_Archivist` — Processing Archivist
+- `RESEARCH__Oral_History_Program_Manager` — Oral History Program Manager
+- `RESEARCH__Catalog_Librarian_Metadata_Librarian` — Catalog Librarian / Metadata Librarian
+- `RESEARCH__Digital_Repository_Manager` — Digital Repository Manager
+- `RESEARCH__Copyright_and_Reproduction_Rights_Specialist` — Copyright and Reproduction Rights Specialist
+- `RESEARCH__Exhibition_Manager_Curator_of_Exhibitions` — Exhibition Manager / Curator of Exhibitions
+- `RESEARCH__Fine_Art_Insurance_Specialist_Risk_Manager` — Fine Art Insurance Specialist / Risk Manager
+
+## Utilities / Cable / Postal
+**Count:** 71
+
+- `UTIL__Utility_Rate_Case_Analyst` — Utility Rate Case Analyst
+- `UTIL__Utility_Tariff_Specialist` — Utility Tariff Specialist
+- `UTIL__Time_of_Use_Rate_Program_Manager` — Time-of-Use Rate Program Manager
+- `UTIL__Demand_Response_Program_Coordinator` — Demand Response Program Coordinator
+- `UTIL__Utility_Billing_Compliance_Specialist` — Utility Billing Compliance Specialist
+- `UTIL__Utility_Meter_Technician_Metering_Compliance_Officer` — Utility Meter Technician / Metering Compliance Officer
+- `UTIL__Smart_Meter_Opt_Out_Program_Coordinator` — Smart Meter Opt-Out Program Coordinator
+- `UTIL__Utility_Service_Connection_Disconnection_Specialist` — Utility Service Connection/Disconnection Specialist
+- `UTIL__Utility_Deposit_and_Credit_Analyst` — Utility Deposit and Credit Analyst
+- `UTIL__CARE_FERA_Program_Administrator` — CARE/FERA Program Administrator
+- `UTIL__LIHEAP_Energy_Assistance_Program_Coordinator` — LIHEAP/Energy Assistance Program Coordinator
+- `UTIL__Medical_Baseline_Program_Coordinator` — Medical Baseline Program Coordinator
+- `UTIL__Utility_Shutoff_Protection_Specialist` — Utility Shutoff Protection Specialist (Winter Moratorium / Heat Event)
+- `UTIL__Net_Energy_Metering_Compliance_Specialist` — Net Energy Metering (NEM) Compliance Specialist
+- `UTIL__Community_Choice_Aggregation_Compliance_Manager` — Community Choice Aggregation (CCA) Compliance Manager
+- `UTIL__Wildfire_Mitigation_Plan_Compliance_Manager` — Wildfire Mitigation Plan Compliance Manager
+- `UTIL__Public_Safety_Power_Shutoff_Coordinator` — Public Safety Power Shutoff (PSPS) Coordinator
+- `UTIL__Utility_Arborist_Vegetation_Management_Compliance_Specialist` — Utility Arborist / Vegetation Management Compliance Specialist
+- `UTIL__Utility_Infrastructure_Inspector` — Utility Infrastructure Inspector
+- `UTIL__Utility_Easement_Specialist` — Utility Easement Specialist
+- `UTIL__Utility_Franchise_Agreement_Manager` — Utility Franchise Agreement Manager
+- `UTIL__Pole_Attachment_Engineer_Joint_Use_Coordinator` — Pole Attachment Engineer / Joint-Use Coordinator
+- `UTIL__Underground_Utility_District_Coordinator` — Underground Utility District Coordinator
+- `UTIL__Electric_Vehicle_Charging_Infrastructure_Specialist` — Electric Vehicle Charging Infrastructure Specialist
+- `UTIL__Water_Utility_Rate_Analyst` — Water Utility Rate Analyst
+- `UTIL__Water_Utility_Shutoff_Protection_Specialist` — Water Utility Shutoff Protection Specialist
+- `UTIL__Gas_Utility_Safety_Compliance_Officer` — Gas Utility Safety Compliance Officer
+- `UTIL__Cable_Franchise_Compliance_Manager` — Cable Franchise Compliance Manager
+- `UTIL__Must_Carry_Retransmission_Consent_Specialist` — Must-Carry / Retransmission Consent Specialist
+- `UTIL__PEG_Access_Channel_Manager` — PEG (Public/Educational/Government) Access Channel Manager
+- `UTIL__Satellite_TV_Licensing_Compliance_Specialist` — Satellite TV (DBS) Licensing Compliance Specialist
+- `UTIL__Cable_Subscriber_Privacy_Compliance_Officer` — Cable Subscriber Privacy Compliance Officer
+- `UTIL__ISP_Law_Enforcement_Request_Compliance_Specialist` — ISP Law Enforcement Request Compliance Specialist
+- `UTIL__Broadband_Deployment_Compliance_Analyst` — Broadband Deployment Compliance Analyst (FCC Form 477/BDC)
+- `UTIL__Digital_Equity_Affordable_Connectivity_Program_Specialist` — Digital Equity / Affordable Connectivity Program (ACP) Specialist
+- `UTIL__RDOF_CAF_Broadband_Funding_Compliance_Specialist` — RDOF/CAF Broadband Funding Compliance Specialist
+- `UTIL__Fiber_to_Home_Permit_and_Construction_Compliance_Manager` — Fiber-to-Home Permit and Construction Compliance Manager
+- `UTIL__Broadband_Speed_Advertising_Compliance_Specialist` — Broadband Speed Advertising Compliance Specialist
+- `UTIL__DMCA_Takedown_Compliance_Specialist` — DMCA Takedown Compliance Specialist
+- `UTIL__NCMEC_Child_Exploitation_Reporting_Compliance_Officer` — NCMEC / Child Exploitation Reporting Compliance Officer
+- `UTIL__ISP_Acceptable_Use_Policy_Network_Management_Compliance_Specialist` — ISP Acceptable Use Policy / Network Management Compliance Specialist
+- `UTIL__Broadband_Infrastructure_Sharing_Coordinator` — Broadband Infrastructure Sharing Coordinator (Pole/Conduit)
+- `UTIL__Municipal_Broadband_Program_Manager` — Municipal Broadband Program Manager
+- `UTIL__Cable_Equipment_Installation_Home_Wiring_Compliance_Technician` — Cable Equipment Installation / Home Wiring Compliance Technician
+- `UTIL__IPTV_OTT_Regulatory_Compliance_Specialist` — IPTV/OTT Regulatory Compliance Specialist
+- `UTIL__Cable_ISP_Billing_Dispute_Resolution_Specialist` — Cable/ISP Billing Dispute Resolution Specialist
+- `UTIL__USPS_Postal_Inspector` — USPS Postal Inspector (Mail Fraud Investigation)
+- `UTIL__Mail_Theft_Investigation_Specialist` — Mail Theft Investigation Specialist
+- `UTIL__Mailbox_Access_Tampering_Investigator` — Mailbox Access / Tampering Investigator
+- `UTIL__Certified_Mail_Return_Receipt_Compliance_Specialist` — Certified Mail / Return Receipt Compliance Specialist
+- `UTIL__Registered_Mail_Security_Specialist` — Registered Mail Security Specialist
+- `UTIL__USPS_Change_of_Address_Compliance_Specialist` — USPS Change of Address (COA) Compliance Specialist
+- `UTIL__Private_Mailbox_Operator_Compliance_Manager` — Private Mailbox (PMB/CMRA) Operator Compliance Manager
+- `UTIL__Bulk_Mail_Business_Mail_Permit_Compliance_Manager` — Bulk Mail / Business Mail Permit Compliance Manager
+- `UTIL__Nonprofit_Mail_Permit_Compliance_Specialist` — Nonprofit Mail Permit Compliance Specialist
+- `UTIL__Direct_Mail_Compliance_Specialist` — Direct Mail Compliance Specialist (CAN-SPAM / DNC / State Laws)
+- `UTIL__Election_Mail_Compliance_Specialist` — Election Mail Compliance Specialist
+- `UTIL__Census_Mail_Compliance_Coordinator` — Census Mail Compliance Coordinator
+- `UTIL__Mail_Cover_Request_Analyst` — Mail Cover Request Analyst
+- `UTIL__Postal_Money_Order_Fraud_Investigator` — Postal Money Order Fraud Investigator
+- `UTIL__Dead_Letter_Undeliverable_Mail_Processing_Specialist` — Dead Letter / Undeliverable Mail Processing Specialist
+- `UTIL__Private_Carrier_Compliance_Manager` — Private Carrier Compliance Manager (FedEx/UPS/DHL)
+- `UTIL__Last_Mile_Delivery_Compliance_Specialist` — Last-Mile Delivery Compliance Specialist
+- `UTIL__Package_Theft_Report_Investigation_Coordinator` — Package Theft Report / Investigation Coordinator
+- `UTIL__International_Mail_Customs_Declaration_Specialist` — International Mail Customs Declaration Specialist
+- `UTIL__Hazardous_Materials_Shipping_by_Mail_Compliance_Officer` — Hazardous Materials Shipping by Mail Compliance Officer
+- `UTIL__PO_Box_Application_and_Administration_Specialist` — PO Box Application and Administration Specialist
+- `UTIL__USPS_Inspection_Service_Administrative_Compliance_Officer` — USPS Inspection Service Administrative Compliance Officer
+- `UTIL__Newspaper_Periodical_Mail_Permit_Specialist` — Newspaper/Periodical Mail Permit Specialist
+- `UTIL__Courier_Messenger_Service_License_Compliance_Manager` — Courier/Messenger Service License Compliance Manager
+- `UTIL__Overnight_Express_Carrier_Regulatory_Compliance_Specialist` — Overnight/Express Carrier Regulatory Compliance Specialist
+
+## Elections / Census / Emergency Management
+**Count:** 171
+
+- `ELECTIONS__County_Elections_Official` — County Elections Official (Voter Registration)
+- `ELECTIONS__Voter_Roll_Maintenance_Specialist` — Voter Roll Maintenance Specialist
+- `ELECTIONS__Voter_Registration_Drive_Coordinator` — Voter Registration Drive Coordinator
+- `ELECTIONS__Signature_Verification_Specialist` — Signature Verification Specialist
+- `ELECTIONS__Military_and_Overseas_Voter_Specialist` — Military and Overseas Voter Specialist (UOCAVA)
+- `ELECTIONS__Language_Access_Compliance_Officer` — Language Access Compliance Officer (Voting)
+- `ELECTIONS__Americans_with_Disabilities_Act_Voting_Access_Coordinator` — Americans with Disabilities Act (ADA) Voting Access Coordinator
+- `ELECTIONS__Voter_Outreach_and_Education_Specialist` — Voter Outreach and Education Specialist
+- `ELECTIONS__Ballot_Design_and_Layout_Specialist` — Ballot Design and Layout Specialist
+- `ELECTIONS__Voting_System_Certification_Analyst` — Voting System Certification Analyst
+- `ELECTIONS__Voting_System_Security_Analyst` — Voting System Security Analyst
+- `ELECTIONS__Logic_and_Accuracy_Test_Board_Member` — Logic and Accuracy (L&A) Test Board Member
+- `ELECTIONS__Ballot_on_Demand_Print_Specialist` — Ballot-on-Demand Print Specialist
+- `ELECTIONS__Post_Election_Audit_Specialist` — Post-Election Audit Specialist
+- `ELECTIONS__Ballot_Measure_Proponent_Opponent_Arguments_Coordinator` — Ballot Measure Proponent/Opponent Arguments Coordinator
+- `ELECTIONS__Ranked_Choice_Voting_Tabulation_Specialist` — Ranked Choice Voting Tabulation Specialist
+- `ELECTIONS__Poll_Worker_Precinct_Inspector` — Poll Worker / Precinct Inspector
+- `ELECTIONS__Provisional_Ballot_Adjudicator` — Provisional Ballot Adjudicator
+- `ELECTIONS__Vote_Center_Operations_Manager` — Vote Center Operations Manager
+- `ELECTIONS__Ballot_Processing_Board_Member` — Ballot Processing Board Member (VBM)
+- `ELECTIONS__Election_Observer_Challenger_Coordinator` — Election Observer/Challenger Coordinator
+- `ELECTIONS__Election_Night_Reporting_Coordinator` — Election Night Reporting Coordinator
+- `ELECTIONS__Ballot_Return_Dropbox_Security_Specialist` — Ballot Return/Dropbox Security Specialist
+- `ELECTIONS__Election_Emergency_Continuity_Planner` — Election Emergency/Continuity Planner
+- `ELECTIONS__FEC_Campaign_Finance_Compliance_Officer` — FEC Campaign Finance Compliance Officer
+- `ELECTIONS__FPPC_Campaign_Disclosure_Analyst` — FPPC Campaign Disclosure Analyst (California)
+- `ELECTIONS__PAC_Super_PAC_Registration_and_Compliance_Officer` — PAC/Super PAC Registration and Compliance Officer
+- `ELECTIONS__Lobbying_Registration_and_Disclosure_Compliance_Officer` — Lobbying Registration and Disclosure Compliance Officer
+- `ELECTIONS__Electioneering_Communications_Compliance_Officer` — Electioneering Communications Compliance Officer
+- `ELECTIONS__Independent_Expenditure_Tracking_Specialist` — Independent Expenditure Tracking Specialist
+- `ELECTIONS__Campaign_Treasurer` — Campaign Treasurer
+- `ELECTIONS__Form_700_Filing_Officer` — Form 700 (Statement of Economic Interests) Filing Officer
+- `ELECTIONS__Political_Party_Committee_Compliance_Officer` — Political Party Committee Compliance Officer
+- `ELECTIONS__Ballot_Measure_Campaign_Finance_Specialist` — Ballot Measure Campaign Finance Specialist
+- `ELECTIONS__Candidate_Nomination_Document_Specialist` — Candidate Nomination Document Specialist
+- `ELECTIONS__Initiative_Referendum_Recall_Petition_Specialist` — Initiative/Referendum/Recall Petition Specialist
+- `ELECTIONS__Redistricting_Commission_Analyst` — Redistricting Commission Analyst
+- `ELECTIONS__Voting_Rights_Act_Compliance_Attorney` — Voting Rights Act (VRA) Compliance Attorney
+- `ELECTIONS__Secretary_of_State_Election_Certification_Officer` — Secretary of State Election Certification Officer
+- `ELECTIONS__HAVA_Compliance_Officer` — HAVA Compliance Officer
+- `ELECTIONS__Election_Contest_Recount_Adjudicator` — Election Contest/Recount Adjudicator
+- `ELECTIONS__Election_Security_and_Threat_Assessment_Coordinator` — Election Security and Threat Assessment Coordinator
+- `ELECTIONS__Electronic_Pollbook_Administrator` — Electronic Pollbook Administrator
+- `ELECTIONS__Ballot_Adjudication_Board_Member` — Ballot Adjudication Board Member
+- `ELECTIONS__Election_Data_Transparency_and_FOIA_Specialist` — Election Data Transparency and FOIA Specialist
+- `ELECTIONS__Election_IT_Systems_Administrator` — Election IT Systems Administrator
+- `ELECTIONS__Election_Data_Analyst_Statistician` — Election Data Analyst / Statistician
+- `ELECTIONS__Voting_System_Vendor_Compliance_Auditor` — Voting System Vendor Compliance Auditor
+- `ELECTIONS__Election_Crimes_Investigator` — Election Crimes Investigator
+- `ELECTIONS__FPPC_Enforcement_Attorney` — FPPC Enforcement Attorney
+- `ELECTIONS__FEC_Enforcement_and_MUR_Analyst` — FEC Enforcement and MUR Analyst
+- `ELECTIONS__Campaign_Finance_Auditor` — Campaign Finance Auditor
+- `ELECTIONS__Election_Judge_Hearing_Officer` — Election Judge / Hearing Officer
+- `ELECTIONS__Election_Attorney_Legal_Counsel` — Election Attorney / Legal Counsel
+- `ELECTIONS__Election_Warehouse_and_Logistics_Manager` — Election Warehouse and Logistics Manager
+- `ELECTIONS__Poll_Worker_Trainer` — Poll Worker Trainer
+- `ELECTIONS__Voter_Hotline_Call_Center_Supervisor` — Voter Hotline / Call Center Supervisor
+- `ELECTIONS__County_Grand_Jury_Election_Oversight_Reviewer` — County Grand Jury Election Oversight Reviewer
+- `ELECTIONS__Election_Mail_Processing_Specialist` — Election Mail Processing Specialist
+- `ELECTIONS__Election_GIS_Mapping_Specialist` — Election GIS/Mapping Specialist
+- `ELECTIONS__Election_Accessibility_Program_Coordinator` — Election Accessibility (CVAAC) Program Coordinator
+- `ELECTIONS__Election_Public_Information_Officer` — Election Public Information Officer
+- `ELECTIONS__Census_Bureau_Regional_Director` — Census Bureau Regional Director
+- `ELECTIONS__Census_Enumerator_Supervisor` — Census Enumerator Supervisor
+- `ELECTIONS__Census_Address_Canvassing_Specialist` — Census Address Canvassing Specialist
+- `ELECTIONS__Census_Group_Quarters_Enumerator` — Census Group Quarters Enumerator
+- `ELECTIONS__Census_Data_Quality_Analyst` — Census Data Quality Analyst
+- `ELECTIONS__Census_Hiring_and_Personnel_Specialist` — Census Hiring and Personnel Specialist
+- `ELECTIONS__Census_Partnership_Specialist` — Census Partnership Specialist
+- `ELECTIONS__Census_Language_and_Accessibility_Specialist` — Census Language and Accessibility Specialist
+- `ELECTIONS__Census_Respondent_Advocate` — Census Respondent Advocate
+- `ELECTIONS__Census_Information_Technology_Security_Officer` — Census Information Technology Security Officer
+- `ELECTIONS__American_Community_Survey_Program_Manager` — American Community Survey (ACS) Program Manager
+- `ELECTIONS__Statistical_Disclosure_Avoidance_Specialist` — Statistical Disclosure Avoidance Specialist
+- `ELECTIONS__Census_Redistricting_Data_Specialist` — Census Redistricting Data (P.L. 94-171) Specialist
+- `ELECTIONS__Population_Estimates_Program_Analyst` — Population Estimates Program Analyst
+- `ELECTIONS__Vital_Statistics_Registrar` — Vital Statistics Registrar
+- `ELECTIONS__Federal_Statistical_Agency_Coordination_Officer` — Federal Statistical Agency Coordination Officer
+- `ELECTIONS__Survey_Methodologist` — Survey Methodologist
+- `ELECTIONS__Census_Geographic_Information_Specialist` — Census Geographic Information Specialist
+- `ELECTIONS__Title_13_Compliance_Officer` — Title 13 Compliance Officer
+- `ELECTIONS__Census_Data_Use_Agreement_Administrator` — Census Data Use Agreement Administrator
+- `ELECTIONS__Census_Challenge_Appeal_Officer` — Census Challenge/Appeal Officer
+- `ELECTIONS__Census_Bureau_Inspector_General_Liaison` — Census Bureau Inspector General Liaison
+- `ELECTIONS__Census_FOIA_Privacy_Act_Officer` — Census FOIA/Privacy Act Officer
+- `ELECTIONS__Census_Special_Tabulation_Analyst` — Census Special Tabulation Analyst
+- `ELECTIONS__Current_Population_Survey_Operations_Manager` — Current Population Survey (CPS) Operations Manager
+- `ELECTIONS__Economic_Census_Program_Director` — Economic Census Program Director
+- `ELECTIONS__Census_of_Governments_Analyst` — Census of Governments Analyst
+- `ELECTIONS__Health_Survey_Statistician` — Health Survey Statistician
+- `ELECTIONS__Demographic_Research_Data_Scientist` — Demographic Research Data Scientist
+- `ELECTIONS__International_Demographic_Data_Coordinator` — International Demographic Data Coordinator
+- `ELECTIONS__Tribal_Affairs_Census_Liaison` — Tribal Affairs Census Liaison
+- `ELECTIONS__Census_Public_Use_Microdata_Sample_Manager` — Census Public Use Microdata Sample (PUMS) Manager
+- `ELECTIONS__Census_Bureau_Equal_Employment_Opportunity_Data_Specialist` — Census Bureau Equal Employment Opportunity (EEO) Data Specialist
+- `ELECTIONS__State_Demographer` — State Demographer
+- `ELECTIONS__Local_Complete_Count_Committee_Chair` — Local Complete Count Committee Chair
+- `ELECTIONS__School_District_Demographic_Planner` — School District Demographic Planner
+- `ELECTIONS__Metropolitan_Planning_Organization_Demographer` — Metropolitan Planning Organization (MPO) Demographer
+- `ELECTIONS__Housing_Authority_Demographic_Analyst` — Housing Authority Demographic Analyst
+- `ELECTIONS__Tribal_Enrollment_Specialist` — Tribal Enrollment Specialist
+- `ELECTIONS__Public_Health_Epidemiology_Data_Analyst` — Public Health Epidemiology Data Analyst
+- `ELECTIONS__State_Title_13_Penalty_Enforcement_Liaison` — State Title 13 Penalty Enforcement Liaison
+- `ELECTIONS__FEMA_Disaster_Declaration_Analyst` — FEMA Disaster Declaration Analyst
+- `ELECTIONS__FEMA_Individual_Assistance_Specialist` — FEMA Individual Assistance (IA) Specialist
+- `ELECTIONS__FEMA_Public_Assistance_Program_Specialist` — FEMA Public Assistance (PA) Program Specialist
+- `ELECTIONS__FEMA_Hazard_Mitigation_Specialist` — FEMA Hazard Mitigation Specialist
+- `ELECTIONS__FEMA_National_Flood_Insurance_Program_Specialist` — FEMA National Flood Insurance Program (NFIP) Specialist
+- `ELECTIONS__FEMA_Floodplain_Administrator` — FEMA Floodplain Administrator
+- `ELECTIONS__SBA_Disaster_Loan_Officer` — SBA Disaster Loan Officer
+- `ELECTIONS__FEMA_Disaster_Recovery_Center_Manager` — FEMA Disaster Recovery Center (DRC) Manager
+- `ELECTIONS__FEMA_Environmental_Historic_Preservation_Reviewer` — FEMA Environmental/Historic Preservation (EHP) Reviewer
+- `ELECTIONS__FEMA_Inspector_General_Fraud_Investigator` — FEMA Inspector General / Fraud Investigator
+- `ELECTIONS__Incident_Commander` — Incident Commander (IC)
+- `ELECTIONS__Emergency_Operations_Center_Manager` — Emergency Operations Center (EOC) Manager
+- `ELECTIONS__Emergency_Management_Director` — Emergency Management Director
+- `ELECTIONS__ICS_Planning_Section_Chief` — ICS Planning Section Chief
+- `ELECTIONS__ICS_Finance_Administration_Section_Chief` — ICS Finance/Administration Section Chief
+- `ELECTIONS__ICS_Logistics_Section_Chief` — ICS Logistics Section Chief
+- `ELECTIONS__ICS_Safety_Officer` — ICS Safety Officer
+- `ELECTIONS__Public_Information_Officer_Emergency` — Public Information Officer (PIO) -- Emergency
+- `ELECTIONS__Emergency_Communications_Coordinator` — Emergency Communications Coordinator (RACES/ARES)
+- `ELECTIONS__Mutual_Aid_Coordinator` — Mutual Aid Coordinator
+- `ELECTIONS__Emergency_Operations_Plan_Developer` — Emergency Operations Plan (EOP) Developer
+- `ELECTIONS__Continuity_of_Operations_Planner` — Continuity of Operations (COOP) Planner
+- `ELECTIONS__Hazard_Mitigation_Plan_Developer` — Hazard Mitigation Plan Developer
+- `ELECTIONS__CERT_Program_Manager` — CERT (Community Emergency Response Team) Program Manager
+- `ELECTIONS__Homeland_Security_Exercise_and_Evaluation_Program_Coordinator` — Homeland Security Exercise and Evaluation Program (HSEEP) Coordinator
+- `ELECTIONS__Emergency_Alert_System_Wireless_Emergency_Alert_Coordinator` — Emergency Alert System (EAS) / Wireless Emergency Alert (WEA) Coordinator
+- `ELECTIONS__Nuclear_Emergency_Planner` — Nuclear Emergency Planner (REP)
+- `ELECTIONS__Pandemic_Biological_Emergency_Planner` — Pandemic/Biological Emergency Planner
+- `ELECTIONS__Tsunami_Earthquake_Early_Warning_Specialist` — Tsunami/Earthquake Early Warning Specialist
+- `ELECTIONS__Wildfire_Emergency_Planner` — Wildfire Emergency Planner
+- `ELECTIONS__EMS_Medical_Director` — EMS Medical Director
+- `ELECTIONS__EMS_Run_Report_ePCR_Specialist` — EMS Run Report / ePCR Specialist
+- `ELECTIONS__Mass_Casualty_Incident_Coordinator` — Mass Casualty Incident (MCI) Coordinator
+- `ELECTIONS__Disaster_Victim_Identification_Specialist` — Disaster Victim Identification (DVI) Specialist
+- `ELECTIONS__Medical_Countermeasure_Coordinator` — Medical Countermeasure (MCM) Coordinator
+- `ELECTIONS__Hospital_Emergency_Preparedness_Coordinator` — Hospital Emergency Preparedness Coordinator
+- `ELECTIONS__Emergency_Medical_Technician_Paramedic_Certification_Specialist` — Emergency Medical Technician (EMT) / Paramedic Certification Specialist
+- `ELECTIONS__Trauma_System_Coordinator` — Trauma System Coordinator
+- `ELECTIONS__Post_Disaster_Damage_Assessment_Specialist` — Post-Disaster Damage Assessment Specialist
+- `ELECTIONS__Emergency_Shelter_Manager` — Emergency Shelter Manager
+- `ELECTIONS__Voluntary_Organizations_Active_in_Disaster_Coordinator` — Voluntary Organizations Active in Disaster (VOAD) Coordinator
+- `ELECTIONS__Emergency_Procurement_Officer` — Emergency Procurement Officer
+- `ELECTIONS__Disaster_Recovery_Planning_Manager` — Disaster Recovery Planning Manager
+- `ELECTIONS__Insurance_Adjuster` — Insurance Adjuster (Catastrophe/Disaster)
+- `ELECTIONS__Disaster_Case_Manager` — Disaster Case Manager
+- `ELECTIONS__Post_Disaster_Housing_Inspector` — Post-Disaster Housing Inspector
+- `ELECTIONS__HAZWOPER_Response_Team_Leader` — HAZWOPER Response Team Leader
+- `ELECTIONS__Nuclear_Radiological_Emergency_Responder` — Nuclear/Radiological Emergency Responder
+- `ELECTIONS__Urban_Search_and_Rescue_Task_Force_Manager` — Urban Search and Rescue (US&R) Task Force Manager
+- `ELECTIONS__Disaster_Debris_Management_Specialist` — Disaster Debris Management Specialist
+- `ELECTIONS__Search_and_Rescue_Dog_Handler` — Search and Rescue Dog Handler (K-9 SAR)
+- `ELECTIONS__Swiftwater_Flood_Rescue_Specialist` — Swiftwater/Flood Rescue Specialist
+- `ELECTIONS__Disaster_Animal_Response_Coordinator` — Disaster Animal Response Coordinator
+- `ELECTIONS__Disaster_Behavioral_Health_Specialist` — Disaster Behavioral Health Specialist
+- `ELECTIONS__After_Action_Report_Improvement_Plan_Author` — After Action Report (AAR) / Improvement Plan (IP) Author
+- `ELECTIONS__Emergency_Management_Accreditation_Assessor` — Emergency Management Accreditation Assessor
+- `ELECTIONS__Continuity_Program_Assessor` — Continuity Program Assessor
+- `ELECTIONS__National_Incident_Management_System_Compliance_Officer` — National Incident Management System (NIMS) Compliance Officer
+- `ELECTIONS__Emergency_Management_Grant_Administrator` — Emergency Management Grant Administrator
+- `ELECTIONS__Homeland_Security_Information_Network_Analyst` — Homeland Security Information Network (HSIN) Analyst
+- `ELECTIONS__Emergency_Management_Public_Health_Officer` — Emergency Management Public Health Officer
+- `ELECTIONS__Dam_Safety_Emergency_Planner` — Dam Safety Emergency Planner
+- `ELECTIONS__Wildfire_Evacuation_Coordinator` — Wildfire Evacuation Coordinator
+- `ELECTIONS__Disaster_Legal_Services_Attorney` — Disaster Legal Services Attorney
+- `ELECTIONS__Critical_Infrastructure_Protection_Specialist` — Critical Infrastructure Protection (CIP) Specialist
+- `ELECTIONS__Mass_Notification_System_Administrator` — Mass Notification System Administrator
+- `ELECTIONS__Disaster_Volunteer_Management_Coordinator` — Disaster Volunteer Management Coordinator
+- `ELECTIONS__Post_Disaster_Environmental_Assessment_Specialist` — Post-Disaster Environmental Assessment Specialist
+
+## Automotive / Repair / Autonomous Vehicles
+**Count:** 33
+
+- `AUTO__Dealer_Principal_General_Manager` — Dealer Principal / General Manager
+- `AUTO__Vehicle_Salesperson` — Vehicle Salesperson
+- `AUTO__Autobroker` — Autobroker
+- `AUTO__Finance_Insurance_Manager` — Finance & Insurance (F&I) Manager
+- `AUTO__Dealership_Compliance_Officer` — Dealership Compliance Officer
+- `AUTO__DMV_Title_Clerk_Registration_Specialist` — DMV Title Clerk / Registration Specialist
+- `AUTO__Wholesale_Auction_Transaction_Specialist` — Wholesale / Auction Transaction Specialist
+- `AUTO__Vehicle_History_Disclosure_Compliance_Specialist` — Vehicle History & Disclosure Compliance Specialist
+- `AUTO__Warranty_Lemon_Law_Compliance_Specialist` — Warranty & Lemon Law Compliance Specialist
+- `AUTO__Registered_Automotive_Repair_Dealer` — Registered Automotive Repair Dealer (Owner/Operator)
+- `AUTO__Auto_Repair_Service_Writer_Estimator` — Auto Repair Service Writer / Estimator
+- `AUTO__ASE_Certified_Technician` — ASE Certified Technician
+- `AUTO__Auto_Body_Collision_Repair_Specialist` — Auto Body / Collision Repair Specialist
+- `AUTO__Tire_Dealer_Service_Specialist` — Tire Dealer / Service Specialist
+- `AUTO__Licensed_Smog_Check_Station_Owner` — Licensed Smog Check Station Owner
+- `AUTO__Licensed_Smog_Check_Technician_Inspector` — Licensed Smog Check Technician / Inspector
+- `AUTO__BAR_Referee` — BAR Referee
+- `AUTO__Catalytic_Converter_Emissions_Parts_Compliance_Specialist` — Catalytic Converter / Emissions Parts Compliance Specialist
+- `AUTO__Brake_Lamp_Inspector` — Brake & Lamp Inspector
+- `AUTO__Salvage_Rebuilt_Vehicle_Inspector` — Salvage / Rebuilt Vehicle Inspector
+- `AUTO__Towing_Lien_Sale_Operator` — Towing & Lien Sale Operator
+- `AUTO__AV_Testing_Permit_Holder_Safety_Director` — AV Testing Permit Holder / Safety Director
+- `AUTO__AV_Deployment_Permit_Holder` — AV Deployment Permit Holder
+- `AUTO__Remote_Operator_Remote_Monitor` — Remote Operator / Remote Monitor
+- `AUTO__AV_Safety_Engineer_FMVSS_Compliance_Specialist` — AV Safety Engineer / FMVSS Compliance Specialist
+- `AUTO__AV_Cybersecurity_Compliance_Officer` — AV Cybersecurity Compliance Officer
+- `AUTO__Vehicle_Data_Privacy_Officer` — Vehicle Data Privacy Officer
+- `AUTO__Telematics_Usage_Based_Insurance_Compliance_Specialist` — Telematics / Usage-Based Insurance Compliance Specialist
+- `AUTO__TNC_Permit_Holder_Compliance_Director` — TNC Permit Holder / Compliance Director
+- `AUTO__TNC_Driver_Compliance_Specialist` — TNC Driver Compliance Specialist
+- `AUTO__Car_Sharing_Subscription_Vehicle_Compliance_Manager` — Car-Sharing / Subscription Vehicle Compliance Manager
+- `AUTO__Electric_Scooter_E_Bike_Fleet_Compliance_Manager` — Electric Scooter / E-Bike Fleet Compliance Manager
+- `AUTO__Right_to_Repair_Compliance_Specialist` — Right to Repair Compliance Specialist
+
+## Alcohol / Tobacco / Firearms
+**Count:** 47
+
+- `ATF_REG__Alcoholic_Beverage_Control_Licensing_Specialist` — Alcoholic Beverage Control (ABC) Licensing Specialist
+- `ATF_REG__TTB_Federal_Permit_Specialist` — TTB Federal Permit Specialist
+- `ATF_REG__Special_Event_Catering_Permit_Specialist` — Special Event / Catering Permit Specialist
+- `ATF_REG__Certificate_of_Label_Approval_Specialist` — Certificate of Label Approval (COLA) Specialist
+- `ATF_REG__Alcohol_Advertising_Compliance_Reviewer` — Alcohol Advertising Compliance Reviewer
+- `ATF_REG__Three_Tier_System_Compliance_Analyst` — Three-Tier System Compliance Analyst
+- `ATF_REG__Alcohol_Delivery_Compliance_Specialist` — Alcohol Delivery Compliance Specialist
+- `ATF_REG__Alcohol_Excise_Tax_Specialist` — Alcohol Excise Tax Specialist
+- `ATF_REG__Alcohol_Inventory_Record_Keeping_Auditor` — Alcohol Inventory & Record-Keeping Auditor
+- `ATF_REG__Responsible_Beverage_Service_Training_Compliance_Officer` — Responsible Beverage Service (RBS) Training Compliance Officer
+- `ATF_REG__Dram_Shop_Social_Host_Liability_Analyst` — Dram Shop / Social Host Liability Analyst
+- `ATF_REG__ABC_Disciplinary_Proceedings_Specialist` — ABC Disciplinary Proceedings Specialist
+- `ATF_REG__Craft_Beverage_Compliance_Specialist` — Craft Beverage Compliance Specialist
+- `ATF_REG__Tobacco_Retail_License_Compliance_Specialist` — Tobacco Retail License Compliance Specialist
+- `ATF_REG__Tobacco_Enforcement_Penalty_Specialist` — Tobacco Enforcement / Penalty Specialist
+- `ATF_REG__FDA_Tobacco_Product_Registration_Specialist` — FDA Tobacco Product Registration Specialist (PMTA)
+- `ATF_REG__Substantial_Equivalence_Report_Analyst` — Substantial Equivalence (SE) Report Analyst
+- `ATF_REG__Modified_Risk_Tobacco_Product_Specialist` — Modified Risk Tobacco Product (MRTP) Specialist
+- `ATF_REG__Tobacco_Product_Ingredient_Disclosure_Specialist` — Tobacco Product Ingredient Disclosure Specialist
+- `ATF_REG__Master_Settlement_Agreement_Compliance_Analyst` — Master Settlement Agreement (MSA) Compliance Analyst
+- `ATF_REG__Tobacco_Advertising_Restriction_Compliance_Officer` — Tobacco Advertising Restriction Compliance Officer
+- `ATF_REG__Tobacco_Excise_Tax_Stamp_Compliance_Specialist` — Tobacco Excise Tax & Stamp Compliance Specialist
+- `ATF_REG__Tobacco_Wholesale_Distribution_Compliance_Specialist` — Tobacco Wholesale / Distribution Compliance Specialist
+- `ATF_REG__Age_Verification_Compliance_Specialist` — Age Verification Compliance Specialist (Tobacco 21+)
+- `ATF_REG__Youth_Tobacco_Prevention_Program_Specialist` — Youth Tobacco Prevention Program Specialist
+- `ATF_REG__Smokefree_Workplace_Compliance_Officer` — Smokefree Workplace Compliance Officer
+- `ATF_REG__Hookah_Lounge_Compliance_Specialist` — Hookah Lounge Compliance Specialist
+- `ATF_REG__Vape_Shop_License_Compliance_Specialist` — Vape Shop License & Compliance Specialist
+- `ATF_REG__Federal_Firearms_License_Compliance_Specialist` — Federal Firearms License (FFL) Compliance Specialist
+- `ATF_REG__ATF_Form_4473_Transaction_Compliance_Specialist` — ATF Form 4473 Transaction Compliance Specialist
+- `ATF_REG__FFL_Inspection_IOI_Compliance_Liaison` — FFL Inspection / IOI Compliance Liaison
+- `ATF_REG__California_DROS_Compliance_Specialist` — California DROS (Dealer Record of Sale) Compliance Specialist
+- `ATF_REG__Firearms_Safety_Certificate_Administration_Specialist` — Firearms Safety Certificate (FSC) Administration Specialist
+- `ATF_REG__California_Handgun_Roster_Compliance_Specialist` — California Handgun Roster Compliance Specialist
+- `ATF_REG__California_Assault_Weapon_Large_Capacity_Magazine_Compliance_Specialist` — California Assault Weapon / Large-Capacity Magazine Compliance Specialist
+- `ATF_REG__California_Ammunition_Purchase_Compliance_Specialist` — California Ammunition Purchase Compliance Specialist
+- `ATF_REG__Concealed_Carry_Permit_Compliance_Specialist` — Concealed Carry Permit (CCW) Compliance Specialist
+- `ATF_REG__Gun_Violence_Restraining_Order_Red_Flag_Compliance_Specialist` — Gun Violence Restraining Order (GVRO) / Red Flag Compliance Specialist
+- `ATF_REG__Prohibited_Person_Determination_Specialist` — Prohibited Person Determination Specialist
+- `ATF_REG__National_Firearms_Act_Compliance_Specialist` — National Firearms Act (NFA) Compliance Specialist
+- `ATF_REG__Curio_Relic_License_Compliance_Specialist` — Curio & Relic (C&R) License Compliance Specialist
+- `ATF_REG__Firearms_Manufacturer_Compliance_Specialist` — Firearms Manufacturer Compliance Specialist
+- `ATF_REG__ITAR_Firearms_Import_Export_Compliance_Specialist` — ITAR / Firearms Import-Export Compliance Specialist
+- `ATF_REG__3D_Printed_Firearms_Compliance_Specialist` — 3D-Printed Firearms Compliance Specialist
+- `ATF_REG__Firearms_Storage_Child_Access_Prevention_Compliance_Officer` — Firearms Storage & Child Access Prevention Compliance Officer
+- `ATF_REG__Firearms_Surrender_Recovery_Specialist` — Firearms Surrender & Recovery Specialist
+- `ATF_REG__ATF_Firearms_Trace_eTrace_Specialist` — ATF Firearms Trace / eTrace Specialist
+
+## Corrections / Probation / Reentry
+**Count:** 78
+
+- `CORRECTIONS__Booking_Officer` — Booking Officer
+- `CORRECTIONS__Classification_Officer_Counselor` — Classification Officer / Counselor
+- `CORRECTIONS__Reception_Center_Intake_Coordinator` — Reception Center Intake Coordinator (CDCR)
+- `CORRECTIONS__Correctional_Physician` — Correctional Physician (MD/DO)
+- `CORRECTIONS__Correctional_Psychiatrist` — Correctional Psychiatrist
+- `CORRECTIONS__Correctional_Psychologist` — Correctional Psychologist (PhD/PsyD)
+- `CORRECTIONS__Correctional_Nurse` — Correctional Nurse (RN/LVN)
+- `CORRECTIONS__Correctional_Dentist` — Correctional Dentist (DDS/DMD)
+- `CORRECTIONS__Suicide_Prevention_Coordinator` — Suicide Prevention Coordinator
+- `CORRECTIONS__Correctional_Officer` — Correctional Officer (Line Staff)
+- `CORRECTIONS__Correctional_Sergeant` — Correctional Sergeant (Shift Supervisor)
+- `CORRECTIONS__Use_of_Force_Review_Board_Member` — Use of Force Review Board Member
+- `CORRECTIONS__Rules_Violation_Report_Writer` — Rules Violation Report Writer (Correctional Officer)
+- `CORRECTIONS__Senior_Hearing_Officer_Disciplinary_Hearing_Officer` — Senior Hearing Officer (SHO) / Disciplinary Hearing Officer
+- `CORRECTIONS__Inmate_Appeals_Coordinator_Grievance_Coordinator` — Inmate Appeals Coordinator / Grievance Coordinator
+- `CORRECTIONS__PREA_Compliance_Manager` — PREA Compliance Manager
+- `CORRECTIONS__PREA_Investigator` — PREA Investigator
+- `CORRECTIONS__Inmate_Trust_Account_Officer` — Inmate Trust Account Officer
+- `CORRECTIONS__Commissary_Manager` — Commissary Manager
+- `CORRECTIONS__Mail_Room_Supervisor` — Mail Room Supervisor
+- `CORRECTIONS__Phone_Video_Monitoring_Analyst` — Phone/Video Monitoring Analyst
+- `CORRECTIONS__Gang_Intelligence_Officer_Security_Threat_Group_Coordinator` — Gang Intelligence Officer / Security Threat Group (STG) Coordinator
+- `CORRECTIONS__ADA_Coordinator` — ADA Coordinator (Custody)
+- `CORRECTIONS__Religious_Accommodation_Coordinator` — Religious Accommodation Coordinator
+- `CORRECTIONS__Immigration_Detainer_Coordinator` — Immigration Detainer Coordinator
+- `CORRECTIONS__Death_in_Custody_Investigator` — Death in Custody Investigator
+- `CORRECTIONS__Condemned_Inmate_Program_Coordinator` — Condemned Inmate Program Coordinator
+- `CORRECTIONS__Administrative_Segregation_Restricted_Housing_Reviewer` — Administrative Segregation / Restricted Housing Reviewer
+- `CORRECTIONS__Hunger_Strike_Coordinator` — Hunger Strike Coordinator
+- `CORRECTIONS__Private_Prison_Contract_Compliance_Monitor` — Private Prison Contract Compliance Monitor
+- `CORRECTIONS__Interstate_Corrections_Compact_Administrator` — Interstate Corrections Compact Administrator
+- `CORRECTIONS__Correctional_Education_Administrator` — Correctional Education Administrator
+- `CORRECTIONS__Inmate_Work_Program_Supervisor` — Inmate Work Program Supervisor
+- `CORRECTIONS__Probation_Officer_Pre_Sentence_Investigation` — Probation Officer -- Pre-Sentence Investigation (PSI)
+- `CORRECTIONS__Sentencing_Consultant_Mitigation_Specialist` — Sentencing Consultant / Mitigation Specialist
+- `CORRECTIONS__Probation_Officer_Adult_Supervision` — Probation Officer -- Adult Supervision (Felony)
+- `CORRECTIONS__Probation_Violation_Investigator` — Probation Violation Investigator
+- `CORRECTIONS__Mandatory_Supervision_Officer` — Mandatory Supervision Officer (PC 1170(h))
+- `CORRECTIONS__PRCS_Officer` — PRCS Officer (Post-Release Community Supervision)
+- `CORRECTIONS__Parole_Agent` — Parole Agent (CDCR Division of Adult Parole Operations -- DAPO)
+- `CORRECTIONS__Board_of_Parole_Hearings_Commissioner` — Board of Parole Hearings Commissioner
+- `CORRECTIONS__Parole_Board_Hearing_Attorney` — Parole Board Hearing Attorney (BPH Legal)
+- `CORRECTIONS__GPS_Electronic_Monitoring_Supervisor` — GPS/Electronic Monitoring Supervisor
+- `CORRECTIONS__Drug_Testing_Coordinator` — Drug Testing Coordinator (Probation/Parole)
+- `CORRECTIONS__Sex_Offender_Registration_Compliance_Officer` — Sex Offender Registration Compliance Officer
+- `CORRECTIONS__SARATSO_STATIC_99R_Assessor` — SARATSO/STATIC-99R Assessor
+- `CORRECTIONS__Sexually_Violent_Predator_Evaluator` — Sexually Violent Predator (SVP) Evaluator
+- `CORRECTIONS__Interstate_Compact_Transfer_Specialist` — Interstate Compact Transfer Specialist (ICAOS)
+- `CORRECTIONS__Juvenile_Probation_Officer` — Juvenile Probation Officer
+- `CORRECTIONS__Mental_Health_Diversion_Coordinator` — Mental Health Diversion Coordinator (PC 1001.36)
+- `CORRECTIONS__Veterans_Treatment_Court_Coordinator` — Veterans Treatment Court Coordinator
+- `CORRECTIONS__Collaborative_Court_Drug_Court_Coordinator` — Collaborative Court / Drug Court Coordinator
+- `CORRECTIONS__Victim_Services_Coordinator` — Victim Services Coordinator (Probation/Parole)
+- `CORRECTIONS__Early_Termination_of_Probation_Specialist` — Early Termination of Probation Specialist
+- `CORRECTIONS__Certificate_of_Rehabilitation_Analyst` — Certificate of Rehabilitation Analyst
+- `CORRECTIONS__Reentry_Case_Manager` — Reentry Case Manager
+- `CORRECTIONS__Transitional_Housing_Placement_Specialist` — Transitional Housing Placement Specialist
+- `CORRECTIONS__Employment_Readiness_Specialist` — Employment Readiness Specialist (Reentry)
+- `CORRECTIONS__GED_HiSET_Program_Coordinator` — GED/HiSET Program Coordinator (Custody/Reentry)
+- `CORRECTIONS__Vocational_Training_Instructor` — Vocational Training Instructor (Custody/Reentry)
+- `CORRECTIONS__Substance_Abuse_Treatment_Counselor` — Substance Abuse Treatment Counselor (Custody/Reentry)
+- `CORRECTIONS__Cognitive_Behavioral_Therapy_Program_Facilitator` — Cognitive Behavioral Therapy (CBT) Program Facilitator
+- `CORRECTIONS__Anger_Management_Program_Facilitator` — Anger Management Program Facilitator
+- `CORRECTIONS__Parenting_Program_Coordinator` — Parenting Program Coordinator
+- `CORRECTIONS__Expungement_Dismissal_Specialist` — Expungement / Dismissal Specialist (PC 1203.4)
+- `CORRECTIONS__Record_Sealing_Specialist` — Record Sealing Specialist (PC 851.91)
+- `CORRECTIONS__Proposition_47_Reclassification_Specialist` — Proposition 47 Reclassification Specialist
+- `CORRECTIONS__Proposition_36_Resentencing_Specialist` — Proposition 36 Resentencing Specialist
+- `CORRECTIONS__Compassionate_Release_Specialist` — Compassionate Release Specialist
+- `CORRECTIONS__Elderly_Parole_Youth_Offender_Parole_Specialist` — Elderly Parole / Youth Offender Parole Specialist
+- `CORRECTIONS__Governors_Pardon_Clemency_Application_Specialist` — Governor's Pardon / Clemency Application Specialist
+- `CORRECTIONS__Credit_Earning_Calculation_Specialist` — Credit Earning Calculation Specialist
+- `CORRECTIONS__Restorative_Justice_Program_Coordinator` — Restorative Justice Program Coordinator
+- `CORRECTIONS__Occupational_Licensing_Restoration_Specialist` — Occupational Licensing Restoration Specialist
+- `CORRECTIONS__Drivers_License_Restoration_Specialist` — Driver's License Restoration Specialist
+- `CORRECTIONS__Voting_Rights_Restoration_Specialist` — Voting Rights Restoration Specialist
+- `CORRECTIONS__Firearm_Rights_Restoration_Specialist` — Firearm Rights Restoration Specialist
+- `CORRECTIONS__Immigration_Consequences_Specialist` — Immigration Consequences Specialist (Padilla Compliance)
+
+## Disability / ADA / Workers Comp / OSHA
+**Count:** 64
+
+- `DISABILITY__ADA_FEHA_Employment_Attorney` — ADA/FEHA Employment Attorney
+- `DISABILITY__Equal_Employment_Opportunity_Specialist` — Equal Employment Opportunity Specialist
+- `DISABILITY__Human_Resources_Disability_Accommodation_Specialist` — Human Resources Disability Accommodation Specialist
+- `DISABILITY__Occupational_Medicine_Physician` — Occupational Medicine Physician (ADA Context)
+- `DISABILITY__ADA_Title_II_Compliance_Officer` — ADA Title II Compliance Officer
+- `DISABILITY__Accessibility_Consultant_Public_Accommodations` — Accessibility Consultant -- Public Accommodations
+- `DISABILITY__Architect_Accessible_Design` — Architect -- Accessible Design
+- `DISABILITY__Section_504_Coordinator` — Section 504 Coordinator
+- `DISABILITY__Special_Education_Director_IDEA_Compliance_Officer` — Special Education Director / IDEA Compliance Officer
+- `DISABILITY__Department_of_Rehabilitation_Counselor` — Department of Rehabilitation Counselor
+- `DISABILITY__Regional_Center_Service_Coordinator` — Regional Center Service Coordinator
+- `DISABILITY__Independent_Living_Specialist` — Independent Living Specialist
+- `DISABILITY__Assistive_Technology_Specialist` — Assistive Technology Specialist
+- `DISABILITY__Web_Accessibility_Specialist` — Web Accessibility Specialist
+- `DISABILITY__Telecommunications_Access_Specialist` — Telecommunications Access Specialist
+- `DISABILITY__Service_Animal_ESA_Compliance_Specialist` — Service Animal / ESA Compliance Specialist
+- `DISABILITY__Accessible_Parking_Program_Administrator` — Accessible Parking Program Administrator
+- `DISABILITY__ABLE_Account_Program_Administrator` — ABLE Account Program Administrator
+- `DISABILITY__Workers_Compensation_Claims_Examiner` — Workers Compensation Claims Examiner
+- `DISABILITY__Workers_Compensation_Insurance_Underwriter` — Workers Compensation Insurance Underwriter
+- `DISABILITY__Self_Insured_Employer_Program_Administrator` — Self-Insured Employer Program Administrator
+- `DISABILITY__Primary_Treating_Physician` — Primary Treating Physician (PTP)
+- `DISABILITY__Utilization_Review_Physician` — Utilization Review Physician
+- `DISABILITY__Independent_Medical_Review_Reviewer` — Independent Medical Review (IMR) Reviewer
+- `DISABILITY__Medical_Provider_Network_Administrator` — Medical Provider Network (MPN) Administrator
+- `DISABILITY__Qualified_Medical_Evaluator` — Qualified Medical Evaluator (QME)
+- `DISABILITY__Agreed_Medical_Evaluator` — Agreed Medical Evaluator (AME)
+- `DISABILITY__Disability_Evaluation_Specialist` — Disability Evaluation Specialist (DEU)
+- `DISABILITY__Vocational_Expert_Rehabilitation_Counselor` — Vocational Expert / Rehabilitation Counselor
+- `DISABILITY__Functional_Capacity_Evaluator` — Functional Capacity Evaluator
+- `DISABILITY__Workers_Compensation_Judge` — Workers Compensation Judge (WCJ)
+- `DISABILITY__Applicant_Attorney` — Applicant Attorney (Workers Compensation)
+- `DISABILITY__Defense_Attorney` — Defense Attorney (Workers Compensation)
+- `DISABILITY__Subrogation_Specialist` — Subrogation Specialist
+- `DISABILITY__Medicare_Set_Aside_Allocation_Specialist` — Medicare Set-Aside Allocation Specialist
+- `DISABILITY__Lien_Claimant_Representative` — Lien Claimant Representative
+- `DISABILITY__Death_Benefits_Claims_Specialist` — Death Benefits Claims Specialist
+- `DISABILITY__Serious_Willful_Misconduct_Attorney_Investigator` — Serious & Willful Misconduct Attorney/Investigator
+- `DISABILITY__Certified_Ergonomist` — Certified Ergonomist
+- `DISABILITY__Return_to_Work_Coordinator` — Return-to-Work Coordinator
+- `DISABILITY__Cal_OSHA_Compliance_Safety_and_Health_Officer` — Cal/OSHA Compliance Safety and Health Officer (CSHO)
+- `DISABILITY__Cal_OSHA_District_Manager` — Cal/OSHA District Manager
+- `DISABILITY__Occupational_Safety_and_Health_Appeals_Board_Judge` — Occupational Safety and Health Appeals Board (OSHAB) Judge
+- `DISABILITY__OSHA_Recordkeeping_Specialist` — OSHA Recordkeeping Specialist
+- `DISABILITY__Safety_Director_IIPP_Administrator` — Safety Director / IIPP Administrator
+- `DISABILITY__Workplace_Violence_Prevention_Plan_Administrator` — Workplace Violence Prevention Plan Administrator
+- `DISABILITY__Hazard_Communication_Program_Manager` — Hazard Communication Program Manager
+- `DISABILITY__Process_Safety_Management_Engineer` — Process Safety Management (PSM) Engineer
+- `DISABILITY__Lockout_Tagout_Program_Manager` — Lockout/Tagout (LOTO) Program Manager
+- `DISABILITY__Confined_Space_Entry_Program_Manager` — Confined Space Entry Program Manager
+- `DISABILITY__Fall_Protection_Program_Manager` — Fall Protection Program Manager
+- `DISABILITY__Respiratory_Protection_Program_Administrator` — Respiratory Protection Program Administrator
+- `DISABILITY__Hearing_Conservation_Program_Manager` — Hearing Conservation Program Manager
+- `DISABILITY__Bloodborne_Pathogen_Exposure_Control_Plan_Manager` — Bloodborne Pathogen Exposure Control Plan Manager
+- `DISABILITY__Heat_Illness_Prevention_Program_Manager` — Heat Illness Prevention Program Manager
+- `DISABILITY__Wildfire_Smoke_Protection_Program_Manager` — Wildfire Smoke Protection Program Manager
+- `DISABILITY__Personal_Protective_Equipment_Hazard_Assessment_Specialist` — Personal Protective Equipment (PPE) Hazard Assessment Specialist
+- `DISABILITY__Emergency_Action_Plan_Fire_Prevention_Plan_Manager` — Emergency Action Plan (EAP) / Fire Prevention Plan Manager
+- `DISABILITY__Ergonomics_Program_Manager` — Ergonomics Program Manager (OSHA Context)
+- `DISABILITY__Job_Hazard_Analysis_Specialist` — Job Hazard Analysis (JHA) Specialist
+- `DISABILITY__Cal_OSHA_Consultation_Service_Specialist` — Cal/OSHA Consultation Service Specialist
+- `DISABILITY__Variance_Application_Specialist` — Variance Application Specialist
+- `DISABILITY__Certified_Safety_Professional` — Certified Safety Professional (CSP)
+- `DISABILITY__Certified_Industrial_Hygienist` — Certified Industrial Hygienist (CIH)
+
+## Journalism / PR / Advertising
+**Count:** 0
+
+
+## Bioethics / Genetics / Transplant
+**Count:** 0
+
+
+## Civil Rights / Human Rights / Whistleblower
+**Count:** 75
+
+- `CIVIL_RTS__EEOC_Investigator` — EEOC Investigator
+- `CIVIL_RTS__Title_VII_Compliance_Officer` — Title VII Compliance Officer
+- `CIVIL_RTS__Workplace_Mediator` — Workplace Mediator (EEOC)
+- `CIVIL_RTS__Title_IX_Coordinator` — Title IX Coordinator
+- `CIVIL_RTS__Title_IX_Investigator` — Title IX Investigator
+- `CIVIL_RTS__Clery_Act_Compliance_Officer` — Clery Act Compliance Officer
+- `CIVIL_RTS__Section_1983_Civil_Rights_Attorney` — Section 1983 Civil Rights Attorney
+- `CIVIL_RTS__Qualified_Immunity_Analyst` — Qualified Immunity Analyst
+- `CIVIL_RTS__Monell_Liability_Analyst` — Monell Liability Analyst
+- `CIVIL_RTS__Bivens_Action_Attorney` — Bivens Action Attorney
+- `CIVIL_RTS__Fair_Housing_Investigator` — Fair Housing Investigator
+- `CIVIL_RTS__Fair_Housing_Testing_Coordinator` — Fair Housing Testing Coordinator
+- `CIVIL_RTS__ADA_Compliance_Specialist` — ADA Compliance Specialist
+- `CIVIL_RTS__Architectural_Access_Compliance_Surveyor` — Architectural Access Compliance Surveyor
+- `CIVIL_RTS__Voting_Rights_Enforcement_Attorney` — Voting Rights Enforcement Attorney
+- `CIVIL_RTS__Equal_Protection_Constitutional_Analyst` — Equal Protection Constitutional Analyst
+- `CIVIL_RTS__First_Amendment_Retaliation_Attorney` — First Amendment Retaliation Attorney
+- `CIVIL_RTS__DOJ_Pattern_or_Practice_Investigator` — DOJ Pattern or Practice Investigator
+- `CIVIL_RTS__Police_Misconduct_Investigator` — Police Misconduct Investigator (Internal Affairs)
+- `CIVIL_RTS__Consent_Decree_Monitor` — Consent Decree Monitor
+- `CIVIL_RTS__Civilian_Oversight_Board_Investigator` — Civilian Oversight Board Investigator
+- `CIVIL_RTS__Racial_Profiling_Data_Analyst` — Racial Profiling Data Analyst
+- `CIVIL_RTS__Language_Access_Compliance_Officer` — Language Access Compliance Officer
+- `CIVIL_RTS__Prison_Conditions_Litigator` — Prison Conditions Litigator
+- `CIVIL_RTS__Immigration_Detention_Conditions_Monitor` — Immigration Detention Conditions Monitor
+- `CIVIL_RTS__Custodial_Search_Compliance_Auditor` — Custodial Search Compliance Auditor
+- `CIVIL_RTS__Solitary_Confinement_Review_Specialist` — Solitary Confinement Review Specialist
+- `CIVIL_RTS__School_Desegregation_Compliance_Monitor` — School Desegregation Compliance Monitor
+- `CIVIL_RTS__Environmental_Justice_Investigator` — Environmental Justice Investigator
+- `CIVIL_RTS__Hate_Crime_Investigator` — Hate Crime Investigator
+- `CIVIL_RTS__Use_of_Force_Analyst` — Use of Force Analyst
+- `CIVIL_RTS__Wrongful_Conviction_Innocence_Attorney` — Wrongful Conviction / Innocence Attorney
+- `CIVIL_RTS__UN_Human_Rights_Council_Complaint_Specialist` — UN Human Rights Council Complaint Specialist
+- `CIVIL_RTS__Treaty_Body_Reporting_Specialist` — Treaty Body Reporting Specialist
+- `CIVIL_RTS__Inter_American_Commission_Petition_Specialist` — Inter-American Commission Petition Specialist
+- `CIVIL_RTS__Human_Trafficking_Investigator` — Human Trafficking Investigator
+- `CIVIL_RTS__Anti_Trafficking_Compliance_Auditor` — Anti-Trafficking Compliance Auditor (Corporate)
+- `CIVIL_RTS__Forced_Labor_Investigator` — Forced Labor Investigator
+- `CIVIL_RTS__Child_Labor_Compliance_Monitor` — Child Labor Compliance Monitor
+- `CIVIL_RTS__Conflict_Minerals_Due_Diligence_Analyst` — Conflict Minerals Due Diligence Analyst
+- `CIVIL_RTS__Corporate_Human_Rights_Impact_Assessor` — Corporate Human Rights Impact Assessor
+- `CIVIL_RTS__Magnitsky_Sanctions_Analyst` — Magnitsky Sanctions Analyst
+- `CIVIL_RTS__War_Crimes_Investigator` — War Crimes Investigator
+- `CIVIL_RTS__Genocide_Documentation_Specialist` — Genocide Documentation Specialist
+- `CIVIL_RTS__Refugee_Status_Determination_Officer` — Refugee Status Determination Officer
+- `CIVIL_RTS__Country_Conditions_Expert` — Country Conditions Expert
+- `CIVIL_RTS__Istanbul_Protocol_Medical_Examiner` — Istanbul Protocol Medical Examiner
+- `CIVIL_RTS__Enforced_Disappearance_Investigator` — Enforced Disappearance Investigator
+- `CIVIL_RTS__Extrajudicial_Killing_Investigator` — Extrajudicial Killing Investigator
+- `CIVIL_RTS__Indigenous_Rights_Investigator` — Indigenous Rights Investigator
+- `CIVIL_RTS__CRPD_Compliance_Analyst` — CRPD Compliance Analyst
+- `CIVIL_RTS__Childrens_Rights_Investigator` — Children's Rights Investigator
+- `CIVIL_RTS__CEDAW_Compliance_Analyst` — CEDAW Compliance Analyst
+- `CIVIL_RTS__LGBTQ_Rights_Investigator` — LGBTQ+ Rights Investigator
+- `CIVIL_RTS__Qui_Tam_Relators_Attorney` — Qui Tam Relator's Attorney
+- `CIVIL_RTS__Government_Intervention_Attorney` — Government Intervention Attorney (DOJ)
+- `CIVIL_RTS__Qui_Tam_Seal_Compliance_Officer` — Qui Tam Seal Compliance Officer
+- `CIVIL_RTS__SEC_Whistleblower_Attorney` — SEC Whistleblower Attorney
+- `CIVIL_RTS__SOX_Whistleblower_Compliance_Specialist` — SOX Whistleblower Compliance Specialist
+- `CIVIL_RTS__IRS_Whistleblower_Attorney` — IRS Whistleblower Attorney
+- `CIVIL_RTS__OSHA_Whistleblower_Investigator` — OSHA Whistleblower Investigator
+- `CIVIL_RTS__California_Whistleblower_Attorney` — California Whistleblower Attorney
+- `CIVIL_RTS__Healthcare_Fraud_Relators_Attorney` — Healthcare Fraud Relator's Attorney
+- `CIVIL_RTS__Defense_Contractor_Fraud_Whistleblower_Attorney` — Defense Contractor Fraud Whistleblower Attorney
+- `CIVIL_RTS__Environmental_Whistleblower_Attorney` — Environmental Whistleblower Attorney
+- `CIVIL_RTS__Nuclear_Whistleblower_Attorney` — Nuclear Whistleblower Attorney
+- `CIVIL_RTS__Aviation_Safety_Whistleblower_Attorney` — Aviation Safety Whistleblower Attorney
+- `CIVIL_RTS__Pipeline_Safety_Whistleblower_Attorney` — Pipeline Safety Whistleblower Attorney
+- `CIVIL_RTS__Motor_Vehicle_Safety_Whistleblower_Attorney` — Motor Vehicle Safety Whistleblower Attorney
+- `CIVIL_RTS__Consumer_Product_Safety_Whistleblower_Attorney` — Consumer Product Safety Whistleblower Attorney
+- `CIVIL_RTS__Whistleblower_Identity_Protection_Specialist` — Whistleblower Identity Protection Specialist
+- `CIVIL_RTS__Anti_Retaliation_Investigation_Specialist` — Anti-Retaliation Investigation Specialist
+- `CIVIL_RTS__Corporate_Compliance_Program_Specialist` — Corporate Compliance Program Specialist
+- `CIVIL_RTS__EU_Whistleblower_Directive_Compliance_Officer` — EU Whistleblower Directive Compliance Officer
+- `CIVIL_RTS__Whistleblower_Award_Specialist` — Whistleblower Award Specialist
+
+## Blockchain / FinTech / Crowdfunding
+**Count:** 64
+
+- `FINTECH__Crypto_Money_Transmitter_Compliance_Officer` — Crypto Money Transmitter Compliance Officer
+- `FINTECH__FinCEN_MSB_Registration_Specialist` — FinCEN MSB Registration Specialist
+- `FINTECH__State_Virtual_Currency_License_Administrator` — State Virtual Currency License Administrator (BitLicense/DFPI)
+- `FINTECH__Cryptocurrency_KYC_AML_Compliance_Analyst` — Cryptocurrency KYC/AML Compliance Analyst
+- `FINTECH__Suspicious_Activity_Report_Filing_Specialist` — Suspicious Activity Report (SAR) Filing Specialist
+- `FINTECH__Travel_Rule_Compliance_Officer` — Travel Rule Compliance Officer
+- `FINTECH__OFAC_Sanctions_Screening_Specialist` — OFAC Sanctions Screening Specialist (Digital Assets)
+- `FINTECH__Token_Classification_Attorney_Howey_Analysis_Counsel` — Token Classification Attorney / Howey Analysis Counsel
+- `FINTECH__Security_Token_Offering_Compliance_Officer` — Security Token Offering (STO) Compliance Officer
+- `FINTECH__White_Paper_Token_Disclosure_Specialist` — White Paper / Token Disclosure Specialist
+- `FINTECH__Cryptocurrency_Tax_Compliance_Specialist` — Cryptocurrency Tax Compliance Specialist
+- `FINTECH__Digital_Asset_Broker_Reporting_Compliance_Officer` — Digital Asset Broker Reporting Compliance Officer
+- `FINTECH__Smart_Contract_Auditor` — Smart Contract Auditor
+- `FINTECH__DeFi_Protocol_Compliance_Analyst` — DeFi Protocol Compliance Analyst
+- `FINTECH__DeFi_Lending_Borrowing_Compliance_Specialist` — DeFi Lending/Borrowing Compliance Specialist
+- `FINTECH__Proof_of_Stake_Validator_Compliance_Specialist` — Proof of Stake Validator Compliance Specialist
+- `FINTECH__Cryptocurrency_Mining_Compliance_Specialist` — Cryptocurrency Mining Compliance Specialist
+- `FINTECH__Qualified_Digital_Asset_Custodian` — Qualified Digital Asset Custodian
+- `FINTECH__Digital_Asset_Insurance_Specialist` — Digital Asset Insurance Specialist
+- `FINTECH__NFT_Legal_and_Compliance_Specialist` — NFT Legal and Compliance Specialist
+- `FINTECH__Stablecoin_Reserve_Attestation_Specialist` — Stablecoin Reserve Attestation Specialist
+- `FINTECH__Blockchain_Forensic_Analyst` — Blockchain Forensic Analyst
+- `FINTECH__Wallet_Recovery_and_Key_Management_Specialist` — Wallet Recovery and Key Management Specialist
+- `FINTECH__DAO_Legal_Structuring_Specialist` — DAO Legal Structuring Specialist
+- `FINTECH__Cross_Border_Digital_Asset_Transfer_Compliance_Officer` — Cross-Border Digital Asset Transfer Compliance Officer
+- `FINTECH__Digital_Asset_Bankruptcy_Specialist` — Digital Asset Bankruptcy Specialist
+- `FINTECH__Proof_of_Reserves_Auditor_Attestation_Specialist` — Proof of Reserves Auditor / Attestation Specialist
+- `FINTECH__Crypto_Advertising_Compliance_Specialist` — Crypto Advertising Compliance Specialist
+- `FINTECH__BaaS_Partnership_Compliance_Officer` — BaaS Partnership Compliance Officer
+- `FINTECH__OCC_Special_Purpose_National_Bank_Charter_Compliance_Officer` — OCC Special Purpose National Bank Charter Compliance Officer
+- `FINTECH__Third_Party_Fintech_Risk_Manager` — Third-Party Fintech Risk Manager
+- `FINTECH__PCI_DSS_Qualified_Security_Assessor` — PCI-DSS Qualified Security Assessor
+- `FINTECH__ACH_NACHA_Compliance_Officer` — ACH/NACHA Compliance Officer
+- `FINTECH__Real_Time_Payments_Compliance_Specialist` — Real-Time Payments (RTP/FedNow) Compliance Specialist
+- `FINTECH__Payment_Facilitator_Compliance_Officer` — Payment Facilitator (PayFac) Compliance Officer
+- `FINTECH__Digital_Wallet_Compliance_Officer` — Digital Wallet Compliance Officer
+- `FINTECH__Prepaid_Access_Stored_Value_Compliance_Specialist` — Prepaid Access / Stored Value Compliance Specialist
+- `FINTECH__Embedded_Finance_Compliance_Officer` — Embedded Finance Compliance Officer
+- `FINTECH__Buy_Now_Pay_Later_Compliance_Officer` — Buy Now Pay Later (BNPL) Compliance Officer
+- `FINTECH__Earned_Wage_Access_Compliance_Specialist` — Earned Wage Access (EWA) Compliance Specialist
+- `FINTECH__Robo_Advisor_Compliance_Officer` — Robo-Advisor Compliance Officer
+- `FINTECH__AI_Credit_Decisioning_Compliance_Officer` — AI Credit Decisioning Compliance Officer
+- `FINTECH__Regtech_Solution_Compliance_Officer` — Regtech Solution Compliance Officer
+- `FINTECH__Regulatory_Sandbox_Program_Manager` — Regulatory Sandbox Program Manager
+- `FINTECH__Open_Banking_API_Compliance_Officer` — Open Banking / API Compliance Officer
+- `FINTECH__Cross_Border_Remittance_Compliance_Officer` — Cross-Border Remittance Compliance Officer
+- `FINTECH__Regulation_CF_Portal_Compliance_Officer` — Regulation CF Portal Compliance Officer
+- `FINTECH__Regulation_CF_Issuer_Compliance_Specialist` — Regulation CF Issuer Compliance Specialist
+- `FINTECH__Regulation_A_Offering_Compliance_Officer` — Regulation A+ Offering Compliance Officer
+- `FINTECH__Regulation_D_Private_Placement_Compliance_Officer` — Regulation D Private Placement Compliance Officer
+- `FINTECH__Accredited_Investor_Verification_Specialist` — Accredited Investor Verification Specialist
+- `FINTECH__Blue_Sky_Compliance_Specialist` — Blue Sky Compliance Specialist
+- `FINTECH__P2P_Lending_Platform_Compliance_Officer` — P2P Lending Platform Compliance Officer
+- `FINTECH__Merchant_Cash_Advance_Compliance_Specialist` — Merchant Cash Advance (MCA) Compliance Specialist
+- `FINTECH__Revenue_Based_Financing_Compliance_Specialist` — Revenue-Based Financing Compliance Specialist
+- `FINTECH__Accounts_Receivable_Factoring_Compliance_Specialist` — Accounts Receivable Factoring Compliance Specialist
+- `FINTECH__Equipment_Financing_Compliance_Specialist` — Equipment Financing Compliance Specialist
+- `FINTECH__CDFI_Compliance_Officer` — CDFI (Community Development Financial Institution) Compliance Officer
+- `FINTECH__Qualified_Opportunity_Zone_Fund_Compliance_Officer` — Qualified Opportunity Zone Fund Compliance Officer
+- `FINTECH__SBIC_Compliance_Officer` — SBIC (Small Business Investment Company) Compliance Officer
+- `FINTECH__Venture_Capital_Fund_Compliance_Officer` — Venture Capital Fund Compliance Officer
+- `FINTECH__Real_Estate_Crowdfunding_Platform_Compliance_Officer` — Real Estate Crowdfunding Platform Compliance Officer
+- `FINTECH__Donor_Rewards_Crowdfunding_Platform_Compliance_Officer` — Donor/Rewards Crowdfunding Platform Compliance Officer
+- `FINTECH__ESG_Green_Bond_Compliance_Specialist` — ESG / Green Bond Compliance Specialist
+
+## California Local / Unique Laws
+**Count:** 0
+
+
+## Mental Health / Substance / Developmental
+**Count:** 62
+
+- `MH__Designated_5150_Evaluator` — Designated 5150 Evaluator (Licensed Professional)
+- `MH__Certification_Review_Hearing_Officer` — Certification Review Hearing Officer
+- `MH__5585_Evaluator` — 5585 Evaluator (Minor Involuntary Hold)
+- `MH__LPS_Conservatorship_Investigator` — LPS Conservatorship Investigator
+- `MH__Riese_Hearing_Judge_Hearing_Officer` — Riese Hearing Judge / Hearing Officer
+- `MH__Mental_Health_Court_Judge` — Mental Health Court Judge
+- `MH__Forensic_Psychiatrist_Psychologist` — Forensic Psychiatrist / Psychologist (NGI/MDO/SVP)
+- `MH__Competency_Restoration_Program_Director` — Competency Restoration Program Director
+- `MH__Lauras_Law_Coordinator` — Laura's Law (AOT) Coordinator
+- `MH__CARE_Act_Court_Coordinator_CARE_Supporter` — CARE Act Court Coordinator / CARE Supporter
+- `MH__Psychiatric_Health_Facility_Administrator` — Psychiatric Health Facility (PHF) Administrator
+- `MH__Institution_for_Mental_Disease_Administrator` — Institution for Mental Disease (IMD) Administrator
+- `MH__Crisis_Stabilization_Unit_Director` — Crisis Stabilization Unit (CSU) Director
+- `MH__Mobile_Crisis_Team_Leader` — Mobile Crisis Team Leader
+- `MH__Mental_Health_Advance_Directive_Facilitator` — Mental Health Advance Directive Facilitator
+- `MH__Patients_Rights_Advocate` — Patients' Rights Advocate
+- `MH__MHSA_Program_Manager` — MHSA Program Manager
+- `MH__Mental_Health_Parity_Compliance_Officer` — Mental Health Parity Compliance Officer
+- `MH__Psychotropic_Medication_Consent_Monitor` — Psychotropic Medication Consent Monitor (Minors)
+- `MH__Tarasoff_Compliance_Officer_Risk_Manager` — Tarasoff Compliance Officer / Risk Manager
+- `MH__Certified_Peer_Support_Specialist` — Certified Peer Support Specialist
+- `MH__Community_Mental_Health_Center_Director` — Community Mental Health Center Director
+- `MH__State_Hospital_Administrator` — State Hospital Administrator
+- `MH__DHCS_SUD_Program_Licensing_Administrator` — DHCS SUD Program Licensing Administrator
+- `MH__Residential_Treatment_Facility_Administrator` — Residential Treatment Facility Administrator
+- `MH__Narcotic_Treatment_Program_Medical_Director` — Narcotic Treatment Program (NTP/OTP) Medical Director
+- `MH__42_CFR_Part_2_Privacy_Officer` — 42 CFR Part 2 Privacy Officer
+- `MH__ASAM_Criteria_Assessor_Utilization_Manager` — ASAM Criteria Assessor / Utilization Manager
+- `MH__Drug_Testing_Toxicology_Compliance_Officer` — Drug Testing / Toxicology Compliance Officer
+- `MH__Drug_Court_Program_Coordinator` — Drug Court Program Coordinator
+- `MH__DUI_Program_Administrator` — DUI Program Administrator
+- `MH__Withdrawal_Management_Facility_Medical_Director` — Withdrawal Management (Detox) Facility Medical Director
+- `MH__Harm_Reduction_Program_Director` — Harm Reduction Program Director
+- `MH__Naloxone_Distribution_Program_Coordinator` — Naloxone Distribution Program Coordinator
+- `MH__SUD_Counselor` — SUD Counselor (CCAPP/CAADE Certified)
+- `MH__Peer_Recovery_Support_Specialist` — Peer Recovery Support Specialist (SUD)
+- `MH__Recovery_Residence_Operator_NARR_Certified_Administrator` — Recovery Residence Operator / NARR-Certified Administrator
+- `MH__Perinatal_SUD_Treatment_Program_Director` — Perinatal SUD Treatment Program Director
+- `MH__Adolescent_SUD_Treatment_Program_Director` — Adolescent SUD Treatment Program Director
+- `MH__Co_Occurring_Disorder_Treatment_Specialist` — Co-Occurring Disorder Treatment Specialist
+- `MH__Contingency_Management_Program_Administrator` — Contingency Management Program Administrator
+- `MH__Regional_Center_Service_Coordinator` — Regional Center Service Coordinator
+- `MH__Regional_Center_Eligibility_Specialist` — Regional Center Eligibility Specialist
+- `MH__Self_Determination_Program_Facilitator` — Self-Determination Program Facilitator
+- `MH__Consumer_Rights_Advocate` — Consumer Rights Advocate (Developmental Services)
+- `MH__Vendored_Service_Provider_Compliance_Officer` — Vendored Service Provider Compliance Officer
+- `MH__Community_Care_Facility_Administrator` — Community Care Facility (DD Residential) Administrator
+- `MH__Day_Program_Activity_Center_Director` — Day Program / Activity Center Director
+- `MH__Supported_Employment_Specialist` — Supported Employment Specialist
+- `MH__Supported_Living_Services_Coordinator` — Supported Living Services (SLS) Coordinator
+- `MH__Early_Start_Coordinator` — Early Start (Early Intervention) Coordinator
+- `MH__Transition_Planning_Specialist` — Transition Planning Specialist (Age 14-22)
+- `MH__Behavior_Analyst_DD_Population` — Behavior Analyst (BCBA) — DD Population
+- `MH__Restraint_Seclusion_Compliance_Monitor` — Restraint/Seclusion Compliance Monitor
+- `MH__Abuse_Neglect_Investigator` — Abuse/Neglect Investigator (Regional Center)
+- `MH__Provider_Quality_Assurance_Reviewer` — Provider Quality Assurance Reviewer
+- `MH__Fair_Hearing_Specialist_Administrative_Law_Judge` — Fair Hearing Specialist / Administrative Law Judge (DD)
+- `MH__Limited_Conservatorship_Investigator` — Limited Conservatorship Investigator (DD)
+- `MH__Supported_Decision_Making_Agreement_Facilitator` — Supported Decision-Making Agreement Facilitator
+- `MH__Self_Advocacy_Program_Coordinator` — Self-Advocacy Program Coordinator
+- `MH__Family_Resource_Center_Coordinator` — Family Resource Center Coordinator
+- `MH__Independent_Living_Skills_Trainer` — Independent Living Skills (ILS) Trainer
+
+## Hotels / Tourism / Events
+**Count:** 0
+
+
+## California State Departments
+**Count:** 64
+
+- `CA_STATE__ABC_LICENSE_AUDITOR` — ABC-LICENSE-AUDITOR
+- `CA_STATE__ABC_ENFORCEMENT_AUDITOR` — ABC-ENFORCEMENT-AUDITOR
+- `CA_STATE__DOJ_CLETS_AUDITOR` — DOJ-CLETS-AUDITOR
+- `CA_STATE__DOJ_FIREARMS_AUDITOR` — DOJ-FIREARMS-AUDITOR
+- `CA_STATE__DOJ_CHARITABLETRUST_AUDITOR` — DOJ-CHARITABLETRUST-AUDITOR
+- `CA_STATE__BOE_ASSESSMENT_AUDITOR` — BOE-ASSESSMENT-AUDITOR
+- `CA_STATE__BOE_PIPELINE_AUDITOR` — BOE-PIPELINE-AUDITOR
+- `CA_STATE__BAR_DISCIPLINE_AUDITOR` — BAR-DISCIPLINE-AUDITOR
+- `CA_STATE__BAR_ADMISSION_AUDITOR` — BAR-ADMISSION-AUDITOR
+- `CA_STATE__CALFIRE_THP_AUDITOR` — CALFIRE-THP-AUDITOR
+- `CA_STATE__CALFIRE_INVESTIGATION_AUDITOR` — CALFIRE-INVESTIGATION-AUDITOR
+- `CA_STATE__CALHR_CLASSIFICATION_AUDITOR` — CALHR-CLASSIFICATION-AUDITOR
+- `CA_STATE__CALHR_EXAM_AUDITOR` — CALHR-EXAM-AUDITOR
+- `CA_STATE__CALPERS_RETIREMENT_AUDITOR` — CALPERS-RETIREMENT-AUDITOR
+- `CA_STATE__CALPERS_EMPLOYER_AUDITOR` — CALPERS-EMPLOYER-AUDITOR
+- `CA_STATE__CALSTRS_BENEFIT_AUDITOR` — CALSTRS-BENEFIT-AUDITOR
+- `CA_STATE__CALSTRS_EMPLOYER_AUDITOR` — CALSTRS-EMPLOYER-AUDITOR
+- `CA_STATE__CARB_EMISSIONS_AUDITOR` — CARB-EMISSIONS-AUDITOR
+- `CA_STATE__CARB_VEHICLE_AUDITOR` — CARB-VEHICLE-AUDITOR
+- `CA_STATE__DCC_LICENSE_AUDITOR` — DCC-LICENSE-AUDITOR
+- `CA_STATE__DCC_TRACKANDTRACE_AUDITOR` — DCC-TRACKANDTRACE-AUDITOR
+- `CA_STATE__CDE_LCAP_AUDITOR` — CDE-LCAP-AUDITOR
+- `CA_STATE__CDE_CHARTER_AUDITOR` — CDE-CHARTER-AUDITOR
+- `CA_STATE__CDCR_CLASSIFICATION_AUDITOR` — CDCR-CLASSIFICATION-AUDITOR
+- `CA_STATE__CDCR_BPH_AUDITOR` — CDCR-BPH-AUDITOR
+- `CA_STATE__CDCR_HEALTHCARE_AUDITOR` — CDCR-HEALTHCARE-AUDITOR
+- `CA_STATE__CDPH_VITALRECORDS_AUDITOR` — CDPH-VITALRECORDS-AUDITOR
+- `CA_STATE__CDPH_FACILITYLICENSING_AUDITOR` — CDPH-FACILITYLICENSING-AUDITOR
+- `CA_STATE__CDSS_BENEFITS_AUDITOR` — CDSS-BENEFITS-AUDITOR
+- `CA_STATE__CDSS_CCL_AUDITOR` — CDSS-CCL-AUDITOR
+- `CA_STATE__CDSS_CHILDWELFARE_AUDITOR` — CDSS-CHILDWELFARE-AUDITOR
+- `CA_STATE__CDTFA_AUDIT_AUDITOR` — CDTFA-AUDIT-AUDITOR
+- `CA_STATE__CDTFA_APPEALS_AUDITOR` — CDTFA-APPEALS-AUDITOR
+- `CA_STATE__SCO_UNCLAIMEDPROPERTY_AUDITOR` — SCO-UNCLAIMEDPROPERTY-AUDITOR
+- `CA_STATE__SCO_MANDATES_AUDITOR` — SCO-MANDATES-AUDITOR
+- `CA_STATE__CCC_CDP_AUDITOR` — CCC-CDP-AUDITOR
+- `CA_STATE__CCC_ENFORCEMENT_AUDITOR` — CCC-ENFORCEMENT-AUDITOR
+- `CA_STATE__CSLB_LICENSE_AUDITOR` — CSLB-LICENSE-AUDITOR
+- `CA_STATE__CSLB_ENFORCEMENT_AUDITOR` — CSLB-ENFORCEMENT-AUDITOR
+- `CA_STATE__CPUC_RATECASE_AUDITOR` — CPUC-RATECASE-AUDITOR
+- `CA_STATE__CPUC_SAFETY_AUDITOR` — CPUC-SAFETY-AUDITOR
+- `CA_STATE__CPUC_COMPLAINT_AUDITOR` — CPUC-COMPLAINT-AUDITOR
+- `CA_STATE__DCA_LICENSING_AUDITOR` — DCA-LICENSING-AUDITOR
+- `CA_STATE__DCA_ENFORCEMENT_AUDITOR` — DCA-ENFORCEMENT-AUDITOR
+- `CA_STATE__DOF_BUDGET_AUDITOR` — DOF-BUDGET-AUDITOR
+- `CA_STATE__DOF_FISCALOVERSIGHT_AUDITOR` — DOF-FISCALOVERSIGHT-AUDITOR
+- `CA_STATE__DFPI_LICENSING_AUDITOR` — DFPI-LICENSING-AUDITOR
+- `CA_STATE__DFPI_ENFORCEMENT_AUDITOR` — DFPI-ENFORCEMENT-AUDITOR
+- `CA_STATE__DHCS_ELIGIBILITY_AUDITOR` — DHCS-ELIGIBILITY-AUDITOR
+- `CA_STATE__DHCS_PROVIDER_AUDITOR` — DHCS-PROVIDER-AUDITOR
+- `CA_STATE__DIR_PREVAILINGWAGE_AUDITOR` — DIR-PREVAILINGWAGE-AUDITOR
+- `CA_STATE__DIR_OSHA_AUDITOR` — DIR-OSHA-AUDITOR
+- `CA_STATE__DLSE_WAGECLAIM_AUDITOR` — DLSE-WAGECLAIM-AUDITOR
+- `CA_STATE__DLSE_RETALIATION_AUDITOR` — DLSE-RETALIATION-AUDITOR
+- `CA_STATE__DMV_DRIVERRECORD_AUDITOR` — DMV-DRIVERRECORD-AUDITOR
+- `CA_STATE__DMV_VEHICLETITLE_AUDITOR` — DMV-VEHICLETITLE-AUDITOR
+- `CA_STATE__DMV_OCCUPATIONAL_AUDITOR` — DMV-OCCUPATIONAL-AUDITOR
+- `CA_STATE__DRE_LICENSE_AUDITOR` — DRE-LICENSE-AUDITOR
+- `CA_STATE__DRE_TRUSTFUND_AUDITOR` — DRE-TRUSTFUND-AUDITOR
+- `CA_STATE__DRE_SUBDIVISION_AUDITOR` — DRE-SUBDIVISION-AUDITOR
+- `CA_STATE__DTSC_PERMIT_AUDITOR` — DTSC-PERMIT-AUDITOR
+- `CA_STATE__DTSC_CLEANUP_AUDITOR` — DTSC-CLEANUP-AUDITOR
+- `CA_STATE__DWC_CLAIMS_AUDITOR` — DWC-CLAIMS-AUDITOR
+- `CA_STATE__DWC_MEDICAL_AUDITOR` — DWC-MEDICAL-AUDITOR
+
+## HR / Payroll / Workplace
+**Count:** 30
+
+- `HR__EEO_OFCCP_Compliance_Specialist` — EEO/OFCCP Compliance Specialist
+- `HR__Background_Check_FCRA_Compliance_Specialist` — Background Check / FCRA Compliance Specialist
+- `HR__Immigration_I_9_E_Verify_Compliance_Specialist` — Immigration / I-9 / E-Verify Compliance Specialist
+- `HR__Talent_Acquisition_Offer_Letter_Compliance_Specialist` — Talent Acquisition / Offer Letter Compliance Specialist
+- `HR__HR_Records_Personnel_File_Compliance_Manager` — HR Records / Personnel File Compliance Manager
+- `HR__Employee_Handbook_Policy_Compliance_Specialist` — Employee Handbook / Policy Compliance Specialist
+- `HR__Performance_Management_Documentation_Specialist` — Performance Management / Documentation Specialist
+- `HR__Workplace_Investigations_Specialist` — Workplace Investigations Specialist
+- `HR__Reduction_in_Force_WARN_Act_Compliance_Specialist` — Reduction in Force / WARN Act Compliance Specialist
+- `HR__Unemployment_Insurance_Separation_Compliance_Specialist` — Unemployment Insurance / Separation Compliance Specialist
+- `HR__Non_Compete_Restrictive_Covenant_Compliance_Attorney` — Non-Compete / Restrictive Covenant Compliance Attorney
+- `HR__Pay_Equity_Compensation_Compliance_Analyst` — Pay Equity / Compensation Compliance Analyst
+- `HR__Payroll_Manager_Wage_and_Hour_Compliance_Specialist` — Payroll Manager / Wage and Hour Compliance Specialist
+- `HR__FLSA_Exemption_Classification_Compliance_Analyst` — FLSA Exemption / Classification Compliance Analyst
+- `HR__Payroll_Tax_Compliance_Specialist` — Payroll Tax Compliance Specialist
+- `HR__Garnishment_Wage_Withholding_Compliance_Specialist` — Garnishment / Wage Withholding Compliance Specialist
+- `HR__ERISA_Employee_Benefits_Compliance_Attorney` — ERISA / Employee Benefits Compliance Attorney
+- `HR__PBGC_Defined_Benefit_Plan_Compliance_Specialist` — PBGC / Defined Benefit Plan Compliance Specialist
+- `HR__COBRA_Administration_Compliance_Specialist` — COBRA Administration Compliance Specialist
+- `HR__Health_Plan_HIPAA_Compliance_Administrator` — Health Plan / HIPAA Compliance Administrator
+- `HR__Qualified_Domestic_Relations_Order_Compliance_Specialist` — Qualified Domestic Relations Order (QDRO) Compliance Specialist
+- `HR__Deferred_Compensation_IRC_409A_Compliance_Specialist` — Deferred Compensation / IRC 409A Compliance Specialist
+- `HR__Leave_of_Absence_FMLA_CFRA_PDL_ADA_Compliance_Administrator` — Leave of Absence / FMLA-CFRA-PDL-ADA Compliance Administrator
+- `HR__Sexual_Harassment_Prevention_Training_Compliance_Specialist` — Sexual Harassment Prevention Training Compliance Specialist
+- `HR__Workplace_Violence_Prevention_Plan_Compliance_Specialist` — Workplace Violence Prevention Plan Compliance Specialist
+- `HR__Diversity_Equity_and_Inclusion_Program_Compliance_Specialist` — Diversity, Equity and Inclusion (DEI) Program Compliance Specialist
+- `HR__Employee_Assistance_Program_Compliance_Administrator` — Employee Assistance Program (EAP) Compliance Administrator
+- `HR__Gender_Transition_LGBTQ_Workplace_Accommodation_Specialist` — Gender Transition / LGBTQ+ Workplace Accommodation Specialist
+- `HR__Labor_Relations_Union_Avoidance_Compliance_Specialist` — Labor Relations / Union Avoidance Compliance Specialist
+- `HR__Ethics_and_Conflict_of_Interest_Compliance_Officer` — Ethics and Conflict of Interest Compliance Officer
+
+## Compliance / Audit / Risk Management
+**Count:** 65
+
+- `COMPLIANCE__Chief_Compliance_Officer` — Chief Compliance Officer (CCO)
+- `COMPLIANCE__Deputy_Assistant_Chief_Compliance_Officer` — Deputy/Assistant Chief Compliance Officer
+- `COMPLIANCE__Healthcare_Compliance_Officer` — Healthcare Compliance Officer
+- `COMPLIANCE__Financial_Services_Compliance_Officer` — Financial Services Compliance Officer (Banking)
+- `COMPLIANCE__Securities_Compliance_Officer` — Securities Compliance Officer
+- `COMPLIANCE__Insurance_Compliance_Officer` — Insurance Compliance Officer
+- `COMPLIANCE__Privacy_Officer_Chief_Privacy_Officer` — Privacy Officer / Chief Privacy Officer (CPO)
+- `COMPLIANCE__Anti_Money_Laundering_Compliance_Officer_BSA_Officer` — Anti-Money Laundering (AML) Compliance Officer / BSA Officer
+- `COMPLIANCE__Export_Controls_Trade_Compliance_Officer` — Export Controls / Trade Compliance Officer
+- `COMPLIANCE__Environmental_Compliance_Officer` — Environmental Compliance Officer
+- `COMPLIANCE__Ethics_Compliance_Investigator` — Ethics & Compliance Investigator
+- `COMPLIANCE__Corporate_Secretary_Governance_Officer` — Corporate Secretary / Governance Officer
+- `COMPLIANCE__Executive_Compensation_Compliance_Specialist` — Executive Compensation Compliance Specialist
+- `COMPLIANCE__Insider_Trading_Compliance_Officer_Section_16_Specialist` — Insider Trading Compliance Officer / Section 16 Specialist
+- `COMPLIANCE__Independent_Corporate_Monitor` — Independent Corporate Monitor
+- `COMPLIANCE__Board_Governance_Advisor_Governance_Consultant` — Board Governance Advisor / Governance Consultant
+- `COMPLIANCE__Government_Contracts_Compliance_Officer` — Government Contracts Compliance Officer
+- `COMPLIANCE__Data_Protection_Officer_GDPR_Mandated` — Data Protection Officer (DPO) — GDPR Mandated
+- `COMPLIANCE__Energy_Utility_Compliance_Officer` — Energy/Utility Compliance Officer
+- `COMPLIANCE__Telecommunications_Compliance_Officer` — Telecommunications Compliance Officer
+- `COMPLIANCE__Aviation_Compliance_Officer_Aviation_Safety_Inspector` — Aviation Compliance Officer / Aviation Safety Inspector
+- `COMPLIANCE__Pharmaceutical_Life_Sciences_Compliance_Officer` — Pharmaceutical/Life Sciences Compliance Officer
+- `COMPLIANCE__Nuclear_Regulatory_Compliance_Specialist` — Nuclear Regulatory Compliance Specialist
+- `COMPLIANCE__Food_Safety_Compliance_Officer` — Food Safety Compliance Officer
+- `COMPLIANCE__Chief_Information_Security_Officer_Compliance_Function` — Chief Information Security Officer (CISO) — Compliance Function
+- `COMPLIANCE__IT_Auditor` — IT Auditor
+- `COMPLIANCE__PCI_Qualified_Security_Assessor` — PCI Qualified Security Assessor (QSA)
+- `COMPLIANCE__CMMC_Assessor_Cybersecurity_Compliance_Specialist` — CMMC Assessor / Cybersecurity Compliance Specialist
+- `COMPLIANCE__Chief_Audit_Executive` — Chief Audit Executive (CAE)
+- `COMPLIANCE__Internal_Auditor` — Internal Auditor (Staff/Senior/Manager)
+- `COMPLIANCE__Fraud_Examiner_Forensic_Auditor` — Fraud Examiner / Forensic Auditor
+- `COMPLIANCE__Internal_Audit_Quality_Assurance_Reviewer` — Internal Audit Quality Assurance Reviewer
+- `COMPLIANCE__External_Auditor` — External Auditor (Engagement Partner — Public Company)
+- `COMPLIANCE__SOC_Report_Practitioner` — SOC Report Practitioner (SOC 1, SOC 2, SOC 3, SOC for Cybersecurity, SOC for Supply Chain)
+- `COMPLIANCE__Government_Auditor` — Government Auditor (GAO / OIG / State Auditor)
+- `COMPLIANCE__Engagement_Quality_Reviewer` — Engagement Quality Reviewer (EQR)
+- `COMPLIANCE__Peer_Reviewer` — Peer Reviewer (AICPA Peer Review Program)
+- `COMPLIANCE__Forensic_Accountant_Litigation_Support_Specialist` — Forensic Accountant / Litigation Support Specialist
+- `COMPLIANCE__Tax_Compliance_Specialist_Tax_Auditor` — Tax Compliance Specialist / Tax Auditor
+- `COMPLIANCE__Environmental_Auditor` — Environmental Auditor
+- `COMPLIANCE__Quality_Auditor` — Quality Auditor (ISO 9001 / AS9100 / IATF 16949)
+- `COMPLIANCE__Health_Safety_Auditor` — Health & Safety Auditor
+- `COMPLIANCE__Information_Security_Auditor` — Information Security Auditor (ISO 27001)
+- `COMPLIANCE__Sustainability_ESG_Auditor` — Sustainability / ESG Auditor
+- `COMPLIANCE__Chief_Risk_Officer` — Chief Risk Officer (CRO)
+- `COMPLIANCE__Enterprise_Risk_Manager` — Enterprise Risk Manager
+- `COMPLIANCE__Operational_Risk_Manager` — Operational Risk Manager
+- `COMPLIANCE__Market_Risk_Manager` — Market Risk Manager
+- `COMPLIANCE__Credit_Risk_Manager` — Credit Risk Manager
+- `COMPLIANCE__Liquidity_Risk_Manager` — Liquidity Risk Manager
+- `COMPLIANCE__Model_Risk_Manager` — Model Risk Manager
+- `COMPLIANCE__Third_Party_Vendor_Risk_Manager` — Third-Party / Vendor Risk Manager
+- `COMPLIANCE__Reputational_Risk_Manager` — Reputational Risk Manager
+- `COMPLIANCE__Business_Continuity_Manager` — Business Continuity Manager
+- `COMPLIANCE__Disaster_Recovery_Specialist` — Disaster Recovery Specialist (IT)
+- `COMPLIANCE__Crisis_Manager_Crisis_Communication_Specialist` — Crisis Manager / Crisis Communication Specialist
+- `COMPLIANCE__Risk_Manager` — Risk Manager (Corporate Insurance Buyer)
+- `COMPLIANCE__Actuary` — Actuary (ERM / Insurance)
+- `COMPLIANCE__Claims_Compliance_Analyst` — Claims Compliance Analyst
+- `COMPLIANCE__Underwriting_Compliance_Specialist` — Underwriting Compliance Specialist
+- `COMPLIANCE__Treasury_Risk_Manager` — Treasury Risk Manager
+- `COMPLIANCE__Quantitative_Risk_Analyst_Risk_Modeler` — Quantitative Risk Analyst / Risk Modeler
+- `COMPLIANCE__GRC_Program_Manager` — GRC Program Manager
+- `COMPLIANCE__Regulatory_Change_Management_Specialist` — Regulatory Change Management Specialist
+- `COMPLIANCE__Policy_Procedure_Governance_Specialist` — Policy & Procedure Governance Specialist
+
+## Sports / Fashion / Robotics / Climate / Gaming (2850-3000)
+**Count:** 151
+
+- `SPECIAL__NFL_Salary_Cap_Compliance_Officer` — NFL Salary Cap Compliance Officer
+- `SPECIAL__NFL_Player_Safety_Concussion_Protocol_Officer` — NFL Player Safety & Concussion Protocol Officer
+- `SPECIAL__NFLPA_Agent_Certification_Compliance_Specialist` — NFLPA Agent Certification Compliance Specialist
+- `SPECIAL__MLB_Drug_Testing_Anti_Doping_Compliance_Officer` — MLB Drug Testing & Anti-Doping Compliance Officer
+- `SPECIAL__MLB_International_Signing_Compliance_Specialist` — MLB International Signing Compliance Specialist
+- `SPECIAL__MLB_Revenue_Sharing_Luxury_Tax_Auditor` — MLB Revenue Sharing & Luxury Tax Auditor
+- `SPECIAL__NBA_Salary_Cap_Collective_Bargaining_Compliance_Officer` — NBA Salary Cap & Collective Bargaining Compliance Officer
+- `SPECIAL__NBA_Anti_Gambling_Integrity_Officer` — NBA Anti-Gambling & Integrity Officer
+- `SPECIAL__NBPA_Player_Agent_Regulatory_Specialist` — NBPA Player Agent Regulatory Specialist
+- `SPECIAL__NHL_Player_Safety_Equipment_Compliance_Officer` — NHL Player Safety & Equipment Compliance Officer
+- `SPECIAL__NHL_Entry_Draft_Player_Development_Compliance_Specialist` — NHL Entry Draft & Player Development Compliance Specialist
+- `SPECIAL__MLS_Designated_Player_Roster_Compliance_Officer` — MLS Designated Player & Roster Compliance Officer
+- `SPECIAL__MLSPA_Labor_Relations_Grievance_Specialist` — MLSPA Labor Relations & Grievance Specialist
+- `SPECIAL__PGA_Tour_Anti_Doping_Player_Conduct_Officer` — PGA Tour Anti-Doping & Player Conduct Officer
+- `SPECIAL__LPGA_Tour_Compliance_Sponsorship_Integrity_Officer` — LPGA Tour Compliance & Sponsorship Integrity Officer
+- `SPECIAL__UFC_MMA_Athletic_Commission_Compliance_Officer` — UFC/MMA Athletic Commission Compliance Officer
+- `SPECIAL__MMA_Fighter_Safety_Medical_Compliance_Specialist` — MMA Fighter Safety & Medical Compliance Specialist
+- `SPECIAL__MMA_Promoter_Licensing_Financial_Compliance_Officer` — MMA Promoter Licensing & Financial Compliance Officer
+- `SPECIAL__Esports_League_Integrity_Anti_Cheat_Compliance_Officer` — Esports League Integrity & Anti-Cheat Compliance Officer
+- `SPECIAL__Esports_Player_Contract_Minor_Protection_Specialist` — Esports Player Contract & Minor Protection Specialist
+- `SPECIAL__Horse_Racing_Integrity_Safety_Compliance_Officer` — Horse Racing Integrity & Safety Compliance Officer
+- `SPECIAL__Horse_Racing_Anti_Doping_Medication_Control_Officer` — Horse Racing Anti-Doping & Medication Control Officer
+- `SPECIAL__Horse_Breeding_Compliance_Registry_Specialist` — Horse Breeding Compliance & Registry Specialist
+- `SPECIAL__Sports_Franchise_Ownership_Transfer_Compliance_Officer` — Sports Franchise Ownership Transfer Compliance Officer
+- `SPECIAL__Professional_Sports_Venue_Accessibility_Compliance_Officer` — Professional Sports Venue Accessibility Compliance Officer
+- `SPECIAL__Professional_Sports_Broadcasting_Rights_Compliance_Specialist` — Professional Sports Broadcasting Rights Compliance Specialist
+- `SPECIAL__Sports_League_Workers_Compensation_Disability_Specialist` — Sports League Workers' Compensation & Disability Specialist
+- `SPECIAL__Fashion_Design_Copyright_Trade_Dress_Specialist` — Fashion Design Copyright & Trade Dress Specialist
+- `SPECIAL__Textile_Fiber_Labeling_Compliance_Officer` — Textile Fiber Labeling Compliance Officer
+- `SPECIAL__Wool_Products_Labeling_Act_Compliance_Specialist` — Wool Products Labeling Act Compliance Specialist
+- `SPECIAL__Fur_Products_Labeling_Disclosure_Compliance_Officer` — Fur Products Labeling & Disclosure Compliance Officer
+- `SPECIAL__Country_of_Origin_Labeling_Compliance_Officer` — Country of Origin Labeling (Apparel) Compliance Officer
+- `SPECIAL__Garment_Worker_Protection_Act_Compliance_Officer` — Garment Worker Protection Act Compliance Officer (California)
+- `SPECIAL__Anti_Sweatshop_Supply_Chain_Transparency_Compliance_Officer` — Anti-Sweatshop & Supply Chain Transparency Compliance Officer
+- `SPECIAL__Fashion_Model_Worker_Protection_Specialist` — Fashion Model Worker Protection Specialist
+- `SPECIAL__Child_Model_Performer_Labor_Compliance_Officer` — Child Model & Performer Labor Compliance Officer
+- `SPECIAL__Fashion_Industry_Eating_Disorder_Prevention_Compliance_Specialist` — Fashion Industry Eating Disorder Prevention Compliance Specialist
+- `SPECIAL__Costume_Uniform_Flammability_Safety_Compliance_Officer` — Costume & Uniform Flammability Safety Compliance Officer
+- `SPECIAL__Textile_Import_Quota_Tariff_Classification_Specialist` — Textile Import Quota & Tariff Classification Specialist
+- `SPECIAL__Sustainable_Fashion_Circular_Economy_Compliance_Officer` — Sustainable Fashion & Circular Economy Compliance Officer
+- `SPECIAL__Apparel_Product_Safety_CPSIA_Compliance_Officer` — Apparel Product Safety & CPSIA Compliance Officer
+- `SPECIAL__Fashion_Brand_Anti_Counterfeiting_IP_Enforcement_Specialist` — Fashion Brand Anti-Counterfeiting & IP Enforcement Specialist
+- `SPECIAL__Jewelry_Precious_Metals_Stamping_Compliance_Officer` — Jewelry & Precious Metals Stamping Compliance Officer
+- `SPECIAL__Leather_Products_Labeling_Authentication_Specialist` — Leather Products Labeling & Authentication Specialist
+- `SPECIAL__Textile_Chemical_Safety_Compliance_Officer` — Textile Chemical Safety (REACH/ZDHC) Compliance Officer
+- `SPECIAL__Activewear_Performance_Textile_Claims_Compliance_Specialist` — Activewear & Performance Textile Claims Compliance Specialist
+- `SPECIAL__Fashion_Show_Runway_Event_Compliance_Officer` — Fashion Show & Runway Event Compliance Officer
+- `SPECIAL__Textile_Mill_Environmental_Compliance_Officer` — Textile Mill Environmental Compliance Officer
+- `SPECIAL__Fashion_E_Commerce_Consumer_Protection_Specialist` — Fashion E-Commerce Consumer Protection Specialist
+- `SPECIAL__Haute_Couture_Luxury_Goods_Authentication_Compliance_Officer` — Haute Couture & Luxury Goods Authentication Compliance Officer
+- `SPECIAL__Wearable_Technology_in_Apparel_Compliance_Officer` — Wearable Technology in Apparel Compliance Officer
+- `SPECIAL__Pre_Need_Funeral_Trust_Fund_Compliance_Officer` — Pre-Need Funeral Trust Fund Compliance Officer
+- `SPECIAL__Cemetery_Endowment_Care_Fund_Compliance_Specialist` — Cemetery Endowment Care Fund Compliance Specialist
+- `SPECIAL__Cremation_Mercury_Emissions_Compliance_Officer` — Cremation Mercury Emissions Compliance Officer
+- `SPECIAL__Green_Burial_Natural_Cemetery_Certification_Specialist` — Green Burial & Natural Cemetery Certification Specialist
+- `SPECIAL__Veteran_Memorial_Affairs_Burial_Benefits_Compliance_Officer` — Veteran Memorial Affairs & Burial Benefits Compliance Officer
+- `SPECIAL__Military_Funeral_Honors_Coordination_Compliance_Officer` — Military Funeral Honors Coordination Compliance Officer
+- `SPECIAL__Funeral_Home_Price_Transparency_FTC_Rule_Compliance_Auditor` — Funeral Home Price Transparency & FTC Rule Compliance Auditor
+- `SPECIAL__Funeral_Director_OSHA_Formaldehyde_Exposure_Compliance_Officer` — Funeral Director OSHA & Formaldehyde Exposure Compliance Officer
+- `SPECIAL__Cremation_Regulatory_Chain_of_Custody_Compliance_Officer` — Cremation Regulatory & Chain-of-Custody Compliance Officer
+- `SPECIAL__Cemetery_Real_Property_Land_Use_Compliance_Specialist` — Cemetery Real Property & Land Use Compliance Specialist
+- `SPECIAL__Funeral_Insurance_Pre_Need_Sales_Compliance_Officer` — Funeral Insurance & Pre-Need Sales Compliance Officer
+- `SPECIAL__Body_Donation_Anatomical_Gift_Compliance_Officer` — Body Donation & Anatomical Gift Compliance Officer
+- `SPECIAL__Funeral_Home_Wastewater_Chemical_Disposal_Compliance_Officer` — Funeral Home Wastewater & Chemical Disposal Compliance Officer
+- `SPECIAL__Death_Certificate_Vital_Records_Compliance_Specialist` — Death Certificate & Vital Records Compliance Specialist
+- `SPECIAL__Embalming_Chemical_Hazardous_Materials_Compliance_Officer` — Embalming Chemical & Hazardous Materials Compliance Officer
+- `SPECIAL__International_Remains_Repatriation_Compliance_Specialist` — International Remains Repatriation Compliance Specialist
+- `SPECIAL__Pet_Cemetery_Animal_Cremation_Compliance_Officer` — Pet Cemetery & Animal Cremation Compliance Officer
+- `SPECIAL__Disaster_Mass_Fatality_Management_Compliance_Officer` — Disaster Mass Fatality Management Compliance Officer
+- `SPECIAL__FAA_Part_107_Commercial_Drone_Operations_Compliance_Officer` — FAA Part 107 Commercial Drone Operations Compliance Officer
+- `SPECIAL__Drone_Delivery_Service_Compliance_Specialist` — Drone Delivery Service Compliance Specialist
+- `SPECIAL__FAA_Drone_Airspace_Authorization_UTM_Compliance_Officer` — FAA Drone Airspace Authorization & UTM Compliance Officer
+- `SPECIAL__Drone_Remote_Identification_Compliance_Specialist` — Drone Remote Identification (Remote ID) Compliance Specialist
+- `SPECIAL__Counter_Drone_Counter_UAS_Compliance_Officer` — Counter-Drone / Counter-UAS Compliance Officer
+- `SPECIAL__Autonomous_Robot_Delivery_Compliance_Officer` — Autonomous Robot Delivery (Sidewalk) Compliance Officer
+- `SPECIAL__Warehouse_Robotics_Safety_Compliance_Officer` — Warehouse Robotics Safety Compliance Officer
+- `SPECIAL__Industrial_Robot_Safety_Compliance_Specialist` — Industrial Robot Safety (OSHA/ANSI RIA) Compliance Specialist
+- `SPECIAL__Surgical_Robotics_FDA_Compliance_Officer` — Surgical Robotics FDA Compliance Officer
+- `SPECIAL__Surgical_Robotics_Clinical_Safety_Training_Compliance_Officer` — Surgical Robotics Clinical Safety & Training Compliance Officer
+- `SPECIAL__Agricultural_Drone_Spraying_Compliance_Officer` — Agricultural Drone Spraying Compliance Officer
+- `SPECIAL__Drone_Privacy_Surveillance_Compliance_Officer` — Drone Privacy & Surveillance Compliance Officer
+- `SPECIAL__Maritime_Autonomous_Surface_Ship_Compliance_Officer` — Maritime Autonomous Surface Ship (MASS) Compliance Officer
+- `SPECIAL__Autonomous_Vehicle_Testing_Compliance_Officer` — Autonomous Vehicle Testing Compliance Officer (Ground)
+- `SPECIAL__Drone_Infrastructure_Inspection_Compliance_Specialist` — Drone Infrastructure Inspection Compliance Specialist
+- `SPECIAL__Unmanned_Traffic_Management_Service_Supplier_Compliance_Officer` — Unmanned Traffic Management (UTM) Service Supplier Compliance Officer
+- `SPECIAL__Robot_as_a_Service_Liability_Compliance_Specialist` — Robot-as-a-Service (RaaS) Liability & Compliance Specialist
+- `SPECIAL__Drone_Pilot_Training_Certification_Compliance_Officer` — Drone Pilot Training & Certification Compliance Officer
+- `SPECIAL__Exoskeleton_Wearable_Robotics_Safety_Compliance_Officer` — Exoskeleton & Wearable Robotics Safety Compliance Officer
+- `SPECIAL__Autonomous_Mining_Vehicle_Compliance_Specialist` — Autonomous Mining Vehicle Compliance Specialist
+- `SPECIAL__Drone_Show_Entertainment_UAS_Compliance_Officer` — Drone Show & Entertainment UAS Compliance Officer
+- `SPECIAL__Underwater_ROV_AUV_Compliance_Specialist` — Underwater ROV/AUV Compliance Specialist
+- `SPECIAL__Drone_Mapping_Surveying_Data_Compliance_Officer` — Drone Mapping & Surveying Data Compliance Officer
+- `SPECIAL__Last_Mile_Autonomous_Delivery_Fleet_Compliance_Manager` — Last-Mile Autonomous Delivery Fleet Compliance Manager
+- `SPECIAL__Carbon_Credit_Verification_Registry_Compliance_Officer` — Carbon Credit Verification & Registry Compliance Officer
+- `SPECIAL__Emissions_Trading_System_Compliance_Specialist` — Emissions Trading System (ETS) Compliance Specialist
+- `SPECIAL__SEC_Climate_Risk_Disclosure_Compliance_Officer` — SEC Climate Risk Disclosure Compliance Officer
+- `SPECIAL__ESG_Reporting_Compliance_Specialist` — ESG Reporting (GRI Standards) Compliance Specialist
+- `SPECIAL__ESG_Reporting_Compliance_Officer` — ESG Reporting (SASB/ISSB) Compliance Officer
+- `SPECIAL__TCFD_Climate_Scenario_Analysis_Compliance_Specialist` — TCFD Climate Scenario Analysis Compliance Specialist
+- `SPECIAL__Green_Bond_Certification_Verification_Officer` — Green Bond Certification & Verification Officer
+- `SPECIAL__Renewable_Energy_Certificate_Trading_Compliance_Specialist` — Renewable Energy Certificate (REC) Trading Compliance Specialist
+- `SPECIAL__Carbon_Capture_Utilization_Storage_Compliance_Officer` — Carbon Capture, Utilization & Storage (CCUS) Compliance Officer
+- `SPECIAL__Methane_Emissions_Reduction_Compliance_Officer` — Methane Emissions Reduction Compliance Officer
+- `SPECIAL__Climate_Litigation_Document_Compliance_Specialist` — Climate Litigation Document Compliance Specialist
+- `SPECIAL__Corporate_Scope_3_Emissions_Compliance_Officer` — Corporate Scope 3 Emissions Compliance Officer
+- `SPECIAL__Anti_Greenwashing_ESG_Marketing_Compliance_Officer` — Anti-Greenwashing & ESG Marketing Compliance Officer
+- `SPECIAL__ESG_Data_Assurance_Audit_Compliance_Officer` — ESG Data Assurance & Audit Compliance Officer
+- `SPECIAL__Voluntary_Carbon_Market_Integrity_Compliance_Specialist` — Voluntary Carbon Market Integrity Compliance Specialist
+- `SPECIAL__Environmental_Justice_Climate_Equity_Compliance_Officer` — Environmental Justice & Climate Equity Compliance Officer
+- `SPECIAL__Climate_Adaptation_Resilience_Planning_Compliance_Officer` — Climate Adaptation & Resilience Planning Compliance Officer
+- `SPECIAL__Biodiversity_Nature_Related_Financial_Disclosure_Specialist` — Biodiversity & Nature-Related Financial Disclosure (TNFD) Specialist
+- `SPECIAL__Clean_Energy_Tax_Credit_Compliance_Officer` — Clean Energy Tax Credit Compliance Officer
+- `SPECIAL__EU_Carbon_Border_Adjustment_Mechanism_Compliance_Specialist` — EU Carbon Border Adjustment Mechanism (CBAM) Compliance Specialist
+- `SPECIAL__Sustainable_Finance_Taxonomy_Compliance_Officer` — Sustainable Finance & Taxonomy Compliance Officer
+- `SPECIAL__Corporate_Water_Stewardship_Disclosure_Compliance_Officer` — Corporate Water Stewardship & Disclosure Compliance Officer
+- `SPECIAL__Supply_Chain_Decarbonization_Compliance_Officer` — Supply Chain Decarbonization Compliance Officer
+- `SPECIAL__Environmental_Product_Declaration_Compliance_Specialist` — Environmental Product Declaration (EPD) Compliance Specialist
+- `SPECIAL__Climate_Related_Insurance_Compliance_Officer` — Climate-Related Insurance Compliance Officer
+- `SPECIAL__Offshore_Wind_Energy_Compliance_Officer` — Offshore Wind Energy Compliance Officer
+- `SPECIAL__Environmental_Attribute_Credit_Stacking_Double_Counting_Prevention_Officer` — Environmental Attribute Credit Stacking & Double-Counting Prevention Officer
+- `SPECIAL__Auction_House_Compliance_Officer` — Auction House Compliance Officer
+- `SPECIAL__Auction_House_Art_Cultural_Property_Compliance_Specialist` — Auction House Art & Cultural Property Compliance Specialist
+- `SPECIAL__Pawn_Shop_Regulatory_Compliance_Officer` — Pawn Shop Regulatory Compliance Officer (Advanced)
+- `SPECIAL__Pawn_Shop_Firearms_Transaction_Compliance_Specialist` — Pawn Shop Firearms Transaction Compliance Specialist
+- `SPECIAL__Check_Cashing_Business_Compliance_Officer` — Check Cashing Business Compliance Officer
+- `SPECIAL__Money_Order_Issuer_Seller_Compliance_Officer` — Money Order Issuer/Seller Compliance Officer
+- `SPECIAL__Money_Services_Business_BSA_AML_Compliance_Officer` — Money Services Business (MSB) BSA/AML Compliance Officer
+- `SPECIAL__Lottery_Retailer_Compliance_Officer` — Lottery Retailer Compliance Officer
+- `SPECIAL__Lottery_Commission_Drawing_Integrity_Security_Specialist` — Lottery Commission Drawing Integrity & Security Specialist
+- `SPECIAL__Bingo_Charitable_Gaming_Compliance_Officer` — Bingo & Charitable Gaming Compliance Officer
+- `SPECIAL__Charitable_Raffle_Sweepstakes_Compliance_Specialist` — Charitable Raffle & Sweepstakes Compliance Specialist
+- `SPECIAL__Horse_Racing_Wagering_Pari_Mutuel_Compliance_Officer` — Horse Racing Wagering & Pari-Mutuel Compliance Officer
+- `SPECIAL__Horse_Racing_Jockey_Exercise_Rider_Safety_Compliance_Officer` — Horse Racing Jockey & Exercise Rider Safety Compliance Officer
+- `SPECIAL__Fantasy_Sports_Compliance_Officer` — Fantasy Sports Compliance Officer
+- `SPECIAL__Fantasy_Sports_Consumer_Protection_Data_Privacy_Specialist` — Fantasy Sports Consumer Protection & Data Privacy Specialist
+- `SPECIAL__Skill_Gaming_Machine_Compliance_Officer` — Skill Gaming Machine Compliance Officer
+- `SPECIAL__Skill_Gaming_Software_Testing_Certification_Specialist` — Skill Gaming Software Testing & Certification Specialist
+- `SPECIAL__Arcade_Amusement_Machine_Compliance_Officer` — Arcade & Amusement Machine Compliance Officer
+- `SPECIAL__Crane_Claw_Machine_Redemption_Game_Compliance_Specialist` — Crane/Claw Machine & Redemption Game Compliance Specialist
+- `SPECIAL__Social_Casino_Free_to_Play_Gaming_Compliance_Officer` — Social Casino & Free-to-Play Gaming Compliance Officer
+- `SPECIAL__Coin_Operated_Machine_Route_Operator_Compliance_Specialist` — Coin-Operated Machine Route Operator Compliance Specialist
+- `SPECIAL__Prepaid_Card_Gift_Card_Compliance_Officer` — Prepaid Card & Gift Card Compliance Officer
+- `SPECIAL__Precious_Metals_Coins_Dealer_Compliance_Officer` — Precious Metals & Coins Dealer Compliance Officer
+- `SPECIAL__Rent_to_Own_Industry_Compliance_Officer` — Rent-to-Own Industry Compliance Officer
+- `SPECIAL__Title_Loan_Auto_Title_Lending_Compliance_Officer` — Title Loan & Auto Title Lending Compliance Officer
+- `SPECIAL__Vending_Machine_Compliance_Officer` — Vending Machine Compliance Officer
+- `SPECIAL__Laundromat_Coin_Laundry_Regulatory_Compliance_Officer` — Laundromat & Coin Laundry Regulatory Compliance Officer
+- `SPECIAL__Self_Storage_Facility_Compliance_Officer` — Self-Storage Facility Compliance Officer
+- `SPECIAL__Car_Wash_Environmental_Labor_Compliance_Officer` — Car Wash Environmental & Labor Compliance Officer
+- `SPECIAL__Parking_Facility_Garage_Compliance_Officer` — Parking Facility & Garage Compliance Officer
+- `SPECIAL__Mobile_Food_Vendor_Food_Truck_Compliance_Officer` — Mobile Food Vendor & Food Truck Compliance Officer
+
+---
+**REGISTRY TOTAL: 2176 named Citizens**
+**Source catalog total (pre-dedup): 2,689+**
+**Estimated unique after further semantic dedup: ~1,800**

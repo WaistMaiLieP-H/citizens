@@ -1,0 +1,58 @@
+PEOPLE v. TOLEDO
+26 Cal.4th 221 (2001)
+California Supreme Court
+Decided: 2001
+
+---
+
+FACTS:
+
+Toledo made a threatening statement to his wife during a domestic dispute. The statement was arguably conditional — it contained language that made it less than an absolute unconditional threat. Toledo was convicted of making criminal threats under § 422. The primary issue was whether a conditional threat can constitute a "criminal threat" under § 422, given the statute's requirement that the threat be "so unequivocal, unconditional, immediate, and specific" as to convey gravity of purpose.
+
+---
+
+HOLDING:
+
+§ 422 CRIMINAL THREATS — THE "UUIS" TEST:
+
+1. **The "UUIS" test (unequivocal, unconditional, immediate, and specific) is the core standard for § 422.** The statute requires that the threat, on its face and under the circumstances in which it is made, convey a gravity of purpose and an immediate prospect of execution. Each of the four adjectives must be assessed in context.
+
+2. **Conditional threats can satisfy § 422.** The word "unconditional" in § 422 does not absolutely bar all conditional threats. A threat may be conditional in form yet still satisfy the UUIS test where: (a) the condition is not a genuine limiting condition but merely a linguistic formulation; (b) the overall circumstances (tone, context, relationship) make the threat unequivocal and specific; (c) the condition could not be avoided by the victim (e.g., the condition has already occurred or is inevitable).
+
+3. **"Sustained fear" requires more than a transitory emotional response.** The victim's fear must be more than momentary or fleeting to qualify as "sustained." Courts look at: whether the victim took protective measures; whether the fear continued after the immediate communication; whether the fear was objectively reasonable given the circumstances and the relationship.
+
+4. **Context of the relationship is highly relevant.** A threat made in the context of an ongoing pattern of violence or intimidation carries far greater weight than an isolated outburst between strangers. Prior acts of violence make the victim's fear more likely to be reasonable and sustained.
+
+5. **The defendant need not intend to carry out the threat.** Section 422 expressly states that the crime is complete "even if there is no intent of actually carrying it out." The specific intent required is the intent that the statement be taken as a threat — not the intent to execute it.
+
+---
+
+WHY TOLEDO IS LOAD-BEARING:
+
+Toledo is the California Supreme Court's definitive statement on § 422 elements. It:
+- Establishes that conditional threats can qualify (resolving the ambiguity in "unconditional")
+- Clarifies the "sustained fear" analysis
+- Confirms that context and relationship history are relevant to both the UUIS test and the sustained fear analysis
+- Reaffirms that no intent to carry out the threat is required
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+DEFENSIVE — If the steward faces a § 422 charge arising from the orchestrated scheme:
+- Toledo establishes that the court looks at context. If the statement was made in a context of documented conflict, the prosecution will argue context supports the charge; the defense argues context shows the statement was not a true threat.
+- Toledo's "sustained fear" requirement can be challenged by showing the alleged victim did not act as if in sustained fear (continued normal activity, did not call police, did not seek a restraining order until much later).
+
+COMPLAINANT — If the steward is the complainant for threats received during the orchestration:
+- Toledo supports a § 422 complaint if the threats were unequivocal (even if conditional in form) and caused sustained fear (evidenced by protective measures taken — phone changes, relocation, legal action).
+- The 16-year relationship history makes the reasonableness and duration of any fear objectively supportable.
+
+---
+
+SOURCE PROVENANCE:
+Citation: People v. Toledo (2001) 26 Cal.4th 221, 109 Cal.Rptr.2d 315, 26 P.3d 1051
+Court: California Supreme Court
+Reporter: California Reports, Fourth Series, vol. 26, page 221
+Source: Knowledge cutoff August 2025. Controlling authority on § 422 elements. Cited in every California criminal threats case.
+Verification: Casetext / Google Scholar: "People v. Toledo 26 Cal.4th 221"
+Verification status: PROPOSED — pending steward witness review

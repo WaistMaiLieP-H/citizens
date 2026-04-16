@@ -1,0 +1,13 @@
+{
+  "standard_id": "lab_3212_industrial_presumptions",
+  "source": "leginfo.legislature.ca.gov",
+  "fetch_tool": "mcp__claude_ai_VernenLegal__california_get_section",
+  "fetch_date": "2026-04-13",
+  "code": "LAB",
+  "section": "3212",
+  "verification_status": "VERIFIED — live MCP fetch",
+  "html_sha256": null,
+  "note": "Full text fetched 2026-04-13; subd. (b) federal installation firefighter expansion effective 2026-01-01 confirmed",
+  "built_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "built_at_utc": "2026-04-13T00:00:00Z"
+}

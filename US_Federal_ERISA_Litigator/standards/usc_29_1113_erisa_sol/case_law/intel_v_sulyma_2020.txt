@@ -1,0 +1,12 @@
+Intel Corp. Investment Policy Committee v. Sulyma
+140 S.Ct. 768 (2020)
+United States Supreme Court, 2020
+
+FACTS:
+An employee participated in Intel's defined contribution retirement plans. The plan made various investments the employee later challenged as imprudent. Intel argued that the employee had "actual knowledge" of the challenged investments because they were disclosed in online fund disclosures the employee had access to. The employee testified he had not actually read or reviewed the disclosures.
+
+HOLDING — 29 U.S.C. § 1113:
+The Supreme Court unanimously held that "actual knowledge" under § 1113(2) means the plaintiff must have actually known about the breach — not merely that information was available to them that would have disclosed the breach if reviewed. Constructive knowledge (what someone should have known) is insufficient to trigger the three-year period. The fact that information was in a document the plaintiff received or had access to does not establish actual knowledge of that information.
+
+SIGNIFICANCE:
+The definitive Supreme Court ruling on the "actual knowledge" trigger for § 1113's three-year period. Critical implications: (1) a plan's disclosure of information in annual reports or SPDs does not automatically start the three-year clock; (2) the three-year period only begins when the participant actually knew about the breach; (3) the six-year period still runs from the breach date regardless of knowledge; (4) the fraud-or-concealment extension is available when active concealment prevented discovery. For participants who did not receive or comprehend disclosures that were technically made, the three-year clock may not have started.

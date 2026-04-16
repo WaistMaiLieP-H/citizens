@@ -1,0 +1,14 @@
+BARELLI v. BARELLI
+60 Cal.App.4th 1535
+Court of Appeal, First District, 1997
+
+FACTS:
+Following a custody mediation, the trial court entered a custody order that substantially mirrored the mediator's recommendation. The court's order did not reflect independent judicial analysis of the § 3011 best-interest factors. The appellant challenged the order on the ground that the court had effectively delegated the custody determination to the mediator rather than conducting its own best-interest analysis.
+
+HOLDING — FAMILY CODE § 3164:
+The Court of Appeal held that while courts may and should consider mediation recommendations, a mediator's recommendation cannot substitute for the court's independent obligation to make a best-interest determination under § 3011. The custody determination is a judicial function — it cannot be delegated to a mediator, however qualified. A court order that is effectively a rubber-stamp of a mediator's recommendation, without independent § 3011 analysis on the record, does not satisfy the court's statutory obligation.
+
+The court stated that § 3164 creates the mediator's role as advisory — not determinative. Mediation recommendations "assist" the court; they do not replace the court's judgment.
+
+SIGNIFICANCE:
+Barelli establishes the outer boundary of the mediator's role under § 3164. Even a fully qualified mediator under § 3164(b)/§ 1815 cannot make a binding custody determination — that power belongs to the court alone. When the mediator was also unqualified (as in Ajaniku's case), the defect is compounded: not only was the recommendation procedurally defective, but the court's wholesale adoption of the recommendation without independent § 3011 analysis violated Barelli's prohibition on judicial delegation. Together, Barelli and Elsenheimer establish that both the mediator's qualifications and the court's independent analysis are independently required — neither can substitute for the other.

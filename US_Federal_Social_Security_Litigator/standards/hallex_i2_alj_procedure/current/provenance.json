@@ -1,0 +1,56 @@
+{
+  "standard_id": "HALLEX_I2_ALJ_HEARING_PROCEDURE",
+  "provenance_layer": "current",
+  "primary_source": {
+    "citation": "HALLEX I-2-6 and I-2-8-18",
+    "title": "SSA Hearings, Appeals and Litigation Law Manual — Chapter I-2, ALJ Hearing Procedures; Closing the Record",
+    "publisher": "Social Security Administration, Office of Hearings Operations",
+    "url_i2_6": "https://www.ssa.gov/OP_Home/hallex/I-02/I-2-6.html",
+    "url_i2_8_18": "https://www.ssa.gov/OP_Home/hallex/I-02/I-2-8-18.html",
+    "verified": false,
+    "verification_note": "HALLEX not fetched via tool — provisions reflect authoritative knowledge of SSA OHO practice. HALLEX is publicly available on SSA website. Verify against current HALLEX before formal publication. HALLEX provisions are periodically updated.",
+    "retrieval_date": "2026-04-12"
+  },
+  "legal_status_note": "HALLEX is an internal SSA hearing operations manual, not a regulation. Courts have held that HALLEX violations that prejudice a claimant's ability to present their case constitute reversible error requiring remand. Prejudice is readily found where the claimant was denied a procedural opportunity — to submit evidence, cross-examine a witness, or receive a decision addressing their impairments.",
+  "supporting_authorities": [
+    {
+      "citation": "20 C.F.R. § 404.929",
+      "description": "Right to ALJ hearing — claimant entitled to hearing before ALJ following adverse reconsideration",
+      "verified": false
+    },
+    {
+      "citation": "20 C.F.R. § 404.944",
+      "description": "ALJ's conduct of the hearing — ALJ may ask questions and request evidence; must give claimant opportunity to testify",
+      "verified": false
+    },
+    {
+      "citation": "20 C.F.R. § 404.953",
+      "description": "ALJ's written decision — must include findings on all issues; must explain weight given to medical opinions",
+      "url": "https://www.ecfr.gov/current/title-20/chapter-III/part-404/subpart-Q/section-404.953",
+      "verified": false
+    }
+  ],
+  "key_cases": [
+    {
+      "citation": "Tackett v. Apfel, 180 F.3d 1094 (9th Cir. 1999)",
+      "holding": "VE hypothetical must set out all the limitations and restrictions of the particular claimant; incomplete hypothetical cannot serve as substantial evidence at step 5"
+    },
+    {
+      "citation": "Bayliss v. Barnhart, 427 F.3d 1211 (9th Cir. 2005)",
+      "holding": "ALJ must ask VE whether testimony is consistent with DOT; any conflict must be resolved with explanation"
+    },
+    {
+      "citation": "Stout v. Comm'r, Soc. Sec. Admin., 454 F.3d 1050 (9th Cir. 2006)",
+      "holding": "Errors in ALJ's duty to develop record are harmless only if no rational adjudicator could have reached a different conclusion on the complete record; otherwise remand required"
+    }
+  ],
+  "dot_consistency_requirement": {
+    "regulatory_basis": "SSR 00-4p (Social Security Ruling 2000-4p)",
+    "description": "When VE or VS evidence is used at steps 4 or 5, the ALJ is responsible for asking whether the testimony is consistent with the Dictionary of Occupational Titles (DOT). When there is a conflict, the ALJ must resolve it by explaining why the occupational evidence is more reliable.",
+    "url": "https://www.ssa.gov/OP_Home/rulings/di/02/SSR2000-04-di-02.html",
+    "verified": false
+  },
+  "witness": "ADAM+EVE — see reviews",
+  "status": "PROPOSED",
+  "build_session": "2026-04-12"
+}

@@ -1,0 +1,12 @@
+{
+  "stage": "01_origin_1952",
+  "citation": "Act of June 25, 1952, ch. 879, §18(a), 66 Stat. 722",
+  "codified_at": "18 USC §1343",
+  "effective_date": "1952-06-25",
+  "legislative_context": "Part of broader telecommunications fraud legislation; companion to 18 USC §1341 (mail fraud, enacted 1872)",
+  "original_penalty": "$10,000 fine and/or 5 years imprisonment",
+  "source_url": "https://uscode.house.gov/statutes/1952/1952-ch879.pdf",
+  "capture_method": "LOGIC.md — structural knowledge base",
+  "verbatim_capture_status": "PENDING",
+  "build_date": "2026-04-11"
+}

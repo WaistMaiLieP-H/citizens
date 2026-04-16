@@ -1,0 +1,81 @@
+ROBERTS v. BALL, HUNT, HART, BROWN & BAERWITZ
+57 Cal.App.3d 104 (1976)
+California Court of Appeal, Second Appellate District
+Decided: 1976
+
+---
+
+FACTS:
+
+Plaintiffs invested in a real estate project and alleged that the defendant law firm made representations about the financial condition and viability of the project, without reasonable grounds for believing those representations were true. When the investment failed, plaintiffs sued for fraud. The question was whether negligent misrepresentation (§ 1710(2)) required the same level of scienter (knowledge of falsity) as intentional misrepresentation (§ 1710(1)).
+
+---
+
+HOLDING — ELEMENTS OF NEGLIGENT MISREPRESENTATION UNDER § 1710(2):
+
+Section 1710(2) defines deceit to include "the assertion, as a fact, of that which is not true, by one who has no reasonable ground for believing it to be true."
+
+The California Court of Appeal confirmed the elements of § 1710(2) negligent misrepresentation:
+
+1. A positive assertion of a material fact (not mere opinion or puffery);
+2. The assertion was not true;
+3. Made without reasonable grounds for believing it to be true;
+4. With intent (or in circumstances indicating) that the other party will rely on the assertion;
+5. Justifiable reliance by the plaintiff;
+6. Resulting damage.
+
+"Section 1710(2) does not require that the speaker knew the representation was false. The speaker is liable if they made a positive assertion without any reasonable factual basis for the assertion." 57 Cal.App.3d at 110.
+
+---
+
+THE SCIENTER SPECTRUM UNDER §§ 1710(1)-(4):
+
+§ 1710(1) — INTENTIONAL (highest scienter): Asserting a fact known to be false. The classic fraud — speaker knows the truth is different.
+
+§ 1710(2) — NEGLIGENT: Asserting a fact without reasonable grounds for believing it. Speaker may have believed the statement, but had no legitimate basis for that belief.
+
+§ 1710(3) — CONCEALMENT: Suppressing a fact the speaker has a duty to disclose. Active concealment or deceptive silence.
+
+§ 1710(4) — PROMISSORY FRAUD: A promise made without intent to perform.
+
+Roberts v. Ball Hunt establishes that § 1710(2) negligent misrepresentation has a lower scienter threshold than intentional fraud. A professional or commercial party who makes factual assertions without a reasonable basis for believing them — even if they subjectively believed they were true — faces liability.
+
+---
+
+APPLICATION TO AUTO DEALER MISREPRESENTATIONS:
+
+A dealer who states "This vehicle has no prior accident damage" without checking:
+- Has made a positive assertion of a material fact;
+- Without reasonable grounds (did not check CARFAX, did not inspect the vehicle, did not contact prior owners);
+- With intent that the buyer rely on it (to close the sale);
+- Resulting in damage (buyer paid a premium for an undamaged vehicle that was actually damaged).
+
+This is § 1710(2) even if the dealer honestly believed the vehicle was undamaged — the problem is asserting it as a positive fact without a reasonable basis. CARFAX + visual inspection + dealer records = reasonable basis. Assertion without checking = no reasonable basis.
+
+---
+
+SIGNIFICANCE FOR REDJAG:
+
+For the 2018 Jaguar XE, if the dealer provided a CARFAX that was either:
+(a) Outdated — showing the wrong vehicle history;
+(b) A different vehicle's CARFAX applied to this car; or
+(c) Represented verbally or in writing as clean when it was not;
+
+...then:
+- If the dealer knew: § 1710(1) intentional misrepresentation;
+- If the dealer asserted without checking: § 1710(2) negligent misrepresentation;
+- Either way: § 1709 damages for the difference between what was paid and what the vehicle was actually worth.
+
+§ 1710(2) fills the gap where the dealer claims ignorance — it does not matter that the dealer did not subjectively know; what matters is whether there was a reasonable factual basis for the assertion.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 57 Cal.App.3d 104 (1976)
+Official reporter: California Appellate Reports, Third Series, vol. 57, page 104
+Court: California Court of Appeal, Second Appellate District
+Key quoted passage: 57 Cal.App.3d at 110 (§ 1710(2) standard)
+Source of this text: Claude training data (knowledge cutoff August 2025). Roberts v. Ball Hunt is a foundational California negligent misrepresentation case. Full verbatim text should be verified at:
+  - courts.ca.gov
+  - Google Scholar: "Roberts v. Ball Hunt Hart Brown"
+Verification status: PROPOSED — pending steward witness review

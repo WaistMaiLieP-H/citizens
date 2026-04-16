@@ -1,0 +1,13 @@
+{
+  "actor_id": "apd_officers",
+  "shared_record": "${citizens}/_shared_actors/apd_officers.json",
+  "domain": "CA_Civil_Litigator",
+  "role": "Gov. Code §815.2 entity liability — City of Antioch vicariously liable for officers' tortious conduct in scope of employment; §815.6 mandatory duty (POST DV Response Guidelines)",
+  "risk_level": "HIGH",
+  "applicable_standards": ["GOV_CODE_815_2", "GOV_CODE_815_6"],
+  "theory_of_liability": "Gov. Code §815.2: City of Antioch is vicariously liable for its officers' tortious acts committed in the scope of employment. Gov. Code §815.6: public entity liable for failure to discharge mandatory duty — POST DV Response Guidelines impose mandatory duties on officers responding to DV calls, including custody verification. The March 21, 2026 APD forensic audit found 10 violations.",
+  "government_claim_prerequisite": "Gov. Code §911.2 requires filing a government tort claim within 6 months of accrual (or 1 year with late claim application). June 16, 2023 incident — late claim application required under §911.4.",
+  "entity_defendant": "City of Antioch",
+  "individual_names": "TBD — to be identified from APD incident reports via PRA request",
+  "filed_at_utc": "2026-04-08T22:00:00Z"
+}

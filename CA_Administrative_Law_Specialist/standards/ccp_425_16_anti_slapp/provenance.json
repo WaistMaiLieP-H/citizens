@@ -1,0 +1,41 @@
+{
+  "standard_id": "ccp_425_16_anti_slapp",
+  "citizen": "CA_Administrative_Law_Specialist",
+  "build_date": "2026-04-13",
+  "primary_source": {
+    "statute": "California Code of Civil Procedure § 425.16",
+    "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=425.16.&lawCode=CCP",
+    "fetch_method": "mcp__claude_ai_VernenLegal__california_get_section",
+    "verified": true,
+    "fetch_date": "2026-04-13",
+    "verification_note": "Live fetch via VernenLegal MCP — text confirmed against leginfo.legislature.ca.gov"
+  },
+  "supporting_sources": [
+    {
+      "citation": "Stats. 1992, ch. 726",
+      "type": "legislative_history",
+      "verified": "training_knowledge",
+      "steward_verify": false,
+      "note": "Original anti-SLAPP enactment — chapter number is approximate"
+    },
+    {
+      "citation": "Briggs v. Eden Council for Hope & Opportunity (1999) 19 Cal.4th 1106",
+      "type": "case_law",
+      "verified": "training_knowledge",
+      "steward_verify": true,
+      "note": "Official proceedings prong — verify before filing"
+    },
+    {
+      "citation": "Navellier v. Sletten (2002) 29 Cal.4th 82",
+      "type": "case_law",
+      "verified": "training_knowledge",
+      "steward_verify": true,
+      "note": "Step 1 focuses on the act not the legal theory — verify before filing"
+    }
+  ],
+  "chain_of_custody": "CCP §425.16 fetched live via VernenLegal MCP → statute_text.md written → rule.md drafted (two-step test; discovery stay; mandatory fees; public prosecutor exemption; case applications) → reasoning.md drafted (SLAPP problem; mandatory fee deterrent; historical loss) → historical_chain built (1992 enactment; Briggs; Navellier) → cross_refs built with ${citizens} anchors → provenance.json written → manifest.json pending",
+  "steward_verification_queue": [
+    "Briggs v. Eden Council for Hope & Opportunity (1999) 19 Cal.4th 1106 — verify before filing",
+    "Navellier v. Sletten (2002) 29 Cal.4th 82 — verify before filing"
+  ]
+}

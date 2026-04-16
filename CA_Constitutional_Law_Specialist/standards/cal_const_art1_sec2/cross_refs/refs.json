@@ -1,0 +1,7 @@
+[
+  {"target":"${citizens}/CA_Constitutional_Law_Specialist/standards/cal_const_art1_sec1/manifest.json","relationship":"Section 1 enumerates the inalienable rights that Section 2 protects the right to speak about"},
+  {"target":"${citizens}/CA_Constitutional_Law_Specialist/standards/cal_const_art1_sec3/manifest.json","relationship":"Section 3 provides the petition and assembly rights; Section 2 provides the speech and press rights. Together they form the participation triad."},
+  {"target":"${citizens}/CA_Constitutional_Law_Specialist/standards/cal_const_art1_sec24/manifest.json","relationship":"Section 24 establishes independent state grounds — Section 2 speech protections are not dependent on the First Amendment"},
+  {"target":"${citizens}/CA_First_Amendment_Litigator/standards/cal_evid_1070_shield_law/manifest.json","relationship":"Evidence Code §1070 is the statutory implementation of the constitutional shield in Section 2(b)"},
+  {"target":"${citizens}/CA_First_Amendment_Litigator/standards/cal_ccp_425_16_anti_slapp/manifest.json","relationship":"Anti-SLAPP §425.16 protects the exercise of Section 2 speech rights in litigation"}
+]

@@ -1,0 +1,42 @@
+{
+  "standard_id": "lab_1102_5_whistleblower",
+  "citizen": "CA_Labor_Employment_Litigator",
+  "layer": "cross_refs",
+  "generated": "2026-04-12",
+  "internal_refs": [
+    {
+      "id": "gov_12940_feha_employment",
+      "path": "${citizens}/CA_Labor_Employment_Litigator/standards/gov_12940_feha_employment",
+      "relationship": "FEHA \u00a712940(h) retaliation and \u00a71102.5 whistleblower often arise from same facts \u2014 both must be pursued concurrently; different SOLs"
+    },
+    {
+      "id": "lab_132a_workers_comp_retaliation",
+      "path": "${citizens}/CA_Labor_Employment_Litigator/standards/lab_132a_workers_comp_retaliation",
+      "relationship": "\u00a7132a WC retaliation and \u00a71102.5 may overlap if WC claim disclosed employer violations \u2014 coordinate filing strategy"
+    }
+  ],
+  "external_refs": [
+    {
+      "id": "US_Federal_Financial_Fraud_Litigator",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator",
+      "relationship": "If protected disclosure related to federal financial fraud (wire fraud, RICO) \u2014 federal anti-retaliation provisions (SOX \u00a7806, Dodd-Frank) may overlap with \u00a71102.5"
+    },
+    {
+      "id": "CA_Discovery_Specialist",
+      "path": "${citizens}/CA_Discovery_Specialist",
+      "relationship": "Internal communications showing employer's belief that employee would disclose are critical \u00a71102.5(b) evidence \u2014 discoverable via CCP \u00a72023 spoliation analysis if destroyed"
+    }
+  ],
+  "case_law": [
+    {
+      "citation": "Patten v. Grant Joint Union High School Dist., 134 Cal.App.4th 1378 (2005)",
+      "holding": "\u00a71102.5 'reasonable cause to believe' is objective standard; employee need not prove actual violation, only that reasonable person would believe disclosure revealed violation",
+      "significance": "Sets objective standard for protected disclosure \u2014 employee does not need to be correct"
+    },
+    {
+      "citation": "Mokler v. County of Orange, 157 Cal.App.4th 121 (2007)",
+      "holding": "\u00a71102.5 protects anticipatory disclosure; employer cannot avoid liability by acting before employee makes formal complaint",
+      "significance": "Pre-2013 case establishing anticipated disclosure protection \u2014 codified in 2013 amendment"
+    }
+  ]
+}

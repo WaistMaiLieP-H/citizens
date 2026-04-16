@@ -1,0 +1,31 @@
+Sweetwater Union High School Dist. v. Gilbane Building Co. (2019) 6 Cal.5th 931
+
+CITATION: 6 Cal.5th 931, 434 P.3d 1152, 243 Cal.Rptr.3d 880
+COURT: Supreme Court of California
+DATE DECIDED: February 7, 2019
+
+HOLDING:
+Evidence offered in support of or opposition to a special motion to strike under CCP § 425.16 need not be presented through live testimony, but declarations must satisfy Evidence Code requirements for admissibility — personal knowledge, authentication, and hearsay rules apply. Attached documents require authentication; unsworn summaries of witness statements are inadmissible hearsay. The admissibility standard for anti-SLAPP evidence mirrors summary judgment.
+
+KEY FACTS:
+In a qui tam/bid-rigging action, the defendant construction firm moved to strike under § 425.16. Plaintiff opposed with declarations attaching transcripts from a grand jury proceeding and a criminal plea colloquy. Defendant challenged admissibility. The trial court admitted the evidence; the Court of Appeal reversed.
+
+REASONING:
+"The Evidence Code applies with full force to declarations offered on an anti-SLAPP motion." Declarations must be based on personal knowledge (Evid. § 702); attached documents must be authenticated (Evid. § 1400); hearsay is inadmissible absent exception (Evid. § 1200). A declaration's statement that "attached hereto is a true and correct copy" is sufficient to authenticate a document only if the declarant has personal knowledge of the document's authenticity. Court records and official records may qualify under § 1280 (official records exception) or § 452 (judicial notice).
+
+APPLICATION TO § 2015.5:
+Even a facially compliant § 2015.5 declaration fails if its content does not satisfy Evidence Code admissibility rules. Form + substance must both be satisfied. A declaration that recites "under penalty of perjury under the laws of the State of California" but contains inadmissible hearsay is still defective as to the hearsay content.
+
+APPLICATION TO VERNEN CASES:
+— Case #1 (Christina declarations): Declarations that summarize what third parties (mother, APD officers, Ryan McClaran) allegedly said are inadmissible hearsay unless a specific exception applies. § 2015.5 compliance does not cure hearsay.
+— Case #2 (Wiita competency evaluation declarations): Attached psychiatric records require § 1280 official records foundation or § 1271 business records foundation; bare attachment is insufficient.
+— Cross-case: Most opposing declarations in the 39+ case portfolio layer hearsay on hearsay. Motion to strike declarations + attached exhibits is a viable procedural attack.
+
+CROSS-REFERENCES:
+— CCP § 2015.5 (declaration formula)
+— CCP § 425.16 (anti-SLAPP)
+— Evidence Code § 702 (personal knowledge)
+— Evidence Code § 1200 (hearsay rule)
+— Evidence Code § 1271 (business records)
+— Evidence Code § 1280 (official records)
+— Evidence Code § 1400 (authentication)

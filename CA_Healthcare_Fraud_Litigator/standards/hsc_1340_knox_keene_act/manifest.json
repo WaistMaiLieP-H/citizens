@@ -1,0 +1,23 @@
+{
+  "standard_id": "HSC_1340_KNOX_KEENE_ACT",
+  "popular_name": "Knox-Keene Health Care Service Plan Act of 1975",
+  "authority": "Cal. Health & Safety Code \u00a7 1340 et seq.",
+  "jurisdiction": "California",
+  "citizen": "CA_Healthcare_Fraud_Litigator",
+  "status": "PUBLISHED",
+  "five_layer_score": 5,
+  "created": "2026-04-12",
+  "updated": "2026-04-12",
+  "layers": {
+    "rule": "COMPLETE",
+    "reasoning": "COMPLETE",
+    "historical_loss": "COMPLETE",
+    "cross_references": "COMPLETE",
+    "verifiable_provenance": "COMPLETE"
+  },
+  "two_witness_status": {
+    "adam": "APPROVED",
+    "eve": "COUNTERSIGNED",
+    "status": "PUBLISHED"
+  }
+}

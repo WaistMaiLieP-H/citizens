@@ -1,0 +1,64 @@
+KIM v. SUPERIOR COURT
+(California Information Privacy Act / Cal. Civ. Code § 1798 et seq.)
+
+NOTE ON THIS FOLDER:
+The "Kim v. Superior Court" designation in this folder references the line of California appellate authority addressing the California Information Privacy Act (IPA), Civil Code § 1798 et seq. — specifically the provisions governing the right of individuals to access and correct records maintained by businesses, and remedies for unlawful disclosure of personal information.
+
+The precise citation "Kim v. Superior Court" may refer to multiple cases with similar names in the California courts. The authoritative cases on the California IPA framework include the analysis below.
+
+---
+
+THE CALIFORNIA INFORMATION PRIVACY ACT — FRAMEWORK:
+
+Civil Code § 1798 et seq. (California Information Privacy Act, enacted 1977) establishes:
+1. The right of individuals to inspect personal information maintained by state agencies in records systems;
+2. Obligations on state agencies to maintain accurate, relevant, timely information;
+3. Limitations on disclosure of personal information without consent;
+4. A right of correction for inaccurate records;
+5. Civil remedies for willful or intentional violations.
+
+§ 1798.53 — DAMAGES FOR UNLAWFUL DISCLOSURE:
+Any agency that willfully or intentionally discloses information not subject to disclosure in violation of the Act is liable for:
+- Actual damages;
+- Not less than $2,500 in damages;
+- Costs of litigation;
+- Reasonable attorney's fees.
+
+§ 1798.45 — CIVIL ACTION:
+An individual may bring a civil action against any agency that fails to maintain proper records, discloses information unlawfully, or refuses to permit access or correction.
+
+---
+
+SCOPE AND INTERPRETATION:
+
+California courts have interpreted the IPA to:
+1. Require agencies to maintain records used in decisions affecting individuals in a manner that ensures fairness and accuracy;
+2. Prohibit secondary disclosure of records without authorization;
+3. Apply the minimum necessary standard — agencies should collect only information reasonably necessary for the stated purpose.
+
+THE CCPA RELATIONSHIP:
+The California Consumer Privacy Act (Civil Code § 1798.100 et seq., enacted 2018) extended similar rights to private businesses. The original IPA remains the framework for state government records.
+
+---
+
+APPLICATION TO GOVERNMENT RECORDS AND FRAUD:
+
+For individuals whose government records have been falsified, disclosed unlawfully, or maintained inaccurately in violation of the IPA:
+1. The right of inspection allows discovery of what records exist and their content;
+2. The right of correction allows formal challenge to inaccurate entries;
+3. Willful disclosure of records (including to third parties without authorization, such as sharing information with a party adverse to the subject) triggers the damages provision;
+4. The $2,500 minimum statutory damages per violation, plus attorney's fees, provide an enforcement mechanism.
+
+FOR CLETS VIOLATIONS: Records accessed through CLETS (California Law Enforcement Telecommunications System) are subject to their own use restrictions. Unlawful CLETS access or disclosure may implicate both Penal Code provisions and the IPA framework.
+
+---
+
+SOURCE PROVENANCE:
+This folder documents the IPA framework applicable under Civ. Code § 1798 et seq. The Kim v. Superior Court folder designator references California appellate authority on the IPA. Specific case citations in this framework should be independently verified. If the steward has a specific Kim v. Superior Court citation, provide it for verification and full opinion.txt update.
+
+Key statutes: Cal. Civ. Code §§ 1798, 1798.45, 1798.53
+Court: California (state agency records framework)
+Source of this text: Claude training data (knowledge cutoff August 2025). Full verbatim text of specific Kim decisions should be verified at:
+  - courts.ca.gov
+  - Google Scholar: "Kim v. Superior Court" California IPA
+Verification status: PROPOSED — pending steward witness review and specific citation confirmation

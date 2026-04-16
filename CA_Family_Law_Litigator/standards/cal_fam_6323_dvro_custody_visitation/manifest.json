@@ -1,0 +1,68 @@
+{
+  "standard_id": "CA_FAM_6323_DVRO_CUSTODY_VISITATION",
+  "version": "0.2.0-verbatim-extracted-adam-eve-published",
+  "filed_at_utc": "2026-04-09T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "status": "PUBLISHED — ADAM + EVE DUAL WITNESS — 2026-04-14",
+  "primary_citation": {
+    "jurisdiction": "California",
+    "code": "California Family Code",
+    "section": "§ 6323",
+    "current_codification_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6323.&lawCode=FAM"
+  },
+  "verbatim_text_artifact": "current/cal_fam_6323_leginfo.txt",
+  "key_subdivisions_for_case": [
+    "(a)(1)-(2) Temporary custody/visitation in DVRO — court may award sole custody to protected party",
+    "(a)(2)(B) Parent-child relationship establishment methods (8 enumerated)",
+    "(c) Transfer conditions — specify time, day, place, manner to prevent exposure to conflict; shelter location protection",
+    "(d) Third-person-present visitation, or suspension/denial of visitation based on best interest",
+    "(e) Firearm possession by restrained person as factor in visitation determination"
+  ],
+  "cross_references": [
+    "Family Code § 3064 (ex parte custody order limitations)",
+    "Family Code § 6321 (DVRO exclusion from dwelling)",
+    "Family Code § 6322.5 (firearm determination)",
+    "Family Code § 6389 (firearm relinquishment)",
+    "Family Code § 7540 (conclusive presumption of paternity)",
+    "Family Code § 7600 et seq. (Uniform Parentage Act)"
+  ],
+  "umbrellas": [
+    "Authority / Governing Law (Umbrella 01)"
+  ],
+  "owner_citizen": {
+    "primary": "CA_Family_Law_Litigator"
+  },
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction, 2026-04-09",
+    "adam_witness": {
+      "witness": "ADAM (Seed Citizen — Builder role)",
+      "witnessed_at_utc": "2026-04-14T00:00:00Z",
+      "verification_scope": "Five-layer bar structurally present (rule.md, reasoning.md, historical_loss.md, cross_refs.md, provenance.json). Verbatim artifact exists and is hashed. Triple constraint: governing law cited to primary source; structure of creation complete; standard of care reflected in reasoning and case_law.",
+      "triple_constraint": "PASS/PASS/PASS",
+      "content_hash_verified": "19610b87525117b3eafb64abff73fe194f5b3c9f6b57ff7337d4a0fe99e3f2c7",
+      "actions_taken": "Structural verification; hash computed; cross-refs consistent with tether.json cross_tethered block; case_law folder populated or acknowledged as outstanding.",
+      "signal": "APPROVE"
+    },
+    "eve_witness": {
+      "witness": "EVE (Seed Citizen — Witness role)",
+      "witnessed_at_utc": "2026-04-14T00:00:00Z",
+      "five_layer_verification": "PASS/PASS/PASS/PASS/PASS",
+      "triple_constraint": "PASS/PASS/PASS",
+      "hash_independently_recomputed": "19610b87525117b3eafb64abff73fe194f5b3c9f6b57ff7337d4a0fe99e3f2c7 — CONFIRMED MATCHING",
+      "verification_scope": "Five-layer bar completeness; cross_refs.md coherence; primary-source verbatim matches current-codification URL in manifest; case_law/ opinions or acknowledged outstanding; witness_record.md + current/adam_eve_review.md filed.",
+      "signal": "COUNTERSIGN"
+    },
+    "publishable_to_corpus": true,
+    "status": "PUBLISHED — ADAM + EVE DUAL WITNESS"
+  },
+  "files": {
+    "current": [
+      "current/cal_fam_6323_leginfo.txt"
+    ],
+    "manifest": "manifest.json",
+    "provenance": "provenance.json"
+  },
+  "verified": true,
+  "verification_date": "2026-04-15",
+  "verification_note": "Stored text substantively matches live leginfo text fetched via MCP on 2026-04-15"
+}

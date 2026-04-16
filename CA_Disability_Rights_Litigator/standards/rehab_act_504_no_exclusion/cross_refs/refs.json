@@ -1,0 +1,47 @@
+{
+  "standard_id": "rehab_act_504_no_exclusion",
+  "citizen": "CA_Disability_Rights_Litigator",
+  "build_date": "2026-04-13",
+  "cross_references": [
+    {
+      "ref_id": "XREF-504-001",
+      "target_citizen": "CA_Disability_Rights_Litigator",
+      "target_standard": "ada_12131_title_ii_public_services",
+      "path": "${citizens}/CA_Disability_Rights_Litigator/standards/ada_12131_title_ii_public_services/",
+      "relationship": "parallel",
+      "note": "§504 and ADA Title II cover overlapping territory for state and local government programs. Always plead both: Title II applies to all public entities; §504 applies to all federal funding recipients. A state agency or court that is both a public entity (Title II) and a federal funding recipient (§504) is covered by both. The standards are similar post-ADAAA but the mechanisms differ (Title II: public entity mandate; §504: federal funds condition)."
+    },
+    {
+      "ref_id": "XREF-504-002",
+      "target_citizen": "CA_Disability_Rights_Litigator",
+      "target_standard": "civ_51_unruh_civil_rights_act",
+      "path": "${citizens}/CA_Disability_Rights_Litigator/standards/civ_51_unruh_civil_rights_act/",
+      "relationship": "concurrent",
+      "note": "§504 incorporates ADA standards (§794(d) for employment; case law for program access). ADA violation = Unruh per se (§51(f)). Therefore §504 violation → ADA standard violated → Unruh per se → $4,000 minimum statutory damages in California civil court. The chain: §504 establishes the federal violation; §51(f) converts it to California statutory damages."
+    },
+    {
+      "ref_id": "XREF-504-003",
+      "target_citizen": "US_Federal_Social_Security_Litigator",
+      "target_standard": "usc_42_423_disability_definition",
+      "path": "${citizens}/US_Federal_Social_Security_Litigator/standards/usc_42_423_disability_definition/",
+      "relationship": "parallel",
+      "note": "DDS (Disability Determination Services) administers SSA disability determinations under contract — receiving federal funding. If DDS excluded or denied benefits to a qualified disabled individual based on phantom contacts or fabricated records, §504 is violated. The §504 track is civil rights; the §405(g) track is administrative review. Both may apply to a deficient DDS determination."
+    },
+    {
+      "ref_id": "XREF-504-004",
+      "target_citizen": "CA_Victim_Compensation_Litigator",
+      "target_standard": "gov_13950_vcb_jurisdiction",
+      "path": "${citizens}/CA_Victim_Compensation_Litigator/standards/gov_13950_vcb_jurisdiction/",
+      "relationship": "parallel",
+      "note": "CalVCB administers the federal-state Crime Victims Compensation Program — receiving VOCA (Victims of Crime Act) federal funding. CalVCB is a §504-covered program. Disability-based discrimination in the CalVCB application/appeal process violates §504. Plead alongside the GOV §13950 et seq. statutory violations and the §1094.5 administrative mandamus challenge."
+    },
+    {
+      "ref_id": "XREF-504-005",
+      "target_citizen": "CA_Healthcare_Fraud_Litigator",
+      "target_standard": "hsc_1340_knox_keene_framework",
+      "path": "${citizens}/CA_Healthcare_Fraud_Litigator/standards/hsc_1340_knox_keene_framework/",
+      "relationship": "parallel",
+      "note": "Hospitals and health plans receiving Medicare/Medicaid are §504-covered programs. Denial of medically necessary care to a disabled person by a Medicare/Medicaid-receiving provider is both a Knox-Keene Act violation and a §504 violation. The §504 track adds federal civil rights enforcement to the insurance regulatory track."
+    }
+  ]
+}

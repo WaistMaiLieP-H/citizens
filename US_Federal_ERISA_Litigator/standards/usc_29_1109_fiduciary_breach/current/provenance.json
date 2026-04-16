@@ -1,0 +1,14 @@
+{
+  "standard": "usc_29_1109_fiduciary_breach",
+  "layer": "current",
+  "title": "29 U.S.C. § 1109 — Liability for Breach of Fiduciary Duty",
+  "enacted": "1974-09-02",
+  "enacting_law": "Pub. L. 93-406 (ERISA), 88 Stat. 829",
+  "current_through": "Pub. L. 116-94 (SECURE Act, 2019)",
+  "official_source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1109",
+  "cornell_lii_source": "https://www.law.cornell.edu/uscode/text/29/1109",
+  "fetch_method": "Manual capture — MCP VernenLegal tool does not index Title 29; text verified against Cornell LII and U.S. Code House.gov",
+  "retrieval_steward": "Claude (assistant) under direction of Michael Hartmann",
+  "retrieval_date": "2026-04-11",
+  "notes": "§ 1109 has not been textually amended since 1974 original enactment. The standard has evolved through case law interpretation, most significantly Tibble v. Edison (2015) on ongoing monitoring duty."
+}

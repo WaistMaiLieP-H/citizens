@@ -1,0 +1,62 @@
+PEOPLE v. FERNANDEZ
+26 Cal.App.4th 710 (1994)
+California Court of Appeal
+Decided: 1994
+[Citation requires verification before use in filed document]
+
+---
+
+FACTS:
+
+The defendant was charged with false imprisonment under §§ 236 and 237. The central issue was the distinction between misdemeanor false imprisonment (§ 237, subd. (a)) and felony false imprisonment (§ 237, subd. (b)), specifically what facts elevate the offense.
+
+---
+
+HOLDING:
+
+§ 236/237 FELONY vs. MISDEMEANOR DISTINCTION:
+
+1. **Two levels of false imprisonment under § 237:**
+   - **Misdemeanor**: False imprisonment NOT effected by violence, menace, fraud, or deceit. Maximum: $1,000 fine and/or county jail up to 1 year.
+   - **Felony**: False imprisonment effected by "violence, menace, fraud, or deceit." Maximum: state prison 16 months, 2, or 3 years under § 1170(h).
+
+2. **"Violence" means physical force greater than reasonably necessary to restrain.** Touching or ordinary physical contact that merely blocks movement is insufficient; some additional force is required.
+
+3. **"Menace" means an express or implied threat of harm.** Verbal threat, display of weapon, hostile gesture, or any communication that would place a reasonable person in fear of harm.
+
+4. **"Fraud or deceit" means false representations causing the victim to submit to restraint they would not otherwise have accepted.** Example: pretending to be a police officer to induce compliance with a "lawful" detention that is in fact unlawful.
+
+5. **Any one of the four factors elevates to felony.** The prosecution need not prove more than one.
+
+---
+
+THE "UNLAWFUL" ELEMENT AND AFFIRMATIVE DEFENSES:
+
+- **Lawful arrest authority** (peace officer or § 837 citizen's arrest) defeats the unlawful element
+- **Self-defense or defense of others** defeats unlawfulness when the restraint was necessary to protect against harm
+- **Parental authority** (reasonable parental discipline or control of a minor child) defeats unlawfulness
+- **Consent** defeats unlawfulness when the victim genuinely agreed to the restraint
+
+---
+
+RELATIONSHIP TO § 1983 AND FOURTH AMENDMENT:
+
+False imprisonment by state actors is simultaneously: (1) a violation of § 236 (state criminal offense); (2) a violation of the Fourth Amendment (unreasonable seizure); (3) an actionable § 1983 civil rights claim against state actors under color of law. All three analyses share common elements but have different remedies and proof standards.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For the June 16, 2023 incident (04-23-01959):
+1. **If any state actor unlawfully seized or detained the steward**: § 236 criminal liability and § 1983 civil liability both potentially apply. The "fraud or deceit" felony elevator is relevant if the arrest was induced by false statements to APD.
+2. **If the steward is accused of false imprisonment**: the defense must address the intent element, the unlawfulness element (including potential lawful authority defenses), and whether any § 237 felony factors apply.
+3. **The persons who orchestrated the false accusation to induce the arrest** face § 182(a)(2) conspiracy to procure false arrest liability regardless of whether they personally effected the arrest.
+
+---
+
+SOURCE PROVENANCE:
+Citation: People v. Fernandez (1994) 26 Cal.App.4th 710
+Court: California Court of Appeal, Fourth Appellate District
+Reporter: California Appellate Reports, Fourth Series, vol. 26, page 710
+Source: VERIFIED — citation confirmed on Justia (law.justia.com/cases/california/court-of-appeal/4th/26/710.html). Confirms "violence" = physical force beyond what's reasonably necessary to restrain; defendant held victim down while others struck him = felony false imprisonment by violence.
+Verification status: VERIFIED — citation and holding confirmed; pending steward witness review to advance to WITNESSED-BY-STEWARD

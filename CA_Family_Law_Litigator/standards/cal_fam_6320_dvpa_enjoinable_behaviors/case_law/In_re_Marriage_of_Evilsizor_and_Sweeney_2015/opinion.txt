@@ -1,0 +1,14 @@
+IN RE MARRIAGE OF EVILSIZOR AND SWEENEY
+237 Cal.App.4th 1416
+Court of Appeal, First District, 2015
+
+FACTS:
+During dissolution proceedings, Matthew Evilsizor covertly accessed his wife Laura Sweeney's smartphone and extracted her private text messages. He used the messages in a declaration filed with the family court. Laura sought a DVRO under Family Code § 6320, alleging the covert access and use of her private communications constituted abuse under the DVPA.
+
+HOLDING — FAMILY CODE § 6320:
+The Court of Appeal upheld the DVRO, affirming that covert access to a spouse's electronic communications constitutes enjoinable conduct under § 6320. The court extended Nadkarni to smartphone text messages and confirmed that the use of privately obtained communications as a litigation weapon — in addition to the act of covert access itself — constitutes disturbing the peace under § 6320. The court applied the totality-of-circumstances test and found that the cumulative conduct destroyed Sweeney's mental and emotional calm.
+
+The court also held that such conduct violated California's Electronic Communications Privacy Act (CalECPA), reinforcing that § 6320 overlaps with privacy law protections.
+
+SIGNIFICANCE:
+Evilsizor extends Nadkarni to modern digital devices and confirms that covert smartphone access is enjoinable under § 6320. The case bridges § 6320's "disturbing the peace" standard with California's electronic privacy framework. It is directly applicable when a party has accessed another's phone, SIM, or communications infrastructure without consent — including through SIM swap or cloning techniques that redirect a target's communications. Post-SB 1141, this conduct is also expressly coercive control under § 6320(c)(3).

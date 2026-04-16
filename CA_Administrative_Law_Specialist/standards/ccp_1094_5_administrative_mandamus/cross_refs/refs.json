@@ -1,0 +1,47 @@
+{
+  "standard_id": "ccp_1094_5_administrative_mandamus",
+  "citizen": "CA_Administrative_Law_Specialist",
+  "build_date": "2026-04-13",
+  "cross_references": [
+    {
+      "ref_id": "XREF-1094-001",
+      "target_citizen": "CA_Administrative_Law_Specialist",
+      "target_standard": "gov_11513_apa_hearing_procedures",
+      "path": "${citizens}/CA_Administrative_Law_Specialist/standards/gov_11513_apa_hearing_procedures/",
+      "relationship": "prerequisite",
+      "note": "§1094.5(b) fair trial ground tracks whether the APA hearing procedures (GOV §11513) were followed. A §11513 violation — denial of cross-examination, oath-less evidence, hearsay as sole basis — is the predicate for a §1094.5(b) fair trial challenge."
+    },
+    {
+      "ref_id": "XREF-1094-002",
+      "target_citizen": "CA_Administrative_Law_Specialist",
+      "target_standard": "gov_11340_apa_purpose",
+      "path": "${citizens}/CA_Administrative_Law_Specialist/standards/gov_11340_apa_purpose/",
+      "relationship": "concurrent",
+      "note": "GOV §11340 APA purpose defines the framework within which §1094.5 review operates. The 'manner required by law' in §1094.5(b) refers to the APA framework that GOV §11340 et seq. establishes."
+    },
+    {
+      "ref_id": "XREF-1094-003",
+      "target_citizen": "CA_Victim_Compensation_Litigator",
+      "target_standard": "gov_13950_calvcb_framework",
+      "path": "${citizens}/CA_Victim_Compensation_Litigator/standards/gov_13950_calvcb_framework/",
+      "relationship": "application",
+      "note": "CalVCB appeal A25-10117946: §1094.5 writ of mandate is the vehicle for judicial review of CalVCB's final denial. The 13 FAIL findings from the audit map to §1094.5(b) manner (shortened deadlines), decision-findings link (single-source denial), and fair trial grounds."
+    },
+    {
+      "ref_id": "XREF-1094-004",
+      "target_citizen": "CA_Administrative_Law_Specialist",
+      "target_standard": "gov_11350_regulation_validity_challenge",
+      "path": "${citizens}/CA_Administrative_Law_Specialist/standards/gov_11350_regulation_validity_challenge/",
+      "relationship": "parallel",
+      "note": "GOV §11350 challenges the validity of regulations; CCP §1094.5 challenges the application of regulations in a specific adjudication. They are distinct vehicles: §11350 = rulemaking validity; §1094.5 = adjudicative decision validity."
+    },
+    {
+      "ref_id": "XREF-1094-005",
+      "target_citizen": "CA_Mental_Health_Litigator",
+      "target_standard": "pen_1368_mental_competency",
+      "path": "${citizens}/CA_Mental_Health_Litigator/standards/pen_1368_mental_competency/",
+      "relationship": "application",
+      "note": "If Dr. Wiita's PC §1368 evaluation resulted in an OAH adjudication, §1094.5 is the judicial review vehicle. Fair trial ground: was the hearing conducted under GOV §11513 oath/cross-examination requirements? Was the MC-350 absence addressed in the record?"
+    }
+  ]
+}

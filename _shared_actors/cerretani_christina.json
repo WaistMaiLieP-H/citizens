@@ -1,0 +1,34 @@
+{
+  "shared_id": "cerretani_christina",
+  "canonical_name": "Christina Marie Cerretani",
+  "aliases": [
+    "Christina Marie Hartmann (during marriage 2009-2010)",
+    "Christina Hartmann",
+    "Christina Cerretani"
+  ],
+  "identity_notes": "Former spouse of steward. DOB discrepancy: some filings show 1984, others 1988. 3 children (Cole, Aiden, Avery), custody of none. Placed at Homeward Bound Marin as DV survivor on fabricated DVRO basis.",
+
+  "citizen_appearances": {
+    "CA_Family_Law_Litigator": {
+      "role": "OPPOSING PARTY — 16-year counter-filing playbook; originally documented abuser per Alameda County Sheriff 09-011438 (2/15/2009); every restraining order or criminal incident triggers counter-DV filing within 2-3 weeks",
+      "risk_level": "OPPOSING PARTY",
+      "local_record": "${citizens}/CA_Family_Law_Litigator/actors/cerretani_christina.json"
+    },
+    "US_Federal_Civil_Rights_Litigator": {
+      "role": "§1983 defendant (individually) — participated in conspiracy to deprive steward of due process and custody rights; §1985 co-conspirator with Ann Hillberg and state actors",
+      "risk_level": "HIGH",
+      "local_record": "${citizens}/US_Federal_Civil_Rights_Litigator/actors/cerretani_christina.json",
+      "applicable_standards": ["42_USC_1983", "42_USC_1985"]
+    },
+    "CA_Civil_Rights_Litigator": {
+      "role": "Bane Act (§52.1) potential defendant — threats/intimidation/coercion interfering with constitutional rights in concert with state actors",
+      "risk_level": "HIGH",
+      "local_record": "${citizens}/CA_Civil_Rights_Litigator/actors/cerretani_christina.json",
+      "applicable_standards": ["CAL_CIV_CODE_52_1"]
+    }
+  },
+
+  "cross_domain_risk": "HIGH — opposing party in family law who is also individually liable under §1983 as a private party acting in concert with state actors (APD, court mediators); 16-year pattern of coordinated conduct with Ann Hillberg creates §1985 conspiracy exposure; Bane Act applies because state actor involvement converts private conduct into actionable interference",
+
+  "filed_at_utc": "2026-04-08T22:00:00Z"
+}

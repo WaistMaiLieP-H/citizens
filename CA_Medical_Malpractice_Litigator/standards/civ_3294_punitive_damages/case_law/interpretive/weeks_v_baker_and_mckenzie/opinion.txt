@@ -1,0 +1,83 @@
+WEEKS v. BAKER & McKENZIE
+63 Cal.App.4th 1128 (1998)
+California Court of Appeal, First Appellate District, Division Two
+Decided: April 6, 1998
+
+---
+
+FACTS:
+
+Rena Weeks, a legal secretary at Baker & McKenzie (then the world's largest law firm), was subjected to repeated sexual harassment by a senior partner, Martin Greenstein. The harassment included unwanted touching, sexual comments, and physically aggressive behavior. Weeks sued Baker & McKenzie for sexual harassment, sexual battery, and sought punitive damages against the firm.
+
+The trial awarded Weeks $50,000 in compensatory damages and $6.9 million in punitive damages against Baker & McKenzie. The case became a landmark for employer punitive damages liability and the scope of § 3294(b).
+
+---
+
+HOLDING — EMPLOYER PUNITIVE DAMAGES UNDER § 3294(b):
+
+CORPORATE RATIFICATION OF EMPLOYEE MISCONDUCT:
+The court affirmed punitive damages against Baker & McKenzie based on the firm's ratification of the harasser's conduct. Under Civil Code § 3294(b), an employer is liable for punitive damages based on employee conduct when the employer:
+(a) Had advance knowledge of the employee's unfitness and employed him with conscious disregard; OR
+(b) Authorized or ratified the wrongful conduct.
+
+RATIFICATION DEFINED:
+An employer ratifies an employee's wrongful conduct when:
+1. Management knows of the employee's specific misconduct;
+2. Management fails to take adequate remedial measures to prevent recurrence;
+3. Management continues to employ the wrongdoer in a position where the wrongdoing can continue.
+
+"An employer cannot be shielded from punitive damages by establishing that the harassing employee was disciplined after the fact if the discipline was inadequate and the harassment continued." (Paraphrase of holding.)
+
+EVIDENCE OF RATIFICATION IN WEEKS:
+Baker & McKenzie received prior complaints about Greenstein from other secretaries. The firm's response was inadequate — it moved him to different offices and gave minimal reprimands without removing him from positions of authority over support staff. When Weeks complained, the initial response was again inadequate. The jury concluded this constituted ratification.
+
+---
+
+HOLDING — MANAGING AGENT STATUS:
+
+For § 3294(b) to apply, the officer/director/managing agent with "advance knowledge" must actually be a managing agent — someone with substantial supervisory authority and responsibility for a significant aspect of the employer's business.
+
+The court held that Greenstein's supervisory position over secretarial staff, and the authority of the firm's management partners, satisfied the "managing agent" requirement. The question is whether the relevant corporate actor had sufficient authority that their acts could be said to represent corporate policy.
+
+---
+
+HOLDING — PUNITIVE DAMAGES RATIO:
+
+The court addressed whether the $6.9 million punitive award was constitutionally proportionate to $50,000 in compensatory damages — a ratio of approximately 138:1. The court upheld the award, reasoning:
+1. The wealth of Baker & McKenzie as a large international law firm made a smaller award meaningless;
+2. The reprehensibility of conduct that was repeated and enabled by management was high;
+3. The need for deterrence given the employer's resources justified a substantial ratio.
+
+Note: Later Supreme Court decisions (BMW v. Gore, 1996; State Farm v. Campbell, 2003) imposed closer scrutiny on high-ratio punitive awards. Post-State Farm, California courts apply a more nuanced analysis, but Weeks remains relevant for the ratification holding.
+
+---
+
+APPLICATION TO MEDICAL MALPRACTICE / INSTITUTIONAL LIABILITY:
+
+Weeks v. Baker & McKenzie is the leading California case on employer ratification under § 3294(b). Its principles apply directly to institutional medical malpractice where:
+
+1. A hospital or medical group received prior complaints about a physician's unsafe practices;
+2. The institution's response was inadequate (minor discipline, transfer rather than remediation);
+3. The same provider continued to harm patients.
+
+THE RATIFICATION THEORY IN HEALTHCARE:
+If a hospital's credentialing committee or quality assurance department received incident reports, peer review findings, or patient complaints about a provider — and the institution failed to take adequate corrective action — the institution may have "ratified" the ongoing harmful conduct under Weeks.
+
+KEY DISCOVERY TARGETS:
+- Peer review files (though partially protected by Evidence Code § 1157);
+- Credentialing files;
+- Incident reports and quality assurance records;
+- Prior patient complaints about the same provider;
+- Communications between management and the offending provider.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 63 Cal.App.4th 1128 (1998)
+Official reporter: California Appellate Reports, Fourth Series, vol. 63, page 1128
+Court: California Court of Appeal, First Appellate District, Division Two
+Key holdings: Employer ratification under § 3294(b); managing agent standard; inadequate response to known misconduct constitutes ratification
+Source of this text: Claude training data (knowledge cutoff August 2025). Weeks v. Baker & McKenzie is the landmark California employer ratification punitive damages case. Full verbatim text should be verified at:
+  - courts.ca.gov
+  - Google Scholar: "Weeks v. Baker McKenzie 63 Cal.App.4th"
+Verification status: PROPOSED — pending steward witness review

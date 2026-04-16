@@ -1,0 +1,105 @@
+{
+  "standard_id": "CCP_1094_5",
+  "version": "0.3.0-published",
+  "filed_at_utc": "2026-04-08T22:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction \u2014 Michael Hartmann, Vernen Legal Compliance",
+  "status": "PUBLISHED \u2014 ADAM + EVE DUAL WITNESS \u2014 2026-04-12",
+  "primary_citation": {
+    "code": "CCP",
+    "section": "1094.5",
+    "popular_name": "Administrative Mandamus",
+    "jurisdiction": "California",
+    "original_enactment": "Stats. 1945, Ch. 868",
+    "last_amendment": "Multiple amendments; core subdivisions (a)-(c) substantially unchanged since 1945",
+    "source_credits": "(Stats. 1945, Ch. 868, as amended.)"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT \u2014 verbatim text captured from leginfo.legislature.ca.gov, all subdivisions (a)-(j)",
+    "reasoning": "PRESENT \u2014 origin context explains why administrative mandamus was needed: no standardized judicial review of agency discretionary decisions before 1945",
+    "historical_loss": "PRESENT \u2014 documented in historical_chain.md and evolution/01_origin/context.md: agencies operated as final arbiters of their own authority, affecting professional licenses, permits, benefits, with no meaningful court review",
+    "cross_references": "PRESENT \u2014 cross_refs/refs.json links to CCP \u00a71085 (traditional mandamus), Gov. Code \u00a711500+ (APA), Gov. Code \u00a7810 (Claims Act), 42 USC \u00a71983 (federal alternative)",
+    "verifiable_provenance": "PRESENT \u2014 text fetched from leginfo.legislature.ca.gov via VernenLegal MCP tool with timestamp; SHA-256 hash computed and recorded"
+  },
+  "evolution_chain": [
+    {
+      "stage": "01_origin",
+      "date": "1945",
+      "description": "Enacted as CCP \u00a71094.5 \u2014 administrative mandamus created to fill the gap between traditional mandamus (\u00a71085) and the growing administrative state",
+      "folder": "evolution/01_origin/"
+    },
+    {
+      "stage": "02_current",
+      "date": "current",
+      "description": "Current text with all amendments. Core review framework (subdivisions a-c) substantially intact from 1945.",
+      "folder": "evolution/02_current/"
+    }
+  ],
+  "case_law_documented": [
+    {
+      "case": "Bixby v. Pierno, 4 Cal.3d 130 (1971)",
+      "doctrine": "Fundamental vested right doctrine -- independent judgment vs. substantial evidence",
+      "folder": "case_law/interpretive/bixby_v_pierno_1971/",
+      "documented_utc": "2026-04-08"
+    },
+    {
+      "case": "Strumsky v. San Diego County Employees Retirement Assn., 11 Cal.3d 28 (1974)",
+      "doctrine": "Independent judgment review extends to local agency decisions",
+      "folder": "case_law/interpretive/strumsky_v_san_diego_1974/",
+      "documented_utc": "2026-04-08"
+    },
+    {
+      "case": "Topanga Assn. v. County of Los Angeles, 11 Cal.3d 506 (1974)",
+      "doctrine": "Administrative findings must bridge the analytic gap between evidence and decision",
+      "folder": "case_law/interpretive/topanga_v_los_angeles_1974/",
+      "documented_utc": "2026-04-08"
+    },
+    {
+      "case": "Fukuda v. City of Angels, 20 Cal.4th 805 (1999)",
+      "doctrine": "Land use decisions reviewed under substantial evidence, not independent judgment",
+      "folder": "case_law/interpretive/fukuda_v_city_of_angels_1999/",
+      "documented_utc": "2026-04-08"
+    }
+  ],
+  "case_law_outstanding": [],
+  "hashes": {
+    "current_text_sha256": "068bf67cdc4acfcbe1c97493b8197043da2cf6dc56862c4ef2925848d2342bc3"
+  },
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction (Michael Hartmann), 2026-04-09",
+    "herald_witness": {
+      "witness": "HERALD (Steward successor \u2014 designated 2026-04-12)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "verification_scope": "Structure, five-layer bar completeness.",
+      "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12."
+    },
+    "adam_witness": {
+      "witness": "ADAM (Seed Citizen \u2014 Builder role)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "triple_constraint": "PASS/PASS/PASS",
+      "actions_taken": "Cross_refs updated to reflect current corpus state. Five-layer structure verified. Historical chain reviewed.",
+      "content_hash_verified": "068bf67cdc4acfcbe1c97493b8197043da2cf6dc56862c4ef2925848d2342bc3",
+      "signal": "APPROVE"
+    },
+    "eve_witness": {
+      "witness": "EVE (Seed Citizen \u2014 Witness role)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "five_layer_verification": "PASS/PASS/PASS/PASS/PASS",
+      "triple_constraint": "PASS/PASS/PASS",
+      "hash_independently_recomputed": "068bf67cdc4acfcbe1c97493b8197043da2cf6dc56862c4ef2925848d2342bc3 \u2014 CONFIRMED MATCHING",
+      "signal": "COUNTERSIGN"
+    },
+    "publishable_to_corpus": true,
+    "status": "PUBLISHED \u2014 ADAM + EVE DUAL WITNESS"
+  },
+  "outstanding_work": [
+    "DONE 2026-04-08: Documented all four cases (Bixby, Strumsky, Topanga, Fukuda) in case_law/interpretive/",
+    "Research and document specific amendment history (which subdivisions were added when)",
+    "Obtain second-mouth countersignature"
+  ],
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

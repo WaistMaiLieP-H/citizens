@@ -1,0 +1,84 @@
+{
+  "standard_id": "CCP_340_5_MEDICAL_SOL",
+  "citizen": "CA_Medical_Malpractice_Litigator",
+  "version": "1.0.0",
+  "status": "PROPOSED",
+  "primary_citation": "Cal. Code Civ. Proc. §340.5 (MICRA, Stats. 1975, Ch. 2, 2d Ex. Sess., effective 1976-01-01)",
+  "short_title": "Medical Malpractice Statute of Limitations — 1 Year Discovery / 3 Year Absolute",
+  "one_line_rule": "Professional negligence actions against health care providers must be filed within one year of discovering the injury and its negligent cause, and no more than three years from the date of injury, with four enumerated tolling exceptions.",
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current/LOGIC.md",
+    "reasoning": "PRESENT — current/LOGIC.md §§ WOUND + DESIGN + SIRVA + spine surgery applications",
+    "historical_loss": "PRESENT — historical_chain.md + evolution/ (3 stages)",
+    "cross_references": "PRESENT — cross_refs/refs.json (4 references)",
+    "verifiable_provenance": "PRESENT — current/provenance.json + evolution provenances; verbatim text capture PENDING"
+  },
+  "evolution_chain": [
+    {
+      "stage": "01_origin_1970",
+      "label": "Pre-MICRA: General Discovery Rule Applied",
+      "source": "Common law discovery rule + CCP §338(d); no standalone medical SOL",
+      "logic_file": "evolution/01_origin_1970/LOGIC.md"
+    },
+    {
+      "stage": "02_micra_1975_one_year",
+      "label": "MICRA Enacted — §340.5 1-Year/3-Year Structure",
+      "source": "Stats. 1975, Ch. 2 (2d Ex. Sess.)",
+      "logic_file": "evolution/02_micra_1975_one_year/LOGIC.md"
+    },
+    {
+      "stage": "03_wrongful_death_coordination",
+      "label": "Jolly v. Eli Lilly — 'Reason to Suspect' Standard",
+      "source": "Jolly v. Eli Lilly & Co., 44 Cal.3d 1103 (1988)",
+      "logic_file": "evolution/03_wrongful_death_coordination/LOGIC.md"
+    }
+  ],
+  "case_law": [
+    {
+      "slug": "jolly_v_eli_lilly",
+      "cite": "Jolly v. Eli Lilly & Co., 44 Cal.3d 1103 (1988)",
+      "court": "California Supreme Court",
+      "category": "interpretive",
+      "key_rule": "Discovery trigger = 'reason to suspect' the injury was caused by defendant's wrong; specific knowledge not required; duty to investigate once suspicion arises; ignorance of tortfeasor identity does not toll.",
+      "verbatim_capture_status": "PENDING"
+    },
+    {
+      "slug": "foxborough_v_superior_court",
+      "cite": "Foxborough v. Van Atta, 26 Cal.App.4th 217 (1994)",
+      "court": "California Court of Appeal, First Appellate District",
+      "category": "interpretive",
+      "key_rule": "Physician reassurance can delay 'reason to suspect' trigger; bad outcome alone ≠ suspected negligence; second opinion identifying negligence = classic discovery event; objective reasonable-person standard.",
+      "verbatim_capture_status": "PENDING"
+    }
+  ],
+  "sol_calculations": {
+    "sirva": {
+      "injury_date": "~November 2021 (COVID vaccine injection, Walgreens Brentwood)",
+      "surgery_date": "2022-04-20 (Dr. Wiseman — post-surgical outcomes worse)",
+      "discovery_question": "When did Michael have 'reason to suspect' shoulder injury was caused by negligent injection rather than vaccine reaction?",
+      "likely_discovery_event": "SIRVA diagnosis by specialist (date to be established from medical records)",
+      "3_year_outer_limit": "~November 2024",
+      "status": "May still be within SOL if SIRVA diagnosis was recent; requires verification of diagnosis date",
+      "tolling_theories": "Physician reassurance (Foxborough); fraudulent concealment if Walgreens/Wiseman mischaracterized injury"
+    },
+    "spine_surgery": {
+      "injury_date": "Surgery date — confirm from records (2016 or 2017)",
+      "discovery_question": "When did Michael have 'reason to suspect' surgery was not clinically indicated?",
+      "likely_discovery_event": "Second opinion establishing surgery was unindicated",
+      "outer_limit": "3 years from surgery date",
+      "status": "Requires verification — if surgery was 2016-2017, 3-year outer may have run; fraudulent concealment tolling critical",
+      "hrimnak_escape_value": "Intentional tort framing → CCP §338(d) 3-year discovery SOL instead of §340.5; may provide additional time"
+    }
+  },
+  "outstanding_work": [
+    "Verbatim text capture: Cal. Code Civ. Proc. §340.5 full current text",
+    "Verbatim opinion capture: Jolly v. Eli Lilly, 44 Cal.3d 1103",
+    "Verbatim opinion capture: Foxborough v. Van Atta, 26 Cal.App.4th 217",
+    "Establish SIRVA diagnosis date from medical records — controls 1-year discovery period calculation",
+    "Establish spine surgery date from records — controls whether 3-year outer limit has run",
+    "Second-mouth witness review of Hrimnak SOL interaction analysis",
+    "Add American Bank & Trust v. Community Hospital (1984) as third case law entry for constitutional validity of §340.5"
+  ],
+  "build_date": "2026-04-11",
+  "built_by": "Terminal A"
+}

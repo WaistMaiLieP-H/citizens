@@ -1,0 +1,14 @@
+{
+  "stage": "02_amendment_2007_cpni_order",
+  "label": "FCC 07-22 Authentication Rules + FCC 23-67 SIM Swap Action",
+  "primary_source": "FCC Report and Order FCC 07-22 (Feb. 22, 2007)",
+  "secondary_source": "FCC Declaratory Ruling FCC 23-67 (2023)",
+  "effective_date": "2007 (FCC 07-22); 2023 (FCC 23-67)",
+  "provisions_amended": [
+    "47 C.F.R. §64.2010 — authentication requirements established (password/PIN; biographical alone insufficient)",
+    "47 C.F.R. §64.2011 — CPNI breach notification added (FBI/Secret Service 7-day; customer notification)"
+  ],
+  "significance": "Current operative CPNI authentication rules; FCC 23-67 specifically identifies SIM swap fraud as CPNI violation; strengthens negligence per se argument for AT&T SIM swap facilitation",
+  "verbatim_capture_status": "PENDING — verify FCC 07-22 and FCC 23-67 full text and citation format",
+  "verification_note": "Verify FCC 07-22 and FCC 23-67 order numbers and current rule text at 47 C.F.R. §§64.2010-64.2011 before use in filed documents"
+}

@@ -1,0 +1,36 @@
+{
+  "standard_id": "cal_pen_502_computer_fraud",
+  "description": "Cross-references for California Penal Code § 502 computer fraud and unauthorized access",
+  "cross_references": [
+    {
+      "ref_id": "USC_18_1030_CFAA",
+      "title": "18 U.S.C. § 1030 — Computer Fraud and Abuse Act",
+      "relationship": "Federal parallel. § 502 provides state criminal and civil claims; CFAA provides federal criminal and civil claims. The two statutes apply simultaneously when the conduct has interstate character (which SIM swap attacks almost always do).",
+      "location": "~/citizens/CA_Telecom_Privacy_Litigator/standards/usc_18_1030_cfaa/"
+    },
+    {
+      "ref_id": "USC_47_222_CPNI",
+      "title": "47 U.S.C. § 222 — CPNI",
+      "relationship": "The SIM swap that enables the § 502 unauthorized access starts with a § 222 CPNI violation at the carrier. The two violations are sequential: carrier fails → attacker gets access → unauthorized access occurs.",
+      "location": "~/citizens/CA_Telecom_Privacy_Litigator/standards/usc_47_222_cpni/"
+    },
+    {
+      "ref_id": "PEN_530_5_ID_THEFT",
+      "title": "California Penal Code § 530.5 — Identity Theft",
+      "relationship": "SIM swap is a method of identity theft. The § 502 computer fraud and § 530.5 identity theft charges are co-existing for the same SIM swap event.",
+      "location": "~/citizens/CA_Criminal_Law_Specialist/standards/pen_code_530_5_identity_theft/"
+    },
+    {
+      "ref_id": "PEN_182_CONSPIRACY",
+      "title": "California Penal Code § 182 — Conspiracy",
+      "relationship": "If the SIM swap was coordinated by multiple actors (Christina + McClaran), § 182 conspiracy attaches to the § 502 substantive violations.",
+      "location": "~/citizens/CA_Criminal_Law_Specialist/standards/pen_code_182_conspiracy/"
+    },
+    {
+      "ref_id": "CIV_3294_PUNITIVE",
+      "title": "California Civil Code § 3294 — Punitive Damages",
+      "relationship": "A § 502 violation committed with malice, oppression, or fraud (deliberately targeting the victim) supports a § 3294 punitive damages claim in the civil action.",
+      "location": "~/citizens/CA_Real_Estate_Attorney/standards/cal_civ_3294_punitive/"
+    }
+  ]
+}

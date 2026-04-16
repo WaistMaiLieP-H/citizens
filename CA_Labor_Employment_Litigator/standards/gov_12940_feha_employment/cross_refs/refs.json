@@ -1,0 +1,57 @@
+{
+  "standard_id": "gov_12940_feha_employment",
+  "citizen": "CA_Labor_Employment_Litigator",
+  "layer": "cross_refs",
+  "generated": "2026-04-12",
+  "internal_refs": [
+    {
+      "id": "gov_12965_feha_civil_action",
+      "path": "${citizens}/CA_Labor_Employment_Litigator/standards/gov_12965_feha_civil_action",
+      "relationship": "\u00a712940 substantive violations; \u00a712965 provides the procedure \u2014 CRD exhaustion + right-to-sue + SOL"
+    },
+    {
+      "id": "lab_132a_workers_comp_retaliation",
+      "path": "${citizens}/CA_Labor_Employment_Litigator/standards/lab_132a_workers_comp_retaliation",
+      "relationship": "\u00a7132a and \u00a712940(h) retaliation often arise from same facts \u2014 coordinate to avoid election of remedies; different forums"
+    },
+    {
+      "id": "lab_1102_5_whistleblower",
+      "path": "${citizens}/CA_Labor_Employment_Litigator/standards/lab_1102_5_whistleblower",
+      "relationship": "\u00a71102.5 whistleblower and \u00a712940(h) FEHA retaliation may overlap \u2014 document in parallel"
+    }
+  ],
+  "external_refs": [
+    {
+      "id": "US_Federal_Civil_Rights_Litigator_ADA",
+      "path": "${citizens}/US_Federal_Civil_Rights_Litigator",
+      "relationship": "ADA Title I parallel to FEHA \u00a712940(m)/(n); FEHA generally provides broader protection but federal court may be strategic"
+    },
+    {
+      "id": "CA_Medical_Malpractice_SIRVA",
+      "path": "${citizens}/CA_Medical_Malpractice_Litigator",
+      "relationship": "Bilateral ankle injuries and SIRVA \u2014 medical causation documentation required for both workers comp and FEHA accommodation claims"
+    },
+    {
+      "id": "US_Federal_ERISA_Litigator",
+      "path": "${citizens}/US_Federal_ERISA_Litigator",
+      "relationship": "UA342 pension benefits derive from same employment relationship; LMRA \u00a7301 CBA enforcement coordinates with FEHA claims"
+    }
+  ],
+  "case_law": [
+    {
+      "citation": "Harris v. City of Santa Monica, 56 Cal.4th 203 (2013)",
+      "holding": "FEHA mixed-motive: discrimination must be 'a substantial factor'; employer cannot escape liability by showing same decision would have been made, but can reduce damages",
+      "significance": "Landmark \u2014 sets mixed-motive standard for all FEHA \u00a712940(a) cases"
+    },
+    {
+      "citation": "Yanowitz v. L'Oreal USA, Inc., 36 Cal.4th 1028 (2005)",
+      "holding": "Retaliatory acts under \u00a712940(h); 'adverse employment action' defined broadly; employer cannot retaliate for refusing illegal orders",
+      "significance": "Expanded retaliation protection under \u00a712940(h)"
+    },
+    {
+      "citation": "City of Moorpark v. Superior Court, 18 Cal.4th 1143 (1998)",
+      "holding": "FEHA remedies: full back pay, front pay, emotional distress, punitive damages available; not limited to contract damages",
+      "significance": "Confirmed full damages available in FEHA cases"
+    }
+  ]
+}

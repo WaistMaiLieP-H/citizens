@@ -1,0 +1,12 @@
+In re Marriage of Obrecht
+245 Cal.App.4th 1 (2016)
+California Court of Appeal, First Appellate District, 2016
+
+FACTS:
+Dissolution proceeding in which one party submitted a declaration in support of a request for spousal support modification. The declaration contained the phrase "I declare under penalty of perjury" but omitted "under the laws of the State of California." The opposing party objected that the declaration was not compliant with § 2015.5 and thus not competent evidence.
+
+HOLDING — CCP § 2015.5:
+The Court of Appeal held that the phrase "under the laws of the State of California" is not surplusage — it is the operative language that (a) triggers California perjury law regardless of where the declaration is signed, and (b) distinguishes a California state proceeding declaration from a federal declaration under 28 U.S.C. § 1746. A declaration that says only "under penalty of perjury" without specifying "under the laws of the State of California" does not satisfy § 2015.5 Form (b). The court affirmed the trial court's discretion to disregard the declaration.
+
+SIGNIFICANCE:
+Directly controls declarations submitted to California family courts and state agencies. The phrase "under the laws of the State of California" is required — it is not optional or interchangeable with generic perjury language. Establishes that § 1746 (federal) language is not an equivalent substitute in California state proceedings. Critical for any pro se litigant who finds a federal-court template online and uses it in California family court. The declaration is defective even if the intent to be bound under penalty of perjury is clear, because the statute requires specific language.

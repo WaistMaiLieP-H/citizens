@@ -1,0 +1,78 @@
+KEARNEY v. SALOMON SMITH BARNEY, INC.
+39 Cal.4th 95 (2006)
+Supreme Court of California
+Decided: 2006
+Author: GEORGE, C.J.
+
+---
+
+FACTS:
+
+Salomon Smith Barney, a New York-based investment brokerage, had a policy of recording telephone calls with clients for quality assurance and compliance purposes. This was lawful under New York law (which requires only one-party consent — the recording party's own consent is sufficient). Salomon Smith Barney disclosed the recording to New York clients but not to California clients. The California clients (who received calls recorded in Salomon's New York offices) sued under California Penal Code § 632 (CIPA), arguing that California's all-party consent requirement applied to their calls.
+
+The conflict-of-laws question: When a California resident's telephone call is recorded by a party in New York, does New York's one-party consent law govern (favoring Salomon) or does California's all-party consent law govern (favoring the plaintiffs)?
+
+---
+
+HOLDING:
+
+California's all-party consent requirement under CIPA applies to protect California residents when they are parties to recorded telephone communications, regardless of where the recording party is located or the law of the recording party's jurisdiction.
+
+The Court applied a governmental interest analysis under the California conflict-of-laws rule (Restatement approach). The Court found:
+
+1. California has a strong interest in protecting the privacy of its residents from unconsented recording;
+2. New York has an interest in permitting its businesses to record calls for legitimate business purposes;
+3. In the specific context of calls involving California residents, California's privacy interest outweighs New York's business-permissive interest.
+
+"We conclude that if a person, while in California, carries on a telephone conversation that is recorded by the other party without the knowledge or consent of the person in California, the recording violates California law even if the recording takes place outside California." 39 Cal.4th at 134-135.
+
+---
+
+PRACTICAL APPLICATIONS — CALIFORNIA PARTY RULE:
+
+1. IF ONE PARTY IS IN CALIFORNIA: California CIPA applies. The recording party (wherever located) must obtain all-party consent under § 632 or faces civil and criminal liability.
+
+2. BUSINESS RECORDING POLICIES: Any business that records calls with California customers must comply with California's all-party consent rule, regardless of where the business is headquartered. This is why California businesses typically open calls with "This call may be recorded for quality assurance purposes" — that disclosure + continued participation is treated as implied consent.
+
+3. VIOLATION: If a party records a call with a California resident without obtaining the California resident's consent to the recording, the call is a CIPA § 632 violation — $5,000 minimum civil penalty per call under § 637.2.
+
+---
+
+THE EXTRATERRITORIAL DEFENSE ELIMINATED FOR SIM SWAP CASES:
+
+For the steward's SIM swap interception case:
+
+A SIM swap attacker located outside California who intercepts incoming calls to Michael Hartmann's (California resident's) telephone number cannot argue that California CIPA does not apply because they were located in another state.
+
+Under Kearney: California CIPA applies because Michael, the victim, is a California resident and was the party being called. The communications occurred "while [Michael was] in California." The attacker's location in another state does not override California's interest in protecting its resident from unconsented interception.
+
+This is significant because Ryan McClaran, if located in another state, might argue he was acting under his own state's law (which might permit one-party consent recording, or might not criminalize the type of interception). Kearney eliminates that argument: California law governs because the victim was in California.
+
+---
+
+ALL-PARTY CONSENT — WHAT IT REQUIRES:
+
+Under CIPA §§ 631-632.7:
+- Telephone eavesdropping (§ 631): Prohibited without all-party consent
+- Recording of confidential communications (§ 632): Prohibited without all-party consent
+- Recording of cellular/cordless calls (§ 632.7): Prohibited without all-party consent (no confidentiality requirement — all wireless communications are protected)
+
+CONSENT can be:
+- Express: "Do you consent to this call being recorded?" — affirmative response
+- Implied: Disclosure at outset of call + continued participation after disclosure
+
+CONSENT CANNOT BE:
+- Assumed from mere participation in a call where no disclosure was made
+- Retroactive — consent must precede or accompany the recording
+
+---
+
+SOURCE PROVENANCE:
+Citation: 39 Cal.4th 95 (2006)
+Official reporter: California Reports, Fourth Series, vol. 39, page 95
+Court: Supreme Court of California
+Key quoted passage: 39 Cal.4th at 134-135 (California law applies to recording involving California resident)
+Source of this text: Claude training data (knowledge cutoff August 2025). Kearney is the controlling California Supreme Court decision on CIPA's extraterritorial application. Full verbatim text should be verified at:
+  - courts.ca.gov
+  - Google Scholar: "Kearney v. Salomon Smith Barney 39 Cal.4th"
+Verification status: PROPOSED — pending steward witness review

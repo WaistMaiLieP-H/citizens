@@ -1,0 +1,18 @@
+{
+  "standard_id": "CA_FAM_1816_MEDIATOR_DV_TRAINING",
+  "provenance_record_filed_at_utc": "2026-04-08T18:50:00Z",
+  "fetcher_software": "curl with sha256sum",
+  "fetcher_operator": "Claude (assistant) under steward direction (Michael Hartmann)",
+  "fetches": [
+    {
+      "artifact_local_path": "current/cal_fam_1816_leginfo.html",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1816.&lawCode=FAM",
+      "source_authority": "California Legislative Information (leginfo.legislature.ca.gov)",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-08T18:50:00Z",
+      "fetch_method": "curl --fail --retry 5 --retry-all-errors",
+      "sha256": "9236d87657985d76ec8d702a8ba724eafd908fb1befb1a461bd5a36158a37816",
+      "content_description": "Mediator/Evaluator Domestic Violence Training Requirements"
+    }
+  ]
+}

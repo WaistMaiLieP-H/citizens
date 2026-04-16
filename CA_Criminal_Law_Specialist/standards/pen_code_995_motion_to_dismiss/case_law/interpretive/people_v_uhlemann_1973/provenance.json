@@ -1,0 +1,13 @@
+{
+  "case": "People v. Uhlemann",
+  "reporter_citation": "9 Cal.3d 662",
+  "parallel_citations": ["108 Cal.Rptr. 657", "511 P.2d 609"],
+  "decided": "1973",
+  "court": "Supreme Court of California",
+  "statutes_construed": ["California Penal Code § 995"],
+  "status": "Binding California Supreme Court precedent. Controlling standard for § 995 motions. Still cited in every § 995 briefing as of 2026-04-11.",
+  "opinion_text_source": "Not yet captured",
+  "folder_name_note": "This case is filed in the 'people_v_jenkins_1975' legacy folder — folder name does not match case. Rename folder to 'people_v_uhlemann_1973' in next maintenance pass.",
+  "captured_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "captured_at_utc": "2026-04-11T00:00:00Z"
+}

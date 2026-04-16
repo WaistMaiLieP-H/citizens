@@ -1,0 +1,65 @@
+PIERSON v. RAY
+386 U.S. 547 (1967)
+United States Supreme Court
+Decided: April 11, 1967
+
+---
+
+FACTS:
+
+In 1961, fifteen white and Black clergymen (the respondents) attempted to use segregated facilities at a bus terminal in Jackson, Mississippi. They were arrested by city police officers, including Chief Ray, and convicted of "breach of the peace" under a Mississippi statute. The convictions were ultimately reversed — Mississippi courts later held the statute unconstitutional. The clergymen then sued the arresting officers under 42 U.S.C. § 1983, claiming the officers had deprived them of constitutional rights under color of law.
+
+The trial court granted directed verdicts for the officers. The Fifth Circuit reversed, holding that officers acting under an unconstitutional statute could not claim good faith or probable cause as a defense.
+
+The Supreme Court reversed the Fifth Circuit and reinstated the directed verdicts.
+
+---
+
+HOLDING:
+
+Chief Justice Warren wrote for the Court (8-1).
+
+OFFICERS MAY ASSERT GOOD FAITH AND PROBABLE CAUSE AS A DEFENSE TO § 1983:
+"We hold that the defense of good faith and probable cause, which the Court of Appeals found available to the officers in the common-law action for false arrest and imprisonment, is also available to them in the action under § 1983."
+
+"[A] police officer is not charged with predicting the future course of constitutional law. The officers had acted in good faith, relying on a state statute and an established practice in the community. The statute was on the books when they acted. An officer cannot be expected to predict that a statute will later be held unconstitutional."
+
+THE JUDICIAL IMMUNITY EXTENSION:
+Pierson also held that judges acting in their judicial capacity are absolutely immune from § 1983 damages, even when they knowingly act illegally if acting within their jurisdiction.
+
+"[A] judge is not liable to civil suit for judicial acts, even when such acts are in excess of his jurisdiction, and are alleged to have been done maliciously or corruptly." (Quoting from Bradley v. Fisher, 1872.)
+
+Judicial immunity in § 1983 suits is absolute (subject to the ministerial/judicial act distinction established in Pulliam v. Allen).
+
+---
+
+SIGNIFICANCE FOR QUALIFIED IMMUNITY DOCTRINE:
+
+Pierson v. Ray is the foundational case for qualified immunity in § 1983 suits. It established that:
+1. Officers acting in objective good faith on facially valid law cannot be held personally liable for constitutional violations later found unlawful
+2. The defense is not "I was ordered to" but "I had an objectively reasonable basis to believe my conduct was lawful"
+3. Judicial officers have absolute immunity from § 1983 damages for judicial acts
+
+Evolution: Pierson's good-faith defense was later objectivized in Harlow v. Fitzgerald (1982) — the subjective "good faith" component was replaced by an entirely objective "clearly established law" test.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Pierson is the foundation of the qualified immunity doctrine that federal defendants will invoke. Understanding its structure matters:
+1. Pierson created good-faith immunity; Harlow made it fully objective; Pearson eliminated the "order of battle" requirement
+2. Taylor v. Riojas (2020) narrowed Harlow/Pearson by holding that obvious constitutional violations can defeat qualified immunity even without a factually identical prior case
+3. For the § 1983 complaint: each Pierson/Harlow qualified immunity defense must be rebutted by showing either (a) the right was clearly established, or (b) the violation was so obvious that no reasonable officer could have believed it was lawful (Taylor)
+
+Judicial immunity: family court orders that were issued in manifest absence of jurisdiction (void orders) are not protected by absolute immunity. Officers who enforce patently void orders may not shelter under Pierson.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 386 U.S. 547 (1967)
+Court: United States Supreme Court
+Reporter: United States Reports, vol. 386, page 547
+Author: Warren, C.J. (8-1)
+Source of this text: Claude training data (knowledge cutoff August 2025). Pierson v. Ray is the foundational case for qualified immunity and judicial immunity under § 1983.
+Verification: CourtListener / Justia / Google Scholar: "Pierson v. Ray 386 U.S. 547"
+Verification status: PROPOSED — pending steward witness review

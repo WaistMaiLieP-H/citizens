@@ -1,0 +1,12 @@
+{
+  "stage": "02_amendment_1982",
+  "constitutional_provision": "Cal. Const. Art. I, § 28(f)(2) (affecting interpretation of § 13)",
+  "effective": "1982-06-08",
+  "enacted_as": "Proposition 8 — Victims' Bill of Rights (June 8, 1982)",
+  "source": "leginfo.legislature.ca.gov",
+  "retrieval_method": "knowledge_base",
+  "retrieval_date": "2026-04-10",
+  "retrieval_steward": "Claude Opus 4.6 (1M context)",
+  "primary_source_verified": false,
+  "notes": "Proposition 8 did not amend § 13 directly. It added § 28 (now § 28(f)(2)), the Truth-in-Evidence provision, which eliminated California courts' ability to exclude evidence on independent state constitutional grounds beyond federal Fourth Amendment requirements. The California Supreme Court confirmed this interpretation in In re Lance W. (1985) 37 Cal.3d 873. Section 13's text remained and remains unchanged."
+}

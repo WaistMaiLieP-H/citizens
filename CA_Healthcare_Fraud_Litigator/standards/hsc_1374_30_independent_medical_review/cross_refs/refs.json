@@ -1,0 +1,20 @@
+{
+  "standard_id": "HSC_1374_30_INDEPENDENT_MEDICAL_REVIEW",
+  "refs_updated": "2026-04-12",
+  "cross_references": [
+    {
+      "target_standard": "INS_10123_135_PRIOR_AUTH",
+      "relationship": "procedural successor \u2014 \u00a710123.135 governs the prior authorization decision; \u00a71374.30 governs the mandatory external review available when that decision is adverse. The two statutes form the complete denial-and-appeal procedural framework for California health care coverage disputes.",
+      "target_citizen": "CA_Healthcare_Fraud_Litigator",
+      "target_manifest": "${citizens}/CA_Healthcare_Fraud_Litigator/standards/ins_10123_135_prior_auth/manifest.json",
+      "build_status": "BUILT \u2014 same Citizen"
+    },
+    {
+      "target_standard": "HSC_1340_KNOX_KEENE_FRAMEWORK",
+      "relationship": "authority source \u2014 \u00a71374.30 operates within the Knox-Keene regulatory framework; DMHC's authority to establish and enforce IMR derives from Knox-Keene; health plans subject to \u00a71340/\u00a71367 are the entities subject to IMR obligations",
+      "target_citizen": "CA_Healthcare_Fraud_Litigator",
+      "target_manifest": "${citizens}/CA_Healthcare_Fraud_Litigator/standards/hsc_1340_knox_keene_framework/manifest.json",
+      "build_status": "BUILT \u2014 same Citizen"
+    }
+  ]
+}

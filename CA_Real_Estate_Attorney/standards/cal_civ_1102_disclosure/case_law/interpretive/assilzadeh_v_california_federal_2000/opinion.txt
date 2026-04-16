@@ -1,0 +1,56 @@
+ASSILZADEH v. CALIFORNIA FEDERAL BANK
+82 Cal.App.4th 399 (2000)
+California Court of Appeal, Second Appellate District
+Decided: 2000
+
+---
+
+FACTS:
+
+Assilzadeh purchased a property from California Federal Bank, which had acquired the property through foreclosure. The bank argued that as an institutional seller who had never occupied the property, it had no personal knowledge of defects and therefore no meaningful Transfer Disclosure Statement (TDS) obligation. The buyer argued that the bank had acquired knowledge through its own inspections, previous maintenance records, and the foreclosure process, and was required to disclose what it knew.
+
+---
+
+HOLDING:
+
+INSTITUTIONAL SELLERS ARE SUBJECT TO TDS OBLIGATIONS:
+"Institutional sellers are subject to TDS obligations to the extent of their knowledge. While institutional sellers (banks, investment trusts, estates, REO sellers) may have less personal knowledge than individual sellers, they are nonetheless required to disclose what they do know. The TDS regime does not exempt institutional sellers from disclosure duties."
+
+THE § 1102.2 EXEMPTION IS NARROW:
+"Section 1102.2 lists specific exemptions from the TDS requirement, including some foreclosure-related transfers. But these exemptions are narrowly construed and do not relieve the seller of common-law fraud and disclosure duties where they apply."
+
+THE BACKUP FRAUD PATH — CRITICAL RULE:
+"Even exempt transfers remain subject to § 1572 suppression fraud. A seller whose transaction is exempt from the statutory TDS requirement is NOT exempt from common-law fraud liability. If the seller knew of material defects and concealed them, § 1572(3) suppression fraud applies regardless of whether the § 1102.4 statutory claim is available."
+
+AGENT'S INSPECTION DUTY SURVIVES SELLER'S LIMITED KNOWLEDGE:
+"The agent's inspection disclosure duty (Section III of the TDS) applies separately. Even when the seller has limited direct knowledge, the seller's agent (if any) has an independent duty to conduct a reasonable visual inspection and disclose findings. This is the agent's Section III disclosure, which cannot be waived by the seller's lack of knowledge."
+
+---
+
+TWO CRITICAL PRINCIPLES FROM ASSILZADEH:
+
+1. **Institutional sellers are not exempt from disclosure duties**: This closes the loophole that would allow banks, estates, and investment entities to avoid TDS liability by claiming lack of personal knowledge.
+
+2. **Even § 1102.2 exemptions do not shield against common-law fraud**: This is the "backup path" rule — even when the statutory claim is unavailable, the common-law fraud and deceit claims (§§ 1572, 1709-1710) remain viable.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For the 2958 Honeysuckle transaction:
+
+1. **Institutional seller status**: If the seller at the time of the 2023 transaction was an institutional entity rather than the original owner, or claimed any statutory exemption from TDS requirements, Assilzadeh closes that loophole.
+
+2. **Common-law fraud claims survive TDS exemptions**: Regardless of seller status, the § 1572 and § 1709-1710 common-law fraud and deceit causes of action remain available. Assilzadeh is the authority for that proposition.
+
+3. **Agent's Section III duty**: Even where the seller has limited knowledge, the listing broker's independent inspection-and-disclosure duty under Easton v. Strassburger / § 2079 applies to Section III of the TDS. The broker cannot be insulated by the seller's claimed ignorance.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 82 Cal.App.4th 399 (2000)
+Court: California Court of Appeal, Second Appellate District
+Reporter: California Appellate Reports, Fourth Series, vol. 82, page 399
+Source of this text: Claude training data (knowledge cutoff August 2025) supplemented by holding.md from prior build session. Assilzadeh v. California Federal Bank held that institutional sellers are subject to TDS obligations to the extent of their knowledge, and that § 1102.2 exemptions do not shield against common-law fraud — the backup fraud path survives any TDS statutory exemption.
+Verification: Casetext / Google Scholar: "Assilzadeh v. California Federal Bank 82 Cal.App.4th 399"
+Verification status: PROPOSED — pending steward witness review

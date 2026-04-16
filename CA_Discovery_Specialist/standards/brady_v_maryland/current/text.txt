@@ -1,0 +1,36 @@
+Brady v. Maryland, 373 U.S. 83 (1963)
+United States Supreme Court
+Decided May 13, 1963
+
+SYLLABUS:
+Petitioner and a companion were convicted of murder in the first degree. Before the trial, petitioner's counsel had requested the prosecution to allow him to examine all statements of the companion. Some of the companion's extrajudicial statements were shown to petitioner's counsel but a statement in which the companion admitted actually strangling the victim was withheld. The jury sentenced petitioner to death and the Court of Appeals affirmed. The Court of Appeals then remanded the case for a retrial of the punishment after concluding that the withheld statement could not have affected the verdict of guilt but it might have influenced the jury on the question of punishment.
+
+Held: The suppression by the prosecution of evidence favorable to an accused upon request violates due process where the evidence is material either to guilt or to punishment, irrespective of the good faith or bad faith of the prosecution.
+
+JUSTICE DOUGLAS delivered the opinion of the Court:
+
+"We now hold that the suppression by the prosecution of evidence favorable to an accused upon request violates due process where the evidence is material either to guilt or to punishment, irrespective of the good faith or bad faith of the prosecution."
+
+pp. 86-88: "Society wins not only when the guilty are convicted but when criminal trials are fair; our system of the administration of justice suffers when any accused is treated unfairly. An inscription on the walls of the Department of Justice states the proposition candidly for the federal domain: 'The United States wins its point whenever justice is done its citizens in the courts.'"
+
+GIGLIO EXTENSION:
+Giglio v. United States, 405 U.S. 150 (1972): Brady extends to impeachment evidence. The prosecution's obligation to disclose includes evidence that can be used to impeach government witnesses — including promises, inducements, payments, prior criminal records, or prior inconsistent statements of prosecution witnesses.
+
+UNITED STATES v. BAGLEY, 473 U.S. 667 (1985):
+Established the materiality standard: Evidence is material "if there is a reasonable probability that, had the evidence been disclosed to the defense, the result of the proceeding would have been different." A "reasonable probability" is a probability sufficient to undermine confidence in the outcome.
+
+STRICKLER v. GREENE, 527 U.S. 263 (1999):
+Three components of a Brady violation:
+1. The evidence at issue must be favorable to the accused, either because it is exculpatory, or because it is impeaching;
+2. That evidence must have been suppressed by the State, either willfully or inadvertently;
+3. Prejudice must have ensued.
+
+CALIFORNIA APPLICATION:
+In re Sassounian, 9 Cal.4th 535, 543 (1995): California courts apply Brady fully. Prosecution must disclose all material evidence favorable to the accused.
+
+People v. Salazar, 35 Cal.4th 1031, 1042 (2005): Brady applies even if prosecutor was unaware of the evidence — if police had it, prosecution is charged with knowledge.
+
+People v. Superior Court (Johnson), 61 Cal.App.5th 944 (2021): Brady/Giglio applies to digital evidence and electronic records held by law enforcement agencies.
+
+CALIFORNIA CONSTITUTION:
+Article I, § 15 guarantees the right to compulsory process and the right to a fair trial, which incorporates Brady obligations under state constitutional grounds as well.

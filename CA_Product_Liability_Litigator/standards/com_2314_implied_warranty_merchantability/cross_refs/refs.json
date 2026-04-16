@@ -1,0 +1,55 @@
+{
+  "standard_id": "com_2314_implied_warranty_merchantability",
+  "citizen": "CA_Product_Liability_Litigator",
+  "build_date": "2026-04-13",
+  "cross_references": [
+    {
+      "ref_id": "XREF-COM-001",
+      "target_citizen": "CA_Product_Liability_Litigator",
+      "target_standard": "greenman_strict_products_liability",
+      "path": "${citizens}/CA_Product_Liability_Litigator/standards/greenman_strict_products_liability/",
+      "relationship": "concurrent",
+      "note": "Greenman strict liability (tort) and §2314 implied warranty (contract) are concurrent theories; Greenman intentionally separated from warranty; both may be pled simultaneously."
+    },
+    {
+      "ref_id": "XREF-COM-002",
+      "target_citizen": "CA_Product_Liability_Litigator",
+      "target_standard": "ccp_338_property_fraud_sol",
+      "path": "${citizens}/CA_Product_Liability_Litigator/standards/ccp_338_property_fraud_sol/",
+      "relationship": "procedural",
+      "note": "§2314 warranty breach SOL is COM §2725 (4-year from delivery); CCP §338(d) fraud SOL (3-year from discovery) is an alternative if seller committed fraud in connection with the warranty."
+    },
+    {
+      "ref_id": "XREF-COM-003",
+      "target_citizen": "CA_Vehicle_Code_Specialist",
+      "target_standard": "veh_11713_dealer_prohibited_acts",
+      "path": "${citizens}/CA_Vehicle_Code_Specialist/standards/veh_11713_dealer_prohibited_acts/",
+      "relationship": "concurrent",
+      "note": "RedJag VEH §11713 dealer fraud runs concurrent with §2314 implied warranty breach. §11713(u) (wrong CARFAX) = §2314(2)(a)/(f) failure. Both theories available against the dealer."
+    },
+    {
+      "ref_id": "XREF-COM-004",
+      "target_citizen": "CA_Vehicle_Code_Specialist",
+      "target_standard": "veh_10751_vin_tampering",
+      "path": "${citizens}/CA_Vehicle_Code_Specialist/standards/veh_10751_vin_tampering/",
+      "relationship": "concurrent",
+      "note": "VIN tampering (VEH §10751) makes vehicle not fit for ordinary purposes (§2314(2)(c)) — vehicle cannot be lawfully titled/registered with tampered VIN. §2314 breach follows §10751 violation."
+    },
+    {
+      "ref_id": "XREF-COM-005",
+      "target_citizen": "CA_Real_Estate_Attorney",
+      "target_standard": "civ_1572_actual_fraud",
+      "path": "${citizens}/CA_Real_Estate_Attorney/standards/civ_1572_actual_fraud/",
+      "relationship": "override",
+      "note": "CIV §1572 actual fraud vitiates 'as is' warranty disclaimers under COM §2316. Dealer cannot use 'as is' to disclaim liability for fraudulent concealment of VIN tampering and wrong CARFAX."
+    },
+    {
+      "ref_id": "XREF-COM-006",
+      "target_citizen": "CA_Consumer_Protection_Litigator",
+      "target_standard": "rees_levering_auto_financing",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/rees_levering_auto_financing/",
+      "relationship": "parallel",
+      "note": "Rees-Levering governs the yo-yo financing fraud component of RedJag. §2314 governs the vehicle's physical condition and title. Different theories, same transaction."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "case_slug": "cfpb_auto_lending_enforcement",
+  "citation": "CFPB Auto Finance Examination Procedures (published, consumerfinance.gov); CFPB Supervisory Highlights (auto lending); FTC enforcement actions against yo-yo financing (pattern documentation)",
+  "agency": "Consumer Financial Protection Bureau; Federal Trade Commission",
+  "category": "enforcement_pattern",
+  "type": "Regulatory enforcement history and guidance (not a single case)",
+  "rule_established": "Yo-yo financing with inaccurate APR disclosure = TILA violation; spot delivery schemes where original terms don't match final terms = TILA violation; TILA violations may be raised as affirmative defense in collection actions without SOL",
+  "sol_note": "15 U.S.C. §1640(e) one-year civil SOL bars direct TILA claims for 2018 Jaguar XE; claims survive as affirmative defense in collection proceedings; California state claims (CLRA 3yr, Rees-Levering 4yr, UCL 4yr) are primary remedy track",
+  "verbatim_capture_status": "PENDING — verify specific CFPB examination procedure references at consumerfinance.gov",
+  "verification_note": "Access CFPB Supervision and Examination Manual auto finance procedures at consumerfinance.gov/data-research/research-reports/"
+}

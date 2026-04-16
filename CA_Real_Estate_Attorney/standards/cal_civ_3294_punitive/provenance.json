@@ -1,0 +1,42 @@
+{
+  "standard": "cal_civ_3294_punitive",
+  "filed": "2026-04-10",
+  "filer": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "hash_chain_prev": "cal_civ_1572_fraud (same session)",
+  "sources": [
+    {
+      "layer": "current_text",
+      "source": "leginfo.legislature.ca.gov via VernenLegal MCP",
+      "tool": "mcp__claude_ai_VernenLegal__california_get_section",
+      "params": {"code": "CIV", "section": "3294"},
+      "retrieved_at_utc": "2026-04-10T18:15:00Z"
+    },
+    {
+      "layer": "amendment_history",
+      "sources": [
+        "Deering's California Civil Code § 3294 historical and statutory notes",
+        "West's Annotated California Codes § 3294 historical note",
+        "Stats. 1980, ch. 1242, § 1 (triangulated via annotation histories)",
+        "Stats. 1987, ch. 1498, § 5 (triangulated via annotation histories)",
+        "Stats. 1988, ch. 938, § 1 (triangulated via annotation histories)"
+      ],
+      "pending": "Direct PDF capture of each Stats. chapter"
+    },
+    {
+      "layer": "case_law",
+      "sources": [
+        "Taylor v. Superior Court (1979) 24 Cal.3d 890 — California Official Reports citation format",
+        "Adams v. Murakami (1991) 54 Cal.3d 105 — California Official Reports citation format",
+        "College Hospital Inc. v. Superior Court (1994) 8 Cal.4th 704 — California Official Reports citation format",
+        "Bankhead v. ArvinMeritor, Inc. (2012) 205 Cal.App.4th 68 — California Official Reports citation format"
+      ],
+      "pending": "Opinion text capture (opinion.txt) for each case from law.justia.com or courts.ca.gov"
+    }
+  ],
+  "quality_gate": {
+    "two_witness_rule": "SATISFIED for current text (MCP + annotation histories). PENDING for Stats. chapter PDFs.",
+    "five_layer_bar": "4.5/5 — rule, reasoning, historical_loss, cross_references, verifiable_provenance (partial on Stats. chapter PDFs)",
+    "particularity": "Each case law entry contains statute_version_cited.md consistency check"
+  },
+  "intended_use": "Damages statute for all fraud and intentional tort claims in CA_Real_Estate_Attorney Citizen. Load-bearing for Honeysuckle complaint's punitive prayer. Also cross-referenced by CA_Civil_Litigator and CA_Civil_Rights_Litigator for general punitive damages analysis."
+}

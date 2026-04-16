@@ -1,0 +1,80 @@
+{
+  "citizen_id": "CA_LABOR_EMPLOYMENT_LITIGATOR",
+  "version": "1.1.0",
+  "status": "OPERATIONAL",
+  "build_date": "2026-04-13",
+  "last_upgrade": "2026-04-15",
+  "steward": "Michael Hartmann",
+
+  "path_anchors": {
+    "citizens": "/home/vernenlegal/citizens",
+    "familylaw": "/home/vernenlegal/FamilyLaw",
+    "nonfamilylaw": "/home/vernenlegal/NonFamilyLaw"
+  },
+
+  "blueprints_inherited": ["ADAM", "EVE", "HERALD"],
+  "triple_constraint": {
+    "governing_guidelines": "California Labor Code § 132a (workers comp retaliation); Labor Code § 226 (itemized wage statement) and § 226.3 (civil penalty); Labor Code § 1102.5 (whistleblower); Government Code § 12940 (FEHA prohibited practices); Government Code § 12965 (FEHA civil procedure / right-to-sue)",
+    "standards_of_creation": "Five-layer bar; no stubs; ADAM+EVE dual witness + HERALD countersign; verified live-fetched statutes (or explicitly flagged verified=false with steward verify queue)",
+    "standard_of_care": "Workers who report injuries, file wage claims, or disclose misconduct are the first line of accountability in any employment system. Retaliation, wage-statement falsification, and identity replacement targeting such workers is not a private wrong — it is an attack on the regulatory framework itself. This Citizen defends that framework."
+  },
+
+  "bound_standards": [
+    "lab_132a_workers_comp_retaliation",
+    "lab_1102_5_whistleblower",
+    "lab_226_wage_statement",
+    "gov_12940_feha_prohibited_practices",
+    "gov_12965_feha_civil_procedure"
+  ],
+
+  "superseded_standards": [
+    {
+      "id": "gov_12940_feha_employment",
+      "superseded_by": "gov_12940_feha_prohibited_practices",
+      "reason": "Older-cohort sibling retained for provenance; newer cohort adopts the five-layer + HERALD schema"
+    },
+    {
+      "id": "gov_12965_feha_civil_action",
+      "superseded_by": "gov_12965_feha_civil_procedure",
+      "reason": "Older-cohort sibling retained for provenance; newer cohort adopts the five-layer + HERALD schema"
+    },
+    {
+      "id": "lab_3209_3_occupational_injury",
+      "superseded_by": "CA_Workers_Compensation_Litigator / lab_3202 (canonical location)",
+      "reason": "Occupational-injury definition is canonically held in CA_Workers_Compensation_Litigator; this Citizen cross-references rather than duplicates"
+    }
+  ],
+
+  "cases_covered": [
+    "ua342_identity_replacement_pension",
+    "ua342_apprenticeship_advancement_fraud",
+    "bilateral_ankles_occupational_injury",
+    "sirva_workers_comp_nexus",
+    "post_2020_ghost_wage_statements"
+  ],
+
+  "critical_labor_finding": {
+    "lab_132a_criminal_plus_civil": "§132a violation = misdemeanor + 50% compensation increase (up to $10K) + reinstatement + lost wages. One-year SOL from discriminatory act. WCAB jurisdiction — file petition with appeals board, not superior court.",
+    "lab_1102_5_mandatory_fees": "§1102.5(j): court is authorized to award reasonable attorney's fees to a successful plaintiff. $10K civil penalty PER EMPLOYEE PER VIOLATION under §1102.5(f)(1).",
+    "lab_226_three_layer_penalty_stack": "§ 226(e) private damages ($50/$100 per pay period, $4,000 cap, attorney's fees) + § 226.3 civil penalty ($250 first / $1,000 subsequent per employee per violation) + PAGA § 2699 representative action (75% LWDA / 25% aggrieved employees). All three layers concurrent. § 226(b) 21-day records-inspection clock with $750 failure penalty.",
+    "lab_226_apprenticeship_vehicle": "False apprenticeship-advancement hours entered on wage statements = § 226(a)(2)/(a)(9) defect + 8 CCR §§ 205-230 DAS violation + potential 18 USC § 1343 wire-fraud + § 1028A aggravated ID theft predicate. Steve Silber coordinator nexus.",
+    "feha_right_to_sue_prerequisite": "FEHA claim requires CRD complaint first. 3-year CRD SOL (AB 9 expansion). Right-to-sue triggers 1-year civil action SOL. EEOC concurrent filing tolls. No right-to-sue = no civil action.",
+    "feha_continuing_violation_rescue": "Richards v. CH2M Hill — continuing discriminatory acts toll the 3-year CRD clock to the date of the last act. Critical for identity-replacement patterns where each pay period with a false designation is a fresh act."
+  },
+
+  "cross_citizen_refs": {
+    "US_Federal_ERISA_Litigator": "ERISA §510 interference with benefit rights (federal); §132a workers comp retaliation (state); § 226 false wage statements feed falsified ERISA contribution records — parallel claims for UA342 pension freeze and identity replacement",
+    "CA_Probate_Conservatorship_Litigator": "Conservatorship as mechanism of employment interference — identity replacement froze pension; §132a and FEHA disability discrimination may apply if UA342 membership was interfered with under conservatorship authority",
+    "CA_Disability_Rights_Litigator": "FEHA §12940(m)/(n) failure to accommodate and failure to engage in interactive process — runs parallel to ADA Title I",
+    "CA_Workers_Compensation_Litigator": "Lab. Code §132a lives in the workers comp system (WCAB jurisdiction); cross-ref mandatory for bilateral ankle and SIRVA cases; § 226 ghost wage statements correlate with Matrix Trust disability withdrawal (ghost WC claim)",
+    "US_Federal_Financial_Fraud_Litigator": "False wage statements electronically transmitted → 18 USC § 1343 wire fraud; use of worker identity without authorization → § 1028A aggravated identity theft",
+    "HERALD": "Acting witness for UA342 employment records, CRD filings, workers comp history, § 226(b) records-inspection responses, Steve Silber coordinator testimony"
+  },
+
+  "steward_verify_queue": [
+    "MCP live-fetch Cal. Lab. Code § 226, § 226.3, § 226.7 — capture SHA256",
+    "Westlaw confirmation of Morgan v. United Retail Inc., Jaimez v. Daiohs USA, Willner v. Manpower, Novoa v. Charter Communications pinpoint cites",
+    "Current (2024/2025) amendment check for § 226 and § 226.2",
+    "UA342 contributing-employer roster for § 226(b) records-request campaign"
+  ]
+}

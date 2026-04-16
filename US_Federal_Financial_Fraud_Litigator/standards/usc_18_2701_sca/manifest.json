@@ -1,0 +1,70 @@
+{
+  "standard_id": "USC_18_2701_SCA",
+  "citizen": "US_Federal_Financial_Fraud_Litigator",
+  "version": "1.0.0",
+  "status": "PROPOSED",
+  "primary_citation": "18 U.S.C. §§2701-2712 (Stored Communications Act, Title II of ECPA, Pub. L. 99-508 (1986))",
+  "short_title": "Stored Communications Act — Unauthorized Access to Stored Communications; Civil Remedy $1,000/Violation",
+  "one_line_rule": "Intentional unauthorized access to stored electronic communications (email, voicemail, account records) is prohibited under 18 U.S.C. §2701; civil remedy under §2707 provides the greater of actual damages or $1,000 per violation, plus punitive damages and attorneys' fees.",
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current/LOGIC.md",
+    "reasoning": "PRESENT — current/LOGIC.md §§ WOUND (third-party doctrine / storage gap) + DESIGN (SCA architecture) + Wiretap/SCA boundary + SIM swap application per phase + damages stacking",
+    "historical_loss": "PRESENT — historical_chain.md + evolution/ (2 stages)",
+    "cross_references": "PRESENT — cross_refs/refs.json (4 references: §2511, CFAA §1030, CIPA, Privacy Act)",
+    "verifiable_provenance": "PRESENT — current/provenance.json + evolution provenances; verbatim text capture PENDING"
+  },
+  "evolution_chain": [
+    {
+      "stage": "01_origin_1986_ecpa",
+      "label": "Stored Communications Act — ECPA Title II Original Enactment",
+      "source": "Electronic Communications Privacy Act of 1986, Pub. L. 99-508, Title II",
+      "logic_file": "evolution/01_origin_1986_ecpa/LOGIC.md"
+    },
+    {
+      "stage": "02_amendment_2001_usa_patriot",
+      "label": "USA PATRIOT Act Amendment + Warshak Constitutional Interpretation",
+      "source": "USA PATRIOT Act, Pub. L. 107-56 (2001) + United States v. Warshak, 631 F.3d 266 (6th Cir. 2010)",
+      "logic_file": "evolution/02_amendment_2001_usa_patriot/LOGIC.md"
+    }
+  ],
+  "case_law": [
+    {
+      "slug": "theofel_v_farey_jones",
+      "cite": "Theofel v. Farey-Jones, 359 F.3d 1066 (9th Cir. 2004)",
+      "court": "United States Court of Appeals for the Ninth Circuit",
+      "category": "foundational",
+      "key_rule": "'Without authorization' under §2701 is broad — not limited to hacking; includes any access lacking proper authorization; stored emails after reading remain in electronic storage (backup protection prong §2510(17)(B)). Binding 9th Circuit precedent.",
+      "verbatim_capture_status": "PENDING"
+    },
+    {
+      "slug": "united_states_v_warshak",
+      "cite": "United States v. Warshak, 631 F.3d 266 (6th Cir. 2010)",
+      "court": "United States Court of Appeals for the Sixth Circuit",
+      "category": "interpretive",
+      "key_rule": "Fourth Amendment requires search warrant for stored email regardless of age; SCA 180-day rule unconstitutional for email content; stored email has same constitutional protection as sealed postal mail; DOJ adopted national warrant policy. Persuasive authority in 9th Circuit.",
+      "verbatim_capture_status": "PENDING"
+    }
+  ],
+  "sim_swap_application": {
+    "phase_1_account_takeover": "Using intercepted 2FA codes (SIM swap §2511) to access email accounts → reviewing stored emails, account history, communications = §2701 unauthorized access; $1,000/access event",
+    "phase_2_voicemail": "Incoming calls diverted to attacker's voicemail → victim's voicemails stored on attacker's carrier/device = unauthorized access to stored voice communications = §2701; $1,000/voicemail",
+    "phase_3_account_records": "Accessing account records, stored communications, financial history stored on service provider servers = §2701 unauthorized access",
+    "wiretap_boundary": "Active call/SMS routing during SIM swap = §2511 ($10,000/event); stored content after access = §2701 ($1,000/event); both claims pled simultaneously for same attack sequence",
+    "ninth_circuit_advantage": "Theofel (9th Cir.) applies backup protection storage broadly — virtually all content in Michael's accounts at time of compromise is §2701-protected stored communications",
+    "defendants": "Ryan McClaran (primary §2701 defendant); co-conspirators who accessed accounts; AT&T (negligence enabling unauthorized access — separate tort theory)",
+    "sol": "2 years from discovery (§2707(f)); each access event = separate violation with own SOL; discovery rule tolling available",
+    "no_loss_threshold": "§2707 has NO $5,000 minimum loss threshold — unlike CFAA §1030(g); $1,000 minimum applies per violation; can aggregate many violations without meeting any aggregate loss floor"
+  },
+  "outstanding_work": [
+    "Verbatim text capture: 18 U.S.C. §§2701(a), 2707(a)-(f), 2510(17)",
+    "Verbatim opinion capture: Theofel v. Farey-Jones, 359 F.3d 1066",
+    "Verbatim opinion capture: United States v. Warshak, 631 F.3d 266",
+    "Identify specific account access events (email, voicemail, financial accounts) for per-violation damages calculation",
+    "Research 18 U.S.C. §§3121-3127 (Pen Register Act) as supplementary claim for call routing metadata",
+    "Research Cal. Penal Code §502 (California computer crime analog to CFAA) for state-law parallel",
+    "Verify whether SCA §2701 civil claim includes SSA online portal access (SSA.gov) — federal agency computer system may trigger separate §1030 CFAA analysis",
+    "Second-mouth witness review of SCA analysis applied to SIM swap account takeover facts"
+  ],
+  "build_date": "2026-04-11",
+  "built_by": "Terminal A"
+}

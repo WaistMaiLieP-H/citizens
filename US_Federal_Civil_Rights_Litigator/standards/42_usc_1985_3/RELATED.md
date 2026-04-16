@@ -1,0 +1,1 @@
+This standard covers 42 USC §1985(3) specifically — the most-litigated subsection. For the full §1985 (all three subsections) with the broader origin context and evolution chain, see ../42_usc_1985/. The two builds are complementary.

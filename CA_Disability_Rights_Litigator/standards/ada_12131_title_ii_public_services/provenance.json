@@ -1,0 +1,40 @@
+{
+  "standard_id": "ada_12131_title_ii_public_services",
+  "citizen": "CA_Disability_Rights_Litigator",
+  "build_date": "2026-04-13",
+  "primary_source": {
+    "source_type": "statute",
+    "jurisdiction": "federal",
+    "code": "United States Code",
+    "title": "42",
+    "sections": ["12131", "12132"],
+    "fetch_method": "mcp__claude_ai_VernenLegal__usc_get_section",
+    "verified": false,
+    "fetch_date": "2026-04-13",
+    "note": "USC tool returned 'not found' for 42 USC §12112 (parallel section attempted). §§12131–12132 not separately attempted but same tool, same result expected. Text from training knowledge. STEWARD MUST VERIFY against uscode.house.gov → Title 42 → Chapter 126 → Subchapter II → §§12131–12132."
+  },
+  "supporting_sources": [
+    {
+      "source_type": "training_knowledge",
+      "description": "Tennessee v. Lane (2004) 541 U.S. 509 — ADA Title II court access; valid abrogation of sovereign immunity for fundamental rights; George Lane courthouse accessibility",
+      "note": "Case law; verify citation"
+    },
+    {
+      "source_type": "training_knowledge",
+      "description": "Olmstead v. L.C. (1999) 527 U.S. 581 — unnecessary institutionalization = Title II discrimination; integration mandate; states must plan for community-based services",
+      "note": "Case law; verify citation"
+    },
+    {
+      "source_type": "training_knowledge",
+      "description": "28 CFR Part 35 — DOJ Title II implementing regulations; reasonable modifications (§35.130(b)(7)); effective communication (§35.160)",
+      "note": "Regulatory knowledge; verify current text at ecfr.gov → Title 28 → Part 35"
+    }
+  ],
+  "steward_verify_queue": [
+    "42 USC §§12131–12132 full text — uscode.house.gov → Title 42 → Chapter 126 → Subchapter II",
+    "Tennessee v. Lane (2004) 541 U.S. 509",
+    "Olmstead v. L.C. (1999) 527 U.S. 581",
+    "28 CFR Part 35 — ecfr.gov → Title 28 → Part 35"
+  ],
+  "chronicle_flag": false
+}

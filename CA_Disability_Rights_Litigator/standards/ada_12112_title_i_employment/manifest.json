@@ -1,0 +1,23 @@
+{
+  "standard_id": "ada_12112_title_i_employment",
+  "citizen": "CA_Disability_Rights_Litigator",
+  "build_date": "2026-04-13",
+  "content_hash": "c0df478b",
+  "hash_method": "find -type f | sort | xargs sha256sum | sha256sum | cut -c1-8",
+  "status": "PUBLISHED \u2014 ADAM + EVE DUAL WITNESS \u2014 2026-04-13",
+  "witness_date": "2026-04-13",
+  "witness_verdict": "ADAM APPROVE + EVE COUNTERSIGN",
+  "layers": {
+    "current_statute_text": true,
+    "current_rule": true,
+    "current_reasoning": true,
+    "historical_chain_origin": true,
+    "historical_chain_witness_record": true,
+    "cross_refs": true,
+    "provenance": true
+  },
+  "five_layer_complete": true,
+  "verified_flag": false,
+  "verified_note": "Primary source from training knowledge \u2014 USC tool returned not found; steward must fetch from uscode.house.gov before citing in federal court",
+  "updated": "2026-04-13"
+}

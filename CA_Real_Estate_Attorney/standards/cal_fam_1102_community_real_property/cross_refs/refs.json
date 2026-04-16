@@ -1,0 +1,20 @@
+{
+  "standard": "cal_fam_1102_community_real_property",
+  "refs": [
+    {"type": "personal_property_companion", "target": "Fam. Code § 1100", "relationship": "§ 1100 covers community personal property; § 1102 covers community real property", "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_fam_1100_community_property"},
+    {"type": "remedy_statute", "target": "Fam. Code § 1101", "relationship": "Remedy statute for § 1102 violations; 50%/100% structure", "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_fam_1101_remedy"},
+    {"type": "characterization", "target": "Fam. Code § 760", "relationship": "Community property presumption for property acquired during marriage"},
+    {"type": "exceptions", "target": "Fam. Code §§ 761, 1103", "relationship": "Revocable trust and mental incapacity exceptions to the dual-consent rule"},
+    {"type": "interspousal_exception", "target": "Subd. (b)", "relationship": "Interspousal transfers exempted"},
+    {"type": "bona_fide_purchaser", "target": "Subd. (c)", "relationship": "Protects good-faith third parties without knowledge of marriage"},
+    {"type": "one_year_sol", "target": "Subd. (d)", "relationship": "One-year SOL for instrument avoidance"},
+    {"type": "tort_parallel", "target": "Civ. Code § 1572", "relationship": "Third-party tort fraud claims survive § 1102 one-year avoidance SOL"},
+    {"type": "tds_parallel", "target": "Civ. Code § 1102", "relationship": "The civil code § 1102 TDS statute runs alongside Fam. § 1102 community real property consent rule; note the identical section number in different codes", "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_civ_1102_disclosure"}
+  ],
+  "cases_to_add": [
+    "Mitchell v. American Reserve Ins. Co. (1980) 110 Cal.App.3d 220 — dual-consent requirement",
+    "Gantner v. Gantner (1952) 39 Cal.2d 272 — pre-statute interpretation",
+    "In re Marriage of Starr (2010) 189 Cal.App.4th 277 — modern § 1102 application"
+  ],
+  "generated_at_utc": "2026-04-11T05:55:00Z"
+}

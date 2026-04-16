@@ -1,0 +1,27 @@
+[
+  {
+    "target_standard": "CA_CIV_56_10_CMIA",
+    "relationship": "SUPPLEMENTS",
+    "notes": "Section 56.11 extends §56.10's initial-disclosure restrictions to all downstream recipients. §56.10 governs the first disclosure from provider to recipient; §56.11 governs every subsequent disclosure in the chain."
+  },
+  {
+    "target_standard": "CA_CIV_56_05_DEFINITIONS",
+    "relationship": "IMPLEMENTS",
+    "notes": "Section 56.11 relies on §56.05's definition of 'medical information' and 'authorization' to determine what information is subject to the further-disclosure prohibition."
+  },
+  {
+    "target_standard": "CA_CIV_56_35_DAMAGES",
+    "relationship": "SUPPLEMENTS",
+    "notes": "Each unauthorized further disclosure under §56.11 is independently actionable under §56.35's damages provisions."
+  },
+  {
+    "target_standard": "CA_CIV_56_36_UNAUTHORIZED_ACCESS",
+    "relationship": "SUPPLEMENTS",
+    "notes": "If a recipient's failure to secure medical information leads to further unauthorized disclosure, both §56.11 (the disclosure) and §56.36 (the security failure) may apply."
+  },
+  {
+    "target_standard": "HIPAA_164_502",
+    "relationship": "SUPPLEMENTS",
+    "notes": "HIPAA's minimum necessary standard limits downstream use and disclosure; CMIA §56.11 is stricter — it requires a NEW authorization for any further disclosure, not just a minimum-necessary limitation."
+  }
+]

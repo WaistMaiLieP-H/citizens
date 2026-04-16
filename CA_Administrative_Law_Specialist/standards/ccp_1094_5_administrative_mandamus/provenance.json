@@ -1,0 +1,42 @@
+{
+  "standard_id": "ccp_1094_5_administrative_mandamus",
+  "citizen": "CA_Administrative_Law_Specialist",
+  "build_date": "2026-04-13",
+  "primary_source": {
+    "statute": "California Code of Civil Procedure § 1094.5",
+    "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1094.5.&lawCode=CCP",
+    "fetch_method": "mcp__claude_ai_VernenLegal__california_get_section",
+    "verified": true,
+    "fetch_date": "2026-04-13",
+    "verification_note": "Live fetch via VernenLegal MCP — text confirmed against leginfo.legislature.ca.gov"
+  },
+  "supporting_sources": [
+    {
+      "citation": "Bixby v. Pierno (1971) 4 Cal.3d 130",
+      "type": "case_law",
+      "verified": "training_knowledge",
+      "steward_verify": true,
+      "note": "Vested rights / independent judgment — verify citation before filing"
+    },
+    {
+      "citation": "Topanga Assn. for a Scenic Community v. County of Los Angeles (1974) 11 Cal.3d 506",
+      "type": "case_law",
+      "verified": "training_knowledge",
+      "steward_verify": true,
+      "note": "Findings requirement — verify citation before filing"
+    },
+    {
+      "citation": "Yamaha Corp. of America v. State Bd. of Equalization (1998) 19 Cal.4th 1",
+      "type": "case_law",
+      "verified": "training_knowledge",
+      "steward_verify": true,
+      "note": "Agency deference standard — verify citation before filing"
+    }
+  ],
+  "chain_of_custody": "CCP §1094.5 fetched live via VernenLegal MCP → statute_text.md written → rule.md drafted (three grounds, dual standards of review, CalVCB application, filing checklist) → reasoning.md drafted (historical loss from pre-APA gap) → historical_chain built from training knowledge of 1945-1947 CA APA reform + Bixby + Topanga → cross_refs built with ${citizens} anchors → provenance.json written → manifest.json pending",
+  "steward_verification_queue": [
+    "Bixby v. Pierno (1971) 4 Cal.3d 130 — verify before filing",
+    "Topanga Assn. v. County of LA (1974) 11 Cal.3d 506 — verify before filing",
+    "Yamaha Corp. v. State Bd. of Equalization (1998) 19 Cal.4th 1 — verify before filing"
+  ]
+}

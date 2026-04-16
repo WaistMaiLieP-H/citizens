@@ -1,0 +1,15 @@
+CALIFORNIA CIVIL CODE § 5127 (enacted 1975)
+Equal Management — Both Spouses Required for Community Real Property
+
+SOURCE: Stats. 1973, ch. 987 (SB 569); Stats. 1975, ch. 1272 (SB 364)
+REQUIRES_PRIMARY_SOURCE_VERIFICATION for exact text.
+
+--- Civil Code § 5127 (post-1975 text) ---
+Except as provided in Sections 5113 and 5128, either spouse has the management and control of the community real property, whether acquired prior to or on or after January 1, 1975, but both spouses, either personally or by duly authorized agent, are required to join in executing an instrument by which that community real property or any interest therein is leased for a longer period than one year, or is sold, conveyed, or encumbered.
+
+[Preserved from § 172: good-faith purchaser protection]
+The sole lease, contract, mortgage, or deed of either spouse, holding the record title to community real property to a lessee, purchaser, or encumbrancer, in good faith without knowledge of the marriage relation, shall be presumed to be valid if executed on or after January 1, 1975.
+
+[Note: "of either spouse" replaced "of the husband" — the good-faith rule now applies symmetrically]
+
+PROVENANCE: Requires primary source verification. See provenance.json.

@@ -1,0 +1,47 @@
+{
+  "standard": "cmia_civ_56_35_damages",
+  "cross_references": [
+    {
+      "cite": "Cal. Civ. Code § 56.10",
+      "label": "CMIA — Authorized Disclosures",
+      "relationship": "violation_predicate",
+      "note": "§56.35 damages attach to violations of §56.10. A disclosure that falls outside the enumerated exceptions in §56.10(b) and (c) is the predicate act that triggers §56.35 liability."
+    },
+    {
+      "cite": "Cal. Civ. Code § 56.36",
+      "label": "CMIA — Criminal Penalties and Enhanced Civil Liability",
+      "relationship": "enhanced_track",
+      "note": "§56.36 provides criminal penalties (misdemeanor/felony) and enhanced civil liability for individuals who intentionally obtain medical information for personal gain or to harm a patient. §56.35 governs standard civil damages; §56.36 applies when the misconduct rises to criminal-level intent."
+    },
+    {
+      "cite": "Cal. Civ. Code § 3333",
+      "label": "Tort Damages — Consequential and Emotional Distress",
+      "relationship": "damages_measure",
+      "note": "§56.35(c) incorporates §3333 as the measure of actual damages for intentional/knowing CMIA violations. §3333 includes consequential damages, emotional distress damages, and economic losses."
+    },
+    {
+      "cite": "Cal. Code Civ. Proc. § 340.5",
+      "label": "Medical Malpractice SOL — Health Care Provider Defendants",
+      "relationship": "limitations_period",
+      "note": "When a CMIA defendant is a health care provider, the one-year medical malpractice SOL under CCP §340.5 may apply. For non-provider defendants, the general two-year personal injury SOL under CCP §335.1 applies."
+    },
+    {
+      "cite": "Cal. Code Civ. Proc. § 335.1",
+      "label": "General Personal Injury SOL",
+      "relationship": "limitations_period",
+      "note": "Two-year limitations period applies to CMIA claims against non-provider defendants (e.g., employers, insurers, contractors who are not health care providers). Discovery rule tolls the period when the violation was concealed."
+    },
+    {
+      "cite": "Cal. Civ. Code § 56.05",
+      "label": "CMIA Definitions",
+      "relationship": "definitional_predicate",
+      "note": "§56.05 defines 'provider of health care,' 'health care service plan,' 'contractor,' and other terms that determine who is subject to §56.35 liability."
+    },
+    {
+      "cite": "HIPAA 45 CFR § 164.502",
+      "label": "Federal PHI Use and Disclosure Rules",
+      "relationship": "federal_floor",
+      "note": "HIPAA §164.502 establishes the federal floor for PHI use and disclosure. CMIA is stricter than HIPAA in many respects; the California standard governs California-based providers. Both may be violated simultaneously by an unauthorized disclosure."
+    }
+  ]
+}

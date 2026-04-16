@@ -1,0 +1,15 @@
+{
+  "case": "Engalla v. Permanente Medical Group, Inc.",
+  "reporter_citation": "15 Cal.4th 951",
+  "parallel_citations": ["64 Cal.Rptr.2d 843", "938 P.2d 903"],
+  "decided": "1997-06-30",
+  "court": "Supreme Court of California",
+  "opinion_author": "Justice Stanley Mosk (5-2 majority)",
+  "dissent": "Justice Janice Rogers Brown, joined by Justice Joyce Kennard (dissenting on FAA preemption/waiver; not contesting fraud analysis)",
+  "statute_construed": "California Civil Code §§ 1572, 1567",
+  "status": "Binding California Supreme Court authority. Still controlling as of 2026-04-10 on the fraudulent inducement of contracts issue.",
+  "post_engalla_developments": "Later federal preemption cases (Southland Corp., AT&T Mobility v. Concepcion 2011) address the arbitration-specific aspects. The § 1572 fraud analysis is unaffected by those developments.",
+  "opinion_text_source": "Not yet captured. To be retrieved from law.justia.com/cases/california/supreme-court/4th/15/951.html",
+  "captured_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "captured_at_utc": "2026-04-10T19:05:00Z"
+}

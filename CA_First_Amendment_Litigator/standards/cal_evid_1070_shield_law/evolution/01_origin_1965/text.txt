@@ -1,0 +1,22 @@
+Evidence Code Section 1070 (as added by Stats. 1965, Ch. 299)
+
+[NOTE: The exact verbatim text of the 1965 original enactment has not been located in primary source.
+What is known from legislative history and secondary sources:]
+
+The 1965 enactment transferred the journalist privilege from Code of Civil Procedure §1881(6) to
+Evidence Code §1070 as part of the creation of the new California Evidence Code. The original
+shield law had existed since 1935 at CCP §1881(6).
+
+The 1965 version protected:
+- Publishers, editors, reporters, and other persons connected with newspapers, magazines,
+  periodical publications, press associations, and wire services
+- From being held in contempt for refusing to disclose the SOURCE of information procured
+  for publication
+
+The 1965 version did NOT protect:
+- Radio or television reporters (added 1961 to CCP §1881, carried forward, but confirmation needed)
+- "Unpublished information" as a category (that term was added in 1974)
+
+PRIMARY SOURCE STATUS: NOT YET FETCHED. The Statutes of California 1965, Chapter 299 would
+contain the enrolled text. Available from California State Library or State Archives.
+The clerk.assembly.ca.gov statutes archive URL returned 404 for 1965 volumes.

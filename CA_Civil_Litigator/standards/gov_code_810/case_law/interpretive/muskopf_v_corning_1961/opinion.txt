@@ -1,0 +1,65 @@
+MUSKOPF v. CORNING HOSPITAL DISTRICT
+55 Cal.2d 211 (1961)
+California Supreme Court
+Decided: December 27, 1961
+
+---
+
+FACTS:
+
+Vera Muskopf was injured when she slipped and fell at a county hospital. She sued the hospital district for negligence. The hospital district asserted governmental immunity — the common law doctrine that governments are immune from suit for their own negligence.
+
+The California Supreme Court addressed whether the doctrine of governmental immunity from tort liability should survive in California.
+
+---
+
+HOLDING:
+
+Justice Traynor wrote for a unanimous Court.
+
+ABOLISHING GOVERNMENTAL IMMUNITY IN CALIFORNIA:
+"The rule that a governmental body is immune from tort liability is an anachronism that has no place in modern law."
+
+"The doctrine of governmental immunity was based on the fiction that the king can do no wrong — a principle that has no place in a constitutional democracy. This court now holds that the rule of governmental immunity from tort is hereby abrogated in California."
+
+RATIONALE FOR ABOLITION:
+1. The government, like any other employer, should be responsible for the negligent acts of its employees
+2. The costs of tortious government activity should be spread across the public through the government's ability to budget and insure, rather than concentrated on innocent victims
+3. There is no principled basis for distinguishing between government and private-sector liability in negligence cases
+4. The "public duty" doctrine and other immunity justifications do not withstand scrutiny in modern administrative government
+
+THE MUSKOPF PRINCIPLE:
+"When the government acts, it acts through employees. Government employees are no different from private employees in their capacity to act negligently. If a private hospital's employees negligently injure a patient, the hospital is liable. There is no principled reason why the same rule should not apply to a government hospital."
+
+---
+
+WHAT HAPPENED AFTER MUSKOPF — LEGISLATIVE RESPONSE:
+The California Legislature quickly responded to Muskopf by enacting the California Tort Claims Act (Government Claims Act), now codified at Gov. Code §§ 810 et seq. The Act:
+1. Restored a modified form of government immunity for specified categories of government action (discretionary acts, design immunity, etc.)
+2. Required presentation of a Government Claims Act claim before filing suit
+3. Defined which government actions remain immune and which are subject to liability under § 815.2 vicarious liability and § 815 direct liability for statutory violations
+
+Muskopf's principle — that government is not categorically immune — survived. The Legislature restored specific immunities, but the baseline rule is now that government is liable unless a specific immunity applies.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Muskopf is the historical anchor for California government tort liability:
+
+1. **Government Claims Act is mandatory before suing**: Because the Legislature responded to Muskopf by enacting the Claims Act, the Claims Act's presentation requirement (file a written claim with the agency within six months of accrual) is a prerequisite to any civil suit against a California government entity.
+
+2. **Baseline = liability**: After Muskopf, the starting presumption is that government defendants are liable for their employees' negligence, just like private defendants. Immunity is the exception — the government must identify and prove a specific statutory immunity.
+
+3. **Current framework (§ 815.2)**: Today, California government liability is governed by Gov. Code § 815.2 (vicarious liability for employee acts within scope) and specific immunity provisions. Mary M. v. City of Los Angeles (see CA_Civil_Rights_Litigator) applies the coercive authority theory to extend § 815.2 to intentional torts by officers using official power.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 55 Cal.2d 211 (1961)
+Court: California Supreme Court
+Reporter: California Reports, Second Series, vol. 55, page 211
+Author: Traynor, J. (unanimous)
+Source of this text: Claude training data (knowledge cutoff August 2025). Muskopf v. Corning Hospital District abolished California's common law governmental immunity from tort liability — the founding case that triggered enactment of the California Tort Claims Act.
+Verification: Casetext / Google Scholar: "Muskopf v. Corning Hospital District 55 Cal.2d 211"
+Verification status: PROPOSED — pending steward witness review

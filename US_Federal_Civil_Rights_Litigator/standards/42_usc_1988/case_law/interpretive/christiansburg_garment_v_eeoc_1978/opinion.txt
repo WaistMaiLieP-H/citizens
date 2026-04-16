@@ -1,0 +1,72 @@
+CHRISTIANSBURG GARMENT CO. v. EEOC
+434 U.S. 412 (1978)
+United States Supreme Court
+Decided: January 23, 1978
+
+---
+
+FACTS:
+
+The EEOC filed a Title VII employment discrimination action against Christiansburg Garment Company on behalf of Doris Hollins. The EEOC lost the case. Christiansburg sought attorney's fees from the EEOC under Title VII's fee-shifting provision (which uses identical language to § 1988), arguing that because it prevailed, it was entitled to fees as a matter of course — symmetrically with the rule that prevailing plaintiffs generally receive fees.
+
+The district court awarded fees. The Fourth Circuit reversed.
+
+---
+
+HOLDING:
+
+Justice Stewart wrote for a unanimous Court.
+
+FEE-SHIFTING UNDER § 1988 (AND TITLE VII) IS ASYMMETRIC:
+Plaintiffs and defendants are treated differently under civil rights fee-shifting statutes.
+
+PLAINTIFFS: A prevailing plaintiff is ordinarily entitled to attorney's fees under § 1988 unless "special circumstances would render such an award unjust." The standard for withholding fees from a prevailing plaintiff is very high.
+
+DEFENDANTS: A prevailing defendant is entitled to attorney's fees only when the plaintiff's claim "was frivolous, unreasonable, or without foundation." It is not enough that the defendant prevailed — the plaintiff's case must have been objectively baseless.
+
+WHY ASYMMETRY:
+"If a plaintiff loses and the defendant prevails merely because the merits were close or difficult, there is no basis for shifting fees to the defendant. The civil rights plaintiff who brought a non-frivolous claim and lost should not be deterred from bringing future meritorious claims by the threat of paying the defendant's legal fees."
+
+"But if the plaintiff's case was frivolous — if there was no foundation for the claim — then there is no social value in the plaintiff having brought the suit, and fee-shifting to the defendant is appropriate."
+
+THE STANDARD FOR DEFENDANT FEES — PRACTICAL APPLICATION:
+A prevailing defendant may recover § 1988 fees when the plaintiff's case was:
+1. Frivolous — no factual or legal foundation whatsoever
+2. Unreasonable — pursued in the face of clear adverse precedent with no good-faith argument for extension
+3. Without foundation — speculative or groundless from the start
+
+A close case on the merits — one the plaintiff lost but had a reasonable basis for bringing — does NOT support defendant fee-shifting.
+
+---
+
+WARNING FOR PLAINTIFF'S COUNSEL:
+After Christiansburg, filing a § 1983 claim carries no fee risk to the plaintiff unless the claim is frivolous. This makes § 1983 a practical vehicle for good-faith claims even when the odds of success are uncertain.
+
+RISK TO PLAINTIFF: If the § 1983 claim is objectively frivolous, the plaintiff can be ordered to pay the defendant's attorney's fees. Courts use this power sparingly — but it exists.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+The Christiansburg asymmetric fee rule has two implications:
+
+1. **Plaintiff's fee recovery**: If the § 1983 claims succeed, § 1988 fees are available as a matter of course unless special circumstances apply. The fee award is presumptive for prevailing civil rights plaintiffs.
+
+2. **Defense threat**: Defendants may threaten a fee-shifting motion to deter the plaintiff from pursuing § 1983 claims. Christiansburg makes clear that only frivolous claims trigger defendant fee awards. A well-pleaded, factually supported § 1983 complaint — even one that ultimately loses — carries no fee risk under Christiansburg.
+
+3. **Case selection quality control**: The Christiansburg standard is a self-enforcing quality gate. File only claims that have a genuine factual and legal foundation. The factual record in this case — 16 years of documented conduct with corroborating third-party evidence — places the claims firmly beyond any frivolousness challenge.
+
+---
+
+NOTE: This is also docketed in this Citizen as `christiansburg_garment_1978` — that folder is a near-duplicate. See the RELATED.md note if applicable. The canonical opinion.txt is this file.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 434 U.S. 412 (1978)
+Court: United States Supreme Court
+Reporter: United States Reports, vol. 434, page 412
+Author: Stewart, J. (unanimous)
+Source of this text: Claude training data (knowledge cutoff August 2025). Christiansburg Garment v. EEOC established the asymmetric fee standard under § 1988 — prevailing plaintiffs presumptively get fees; prevailing defendants get fees only when plaintiff's case was frivolous.
+Verification: CourtListener / Justia / Google Scholar: "Christiansburg Garment Co. v. EEOC 434 U.S. 412"
+Verification status: PROPOSED — pending steward witness review

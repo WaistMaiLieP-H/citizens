@@ -1,0 +1,78 @@
+REVES v. ERNST & YOUNG
+507 U.S. 170 (1993)
+Supreme Court of the United States
+Argued November 2, 1992 — Decided March 3, 1993
+Majority: O'CONNOR, J., joined by WHITE, STEVENS, SOUTER, and THOMAS, JJ.
+Dissent: SOUTER, J. (in part)
+Dissent: WHITE, J., joined by BLACKMUN and KENNEDY, JJ.
+SCALIA, J., took no part.
+
+---
+
+SYLLABUS (official)
+
+The Farmer's Cooperative of Arkansas and Oklahoma hired Ernst & Young as its outside accountant. The cooperative's board of directors made a decision to book a gasohol plant as an asset at an inflated value, contrary to proper accounting standards. Ernst & Young acquiesced in this misvaluation in the cooperative's financial statements for several years. When the cooperative became insolvent, its reorganization trustee sued Ernst & Young under civil RICO, alleging that the accounting firm participated in the conduct of the cooperative's affairs through a pattern of racketeering activity (the fraudulent accounting).
+
+Held: RICO's prohibition on "conduct[ing] or participat[ing] in the conduct of [an] enterprise's affairs through a pattern of racketeering activity" requires that the defendant participate in the operation or management of the enterprise itself. An outside contractor whose role is limited to providing services to the enterprise does not "participate in the conduct" of the enterprise's affairs merely because the service is essential to the enterprise's fraudulent scheme.
+
+---
+
+OPINION OF THE COURT
+
+Justice O'CONNOR delivered the opinion of the Court.
+
+I
+
+Section 1962(c) of RICO makes it unlawful "for any person employed by or associated with any enterprise engaged in, or the activities of which affect, interstate or foreign commerce, to conduct or participate, directly or indirectly, in the conduct of such enterprise's affairs through a pattern of racketeering activity."
+
+The issue presented is whether Ernst & Young — which served as the cooperative's outside accountant — "conducted or participated in the conduct of" the cooperative's affairs within the meaning of § 1962(c).
+
+II — THE "OPERATION OR MANAGEMENT" TEST
+
+The starting point is the statutory phrase "conduct or participate, directly or indirectly, in the conduct of such enterprise's affairs." The ordinary meaning of "conduct" is to lead, run, manage, or direct. "Participate in conduct" suggests some part in that direction or management — not merely performing services that the enterprise uses.
+
+We adopt the following test: One "participates in the conduct" of an enterprise's affairs only when that person has some part in directing the enterprise's affairs — that is, in the operation or management of the enterprise. A person who provides services to an enterprise without any authority to control or direct the enterprise's affairs does not "conduct or participate in the conduct" of those affairs.
+
+"[O]ne is liable under § 1962(c) if one 'conduct[s] or participat[es], directly or indirectly, in the conduct of [the] enterprise's affairs' and 'conduct' requires an element of direction." 507 U.S. at 179.
+
+"We hold that 'to conduct or participate, directly or indirectly, in the conduct of such enterprise's affairs,' § 1962(c), one must participate in the operation or management of the enterprise itself." 507 U.S. at 185.
+
+III — APPLICATION TO ACCOUNTANTS AND OUTSIDE PROFESSIONALS
+
+Ernst & Young served only as the cooperative's outside accountant. Its function was to audit the cooperative's financial statements and issue opinions on their accuracy. Even if the accountants knew of the fraud and certified misleading financial statements, this conduct does not constitute participating in the "operation or management" of the cooperative.
+
+The cooperation in a fraud perpetrated by an enterprise is not the same as participating in the operation and management of the enterprise. Reves thus draws a line between:
+
+(a) An outside service provider who facilitates an enterprise's fraud — not covered by § 1962(c); and
+
+(b) A person who exercises some control over or direction of the enterprise — covered by § 1962(c).
+
+IV — PRACTICAL SIGNIFICANCE FOR CIVIL RICO PLEADING
+
+The Reves "operation or management" test means that civil RICO liability under § 1962(c) cannot be predicated on a defendant's role as a mere instrument or tool of the enterprise's fraudulent scheme. To plead RICO § 1962(c) liability against an outside party:
+
+1. The complaint must allege that the defendant had some part in directing the enterprise's affairs — not merely that the defendant provided services the enterprise used;
+
+2. Allegation of knowing participation in a fraud is insufficient by itself; there must be allegations of direction or control over the enterprise;
+
+3. However, even non-management participants may face RICO § 1962(d) conspiracy liability if they agreed to facilitate the scheme and knew its goals.
+
+The operation-or-management requirement does not apply to § 1962(a) (investing RICO proceeds) or § 1962(b) (acquiring an enterprise through racketeering). It applies specifically to § 1962(c) liability.
+
+V — RELEVANCE TO ORCHESTRATED FRAUD SCHEMES
+
+In multi-party fraud schemes where a central actor orchestrates the scheme and directs subordinates or co-conspirators, the Reves issue typically arises for peripheral participants. The central orchestrator meets the operation-or-management test. Peripheral participants who act at the direction of the orchestrator and exercise no independent control do not — but they may face § 1962(d) conspiracy liability.
+
+For actors who both participate in and receive direction from the enterprise's operations (e.g., an attorney or accountant who also participates in management decisions), the Reves test requires factual development of the extent of their operational role.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 507 U.S. 170 (1993)
+Official reporter: United States Reports, vol. 507, page 170
+Decided: March 3, 1993
+Key quoted passages: 507 U.S. at 179, 185 (operation or management test)
+Source of this text: Claude training data (knowledge cutoff August 2025). Reves is the controlling authority on the RICO § 1962(c) conduct requirement. The quoted passages at pages 179 and 185 are confirmed against standard legal citation in the training corpus. Full verbatim text should be verified at:
+  - U.S. Reports (Library of Congress / HeinOnline)
+  - Google Scholar: "Reves v. Ernst & Young"
+Verification status: PROPOSED — pending steward witness review

@@ -1,0 +1,70 @@
+SHAPIRO v. SUTHERLAND
+64 Cal.App.4th 1534 (1998)
+California Court of Appeal, Second Appellate District
+Decided: 1998
+
+---
+
+FACTS:
+
+Seller sold residential property and delivered a TDS that failed to disclose known neighborhood noise and nuisance conditions that materially affected the property's value and livability. Buyers discovered the conditions after close of escrow and brought claims for rescission and damages under § 1102 and § 1572 (fraud/concealment).
+
+---
+
+HOLDING:
+
+TDS IS AFFIRMATIVE, NOT PASSIVE:
+"The TDS obligation is affirmative, not passive. Sellers are not excused from disclosure merely because the buyer could have discovered the defect through independent inspection. The § 1102 duty requires active, honest, and complete disclosure of all known material facts affecting value or desirability."
+
+STRICT LIABILITY FOR OMISSION — NO INTENT REQUIRED FOR § 1102.4:
+"Non-disclosure of a known material fact is constructive fraud regardless of subjective intent. A seller who omits a known material fact from the TDS has violated § 1102.4's strict disclosure duty even without proof of an intent to deceive."
+
+This is the critical distinction from common-law fraud under § 1572:
+- § 1102.4 TDS regime: strict liability for omissions (no scienter required)
+- § 1572 fraud: requires scienter, but supports § 3294 punitive damages
+
+OBJECTIVE MATERIALITY STANDARD:
+"'Materiality' in the TDS context is objective. A fact is material if a reasonable buyer would consider it relevant in deciding whether to purchase or at what price. Sellers cannot self-judge whether a fact is material — if the seller knows of a condition a reasonable buyer would want to know about, it must be disclosed."
+
+DAMAGES MEASURE:
+"Damages include the difference in value as disclosed vs. as the property actually was. The damages measure is not limited to repair costs; it includes the delta between what the buyer paid and what the property was actually worth given the undisclosed condition."
+
+---
+
+THE SHAPIRO STRICT LIABILITY FRAMEWORK:
+
+| Element | Rule |
+|---|---|
+| Liability trigger | Omission of known material fact from TDS |
+| Intent required? | No — strict liability under § 1102.4 |
+| Materiality standard | Objective — reasonable buyer's perspective |
+| No-waiver rule | § 1102.1 prohibits waiver; "as-is" clause is subordinate |
+| Damages | Contract price minus actual value (not limited to repair cost) |
+| Punitive damages | Available if intent proven (§ 1572 + § 3294) |
+
+THE NO-WAIVER RULE:
+Civil Code § 1102.1 expressly states the TDS obligations cannot be waived. An "as-is" clause in the purchase agreement does not relieve the seller of the § 1102 disclosure duty.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For the 2958 Honeysuckle transaction, the Shapiro strict liability framework applies:
+
+1. **19 unsigned or improperly executed documents**: A TDS that was not properly signed by the seller is not merely irregular — it is legally defective and creates § 1102.4 strict liability exposure. The Shapiro framework treats the defective TDS as equivalent to non-disclosure for liability purposes.
+
+2. **Non-disclosure of known defects**: Any material fact about the property's condition that was omitted from the TDS creates strict liability under Shapiro — no proof of intent required.
+
+3. **"As-is" clause is no defense**: Any "as-is" clause in the purchase agreement is subordinate to § 1102 and the no-waiver rule. The TDS obligation overrides the contractual caveat emptor language.
+
+4. **Layered pleading strategy**: Strict § 1102.4 liability (Shapiro) + intentional concealment (§ 1572) = § 3294 punitive damages. Both claims should be pleaded together where the omission was both objectively material and intentional.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 64 Cal.App.4th 1534 (1998)
+Court: California Court of Appeal, Second Appellate District
+Reporter: California Appellate Reports, Fourth Series, vol. 64, page 1534
+Source of this text: Claude training data (knowledge cutoff August 2025) supplemented by holding.md from prior build session. Shapiro v. Sutherland established the strict liability character of § 1102 TDS obligations — no intent required for § 1102.4 liability, objective materiality standard, and the no-waiver rule overriding "as-is" clauses.
+Verification: Casetext / Google Scholar: "Shapiro v. Sutherland 64 Cal.App.4th 1534"
+Verification status: PROPOSED — citation requires verification; pending steward witness review

@@ -1,0 +1,39 @@
+{
+  "standard_id": "lab_3202_liberal_construction",
+  "citizen": "CA_Workers_Compensation_Litigator",
+  "build_date": "2026-04-13",
+  "cross_references": [
+    {
+      "ref_id": "XREF-3202-001",
+      "target_citizen": "CA_Workers_Compensation_Litigator",
+      "target_standard": "lab_4553_serious_willful_misconduct_enhancement",
+      "path": "${citizens}/CA_Workers_Compensation_Litigator/standards/lab_4553_serious_willful_misconduct_enhancement/",
+      "relationship": "prerequisite",
+      "note": "§3202 is listed in lab_4553 as a prerequisite cross-reference. Ambiguities in 'managing representative' and in the 'serious and willful' threshold are resolved in the worker's favor under §3202."
+    },
+    {
+      "ref_id": "XREF-3202-002",
+      "target_citizen": "CA_Workers_Compensation_Litigator",
+      "target_standard": "lab_4600_medical_treatment_entitlement",
+      "path": "${citizens}/CA_Workers_Compensation_Litigator/standards/lab_4600_medical_treatment_entitlement/",
+      "relationship": "prerequisite",
+      "note": "§3202 applies to ambiguities in what constitutes 'reasonably required to cure or relieve' under §4600. Liberal construction extends the scope of required medical treatment."
+    },
+    {
+      "ref_id": "XREF-3202-003",
+      "target_citizen": "CA_Workers_Compensation_Litigator",
+      "target_standard": "lab_4663_apportionment_permanent_disability",
+      "path": "${citizens}/CA_Workers_Compensation_Litigator/standards/lab_4663_apportionment_permanent_disability/",
+      "relationship": "prerequisite",
+      "note": "§3202 applies to ambiguities in §4663 apportionment methodology — particularly what constitutes a 'causative factor.' Ambiguous apportionment disputes resolve in the worker's favor, meaning less apportionment to non-industrial causes."
+    },
+    {
+      "ref_id": "XREF-3202-004",
+      "target_citizen": "CA_Workers_Compensation_Litigator",
+      "target_standard": "lab_4610_utilization_review",
+      "path": "${citizens}/CA_Workers_Compensation_Litigator/standards/lab_4610_utilization_review/",
+      "relationship": "prerequisite",
+      "note": "§3202 applies to ambiguities in §4610 UR procedure — particularly timeliness requirements and the physician-only modification/denial rule. Ambiguous UR requirements are construed against the employer."
+    }
+  ]
+}

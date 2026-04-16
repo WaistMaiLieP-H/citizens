@@ -1,0 +1,9 @@
+{
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=WIC&sectionNum=15630",
+  "fetch_tool": "mcp__claude_ai_VernenLegal__california_get_section",
+  "fetch_date": "2026-04-13",
+  "fetch_steward": "Claude (Sonnet 4.6) — session 2026-04-13",
+  "verified": true,
+  "statute_sha256": "2a0b748724b9388887b41c42878322a26962d6b90b3ba3ece0b9b0b64f600a8c",
+  "notes": "Live-fetched from leginfo via VernenLegal MCP tool. Full text received. SHA256 computed on opening paragraph for fingerprint."
+}

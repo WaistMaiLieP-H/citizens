@@ -1,0 +1,20 @@
+CALIFORNIA CIVIL CODE § 1213 (enacted 1872)
+Recording as Constructive Notice — Original Enactment
+
+SOURCE: California Civil Code, enacted March 21, 1872 (Field Code)
+REQUIRES_PRIMARY_SOURCE_VERIFICATION.
+
+--- Civil Code § 1213 (1872 text — approximate; text has been substantially stable) ---
+Every conveyance of real property acknowledged or proved and certified and recorded as prescribed by law, from the time it is filed with the recorder for record, is constructive notice of the contents thereof to subsequent purchasers and mortgagees.
+
+NOTE: The 1872 text established the foundational principle: recording a conveyance puts all subsequent purchasers and mortgagees on constructive notice of its contents. This means they are deemed to know what was recorded, whether or not they actually looked.
+
+The subsequent expansion added:
+- Coverage of "estate for years" (leasehold interests)
+- Certified copy recording in other counties
+- Recording of certified copies with full force and effect
+
+Current text as retrieved from leginfo.legislature.ca.gov (MCP fetch 2026-04-10):
+"Every conveyance of real property or an estate for years therein acknowledged or proved and certified and recorded as prescribed by law from the time it is filed with the recorder for record is constructive notice of the contents thereof to subsequent purchasers and mortgagees; and a certified copy of such a recorded conveyance may be recorded in any other county and when so recorded the record thereof shall have the same force and effect as though it was of the original conveyance and where the original conveyance has been recorded in any county wherein the property therein mentioned is not situated a certified copy of the recorded conveyance may be recorded in the county where such property is situated with the same force and effect as if the original conveyance had been recorded in that county."
+
+PROVENANCE: See provenance.json.

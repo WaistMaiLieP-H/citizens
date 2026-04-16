@@ -1,0 +1,17 @@
+{
+  "standard_id": "EVID_752_INTERPRETER_OATH",
+  "layer": "current",
+  "title": "Cal. Evid. Code § 752 — Interpreter for Witnesses",
+  "enacted": "1965",
+  "enacting_law": "Stats. 1965, ch. 299 (Evidence Code)",
+  "official_source": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=EVID&sectionNum=752",
+  "verified": true,
+  "verified_note": "Full statutory text fetched via VernenLegal MCP tool (california_get_section) at source prep 2026-04-12",
+  "retrieval_date": "2026-04-12",
+  "key_cases": [
+    "People v. Aguilar, 35 Cal.3d 785 (1984) — defendant's right to interpreter in criminal proceedings; due process foundation for §752",
+    "Regents of University of California v. Superior Court (2018) — bilingual juror cannot interpret for jury; certified interpreter required"
+  ],
+  "trust_act_connection": "GOV §7284.6(a)(3) prohibits use of immigration authorities as interpreters — directly interacts with EVID §752's neutrality and oath requirements",
+  "butsaya_anchor": "Thai-speaking witness/party in dissolution proceedings must have sworn §752-compliant interpreter in all proceedings — unsworn translations of testimony are inadmissible"
+}

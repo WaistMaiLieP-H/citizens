@@ -1,0 +1,10 @@
+{
+  "source": "California Legislative Information",
+  "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1374.30.&lawCode=HSC",
+  "retrieved": "2026-04-12",
+  "retrieval_tool": "VernenLegal MCP — california_get_section",
+  "sha256": "84f5dcfabba686b053e7d3475be1d6c7ddacfe62491bbd1fd9c030bfaadef9ba",
+  "bill_origin": "SB 260 (1999) — IMR system established as part of managed care reform; operative July 1, 2015 per subdivision (o)",
+  "effective_date": "January 1, 2001 (established); July 1, 2015 (current operative date)",
+  "verified": true
+}

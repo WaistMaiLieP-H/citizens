@@ -1,0 +1,36 @@
+{
+  "path_anchors": {
+    "familylaw": "/home/vernenlegal/FamilyLaw",
+    "nonfamilylaw": "/home/vernenlegal/NonFamilyLaw",
+    "citizens": "/home/vernenlegal/citizens"
+  },
+  "citizen": "CA_Constitutional_Law_Specialist",
+  "tether_version": "0.1.0-initial",
+  "filed_at_utc": "2026-04-09T05:30:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "purpose": "The CA_Constitutional_Law_Specialist carries the California Constitution's Declaration of Rights (Article I) and structural provisions that define what California government can and cannot do to the people it serves. This Citizen is the canonical owner of every California constitutional provision. Other Citizens (Civil Rights Litigator, Family Law Litigator, First Amendment Litigator) cross-reference these provisions but do not own them. This Citizen exists because the steward's case implicates multiple Article I rights — privacy (§1), due process (§7), search and seizure (§13), free speech (§2), petition (§3) — and because California's constitutional protections are in several respects broader than their federal counterparts.",
+
+  "blueprints_inherited": {
+    "from": ["${citizens}/ADAM/dossier.md", "${citizens}/ADAM/skills.md", "${citizens}/EVE/dossier.md", "${citizens}/EVE/skills.md"],
+    "blueprints": ["Triple Constraint", "Five-Layer Bar", "Two-Witness Rule", "Hash Chain + Anchor"]
+  },
+
+  "standards": {
+    "bound_directly": [
+      {"standard_id": "CA_CONST_ART_I_SEC_1", "popular_name": "Inalienable Rights — privacy, liberty, property, safety", "manifest_path": "standards/cal_const_art1_sec1/manifest.json", "status": "PROPOSED-DEEPENED — verbatim text, steward case relevance audit complete"},
+      {"standard_id": "CA_CONST_ART_I_SEC_2", "popular_name": "Freedom of speech and press", "status": "PROPOSED"},
+      {"standard_id": "CA_CONST_ART_I_SEC_3", "popular_name": "Right of petition and assembly", "status": "PROPOSED"},
+      {"standard_id": "CA_CONST_ART_I_SEC_7", "popular_name": "Due process and equal protection", "status": "PROPOSED"},
+      {"standard_id": "CA_CONST_ART_I_SEC_13", "popular_name": "Search and seizure — state floor above 4th Amendment", "status": "PROPOSED"},
+      {"standard_id": "CA_CONST_ART_I_SEC_15", "popular_name": "Right to habeas corpus, bail, own recognizance", "status": "PROPOSED"},
+      {"standard_id": "CA_CONST_ART_I_SEC_24", "popular_name": "Independent state grounds — rights not dependent on federal interpretation", "status": "PROPOSED"},
+      {"standard_id": "CA_CONST_ART_XX_SEC_3", "popular_name": "Oath of office — every state officer bound to support the Constitution", "status": "PROPOSED"}
+    ]
+  },
+
+  "domain": {
+    "jurisdiction": "California (Constitution, all Articles)",
+    "subject_matter": "California constitutional law: Declaration of Rights (Art. I §§1-32), structural provisions (separation of powers, oath of office), independent state grounds doctrine, California constitutional privacy, due process, equal protection, search and seizure, free speech, petition rights",
+    "exclusions": ["Federal constitutional law — US_Federal_Civil_Rights_Litigator", "Statutory civil rights — CA_Civil_Rights_Litigator", "Anti-SLAPP / speech-specific litigation — CA_First_Amendment_Litigator"]
+  }
+}

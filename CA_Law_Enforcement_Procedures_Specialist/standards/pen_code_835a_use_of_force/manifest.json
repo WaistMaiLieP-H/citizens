@@ -1,0 +1,148 @@
+{
+  "standard_id": "CA_PEN_835A",
+  "version": "0.1.0-initial",
+  "filed_at_utc": "2026-04-10T12:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "PROPOSED — text captured from knowledge, primary source fetch outstanding.",
+  "build_context": "Built 2026-04-10 as part of the CA_Law_Enforcement_Procedures_Specialist initial seeding. Section 835a is the foundational use-of-force standard for all California peace officers.",
+
+  "primary_citation": {
+    "jurisdiction": "California",
+    "code": "California Penal Code",
+    "section": "§ 835a",
+    "popular_name": "Use of Force by Peace Officers — AB 392 (2019)",
+    "current_codification_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=835a.&lawCode=PEN",
+    "current_form_local_artifact": "current/",
+    "verbatim_text_extracted_artifact": "OUTSTANDING — needs leginfo fetch"
+  },
+
+  "structural_location": {
+    "code": "California Penal Code",
+    "part": "PART 2. OF CRIMINAL PROCEDURE",
+    "title": "TITLE 3. ADDITIONAL PROVISIONS REGARDING CRIMINAL PROCEDURE",
+    "chapter": "CHAPTER 1. OF THE ARREST, BY WHOM AND HOW MADE",
+    "section_history": "Rewritten by AB 392 (Stats. 2019, Ch. 170), effective January 1, 2020. This was a complete replacement of the prior section, not an amendment."
+  },
+
+  "verbatim_factor_inventory": {
+    "extraction_source": "Knowledge-based capture — primary source fetch outstanding",
+    "structural_summary": "Section 835a has the structure: (a) legislative findings on sanctity of human life and policing purpose; (b) officer shall use force only when reasonably necessary — replacing the prior 'reasonable force' standard with 'necessary force'; (c) deadly force only when officer reasonably believes the person poses an imminent threat of death or serious bodily injury to the officer or another person, OR the person is fleeing and poses an imminent threat; (d) totality of the circumstances standard — what would a reasonable officer in the same situation have believed; (e) the officer's own conduct leading up to the use of force is relevant — an officer who unnecessarily escalates cannot then claim the force was necessary.",
+    "subsection_a_legislative_findings": {
+      "summary": "The Legislature finds and declares that the authority to use physical force, conferred on peace officers by this section, is a serious responsibility that shall be exercised judiciously and with respect for human rights and dignity and for the sanctity of every human life. The Legislature further finds and declares that every person has a right to be free from excessive use of force by officers acting under color of law.",
+      "doctrinal_significance": "AB 392 opened with a statement of values unprecedented in California use-of-force law. This is not decorative — it is a statutory command that force be 'exercised judiciously' and that every person has a 'right to be free from excessive use of force.' This language creates an interpretive framework for the substantive provisions that follow."
+    },
+    "subsection_b_necessity_standard": {
+      "summary": "A peace officer is justified in using deadly force upon another person only when the officer reasonably believes, based on the totality of the circumstances, that such force is necessary: (1) to defend against an imminent threat of death or serious bodily injury to the officer or to another person; or (2) to apprehend a fleeing person for any felony that threatened or resulted in death or serious bodily injury, if the officer reasonably believes that the person will cause death or serious bodily injury to another unless immediately apprehended.",
+      "doctrinal_significance": "The word 'necessary' replaced 'reasonable.' This is the heart of AB 392. Under the old standard, force only had to be objectively reasonable. Under the new standard, force must be necessary — meaning there was no reasonable alternative available to the officer that would have achieved the same lawful objective with less force."
+    },
+    "subsection_c_nondeadly_force": {
+      "summary": "A peace officer who makes or attempts to make an arrest need not retreat or desist from their efforts by reason of the resistance or threatened resistance of the person being arrested. A peace officer shall not use a level of force that creates a substantial risk of causing death, if a reasonable officer in the same situation would conclude that a lesser degree of force is sufficient.",
+      "doctrinal_significance": "Even for non-deadly force, the statute now requires that officers not escalate beyond what is sufficient. The 'no retreat' provision is balanced by the prohibition on using force creating a substantial risk of death when lesser force would suffice."
+    },
+    "subsection_d_totality_of_circumstances": {
+      "summary": "For purposes of this section, 'totality of the circumstances' means all facts known to the peace officer at the time, including the conduct of the officer and the subject leading up to the use of force.",
+      "doctrinal_significance": "This is the second revolution in AB 392. The officer's own pre-force conduct is now part of the analysis. An officer who escalates a situation through poor tactics, aggressive language, or failure to de-escalate cannot then claim force was necessary because the situation had become dangerous. The officer's own contribution to the danger is weighed."
+    },
+    "subsection_e_imminent_defined": {
+      "summary": "'Imminent' means the person's actions create an objectively reasonable belief that the person will use force within the immediate future, not simply that the person has the ability to do so.",
+      "doctrinal_significance": "Mere ability to cause harm is not enough. The threat must be about to happen. A person holding a weapon is not an imminent threat simply because they hold a weapon — they must be doing something with it that indicates they are about to use it."
+    }
+  },
+
+  "amendment_history_visible_on_leginfo": [
+    {"year": 1872, "stats_citation": "Original Penal Code enactment", "event": "Original section 835a — authorized 'reasonable' force to effect arrest", "primary_source_status": "NOT YET FETCHED"},
+    {"year": 2019, "stats_citation": "Stats. 2019, Ch. 170 (AB 392)", "event": "Complete rewrite — 'reasonable' replaced with 'necessary', totality of circumstances includes officer conduct, legislative findings on sanctity of life added", "primary_source_status": "NOT YET FETCHED"},
+    {"year": 2020, "effective_date": "January 1, 2020", "event": "AB 392 rewrite takes effect", "primary_source_status": "EFFECTIVE DATE"}
+  ],
+  "amendment_history_note": "AB 392 was one of the most significant changes to California law enforcement standards in decades. It was paired with SB 230 (Stats. 2019, Ch. 285), which required every law enforcement agency to adopt a use-of-force policy consistent with section 835a by January 1, 2021.",
+
+  "steward_case_relevance_audit": {
+    "purpose": "Evaluate whether any force was used during the June 16, 2023 APD response and whether it satisfied the AB 392 necessity standard.",
+    "audit_filed_at_utc": "2026-04-10T12:00:00Z",
+    "audit_filed_by": "Claude (assistant) at first-mouth level; steward review required",
+    "case_file_authorities_consulted": [
+      "project_june16_2023_timeline.md",
+      "project_conservatorship_breakthrough.md"
+    ],
+    "factor_audits": [
+      {
+        "factor_id": "(b) Necessity standard",
+        "what_the_statute_requires": "Force is justified only when necessary to defend against imminent threat or apprehend a dangerous fleeing felon.",
+        "what_the_record_shows": "The June 16, 2023 encounter involved officers separating a child (Cole) from his father (Michael). The level of force used, if any, needs to be determined from the police report, BWC footage, and witness accounts.",
+        "audit_question": "Was physical force used to separate Cole from Michael? If so, what level of force? Was that level of force necessary under the totality of circumstances, or would verbal commands or de-escalation have achieved the same result?",
+        "audit_status": "FLAGGED — requires police report and BWC footage review."
+      },
+      {
+        "factor_id": "(d) Totality of circumstances including officer conduct",
+        "what_the_statute_requires": "The officer's conduct leading up to the use of force is part of the analysis.",
+        "what_the_record_shows": "Per the June 16, 2023 timeline reconstruction, the dispatch and arrival sequence raises questions about how officers approached the situation. Did their approach escalate or de-escalate?",
+        "audit_question": "Did officer conduct upon arrival contribute to any escalation? Did officers attempt verbal de-escalation before any physical intervention? Did officers approach with weapons drawn or in a posture that escalated the encounter?",
+        "audit_status": "FLAGGED — requires BWC footage and CAD log."
+      }
+    ],
+    "audit_summary": "Force analysis depends on evidence not yet in the case file: BWC footage, the complete police report, and CAD log. Priority action: obtain these records via PRA request or discovery."
+  },
+
+  "umbrellas": [
+    "Authority / Governing Law (Umbrella 01) — primary",
+    "Professional Competence (Umbrella 04) — secondary"
+  ],
+
+  "owner_citizen": {
+    "primary": "CA Law Enforcement Procedures Specialist",
+    "ownership_note": "Section 835a is the foundational use-of-force standard for all California peace officers. Every force encounter in the state is governed by this section."
+  },
+
+  "triple_constraint_test_results": {
+    "governing_guidelines": {
+      "passes": true,
+      "evidence": "Cal. Pen. Code section 835a is binding California statutory authority; located at official California Legislative Information"
+    },
+    "standards_of_creation": {
+      "passes": true,
+      "evidence": "Section is well-formed with subsections (a)-(e), internally consistent, rewritten by AB 392 effective January 1, 2020"
+    },
+    "standard_of_care": {
+      "passes": "PARTIAL",
+      "current_layer": "KNOWLEDGE-BASED — primary source fetch outstanding",
+      "evolution_layer": "INCOMPLETE — pre-AB 392 text not yet captured",
+      "origin_layer": "NOT YET FETCHED — original 1872 Penal Code section not yet downloaded"
+    }
+  },
+
+  "five_layer_bar_status": {
+    "rule": "PRESENT — substantive provisions captured from knowledge in this manifest",
+    "reasoning": "PRESENT — AB 392 replaced 'reasonable' with 'necessary' because California recognized that the 'objectively reasonable' standard (Graham v. Connor) was insufficient to protect the sanctity of human life. The legislative record documented that officers were using deadly force in situations where de-escalation or lesser force could have achieved the lawful objective.",
+    "historical_loss": "PRESENT — AB 392 was catalyzed by the March 18, 2018 shooting of Stephon Clark by Sacramento Police officers. Clark was unarmed in his grandmother's backyard. Officers fired 20 rounds. The Sacramento County DA declined prosecution under the 'reasonable force' standard. The shooting demonstrated that the old standard permitted deadly force that a necessity standard would have prohibited.",
+    "cross_references": "PARTIAL — refs.json captures primary cross-references (SB 230, section 836, section 13701, Graham v. Connor, section 1983). Full cross-reference web is outstanding.",
+    "verifiable_provenance": "ABSENT for current form — leginfo fetch outstanding"
+  },
+
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction (Michael Hartmann), 2026-04-10",
+    "second_mouth_witness": "NONE — not yet countersigned",
+    "publishable_to_corpus": false,
+    "status": "PROPOSED"
+  },
+
+  "files": {
+    "origin": [],
+    "evolution": [],
+    "current": [],
+    "context": [],
+    "manifest": "manifest.json",
+    "provenance": "provenance.json"
+  },
+
+  "outstanding_work": [
+    "Fetch current section 835a text from leginfo.legislature.ca.gov",
+    "Fetch AB 392 bill text (Stats. 2019, Ch. 170) from leginfo",
+    "Fetch SB 230 bill text (Stats. 2019, Ch. 285) — companion bill requiring agency policies",
+    "Capture pre-AB 392 section 835a text for evolution chain",
+    "Document the Stephon Clark shooting and legislative history in detail",
+    "STEWARD: Obtain APD police report for June 16, 2023 incident — needed to determine whether force was used",
+    "STEWARD: Request BWC footage for June 16, 2023 incident via PRA request",
+    "STEWARD: Request CAD log for June 16, 2023 dispatch",
+    "Obtain second-mouth countersignature on the standard"
+  ]
+}

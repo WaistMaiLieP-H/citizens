@@ -1,0 +1,86 @@
+{
+  "standard_id": "pen_code_182_conspiracy",
+  "statute": "California Penal Code § 182",
+  "short_title": "Criminal Conspiracy",
+  "citizen": "CA_Criminal_Law_Specialist",
+  "version": "1.1.0-witnessed-by-herald",
+  "created_at_utc": "2026-04-11T00:00:00Z",
+  "created_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "five_layer_status": {
+    "layer_1_rule": "COMPLETE — Pen. Code § 182 full text captured from leginfo MCP in current/text.txt",
+    "layer_2_reasoning": "COMPLETE — Three elements, dual intent, co-conspirator liability, venue, SOL, key subdivisions (a)(1)/(a)(2)/(a)(3)/(a)(5), bilateral analysis, actor table, CALCRIM 415 in current/context.md",
+    "layer_3_historical_loss": "COMPLETE — 1872 origin, Manson doctrine, identity theft amendment, § 182(a)(2) false arrest history in historical_chain.md",
+    "layer_4_cross_refs": "COMPLETE — 10 cross-references in cross_refs/refs.json covering conspiracy objects, parallel federal charges, civil § 1983 parallel, internal citizen cross-refs",
+    "layer_5_provenance": "COMPLETE — Two California Supreme Court cases: People v. Johnson (2013) 57 Cal.4th 250 (agreement + co-conspirator liability), People v. Beeman (1984) 35 Cal.3d 547 (dual intent requirement)"
+  },
+  "five_layer_score": "5 / 5",
+  "case_law": {
+    "interpretive": [
+      {
+        "folder": "people_v_johnson_2013",
+        "citation": "People v. Johnson (2013) 57 Cal.4th 250",
+        "authority": "California Supreme Court — BINDING",
+        "proposition": "Circumstantial evidence sufficient for agreement; single conspiracy / multiple objects doctrine; full co-conspirator liability for reasonably foreseeable acts",
+        "verification_status": "Citation documented from training knowledge. Verify reporter citation before use in filed document."
+      },
+      {
+        "folder": "people_v_beeman_1984",
+        "citation": "People v. Beeman (1984) 35 Cal.3d 547",
+        "authority": "California Supreme Court — BINDING",
+        "proposition": "Dual specific intent required: intent to agree + intent that crime be committed; knowledge alone insufficient; foundation for CALCRIM 415",
+        "verification_status": "Citation documented from training knowledge. Verify reporter citation before use in filed document."
+      }
+    ]
+  },
+  "outstanding_work": [
+    {
+      "priority": "HIGH",
+      "item": "Build People v. Meneses (false arrest conspiracy, § 182(a)(2)) — specific case TBD",
+      "reason": "Need Court of Appeal authority specifically on § 182(a)(2) procuring false arrest as standalone conspiracy object"
+    },
+    {
+      "priority": "HIGH",
+      "item": "Map specific overt acts to § 182 subdivisions for cross-case complaint",
+      "reason": "Translate documented evidence (APD call logs, coordinated filings, SIM swap records) into specific § 182 overt act allegations for potential complaint"
+    },
+    {
+      "priority": "MEDIUM",
+      "item": "Cross-reference SOL analysis across all active case dates",
+      "reason": "Conspiracy SOL runs from last overt act — confirm most recent overt act date across all six case categories to calculate current SOL status"
+    }
+  ],
+  "steward_case_connections": [
+    {
+      "case_id": "Case_7",
+      "case_ref": "04-23-01959",
+      "direction": "complainant",
+      "use": "§ 182(a)(2) — conspiracy to procure false arrest; 6/16/2023 as overt act; Christina + mother + possibly Ryan McClaran as co-conspirators"
+    },
+    {
+      "case_id": "Cross-case orchestration",
+      "direction": "complainant",
+      "use": "§ 182(a)(3) + (a)(5) — 16-year conspiracy to maintain false proceedings and obstruct justice across family court, criminal court, and CalVCB"
+    },
+    {
+      "case_id": "Case_4",
+      "case_ref": "M25-00758",
+      "direction": "defendant",
+      "use": "If conspiracy charged: Beeman dual intent defense — challenge both intent layers; parallel conduct vs. agreement"
+    }
+  ],
+  "active_subdivisions": [
+    "(a)(1)",
+    "(a)(2)",
+    "(a)(3)",
+    "(a)(5)"
+  ],
+  "statute_enacted": "1872 (California Penal Code original)",
+  "venue_rule": "Any county where any overt act occurred — favorable for cross-county scheme",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

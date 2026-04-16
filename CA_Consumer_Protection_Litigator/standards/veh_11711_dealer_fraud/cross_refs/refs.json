@@ -1,0 +1,31 @@
+{
+  "standard_id": "VEH_11711_DEALER_FRAUD",
+  "cross_references": [
+    {
+      "id": "CIV_2981_REES_LEVERING",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/civ_2981_rees_levering/",
+      "relationship": "COORDINATED — Rees-Levering governs the form and content of the retail installment contract; §11711 governs fraud in the transaction. A conditional delivery that violated Rees-Levering disclosure requirements (§2983.2) = per se Rees-Levering violation + §11711 misrepresentation. Both claims can be pled against the same dealer on the same transaction. Rees-Levering §2983.2 provides a rescission right that runs alongside §11711 damages.",
+      "direction": "coordinated"
+    },
+    {
+      "id": "BP_17500_FALSE_ADVERTISING",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/bp_17500_false_advertising/",
+      "relationship": "PARALLEL — §11711 applies to fraud in the licensed transaction itself; §17500 applies to advertising and representations leading up to the transaction. Wrong CARFAX = §11711 misrepresentation in the transaction + §17500 false advertising in the presentation of vehicle history. Both claims run against the dealer on the same facts.",
+      "direction": "parallel"
+    },
+    {
+      "id": "CIV_1709_DECEIT",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/civ_1709_deceit/",
+      "relationship": "COMMON LAW SUPPLEMENT — §11711 is the statutory dealer fraud remedy; §1709/§1710 is the common law fraud remedy. §11711 is easier to prove (no strict scienter) but capped at treble actual damages. §1709 + §3294 punitive is harder but has no cap. Plead both: §11711 as primary (lower bar); §1709/§3294 as punitive damages pathway.",
+      "direction": "supplement"
+    },
+    {
+      "id": "USC_15_1638_TILA",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_15_1638_tila/",
+      "relationship": "FEDERAL CROSS-CLAIM — If the retail installment contract failed to disclose the conditional delivery contingency as a material financing term, federal TILA (15 U.S.C. §1638) provides a parallel federal civil remedy: actual damages + twice the finance charge + attorneys' fees. TILA SOL is 1 year — analyze tolling for 2018 transaction.",
+      "direction": "federal_parallel"
+    }
+  ],
+  "path_anchor": "${citizens}",
+  "build_date": "2026-04-11"
+}

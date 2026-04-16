@@ -1,0 +1,16 @@
+{
+  "standard": "pen_code_530_5_identity_theft",
+  "refs": [
+    {"type": "definitions", "target": "Pen. Code § 530.55 (PII definitions)", "relationship": "Defines 'personal identifying information' used throughout § 530.5"},
+    {"type": "civil_remedy", "target": "Pen. Code § 530.6 (civil action)", "relationship": "Victim civil remedy; parallel to criminal prosecution"},
+    {"type": "expungement", "target": "Pen. Code § 530.7 (expungement)", "relationship": "Victim record expungement; implements § 530.5(b)"},
+    {"type": "disclosure", "target": "Pen. Code § 530.8 (business disclosure requirements)", "relationship": "Requires businesses to provide records to identity theft victims"},
+    {"type": "federal_parallel", "target": "18 USC § 1028 (federal identity theft)", "relationship": "Federal identity theft statute; substantial overlap with § 530.5"},
+    {"type": "federal_parallel", "target": "18 USC § 1028A (federal aggravated identity theft)", "relationship": "Federal enhancement statute with mandatory consecutive sentencing"},
+    {"type": "related_statute", "target": "Pen. Code § 529 (false personation)", "relationship": "Earlier statute with narrower scope; often charged alongside § 530.5", "anchor": "${citizens}/CA_Criminal_Law_Specialist/standards/pen_code_529_false_personation"},
+    {"type": "related_statute", "target": "Pen. Code § 484 (theft)", "relationship": "General theft statute; may be charged alternatively"},
+    {"type": "cross_citizen", "target": "US_Federal_Financial_Fraud_Litigator", "relationship": "Terminal A; handles federal identity theft dimensions"},
+    {"type": "cross_citizen", "target": "CA_Civil_Litigator", "relationship": "§ 530.6 civil claims"}
+  ],
+  "generated_at_utc": "2026-04-11T01:00:00Z"
+}

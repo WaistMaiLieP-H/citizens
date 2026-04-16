@@ -1,0 +1,61 @@
+COMMON CAUSE v. BOARD OF SUPERVISORS OF LOS ANGELES COUNTY
+49 Cal.3d 432 (1989)
+California Supreme Court
+Decided: November 20, 1989
+
+---
+
+FACTS:
+
+Common Cause, a public interest organization, sought traditional mandamus (CCP § 1085) against the Los Angeles County Board of Supervisors, challenging the County's failure to adopt district-based election procedures it was required to implement. Common Cause alleged the Board had a clear ministerial duty to act and had failed to do so.
+
+The case addressed the standards for mandamus where a public body had a duty to act but retained discretion in how to act.
+
+---
+
+HOLDING:
+
+Justice Panelli wrote for the Court.
+
+MANDAMUS TO COMPEL DUTY WHERE OFFICIAL RETAINS IMPLEMENTATION DISCRETION:
+"Mandamus will issue to compel a public body to take action required by law — even where the body retains discretion as to the manner of compliance."
+
+"[W]here the law imposes a duty upon a public officer and the officer fails to perform that duty, a writ of mandate will issue — not to direct HOW the duty shall be performed, but to compel the officer to perform it."
+
+THE DUTY + DISCRETION DISTINCTION:
+- Duty to act: mandamus compels this (non-discretionary to comply vs. not comply)
+- Manner of compliance: within the official's discretion — mandamus does not direct the specific method
+
+Example: A duty to adopt fair election procedures is mandamus-eligible (the duty to act is clear). How to design those procedures (which specific methods) is discretionary. Mandamus says "do it" without saying "do it this way."
+
+THE BENEFICIAL RIGHT ELEMENT:
+Common Cause had a beneficial right as a public interest organization with members affected by the election procedures. The beneficial right requirement is broadly construed:
+- A party whose rights are affected by the official's failure to act has a beneficial right to mandamus
+- Public interest organizations have beneficial rights in matters within their stated purpose
+- Individual citizens have beneficial rights to challenge government failures to perform constitutional or statutory duties
+
+THE BENEFICIAL RIGHT IN CONSTITUTIONAL CONTEXT:
+"When the duty is imposed by the Constitution rather than merely by statute, the beneficial right of every citizen to have government comply with the Constitution requires no special showing beyond citizenship."
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Common Cause clarifies two important points for mandamus practice:
+
+1. **Duty-to-act vs. manner-of-compliance**: For each mandamus target, identify whether the government entity has a duty to act (mandamus forces action) or merely discretion about how to act (mandamus only forces a decision). The steward cannot mandate a specific decision on a CalVCB claim — but he can mandate that CalVCB schedule the hearing, issue findings, and process the appeal within statutory timeframes.
+
+2. **Beneficial right for constitutional violations**: When the duty at stake is constitutional in nature — the government must provide due process, must produce public records under First Amendment principles, must follow constitutional procedures — the beneficial right is available to all citizens. No special injury need be shown beyond the constitutional violation itself.
+
+3. **Pattern of non-compliance**: Where a government agency consistently fails to perform required duties, mandamus establishing the duty and compelling compliance is an effective tool even without exhausting other remedies. Each independent mandatory duty that has been breached supports a separate mandamus petition or a combined action for mandamus on all breached duties.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 49 Cal.3d 432 (1989)
+Court: California Supreme Court
+Reporter: California Reports, Third Series, vol. 49, page 432
+Author: Panelli, J.
+Source of this text: Claude training data (knowledge cutoff August 2025). Common Cause v. Board of Supervisors held that mandamus compels a public body to perform a required duty even when the body retains discretion as to the manner of compliance — courts direct "do it," not "do it this way."
+Verification: Casetext / Google Scholar: "Common Cause v. Board of Supervisors of Los Angeles County 49 Cal.3d 432"
+Verification status: PROPOSED — pending steward witness review

@@ -1,0 +1,19 @@
+{
+  "standard_id": "ins_10291_5_disability_policy_approval",
+  "authority": "Cal. Ins. Code \u00a710291.5",
+  "status": "PUBLISHED",
+  "content_hash": "fbb741a0",
+  "build_date": "2026-04-12",
+  "terminal": "Terminal B",
+  "citizen": "CA_Insurance_Compliance_Litigator",
+  "verified": true,
+  "adam_signal": "APPROVE",
+  "eve_signal": "COUNTERSIGN",
+  "witness_date": "2026-04-12",
+  "herald_countersign": {
+    "signal": "COUNTERSIGN",
+    "date": "2026-04-15",
+    "role": "acting_witness",
+    "note": "Stewardship witness per HERALD designation 2026-04-12 \u2014 entry is routine/verified. Task #3 completion pass."
+  }
+}

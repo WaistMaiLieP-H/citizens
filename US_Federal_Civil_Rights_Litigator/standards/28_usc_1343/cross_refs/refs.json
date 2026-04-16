@@ -1,0 +1,22 @@
+{
+  "standard_id": "28_USC_1343",
+  "cross_references": [
+    {
+      "target_standard": "42_USC_1983",
+      "relationship": "substantive counterpart — §1343(a)(3) provides jurisdiction for §1983 claims",
+      "target_manifest": "${citizens}/US_Federal_Civil_Rights_Litigator/standards/42_usc_1983/manifest.json",
+      "build_status": "BUILT"
+    },
+    {
+      "target_standard": "42_USC_1985",
+      "relationship": "substantive counterpart — §1343(a)(1) provides jurisdiction for §1985 conspiracy claims",
+      "target_manifest": "${citizens}/US_Federal_Civil_Rights_Litigator/standards/42_usc_1985/manifest.json",
+      "build_status": "BUILT"
+    },
+    {
+      "target_standard": "28_USC_1331",
+      "relationship": "overlapping jurisdiction — general federal-question jurisdiction covers most §1983 claims; §1343 is the specific civil-rights grant",
+      "build_status": "NOT BUILT AS STANDALONE STANDARD — general federal-question jurisdiction; 28 USC §1343 is the specific civil-rights grant documented here. §1331 context noted within §1343 reasoning layer."
+    }
+  ]
+}

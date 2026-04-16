@@ -1,0 +1,12 @@
+{
+  "case_name": "People v. Von Villas",
+  "citation": "People v. Von Villas (1992) 10 Cal.App.4th 201",
+  "court": "California Court of Appeal",
+  "year": 1992,
+  "source": "manifest.json cases_to_add list",
+  "verification_status": "PROPOSED — citation from manifest; 10 Cal.App.4th 201 is within range for 1992 Court of Appeal decisions; recommend verification at Justia or courts.ca.gov before citing in filed document",
+  "key_holding": "§ 166 knowledge element; prosecution bears burden; in-court oral notification reflected in minute order is legally sufficient; formal service of process not exclusive method",
+  "standard_cited": "pen_code_166_contempt",
+  "built_by": "Claude (CA_Criminal_Law_Specialist) under steward direction — Michael Hartmann",
+  "built_at_utc": "2026-04-12T00:00:00Z"
+}

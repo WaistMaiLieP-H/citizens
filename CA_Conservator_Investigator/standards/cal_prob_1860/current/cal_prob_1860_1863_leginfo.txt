@@ -1,0 +1,32 @@
+California Probate Code §§ 1860, 1863 — Termination of Conservatorship
+
+§ 1860. Duration and Termination
+
+(a) A conservatorship continues until terminated by the death of the conservatee or by order of the court pursuant to Section 1863.
+(b) At a hearing under Section 1850 or on a petition to terminate under Section 1861, the court shall proceed as provided in Section 1863.
+(c) If a conservatorship is established for the person of a married minor, the conservatorship does not terminate automatically if the marriage is dissolved.
+(d) This section does not apply to limited conservatorships.
+
+§ 1863. Termination Hearing
+
+(a) The court shall hear and determine the matter according to the law and procedure relating to the trial of civil actions, INCLUDING TRIAL BY JURY IF DEMANDED BY THE CONSERVATEE.
+
+(b) The conservatee shall be produced at the hearing, except:
+  (A) When out of state and not the petitioner.
+  (B) When unable to attend by reason of medical inability (must be established by licensed medical practitioner affidavit).
+  (C) When the court investigator reports the conservatee expressly does not wish to attend, does not contest, and does not object to the conservator.
+
+(3) Emotional or psychological instability is NOT good cause for absence unless attendance would cause serious and immediate physiological damage.
+
+(c) UNLESS THE COURT DETERMINES, ON THE RECORD AND BY CLEAR AND CONVINCING EVIDENCE, that:
+  (1) the conservatee still meets the criteria for appointment under §1801(a) or (b); AND
+  (2) a conservatorship remains the LEAST RESTRICTIVE ALTERNATIVE needed for protection under §1800.3(b);
+THE COURT SHALL ENTER JUDGMENT TERMINATING THE CONSERVATORSHIP.
+
+(d) If the court finds criteria still met by clear and convincing evidence, it shall determine whether to MODIFY existing powers to ensure least restrictive alternative.
+
+(g) Termination does not preclude a new proceeding on the same or other grounds.
+
+(h) If uncontested and both conservator and conservatee wish to terminate, the court may terminate WITHOUT AN EVIDENTIARY HEARING.
+
+[Source: leginfo.legislature.ca.gov via VernenLegal MCP tool, fetched 2026-04-09]

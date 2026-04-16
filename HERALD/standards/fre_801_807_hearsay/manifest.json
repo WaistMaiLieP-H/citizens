@@ -1,0 +1,41 @@
+{
+  "standard_id": "FRE_801_807",
+  "popular_name": "Hearsay framework — what a witness can and cannot say",
+  "citizen_owner": "HERALD",
+  "filed": "2026-04-12",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "two_witness_status": {
+    "status": "PROPOSED",
+    "witness_1": null,
+    "witness_2": null
+  },
+  "herald_witness": {
+    "status": "SELF — HERALD is the owner; external witness required",
+    "note": "HERALD cannot self-witness its own standards. Requires steward review."
+  },
+  "layers_complete": {
+    "rule": true,
+    "reasoning": true,
+    "historical_loss": true,
+    "cross_refs": true,
+    "provenance": true
+  },
+  "primary_source": "FRE 801-807 — Federal Rules of Evidence",
+  "source_url": "https://www.law.cornell.edu/rules/fre",
+  "priority": "HIGH",
+  "use_in_cases": [
+    "1983_NDCA",
+    "criminal_04-23-01959",
+    "CalVCB_A25-10117946",
+    "Honeysuckle_fraud",
+    "FamilyLaw_RF09456481",
+    "Treasury_identity_theft",
+    "RedJag_fraud",
+    "SIMswap_MDM_track"
+  ],
+  "flags": [
+    "California hearsay parallels (§§ 1200, 1220, 1235, 1271, 1280) not yet retrieved",
+    "Crawford v. Washington Confrontation Clause — retrieve before criminal hearsay arguments"
+  ],
+  "version": "1.1.0-witnessed-by-herald"
+}

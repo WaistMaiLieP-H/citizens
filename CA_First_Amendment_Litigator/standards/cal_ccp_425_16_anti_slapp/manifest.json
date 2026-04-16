@@ -1,0 +1,124 @@
+{
+  "standard_id": "CA_CCP_425_16_ANTI_SLAPP",
+  "version": "0.2.0-verbatim-and-substance-audited",
+  "filed_at_utc": "2026-04-08T09:23:00Z",
+  "deepened_at_utc": "2026-04-08T11:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction \u2014 Michael Hartmann, Vernen Legal Compliance",
+  "status": "PROPOSED-DEEPENED-COMPACT \u2014 verbatim text extracted, brief substance audit completed. Standard is in an umbrella with INDIRECT relevance to the steward's case file; the audit is calibrated accordingly. Awaiting second-mouth countersignature.",
+  "build_context": "Originally built 2026-04-08 as part of the breadth-first umbrella seeding pass (Umbrella 15 Communication / Speech / Press first occupant). Deepened later same day with verbatim text and brief substance audit via _deepen_remaining_manifests.py.",
+  "primary_citation": {
+    "jurisdiction": "California",
+    "code": "California Code of Civil Procedure",
+    "section": "\u00a7 425.16",
+    "popular_name": "Anti-SLAPP Statute \u2014 Special Motion to Strike",
+    "current_codification_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=425.16.&lawCode=CCP",
+    "current_form_local_artifact": "current/cal_ccp_425_16_leginfo.html",
+    "verbatim_text_extracted_artifact": "current/cal_ccp_425_16_leginfo.txt"
+  },
+  "structural_location": {
+    "part": "PART 2. OF CIVIL ACTIONS [307 - 1062.34]",
+    "title": "TITLE 6. OF THE PLEADINGS IN CIVIL ACTIONS [420 - 475]",
+    "chapter": "CHAPTER 2. Pleadings Demanding Relief [425.10 - 429.30]",
+    "article": "ARTICLE 1. General Provisions [425.10 - 425.55]",
+    "article_history": "Article 1 added by Stats. 1971, Ch. 244",
+    "section_history": "Most recent amendment: Stats. 2024, Ch. 444, Sec. 1 (SB 577) Effective January 1, 2025"
+  },
+  "verbatim_summary": "(a) Legislative findings: lawsuits brought primarily to chill the valid exercise of free speech and petition rights are increasing; statute construed broadly. (b) Special motion to strike available for any cause of action arising from an act in furtherance of free speech or petition rights in connection with a public issue, unless plaintiff establishes probability of prevailing. (c) PREVAILING DEFENDANT IS ENTITLED TO ATTORNEY'S FEES AND COSTS \u2014 fee-shifting is mandatory. Frivolous motions can be sanctioned with fees to plaintiff. (d) Public-prosecutor enforcement actions are exempt. (e) Definition of 'act in furtherance' is broad: statements before official proceedings, statements connected to issues under official review, statements in public forums, and other conduct in furtherance of speech or petition rights. (f) 60-day filing window (court discretion to extend). (g) AUTOMATIC DISCOVERY STAY upon filing the motion. (i) Order on the motion is immediately appealable. (j) Notice to Judicial Council required.",
+  "amendment_history_visible_on_leginfo": [
+    {
+      "year": 1992,
+      "stats": "Stats. 1992, Ch. 726",
+      "event": "Original enactment of California's anti-SLAPP statute"
+    },
+    {
+      "year": 2024,
+      "stats": "Stats. 2024, Ch. 444, Sec. 1 (SB 577)",
+      "event": "Most recent amendment, effective January 1, 2025"
+    }
+  ],
+  "substance_audit": {
+    "purpose": "\u00a7 425.16 is California's strong anti-SLAPP statute. POTENTIALLY DIRECT for the steward if any party files a retaliatory civil action against him in response to his pro se litigation, his audit publications, or his public statements about his case. The fee-shifting and discovery-stay provisions are unusually consequential procedural levers.",
+    "audit_filed_at_utc": "2026-04-08T11:00:00Z",
+    "audit_filed_by": "Claude (assistant) at first-mouth level; steward review required",
+    "audit_items": [
+      {
+        "audit_id": "Fee-shifting (c)",
+        "recommendation": "Mandatory fee award to a prevailing defendant. For a pro se litigant, this is one of the most powerful procedural protections in California civil practice",
+        "audit_status": "CRITICAL \u2014 directly available to the steward if anyone sues him over his pro se filings or public statements"
+      },
+      {
+        "audit_id": "Discovery stay (g)",
+        "recommendation": "Automatic discovery stay upon filing the motion. Stops a retaliatory plaintiff from running up the steward's costs through pre-motion discovery",
+        "audit_status": "CRITICAL \u2014 directly procedural protection"
+      },
+      {
+        "audit_id": "Broad construction (a)",
+        "recommendation": "Statute is to be 'construed broadly' per the Legislature's express intent. Courts apply this in favor of speech/petition defendants",
+        "audit_status": "DOCTRINAL"
+      },
+      {
+        "audit_id": "60-day filing window (f)",
+        "recommendation": "The motion must be filed within 60 days of service unless the court extends. This is the operational time-pressure constraint",
+        "audit_status": "ROUTINE"
+      },
+      {
+        "audit_id": "Public-prosecutor exemption (d)",
+        "recommendation": "Anti-SLAPP not available against AG/DA/CA enforcement actions. Not applicable to private retaliatory suits",
+        "audit_status": "NOT APPLICABLE"
+      }
+    ]
+  },
+  "umbrellas": [
+    "Communication / Speech / Press (Umbrella 15) \u2014 primary"
+  ],
+  "owner_citizen": {
+    "primary": "CA_First_Amendment_Litigator"
+  },
+  "triple_constraint_test_results": {
+    "governing_guidelines": {
+      "passes": true,
+      "evidence": "California Code of Civil Procedure \u00a7 425.16 located at official primary source; binding California authority confirmed; verbatim text extracted to current/cal_ccp_425_16_leginfo.txt"
+    },
+    "standards_of_creation": {
+      "passes": true,
+      "evidence": "Section is well-formed and properly codified."
+    },
+    "standard_of_care": {
+      "passes": "PARTIAL",
+      "current_layer": "VERIFIED \u2014 current form fetched, hashed (sha256: d8ce2d74ec8c2fbc147f12713ce9ea89d05e22d8f814b8c4e4b96cc0232ac212), and verbatim-extracted",
+      "evolution_layer": "PARTIAL \u2014 amendment history captured at manifest level; primary-source amendment volumes not yet downloaded",
+      "origin_layer": "IDENTIFIED \u2014 original enactment recorded in amendment_history; primary-source not yet fetched"
+    }
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT \u2014 verbatim text extracted",
+    "reasoning": "PARTIAL \u2014 recorded in legislative findings where applicable",
+    "historical_loss": "OUTSTANDING",
+    "cross_references": "PARTIAL",
+    "verifiable_provenance": "PRESENT for current form; ABSENT for evolution and origin layers"
+  },
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction (Michael Hartmann), 2026-04-08",
+    "second_mouth_witness": "NONE \u2014 not yet countersigned",
+    "publishable_to_corpus": false,
+    "status": "PROPOSED-DEEPENED-COMPACT"
+  },
+  "files": {
+    "origin": [],
+    "evolution": [],
+    "current": [
+      "current/cal_ccp_425_16_leginfo.html",
+      "current/cal_ccp_425_16_leginfo.txt"
+    ],
+    "context": [],
+    "manifest": "manifest.json",
+    "provenance": "provenance.json"
+  },
+  "outstanding_work": [
+    "Locate and fetch primary-source statute volumes for the original enactment and key amendments",
+    "Document the historical-loss layer \u2014 what specific incidents drove the section's enactment",
+    "Fetch operative downstream sections in the same article/chapter as integrity-tracked HTML markers",
+    "Build cross-references to other Vernen corpus standards where applicable",
+    "Obtain second-mouth countersignature on the standard"
+  ]
+}

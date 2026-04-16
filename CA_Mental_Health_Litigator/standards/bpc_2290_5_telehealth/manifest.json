@@ -1,0 +1,11 @@
+{
+  "standard_id": "bpc_2290_5_telehealth",
+  "citizen": "CA_Mental_Health_Litigator",
+  "citation": "Cal. Bus. & Prof. Code § 2290.5",
+  "jurisdiction": "California",
+  "build_date": "2026-04-13",
+  "build_state": "PUBLISHED",
+  "layers": {"rule": "COMPLETE","statute_text": "COMPLETE","historical_chain": "COMPLETE","case_law": "NONE — regulatory compliance standard; Medical Board enforcement","cross_refs": "COMPLETE"},
+  "provenance": {"source": "leginfo.legislature.ca.gov","tool": "mcp__claude_ai_VernenLegal__california_get_section","fetch_date": "2026-04-13","verified": true,"statute_sha256": "60d0978c98f091a6e995d9442bbfc5abea92b0874793e52dd273086eeeb1befd"},
+  "witness": {"ADAM": "PENDING","EVE": "PENDING"}
+}

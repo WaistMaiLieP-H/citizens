@@ -1,0 +1,38 @@
+{
+  "standard_id": "CA_EVID_1450_1454_SELF_AUTHENTICATION",
+  "version": "1.0.0-proposed",
+  "filed_at_utc": "2026-04-12T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "status": "PROPOSED",
+  "primary_citation": {
+    "code": "California Evidence Code",
+    "sections": ["§ 1450", "§ 1451", "§ 1452", "§ 1453", "§ 1454"],
+    "popular_name": "Self-Authenticating Documents — Article 3",
+    "jurisdiction": "California (state)",
+    "location_in_code": "Evidence Code, Division 11, Chapter 1, Article 3",
+    "original_enactment": "Stats. 1965, Ch. 299 — original Evidence Code enactment",
+    "amendment_history": "Core provisions remain in 1965 enacted form; no electronic records equivalent to FRE 902(13)/(14)",
+    "positive_law_status": "In force"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current/text.txt contains §§1450-1454 operative text",
+    "reasoning": "PRESENT — current/context.md documents rebuttable presumption structure, §1450 OPD rebuttal mechanism, California vs. FRE 902 comparison",
+    "historical_loss": "PRESENT — historical_chain.md documents pre-1965 authentication inefficiency, 1965 Evidence Code reform, FRE 902 evolution",
+    "cross_references": "PRESENT — cross_refs/refs.json links to §1400, §1401, §1280, FRE 902",
+    "verifiable_provenance": "PARTIAL — 1965 origin enactment pending primary-source fetch"
+  },
+  "self_authentication_categories": {
+    "1450": "Official seals/signatures of public employees within their jurisdiction",
+    "1451": "Certified copies by official custodian",
+    "1452": "Official publications (statutes, regulations, court rules)",
+    "1453": "Printed publications (newspapers, periodicals, books)",
+    "1454": "Trade inscriptions and labels"
+  },
+  "key_doctrine": "Rebuttable presumption — competent rebuttal evidence defeats the presumption and throws the proponent back to §1400(a) extrinsic evidence burden",
+  "citizen_relevance": "§§1450-1454 are the self-authentication presumptions that opposing parties rely on to admit contested government documents without live authentication testimony. The rebuttable-presumption structure is the attack vector: evidence that the claimed originating agency does not have the document in its records (OPD records pickup) defeats §1450 and requires extrinsic authentication under §1400(a). Critical for contested police reports, court records, and pension administration documents.",
+  "two_witness_status": {
+    "status": "PROPOSED",
+    "first_mouth": "Claude (assistant)",
+    "second_mouth": "PENDING — steward review required"
+  }
+}

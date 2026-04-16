@@ -1,0 +1,19 @@
+{
+  "standard_id": "evid_1271_business_records_hearsay_exception",
+  "citizen": "CA_Forensic_Document_Specialist",
+  "source_type": "statute",
+  "primary_source": "Cal. Evidence Code §§ 1270, 1271",
+  "fetch_method": "VernenLegal MCP — california_get_section (EVID, 1271); §1270 confirmed via source prep pre-fetch 2026-04-12",
+  "fetch_date": "2026-04-13",
+  "verified": true,
+  "verification_note": "§1271 live-fetched via MCP 2026-04-13. §1270 pre-fetched via MCP 2026-04-12 (source prep) and confirmed accurate.",
+  "secondary_sources": [
+    "FRE 803(6) — federal counterpart; persuasive authority",
+    "Federal Business Records Act (1936) — historical predecessor",
+    "EVID §1280 — official records exception for governmental records (companion provision)"
+  ],
+  "historical_origin": "English common law shopbooks exception → California pre-1965 CCP provisions → codified in 1965 Evidence Code (Stats. 1965, ch. 299)",
+  "chronicle_flag": false,
+  "build_session": "2026-04-13",
+  "terminal": "Terminal B"
+}

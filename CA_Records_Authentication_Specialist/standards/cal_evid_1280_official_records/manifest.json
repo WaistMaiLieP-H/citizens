@@ -1,0 +1,135 @@
+{
+  "standard_id": "CA_EVID_1280_OFFICIAL_RECORDS",
+  "version": "0.2.0-deepened",
+  "filed_at_utc": "2026-04-10T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "PROPOSED-DEEPENED — verbatim text extracted, case law expanded, steward case relevance audit completed. Awaiting second-mouth countersignature.",
+
+  "primary_citation": {
+    "jurisdiction": "California",
+    "code": "California Evidence Code",
+    "section": "§ 1280",
+    "popular_name": "Official Records Exception to Hearsay — the exception that allows government records into evidence if they meet three trustworthiness requirements",
+    "current_codification_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1280.&lawCode=EVID",
+    "current_form_local_artifact": "current/cal_evid_1280_leginfo.html",
+    "verbatim_text_extracted_artifact": "current/cal_evid_1280_leginfo.txt"
+  },
+
+  "structural_location": {
+    "code": "California Evidence Code",
+    "division": "DIVISION 10. HEARSAY EVIDENCE [1200 - 1390]",
+    "division_history": "Division 10 enacted by Stats. 1965, Ch. 299",
+    "chapter": "CHAPTER 2. Exceptions to the Hearsay Rule [1220 - 1390]",
+    "chapter_history": "Chapter 2 enacted by Stats. 1965, Ch. 299",
+    "article": "ARTICLE 8. Official Records and Other Official Writings [1280 - 1285]",
+    "section_history": "Enacted by Stats. 1965, Ch. 299. AMENDED by Stats. 1996, Ch. 642, Sec. 4 (effective January 1, 1997). The 1996 amendment added 'in any civil or criminal proceeding' to clarify applicability in both civil and criminal cases."
+  },
+
+  "verbatim_text": {
+    "extraction_source": "current/cal_evid_1280_leginfo.txt",
+    "verbatim_full": "Evidence of a writing made as a record of an act, condition, or event is not made inadmissible by the hearsay rule when offered in any civil or criminal proceeding to prove the act, condition, or event if all of the following applies: (a) The writing was made by and within the scope of duty of a public employee. (b) The writing was made at or near the time of the act, condition, or event. (c) The sources of information and method and time of preparation were such as to indicate its trustworthiness.",
+    "structural_breakdown": {
+      "preamble": "Evidence of a writing made as a record of an act, condition, or event is not made inadmissible by the hearsay rule — the exception operates by removing the hearsay bar, not by creating independent admissibility. The writing must still be authenticated under §§ 1400-1401.",
+      "applicability_clause": "when offered in any civil or criminal proceeding — added by the 1996 amendment to resolve ambiguity about whether § 1280 applied in criminal cases",
+      "requirement_a": "(a) The writing was made by and within the scope of duty of a public employee — the record must be created by a government employee acting within their official duties, not by a private person or a government employee acting outside their role",
+      "requirement_b": "(b) The writing was made at or near the time of the act, condition, or event — contemporaneity requirement ensures the record reflects conditions as they existed, not as they were remembered later",
+      "requirement_c": "(c) The sources of information and method and time of preparation were such as to indicate its trustworthiness — the critical gatekeeper. Even if (a) and (b) are met, the record is excludable if the circumstances indicate it is untrustworthy",
+      "doctrinal_significance": "§ 1280 is the official records exception to the hearsay rule. It allows government records — police reports, court records, inspection reports, vital statistics, CLETS entries, medical examiner reports — to be admitted as evidence of the facts they record, provided all three requirements are met. The trustworthiness requirement in (c) is the substantive gate: a record that technically qualifies under (a) and (b) can still be excluded if it was created under circumstances that undermine its reliability."
+    }
+  },
+
+  "amendment_history": [
+    {
+      "year": 1965,
+      "stats_citation": "Stats. 1965, Ch. 299",
+      "event": "Original enactment as part of the 1965 Evidence Code recodification.",
+      "primary_source_status": "NOT YET FETCHED"
+    },
+    {
+      "year": 1996,
+      "stats_citation": "Stats. 1996, Ch. 642, Sec. 4",
+      "effective_date": "January 1, 1997",
+      "event": "Added 'in any civil or criminal proceeding' to the preamble. This resolved a split in authority about whether § 1280 applied in criminal proceedings. The amendment confirmed that the official records exception is available in both civil and criminal cases.",
+      "primary_source_status": "NOT YET FETCHED"
+    }
+  ],
+
+  "steward_case_relevance_audit": {
+    "purpose": "§ 1280 governs the admissibility of every official record in the steward's case — police reports, court records, CLETS entries, vital statistics, government inspection reports, medical examiner records. The trustworthiness requirement in subsection (c) is the primary lever: official records that were created under circumstances indicating untrustworthiness are inadmissible even though they are technically official.",
+    "audit_filed_at_utc": "2026-04-10T00:00:00Z",
+    "factor_audits": [
+      {
+        "factor_id": "Requirement (a) — public employee within scope of duty",
+        "what_the_statute_requires": "The writing must be made by a public employee acting within the scope of their official duties.",
+        "what_the_record_shows": "Police reports (OPD, APD, BPD), court clerk records, CLETS entries, CalVCB records, and DDS/SSA communications are all writings made by public employees. The question is whether specific records were made within the scope of duty or were influenced by improper external direction.",
+        "audit_status": "RELEVANT — the orchestration findings raise questions about whether certain official actions were truly within the scope of duty or were directed by external parties."
+      },
+      {
+        "factor_id": "Requirement (b) — contemporaneity",
+        "what_the_statute_requires": "The writing must be made at or near the time of the act, condition, or event it records.",
+        "what_the_record_shows": "Backdated documents, records created well after the events they purport to record, and documents with inconsistent timestamps all fail requirement (b). The steward's case includes allegations of document manipulation and timing inconsistencies.",
+        "audit_status": "CRITICAL — any record whose creation date does not correspond to the event date fails requirement (b)."
+      },
+      {
+        "factor_id": "Requirement (c) — trustworthiness",
+        "what_the_statute_requires": "The sources of information and method and time of preparation must indicate trustworthiness.",
+        "what_the_record_shows": "This is the gatekeeper. Official records created based on false information from interested parties, records that contradict other official records, records created under improper influence, and records whose system of creation has been shown to be unreliable all fail the trustworthiness requirement. The steward's case involves multiple official records that may fail (c): the OPD report that does not exist in the OPD records system, CLETS entries potentially based on unverified information, CalVCB records with documented audit failures.",
+        "audit_status": "CRITICAL — the trustworthiness requirement is where the steward's authentication challenges have their greatest force."
+      }
+    ],
+    "audit_summary": "§ 1280's trustworthiness requirement (subsection (c)) is the steward's primary tool for challenging official records. Even records that are technically made by a public employee within their duty and near the time of the event can be excluded if the circumstances indicate untrustworthiness — and the steward's case file documents multiple circumstances that do exactly that."
+  },
+
+  "owner_citizen": {
+    "primary": "California Records Authentication Specialist"
+  },
+
+  "triple_constraint_test_results": {
+    "governing_guidelines": {
+      "passes": true,
+      "evidence": "Cal. Evid. Code § 1280 located at official California Legislative Information; binding state authority confirmed."
+    },
+    "standards_of_creation": {
+      "passes": true,
+      "evidence": "Three-requirement structure, clear and testable, amended once in 1996 to clarify scope."
+    },
+    "standard_of_care": {
+      "passes": "STRONG-PARTIAL",
+      "current_layer": "VERIFIED — current form fetched and verbatim-extracted",
+      "evolution_layer": "PARTIAL — 1996 amendment identified but primary source not yet fetched",
+      "origin_layer": "NOT YET FETCHED"
+    }
+  },
+
+  "five_layer_bar_status": {
+    "rule": "PRESENT — verbatim text extracted with structural breakdown",
+    "reasoning": "PRESENT — three-requirement framework with trustworthiness as the critical gatekeeper",
+    "historical_loss": "PRESENT — historical_chain.md documents the pre-1965 unreliable official records problem",
+    "cross_references": "PRESENT — cross_refs/refs.json links to §1400, §1271, §1560, Pen. Code §832.7",
+    "verifiable_provenance": "PRESENT for current form; ABSENT for 1965 origin and 1996 amendment source"
+  },
+
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction (Michael Hartmann), 2026-04-10",
+    "second_mouth_witness": "NONE",
+    "publishable_to_corpus": false,
+    "status": "PROPOSED-DEEPENED"
+  },
+
+  "files": {
+    "origin": [],
+    "evolution": [],
+    "current": ["current/cal_evid_1280_leginfo.html", "current/cal_evid_1280_leginfo.txt"],
+    "context": [],
+    "case_law": [
+      "case_law/interpretive/people_v_martinez_2000/holding.md",
+      "case_law/interpretive/people_v_martinez_2000/provenance.json",
+      "case_law/interpretive/people_v_dunlap_1971/holding.md",
+      "case_law/interpretive/people_v_dunlap_1971/provenance.json",
+      "case_law/interpretive/rupf_v_yan_2000/holding.md",
+      "case_law/interpretive/rupf_v_yan_2000/provenance.json"
+    ],
+    "cross_refs": "cross_refs/refs.json",
+    "manifest": "manifest.json"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "source": "Electronic Code of Federal Regulations (eCFR)",
+  "url": "https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-164/subpart-E/section-164.502",
+  "retrieved": "2026-04-12",
+  "sha256": "PENDING — eCFR API did not return verbatim text; retrieve manually at URL above and compute sha256",
+  "bill_origin": "Health Insurance Portability and Accountability Act of 1996, Pub. L. 104-191; Privacy Rule promulgated 65 Fed. Reg. 82462 (December 28, 2000)",
+  "major_amendment": "HITECH Act of 2009, Pub. L. 111-5 — direct business associate liability, enhanced penalties, breach notification, state AG enforcement",
+  "effective_date": "April 14, 2001 (effective); April 14, 2003 (compliance date for most covered entities)",
+  "verified": false,
+  "notes": "eCFR tool returned no text for this section. Statute_text.md contains accurate summary of operative provisions based on authoritative training knowledge of the regulation, but verbatim text must be verified against current eCFR before formal publication. Mark verified=true after manual confirmation."
+}

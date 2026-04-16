@@ -1,0 +1,22 @@
+{
+  "stage": "03_1987_amendment_employer_liability",
+  "label": "1987 Amendment — Definitions + Employer Liability Limitation",
+  "source": "Stats. 1987, Ch. 1498 (AB 3601)",
+  "effective_date": "1988-01-01",
+  "session_law": "Stats. 1987, Ch. 1498",
+  "bill_number": "AB 3601",
+  "same_package_as": "CCP §425.13 enactment (Stats. 1987, Ch. 1498)",
+  "added_provisions": [
+    "Cal. Civil Code §3294(b) — employer liability limitation (advance knowledge, authorization/ratification, or personally guilty)",
+    "Cal. Civil Code §3294(c) — definitions of malice, oppression, and fraud",
+    "§3294(c)(1) — malice: intent to cause injury OR despicable + conscious disregard",
+    "§3294(c)(2) — oppression: despicable + cruel hardship + conscious disregard",
+    "§3294(c)(3) — fraud: intentional misrepresentation + material fact + intent to deprive or injure"
+  ],
+  "retained_provisions": [
+    "Cal. Civil Code §3294(a) — clear and convincing evidence standard (retained from 1872 codification)"
+  ],
+  "significance": "Current operative version of §3294; §3294(c) definitions control all California punitive damages analysis",
+  "verbatim_capture_status": "PENDING — Cal. Civil Code §3294(b) and §3294(c) full text",
+  "verification_note": "AB 3601 session law text should be verified via California Legislative Counsel or Westlaw for exact statutory language"
+}

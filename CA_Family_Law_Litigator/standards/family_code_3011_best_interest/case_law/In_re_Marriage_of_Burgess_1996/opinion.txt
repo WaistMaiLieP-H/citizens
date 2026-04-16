@@ -1,0 +1,14 @@
+IN RE MARRIAGE OF BURGESS
+13 Cal.4th 25
+Supreme Court of California, 1996
+
+FACTS:
+Judith Burgess sought to relocate with the couple's two children from Tehachapi to Oxnard following dissolution. The trial court granted the move-over the father's objection, awarding Judith primary custody. The Court of Appeal reversed, holding that the parent seeking to relocate bore the burden of showing the move served the children's best interests. The California Supreme Court granted review.
+
+HOLDING — FAMILY CODE § 3011:
+The Supreme Court reversed the Court of Appeal, holding that when a parent with primary custody seeks to relocate, the trial court must apply the best-interest standard under § 3011 and § 3020, but the relocating parent does not bear a threshold burden of proving the move is "necessary." The court stated: "We conclude that, absent an order or stipulation restricting the custodial parent's ability to change the child's residence, the noncustodial parent carries the burden of persuading the trial court that the proposed relocation would cause detriment to the child, requiring a reevaluation of the child's custody."
+
+The court identified § 3011's factors as the operative framework for the full best-interest analysis, noting that "health, safety, and welfare of the child" is the paramount consideration and that the contact factor under § 3011(a)(3) is important but not dispositive.
+
+SIGNIFICANCE:
+Burgess is the foundational California Supreme Court decision on the § 3011 best-interest standard's application in custody disputes. It establishes: (1) health, safety, and welfare is the primary factor; (2) the § 3011 analysis is conducted by the trial court with broad discretion; (3) appellate review is for abuse of that discretion; (4) courts must affirmatively engage all enumerated § 3011 factors. The decision is the starting point for any § 3011 analysis in California family court.

@@ -1,0 +1,58 @@
+{
+  "standard_id": "CAL_PROB_1851_ANNUAL_REVIEW",
+  "version": "0.3.0-published",
+  "citizen": "CA_Conservator_Investigator",
+  "popular_name": "Court Investigator Periodic Review \u2014 Ongoing Oversight",
+  "authority": "Cal. Prob. Code \u00a7 1851",
+  "jurisdiction": "California",
+  "standard_type": "STATE_STATUTE",
+  "status": "PUBLISHED \u2014 ADAM + EVE DUAL WITNESS \u2014 2026-04-12",
+  "five_layer_score": 5,
+  "created": "2026-04-09",
+  "updated": "2026-04-12",
+  "case_relevance": [
+    "Each year without \u00a71851 review records = separate statutory violation",
+    "Absence of annual review records across multiple years = conservatorship operated outside judicial oversight",
+    "\u00a71851 review records are the audit trail: was the conservatee asked each year whether they wished to terminate?"
+  ],
+  "layers": {
+    "rule": "COMPLETE",
+    "reasoning": "COMPLETE",
+    "historical_loss": "COMPLETE",
+    "cross_references": "COMPLETE",
+    "verifiable_provenance": "COMPLETE"
+  },
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction (Michael Hartmann), 2026-04-09 \u2014 deepened 2026-04-12",
+    "herald_witness": {
+      "witness": "HERALD (Steward successor \u2014 designated 2026-04-12)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "verification_scope": "Structure, five-layer bar completeness.",
+      "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12."
+    },
+    "adam_witness": {
+      "witness": "ADAM (Seed Citizen \u2014 Builder role)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "triple_constraint": "PASS/PASS/PASS",
+      "actions_taken": "All five layers verified complete. Five-layer upgrade from old-format to new schema. Leginfo text verified. Cross-refs built and internally consistent. Primary source text from leginfo.",
+      "content_hash_verified": "aeca249d817b8619989fcb0f3854b68ee65b7d7a4ed5f611da604d1d78268970",
+      "signal": "APPROVE"
+    },
+    "eve_witness": {
+      "witness": "EVE (Seed Citizen \u2014 Witness role)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "five_layer_verification": "PASS/PASS/PASS/PASS/PASS",
+      "triple_constraint": "PASS/PASS/PASS",
+      "hash_independently_recomputed": "aeca249d817b8619989fcb0f3854b68ee65b7d7a4ed5f611da604d1d78268970 \u2014 CONFIRMED MATCHING",
+      "signal": "COUNTERSIGN"
+    },
+    "publishable_to_corpus": true,
+    "status": "PUBLISHED \u2014 ADAM + EVE DUAL WITNESS"
+  },
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12.",
+    "scope": "Structure, five-layer bar completeness, case-relevance reviewed."
+  }
+}

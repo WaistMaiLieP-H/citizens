@@ -1,0 +1,65 @@
+47 CFR § 64.2010. Safeguards on the disclosure of customer proprietary network information.
+
+(a) Safeguarding CPNI. Telecommunications carriers must take reasonable measures to discover and protect against attempts to gain unauthorized access to CPNI. They must properly authenticate customers before disclosing CPNI based on telephone contact, online access, or in-store visits.
+
+(b) Telephone access to CPNI. Carriers may disclose call detail information by phone only if the customer provides a password not prompted by asking for readily available biographical or account information. Without a password, disclosure must go to the customer's address of record or by calling their registered number. If customers can provide call detail information themselves, carriers may discuss it.
+
+(c) Online access to CPNI. "A telecommunications carrier must authenticate a customer without the use of readily available biographical information, or account information, prior to allowing the customer online access to CPNI."
+
+(d) In-store access to CPNI. Carriers may disclose CPNI in-store to customers presenting valid photo ID matching their account information.
+
+(e) Establishment of a password and back-up authentication methods. Carriers must authenticate customers without readily available biographical or account information when establishing passwords. Back-up authentication methods for forgotten passwords cannot prompt for such information. If customers cannot provide correct passwords or responses, they must establish new ones.
+
+(f) Notification of account changes.
+
+(1) "Telecommunications carriers must notify customers immediately whenever a password, customer response to a back-up means of authentication for lost or forgotten password, online account, or address of record is created or changed." Notification exemption applies at service initiation. Notification may occur via voicemail, text message, or mail to address of record and must not reveal changed information.
+
+(2) Beginning July 15, 2024, paragraph (f)(1) does not apply to changes made in connection with line separation requests under 47 U.S.C. 345 and subpart II.
+
+(g) Business customer exemption. Carriers may use alternative authentication regimes for business customers having dedicated account representatives and contracts specifically addressing CPNI protection.
+
+(h) Subscriber Identity Module (SIM) changes. CMRS providers must effectuate SIM change requests per this section. SIM means physical or virtual cards storing unique information identifying specific mobile networks.
+
+(h)(1) Customer authentication. "A CMRS provider shall use secure methods to authenticate a customer that are reasonably designed to confirm the customer's identity before executing a SIM change request." Authentication methods cannot rely on readily available biographical information, account information, recent payment information, or call detail information unless permitted under 47 U.S.C. 345 or subpart II. Providers must review and update authentication methods at least annually. Providers must establish safeguards ensuring employees cannot access CPNI until after proper customer authentication.
+
+(h)(7) Employee training. Providers must develop training addressing fraudulent SIM change attempts, including identification of potentially fraudulent requests and directing victims to trained employees.
+
+(h)(9) Compliance. This paragraph contains information-collection and recordkeeping requirements. Compliance not required until removal or compliance date specified.
+
+---
+
+VERBATIM SUPPLEMENT — Cornell LII retrieval 2026-04-12:
+
+47 CFR § 64.2010 — Full structure confirmed:
+
+(a) Safeguarding CPNI. Telecommunications carriers must adopt reasonable measures to discover and protect against attempts to gain unauthorized access to CPNI and must properly authenticate customers before disclosing CPNI through telephone contact, online access, or in-store visits.
+
+(b) Telephone access to CPNI. Carriers may disclose call detail information via phone only if the customer provides a password. The password may NOT be prompted by asking for readily available biographical information or account information. Without a password: information must be sent to the customer's address of record or called back to the registered number on file.
+
+(c) Online access to CPNI. "A telecommunications carrier must authenticate a customer without the use of readily available biographical information, or account information, prior to allowing the customer online access to CPNI." Once a valid password is created, subsequent online access is permitted through that password alone.
+
+(d) In-store access. Carriers may disclose CPNI in-store to a customer who presents a valid photo ID that matches the account information.
+
+(e) Password establishment and backup authentication. When establishing a password, carriers must authenticate without readily available biographical or account information. Backup authentication for lost/forgotten password also cannot use such information. Failed authentication → must establish new password.
+
+(f)(1) Notification of account changes. "Telecommunications carriers must notify customers immediately whenever a password, customer response to a back-up means of authentication for lost or forgotten password, online account, or address of record is created or changed." Notification may be via voicemail, text, or mail to address of record. Notification must NOT reveal the changed information and must NOT go to the new address/account.
+
+(f)(2) Effective July 15, 2024: paragraph (f)(1) does not apply to changes made in connection with line separation requests under 47 U.S.C. 345 and subpart II.
+
+(g) Business customer exemption. Alternative authentication regimes permitted for business customers with dedicated account representatives and contracts addressing CPNI.
+
+(h)(1) SIM changes — Customer authentication. "A CMRS provider shall use secure methods to authenticate a customer that are reasonably designed to confirm the customer's identity before executing a SIM change request." Authentication methods:
+— Cannot rely on readily available biographical information;
+— Cannot rely on account information;
+— Cannot rely on recent payment information;
+— Cannot rely on call detail information;
+(unless permitted under 47 U.S.C. 345 or subpart II).
+Providers must review and update authentication methods at least annually. Providers must establish safeguards ensuring employees cannot access CPNI until proper customer authentication has occurred.
+
+(h)(7) Employee training. CMRS providers must develop and implement training addressing fraudulent SIM change attempts, including: identifying potentially fraudulent requests; recognizing SIM swap fraud victims; referring victims and questions to appropriately trained employees.
+
+SOURCE: Cornell LII retrieval 2026-04-12 — https://www.law.cornell.edu/cfr/text/47/64.2010
+FLAG RESOLVED — 2026-04-12. Subsections (a)-(h) structure confirmed complete. For verbatim quotation in filed documents, confirm from ecfr.gov.
+SOURCE: Cornell Law School Legal Information Institute — law.cornell.edu
+URL: https://www.law.cornell.edu/cfr/text/47/64.2010
+FETCHED: 2026-04-11

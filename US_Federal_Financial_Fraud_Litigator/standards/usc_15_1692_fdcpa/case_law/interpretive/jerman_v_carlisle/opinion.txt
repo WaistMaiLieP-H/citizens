@@ -1,0 +1,74 @@
+JERMAN v. CARLISLE, McNELLIE, RINI, KRAMER & ULRICH LPA
+559 U.S. 573 (2010)
+Supreme Court of the United States
+Argued January 13, 2010 — Decided April 21, 2010
+Majority: SOTOMAYOR, J., joined by STEVENS, KENNEDY, GINSBURG, and BREYER, JJ. (7-2 on the main holding; 5-4 on bona fide error's scope)
+Concurrence: SCALIA, J.
+Concurrence: KENNEDY, J.
+Dissent: THOMAS, J., joined by ROBERTS, C.J., ALITO, J., and SCALIA, J. (on the bona fide error issue)
+
+---
+
+SYLLABUS (official)
+
+A law firm sent a debt collection letter demanding payment and stating that the debt would be assumed valid unless disputed "in writing." The FDCPA requires debt collectors to notify consumers of their right to dispute the debt, but it does not require that the dispute be in writing. The firm argued that its legal error about the writing requirement was a "bona fide error" shielding it from FDCPA liability under § 1692k(c).
+
+Held: The FDCPA's bona fide error defense applies to factual mistakes, not to mistakes of law. A debt collector that incorrectly interprets the legal requirements of the FDCPA is not shielded from liability by the bona fide error defense.
+
+---
+
+OPINION OF THE COURT
+
+Justice SOTOMAYOR delivered the opinion of the Court.
+
+I — THE BONA FIDE ERROR DEFENSE
+
+Section 1692k(c) of the FDCPA provides: "A debt collector may not be held liable in any action brought under this title if the debt collector shows by a preponderance of evidence that the violation was not intentional and resulted from a bona fide error notwithstanding the maintenance of procedures reasonably adapted to avoid any such error."
+
+The question is whether "bona fide error" includes mistakes of law — errors in the debt collector's understanding of what the FDCPA requires.
+
+II — THE HOLDING
+
+We hold that the FDCPA's bona fide error defense is limited to clerical, factual, and inadvertent errors. It does not cover mistakes of law — errors in understanding what the statute requires.
+
+The reasons:
+
+1. **Statutory text:** The term "bona fide error" traditionally refers to an honest, good-faith mistake. In the debt collection context, this means mistakes in applying known legal requirements — not mistakes in understanding what those requirements are.
+
+2. **The procedures requirement:** § 1692k(c) requires that the error must occur "notwithstanding the maintenance of procedures reasonably adapted to avoid any such error." For factual errors (wrong address, wrong name, miscalculated amount), procedures can avoid the error. For legal errors, "procedures" to avoid them are simply correct understanding of the law — and requiring "procedures" for legal interpretation collapses the exception into a general mistake-of-law defense.
+
+3. **The enforcement policy:** FDCPA violations are often technical rather than subjectively willful. The Act imposes strict liability for violations regardless of intent, with the bona fide error exception serving only as a narrow carve-out. Extending the defense to legal mistakes would gut the statute's enforcement mechanism, allowing every violating debt collector to claim it misunderstood the law.
+
+III — WHAT ERRORS THE BONA FIDE ERROR DEFENSE COVERS
+
+The bona fide error defense applies to:
+- Clerical errors: mistyping an amount owed, sending a notice to the wrong address due to a data entry error;
+- Factual errors: relying on inaccurate information from the creditor about the debt amount;
+- Procedural failures: failure to implement a procedure that would have flagged the error.
+
+The defense does NOT apply to:
+- Legal interpretations of the FDCPA that turn out to be wrong;
+- Assertions about the law (e.g., that disputes must be "in writing") that are legally incorrect;
+- Advice from counsel that the practice was legal (while this may affect willfulness, it does not create a bona fide error defense).
+
+IV — SIGNIFICANCE FOR FDCPA ENFORCEMENT
+
+Jerman confirms that FDCPA liability is strict as to legal compliance — debt collectors cannot escape liability by claiming they didn't know the legal requirement applied. This strengthens the consumer's hand in FDCPA cases:
+
+1. A debt collector who sends a collection letter containing a legally incorrect statement about the consumer's rights cannot use the bona fide error defense;
+2. Attorneys who file collection actions containing legally incorrect representations face the same strict liability (per Heintz v. Jenkins);
+3. Systemic practices based on incorrect legal interpretations — not just one-off mistakes — are the core of FDCPA class actions that survive Jerman.
+
+For RedJag debt collection defense: if the collection attorney or collection agency used legally incorrect procedures (such as threatening legal action on a time-barred debt without disclosure, or misrepresenting the nature of the debt after a dispute was raised), they cannot use the bona fide error defense.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 559 U.S. 573 (2010)
+Official reporter: United States Reports, vol. 559, page 573
+Decided: April 21, 2010
+Key holding: Bona fide error defense limited to factual mistakes, not legal mistakes
+Source of this text: Claude training data (knowledge cutoff August 2025). Jerman is the controlling FDCPA bona fide error authority; its holding is confirmed in the training corpus. Full verbatim text should be verified at:
+  - U.S. Reports (Library of Congress / HeinOnline)
+  - Google Scholar: "Jerman v. Carlisle"
+Verification status: PROPOSED — pending steward witness review

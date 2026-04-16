@@ -1,0 +1,110 @@
+{
+  "standard_id": "CA_PEN_13701",
+  "version": "0.1.0-initial",
+  "filed_at_utc": "2026-04-12T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "PROPOSED",
+  "build_context": "Built 2026-04-12 as part of the CA_Law_Enforcement_Procedures_Specialist seven-standard seeding. § 13701 mandates written DV response policies and a mandatory incident report on every DV call — the report-existence test is the primary audit tool for June 16, 2023.",
+
+  "primary_citation": {
+    "jurisdiction": "California",
+    "code": "California Penal Code",
+    "section": "§ 13701",
+    "popular_name": "Domestic Violence — Law Enforcement Response Policies",
+    "current_codification_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=13701.&lawCode=PEN",
+    "primary_source_status": "OUTSTANDING — leginfo fetch needed"
+  },
+
+  "structural_location": {
+    "code": "California Penal Code",
+    "part": "PART 4. PREVENTION OF CRIMES AND APPREHENSION OF CRIMINALS",
+    "title": "TITLE 5. PREVENTION OF AND RESPONSE TO DOMESTIC VIOLENCE",
+    "companion_sections": [
+      "§ 836(c) — mandatory arrest for DV when probable cause exists",
+      "§ 13700 — DV definitions",
+      "§ 13702 — emergency protective orders",
+      "§ 13710 — officer training requirements"
+    ]
+  },
+
+  "citizen_relevance": {
+    "primary_use": "Audit the completeness and existence of the § 13701 incident report for case #04-23-01959; establish APD's written DV policy as the benchmark for officer conduct on June 16, 2023",
+    "secondary_use": "Absent or incomplete report is standalone violation and circumstantial evidence that the DV framing was pretextual",
+    "case_references": [
+      "Case #04-23-01959 — APD criminal case; DV-coded response",
+      "June 16, 2023 — Christina pre-positioned, mother directed APD dispatch",
+      "APD 10-violation forensic audit — prior documented departmental failures",
+      "§ 1983 federal complaint — documented policy failures support municipal liability"
+    ],
+    "priority_actions": [
+      "Obtain APD written DV response policy via PRA request",
+      "Obtain the § 13701 incident report for case #04-23-01959",
+      "Compare report against mandatory form fields; flag every omission",
+      "Compare officer conduct against APD's own written policy"
+    ]
+  },
+
+  "five_layer_bar_status": {
+    "rule": {
+      "status": "PRESENT",
+      "note": "Mandatory written agency policy, mandatory incident report on every DV call regardless of arrest, mandatory victim information card, mandatory form fields — all captured in current/text.txt"
+    },
+    "reasoning": {
+      "status": "PRESENT",
+      "note": "§ 13701 addresses officer discretion that historically resulted in no documentation and no accountability in DV calls; mandatory reporting eliminates the escape hatch that allowed officers to leave DV scenes without a record — documented in historical_chain.md and context.md"
+    },
+    "historical_loss": {
+      "status": "PRESENT",
+      "note": "Pre-§ 13701 era: DV calls treated as family matters, no arrest, no report, perpetrators knew they faced no consequence; Minneapolis Domestic Violence Experiment (1984) demonstrated arrest deterred re-offense but California agencies resisted — documented in historical_chain.md"
+    },
+    "cross_references": {
+      "status": "PRESENT",
+      "note": "refs.json contains 6 cross-references: § 836(c) (mandatory arrest), § 13700 (DV definitions), § 12525.5 (RIPA stop data), § 832.18 (body cameras), § 1983 (federal civil rights), POST DV training standards"
+    },
+    "verifiable_provenance": {
+      "status": "PARTIAL",
+      "note": "Cal. Pen. Code § 13701 cited with leginfo URL; full legislative history from 1979 through current form outstanding; primary source fetch needed"
+    }
+  },
+
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction (Michael Hartmann), 2026-04-12",
+    "second_mouth_witness": "NONE — not yet countersigned",
+    "publishable_to_corpus": false,
+    "status": "PROPOSED"
+  },
+
+  "triple_constraint_test_results": {
+    "governing_guidelines": {
+      "passes": true,
+      "evidence": "Cal. Pen. Code § 13701 is binding California statutory authority; located at official California Legislative Information"
+    },
+    "standards_of_creation": {
+      "passes": true,
+      "evidence": "Section is well-formed with clear mandates, form requirements, and companion mandatory-arrest provision in § 836(c)"
+    },
+    "standard_of_care": {
+      "passes": "PARTIAL",
+      "note": "Current text captured from knowledge; legislative history from 1979 through current amendments outstanding"
+    }
+  },
+
+  "umbrellas": [
+    "Authority / Governing Law (Umbrella 01) — primary",
+    "Documentation Integrity (Umbrella 02) — primary",
+    "Professional Competence (Umbrella 04) — secondary"
+  ],
+
+  "owner_citizen": {
+    "primary": "CA Law Enforcement Procedures Specialist",
+    "ownership_note": "§ 13701 governs every DV-coded call response in California. The mandatory report obligation and the written-policy requirement are the foundational accountability tools for DV response audits."
+  },
+
+  "outstanding_work": [
+    "Fetch current § 13701 text from leginfo",
+    "Compile full legislative history from 1979 initial enactment through current form",
+    "STEWARD: Obtain APD written DV response policy via PRA request",
+    "STEWARD: Obtain incident report for case #04-23-01959 and audit against § 13701 mandatory form fields",
+    "Obtain second-mouth countersignature on the standard"
+  ]
+}

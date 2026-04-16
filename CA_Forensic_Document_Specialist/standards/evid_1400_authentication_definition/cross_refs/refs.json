@@ -1,0 +1,47 @@
+{
+  "standard_id": "evid_1400_authentication_definition",
+  "citizen": "CA_Forensic_Document_Specialist",
+  "build_date": "2026-04-13",
+  "cross_references": [
+    {
+      "ref_id": "XREF-1400-001",
+      "target_citizen": "CA_Forensic_Document_Specialist",
+      "target_standard": "evid_1402_altered_writing_burden",
+      "path": "${citizens}/CA_Forensic_Document_Specialist/standards/evid_1402_altered_writing_burden/",
+      "relationship": "layer_2",
+      "note": "§1401 authentication (Layer 1 gate) is prerequisite. §1402 altered document burden (Layer 2 gate) applies after authentication threshold is met. Both must be cleared."
+    },
+    {
+      "ref_id": "XREF-1400-002",
+      "target_citizen": "CA_Forensic_Document_Specialist",
+      "target_standard": "evid_1521_secondary_evidence_rule",
+      "path": "${citizens}/CA_Forensic_Document_Specialist/standards/evid_1521_secondary_evidence_rule/",
+      "relationship": "prerequisite",
+      "note": "§1401(b): authentication required before secondary evidence of writing's content may be admitted. §1521 secondary evidence rule cannot be invoked without first satisfying §1401."
+    },
+    {
+      "ref_id": "XREF-1400-003",
+      "target_citizen": "CA_Forensic_Document_Specialist",
+      "target_standard": "evid_720_expert_qualification",
+      "path": "${citizens}/CA_Forensic_Document_Specialist/standards/evid_720_expert_qualification/",
+      "relationship": "parallel",
+      "note": "Authentication of expert-produced documents (Dr. Wiita evaluation) requires both: §1400 (is this the court-ordered evaluation?) AND §720 (is Dr. Wiita qualified to produce it?). Both standards apply to the same document simultaneously."
+    },
+    {
+      "ref_id": "XREF-1400-004",
+      "target_citizen": "CA_Mental_Health_Litigator",
+      "target_standard": "pen_1368_mental_competency",
+      "path": "${citizens}/CA_Mental_Health_Litigator/standards/pen_1368_mental_competency/",
+      "relationship": "application",
+      "note": "MC-350 absence analysis: §1400 authentication of a court-ordered evaluation requires the document to be what it claims (a court-ordered evaluation under PC §1368). Without MC-350, the authentication chain for 'court-ordered' status is broken."
+    },
+    {
+      "ref_id": "XREF-1400-005",
+      "target_citizen": "CA_Forensic_Document_Specialist",
+      "target_standard": "evid_1271_business_records_hearsay_exception",
+      "path": "${citizens}/CA_Forensic_Document_Specialist/standards/evid_1271_business_records_hearsay_exception/",
+      "relationship": "concurrent",
+      "note": "Authentication (§§1400-1401) is required before hearsay exception (§1271) can be invoked. Authentication addresses the document's identity; §1271 addresses whether its hearsay content is admissible. Both required for business records."
+    }
+  ]
+}

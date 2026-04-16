@@ -1,0 +1,106 @@
+{
+  "path_anchors": {
+    "_comment": "Symbolic anchors. Any string in this Citizen's records of the form ${name}/... resolves to anchors[name] + '/...'. To relocate a bucket, edit one line here.",
+    "familylaw":    "/home/vernenlegal/FamilyLaw",
+    "nonfamilylaw": "/home/vernenlegal/NonFamilyLaw",
+    "citizens":     "/home/vernenlegal/citizens"
+  },
+
+  "citizen": "US_Federal_Civil_Rights_Litigator",
+  "tether_version": "0.1.0-initial",
+  "filed_at_utc": "2026-04-08T23:44:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "purpose": "Explicit binding manifest. The US_Federal_Civil_Rights_Litigator Citizen's working memory is bounded by the artifacts enumerated below. Any claim the Citizen makes must trace to one of these artifacts. Any task the Citizen performs that requires information outside this set must be refused with reasoning, or paused until the tether is updated.",
+
+  "blueprints_inherited": {
+    "from": [
+      "${citizens}/ADAM/dossier.md",
+      "${citizens}/ADAM/skills.md",
+      "${citizens}/EVE/dossier.md",
+      "${citizens}/EVE/skills.md"
+    ],
+    "blueprints": [
+      "Triple Constraint (Governing Guidelines / Standards of Creation / Standard of Care)",
+      "Five-Layer Bar (Rule + Reasoning + Historical Loss + Cross-References + Verifiable Provenance)",
+      "Two-Witness Rule (no artifact published without a second mouth)",
+      "Hash Chain + Anchor (every artifact hashed at production with provenance)"
+    ]
+  },
+
+  "standards": {
+    "bound_directly": [
+      {
+        "standard_id": "42_USC_1983",
+        "popular_name": "Section 1983 — Civil action for deprivation of rights",
+        "manifest_path": "standards/42_usc_1983/manifest.json",
+        "current_text_sha256": "9a59435409c144e00b31f44877b663871e323194a80226428cb5c0c43b928aea",
+        "status": "PROPOSED — five-layer structure complete; awaiting witness",
+        "evolution_stages": 6,
+        "case_law_documented": 3,
+        "cross_refs": 6,
+        "build_date": "2026-04-08"
+      },
+      {
+        "standard_id": "42_USC_1985",
+        "popular_name": "Section 1985 — Conspiracy to interfere with civil rights",
+        "manifest_path": "standards/42_usc_1985/manifest.json",
+        "current_text_sha256": "f330e30202022b7cc034b89f55256f0893b5d53bebeb53ffe0ae066c7ba808e5",
+        "status": "PROPOSED — five-layer structure complete; awaiting witness",
+        "evolution_stages": 3,
+        "case_law_documented": 1,
+        "cross_refs": 4,
+        "build_date": "2026-04-09"
+      },
+      {
+        "standard_id": "42_USC_1988",
+        "popular_name": "Section 1988 — Civil Rights Attorney's Fees Awards Act",
+        "manifest_path": "standards/42_usc_1988/manifest.json",
+        "status": "PROPOSED — five-layer structure complete (built by prior session); awaiting witness",
+        "case_law_documented": 3,
+        "build_date": "2026-04-09"
+      },
+      {
+        "standard_id": "28_USC_1343",
+        "popular_name": "Section 1343 — Civil rights and elective franchise jurisdiction",
+        "manifest_path": "standards/28_usc_1343/manifest.json",
+        "current_text_sha256": "84352af52d3415cc7648dcde8d5c5c1a1a76be957e4344873962ba932def5168",
+        "status": "PROPOSED — five-layer structure complete; awaiting witness",
+        "build_date": "2026-04-09"
+      },
+      {
+        "standard_id": "42_USC_12132",
+        "popular_name": "ADA Title II §202 — Disability discrimination by public entities",
+        "manifest_path": "standards/42_usc_12132/manifest.json",
+        "current_text_sha256": "ee3d0e7aead2d8dc6b1ba51ab35ac1131ae6e81a41feead414a435cbd2d48505",
+        "status": "PROPOSED",
+        "build_date": "2026-04-09"
+      },
+      {
+        "standard_id": "29_USC_794",
+        "popular_name": "Rehabilitation Act §504 — Nondiscrimination under federal grants",
+        "manifest_path": "standards/29_usc_794/manifest.json",
+        "current_text_sha256": "cdabb63b2af4ca6879a2842295b6b8f4891a3feae5fbc161cf8cd1d64e9bfc07",
+        "status": "PROPOSED",
+        "build_date": "2026-04-09"
+      },
+      {
+        "standard_id": "BIVENS_DOCTRINE",
+        "popular_name": "Bivens implied cause of action against federal officers",
+        "manifest_path": "standards/bivens_doctrine/manifest.json",
+        "status": "PROPOSED",
+        "build_date": "2026-04-09"
+      }
+    ],
+    "_note": "Standards are added here as each statute is built to full five-layer depth. An entry here means the standard is structurally complete and tethered."
+  },
+
+  "domain": {
+    "jurisdiction": "United States federal courts",
+    "subject_matter": "Federal civil rights litigation under 42 USC §§1983, 1985, 1988; Bivens actions; ADA Title II (42 USC §12132); Rehabilitation Act §504 (29 USC §794); federal constitutional claims (4th, 5th, 8th, 14th Amendments as applied through §1983)",
+    "exclusions": [
+      "California state civil rights claims (Bane Act, Unruh, Ralph, Cal Const Art I) — those belong to CA_Civil_Rights_Litigator",
+      "California family law — belongs to CA_Family_Law_Litigator",
+      "General California civil litigation (anti-SLAPP, mandamus, Tort Claims Act) — belongs to CA_Civil_Litigator"
+    ]
+  }
+}

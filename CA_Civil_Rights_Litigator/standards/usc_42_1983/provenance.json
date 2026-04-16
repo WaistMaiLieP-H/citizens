@@ -1,0 +1,20 @@
+{
+  "standard_id": "US_42_USC_1983",
+  "provenance_record_filed_at_utc": "2026-04-08T09:23:00Z",
+  "fetcher_software": "curl with sha256sum (one-shot batch fetch as part of 2026-04-08 breadth-first umbrella seeding pass)",
+  "fetcher_operator": "Claude (assistant) under steward direction (Michael Hartmann)",
+  "verification_principle": "Current-form HTML is the primary artifact for sections whose canonical text lives at the named source authority. The HTML snapshot is hashed at fetch time so a future verifier can confirm it matches what the source served on this date.",
+  "fetches": [
+    {
+      "artifact_local_path": "current/usc_42_1983_cornell.html",
+      "source_url": "https://www.law.cornell.edu/uscode/text/42/1983",
+      "source_authority": "Cornell Legal Information Institute (LII) \u2014 public-domain mirror of the U.S. Code maintained by Cornell Law School",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-08T09:23:00Z",
+      "fetch_method": "curl -sSL --max-time 60 with Vernen-Provenance user-agent (one-shot batch fetch)",
+      "file_size_bytes": 30828,
+      "sha256": "c0124651a15d4c02397cfbb3631535995ac11f835b18ae74b96803b3a701c5e6",
+      "content_description": "Civil Action for Deprivation of Rights"
+    }
+  ]
+}

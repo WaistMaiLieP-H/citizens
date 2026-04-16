@@ -1,0 +1,7 @@
+[
+  {"target":"${citizens}/CA_Constitutional_Law_Specialist/standards/cal_const_art1_sec1/manifest.json","relationship":"Section 1 rights are independent of federal rights per §24 first sentence"},
+  {"target":"${citizens}/CA_Constitutional_Law_Specialist/standards/cal_const_art1_sec2/manifest.json","relationship":"Section 2 speech rights are independent of 1st Amendment per §24 first sentence"},
+  {"target":"${citizens}/CA_Constitutional_Law_Specialist/standards/cal_const_art1_sec7/manifest.json","relationship":"Section 7 due process is independent of 14th Amendment in civil cases per §24"},
+  {"target":"${citizens}/CA_Constitutional_Law_Specialist/standards/cal_const_art1_sec13/manifest.json","relationship":"Section 13 search/seizure retains independent state grounds in civil cases despite §24 criminal lockstep"},
+  {"target":"${citizens}/US_Federal_Civil_Rights_Litigator/standards/42_usc_1983/manifest.json","relationship":"§1983 enforces federal constitutional rights; §24 means California constitutional rights exist independently and may provide broader relief in state court"}
+]

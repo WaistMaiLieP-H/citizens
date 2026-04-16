@@ -1,0 +1,18 @@
+Cal. Penal Code § 530.5 — Origin
+SB 1777 (Chapter 468, Statutes of 1997)
+
+§ 530.5 was enacted in 1997 as California's first comprehensive identity theft statute:
+
+§ 530.5(a) (original):
+"Every person who willfully obtains personal identifying information, as defined in subdivision (b) of Section 530.55, of another person, and uses that information for any unlawful purpose, including to obtain, or attempt to obtain, credit, goods, services, real property, or medical information without the consent of that person, is guilty of a public offense, and upon conviction therefor, shall be punished by a fine, by imprisonment in a county jail not to exceed one year, or by both a fine and imprisonment, or by imprisonment in the state prison."
+
+Key original elements:
+1. Willful — knowing and voluntary
+2. Obtains personal identifying information (PII) — defined broadly
+3. Of another person — victim's actual identity
+4. Uses for any unlawful purpose — not limited to financial fraud
+5. Without consent
+
+Key definition (§ 530.55(b) personal identifying information): name, address, telephone number, health insurance number, taxpayer identification number, school identification number, state or federal driver's license or identification number, social security number, place of employment, employee identification number, professional or occupational number, mother's maiden name, demand deposit account number, savings account number, checking account number, PIN or password for a financial account, alien registration number, government passport number, date of birth.
+
+Source: SB 1777, Chapter 468, Statutes of 1997.

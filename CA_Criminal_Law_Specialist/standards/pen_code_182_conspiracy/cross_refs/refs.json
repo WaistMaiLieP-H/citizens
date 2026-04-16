@@ -1,0 +1,86 @@
+{
+  "standard": "pen_code_182_conspiracy",
+  "last_updated": "2026-04-11",
+  "refs": [
+    {
+      "id": "REF-182-001",
+      "target_code": "Penal Code § 182(a)(2)",
+      "description": "Falsely and maliciously procuring another to be charged or arrested — the specific subdivision directly applicable to the 6/16/2023 setup and all prior false police report episodes. This is not a general theory; it is an enumerated criminal object.",
+      "relationship": "key_subdivision",
+      "direction": "internal"
+    },
+    {
+      "id": "REF-182-002",
+      "target_code": "Penal Code § 182(a)(5)",
+      "description": "Conspiracy to pervert or obstruct justice or the due administration of laws — reaches the coordinated court filing scheme, unsigned court documents, and jurisdictional manipulation across multiple tribunals.",
+      "relationship": "key_subdivision",
+      "direction": "internal"
+    },
+    {
+      "id": "REF-182-003",
+      "target_code": "Penal Code § 530.5",
+      "description": "Identity theft — conspiracy to commit § 530.5 carries elevated fine of up to $25,000 under § 182. The identity theft components of the scheme (stolen SSN, UA342 identity assumption) are objects of the conspiracy. Cross-reference pen_code_530_5_identity_theft.",
+      "relationship": "conspiracy_object",
+      "direction": "out",
+      "internal_standard": "pen_code_530_5_identity_theft"
+    },
+    {
+      "id": "REF-182-004",
+      "target_code": "Penal Code § 422",
+      "description": "Criminal threats — where threats were coordinated across multiple actors as part of the scheme, the threat-makers are co-conspirators and § 182(a)(1) conspiracy to commit § 422 applies. Cross-reference pen_code_422_criminal_threats.",
+      "relationship": "conspiracy_object",
+      "direction": "out",
+      "internal_standard": "pen_code_422_criminal_threats"
+    },
+    {
+      "id": "REF-182-005",
+      "target_code": "Penal Code § 136.1",
+      "description": "Dissuading a witness — where multiple actors coordinated to prevent the steward from accessing legal remedies, reporting crimes, or testifying, the coordination is a § 182 conspiracy with § 136.1 dissuasion as one object.",
+      "relationship": "conspiracy_object",
+      "direction": "out"
+    },
+    {
+      "id": "REF-182-006",
+      "target_code": "Penal Code § 148.5",
+      "description": "False police report — where false reports were coordinated among multiple actors (e.g., reporting party + dispatcher + recipient of report), each participant is a conspirator under § 182(a)(1)/(a)(2). Cross-reference pen_code_148_5_false_police_report.",
+      "relationship": "conspiracy_object",
+      "direction": "out",
+      "internal_standard": "pen_code_148_5_false_police_report"
+    },
+    {
+      "id": "REF-182-007",
+      "target_code": "18 U.S.C. § 371",
+      "description": "Federal conspiracy statute — where the scheme involved wire communications (phone calls, emails, texts) the federal conspiracy charge under § 371 may apply in parallel to the state § 182 charge. Federal venue may be more favorable.",
+      "relationship": "federal_parallel",
+      "direction": "out"
+    },
+    {
+      "id": "REF-182-008",
+      "target_code": "42 U.S.C. § 1983 (civil conspiracy)",
+      "description": "Federal civil rights conspiracy — where the conspiracy involved state actors (law enforcement, CPS, court personnel), a § 1983 civil conspiracy claim is available in federal court alongside or instead of state § 182 charges. No criminal conviction required for the civil claim.",
+      "relationship": "civil_parallel",
+      "direction": "out"
+    },
+    {
+      "id": "REF-182-009",
+      "target_code": "CALCRIM No. 415",
+      "description": "Jury instruction for conspiracy. Contains the dual intent requirement from People v. Beeman (1984). Defense and prosecution should review CALCRIM 415 for element structure.",
+      "relationship": "jury_instruction",
+      "direction": "out"
+    },
+    {
+      "id": "REF-182-010",
+      "target_code": "Penal Code § 1054.1",
+      "description": "Discovery — in any conspiracy prosecution, the identities, statements, and acts of all alleged co-conspirators are subject to § 1054.1 disclosure. Brady material includes all exculpatory evidence about any conspirator. Cross-reference pen_code_1054_1_discovery.",
+      "relationship": "discovery_overlay",
+      "direction": "out",
+      "internal_standard": "pen_code_1054_1_discovery"
+    }
+  ],
+  "internal_cross_refs": [
+    "pen_code_530_5_identity_theft",
+    "pen_code_422_criminal_threats",
+    "pen_code_148_5_false_police_report",
+    "pen_code_1054_1_discovery"
+  ]
+}

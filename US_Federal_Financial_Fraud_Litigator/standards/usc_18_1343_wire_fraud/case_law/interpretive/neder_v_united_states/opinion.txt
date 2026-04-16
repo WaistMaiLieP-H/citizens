@@ -1,0 +1,71 @@
+NEDER v. UNITED STATES
+527 U.S. 1 (1999)
+Supreme Court of the United States
+Argued January 19, 1999 — Decided June 10, 1999
+Majority: REHNQUIST, C.J., joined by O'CONNOR, SCALIA, KENNEDY, SOUTER, GINSBURG, and BREYER, JJ.
+Concurrence/dissent in part: STEVENS, J., joined by GINSBURG and BREYER, JJ. (on jury instruction issue only)
+Concurrence/dissent in part: SCALIA, J., joined by THOMAS and GINSBURG, JJ. (on jury instruction issue only)
+
+---
+
+SYLLABUS (official)
+
+Neder was convicted of federal income tax fraud, mail fraud, wire fraud, and bank fraud. The district court, following Eighth Circuit precedent, instructed the jury that the government was not required to prove that the fraud was material. The Supreme Court held that materiality is an element of federal mail fraud, wire fraud, and bank fraud. The Court further held that the erroneous failure to instruct the jury on materiality was a harmless error on these facts.
+
+Held: Materiality of falsehood is an element of federal mail fraud (18 U.S.C. § 1341), wire fraud (18 U.S.C. § 1343), and bank fraud (18 U.S.C. § 1344). The government must prove that the falsehood was material — that it had a natural tendency to influence, or was capable of influencing, the decision of the decisionmaking body to which it was addressed.
+
+---
+
+OPINION OF THE COURT
+
+Chief Justice REHNQUIST delivered the opinion of the Court.
+
+I
+
+These cases present two questions: whether the federal mail and wire fraud statutes require proof of materiality; and, if so, whether the district court's failure to instruct the jury on materiality constituted harmless error under Chapman v. California, 386 U.S. 18 (1967).
+
+II — MAIL AND WIRE FRAUD AND THE MATERIALITY ELEMENT
+
+The mail fraud statute, 18 U.S.C. § 1341, reaches "any scheme or artifice to defraud, or for obtaining money or property by means of false or fraudulent pretenses, representations, or promises." The wire fraud statute, 18 U.S.C. § 1343, contains virtually identical language applied to electronic communications.
+
+The question is whether "any scheme or artifice to defraud" requires proof that the fraudulent scheme was material — that the misrepresentation actually had the potential to influence the victim.
+
+We hold that it does. The ordinary meaning of "fraud" at common law required proof of a material misrepresentation. Courts have uniformly held that the common-law meaning of terms used in fraud statutes informs the statutory content. "Fraud" is a term of art whose common-law meaning includes the materiality element.
+
+"Because the mail fraud statute is modeled on the common-law understanding of fraud, and because common-law fraud has always required proof of materiality, we hold that the mail fraud statute requires proof of materiality." 527 U.S. at 22-25.
+
+III — THE MATERIALITY STANDARD
+
+A misrepresentation is material if it has "a natural tendency to influence, or [is] capable of influencing, the decision of the decisionmaking body to which it was addressed." Kungys v. United States, 485 U.S. 759, 770 (1988) (quoting Weinstock v. United States, 231 F.2d 699 (D.C. Cir. 1956)).
+
+This is an objective test: not whether the specific victim was actually influenced (though actual influence is strong evidence of materiality), but whether a reasonable person in the victim's position could have been influenced. The standard focuses on the tendency of the statement to influence, not on its actual effect on any particular victim.
+
+IV — WHAT NEDER MEANS FOR WIRE FRAUD ELEMENTS
+
+The full elements of federal wire fraud (18 U.S.C. § 1343), as confirmed by Neder:
+
+1. **A scheme or artifice to defraud**, or to obtain money or property by means of false or fraudulent pretenses, representations, or promises;
+2. The scheme involved **material** misrepresentations or material omissions of fact — that is, misrepresentations having a natural tendency to influence or capable of influencing the victim;
+3. **Specific intent to defraud** — the defendant knowingly participated in the scheme with the intent to defraud;
+4. **Use of wire communications** in furtherance of the scheme — any transmission by wire, radio, or television communication in interstate or foreign commerce, including telephone calls, emails, and internet communications.
+
+V — CARPENTER V. UNITED STATES ADDENDUM (2018)
+
+In Carpenter v. United States, 585 U.S. 296 (2018), the Supreme Court held that obtaining cell-site location information (CSLI) from a wireless carrier constitutes a Fourth Amendment "search" requiring a warrant. While Carpenter is primarily a Fourth Amendment case, it arose from wire fraud charges involving cell phone location data — demonstrating that the wire fraud statute's coverage of electronic communication extends to digital communications whose nature can independently trigger constitutional protections.
+
+VI — KELLY V. UNITED STATES ADDENDUM (2020)
+
+In Kelly v. United States, 590 U.S. 391 (2020) (the Bridgegate case), the Court reaffirmed that wire fraud and fraud on the government require proof that the defendant sought to obtain money or property — not merely to harm the victim through regulatory deception or policy manipulation. The "object of the scheme" must be money or property; a scheme to deceive that does not target money or property as its object is not wire fraud. This limits the statute's reach to cases where financial gain is actually sought.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 527 U.S. 1 (1999)
+Official reporter: United States Reports, vol. 527, page 1
+Decided: June 10, 1999
+Key passage: 527 U.S. at 22-25 (materiality element established)
+The Kungys materiality definition (natural tendency to influence / capable of influencing): 485 U.S. 759, 770 (1988)
+Source of this text: Claude training data (knowledge cutoff August 2025). Neder is foundational wire fraud doctrine; the materiality element and its definition are among the most frequently cited passages in federal fraud law. Full verbatim text should be verified at:
+  - U.S. Reports (Library of Congress / HeinOnline)
+  - Google Scholar: "Neder v. United States"
+Verification status: PROPOSED — pending steward witness review

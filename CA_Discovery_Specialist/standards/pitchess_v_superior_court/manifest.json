@@ -1,0 +1,40 @@
+{
+  "standard_id": "PITCHESS_V_SUPERIOR_COURT_1974",
+  "version": "1.0.0-proposed",
+  "filed_at_utc": "2026-04-12T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "status": "PROPOSED",
+  "primary_citation": {
+    "code": "California Reports; California Evidence Code",
+    "citation": "Pitchess v. Superior Court, 11 Cal.3d 531 (1974)",
+    "codification": "Cal. Evid. Code §§ 1043-1047 (Stats. 1978); Cal. Pen. Code §§ 832.5, 832.7, 832.8",
+    "jurisdiction": "California (state)",
+    "decided": "July 25, 1974",
+    "popular_name": "Pitchess Motion — Peace Officer Personnel Records Discovery",
+    "positive_law_status": "In force; codified 1978; significantly modified by SB 1421 (effective January 1, 2019)"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current/text.txt contains Pitchess holding and Evid. Code §§ 1043, 1045 operative text",
+    "reasoning": "PRESENT — current/context.md documents three-stage procedure, post-SB 1421 scope, Brady-Pitchess sequence",
+    "historical_loss": "PRESENT — historical_chain.md documents pre-Pitchess absolute confidentiality wound",
+    "cross_references": "PRESENT — cross_refs/refs.json",
+    "verifiable_provenance": "PRESENT — Cal.3d citation; Evidence Code at leginfo"
+  },
+  "wound_record": {
+    "present": true,
+    "path": "wound_record/",
+    "wound_authority": "Pre-Pitchess absolute confidentiality of peace officer personnel records"
+  },
+  "three_stage_procedure": {
+    "stage_1": "Written motion with good cause affidavits — specific facts showing materiality (Evid. Code § 1043)",
+    "stage_2": "In camera review by court — outside presence of both parties (Evid. Code § 1045)",
+    "stage_3": "Limited disclosure — only what is directly relevant to stated defense theory"
+  },
+  "post_sb1421_interaction": "§832.7 mandatory PRA disclosure covers sustained findings of dishonesty, false statements, fabricating evidence, and excessive force causing death/GBI. Pitchess is now primarily used for non-sustained complaints and categories outside §832.7.",
+  "citizen_relevance": "APD officers (June 16, 2023) and OPD officers (prior contacts): Pitchess motions seeking prior complaints of dishonesty, false reporting, and fabricating evidence. Good cause basis: defense theory of prearranged incident and report fabrication. Start with §832.7 PRA; use Pitchess for what PRA cannot reach.",
+  "two_witness_status": {
+    "status": "PROPOSED",
+    "first_mouth": "Claude (assistant)",
+    "second_mouth": "PENDING — steward review required"
+  }
+}

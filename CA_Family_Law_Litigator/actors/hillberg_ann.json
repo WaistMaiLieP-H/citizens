@@ -1,0 +1,92 @@
+{
+  "actor_id": "hillberg_ann",
+  "canonical_name": "Ann Hillberg",
+  "aliases": [
+    "Ann Marie Packard (legal/maiden name on grandparent visitation petition)",
+    "Ann Hillberg"
+  ],
+  "role": "Mother of Christina Marie Cerretani; documented orchestrator (per project_familylaw_orchestration.md)",
+  "professional_background": {
+    "summary": "State police/emergency dispatcher 2008-2015 (SURCOMM, CENCOMM, NORCOM); transferred to Napa State Hospital 2015",
+    "trained_for": "Dispatching CHP and local police; CAD language; police-report generation patterns",
+    "doctrinal_significance": "Her dispatcher training explains the precision of 911 calls, knowledge of how to generate police reports without arrests, CAD language usage, and coordinated legal filings hitting every judicial trigger"
+  },
+  "documented_pattern": {
+    "unsigned_police_reports": [
+      {
+        "date": "2009-02-15",
+        "report": "09-011438",
+        "fact": "Christina slaps Michael, SHE is arrested, report UNSIGNED by officer and supervisor; no charges filed"
+      },
+      {
+        "date": "2009-06-11",
+        "report": "OPD 09-040089",
+        "fact": "FELONY PC \u00a7 273.5(A) report against Michael; UNSIGNED; no arrest (mandatory arrest offense); no dispatch authorization for 'civil standby'; one phone call as entire investigation; Christina's mother staged the contact with officer"
+      }
+    ],
+    "coordinated_triple_filing_2010_04_09": [
+      "Christina's ex parte (FL-310/MC-020) \u2014 every trigger word for child abuse, neglect, flight risk, drugs",
+      "Ann Marie Packard's grandparent visitation petition (Family Code \u00a7 3104) \u2014 Christina as illegal co-filer despite 0% custody, restraining order, court-ordered psychiatric treatment",
+      "Duplicate dissolution filing (illegal \u2014 one already existed)",
+      "Grandparent visitation served by mail on the same day filed \u2014 likely mailed to Christina (co-filer), not Michael (custodial parent)"
+    ],
+    "repeated_pattern": [
+      {
+        "date": "2009-06-11",
+        "action": "Stages unauthorized civil standby",
+        "result": "Unsigned felony report against Michael"
+      },
+      {
+        "date": "2010-04-09",
+        "action": "Orchestrates triple filing",
+        "result": "Custody/visitation challenge"
+      },
+      {
+        "date": "2023-06-16",
+        "action": "911 call using dispatcher language: 'known to smoke meth'",
+        "result": "Cole removed by APD without checking custody"
+      },
+      {
+        "date": "2023-06-22",
+        "action": "Positions Cole in pre-furnished Benicia apartment with Christina",
+        "result": "Cole gone 6 days"
+      },
+      {
+        "date": "2025-07-08",
+        "action": "Hands Cole to Christina at night during transfer window",
+        "result": "Cole taken to Marin County"
+      }
+    ]
+  },
+  "case_involvement": [
+    {
+      "case_number": "RF10508859",
+      "role": "Petitioner (grandparent visitation)",
+      "date": "2010-04-09",
+      "anomaly": "Michael NEVER SERVED"
+    }
+  ],
+  "risk_level": "ORCHESTRATOR \u2014 DOCUMENTED",
+  "outstanding_investigations": [
+    {
+      "id": "hillberg_dispatcher_records",
+      "question": "What were Ann Hillberg's specific duties and access at SURCOMM, CENCOMM, NORCOM 2008-2015?",
+      "unblock": "PRA requests to SURCOMM/CENCOMM/NORCOM"
+    },
+    {
+      "id": "hillberg_napa_state_hospital",
+      "question": "What is her role at Napa State Hospital from 2015 onward? Does it provide access to medical records?",
+      "unblock": "PRA to Napa State Hospital HR"
+    },
+    {
+      "id": "hillberg_911_call_recordings",
+      "question": "Are there preserved 911 call recordings from her interactions with APD/CHP/OPD across the 16-year pattern?",
+      "unblock": "PRA to each PD's 911 recording archive (typically 6-12 month retention; older recordings likely destroyed)"
+    }
+  ],
+  "source_citations": [
+    "/home/vernenlegal/.claude/projects/-home-vernenlegal/memory/project_familylaw_orchestration.md",
+    "/home/vernenlegal/.claude/projects/-home-vernenlegal/memory/project_christina_pattern.md"
+  ],
+  "filed_at_utc": "2026-04-08T18:05:00Z"
+}

@@ -1,0 +1,8 @@
+{
+  "stage": "03_wrongful_death_coordination",
+  "source": "Jolly v. Eli Lilly & Co., 44 Cal.3d 1103 (1988) — California Supreme Court",
+  "wound_addressed": "Inconsistent judicial interpretation of when §340.5 discovery period was triggered; courts split on 'actual knowledge' vs. 'reason to suspect' standards",
+  "design": "'Reason to suspect' standard established: SOL begins when plaintiff suspects or should suspect that the defendant caused the harm, not when specific knowledge of negligent act is obtained",
+  "verbatim_capture_status": "PENDING",
+  "build_date": "2026-04-11"
+}

@@ -1,0 +1,15 @@
+{
+  "standard_id": "42_USC_1985_3",
+  "evolution_stage": "01_origin",
+  "enacted_as": "Civil Rights Act of April 20, 1871, §2",
+  "also_known_as": "Ku Klux Klan Act, Third Enforcement Act",
+  "congress": "42nd Congress, Session I",
+  "chapter": "22",
+  "statutes_at_large": "17 Stat. 13-14",
+  "approved_date": "1871-04-20",
+  "source_url": "https://govtrackus.s3.amazonaws.com/legislink/pdf/stat/17/STATUTE-17-Pg13.pdf",
+  "source_description": "Statutes at Large, Volume 17, pages 13-14. PDF scan of enrolled act. Section 2 spans most of page 13 second column and all of page 14 first column.",
+  "fetch_timestamp_utc": "2026-04-08T23:55:00Z",
+  "transcription_method": "Manual transcription from PDF scan of original Statutes at Large page, same primary source used for §1983 origin.",
+  "notes": "The original Section 2 contained both criminal penalties (fine/imprisonment) and a civil action for damages. The criminal provisions were later separated. The civil action became R.S. §1980, then 42 USC §1985. The 'go in disguise upon the public highway' language is a literal description of the Klan."
+}

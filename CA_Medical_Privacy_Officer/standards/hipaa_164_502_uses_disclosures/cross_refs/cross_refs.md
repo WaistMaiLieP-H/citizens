@@ -1,0 +1,9 @@
+# HIPAA General Rule — Permitted Uses and Disclosures of PHI — Cross-References
+
+| Standard | Relationship | Notes |
+|----------|-------------|-------|
+| CMIA_CIV_56_10_DISCLOSURE | CROSS_REFERENCE | § 164.502 is the federal floor; § 56.10 is California's stricter standard — California providers must comply with both. A disclosure permitted under § 164.502 (e.g., for TPO) may still violate § 56.10 if it does not fit within § 56.10's enumerated exceptions; § 56.10 provides the private enforcement track that § 164.502 lacks |
+| CMIA_CIV_56_05_DEFINITIONS | CROSS_REFERENCE | HIPAA's "protected health information" (45 C.F.R. § 160.103) is narrower than CMIA's "medical information" — PHI requires both individually identifiable information AND a connection to a covered entity; § 56.05 extends CMIA coverage to pharmaceutical companies and digital health apps outside HIPAA's covered-entity framework |
+| CMIA_CIV_56_36_REMEDIES | SUPPLEMENTS | HIPAA violations trigger HHS OCR enforcement but no private right of action; CMIA § 56.36 provides the private cause of action for California patients; an OCR complaint and a § 56.36 civil suit are parallel, not mutually exclusive tracks. § 56.36(e)(2)(A) explicitly references the HIPAA covered entity/business associate definitions for the affirmative defense |
+| CMIA_CIV_56_11_AUTHORIZATION | SUPPLEMENTS | § 164.508 governs HIPAA authorization requirements; § 56.11 governs CMIA authorization requirements; in California, a valid authorization must satisfy both — CMIA's requirements (14-point type, one-year expiration) are more specific than HIPAA's in several respects |
+| CMIA_CIV_56_35_DAMAGES | SUPPLEMENTS | HIPAA provides no compensatory damages remedy for individual patients; § 56.35 fills that gap for California patients — a HIPAA § 164.502 violation by a California provider is typically a simultaneous § 56.10 violation, enabling § 56.35 compensatory damages where actual harm is proven |

@@ -1,0 +1,20 @@
+{
+  "standard_id": "com_2314_implied_warranty_merchantability",
+  "citizen": "CA_Product_Liability_Litigator",
+  "source_type": "statute",
+  "primary_source": "Cal. Commercial Code § 2314",
+  "fetch_method": "VernenLegal MCP — california_get_section (COM, 2314)",
+  "fetch_date": "2026-04-13",
+  "verified": true,
+  "verification_note": "Live-fetched from leginfo.legislature.ca.gov via VernenLegal MCP. Also fetched: COM §2316 (exclusion requirements) and COM §2725 (4-year SOL). All three sections are related operative provisions.",
+  "related_sections_fetched": ["COM §2316", "COM §2725"],
+  "secondary_sources": [
+    "Perkins v. Superior Court (1981) 117 Cal.App.3d 1 — fraud override of 'as is' disclaimer",
+    "Hines v. Brode (1913) 168 Cal. 507 — fraud in inducement voids contract including disclaimers",
+    "UCC Article 2 §2-314 — national model (adopted 1952); California COM §2314 is direct enactment"
+  ],
+  "historical_origin": "Common law caveat emptor → UCC Article 2 (1952) → California Commercial Code enacted 1963, effective 1965",
+  "chronicle_flag": false,
+  "build_session": "2026-04-13",
+  "terminal": "Terminal B"
+}

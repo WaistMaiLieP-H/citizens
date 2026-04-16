@@ -1,0 +1,13 @@
+{
+  "actor_id": "apd_officers",
+  "shared_record": "${citizens}/_shared_actors/apd_officers.json",
+  "domain": "US_Federal_Civil_Rights_Litigator",
+  "role": "§1983 defendants — law enforcement officers who deprived steward of custody (liberty interest in parent-child relationship) without due process",
+  "risk_level": "HIGH",
+  "applicable_standards": ["42_USC_1983", "42_USC_1985"],
+  "theory_of_liability": "Officers responded to Ann Hillberg's 911 call on June 16, 2023 and removed Cole from father's custody without verifying the custody order. A parent's liberty interest in the care and custody of their child is among the oldest fundamental rights recognized by the Supreme Court (Troxel v. Granville, 530 U.S. 57 (2000)). Removal without verification of custody status violates clearly established due process.",
+  "immunity_analysis": "Officers will assert qualified immunity (Harlow v. Fitzgerald, 457 U.S. 800 (1982)). To overcome: must show (1) a constitutional violation occurred, and (2) the right was clearly established at the time. The right of a custodial parent to not have their child seized without due process is clearly established. A reasonable officer would know to check custody status before removing a child from a parent's home.",
+  "individual_names": "TBD — to be identified from APD incident reports and body camera footage via PRA request",
+  "entity_defendant": "City of Antioch (Monell v. Department of Social Services, 436 U.S. 658 (1978) — municipal liability requires showing a policy, custom, or practice)",
+  "filed_at_utc": "2026-04-08T22:00:00Z"
+}

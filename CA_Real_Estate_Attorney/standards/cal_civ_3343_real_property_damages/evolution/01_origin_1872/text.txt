@@ -1,0 +1,14 @@
+CALIFORNIA CIVIL CODE § 3343 (enacted 1872)
+Damages for Fraud in Property Transactions — Original Enactment
+
+SOURCE: California Civil Code, enacted March 21, 1872
+REQUIRES_PRIMARY_SOURCE_VERIFICATION for exact original text.
+
+--- Civil Code § 3343 (1872 text — approximate, before expansion amendments) ---
+One defrauded in the purchase, sale or exchange of property is entitled to recover the difference between the actual value of that with which the defrauded person parted and the actual value of that which he received, together with any additional damage arising from the particular transaction.
+
+NOTE ON ORIGINAL SCOPE: The 1872 text established the "out-of-pocket" measure for fraud damages in property transactions — the difference between what you gave and what you received at actual values, not the benefit-of-the-bargain measure that contract law uses. The detailed subdivisions (a)(1)-(4) expanding recoverable categories were added by subsequent amendments (see stage 02).
+
+DISTINCTION FROM CONTRACT DAMAGES: The out-of-pocket measure was a deliberate choice. In contract law, the injured party gets the "benefit of the bargain" (expectation damages). In fraud, California chose the restoration measure: put the defrauded party back to where they were before the transaction, plus direct consequential losses from the fraud itself. This reflects the tort nature of fraud — the defendant made you worse off, so make you whole; they did not breach a bargain, so you do not get a better deal than you had before.
+
+PROVENANCE: See provenance.json. Requires primary source verification.

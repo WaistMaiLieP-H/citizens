@@ -1,0 +1,12 @@
+CUVIELLO v. CITY OF VALLEJO
+944 F.3d 816
+United States Court of Appeals, Ninth Circuit, 2019
+
+FACTS:
+Animal rights activist Cuviello repeatedly attempted to protest at a Vallejo venue and was repeatedly stopped by city officers using threats and physical obstruction. He sued under § 1983 and the Bane Act. The central question was whether the Bane Act could support a federal court claim, and whether the interference with First Amendment rights through official intimidation satisfied the statute.
+
+HOLDING — Cal. Civ. Code § 52.1 / First Amendment:
+The Ninth Circuit held that the Bane Act claim was properly before the federal court as a state law claim. The court held that the officers' use of threats and intimidation to prevent the plaintiff from exercising First Amendment rights satisfied both elements of the Bane Act: interference with a protected right (First Amendment speech/assembly) and accomplishment through threat and intimidation (officer conduct + verbal threats). The officers' use of their official position to threaten arrest as a means of coercing silence is a Bane Act violation.
+
+SIGNIFICANCE:
+Cuviello is the Ninth Circuit's direct application of the Bane Act in a context where official coercion was used to silence a private citizen. For the steward's cases, this maps onto: (1) law enforcement actors who used their authority to coerce Michael into not asserting custody rights, not filing reports, or not appearing in court; and (2) the broader pattern where official-appearing conduct (false police reports, manufactured court filings) was used as a coercive mechanism to interfere with rights. The case confirms the Bane Act reaches this conduct and that it can be litigated in federal court alongside § 1983 claims.

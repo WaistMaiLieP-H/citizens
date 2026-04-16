@@ -1,0 +1,9 @@
+{
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=PROB&sectionNum=859",
+  "fetch_tool": "mcp__claude_ai_VernenLegal__california_get_section",
+  "fetch_date": "2026-04-13",
+  "fetch_steward": "Claude (Sonnet 4.6) — session 2026-04-13",
+  "verified": true,
+  "statute_sha256": "a28859cdb550ca6001341ae043099916471c4b2cda150bebd106e15ee7d10aa2",
+  "notes": "Live-fetched from leginfo via VernenLegal MCP tool. Full text received. Short section — complete text captured."
+}

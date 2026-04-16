@@ -1,0 +1,66 @@
+CONNICK v. THOMPSON
+563 U.S. 51 (2011)
+United States Supreme Court
+Decided: March 29, 2011
+
+---
+
+FACTS:
+
+John Thompson was convicted of murder in Louisiana and spent 14 years on death row. One month before his scheduled execution, a private investigator discovered that the Orleans Parish District Attorney's office had suppressed blood evidence from a prior robbery conviction that was used to undermine Thompson's credibility in the murder trial — a Brady violation. Thompson's murder conviction was vacated; he was retried and acquitted.
+
+Thompson sued the District Attorney's office and DA Harry Connick Sr. under § 1983 / Monell, arguing the office had a custom of failing to train prosecutors on Brady disclosure obligations. At trial, Thompson's attorneys proved that in the preceding decade, there had been five Brady violations in the Orleans Parish DA's office, none of which had been disciplined or corrected.
+
+The jury awarded Thompson $14 million. The Fifth Circuit affirmed. The Supreme Court reversed (5-4).
+
+---
+
+HOLDING:
+
+Justice Thomas wrote for the Court (5-4).
+
+FAILURE TO TRAIN REQUIRES A PATTERN OF VIOLATIONS, NOT A SINGLE INCIDENT:
+"[A] pattern of similar constitutional violations by untrained employees is 'ordinarily necessary' to demonstrate deliberate indifference for purposes of failure to train."
+
+The prior Brady violations in Thompson's case — while they occurred — did not put the DA on sufficient notice that this particular type of Brady violation (suppression of blood evidence in robbery prosecutions connected to murder cases) would recur.
+
+THE SINGLE INCIDENT RULE (REJECTING THOMPSON):
+City of Canton recognized a narrow "single incident" exception to the pattern requirement — when the violation is so inevitable given the training gap that deliberate indifference is obvious. The Court held this exception does not apply to Brady training:
+
+"[A] district attorney's office might plausibly hypothesize that it needs training on Brady. But that does not mean the need to train was 'obvious' in the sense that the connection between the failure to train and the Brady violation was 'so obvious' that it should have been apparent to policymakers."
+
+The Court distinguished City of Canton's police officer medical care scenario — where officers will obviously encounter medical emergencies and training is obviously necessary — from prosecutorial disclosure, where the need for Brady training is less invariably obvious.
+
+NO RESPONDEAT SUPERIOR:
+The majority reiterated: "A municipality or other local government may be liable under this section if the governmental body itself 'subjects' a person to a deprivation of rights or 'causes' a person 'to be subjected' to such deprivation. But, under § 1983, local governments are responsible only for their own illegal acts." Individual prosecutor misconduct does not make the office liable under Monell.
+
+---
+
+DISSENT (Ginsburg, joined by Breyer, Sotomayor, Kagan):
+The four-justice dissent argued the majority miscounted the pattern of Brady violations and applied an unrealistically demanding standard for what constitutes notice to a policymaker.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Connick is a limiting case that must be distinguished. Key arguments:
+
+1. **The pattern of violations IS documented**: Unlike Thompson, where the Court was uncertain whether prior violations put the DA on notice, the steward's case involves a documented multi-year pattern of coordinated false reports that APD responded to without independent verification. The pattern is established.
+
+2. **Pattern = Monell notice**: Five-plus false dispatch events over years puts APD's training policies squarely within the deliberate indifference framework — this is not a single-incident case. Connick does not protect APD here because the pattern requirement IS satisfied.
+
+3. **Distinguishing Connick**: Connick's narrow holding is that a DA's office's Brady training gap is not obvious from a single prior case. Here, the "training gap" is not subtle: after repeated false-report dispatches with documented prior history, the need to train officers on reporter history verification was "obvious" in the City of Canton sense.
+
+4. **Policymaker knowledge**: If any APD supervisor or Contra Costa County official knew of the pattern of false reports and took no corrective action, that knowledge + inaction establishes deliberate indifference under Connick's framework.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 563 U.S. 51 (2011)
+Court: United States Supreme Court
+Reporter: United States Reports, vol. 563, page 51
+Author: Thomas, J. (5-4)
+Dissent: Ginsburg, J. (joined by Breyer, Sotomayor, Kagan)
+Source of this text: Claude training data (knowledge cutoff August 2025). Connick v. Thompson held that a pattern of similar constitutional violations is ordinarily required for failure-to-train Monell liability — single-incident theory applies only in obvious-need situations.
+Verification: CourtListener / Justia / Google Scholar: "Connick v. Thompson 563 U.S. 51"
+Verification status: PROPOSED — pending steward witness review

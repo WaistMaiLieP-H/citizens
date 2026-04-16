@@ -1,0 +1,22 @@
+California Senate Bill 1386 (Chapter 915, Statutes of 2003)
+Enacted: July 1, 2003 (effective July 1, 2003)
+
+Adding Cal. Civ. Code § 1798.80 et seq. (original enactment)
+
+The original SB 1386 enacted three operative provisions:
+
+§ 1798.29 (for state agencies) and § 1798.82 (for businesses):
+"Any agency that owns or licenses computerized data that includes personal information shall disclose any breach of the security of the system following discovery or notification of the breach in the security of the data to any resident of California whose unencrypted personal information was, or is reasonably believed to have been, acquired by an unauthorized person."
+
+§ 1798.80 (definitions):
+Original § 1798.80 provided definitions for the notification scheme, including:
+— "personal information" meaning first name or initial + last name + Social Security number, driver's license or California ID card number, account number + password, credit/debit card number.
+— "breach of the security of the system" meaning unauthorized acquisition of computerized data that compromises the security, confidentiality, or integrity of personal information.
+
+Key original features:
+1. California was the FIRST STATE in the nation to mandate breach notification.
+2. Notification required "in the most expedient time possible and without unreasonable delay."
+3. No private right of action in the original enactment — enforcement was through the Attorney General.
+4. Covered any "agency" (state entity) or any "business" conducting business in California.
+
+Source: Chapter 915, Statutes of 2003; SB 1386 (Speier).

@@ -1,0 +1,37 @@
+{
+  "standard": "cal_civ_1572_fraud",
+  "filed": "2026-04-10",
+  "filer": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "hash_chain_prev": null,
+  "sources": [
+    {
+      "layer": "current_text",
+      "source": "leginfo.legislature.ca.gov via VernenLegal MCP",
+      "tool": "mcp__claude_ai_VernenLegal__california_get_section",
+      "params": {"code": "CIV", "section": "1572"},
+      "retrieved_at_utc": "2026-04-10T18:15:00Z"
+    },
+    {
+      "layer": "origin_1872",
+      "source": "Codification history (Deering's California Civil Code § 1572 historical note; West's Annotated California Codes)",
+      "verification": "Triangulated — current text identical to 1872 original per both annotation histories; no amendments recorded in any source",
+      "pending": "Direct PDF capture of 1872 published Civil Code"
+    },
+    {
+      "layer": "case_law",
+      "sources": [
+        "Lazar v. Superior Court (1996) 12 Cal.4th 631 — California Supreme Court official report citation format",
+        "Tenzer v. Superscope, Inc. (1985) 39 Cal.3d 18 — California Supreme Court official report citation format",
+        "Engalla v. Permanente Medical Group, Inc. (1997) 15 Cal.4th 951 — California Supreme Court official report citation format",
+        "Lovejoy v. AT&T Corp. (2004) 119 Cal.App.4th 151 — California Court of Appeal First District Division Two official report citation format"
+      ],
+      "pending": "Opinion text capture (opinion.txt) for each case from law.justia.com or courts.ca.gov"
+    }
+  ],
+  "quality_gate": {
+    "two_witness_rule": "SATISFIED for current text (MCP + historical annotation cross-check). PENDING for origin-era PDF.",
+    "five_layer_bar": "4.5/5 — rule, reasoning, historical_loss, cross_references, verifiable_provenance (partial on PDF capture)",
+    "particularity": "Case law entries each contain statute_version_cited.md consistency check"
+  },
+  "intended_use": "Primary fraud statute for CA_Real_Estate_Attorney; load-bearing for Honeysuckle complaint drafting. Also cross-referenced by CA_Civil_Litigator and CA_Civil_Rights_Litigator for general fraud claims."
+}

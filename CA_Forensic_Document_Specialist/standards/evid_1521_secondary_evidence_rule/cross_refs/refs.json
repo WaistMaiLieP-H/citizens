@@ -1,0 +1,47 @@
+{
+  "standard_id": "evid_1521_secondary_evidence_rule",
+  "citizen": "CA_Forensic_Document_Specialist",
+  "build_date": "2026-04-13",
+  "cross_references": [
+    {
+      "ref_id": "XREF-1521-001",
+      "target_citizen": "CA_Forensic_Document_Specialist",
+      "target_standard": "evid_1400_authentication_definition",
+      "path": "${citizens}/CA_Forensic_Document_Specialist/standards/evid_1400_authentication_definition/",
+      "relationship": "prerequisite",
+      "note": "§1521(c) expressly states §1401 authentication is still required before secondary evidence of a writing's content may be admitted. §1521 does not bypass authentication."
+    },
+    {
+      "ref_id": "XREF-1521-002",
+      "target_citizen": "CA_Forensic_Document_Specialist",
+      "target_standard": "evid_1402_altered_writing_burden",
+      "path": "${citizens}/CA_Forensic_Document_Specialist/standards/evid_1402_altered_writing_burden/",
+      "relationship": "concurrent",
+      "note": "If the secondary evidence itself appears altered, §1402 burden applies to the secondary evidence independently. §1521 governs whether secondary evidence may substitute for the original; §1402 governs whether the secondary evidence as produced is genuine."
+    },
+    {
+      "ref_id": "XREF-1521-003",
+      "target_citizen": "CA_Forensic_Document_Specialist",
+      "target_standard": "evid_1271_business_records_hearsay_exception",
+      "path": "${citizens}/CA_Forensic_Document_Specialist/standards/evid_1271_business_records_hearsay_exception/",
+      "relationship": "concurrent",
+      "note": "Certified copies of business records are the strongest form of secondary evidence under §1521. §1271 establishes that the original business record is admissible; §1521 allows the certified copy to substitute."
+    },
+    {
+      "ref_id": "XREF-1521-004",
+      "target_citizen": "CA_Criminal_Law_Specialist",
+      "target_standard": "pen_166_criminal_contempt",
+      "path": "${citizens}/CA_Criminal_Law_Specialist/standards/pen_166_criminal_contempt/",
+      "relationship": "parallel",
+      "note": "OPD missing report: if the original report was suppressed or destroyed (potentially PC §135 — destroying evidence), the person who destroyed it cannot invoke §1521(a)(2) unfairness to exclude secondary evidence. The destruction is the unfairness."
+    },
+    {
+      "ref_id": "XREF-1521-005",
+      "target_citizen": "CA_Real_Estate_Attorney",
+      "target_standard": "civ_1572_actual_fraud",
+      "path": "${citizens}/CA_Real_Estate_Attorney/standards/civ_1572_actual_fraud/",
+      "relationship": "application",
+      "note": "Honeysuckle: signed versions of the 19 documents (if they existed in escrow) are the originals; §1521 allows secondary evidence (escrow records, title company files) to prove what those signed versions contained. CIV §1572 fraud is the substantive claim."
+    }
+  ]
+}

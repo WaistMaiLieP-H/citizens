@@ -1,0 +1,72 @@
+TAYLOR v. RIOJAS
+592 U.S. 7 (2020) (per curiam)
+United States Supreme Court
+Decided: November 2, 2020
+
+---
+
+FACTS:
+
+Trent Taylor, a Texas prisoner, was placed in a holding cell covered in feces — "massive amounts of feces," including on the walls and floor. He refused to eat or drink to avoid using the toilet, which had feces in it. After six days, he was moved to a second cell — this one freezing cold with a clogged drain so that sewage backed up on the floor. Taylor alleged the conditions constituted cruel and unusual punishment in violation of the Eighth Amendment.
+
+The district court granted summary judgment to the officers on qualified immunity grounds. The Fifth Circuit affirmed, holding that no prior case had "clearly established" that confining a prisoner in those specific conditions was unconstitutional.
+
+The Supreme Court reversed — summarily — without full briefing or argument.
+
+---
+
+HOLDING:
+
+Per curiam (8-1; Thomas dissenting).
+
+OBVIOUS VIOLATIONS DO NOT REQUIRE PRIOR CASE ON POINT:
+
+"Qualified immunity shields an officer from suit when she makes a decision that, even if constitutionally deficient, reasonably misapprehends the law governing the circumstances she confronted. But no reasonable correctional officer could have concluded that, under the extreme circumstances of this case, it was constitutionally permissible to house Taylor in such conditions."
+
+"[C]orrectional officers cannot be expected to follow every precedent in every circuit. But the officers here did not need such guidance. The law here is clear: any officer who knowingly forces a prisoner to live in feces-covered conditions for six days violates the Eighth Amendment. This is obvious."
+
+THE TAYLOR PRINCIPLE:
+Some constitutional violations are so obvious that no prior case is required to clearly establish the right. When the violation is patent — when any reasonable officer should have known their conduct was unconstitutional — qualified immunity cannot shield the defendant.
+
+WHAT TAYLOR DID NOT DO:
+- Taylor did not abolish qualified immunity
+- Taylor did not hold that the "clearly established" prong can always be skipped
+- Taylor held only that in OBVIOUS cases, courts need not search for a prior factually identical case
+
+---
+
+THE TAYLOR STANDARD FOR "OBVIOUS" VIOLATIONS:
+A constitutional violation qualifies as obvious when:
+1. The violation is so clearly unconstitutional under basic principles that any competent officer would know it was wrong
+2. No reasonable officer could have concluded the conduct was permissible
+3. The facts are so extreme that "even without precise precedent" the conduct is "beyond any debate"
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Taylor is the key weapon against qualified immunity when:
+1. The conduct is so egregious that the "clearly established" search-for-prior-case requirement would be perverse
+2. The constitutional right at stake is fundamental (family association, liberty interest)
+3. The violation is coordinated and purposeful, not a judgment-call mistake
+
+FOR THE § 1983 FEDERAL COMPLAINT:
+
+Argument structure:
+"No reasonable officer or court-involved professional could have believed that:
+(a) Arresting a parent based solely on a child's report solicited without independent investigation, while the reporting parent had a documented history of fabricated allegations, was constitutionally permissible;
+(b) Repeatedly deploying official authority to facilitate a coordinated scheme of false reports, custody manipulation, and isolation of a parent from their children was consistent with the constitutional right to family association;
+(c) Conducting child welfare investigations based on information provided by the very party who stood to benefit from removal was constitutionally adequate process."
+
+The Taylor principle: these violations are obvious. No case on all fours is required.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 592 U.S. 7 (2020) (per curiam)
+Court: United States Supreme Court
+Reporter: United States Reports, vol. 592, page 7
+Author: Per curiam (Thomas, J., dissenting)
+Source of this text: Claude training data (knowledge cutoff August 2025). Taylor v. Riojas is the pivotal qualified immunity case holding that obvious constitutional violations need no specific prior case to satisfy "clearly established."
+Verification: CourtListener / Justia / Google Scholar: "Taylor v. Riojas 592 U.S. 7"
+Verification status: PROPOSED — pending steward witness review

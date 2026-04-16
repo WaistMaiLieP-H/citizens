@@ -1,0 +1,15 @@
+California Family Code § 1100 — Current text (2026)
+
+[Full current text is in ../../current/text.txt — the single source of truth for the active statute.]
+
+Current version reflects:
+- 1975 equal management and control rule (from SB 364)
+- 1986/1991 fiduciary duty amendments (via former Civ. Code § 5125)
+- 1992 Family Code recodification (Civ. Code § 5125 → Fam. Code § 1100)
+- Subsequent minor technical amendments
+
+The core substantive rules have been stable since the 1992 recodification. The fiduciary-duty language in subdivision (e) traces to the 1986 and 1991 amendments to former Civ. Code § 5125 and has been in essentially current form since 1994.
+
+---
+
+Textual stability: The current (e) fiduciary-duty language has been substantially unchanged since 1994. The core (a)-(d) rules have been unchanged since 1975 (with the 1992 recodification preserving the substance). Any California litigation arising from community property management disputes from 1994 onward applies the same statutory text as in force in 2026.

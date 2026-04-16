@@ -1,0 +1,15 @@
+CALIFORNIA FAMILY CODE § 721 (as enacted 1994 — recodification from Civil Code)
+
+SOURCE: Stats. 1992, ch. 162 (AB 1650) — enacted the Family Code; effective January 1, 1994.
+Civil Code § 5103 → Family Code § 721
+
+--- Family Code § 721 (1994 text at recodification) ---
+(a) Subject to subdivision (b), either spouse may enter into any transaction with the other, or with any other person, respecting property, which either might if unmarried.
+
+(b) Except as provided in Sections 143, 144, 146, 16040, 16047, and 21385 of the Probate Code, in transactions between themselves, spouses are subject to the general rules governing fiduciary relationships that control the actions of persons occupying confidential relations with each other. This confidential relationship imposes a duty of the highest good faith and fair dealing on each spouse, and neither shall take any unfair advantage of the other.
+
+NOTE: The 1994 recodification text did NOT yet include the Corporations Code cross-references (§§ 16403, 16404, 16503) or the three numbered specific obligations. Those were added by a subsequent amendment. The 1994 text preserved the core fiduciary duty language from the 1975 reform.
+
+The Probate Code cross-references in the lead clause were added to clarify that certain trust and probate transactions operate under their own governance rules — not purely the spousal fiduciary duty of § 721(b).
+
+PROVENANCE: Requires primary source verification. See provenance.json.

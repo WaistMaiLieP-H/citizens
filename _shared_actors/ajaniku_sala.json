@@ -1,0 +1,36 @@
+{
+  "shared_id": "ajaniku_sala",
+  "canonical_name": "Sala Ajaniku",
+  "aliases": [],
+  "identity_notes": "ZERO verifiable professional credentials found in any public database. No license, no degree confirmation, no professional directory presence. This is the central credentialing anomaly in the steward's case.",
+
+  "citizen_appearances": {
+    "CA_Family_Law_Litigator": {
+      "role": "Child Custody Mediator — issued recommendation that reversed prior protective order; zero verifiable credentials",
+      "risk_level": "CRITICAL",
+      "local_record": "${citizens}/CA_Family_Law_Litigator/actors/ajaniku_sala.json"
+    },
+    "US_Federal_Civil_Rights_Litigator": {
+      "role": "§1983 defendant — state actor (court-connected mediator) who deprived steward of due process rights by issuing recommendation without verifiable professional qualifications; judge adopted without verification",
+      "risk_level": "HIGH",
+      "local_record": "${citizens}/US_Federal_Civil_Rights_Litigator/actors/ajaniku_sala.json",
+      "applicable_standards": ["42_USC_1983", "28_USC_1343"],
+      "immunity_analysis": "Court-connected mediators may have quasi-judicial immunity depending on jurisdiction and function. The credentialing question (was this person qualified to hold the position at all?) may pierce immunity — you cannot claim immunity for performing a function you were not qualified to perform."
+    },
+    "CA_Civil_Litigator": {
+      "role": "§1094.5 administrative mandamus target — the mediation recommendation is an administrative decision reviewable for abuse of discretion; the question is whether a recommendation by an unqualified person constitutes proceeding 'in the manner required by law'",
+      "risk_level": "MEDIUM",
+      "local_record": "${citizens}/CA_Civil_Litigator/actors/ajaniku_sala.json (TO BE CREATED — §1094.5 record pending)",
+      "applicable_standards": ["CCP_1094_5"]
+    }
+  },
+
+  "cross_domain_risk": "CRITICAL — the credential void is the single most verifiable anomaly in the case file; it crosses family law (was the recommendation valid?), federal civil rights (was due process denied?), and administrative law (was the process lawful?)",
+
+  "outstanding_investigations": [
+    "PRA request to Alameda County Superior Court for Ajaniku's personnel file, credentials, and training records (letter drafted 2026-04-08)",
+    "Cal. Family Code §3164 / §1815 compliance audit (requires master's degree + 2 years experience + DV training)"
+  ],
+
+  "filed_at_utc": "2026-04-09T02:00:00Z"
+}

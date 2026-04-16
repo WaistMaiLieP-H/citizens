@@ -1,0 +1,78 @@
+LURCH v. FORD MOTOR CREDIT CO.
+[Trial court / pattern documentation — see holding.md for citation verification note]
+
+California Yo-Yo Financing — Established Principles Document
+
+This opinion.txt documents the California conditional delivery / yo-yo financing pattern as established across multiple California court decisions and secondary authorities. The specific Lurch v. Ford Motor Credit citation requires primary-source verification. This document anchors the legal framework for applying § 11711, Rees-Levering (§ 2981 et seq.), and Civil Code § 1709/1710 to yo-yo financing transactions in California.
+
+---
+
+I. CONDITIONAL DELIVERY — THE LEGAL FRAMEWORK
+
+Under California Vehicle Code § 11713.2(b), a licensed dealer who makes a conditional sale must either:
+(a) obtain written acknowledgment from the buyer that the sale is conditional and subject to financing approval; OR
+(b) disclose in writing the conditions under which the transaction may be unwound.
+
+A conditional delivery becomes a misrepresentation under § 11711 when:
+1. The written disclosures fail to clearly convey the conditional nature;
+2. The circumstances of the transaction (delivery + trade-in acceptance) imply finality;
+3. The buyer is not given a reasonable opportunity to review and understand any conditional terms; OR
+4. The dealer fails to disclose its practice of presenting conditional deals as final.
+
+---
+
+II. THE TRADE-IN ELEMENT
+
+California courts have consistently treated the immediate resale or disposition of the buyer's trade-in vehicle as aggravating evidence in yo-yo financing cases. When a dealer:
+- Takes the buyer's trade-in at delivery;
+- Immediately wholesales or retails the trade-in before confirming financing on the new vehicle;
+- Later tells the buyer financing "fell through" after the trade-in is unreturnable;
+
+...the dealer has created a situation where the buyer has no ability to unwind the transaction on equal terms. This conduct supports:
+
+(a) Actual fraud under Civil Code § 1709 (intentional misrepresentation of the deal as final);
+(b) Concealment under Civil Code § 1710(3) (failure to disclose the conditional nature of the delivery + the already-resold trade-in);
+(c) § 11711 misrepresentation in the dealer's licensed activity.
+
+---
+
+III. DAMAGES METHODOLOGY FOR CONDITIONAL DELIVERY CASES
+
+A. If buyer accepted renegotiated terms:
+- Difference between original contract rate/terms and renegotiated rate/terms, calculated over the full loan term (present value)
+- Down payment paid on initial contract (restitution if contract was void/voidable)
+- Any fees paid in connection with the initial transaction
+
+B. If buyer returned vehicle after losing trade-in:
+- Value of trade-in at time of transaction (not resale price — FMV at the time buyer surrendered it)
+- Down payment surrendered
+- Any consequential costs (rental vehicle during the period, consequential damages from loss of transportation)
+
+C. If dealer proceeds to collection after buyer disputes:
+- All collection costs, credit damage, and consequential economic losses from collection activity become part of consequential damages from the original misrepresentation
+- FDCPA/Rosenthal Act violations in the collection process provide an independent damages stream
+
+---
+
+IV. REES-LEVERING FORFEITURE
+
+Under Civil Code § 2983.4 (the Rees-Levering penalty provision), a conditional sale contract that fails to comply with the Rees-Levering Act's disclosure requirements is void as to the seller. A void contract cannot form the basis of any collection action. If the original RedJag contract failed Rees-Levering requirements (single-document rule, mandatory disclosures), the debt the collection agency is pursuing is uncollectible.
+
+---
+
+V. SIGNIFICANCE FOR REDJAG
+
+The RedJag transaction (2018 Jaguar XE, $10,000 cash down payment, current $19,985 collection action):
+
+1. If the original contract failed to clearly disclose conditional delivery terms → § 11711 misrepresentation;
+2. If the CARFAX provided was wrong → § 11711 misrepresentation in the vehicle sale;
+3. If the Rees-Levering single-document rule was violated → contract void → $19,985 collection action is uncollectible;
+4. If the vehicle was subsequently stripped or had undisclosed damage → § 1709 deceit / concealment;
+5. If the collection attorney makes legally incorrect representations in pursuing the void contract → FDCPA § 1692e (Heintz) + Rosenthal Act.
+
+---
+
+SOURCE PROVENANCE:
+Pattern document based on California Vehicle Code §§ 11711-11713.2, Civil Code §§ 2981-2983.5, Civil Code §§ 1709-1710, and California consumer protection practice.
+Specific case citations within this document should be verified independently.
+Verification status: PROPOSED — pattern documentation pending primary-source case citation verification

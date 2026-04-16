@@ -1,0 +1,79 @@
+{
+  "standard_id": "BP_17200_UCL",
+  "citizen": "CA_Consumer_Protection_Litigator",
+  "version": "0.1.0-proposed",
+  "filed_at_utc": "2026-04-11T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "PROPOSED",
+  "build_method": "Logical Delta (LOGIC.md at each evolution stage)",
+  "primary_citation": {
+    "code": "Cal. Bus. & Prof. Code",
+    "sections": "§§17200–17210",
+    "popular_name": "Unfair Competition Law (UCL)",
+    "jurisdiction": "California",
+    "modern_form_enacted": "Stats. 1977",
+    "effective": "1978-01-01",
+    "key_amendment": "Proposition 64, approved Nov. 2, 2004 — amended §17204 standing requirement"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current/LOGIC.md documents 3-prong structure (unlawful/unfair/fraudulent), borrowed-violation unlawful prong mechanism, UCL's restitution-only damages limitation (Korea Supply), Prop 64 standing (Kwikset), and operational application to all auto fraud + collection + identity theft cases",
+    "reasoning": "PRESENT — LOGIC.md at each evolution stage documents the wound (1933 competitor-injury gap, 1977 consumer-protection gap) and the three-prong open-ended solution",
+    "historical_loss": "PRESENT — historical_chain.md documents 1933 precursor, 1977 modern reform, 1999/2003 judicial standards, 2004 Prop 64 standing reform, 2011 Kwikset liberal interpretation",
+    "cross_references": "PRESENT — refs.json links to CLRA (primary compound), Rees-Levering (auto compound), Rosenthal (collection compound), FCRA (unlawful prong borrowing), CCP §1021.5 (fees pathway)",
+    "verifiable_provenance": "PARTIAL — provenance.json files at each stage; primary-source capture PENDING"
+  },
+  "evolution_chain": [
+    {"stage": "01_origin_1977_modern_form", "folder": "evolution/01_origin_1977_modern_form/", "status": "LOGIC_BUILT"},
+    {"stage": "02_prop64_2004_standing_reform", "folder": "evolution/02_prop64_2004_standing_reform/", "status": "LOGIC_BUILT"},
+    {"stage": "03_current", "folder": "current/", "status": "LOGIC_BUILT"}
+  ],
+  "case_law": {
+    "uphold": [],
+    "strike": [],
+    "interpretive": [
+      {
+        "slug": "cel_tech_v_la_cellular",
+        "cite": "20 Cal.4th 163 (1999)",
+        "rule": "'Unfair' standard tethered to antitrust/statutory policy; UCL independent of predicate statutes — borrowed violations each independently support UCL unlawful prong",
+        "files": ["holding.md", "provenance.json", "statute_version_cited.md"],
+        "status": "BUILT"
+      },
+      {
+        "slug": "kwikset_v_superior_court",
+        "cite": "51 Cal.4th 310 (2011)",
+        "rule": "Prop 64 standing: 'lost money or property as a result of' satisfied by any concrete economic loss from the UCL violation; reliance required for fraudulent prong",
+        "files": ["holding.md", "provenance.json", "statute_version_cited.md"],
+        "status": "BUILT"
+      },
+      {
+        "slug": "korea_supply_v_lockheed",
+        "cite": "29 Cal.4th 1134 (2003)",
+        "rule": "UCL monetary remedy limited to restitution (returning money taken from THIS plaintiff); non-restitutionary disgorgement of defendant's total profits not available to private plaintiffs",
+        "files": ["holding.md", "provenance.json", "statute_version_cited.md"],
+        "status": "BUILT"
+      }
+    ]
+  },
+  "cross_refs_path": "cross_refs/refs.json",
+  "historical_chain_path": "historical_chain.md",
+  "operational_notes_for_steward_cases": {
+    "ucl_pleading_strategy": "In every California consumer fraud case, the UCL claim is the overlay. Plead UCL unlawful prong borrowing each specific statute violated (CLRA, Rees-Levering, Rosenthal, FDCPA). Plead UCL fraudulent prong independently based on the reasonable-consumer deception. Plead UCL unfair prong based on the systematic consumer harm outweighing any legitimate business interest.",
+    "damages_mosaic": {
+      "note": "UCL alone does not yield large monetary recovery. The damages mosaic for auto fraud cases:",
+      "ucl_restitution": "All payments made under fraud / void contracts (Korea Supply bounded restitution)",
+      "clra_actual_damages": "Compensatory damages under §1780(a) for CLRA violations",
+      "rees_levering_forfeiture": "Finance charge forfeiture under §2983",
+      "civ_1709_deceit": "Out-of-pocket damages under common-law deceit (forthcoming standard)",
+      "civ_3294_punitive": "Punitive damages for fraud with clear and convincing evidence",
+      "attorney_fees": "Mandatory under CLRA §1780(e) and Rees-Levering §2983.4"
+    },
+    "federal_court_strategy": "For FCRA-based UCL unlawful prong claims: consider filing in California state court to avoid Spokeo/TransUnion standing barrier. FCRA violation borrowed into UCL unlawful prong = UCL claim in state court where Article III standing requirements do not apply."
+  },
+  "outstanding_work": [
+    "Primary-source opinion text for Cel-Tech, Kwikset, Korea Supply",
+    "Add case: In re Tobacco II Cases (2009) 46 Cal.4th 298 — UCL class action standing post-Prop 64; reliance in class context",
+    "Add case: McGill v. Citibank, N.A. (2017) 2 Cal.5th 945 — UCL public injunction right not subject to arbitration waiver (McGill rule)",
+    "Second-mouth witness review"
+  ],
+  "witness_status": "AWAITING_STEWARD_WITNESS"
+}

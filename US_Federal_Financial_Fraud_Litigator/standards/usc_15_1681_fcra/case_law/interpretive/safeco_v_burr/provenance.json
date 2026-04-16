@@ -1,0 +1,13 @@
+{
+  "case_slug": "safeco_v_burr",
+  "full_citation": "Safeco Insurance Co. of America v. Burr, 551 US 47 (2007)",
+  "court": "United States Supreme Court",
+  "decided": "2007-06-04",
+  "docket": "06-84 (consolidated with 06-100 GEICO General Ins. Co. v. Edo)",
+  "opinion_author": "Souter, J.",
+  "holding_category": "interpretive — willfulness standard under §1681n",
+  "fcra_sections_interpreted": ["15 USC §1681n", "15 USC §1681o"],
+  "source_url": "https://supreme.justia.com/cases/federal/us/551/47/",
+  "verbatim_capture_status": "PENDING",
+  "build_date": "2026-04-10"
+}

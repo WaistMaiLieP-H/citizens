@@ -1,0 +1,14 @@
+{
+  "stage": "03_amendment_1988",
+  "public_law": "P.L. 100-259",
+  "statutes_at_large": "102 Stat. 28",
+  "enacted": "1988-03-22",
+  "mechanism": "veto override (Senate 73-24, House 292-133)",
+  "bill": "S. 557 (Civil Rights Restoration Act of 1987)",
+  "source": "congress.gov/bill/100th-congress/senate-bill/557",
+  "retrieval_method": "knowledge_base",
+  "retrieval_date": "2026-04-10",
+  "retrieval_steward": "Claude Opus 4.6 (1M context)",
+  "primary_source_verified": false,
+  "notes": "Same act that affected §1988 scope. Redefined 'program or activity' institution-wide."
+}

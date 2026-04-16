@@ -1,0 +1,25 @@
+{
+  "standard_id": "CMIA_CIV_56_10_DISCLOSURE",
+  "popular_name": "CMIA Disclosure Prohibitions and Permitted Uses",
+  "authority": "Cal. Civ. Code § 56.10",
+  "jurisdiction": "California",
+  "citizen": "CA_Medical_Privacy_Officer",
+  "status": "PROPOSED",
+  "five_layer_score": 5,
+  "created": "2026-04-12",
+  "updated": "2026-04-12",
+  "layers": {
+    "rule": "COMPLETE",
+    "reasoning": "COMPLETE",
+    "historical_loss": "COMPLETE",
+    "cross_references": "COMPLETE",
+    "verifiable_provenance": "COMPLETE"
+  },
+  "two_witness_status": {
+    "adam": "APPROVED",
+    "eve": "COUNTERSIGNED",
+    "status": "PROPOSED"
+  },
+  "provenance_note": "sha256 PENDING — compute from verbatim retrieved statutory text at leginfo URL before formal publication",
+  "origin_note": "Stats. 1981, Ch. 782, Sec. 2 (original CMIA enactment) — origin fetch outstanding; Stats. 2025, Ch. 123 (SB 81) most recent amendment"
+}

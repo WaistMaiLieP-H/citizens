@@ -1,0 +1,15 @@
+{
+  "case": "Ziglar v. Abbasi",
+  "citation": "137 S. Ct. 1843 (2017)",
+  "decided": "2017-06-19",
+  "author": "Justice Kennedy",
+  "vote": "4-2 (three justices recused)",
+  "constitutional_basis": "Fourth and Fifth Amendments",
+  "holding": "Created the 'new context' plus 'special factors' framework for evaluating Bivens claims. Virtually any factual variation from the three recognized contexts counts as a 'new context,' and the presence of any special factor — national security, congressional activity, alternative remedial processes — blocks extension.",
+  "effect_on_bivens": "Formalized the refusal to extend Bivens and created a framework that makes future extension nearly impossible.",
+  "source_urls": [
+    "https://supreme.justia.com/cases/federal/us/582/120/",
+    "https://www.law.cornell.edu/supremecourt/text/15-1358"
+  ],
+  "last_verified": "2026-04-08"
+}

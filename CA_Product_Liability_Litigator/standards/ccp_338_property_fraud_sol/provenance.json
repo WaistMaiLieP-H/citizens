@@ -1,0 +1,21 @@
+{
+  "standard_id": "ccp_338_property_fraud_sol",
+  "citizen": "CA_Product_Liability_Litigator",
+  "source_type": "statute",
+  "primary_source": "Cal. Code of Civil Procedure § 338",
+  "fetch_method": "VernenLegal MCP — california_get_section (CCP, 338)",
+  "fetch_date": "2026-04-13",
+  "verified": true,
+  "verification_note": "Live-fetched from leginfo.legislature.ca.gov via VernenLegal MCP. Full text returned. Operative provisions §338(a), (c)(1), (d) extracted.",
+  "secondary_sources": [
+    "Jolly v. Eli Lilly & Co. (1988) 44 Cal.3d 1103 — discovery rule objective standard",
+    "Norgart v. Upjohn Co. (1999) 21 Cal.4th 383 — reasonable diligence",
+    "Hobart v. Hobart Estate Co. (1945) 26 Cal.2d 412 — baseline discovery rule",
+    "CCP §335.1 — 2-year personal injury SOL (contrast)",
+    "CCP §337 — 4-year written contract SOL (contrast)"
+  ],
+  "historical_origin": "California Code of Civil Procedure, enacted 1872; fraud discovery rule from English equity tradition",
+  "chronicle_flag": false,
+  "build_session": "2026-04-13",
+  "terminal": "Terminal B"
+}

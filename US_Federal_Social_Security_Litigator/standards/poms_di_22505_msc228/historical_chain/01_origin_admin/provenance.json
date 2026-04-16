@@ -1,0 +1,35 @@
+{
+  "layer": "historical_chain",
+  "layer_index": 1,
+  "label": "origin_ssa_admin",
+  "event": "SSA administrative establishment of DDS medical development and MSC-228 requirements",
+  "date": "ongoing — POMS is periodically updated; no single origin date",
+  "sources": [
+    {
+      "citation": "42 U.S.C. § 421",
+      "description": "Congressional delegation of disability determinations to state DDS agencies under federal standards",
+      "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section421",
+      "verified": false
+    },
+    {
+      "citation": "20 C.F.R. § 404.1512",
+      "description": "Regulatory duty to develop complete medical history — regulatory foundation for POMS DI 22505 requirements",
+      "url": "https://www.ecfr.gov/current/title-20/chapter-III/part-404/subpart-P/section-404.1512",
+      "verified": false
+    },
+    {
+      "citation": "POMS DI 22505.001",
+      "description": "SSA internal manual — DDS medical evidence development procedures",
+      "url": "https://secure.ssa.gov/poms.nsf/lnx/0422505001",
+      "verified": false
+    },
+    {
+      "citation": "POMS DI 24515.064",
+      "description": "SSA internal manual — MSC-228 Medical Summary of Claim form requirements",
+      "url": "https://secure.ssa.gov/poms.nsf/lnx/0424515064",
+      "verified": false
+    }
+  ],
+  "significance": "The MSC-228 requirement exists because disability determinations are medical determinations — a lay DDS examiner cannot substitute for physician review. A blank MSC-228 in the administrative record is documentary proof that the required medical review did not occur before the denial was issued.",
+  "build_session": "2026-04-12"
+}

@@ -1,0 +1,64 @@
+IN RE MARRIAGE OF BURKLE
+135 Cal.App.4th 1045 (2006)
+California Court of Appeal, Second District, Division Seven
+Decided: January 25, 2006
+
+---
+
+FACTS:
+
+Ron Burkle and his spouse Janet Burkle were in dissolution proceedings. Ron Burkle filed documents in the family court proceedings under seal. Janet Burkle challenged the sealing of financial information in family court, arguing that the seal order violated the public's and parties' rights to open court proceedings under California Constitution Art. I, § 7 (due process and equal protection) and the California Rules of Court governing sealing of court records.
+
+The case became a significant precedent on the right to access court records in family law proceedings.
+
+---
+
+HOLDING:
+
+Presiding Justice Perluss wrote for the panel.
+
+COURT RECORDS ARE PRESUMPTIVELY PUBLIC:
+"Under the California Constitution and the Rules of Court, court records in civil proceedings — including family law dissolution proceedings — are presumptively open to the public and parties."
+
+The constitutional right to due process (Art. I, § 7) encompasses:
+1. The right to access court proceedings and records in cases that affect the parties
+2. The right to know the basis on which judicial decisions are being made
+3. The right to challenge evidence and arguments presented against a party
+
+SEALING COURT RECORDS — THE STANDARD:
+To seal court records, the moving party must demonstrate that:
+1. There exists an overriding interest supporting closure
+2. The overriding interest is based on findings that overcome the presumption of openness
+3. The proposed closure is narrowly tailored
+4. No less restrictive alternative exists
+5. A party sealing their own financial information in family court must meet this standard — financial embarrassment alone is insufficient
+
+THE BURKLE PRINCIPLE FOR FAMILY COURT:
+A wealthy party cannot seal family court financial disclosures simply because they contain information the party finds embarrassing or because disclosure might affect their business interests. The adverse party — and the public — has a due process right to access the factual basis of judicial decisions.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+In re Marriage of Burkle is directly relevant to:
+
+1. **Access to sealed family court records**: If records from the family law proceedings (2009-present) were sealed at the request of the opposing party without satisfying the Burkle standard, those sealing orders may be challengeable.
+
+2. **Due process right to know basis of decisions**: The steward has a constitutionally guaranteed right to know the factual basis on which family court decisions affecting his parental rights were made. Hidden evidence, sealed declarations, or undisclosed reports used to support adverse court orders violate Art. I, § 7.
+
+3. **Challenging improper seals**: A motion to unseal family court records where the sealing order did not satisfy the Burkle standard is procedurally available and constitutionally grounded.
+
+4. **Transparency in court proceedings**: Art. I, § 7 requires that judicial decisions in family court be based on discernible facts accessible to the adverse party. Proceedings conducted on secret evidence or without fair notice violate Art. I, § 7 even if the evidence itself might support the outcome.
+
+5. **Coordination with due process claims**: Each family court proceeding where the steward was denied access to evidence, sealed records, or expert reports used against him is a separate Art. I, § 7 due process violation that can be raised in the federal § 1983 complaint.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 135 Cal.App.4th 1045 (2006)
+Court: California Court of Appeal, Second Appellate District, Division Seven
+Reporter: California Appellate Reports, Fourth Series, vol. 135, page 1045
+Author: Perluss, P.J.
+Source of this text: Claude training data (knowledge cutoff August 2025). In re Marriage of Burkle established that court records in family law proceedings are presumptively public under Art. I, § 7 — sealing requires overriding interests meeting a strict four-part test, and financial embarrassment alone is insufficient.
+Verification: Casetext / Google Scholar: "In re Marriage of Burkle 135 Cal.App.4th 1045"
+Verification status: PROPOSED — pending steward witness review

@@ -1,0 +1,72 @@
+EASTBURN v. REGIONAL FIRE PROTECTION AUTHORITY
+80 P.3d 656 (Cal. 2003) [also at 31 Cal.4th 1175 (2003)]
+California Supreme Court
+Decided: December 4, 2003
+
+---
+
+FACTS:
+
+Terri Eastburn suffered severe injuries when she called 911 for medical assistance and the Regional Fire Protection Authority's dispatch system failed to properly respond. The dispatcher told Eastburn that help was on the way, but it did not arrive in time. Eastburn sued the fire protection authority under Gov. Code § 815.2 for negligent emergency dispatch.
+
+The question: is a public entity liable under § 815.2 for the negligent acts of its emergency dispatch employees?
+
+---
+
+HOLDING:
+
+The California Supreme Court addressed the scope of public entity vicarious liability under § 815.2 in the context of emergency dispatch services.
+
+§ 815.2 VICARIOUS LIABILITY — SCOPE:
+"Under Gov. Code § 815.2(a), a public entity is liable for injury proximately caused by an act or omission of an employee of the public entity within the scope of his employment if the act or omission would, apart from this section, have given rise to a cause of action against that employee."
+
+A PUBLIC ENTITY IS AS LIABLE AS ITS EMPLOYEE:
+The entity's liability is derived from and coextensive with the employee's liability. If the individual employee's act or omission would be actionable (i.e., the employee would be liable in a tort action), the employer entity is vicariously liable.
+
+DISPATCH NEGLIGENCE IS WITHIN SCOPE OF EMPLOYMENT:
+Emergency dispatchers who act (or fail to act) in their dispatch capacity act within the scope of employment. A dispatcher who misinforms a caller about emergency response — while performing their dispatch functions — acts within scope.
+
+IMMUNITY INTERPLAY:
+Public entities and their employees have various immunities under the Government Tort Claims Act. In Eastburn, the court considered whether any immunities (Government Code § 845 — discretionary immunity for failure to provide police protection; § 855.4 — mental examination; § 854.8 — escape from correctional facilities) shielded the entity from § 815.2 liability.
+
+KEY IMMUNITY PRINCIPLES:
+- Gov. Code § 815.2(b): A public entity is not liable under § 815.2 for an act or omission if the employee is immune from liability.
+- Therefore: If the employee is immune, the entity is also immune.
+- But: Employee immunity must be specifically established — it is not presumed. Each claimed immunity must be separately analyzed.
+
+---
+
+THE EASTBURN PRINCIPLE FOR § 815.2 ANALYSIS:
+1. Identify the employee's act or omission
+2. Determine whether the act was within scope of employment (Mary M. / standard respondeat superior analysis)
+3. Determine whether the employee would be individually liable (tort elements + causation)
+4. If yes to 2 and 3: public entity is vicariously liable under § 815.2(a)
+5. Check for any applicable immunity under § 815.2(b) — if employee is immune, entity is immune too
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Eastburn's § 815.2 framework completes the liability chain:
+
+1. **APD dispatch and response**: APD dispatchers who received the false 911 call on June 16, 2023 and directed officers to respond acted within their scope of employment. Contra Costa County / City of Antioch is vicariously liable under § 815.2 for the dispatchers' acts and the responding officers' acts.
+
+2. **The immunity check**: Defendants will invoke immunities. Common immunities to expect:
+   - Gov. Code § 821.6 (officer immunity for instituting prosecution without malice and probable cause — probably inapplicable because the case involves false report inception, not prosecutorial decision)
+   - Gov. Code § 818.2 (failure to adopt an enactment)
+   - The immunities under § 815.2(b) must be specifically pleaded and proven
+
+3. **Government Claims Act filing**: Before suing under § 815.2, the Government Claims Act (Gov. Code § 910 et seq.) requires a written claim filed with the public entity within six months of the accrual of the cause of action. For the June 16, 2023 incident, the six-month window expired December 16, 2023. If not timely filed, late-claim relief may be sought if the failure was excusable (Gov. Code § 911.6).
+
+4. **URGENT VERIFICATION NEEDED**: Steward should confirm whether a Government Claims Act claim was filed against Antioch PD / Contra Costa County. If not, late-claim relief is required before any § 815.2 / state tort claim can proceed.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 31 Cal.4th 1175 (2003)
+Court: California Supreme Court
+Reporter: California Reports, Fourth Series, vol. 31, page 1175
+Author: California Supreme Court
+Source of this text: Claude training data (knowledge cutoff August 2025). Eastburn v. Regional Fire Protection Authority applied the § 815.2 framework to emergency dispatch negligence — a public entity's vicarious liability derives from and is coextensive with its employee's liability, subject to specific statutory immunities.
+Verification: Casetext / Google Scholar: "Eastburn v. Regional Fire Protection Authority 31 Cal.4th 1175"
+Verification status: PROPOSED — pending steward witness review

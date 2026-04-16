@@ -1,0 +1,18 @@
+{
+  "standard_id": "CA_PROB_1801_CONSERVATORSHIP_APPOINTMENT",
+  "provenance_record_filed_at_utc": "2026-04-08T14:50:00Z",
+  "fetcher_software": "curl with sha256sum",
+  "fetcher_operator": "Claude (assistant) under steward direction (Michael Hartmann)",
+  "fetches": [
+    {
+      "artifact_local_path": "current/cal_prob_1801_leginfo.html",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1801.&lawCode=PROB",
+      "source_authority": "California Legislative Information (leginfo.legislature.ca.gov), maintained by the Office of Legislative Counsel of California",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-08T14:50:00Z",
+      "fetch_method": "curl -sSL --max-time 60",
+      "sha256": "09b2089dda7231bdc8936a8ab258ea3ac2d8c9f334bebe0c0ed956afbf5d610b",
+      "content_description": "Conservatorship Appointment Standards (Persons for Whom Conservator May Be Appointed)"
+    }
+  ]
+}

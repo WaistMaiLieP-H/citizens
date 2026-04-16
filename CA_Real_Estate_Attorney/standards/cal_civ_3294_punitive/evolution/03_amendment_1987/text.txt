@@ -1,0 +1,27 @@
+California Civil Code § 3294 — 1987 amendment text (Tort Reform Act)
+
+Stats. 1987, ch. 1498, § 5 (effective January 1, 1988). The 1987 amendment — part of a larger tort reform package — added the definitions of "malice," "oppression," and "fraud" in subdivision (c), raising the threshold for each by requiring conduct to be "despicable" or by narrowing the intent elements. It also added subdivision (e) confirming the 1988 effective date for pending actions.
+
+Key textual changes (diff against 1980 version):
+
+**Subdivision (a) — MINOR CHANGE:**
+- Deleted: "express or implied" after "malice"
+- Rationale: The new statutory definitions in subdivision (c) made the "express or implied" phrase obsolete; the statutory definitions are now the operative test.
+
+**Subdivision (c) — NEW:**
+> As used in this section, the following definitions shall apply:
+>
+> (1) "Malice" means conduct which is intended by the defendant to cause injury to the plaintiff or despicable conduct which is carried on by the defendant with a willful and conscious disregard of the rights or safety of others.
+>
+> (2) "Oppression" means despicable conduct that subjects a person to cruel and unjust hardship in conscious disregard of that person's rights.
+>
+> (3) "Fraud" means an intentional misrepresentation, deceit, or concealment of a material fact known to the defendant with the intention on the part of the defendant of thereby depriving a person of property or legal rights or otherwise causing injury.
+
+**Subdivision (e) — NEW:**
+> The amendments to this section made by Chapter 1498 of the Statutes of 1987 apply to all actions in which the initial trial has not commenced prior to January 1, 1988.
+
+---
+
+Significance: The word "despicable" in the malice and oppression definitions is the critical threshold-raising word. Pre-1988 California law allowed punitive damages on a showing of "conscious disregard of the rights or safety of others" without any despicable-conduct requirement. The 1987 amendment added "despicable" to both malice (second prong) and oppression, and the California Supreme Court later held that "despicable" means "so vile, base, contemptible, miserable, wretched or loathsome that it would be looked down upon and despised by ordinary decent people." College Hospital v. Superior Court (1994) 8 Cal.4th 704, 725.
+
+The fraud definition in (c)(3) does NOT contain the word "despicable" — it has its own intent element ("with the intention on the part of the defendant of thereby depriving a person of property or legal rights"). So a fraud theory under § 3294 does not need to clear the despicable-conduct hurdle — the intent element substitutes.

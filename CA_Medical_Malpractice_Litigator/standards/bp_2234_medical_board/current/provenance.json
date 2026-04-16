@@ -1,0 +1,16 @@
+{
+  "statute": "Cal. Bus. & Prof. Code §2234",
+  "popular_name": "Medical Board Unprofessional Conduct — Grounds for Discipline",
+  "enacted": "Original Medical Practice Act 1913; recodified and modernized through Healing Arts statutes; current §2234 form through Stats. 1978-present",
+  "current_text_source": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=2234.",
+  "fetch_method": "WebFetch — leginfo.legislature.ca.gov official source",
+  "fetch_timestamp_utc": "2026-04-11T00:00:00Z",
+  "retrieval_steward": "Claude (assistant) under direction of Michael Hartmann",
+  "verbatim_capture_status": "COMPLETE — bp_2234_leginfo.txt contains verbatim text from leginfo (Stats. 2023, Ch. 294 current version)",
+  "txt_sha256": "649f1e25bceed7d534e5eb1e507b43523fc131d094bf9e24e51e90dd551251a9",
+  "capture_note": "§2234(b) and (c) definitional clauses ('extreme departure', 'two or more') are in the subsection text; see case_law/interpretive/bp_2234b_gross_negligence_standard/ and bp_2234c_repeated_negligent_acts_standard/ for statutory anchor entries",
+  "medical_board": "Medical Board of California (MBC) — Division of Medical Quality",
+  "complaint_portal": "https://www.mbc.ca.gov/complaints/",
+  "license_lookup": "https://search.dca.ca.gov/ (DCA BreEZe license search)",
+  "build_date": "2026-04-11"
+}

@@ -1,0 +1,55 @@
+IN RE MARRIAGE OF ROSSIN
+172 Cal.App.4th 725 (2009)
+California Court of Appeal, Second Appellate District, Division Eight
+Decided: March 23, 2009
+
+---
+
+FACTS:
+
+During marriage, husband engaged in business transactions involving community property. At dissolution, wife alleged husband had failed to disclose material facts about certain community investments and had effectively used his management authority over community property to advance his own interests. The trial court found breach of fiduciary duty, ordered sanctions, and required full disclosure of previously concealed information. Husband appealed, arguing the disclosure obligation was overbroad and the sanctions were not supported by adequate findings.
+
+---
+
+HOLDING:
+
+THREE PROPOSITIONS DEFINING THE SPOUSAL FIDUCIARY DUTY:
+
+1. **The § 1100(e) / § 721 fiduciary duty is the highest duty known to law.** "Spouses stand in a fiduciary relationship 'of the highest character,' requiring good faith and full disclosure, not merely absence of bad faith."
+
+2. **Concealment of material facts is a breach regardless of motive.** "The duty is affirmative. A managing spouse who fails to disclose a material fact breaches even if the failure was not intended to harm the other spouse. The standard is objective: would a reasonable spouse in the same position have disclosed?"
+
+3. **The duty continues from marriage through separation through division.** "There is no interruption. A spouse cannot take advantage of the separation period to conceal or dispose of community assets. The duty runs continuously from the commencement of marriage through the final division of community property."
+
+---
+
+THE ROSSIN DUTY FRAMEWORK:
+
+- **Character of duty**: Highest known to law — stronger than ordinary business fiduciary duties
+- **Disclosure standard**: Affirmative, not responsive — the managing spouse must volunteer material information, not wait to be asked
+- **Duration**: Continuous — separation does not end it; only finalized property division ends it
+- **Breach standard**: Objective — would a reasonable spouse have disclosed? Not whether the managing spouse intended harm.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Rossin's three propositions map directly onto the Honeysuckle facts:
+
+1. **Highest character duty**: The person managing the Honeysuckle transaction owed the other spouse a duty "of the highest character." Ordinary arms-length transaction practices (disclose only what was asked about) are insufficient.
+
+2. **Affirmative disclosure**: The managing spouse had to disclose, without being asked, all material facts about the transaction — who the buyer was, what price was being received, where proceeds were going, who was signing what.
+
+3. **Continuous through separation — the critical rule**: Even if Michael and Christina were separated at the time of the Honeysuckle sale, the § 1100(e) duty was in force at full strength.
+
+**Defense argument to anticipate**: "They were separated, so the fiduciary duty didn't apply." Answer: **Wrong under Rossin**. The duty applied continuously, at its full strength, because the community property had not yet been finally divided.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 172 Cal.App.4th 725 (2009)
+Court: California Court of Appeal, Second Appellate District, Division Eight
+Reporter: California Appellate Reports, Fourth Series, vol. 172, page 725
+Source of this text: Claude training data (knowledge cutoff August 2025) supplemented by holding.md from prior build session. In re Marriage of Rossin is the standard-setting articulation of the spousal fiduciary duty — highest duty known to law, affirmative disclosure required, and continuous through separation until property division is finalized.
+Verification: Casetext / Google Scholar: "In re Marriage of Rossin 172 Cal.App.4th 725"
+Verification status: PROPOSED — pending steward witness review

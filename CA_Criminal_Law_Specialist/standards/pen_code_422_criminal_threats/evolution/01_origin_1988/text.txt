@@ -1,0 +1,17 @@
+Cal. Penal Code § 422 — Original Enactment
+AB 3329 (Chapter 1274, Statutes of 1988)
+
+The original § 422 was enacted in 1988 as part of California's criminal code modernization. It covered threats made with specific intent in face-to-face or written communications:
+
+Original § 422 (approximate text, pre-1991 reform):
+"Any person who willfully threatens to commit a crime which will result in death or great bodily injury to another person, with specific intent that the statement is to be taken as a threat, which, on its face and under the circumstances in which it was made, is so unequivocal, unconditional, immediate, and specific as to convey to the person threatened, a gravity of purpose and an immediate prospect of execution of the threat, and thereby causes that person reasonably to be in sustained fear for his or her safety, or for the safety of his or her immediate family, is guilty of a public offense."
+
+Key original features:
+1. Specific-intent requirement — threat must be intended to be taken as a threat (not puffery or hyperbole).
+2. Four-part textual test: unequivocal, unconditional, immediate, and specific.
+3. Sustained fear element — victim must experience ongoing fear, not transient alarm.
+4. Criminal only (misdemeanor or felony based on circumstances).
+
+Note: "Electronic communication" was NOT in the original 1988 text. Adding electronic communications required later amendment.
+
+Source: Chapter 1274, Statutes of 1988; AB 3329.

@@ -1,0 +1,17 @@
+{
+  "case": "In re Marriage of Lucas",
+  "reporter_citation": "27 Cal.3d 808",
+  "parallel_citations": ["166 Cal.Rptr. 853", "614 P.2d 285"],
+  "decided": "1980-08-07",
+  "court": "Supreme Court of California",
+  "opinion_author": "Justice Wiley Manuel (unanimous)",
+  "statutes_construed": [
+    "Former California Civil Code § 4800 (now Fam. Code § 2550)",
+    "Former California Civil Code § 5110 (now Fam. Code § 760)",
+    "Former California Civil Code § 5125 (now Fam. Code § 1100)"
+  ],
+  "status": "Binding California Supreme Court authority. Partially codified by Stats. 1983/1984 amendments (former § 4800.2, now Fam. Code § 2640) and by the 1992 Family Code recodification. Still controlling on the joint-title presumption and the written-agreement requirement for rebutting it.",
+  "opinion_text_source": "Not yet captured. To be retrieved from law.justia.com/cases/california/supreme-court/3d/27/808.html",
+  "captured_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "captured_at_utc": "2026-04-10T21:30:00Z"
+}

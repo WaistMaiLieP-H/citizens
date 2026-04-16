@@ -1,0 +1,11 @@
+{
+  "actor_id": "hillberg_ann",
+  "shared_record": "${citizens}/_shared_actors/hillberg_ann.json",
+  "domain": "US_Federal_Civil_Rights_Litigator",
+  "role": "§1983 defendant — person acting under color of state authority via orchestration of state actors (APD, court mediators, CPS); §1985 co-conspirator",
+  "risk_level": "HIGH",
+  "applicable_standards": ["42_USC_1983", "42_USC_1985"],
+  "theory_of_liability": "Private party who conspired with and directed state actors to deprive steward of constitutionally protected liberty interest in custody of his child. Dispatcher training (SURCOMM/CENCOMM/NORCOM 2008-2015) provided knowledge of how to weaponize state systems. The §1985 conspiracy claim does not require state action — only that two or more persons conspired to deprive equal protection.",
+  "immunity_analysis": "None. Private parties have no qualified or absolute immunity under §1983.",
+  "filed_at_utc": "2026-04-08T22:00:00Z"
+}

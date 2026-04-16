@@ -1,0 +1,47 @@
+{
+  "standard": "cmia_civ_56_36_unauthorized_access",
+  "cross_references": [
+    {
+      "cite": "Cal. Civ. Code § 56.35",
+      "label": "CMIA — Standard Civil Damages",
+      "relationship": "incorporated_by_reference",
+      "note": "§56.36(a) incorporates §56.35's full damages framework (nominal, exemplary, actual, punitive, attorney fees) for persons who negligently or intentionally release medical information. §56.36 then adds criminal penalties and triple damages on top."
+    },
+    {
+      "cite": "Cal. Civ. Code § 56.10",
+      "label": "CMIA — Authorized Disclosures",
+      "relationship": "violation_predicate",
+      "note": "§56.36 attaches to violations of §56.10 (unauthorized disclosures). The 'false pretenses' provision of §56.36(b)(1) specifically targets those who falsely claim a §56.10(b)/(c) exception or present fraudulent authorizations."
+    },
+    {
+      "cite": "Cal. Civ. Code § 56.05",
+      "label": "CMIA Definitions",
+      "relationship": "definitional_predicate",
+      "note": "§56.36(d) incorporates §56.05's definition of 'medical information.' The same definition governs both the disclosure rules (§56.10) and the criminal penalty track (§56.36)."
+    },
+    {
+      "cite": "Cal. Pen. Code § 518",
+      "label": "Extortion — Related Criminal Framework",
+      "relationship": "parallel_criminal_track",
+      "note": "Where medical information is used to extort money or action from a patient, §518 extortion charges may apply alongside §56.36 criminal penalties. The two criminal tracks are not mutually exclusive."
+    },
+    {
+      "cite": "42 U.S.C. § 1983",
+      "label": "Federal Civil Rights — State Actor Liability",
+      "relationship": "federal_enforcement_parallel",
+      "note": "State actors (probation officers, court investigators, law enforcement) who obtain medical records under §56.36's false-pretenses framework are simultaneously acting under color of law. §1983 claims are available where the unauthorized access was conducted by a state actor or under state authority."
+    },
+    {
+      "cite": "HIPAA 45 CFR § 164.502",
+      "label": "Federal PHI Rules",
+      "relationship": "federal_floor",
+      "note": "HIPAA violations involving unauthorized access to PHI may occur simultaneously with §56.36 violations. State and federal enforcement tracks operate in parallel; CMIA generally provides stronger individual remedies."
+    },
+    {
+      "cite": "Cal. Civ. Code § 56.20",
+      "label": "CMIA — Patient Access to Own Records",
+      "relationship": "companion_right",
+      "note": "§56.20 gives the patient the right to obtain their own records. §56.36(b)(1) criminalizes others obtaining those records under false pretenses. The two provisions protect the same records from opposite directions."
+    }
+  ]
+}

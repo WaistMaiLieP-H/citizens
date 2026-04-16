@@ -1,0 +1,21 @@
+{
+  "layer": "historical_chain",
+  "layer_index": 1,
+  "label": "origin_1978",
+  "event": "SSA codification of five-step sequential evaluation in CFR",
+  "date": "1978-11-28",
+  "source": {
+    "citation": "43 Fed. Reg. 55349 (Nov. 28, 1978)",
+    "description": "Final rule codifying five-step sequential evaluation process at 20 C.F.R. § 404.1520",
+    "publisher": "Social Security Administration",
+    "url": "https://www.federalregister.gov/documents/1978/11/28/",
+    "verified": false,
+    "note": "Federal Register volume/page from authoritative knowledge. Verify at federalregister.gov or HathiTrust before formal publication."
+  },
+  "legislative_authority": {
+    "citation": "42 U.S.C. §§ 405(a), 423(d)",
+    "description": "Rulemaking authority for SSA disability determination procedures"
+  },
+  "significance": "First codification of five-step framework in binding CFR text; enabled systematic judicial review of step-specific errors",
+  "build_session": "2026-04-12"
+}

@@ -1,0 +1,20 @@
+Cal. Penal Code § 273a — Origin and Early Form
+Original form circa 1905 (added to California Penal Code with child protection legislation)
+
+The original child endangerment statute was a narrow provision targeting parents and custodians who willfully caused physical suffering or injury to a child. Early California law adopted a simple formulation:
+
+"Any person who, under circumstances or conditions likely to produce great bodily harm or death, willfully causes or permits any child to suffer, or inflicts thereon unjustifiable physical pain or mental suffering, or having the care or custody of any child, willfully causes or permits the life or health of such child to be endangered, or willfully causes or permits such child to be placed in such a situation that its person or health is endangered, is punishable..."
+
+The original structure established the two-track system that persists in current § 273a:
+- Track 1 (felony): circumstances or conditions likely to produce GREAT BODILY HARM OR DEATH
+- Track 2 (misdemeanor): other endangerment circumstances not reaching the great bodily harm / death threshold
+
+The "care or custody" element was original — applying the statute to parents, custodians, legal guardians, babysitters, and anyone in a caregiving role.
+
+Key original elements established:
+1. Willfulness requirement
+2. "Likely to produce great bodily harm or death" — probability standard, not certainty
+3. "Care or custody" — relationship requirement
+4. Mental suffering included alongside physical suffering
+
+Source: California Penal Code — child protection statutes, early 20th century. Specific chapter pending primary-source verification.

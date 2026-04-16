@@ -1,0 +1,59 @@
+DOCTRINAL FRAMEWORK: § 13957 COMPENSABLE LOSS CATEGORIES
+[Framework entry — specific published citation pending verification]
+California Victim Compensation Board / California Courts of Appeal
+
+---
+
+CITATION STATUS:
+
+Published appellate decisions specifically interpreting § 13957 categories are limited. This entry documents the operative framework derived from the statute, legislative history, and administrative practice.
+
+---
+
+HOLDING:
+
+§ 13957 COMPENSABLE LOSS CATEGORIES:
+
+1. **Medical expenses.** Direct medical costs causally connected to the crime: emergency care, hospitalization, surgery, ongoing medical treatment, physical therapy, prosthetics. The connection between treatment and crime must be documented but the standard is proximate cause, not strict necessity. Pre-existing conditions aggravated by the crime qualify to the extent of the aggravation.
+
+2. **Mental health treatment.** Counseling, therapy, psychiatric treatment, and psychopharmacological treatment for psychological harm caused by the crime. PTSD and trauma counseling are specifically within this category. Frequently under-claimed because victims do not connect mental health treatment to the crime or do not know it is compensable.
+
+3. **Lost wages / loss of income.** Income lost because the victim was unable to work due to injuries caused by the crime. The victim must document the employment relationship and the period of disability. For a union tradesperson, lost journeyman-scale wages during periods of inability to work due to crime-caused injury are compensable.
+
+4. **Funeral and burial expenses.** For homicide victims or where the crime caused death.
+
+5. **Relocation expenses.** If the victim must relocate for safety from the perpetrator, reasonable relocation costs are compensable. Specifically designed for DV victims who must move to escape an abuser.
+
+6. **Home security improvements.** Costs of security improvements required for victim safety where the perpetrator has access to the victim's home or neighborhood.
+
+7. **Job retraining.** If the crime-caused injury prevents the victim from returning to their prior occupation, job retraining costs are compensable.
+
+---
+
+THE "DIRECT FINANCIAL LOSS" LIMITATION:
+
+Section 13957 compensates for direct financial harm. It does NOT compensate for: pain and suffering; punitive damages; loss of consortium; non-economic emotional distress not connected to medical or mental health treatment costs. These non-economic losses may be separately recoverable in civil litigation but are not within CalVCB's compensation mandate.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For application A25-10117946 (crime: June 16, 2023 incident):
+
+| Loss Category | Action | Notes |
+|---|---|---|
+| Medical expenses (physical) | Document and claim | Any physical harm from 6/16/2023 incident |
+| Mental health treatment | Document and claim | PTSD counseling, therapy post-incident |
+| Lost wages | Document and claim | Lost UA Local 342 work days due to incident |
+| Relocation | Evaluate | If safety-driven relocation occurred |
+
+If any A25-10117946 denial was based on a restrictive interpretation of compensable categories — e.g., excluding mental health treatment because it was not documented in a specific format, or excluding lost wages because documentation was not in the form CalVCB requested — the appeal must argue that each exclusion is inconsistent with the § 13957 categories and the § 13950 liberal construction mandate.
+
+---
+
+SOURCE PROVENANCE:
+Citation: Framework entry — specific published citation pending verification
+Court: California Victim Compensation Board / California Courts of Appeal
+Source: Derived from Gov. Code § 13957 statutory text and the § 13950 liberal construction mandate. Knowledge cutoff August 2025.
+Verification: Search Casetext for § 13957 compensable categories published decisions
+Verification status: PROPOSED — statutory framework verified; pending steward witness review

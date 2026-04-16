@@ -1,0 +1,15 @@
+{
+  "stage": "01_origin_1975",
+  "citation": "Stats. 1975, 2d Ex. Sess., Ch. 2 (MICRA package)",
+  "effective_date": "1975-12-12",
+  "original_fee_thresholds": {
+    "tier1": "40% of first $50,000",
+    "tier2": "33.33% of next $50,000",
+    "tier3": "25% of next $100,000",
+    "tier4": "10% of any amount over $200,000"
+  },
+  "note": "Original thresholds not adjusted for 47 years; AB 35 (2022) substantially increased all thresholds to current levels",
+  "capture_method": "LOGIC.md — structural knowledge base",
+  "verbatim_capture_status": "PENDING",
+  "build_date": "2026-04-11"
+}

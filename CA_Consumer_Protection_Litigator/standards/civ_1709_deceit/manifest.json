@@ -1,0 +1,91 @@
+{
+  "standard_id": "CIV_1709_DECEIT",
+  "citizen": "CA_Consumer_Protection_Litigator",
+  "version": "0.1.0-proposed",
+  "filed_at_utc": "2026-04-11T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "PROPOSED",
+  "build_method": "Logical Delta (LOGIC.md at each evolution stage)",
+  "primary_citation": {
+    "code": "Cal. Civil Code",
+    "sections": "§§1709-1711",
+    "popular_name": "Common-Law Deceit (Codified)",
+    "jurisdiction": "California",
+    "enacted": "Stats. 1872 (original Civil Code)",
+    "effective": "1872-01-01",
+    "stability": "Text unchanged for 153+ years; content filled by case law development"
+  },
+  "four_modes_of_deceit": {
+    "1710_1": "Intentional false statement — knowing the fact is false",
+    "1710_2": "Negligent misrepresentation — positive assertion without reasonable grounds for believing truth",
+    "1710_3": "Nondisclosure — suppression of a fact the party is bound to disclose (Lovejoy four categories)",
+    "1710_4": "Promissory fraud — promise made without any intention of performing"
+  },
+  "damages_rule": "Out-of-pocket (§3343): purchase price paid minus actual value received. NOT benefit-of-the-bargain.",
+  "sof_of_limitations": "CCP §338(d) — 3 years from discovery",
+  "punitive_pathway": "§3294 fraud prong — same conduct establishes punitive exposure with clear and convincing evidence",
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current/LOGIC.md documents four modes of §1710 deceit, out-of-pocket damages rule, Lovejoy duty-to-disclose framework, Lazar promissory fraud framework, §3294 punitive pathway, full auto fraud damages mosaic",
+    "reasoning": "PRESENT — evolution/01_origin_1872/LOGIC.md documents common-law uncertainty wound and codification design; evolution/02_nondisclosure/LOGIC.md documents Lovejoy nondisclosure expansion and promissory fraud application",
+    "historical_loss": "PRESENT — historical_chain.md documents full arc from pre-1872 common law through codification through Roberts/Lazar/Lovejoy case law development through current stable framework",
+    "cross_references": "PRESENT — refs.json links to CLRA, Rees-Levering, Song-Beverly, UCL, §3294 punitive",
+    "verifiable_provenance": "PARTIAL — provenance.json files present; verbatim statute text and opinion text PENDING"
+  },
+  "evolution_chain": [
+    {"stage": "01_origin_1872", "folder": "evolution/01_origin_1872/", "status": "LOGIC_BUILT"},
+    {"stage": "02_nondisclosure_expansion", "folder": "evolution/02_nondisclosure_expansion/", "status": "LOGIC_BUILT"}
+  ],
+  "case_law": {
+    "uphold": [],
+    "interpretive": [
+      {
+        "slug": "roberts_v_ball_hunt",
+        "cite": "Roberts v. Ball, Hunt, Hart, Brown & Baerwitz, 57 Cal.App.3d 104 (1976)",
+        "rule": "§1710(2) negligent misrepresentation: positive assertion without reasonable grounds is actionable even without scienter. Fills gap between intentional fraud and non-actionable opinion.",
+        "files": ["holding.md", "provenance.json", "statute_version_cited.md"],
+        "status": "BUILT"
+      },
+      {
+        "slug": "lazar_v_superior_court",
+        "cite": "Lazar v. Superior Court, 12 Cal.4th 631 (1996)",
+        "rule": "§1710(4) promissory fraud: promise + no intent to perform at time of making + inducing reliance + damage. Pattern evidence of similar broken promises = circumstantial proof of non-intent. Applies to yo-yo financing.",
+        "files": ["holding.md", "provenance.json", "statute_version_cited.md"],
+        "status": "BUILT"
+      }
+    ]
+  },
+  "cross_refs_path": "cross_refs/refs.json",
+  "historical_chain_path": "historical_chain.md",
+  "operational_notes_for_steward_cases": {
+    "redjag_fraud_theory": {
+      "case_reference": "Case #26 — RedJag (2018 Jaguar XE)",
+      "deceit_modes": {
+        "1710_1": "Dealer provided a false CARFAX showing no accidents. If dealer knew vehicle had prior damage: knowing false statement.",
+        "1710_2": "If dealer did not 'know' CARFAX was wrong but provided it without reasonable grounds for asserting clean history: negligent misrepresentation.",
+        "1710_3": "Dealer had exclusive knowledge of vehicle's true condition (from PDI or prior dealings) and did not disclose: nondisclosure under Lovejoy category 2.",
+        "1710_4": "Yo-yo financing: dealer offered firm financing terms to close the deal with no intention or ability to honor them: promissory fraud under Lazar."
+      },
+      "damages": "Purchase price paid minus actual fair market value of the vehicle as delivered (wrong CARFAX, stripped, damaged). Also: Rees-Levering forfeiture + Song-Beverly refund + CLRA actual + §3294 punitive."
+    },
+    "proof_strategy": [
+      "Obtain the CARFAX the dealer provided at sale (compare to true vehicle history)",
+      "Obtain pre-delivery inspection (PDI) records from dealer",
+      "Obtain financing approval/denial records showing timeline between contract signing and yo-yo demand",
+      "Identify similar complaints from other customers against same dealer (pattern evidence for Lazar non-intent theory + §3294 malice/oppression)",
+      "Document the actual market value of the vehicle as received (with prior damage disclosed)"
+    ]
+  },
+  "additional_cases_to_add": [
+    "Lovejoy v. AT&T Corp., 119 Cal.App.4th 151 (2004) — four-category duty-to-disclose framework (documented in evolution/02 but should be in case_law)",
+    "OCM Principal Opportunities Fund v. CIBC World Markets Corp. (2007) — elements of negligent misrepresentation",
+    "Beckwith v. Dahl (2012) — duty to disclose in partial disclosure context"
+  ],
+  "outstanding_work": [
+    "Verbatim capture of §§1709, 1710, 1711 current text (PENDING)",
+    "Primary-source Roberts and Lazar opinion text captures",
+    "Add Lovejoy v. AT&T case entry to case_law folder",
+    "Rename lesperance folder to lazar_v_superior_court",
+    "Second-mouth witness review"
+  ],
+  "witness_status": "AWAITING_STEWARD_WITNESS"
+}

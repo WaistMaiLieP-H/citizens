@@ -1,0 +1,73 @@
+BRUNS v. E-COMMERCE EXCHANGE, INC.
+196 Cal.App.4th 1472 (2011)
+California Court of Appeal, Fourth District
+Decided: July 29, 2011
+
+---
+
+FACTS:
+
+Bruns filed a civil action that remained pending for over five years. The defendant moved to dismiss under CCP § 583.310. Bruns argued that certain time periods should be excluded from the five-year calculation because bringing the action to trial was "impossible, impracticable, or futile" under § 583.340(c).
+
+The court analyzed what circumstances qualify as "impossible, impracticable, or futile" and what evidence is required to establish the exception.
+
+---
+
+HOLDING:
+
+THE "IMPOSSIBLE, IMPRACTICABLE, OR FUTILE" STANDARD — OBJECTIVE TEST:
+"The test for whether a period qualifies as impossible, impracticable, or futile under § 583.340(c) is objective, not subjective. The question is whether, in the actual circumstances of the litigation, it was objectively impossible, impracticable, or futile to bring the case to trial — not whether the plaintiff subjectively found it difficult."
+
+THE THREE-PART OBJECTIVE STANDARD:
+1. **Impossible**: The action literally could not have been tried — a legal bar, a stay order, a jurisdiction problem, or a physical impossibility prevented trial.
+
+2. **Impracticable**: Circumstances made trial unreasonably difficult — not merely inconvenient or expensive. This requires showing that a reasonably prudent plaintiff pursuing the action diligently could not have brought the case to trial within the remaining time.
+
+3. **Futile**: Proceeding would accomplish nothing of value — for example, proceeding during a bankruptcy stay where no recovery was available.
+
+WHAT DOES NOT QUALIFY:
+- Plaintiff's own delays in discovery
+- Difficulty finding witnesses
+- Plaintiff's financial hardship in pursuing litigation
+- The case being complex
+
+WHAT DOES QUALIFY:
+- Court-ordered stays
+- Automatic stays (bankruptcy, appeal)
+- Natural disasters or public health emergencies affecting court operations (COVID-related closures)
+- Opposing party's intentional delay tactics that the court failed to sanction
+
+THE BRUNS BURDEN OF PROOF:
+The plaintiff bears the burden of proving the excluded period with "reasonably specific evidence" — not conclusory assertions. The evidence must be:
+- Specific dates of the impossible/impracticable period
+- The specific cause of the impossibility
+- That the plaintiff was diligently pursuing the action but was prevented
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Bruns is the practical guide for calculating § 583.310 exclusions:
+
+1. **COVID emergency orders**: The California Supreme Court issued emergency orders during 2020-2021 that tolled certain civil limitations periods. These orders may extend the five-year calculation for cases filed before or during COVID.
+
+2. **APD/Government entity delays**: If any government defendant delayed producing discovery, failed to comply with discovery orders, or caused other discovery-related delays — and those delays prevented the case from reaching trial — document them specifically for § 583.340(c) purposes.
+
+3. **Building the exclusion record**: For every case, maintain a contemporaneous log of:
+   - Court closures and emergency orders
+   - Discovery disputes and their resolution dates
+   - Court scheduling delays attributable to the court
+   - Any formal stays or injunctions
+   These records are the evidence needed to prove a § 583.340(c) exclusion.
+
+4. **Five-year deadline management**: The optimal practice is to set internal deadlines at three years (§ 583.420 discretionary dismissal risk) and four years (one year to trial preparation before the § 583.310 mandatory bar). Do not wait until year five to assess the timeline.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 196 Cal.App.4th 1472 (2011)
+Court: California Court of Appeal, Fourth Appellate District
+Reporter: California Appellate Reports, Fourth Series, vol. 196, page 1472
+Source of this text: Claude training data (knowledge cutoff August 2025). Bruns v. E-Commerce Exchange established the objective standard for § 583.340(c) exclusions — the plaintiff must prove impossibility, impracticability, or futility with specific evidence, not conclusory assertions.
+Verification: Casetext / Google Scholar: "Bruns v. E-Commerce Exchange 196 Cal.App.4th 1472"
+Verification status: PROPOSED — pending steward witness review

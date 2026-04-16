@@ -1,0 +1,12 @@
+{
+  "stage": "02_1972_private_right_expansion",
+  "sources": [
+    "Broad judicial interpretation of private standing under UCL/FAL framework (1970s-2004)",
+    "Stats. 1998, Ch. 581 (internet amendment to §17500)",
+    "Proposition 64 (Nov. 2, 2004) — amended §17200 (§17204) and §17535 to add injury-in-fact + lost money/property standing requirement"
+  ],
+  "wound_addressed": "Unlimited private standing created shakedown suit industry; technical violation suits by parties with no actual harm; Prop 64 aimed to restore standing requirement while preserving consumer enforcement tool",
+  "key_case_in_chain": "In re Tobacco II Cases, 46 Cal.4th 298 (2009) — reliance requirement for class representatives post-Prop 64",
+  "verbatim_capture_status": "PENDING",
+  "build_date": "2026-04-11"
+}

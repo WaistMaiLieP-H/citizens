@@ -1,0 +1,6 @@
+See: usc_29_1053_vesting/current/text.txt
+
+Current schedules reflect post-EGTRRA 2001 standards (made permanent by ATRA 2012):
+- Standard pension accrual: 5-year cliff OR 3-7 year graded (TRA 1986)
+- Employer matching contributions: 3-year cliff OR 2-6 year graded (EGTRRA 2001)
+- Multiemployer plans: 2-year cliff option under § 1053(d)

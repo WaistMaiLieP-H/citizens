@@ -1,0 +1,110 @@
+{
+  "standard_id": "BIVENS_DOCTRINE",
+  "version": "0.2.0-witnessed-by-herald",
+  "type": "case-law-implied-cause-of-action",
+  "description": "Implied constitutional cause of action for damages against federal officers who violate constitutional rights. Created by the Supreme Court in 1971. Functionally moribund for new claims after 2022.",
+  "five_layer_bar": {
+    "rule": "PRESENT — current/bivens_doctrine_summary.txt",
+    "reasoning": "PRESENT — evolution/01_origin/context.md explains why the doctrine was created and what gap it filled",
+    "historical_loss": "PRESENT — historical_chain.md documents the arc from creation through functional death",
+    "cross_refs": "PRESENT — cross_refs/refs.json links to Section 1983, qualified immunity, and FTCA",
+    "verifiable_provenance": "PRESENT — current/provenance.json and all case provenance.json files with citations and source URLs"
+  },
+  "evolution": {
+    "stages": 2,
+    "list": [
+      {
+        "stage": "01_origin",
+        "path": "evolution/01_origin/",
+        "description": "Bivens v. Six Unknown Named Agents (1971) — the Fourth Amendment implies a damages remedy against federal officers",
+        "year": 1971
+      },
+      {
+        "stage": "02_current",
+        "path": "evolution/02_current/",
+        "description": "Doctrine narrowed to near-extinction after Abbasi (2017) and Egbert (2022). Survives only in three original contexts.",
+        "year": 2022
+      }
+    ]
+  },
+  "case_law_documented": {
+    "count": 2,
+    "cases": [
+      {
+        "case": "Ziglar v. Abbasi",
+        "citation": "137 S. Ct. 1843 (2017)",
+        "path": "case_law/interpretive/ziglar_v_abbasi_2017/",
+        "effect": "Created new-context + special-factors framework that blocks virtually all Bivens expansion"
+      },
+      {
+        "case": "Egbert v. Boule",
+        "citation": "596 U.S. 482 (2022)",
+        "path": "case_law/interpretive/egbert_v_boule_2022/",
+        "effect": "Confirmed functional death of Bivens for new claims"
+      }
+    ]
+  },
+  "outstanding": {
+    "cases_not_yet_documented": [],
+    "cases_documented_2026_04_09": [
+      {
+        "case": "Davis v. Passman",
+        "citation": "442 U.S. 228 (1979)",
+        "folder": "case_law/interpretive/davis_v_passman_1979/"
+      },
+      {
+        "case": "Carlson v. Green",
+        "citation": "446 U.S. 14 (1980)",
+        "folder": "case_law/interpretive/carlson_v_green_1980/"
+      }
+    ],
+    "cases_considered_for_future": [
+      {
+        "case": "Bush v. Lucas",
+        "citation": "462 U.S. 367 (1983)",
+        "significance": "First major refusal to extend Bivens"
+      },
+      {
+        "case": "Correctional Services Corp. v. Malesko",
+        "citation": "534 U.S. 61 (2001)",
+        "significance": "Refused to extend Bivens to private prison companies"
+      }
+    ]
+  },
+  "created": "2026-04-08",
+  "last_updated": "2026-04-12",
+  "status": "PUBLISHED — ADAM + EVE DUAL WITNESS — 2026-04-12",
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction (Michael Hartmann), 2026-04-08",
+    "herald_witness": {
+      "witness": "HERALD (Steward successor — designated 2026-04-12)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "verification_scope": "Structure, five-layer bar completeness.",
+      "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12."
+    },
+    "adam_witness": {
+      "witness": "ADAM (Seed Citizen — Builder role)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "triple_constraint": "PASS/PASS/PASS",
+      "actions_taken": "Removed stale 'two_witness.status: PROPOSED' block (artifact from pre-HERALD version). Six-stage historical arc verified. All 4 case files confirmed present.",
+      "content_hash_verified": "174ed03d45ca1f8e9a6d37061b73fbe7780e4b4f38bf953bf6b518e4091edd3f",
+      "signal": "APPROVE"
+    },
+    "eve_witness": {
+      "witness": "EVE (Seed Citizen — Witness role)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "five_layer_verification": "PASS/PASS/PASS/PASS/PASS",
+      "triple_constraint": "PASS/PASS/PASS",
+      "hash_independently_recomputed": "174ed03d45ca1f8e9a6d37061b73fbe7780e4b4f38bf953bf6b518e4091edd3f — CONFIRMED MATCHING",
+      "signal": "COUNTERSIGN"
+    },
+    "publishable_to_corpus": true,
+    "status": "PUBLISHED — ADAM + EVE DUAL WITNESS"
+  },
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

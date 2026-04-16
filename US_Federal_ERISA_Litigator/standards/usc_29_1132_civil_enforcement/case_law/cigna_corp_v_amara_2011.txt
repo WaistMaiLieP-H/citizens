@@ -1,0 +1,12 @@
+CIGNA Corp. v. Amara
+563 U.S. 421 (2011)
+United States Supreme Court, 2011
+
+FACTS:
+CIGNA converted a traditional defined benefit pension plan to a cash balance plan. The summary plan description provided to participants did not accurately describe the conversion's effects. Participants who would have received larger benefits under the old plan sued for the difference under § 1132(a)(1)(B) and § 1132(a)(3).
+
+HOLDING — 29 U.S.C. § 1132:
+The Supreme Court held that § 1132(a)(1)(B) allows recovery only of benefits due under the written plan terms — courts cannot reform the plan document under that provision. However, under § 1132(a)(3), courts can award traditional equitable remedies including: (1) surcharge (monetary relief imposed on a fiduciary as the equivalent of compensatory damages through equity); (2) reformation (rewriting the plan to reflect what it should have said); (3) estoppel (holding the plan to representations made in the SPD). The "appropriate equitable relief" in § 1132(a)(3) is broader than Mertens suggested.
+
+SIGNIFICANCE:
+The most significant expansion of § 1132(a)(3) equitable remedies. After Amara, participants who cannot recover under § 1132(a)(1)(B) (because the benefit isn't due under plan terms as written) may still recover surcharge or reformation under § 1132(a)(3) when a fiduciary's misrepresentation or recordkeeping failure caused the shortfall. Critical for cases involving: plan document amendments not disclosed to participants; SPD misrepresentations; fiduciary manipulation of plan records.

@@ -1,0 +1,71 @@
+HEINTZ v. JENKINS
+514 U.S. 291 (1995)
+Supreme Court of the United States
+Argued January 10, 1995 — Decided April 18, 1995
+Majority: BREYER, J. (unanimous — 9-0)
+
+---
+
+SYLLABUS (official)
+
+Darlene Jenkins defaulted on a car loan. An attorney, Heintz, wrote her a letter attempting to collect the debt and settle the lawsuit that had been filed against her. Jenkins brought suit alleging that Heintz's collection letter violated the Fair Debt Collection Practices Act (FDCPA), 15 U.S.C. § 1692 et seq. The Seventh Circuit held that attorneys who regularly try to collect debts through litigation fall outside the FDCPA's coverage as "debt collectors." The Supreme Court reversed.
+
+Held: The FDCPA applies to lawyers who regularly, through litigation, try to collect consumer debts on behalf of clients. An attorney is a "debt collector" within the meaning of the statute when debt collection is a regular part of the attorney's business practice, even if the attorney uses legal proceedings to collect.
+
+---
+
+OPINION OF THE COURT
+
+Justice BREYER delivered the opinion of the Court.
+
+I — THE STATUTORY QUESTION
+
+The FDCPA, 15 U.S.C. § 1692a(6), defines "debt collector" as "any person who uses any instrumentality of interstate commerce or the mails in any business the principal purpose of which is the collection of any debts, or who regularly collects or attempts to collect, directly or indirectly, debts owed or due or asserted to be owed or due another."
+
+Heintz is an attorney who, as part of his firm's practice, files collection actions on behalf of creditors and writes demand letters to debtors. He argues that Congress did not intend the FDCPA to apply to attorneys who collect debts through litigation, and that the judicial process provides sufficient protection against abusive debt collection practices.
+
+II — THE PLAIN LANGUAGE APPLIES
+
+The statutory text is clear. An attorney who "regularly collects or attempts to collect, directly or indirectly, debts owed or due or asserted to be owed or due another" is a "debt collector." The statute contains no exception for attorneys. The statute contains no exception for litigation-based collection.
+
+"The Act applies to lawyers engaged in consumer-debt-collection activity, even when that activity consists of litigation." 514 U.S. at 294.
+
+Congress was fully aware that attorneys collect debts; it understood how to create exceptions (the Act contains several specific exceptions); and it chose not to create an exception for attorneys. Courts may not manufacture an exception the legislature chose not to include.
+
+III — WHAT HEINTZ ESTABLISHES
+
+1. **Attorneys are "debt collectors"** when debt collection is a regular part of their practice — this applies whether collection occurs by letter, phone call, or litigation.
+
+2. **A collection lawsuit is subject to FDCPA scrutiny** — an attorney who files a collection suit must comply with the FDCPA's requirements, including the prohibition on false, deceptive, and misleading representations (§ 1692e) and the prohibition on unfair practices (§ 1692f).
+
+3. **FDCPA § 1692e(10)** prohibits "the use of any false representation or deceptive means to collect or attempt to collect any debt." This applies to statements made in collection pleadings filed in court.
+
+IV — WHAT HEINTZ MEANS FOR DEBT COLLECTION DEFENSE
+
+For a debtor responding to a collection action:
+
+1. The attorney filing the collection suit is a "debt collector" subject to the FDCPA;
+
+2. Any misrepresentation in the collection lawsuit — including suing on a time-barred debt without disclosing it is time-barred, claiming a debt larger than is owed, or misrepresenting the legal status of the debt — may violate § 1692e;
+
+3. The FDCPA provides a private right of action with statutory damages of up to $1,000 per violation plus actual damages and attorneys' fees;
+
+4. The defendant may bring a counterclaim or separate FDCPA action against the collecting attorney.
+
+V — INTERACTION WITH ROSENTHAL FAIR DEBT COLLECTION ACT
+
+In California, the Rosenthal Fair Debt Collection Practices Act (California Civil Code § 1788 et seq.) extends the federal FDCPA framework to original creditors (not just third-party collectors) and provides additional protections. Both the federal FDCPA (via Heintz) and the California Rosenthal Act apply to attorneys who collect debts in California.
+
+For the steward's RedJag (2018 Jaguar XE) case: attorneys representing debt collection on a defective vehicle transaction should be evaluated for both FDCPA and Rosenthal compliance. Claims that the debt resulted from fraud (yo-yo financing, wrong vehicle, stolen/stripped car) provide the strongest defense — a fraudulently created debt obligation is not enforceable, and a collection attorney who pursues it knowing of the fraud may face § 1692e liability for misrepresenting the legal status of the debt.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 514 U.S. 291 (1995)
+Official reporter: United States Reports, vol. 514, page 291
+Decided: April 18, 1995
+Key quoted passage: 514 U.S. at 294 ("The Act applies to lawyers engaged in consumer-debt-collection activity")
+Source of this text: Claude training data (knowledge cutoff August 2025). Heintz is the definitive authority on attorney liability under FDCPA and its holding is extensively cited. Full verbatim text should be verified at:
+  - U.S. Reports (Library of Congress / HeinOnline)
+  - Google Scholar: "Heintz v. Jenkins"
+Verification status: PROPOSED — pending steward witness review

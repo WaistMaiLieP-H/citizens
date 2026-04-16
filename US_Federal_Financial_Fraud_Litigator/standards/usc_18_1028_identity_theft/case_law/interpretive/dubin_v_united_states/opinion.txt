@@ -1,0 +1,19 @@
+DUBIN v. UNITED STATES
+599 U.S. 110 (2023)
+
+[Cross-reference: Full opinion text at US_Federal_Financial_Fraud_Litigator/standards/usc_18_1028a_aggravated_id_theft/case_law/interpretive/dubin_v_united_states/opinion.txt]
+
+This case appears in two standard folders:
+- usc_18_1028a_aggravated_id_theft — canonical location (§ 1028A mandatory consecutive sentence)
+- usc_18_1028_identity_theft — this cross-reference (§ 1028 predicate)
+
+CORE HOLDING FOR § 1028 CONTEXT:
+Dubin's "at the crux" standard clarifies when identity information use rises to the level of criminal identity theft rather than incidental use of identifying information in an unrelated fraud.
+
+For § 1028 predicate charges supporting § 1028A aggravated identity theft, the "at the crux" test determines whether the conduct crosses the line from fraud-with-incidental-ID-use to identity theft.
+
+For the steward's cases: SIM swap fraud is unambiguously "at the crux" under Dubin. The fraud consists entirely of appropriating the victim's telecom identity — assuming control of the victim's phone number, receiving the victim's communications, and impersonating the victim to all systems that use phone-based authentication. The victim's telecom identity is not incidental to the fraud; it IS the fraud.
+
+SOURCE PROVENANCE:
+See canonical opinion.txt at: usc_18_1028a_aggravated_id_theft/case_law/interpretive/dubin_v_united_states/opinion.txt
+Verification status: PROPOSED — cross-reference record

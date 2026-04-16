@@ -1,0 +1,12 @@
+{
+  "case_slug": "jewel_v_nsa",
+  "full_citation": "Jewel v. National Security Agency, 673 F.3d 902 (9th Cir. 2011)",
+  "court": "United States Court of Appeals for the Ninth Circuit",
+  "decided": "2011-12-29",
+  "holding_category": "interpretive — §2511 scope; carrier maintenance exception is narrow; standing for §2511 civil plaintiffs whose communications were intercepted; government surveillance exceptions do not create blanket exception",
+  "statute_interpreted": "18 U.S.C. §2511; §2511(2)(a)(i) carrier maintenance exception",
+  "source_url": "https://law.justia.com/cases/federal/appellate-courts/ca9/11-cv-0020/",
+  "usage_note": "Included for scope analysis and carrier exception analysis; case involves government surveillance context but analysis of §2511 exceptions applies to private party interception cases",
+  "verbatim_capture_status": "PENDING",
+  "build_date": "2026-04-11"
+}

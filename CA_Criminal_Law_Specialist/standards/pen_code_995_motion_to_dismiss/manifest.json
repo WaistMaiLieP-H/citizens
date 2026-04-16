@@ -1,0 +1,46 @@
+{
+  "standard_id": "pen_code_995_motion_to_dismiss",
+  "cite": "Pen. Code § 995",
+  "short_name": "Motion to Set Aside Indictment or Information",
+  "citizen": "CA_Criminal_Law_Specialist",
+  "layer_status": {
+    "statute_current": "COMPLETE — text.txt captured from leginfo via VernenLegal MCP 2026-04-11",
+    "context": "COMPLETE — standard, grounds, procedure, strategic use for case #7",
+    "historical_chain": "COMPLETE — 1872 origin, Uhlemann 1973, Jennings 1988, § 995a 1995, Prop 115",
+    "cross_refs": "COMPLETE — 8 cross-references",
+    "case_law": "COMPLETE — 2 California Supreme Court cases (Uhlemann 1973, Jennings 1988)",
+    "evolution_layer": "COMPLETE — 5 stages: 01_origin_1872, 02_modernization_1959, 03_current, 04_amendment_prop115_1990, 05_amendment_995a_1995",
+    "opinion_text": "NOT YET CAPTURED"
+  },
+  "five_layer_score": "4.5 / 5",
+  "cases_documented": 2,
+  "cases_placeholder": 0,
+  "case_references": [
+    {
+      "folder": "people_v_uhlemann_1973",
+      "cite": "People v. Uhlemann (1973) 9 Cal.3d 662",
+      "type": "documented",
+      "key_holding": "Superior court sits as reviewing court on § 995 motion; substantial evidence standard; no re-weighing of evidence"
+    },
+    {
+      "folder": "people_v_jennings_1988",
+      "cite": "People v. Jennings (1988) 46 Cal.3d 963",
+      "type": "documented",
+      "key_holding": "Credibility calls are binding; § 995 granted only where complete evidentiary void on an element; circumstantial evidence can support probable cause"
+    }
+  ],
+  "target_cases": [
+    "04-23-01959 (Criminal — Child Abuse, Contra Costa)"
+  ],
+  "priority": "HIGH — pre-trial motion in active criminal case",
+  "built_by": "Claude (CA_Criminal_Law_Specialist) under steward direction — Michael Hartmann",
+  "built_at_utc": "2026-04-11T00:00:00Z",
+  "version": "v0.2.0-witnessed-by-herald",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

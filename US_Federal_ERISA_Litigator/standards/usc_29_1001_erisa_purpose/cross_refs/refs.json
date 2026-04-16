@@ -1,0 +1,35 @@
+{
+  "standard": "usc_29_1001_erisa_purpose",
+  "cross_references": [
+    {
+      "cite": "29 U.S.C. § 1132",
+      "label": "ERISA Civil Enforcement",
+      "relationship": "purpose_implemented_by",
+      "note": "§ 1001 declares the policy; § 1132 is the enforcement mechanism that gives it legal force in federal court"
+    },
+    {
+      "cite": "29 U.S.C. § 1104",
+      "label": "ERISA Fiduciary Duties",
+      "relationship": "duty_derived_from",
+      "note": "§ 1001(b) mandates 'standards of conduct, responsibility, and obligation for fiduciaries'; § 1104 codifies those standards (prudent expert, diversification, loyalty)"
+    },
+    {
+      "cite": "29 U.S.C. § 1109",
+      "label": "Liability for Breach of Fiduciary Duty",
+      "relationship": "enforcement_of_purpose",
+      "note": "§ 1109 breach liability directly implements the § 1001 mandate for fiduciary standards; damages restore the plan to position it would have occupied absent the breach"
+    },
+    {
+      "cite": "29 U.S.C. § 1144",
+      "label": "ERISA Preemption",
+      "relationship": "constitutional_predicate",
+      "note": "§ 1001's Commerce Clause findings are the constitutional predicate for § 1144's broad preemption of state law related to employee benefit plans"
+    },
+    {
+      "cite": "29 U.S.C. § 1053",
+      "label": "Minimum Vesting Standards",
+      "relationship": "purpose_implemented_by",
+      "note": "§ 1001(c) calls for 'vesting the accrued benefits of employees'; § 1053 implements the specific vesting schedules"
+    }
+  ]
+}

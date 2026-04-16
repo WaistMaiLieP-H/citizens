@@ -1,0 +1,17 @@
+{
+  "standard_id": "gov_12940_feha_employment",
+  "layer": "historical_chain",
+  "subdirectory": "01_origin_1980",
+  "primary_source": "Cal. Gov. Code \u00a7 12940",
+  "enactment": "Stats. 1980, Ch. 992 (FEHA; consolidating prior fair employment statutes)",
+  "key_amendments": [
+    "1992 \u2014 disability provisions expanded to track ADA",
+    "Stats. 2021, Ch. 357 \u2014 DFEH renamed CRD (Civil Rights Department)"
+  ],
+  "current_form_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=12940.&lawCode=GOV",
+  "verified": true,
+  "fetch_method": "VernenLegal MCP california_get_section",
+  "fetch_date": "2026-04-12",
+  "key_case": "Harris v. City of Santa Monica, 56 Cal.4th 203 (2013)",
+  "chronicle_flag": false
+}

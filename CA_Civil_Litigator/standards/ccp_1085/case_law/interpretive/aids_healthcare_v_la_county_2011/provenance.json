@@ -1,0 +1,25 @@
+{
+  "case_id": "aids_healthcare_v_la_county_2011",
+  "full_citation": "AIDS Healthcare Foundation v. Los Angeles County Dept. of Public Health, 197 Cal.App.4th 693 (2011)",
+  "parallel_citations": ["128 Cal.Rptr.3d 862"],
+  "court": "Court of Appeal, Second Appellate District, Division One",
+  "decided": "2011-08-04",
+  "category": "interpretive",
+  "sources": [
+    {
+      "name": "Justia",
+      "url": "https://law.justia.com/cases/california/court-of-appeal/2011/b225831.html"
+    },
+    {
+      "name": "Casetext",
+      "url": "https://casetext.com/case/aids-healthcare-found-v-los-angeles-cnty-dept-of-pub-health"
+    },
+    {
+      "name": "Google Scholar",
+      "url": "https://scholar.google.com/scholar_case?case=8571982544498192637"
+    }
+  ],
+  "verification_status": "pending_primary_source_confirmation",
+  "filed_at_utc": "2026-04-08T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction -- Michael Hartmann, Vernen Legal Compliance"
+}

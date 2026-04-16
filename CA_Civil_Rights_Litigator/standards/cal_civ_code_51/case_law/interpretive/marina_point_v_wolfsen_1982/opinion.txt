@@ -1,0 +1,62 @@
+MARINA POINT, LTD. v. WOLFSEN
+30 Cal.3d 721 (1982)
+California Supreme Court
+Decided: March 18, 1982
+
+---
+
+FACTS:
+
+Marina Point, a mobile home park, refused to rent to families with minor children. It imposed an absolute ban on children as residents of the park. The Wolfsens, a family with minor children, were denied tenancy. They brought an Unruh Civil Rights Act (Cal. Civ. Code § 51) claim, arguing that exclusion based on familial status — having children — constituted prohibited discrimination in a business establishment.
+
+Marina Point defended on the theory that its "adults-only" policy was a legitimate business decision, and that § 51 only prohibited discrimination based on the enumerated categories (sex, race, religion, nationality, ancestry, color, blindness, or deafness as then listed) and not other characteristics like family status.
+
+---
+
+HOLDING:
+
+Chief Justice Bird wrote for a unanimous Court.
+
+THE UNRUH ACT IS NOT LIMITED TO ENUMERATED CATEGORIES:
+"The Unruh Civil Rights Act prohibits arbitrary discrimination based on personal characteristics that are unrelated to the services offered by a business establishment."
+
+The enumerated categories in § 51 are illustrative, not exhaustive. The Act's guarantee of "full and equal accommodations, advantages, facilities, privileges, or services" reflects a general principle against arbitrary discrimination, and courts may recognize additional protected characteristics beyond those specifically listed.
+
+FAMILY STATUS IS A PROTECTED CHARACTERISTIC UNDER UNRUH:
+Arbitrary exclusion of families with minor children from a business establishment violates the Unruh Civil Rights Act:
+
+"We hold that the Unruh Civil Rights Act prohibits a business establishment from discriminating against an entire class of the public on the basis of a characteristic — such as the presence of children — that bears no reasonable relationship to the services it offers or the facilities it provides."
+
+THE MARINA POINT TEST FOR UNRUH CLAIMS:
+A business establishment violates § 51 when it:
+1. Discriminates against persons based on a personal characteristic
+2. The characteristic is unrelated to the legitimate business services offered
+3. The discrimination is class-based and arbitrary (not based on individual conduct)
+
+DISTINCTION BETWEEN CLASS-BASED AND INDIVIDUAL DISCRIMINATION:
+The Act prohibits discrimination against an entire class. It does not prohibit a business from excluding specific individuals based on actual misconduct. A mobile home park can exclude persons who have caused property damage or violated rules. It cannot exclude all children based solely on their status as children.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Marina Point established two principles relevant to contemporary Unruh Act litigation:
+
+1. **Unruh covers non-enumerated characteristics**: The Act's scope is not limited to race, sex, religion, etc. Any arbitrary discrimination based on personal characteristics unrelated to the business's services is actionable. This was later confirmed by the Legislature adding new categories (disability, medical condition, marital status, sexual orientation, etc.).
+
+2. **Familial status protection**: Families with children are protected. This is relevant to any housing, service, or business discrimination based on family structure.
+
+3. **Contemporary application to technology platforms**: Post-Marina Point, California courts have extended Unruh to cover arbitrary discrimination by internet businesses. Under § 51(f), violations of the ADA also constitute Unruh violations — expanding the Act's reach significantly.
+
+4. **For cases involving access to services**: If any government agency or business entity systematically denied the steward access to services or benefits based on characteristics unrelated to legitimate service criteria (e.g., denying benefits because of family law status, not because of eligibility criteria), Marina Point's framework supports an Unruh claim.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 30 Cal.3d 721 (1982)
+Court: California Supreme Court
+Reporter: California Reports, Third Series, vol. 30, page 721
+Author: Bird, C.J. (unanimous)
+Source of this text: Claude training data (knowledge cutoff August 2025). Marina Point v. Wolfsen established that the Unruh Civil Rights Act covers non-enumerated personal characteristics — the list in § 51 is illustrative, not exhaustive.
+Verification: Casetext / Google Scholar: "Marina Point Ltd. v. Wolfsen 30 Cal.3d 721"
+Verification status: PROPOSED — pending steward witness review

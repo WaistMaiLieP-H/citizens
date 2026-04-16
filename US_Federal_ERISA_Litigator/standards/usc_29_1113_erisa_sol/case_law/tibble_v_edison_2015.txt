@@ -1,0 +1,12 @@
+Tibble v. Edison International
+575 U.S. 523 (2015)
+United States Supreme Court, 2015
+
+FACTS:
+Plan participants sued under § 1132(a)(2) for fiduciary breach, alleging that plan trustees maintained imprudent investment options in a 401(k) plan for years. The district court dismissed some claims as time-barred under § 1113's six-year period. The question was whether the six-year period ran from when the imprudent investments were first selected or from each ongoing failure to remove them.
+
+HOLDING — 29 U.S.C. § 1113:
+The Supreme Court held that ERISA imposes a continuing duty on plan fiduciaries to monitor investments. Each failure to remove an imprudent investment constitutes a new breach — giving rise to a new six-year limitations period from each new act (or omission) of breach. The statute of limitations does not run from the original selection of the investment if the fiduciary had an ongoing obligation to review and correct.
+
+SIGNIFICANCE:
+The continuing-duty doctrine extends § 1113's reach significantly for ongoing fiduciary failures. For pension plans with ongoing administrative failures (e.g., continuous miscalculation of service hours, ongoing failure to credit properly documented accruals, sustained suppression of benefit statements), each recurring failure is a new breach with its own six-year period. A claim is not automatically time-barred simply because the root problem began more than six years ago.

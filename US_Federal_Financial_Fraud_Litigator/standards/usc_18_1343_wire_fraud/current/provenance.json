@@ -1,0 +1,15 @@
+{
+  "document": "18 USC §1343 (Wire Fraud)",
+  "source_type": "federal_statute",
+  "primary_source_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1343&edition=prelim",
+  "companion_statute": "18 USC §1341 (Mail Fraud) — identical structure, different transmission medium",
+  "current_as_of": "2026-04-11",
+  "last_significant_amendment": "1988 — added 'affecting a financial institution' enhanced penalty; companion §1346 enacted same year to restore honest services",
+  "prior_significant_amendment": "1956 — television added to wire communications covered",
+  "fetch_method": "WebFetch — uscode.house.gov official source",
+  "fetch_timestamp_utc": "2026-04-11T00:00:00Z",
+  "retrieval_steward": "Claude (assistant) under direction of Michael Hartmann",
+  "verbatim_capture_status": "MAIN-TEXT-COMPLETE — enhanced penalty clause (disaster/financial institution) requires independent verification against uscode.house.gov before filing",
+  "txt_sha256": "64cb320d2d059488a4c58735660def437f631ab9afe6608030a69a6209c6d121",
+  "build_date": "2026-04-11"
+}

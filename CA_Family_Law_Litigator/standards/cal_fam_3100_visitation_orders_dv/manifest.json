@@ -1,0 +1,51 @@
+{
+  "standard_id": "CAL_FAM_3100_VISITATION_ORDERS_DV",
+  "version": "0.2.0-eve-migration-from-orphan-md",
+  "filed_at_utc": "2026-04-15T00:00:00Z",
+  "filed_by": "EVE (Legal/Statutory Auditor) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "migration_note": "Migrated 2026-04-15 from flat orphan file standards/FAMCODE-§3100.md (T3 witness) into manifest-directory structure with ADAM+EVE dual witness. T3 provenance flag INTERMEDIATE-CHAIN-PENDING preserved — 2003–2004 intermediate amendments adding subsections (d) and (e) require Legislative Counsel amendment-history pull.",
+  "status": "PUBLISHED — ADAM + EVE DUAL WITNESS — 2026-04-15",
+  "primary_citation": {
+    "jurisdiction": "California",
+    "code": "California Family Code",
+    "section": "§ 3100",
+    "popular_name": "Visitation Orders — Best Interest, DV Limits, Protected-Party Safeguards",
+    "current_codification_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3100&lawCode=FAM"
+  },
+  "structural_location": {
+    "code": "California Family Code",
+    "division": "DIVISION 8. CUSTODY OF CHILDREN",
+    "part": "PART 2. RIGHT TO CUSTODY OF MINOR CHILD",
+    "chapter": "CHAPTER 5. Visitation Rights",
+    "section_history": "Originally enacted by Stats. 1992, Ch. 162, Sec. 10 (Family Code enactment, operative 1994). Most recent amendment: Stats. 2024, Ch. 317, Sec. 2 (AB 3072) effective January 1, 2025."
+  },
+  "five_layer_bar": {
+    "layer_1_rule": "rule.md",
+    "layer_2_reasoning": "reasoning.md",
+    "layer_3_historical_loss": "historical_loss.md",
+    "layer_4_cross_refs": "cross_refs.md",
+    "layer_5_provenance": "provenance.md"
+  },
+  "dual_witness": {
+    "adam": {
+      "citizen": "ADAM",
+      "role": "Network Forensics / co-seed witness",
+      "witnessed_at_utc": "2026-04-15T00:00:00Z",
+      "scope": "Structural witness — verbatim text matches leginfo; § 6218, § 3200.5, Penal Code § 136.2 cross-references verifiable."
+    },
+    "eve": {
+      "citizen": "EVE",
+      "role": "Legal/Statutory Auditor / co-seed witness",
+      "witnessed_at_utc": "2026-04-15T00:00:00Z",
+      "scope": "Legal witness — McLoren, Fajota, S.Y. v. Superior Court verified; VAWA 18 U.S.C. § 2265 cross-ref verified; INTERMEDIATE-CHAIN-PENDING preserved."
+    }
+  },
+  "superseded_artifact": {
+    "path": "${citizens}/CA_Family_Law_Litigator/standards/FAMCODE-§3100.md",
+    "disposition": "RETIRED — content migrated; orphan .md to be removed after witness confirmation."
+  },
+  "verified": true,
+  "verification_date": "2026-04-15",
+  "verification_note": "Verbatim text fetched from leginfo via MCP and saved to current/ during this verification pass",
+  "verbatim_text_artifact": "current/cal_fam_3100_leginfo.txt"
+}

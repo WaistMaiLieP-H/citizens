@@ -1,0 +1,86 @@
+{
+  "standard_id": "CIV_3294_PUNITIVE_DAMAGES",
+  "citizen": "CA_Medical_Malpractice_Litigator",
+  "version": "1.0.0",
+  "status": "PROPOSED",
+  "primary_citation": "Cal. Civil Code §3294 (Stats. 1987, Ch. 1498, effective Jan. 1, 1988)",
+  "short_title": "Civil Code §3294 — Punitive Damages: Malice, Oppression, and Fraud; Employer Liability",
+  "one_line_rule": "Punitive damages require clear and convincing proof of malice, oppression, or fraud as defined by §3294(c); corporate employer liability requires advance knowledge, authorization/ratification, or personal guilt on the part of an officer, director, or managing agent.",
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current/LOGIC.md",
+    "reasoning": "PRESENT — current/LOGIC.md §§ WOUND + DESIGN + §3294 analysis + spine surgery + SIRVA application",
+    "historical_loss": "PRESENT — historical_chain.md + evolution/ (3 stages)",
+    "cross_references": "PRESENT — cross_refs/refs.json (5 references — full MICRA lattice)",
+    "verifiable_provenance": "PRESENT — current/provenance.json + evolution provenances; verbatim text capture PENDING"
+  },
+  "evolution_chain": [
+    {
+      "stage": "01_origin_1872",
+      "label": "Field Code Codification — Common Law Terms, No Definitions",
+      "source": "Cal. Civil Code §3294 (1872)",
+      "logic_file": "evolution/01_origin_1872/LOGIC.md"
+    },
+    {
+      "stage": "02_micra_1975_gate",
+      "label": "MICRA — §425.13 Gate Added; §3294 Substantive Unchanged",
+      "source": "Stats. 1975, Ch. 1, §2 (Second Extraordinary Session)",
+      "logic_file": "evolution/02_micra_1975_gate/LOGIC.md"
+    },
+    {
+      "stage": "03_1987_amendment_employer_liability",
+      "label": "1987 Amendment — Definitions + Employer Liability Limitation",
+      "source": "Stats. 1987, Ch. 1498 (AB 3601)",
+      "logic_file": "evolution/03_1987_amendment_employer_liability/LOGIC.md"
+    }
+  ],
+  "case_law": [
+    {
+      "slug": "taylor_v_superior_court",
+      "cite": "Taylor v. Superior Court, 24 Cal.3d 890 (1979)",
+      "court": "Supreme Court of California",
+      "category": "foundational",
+      "key_rule": "Conscious disregard malice: prior pattern of known dangerous conduct + subjective awareness of high probability of injury + willingness to proceed = §3294 malice. Pattern evidence of prior incidents is admissible to establish subjective awareness.",
+      "verbatim_capture_status": "PENDING"
+    },
+    {
+      "slug": "weeks_v_baker_and_mckenzie",
+      "cite": "Weeks v. Baker & McKenzie, 63 Cal.App.4th 1128 (1998)",
+      "court": "Court of Appeal of California, First Appellate District",
+      "category": "interpretive",
+      "key_rule": "Managing agent under §3294(b) means employee with substantial discretionary authority over decisions that determine corporate policy — not merely supervisory authority. Ratification by managing agent can occur post-conduct through knowing approval or acquiescence.",
+      "verbatim_capture_status": "PENDING"
+    },
+    {
+      "slug": "college_hospital_inc_v_superior_court",
+      "cite": "College Hospital Inc. v. Superior Court, 8 Cal.4th 704 (1994)",
+      "court": "Supreme Court of California",
+      "category": "interpretive",
+      "key_rule": "Defines 'despicable' conduct under the post-1987 §3294: conduct so vile, base, contemptible, miserable, wretched or loathsome that ordinary decent people would despise it. Both malice §3294(c)(1) and oppression §3294(c)(2) require this threshold. Also governs §425.13 / §3295 procedural sequence for healthcare defendants.",
+      "verbatim_capture_status": "PENDING"
+    }
+  ],
+  "medical_malpractice_application": {
+    "three_paths_to_corporate_liability": [
+      "Advance knowledge of physician/staff unfitness (prior complaints, peer review findings) + conscious disregard = §3294(b)(1)",
+      "Medical director, department chair, or risk management decision to continue employing or credentialing after knowledge of misconduct = ratification by managing agent = §3294(b)(2)",
+      "Hospital policy or protocol itself constitutes malice/oppression/fraud = personally guilty path = §3294(b)(3)"
+    ],
+    "spine_surgery_fraud_theory": "If surgeon performed surgery with no genuine medical indication (fraud under §3294(c)(3)) and hospital credentialing/risk management knew or ratified, §3294 punitive damages available against both surgeon and hospital",
+    "sirva_theory": "Provider who used improper injection technique after prior SIRVA outcomes = Taylor-pattern conscious disregard malice under §3294(c)(1) despicable + conscious disregard prong",
+    "financial_condition_discovery": "§3295(a)-(b): before trial, punitive damages plaintiff may obtain discovery of defendant's financial condition only after court authorization on good cause showing; at trial, jury considers financial condition in determining punitive amount",
+    "clear_and_convincing_standard": "Higher than preponderance; lower than reasonable doubt; jury must be 'firmly convinced' that clear and convincing evidence establishes malice/oppression/fraud",
+    "bifurcation": "§3295(d): on defendant's motion, trial bifurcated: liability and compensatory damages tried first; if plaintiff prevails, financial condition evidence introduced in second phase"
+  },
+  "outstanding_work": [
+    "Verbatim text capture: Cal. Civil Code §3294(a), §3294(b), §3294(c)(1)-(3)",
+    "Verbatim text capture: Cal. Civil Code §3295(a)-(d) (financial condition discovery + bifurcation)",
+    "Verbatim opinion capture: Taylor v. Superior Court, 24 Cal.3d 890",
+    "Verbatim opinion capture: Weeks v. Baker & McKenzie, 63 Cal.App.4th 1128",
+    "College Hospital Inc. v. Superior Court BUILT 2026-04-11 — three-file set complete (holding, provenance, statute_version_cited)",
+    "Verify exact amended §3333.2 noneconomic cap amounts (2023 increase and schedule) for cross-reference accuracy",
+    "Second-mouth witness review of §3294(b) employer liability analysis applied to hospital and surgeon fact pattern"
+  ],
+  "micra_lattice_position": "§3294 is the substantive punitive damages standard; §425.13 is the procedural gateway; §3333.2 noneconomic cap does not apply to punitive damages; §340.5 controls underlying SOL (Hrimnak escape available for intentional conduct)",
+  "build_date": "2026-04-11",
+  "built_by": "Terminal A"
+}

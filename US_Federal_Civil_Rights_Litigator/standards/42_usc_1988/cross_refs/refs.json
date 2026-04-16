@@ -1,0 +1,24 @@
+{
+  "standard_id": "42_USC_1988",
+  "cross_references": [
+    {
+      "target_standard": "42_USC_1983",
+      "relationship": "primary enforcement target — §1988(b) awards fees to prevailing plaintiffs in §1983 actions; without §1988, most §1983 claims would be economically unviable",
+      "target_citizen": "US_Federal_Civil_Rights_Litigator",
+      "target_manifest": "${citizens}/US_Federal_Civil_Rights_Litigator/standards/42_usc_1983/manifest.json",
+      "build_status": "BUILT"
+    },
+    {
+      "target_standard": "42_USC_1985_3",
+      "relationship": "listed in §1988(b)'s enumerated statutes — prevailing parties in §1985 actions can recover fees under §1988",
+      "target_citizen": "US_Federal_Civil_Rights_Litigator",
+      "target_manifest": "${citizens}/US_Federal_Civil_Rights_Litigator/standards/42_usc_1985_3/manifest.json",
+      "build_status": "BUILT"
+    },
+    {
+      "target_standard": "42_USC_1981",
+      "relationship": "listed in §1988(b) — equal rights under the law (Civil Rights Act of 1866); also qualifies for expert fees under §1988(c)",
+      "build_status": "NOT BUILT AS STANDALONE STANDARD — §1981 is on the future build queue. Not yet in the corpus."
+    }
+  ]
+}

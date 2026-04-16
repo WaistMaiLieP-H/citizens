@@ -1,0 +1,39 @@
+{
+  "standard_id": "ada_12112_title_i_employment",
+  "citizen": "CA_Disability_Rights_Litigator",
+  "build_date": "2026-04-13",
+  "cross_references": [
+    {
+      "ref_id": "XREF-ADA12112-001",
+      "target_citizen": "CA_Disability_Rights_Litigator",
+      "target_standard": "feha_disability_accommodation",
+      "path": "${citizens}/CA_Disability_Rights_Litigator/standards/feha_disability_accommodation/",
+      "relationship": "parallel",
+      "note": "ADA Title I (15+ employees) runs parallel to FEHA §12940 (5+ employees). Always plead both. FEHA offers broader coverage (5-employee threshold; substantial motivating reason causation; 3-year SOL); ADA triggers Unruh per se ($4,000 minimum). ADA violation = per se CIV §51 violation under §51(f)."
+    },
+    {
+      "ref_id": "XREF-ADA12112-002",
+      "target_citizen": "CA_Disability_Rights_Litigator",
+      "target_standard": "civ_51_unruh_civil_rights_act",
+      "path": "${citizens}/CA_Disability_Rights_Litigator/standards/civ_51_unruh_civil_rights_act/",
+      "relationship": "concurrent",
+      "note": "ADA Title I violation is per se CIV §51 violation under §51(f). Each ADA employment discrimination offense → $4,000 minimum statutory damages under CIV §52. No separate California analysis required."
+    },
+    {
+      "ref_id": "XREF-ADA12112-003",
+      "target_citizen": "CA_Labor_Employment_Litigator",
+      "target_standard": "gov_12940_feha_employment",
+      "path": "${citizens}/CA_Labor_Employment_Litigator/standards/gov_12940_feha_employment/",
+      "relationship": "parallel",
+      "note": "CA_Labor_Employment_Litigator owns the FEHA employment discrimination and retaliation track. ADA Title I and FEHA §12940 are parallel tracks — coordinate to ensure both are pled in employment disability cases."
+    },
+    {
+      "ref_id": "XREF-ADA12112-004",
+      "target_citizen": "CA_Workers_Compensation_Litigator",
+      "target_standard": "lab_4600_medical_treatment_entitlement",
+      "path": "${citizens}/CA_Workers_Compensation_Litigator/standards/lab_4600_medical_treatment_entitlement/",
+      "relationship": "parallel",
+      "note": "Industrial injury creates both WC entitlement (WCAB track) and ADA Title I accommodation obligation (civil court track). WCAB exclusive jurisdiction does not preempt ADA Title I. The disability caused by the industrial injury is the impairment triggering the ADA accommodation duty."
+    }
+  ]
+}

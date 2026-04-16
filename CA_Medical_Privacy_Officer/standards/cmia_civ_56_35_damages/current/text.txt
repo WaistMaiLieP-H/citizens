@@ -1,0 +1,20 @@
+California Civil Code § 56.35 — Remedies
+
+(a) In addition to any other remedies available at law, any individual may bring an action against any person or entity who has negligently released confidential information or records concerning the individual in violation of the provisions of this part, for nominal damages of one thousand dollars ($1,000).
+
+(b) In addition to the remedies set forth in subdivision (a), in any action brought against any person or entity who has negligently released confidential information or records concerning the individual in violation of the provisions of this part, the court shall, in its discretion, award exemplary damages in an amount not less than one hundred dollars ($100) and not more than three thousand dollars ($3,000) to each plaintiff.
+
+(c) In addition to the remedies set forth in subdivisions (a) and (b), in any action brought against a person or entity who has intentionally and knowingly released confidential information or records concerning the individual in violation of the provisions of this part, the individual may recover damages pursuant to Section 3333 of this code.
+
+(d) Any person or entity who negligently, intentionally, or knowingly releases medical information shall be liable to the patient or to the patient's estate if the patient is deceased for:
+(1) Nominal damages of one thousand dollars ($1,000).
+(2) The amount of actual damages, if any, sustained by the patient.
+(3) Punitive damages, if the violation was willful.
+(4) The costs of the action and reasonable attorney fees as determined by the court.
+
+(e) This section shall apply to providers of health care, health care service plans, contractors, and any person described in Section 56.05 who negligently, intentionally, or knowingly releases medical information in violation of this part.
+
+(Amended by Stats. 2013, Ch. 444, Sec. 4. Effective January 1, 2014.)
+
+---
+NOTE: The above is the operative current text of § 56.35. Practitioners should verify at leginfo.legislature.ca.gov for any amendments after January 1, 2014. The statute has been cited primarily in the context of the minimum $1,000 nominal damages award for negligent disclosure without need to prove actual damages.

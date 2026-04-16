@@ -1,0 +1,12 @@
+{
+  "stage": "03_amendment_2001_patriot_act",
+  "sources": [
+    "USA PATRIOT Act, Pub. L. 107-56, §814, 115 Stat. 384 (Oct. 26, 2001) — expanded damage/loss definitions; increased penalties",
+    "Van Buren v. United States, 593 U.S. 374 (2021) — judicial narrowing of 'exceeds authorized access' to gate-up/gate-down access scope, not purpose-based misuse"
+  ],
+  "wound_addressed": "Post-9/11: coordinated cyberattacks on critical infrastructure; loss without system impairment gap in civil action; purpose-based 'exceeds authorized access' created circuit split",
+  "design": "PATRIOT Act expanded loss definition + aggregation; Van Buren resolved circuit split by narrowing 'exceeds authorized access' to file/system scope (not purpose misuse)",
+  "key_post_van_buren_rule": "SIM swap / 'without authorization' attacks unaffected by Van Buren narrowing; 'exceeds authorized access' narrowing applies only to authorized users accessing files outside their permission scope",
+  "verbatim_capture_status": "PENDING",
+  "build_date": "2026-04-11"
+}

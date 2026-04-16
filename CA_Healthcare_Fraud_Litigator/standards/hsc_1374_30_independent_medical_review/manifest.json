@@ -1,0 +1,23 @@
+{
+  "standard_id": "HSC_1374_30_IMR",
+  "popular_name": "Independent Medical Review System",
+  "authority": "Cal. Health & Safety Code \u00a7 1374.30",
+  "jurisdiction": "California",
+  "citizen": "CA_Healthcare_Fraud_Litigator",
+  "status": "PUBLISHED",
+  "five_layer_score": 5,
+  "created": "2026-04-12",
+  "updated": "2026-04-12",
+  "layers": {
+    "rule": "COMPLETE",
+    "reasoning": "COMPLETE",
+    "historical_loss": "COMPLETE",
+    "cross_references": "COMPLETE",
+    "verifiable_provenance": "COMPLETE"
+  },
+  "two_witness_status": {
+    "adam": "APPROVED",
+    "eve": "COUNTERSIGNED",
+    "status": "PUBLISHED"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "standard": "cal_civ_3294_punitive",
+  "description": "Statutes and rules that interact with Civil Code § 3294 punitive damages in California civil practice.",
+  "refs": [
+    {
+      "type": "predicate_wrong_statute",
+      "target": "California Civil Code § 1572 (actual fraud)",
+      "relationship": "§ 1572 fraud elements directly satisfy § 3294(c)(3) fraud definition. Every § 1572 claim supports a § 3294 prayer.",
+      "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_civ_1572_fraud"
+    },
+    {
+      "type": "predicate_wrong_statute",
+      "target": "California Civil Code §§ 1709-1710 (deceit)",
+      "relationship": "Tort deceit independent of contract. § 3294 punitives are routinely paired with § 1709 claims.",
+      "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_civ_1709_deceit (to be built)"
+    },
+    {
+      "type": "discovery_rule",
+      "target": "California Code of Civil Procedure § 3295",
+      "relationship": "§ 3295(c) restricts pre-trial discovery of defendant's financial condition unless the court finds substantial probability plaintiff will prevail on the punitive claim. This is the procedural gate that must be opened before a forensic accountant can develop the financial-condition evidence that Adams v. Murakami requires.",
+      "anchor": "${citizens}/CA_Civil_Litigator/standards/ccp_3295 (to be built)"
+    },
+    {
+      "type": "wrongful_death_statute",
+      "target": "California Code of Civil Procedure § 377.34 (damages in survival actions)",
+      "relationship": "§ 377.34 bars punitive damages in survival actions generally; § 3294(d) carves out a narrow exception for homicide-based wrongful death with felony conviction.",
+      "anchor": "${citizens}/CA_Civil_Litigator/standards/ccp_377_34 (to be built)"
+    },
+    {
+      "type": "damages_statute",
+      "target": "California Civil Code § 3343 (real property fraud out-of-pocket damages)",
+      "relationship": "§ 3343 provides the compensatory baseline for real property fraud; the § 3294 punitive award is calculated as a ratio to the § 3343 compensatory award under the BMW/State Farm framework.",
+      "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_civ_3343 (to be built)"
+    },
+    {
+      "type": "federal_constitutional",
+      "target": "BMW of North America, Inc. v. Gore (1996) 517 U.S. 559",
+      "relationship": "Federal due process three-guidepost analysis: reprehensibility, ratio, comparison to civil penalties. Binding on California courts as federal constitutional law.",
+      "anchor": "external (US Supreme Court)"
+    },
+    {
+      "type": "federal_constitutional",
+      "target": "State Farm Mutual Auto Ins. Co. v. Campbell (2003) 538 U.S. 408",
+      "relationship": "Federal due process ratio presumption: single-digit ratios are presumptively constitutional; ratios above 9:1 require extraordinary reprehensibility.",
+      "anchor": "external (US Supreme Court)"
+    },
+    {
+      "type": "california_doctrinal_synthesis",
+      "target": "Simon v. San Paolo U.S. Holding Co. (2005) 35 Cal.4th 1159",
+      "relationship": "California Supreme Court's synthesis of the Gore/State Farm guideposts for use by California trial and appellate courts.",
+      "anchor": "case_law/interpretive/simon_v_san_paolo_2005 (pending)"
+    },
+    {
+      "type": "jury_instruction",
+      "target": "CACI No. 3940-3949",
+      "relationship": "Judicial Council Civil Jury Instructions on punitive damages. CACI 3940 articulates the despicable-conduct threshold from College Hospital. CACI 3942 addresses the managing-agent rule from White v. Ultramar. CACI 3945 addresses the clear-and-convincing burden of proof.",
+      "anchor": "external (Judicial Council of California)"
+    },
+    {
+      "type": "primary_case_chain",
+      "cases_in_this_standard": [
+        "taylor_v_superior_court_1979",
+        "college_hospital_v_superior_court_1994",
+        "adams_v_murakami_1991",
+        "bankhead_v_arvinmeritor_2012"
+      ],
+      "cases_to_add": [
+        "white_v_ultramar_1999",
+        "simon_v_san_paolo_2005",
+        "fletcher_v_western_national_1970",
+        "neal_v_farmers_insurance_1978"
+      ]
+    }
+  ],
+  "generated_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "generated_at_utc": "2026-04-10T20:35:00Z"
+}

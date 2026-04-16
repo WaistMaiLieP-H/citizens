@@ -1,0 +1,67 @@
+CARLSON v. GREEN
+446 U.S. 14 (1980)
+United States Supreme Court
+Decided: April 22, 1980
+
+---
+
+FACTS:
+
+Marie Green, as administratrix of the estate of Joseph Jones Jr., filed suit against federal prison officials. Jones, a federal prisoner, died from asthma attacks allegedly caused by the prison's failure to provide adequate medical care in violation of the Eighth Amendment. His estate brought a Bivens action against the officials in their individual capacities for damages, and also brought a suit under the Federal Tort Claims Act (FTCA).
+
+The threshold questions: (1) Does Bivens recognize a cause of action for Eighth Amendment violations (deliberate indifference to serious medical needs) by federal prison officials? (2) Does the existence of an FTCA remedy preclude a Bivens claim?
+
+---
+
+HOLDING:
+
+Justice Brennan wrote for the Court (5-4).
+
+BIVENS EXTENDS TO THE EIGHTH AMENDMENT:
+"[A] damages remedy for an Eighth Amendment violation directly under the Constitution is available to victims of abuse by federal officials." Carlson extended the Bivens implied cause of action to the Eighth Amendment — deliberate indifference to serious medical needs of federal prisoners.
+
+THE THREE CARLSON BIVENS CONTEXTS (as of 1980):
+After Bivens (1971, Fourth Amendment), Davis (1979, Fifth Amendment equal protection), and Carlson (1980, Eighth Amendment), the recognized Bivens causes of action were:
+1. Fourth Amendment — unreasonable search and seizure by federal officers
+2. Fifth Amendment — sex discrimination in federal employment without Title VII remedy
+3. Eighth Amendment — deliberate indifference to serious medical needs by federal prison officials
+
+NOTE: No Supreme Court case since Carlson has recognized a new Bivens context.
+
+FTCA DOES NOT PRECLUDE BIVENS:
+"[T]he Bivens remedy and the FTCA remedy are parallel, but independent, rights to sue the Government and its officers for constitutional and statutory violations."
+
+The FTCA provides a remedy against the United States itself. Bivens provides a remedy against individual federal officers personally. They serve different purposes and neither precludes the other.
+
+However, the two cannot be combined: a plaintiff cannot recover twice for the same injury. Election of remedies at some point may be required.
+
+---
+
+THE ZIGLAR NARROWING (Carlson's subsequent status):
+Carlson remains good law as one of the three recognized Bivens contexts. But Ziglar v. Abbasi (2017) and Egbert v. Boule (2022) have severely restricted the doctrine:
+- Courts must refuse to recognize new Bivens contexts
+- Even minor factual differences from the three recognized contexts can result in the claim being categorized as a "new context" — and therefore refused
+- The three recognized contexts (Bivens/Davis/Carlson) remain viable; extensions are essentially foreclosed
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+1. **Federal prison medical care**: For any claim involving federal prisoner treatment, Carlson is the operative Bivens context.
+
+2. **Federal facility deliberate indifference**: The Carlson/Eighth Amendment context may apply to deliberate indifference claims outside the prison context if a person is in federal custody or under federal control in a residential facility.
+
+3. **The FTCA parallel**: For any federal-agency-related wrongdoing, both Bivens (against individual officers) and FTCA (against the United States) should be considered together. The FTCA requires administrative exhaustion; Bivens does not. Filing both in parallel maximizes recovery options.
+
+4. **Strategic note for SSA/DDS claims**: SSA is a federal agency. Claims against SSA employees for deliberate manipulation of disability determinations may invoke both Bivens (individual officers) and FTCA (the United States), subject to the new-context restriction post-Egbert.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 446 U.S. 14 (1980)
+Court: United States Supreme Court
+Reporter: United States Reports, vol. 446, page 14
+Author: Brennan, J. (5-4)
+Source of this text: Claude training data (knowledge cutoff August 2025). Carlson v. Green extended Bivens to Eighth Amendment deliberate indifference claims against federal prison officials — completing the three recognized Bivens contexts (4th, 5th, 8th Amendments). No new contexts have been recognized since.
+Verification: CourtListener / Justia / Google Scholar: "Carlson v. Green 446 U.S. 14"
+Verification status: PROPOSED — pending steward witness review

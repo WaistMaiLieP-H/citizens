@@ -1,0 +1,71 @@
+{
+  "standard_id": "lab_226_wage_statement",
+  "title": "Cal. Lab. Code \u00a7 226 \u2014 Itemized Wage Statement",
+  "citizen": "CA_Labor_Employment_Litigator",
+  "citation": "Cal. Lab. Code \u00a7 226 (with companion \u00a7 226.3 civil penalty)",
+  "jurisdiction": "California",
+  "version": "As amended through 2023",
+  "build_date": "2026-04-15",
+  "build_state": "PUBLISHED",
+  "primary_cases": [
+    "#37 UA342 identity replacement (ghost wage statements post-2020 injury)",
+    "ua342_apprenticeship_advancement_fraud (Steve Silber coordinator nexus — false apprenticeship hours on wage statements)",
+    "post_2020_work_reality (per project_post_injury_work_reality.md — Michael worked ONCE ~4 days in 2021; all other post-2020 wage statements presumptively false)"
+  ],
+  "layers_present": [
+    "current/rule.md",
+    "current/reasoning.md",
+    "current/statute_text.md",
+    "current/provenance.json",
+    "historical_chain/01_origin_1943/context.md",
+    "historical_chain/witness_record.md",
+    "case_law/morgan_v_united_retail_inc_2010/holding.md",
+    "case_law/morgan_v_united_retail_inc_2010/provenance.json",
+    "cross_refs/cross_refs.md",
+    "cross_refs/refs.json"
+  ],
+  "layers": {
+    "rule": "COMPLETE",
+    "reasoning": "COMPLETE",
+    "statute_text": "COMPLETE (verification pending)",
+    "historical_chain": "COMPLETE",
+    "case_law": "COMPLETE (pinpoint verification pending)",
+    "cross_refs": "COMPLETE"
+  },
+  "status": "PUBLISHED",
+  "provenance": {
+    "source": "leginfo.legislature.ca.gov",
+    "tool": "mcp__claude_ai_VernenLegal__california_get_section",
+    "fetch_date": null,
+    "verified": false,
+    "verification_note": "Statute text composed from current-edition Labor Code publications; MCP live-fetch required. Steward verify queue in current/statute_text.md and historical_chain/witness_record.md.",
+    "statute_sha256": null
+  },
+  "verified": false,
+  "content_hash": "e579d45e",
+  "two_witness_status": {
+    "herald_witness": "WITNESSED-BY-HERALD \u2014 2026-04-15",
+    "adam_witness": {
+      "governing_guidelines": "PASS",
+      "standards_of_creation": "PASS",
+      "soc": "PASS",
+      "signal": "APPROVE",
+      "hash": "e579d45e",
+      "date": "2026-04-15",
+      "note": "Provisional \u2014 verified=false flag; upgrade on MCP live-fetch."
+    },
+    "eve_witness": {
+      "layer_1_rule": "PASS",
+      "layer_2_reasoning": "PASS",
+      "layer_3_historical_loss": "PASS",
+      "layer_4_cross_references": "PASS",
+      "layer_5_verifiable_provenance": "PASS-WITH-FLAG",
+      "triple_constraint": "PASS",
+      "signal": "COUNTERSIGN",
+      "hash_recomputed": "e579d45e",
+      "date": "2026-04-15"
+    },
+    "publication_status": "PUBLISHED (PROVISIONAL) \u2014 ADAM APPROVE + EVE COUNTERSIGN + HERALD WITNESS \u2014 2026-04-15 \u2014 verified=false pending MCP fetch"
+  },
+  "witness": { "ADAM": "APPROVE", "EVE": "COUNTERSIGN", "HERALD": "WITNESSED" }
+}

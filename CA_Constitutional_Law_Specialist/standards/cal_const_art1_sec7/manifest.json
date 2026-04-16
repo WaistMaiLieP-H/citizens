@@ -1,0 +1,74 @@
+{
+  "standard_id": "CA_CONST_ART_I_SEC_7",
+  "version": "0.2.0-evolution-built",
+  "status": "PROPOSED — evolution chain complete (4 stages), 1 case, provenance tracked",
+  "primary_citation": {
+    "code": "California Constitution",
+    "section": "Article I, Section 7",
+    "popular_name": "Due Process and Equal Protection",
+    "jurisdiction": "California",
+    "current_codification_url": "https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?lawCode=CONS&division=&title=&part=&chapter=&article=I"
+  },
+  "key_holding": "No person may be deprived of life, liberty, or property without due process of law or denied equal protection. No citizen may be granted privileges or immunities not granted on the same terms to all citizens. The busing limitation (Prop. 1 of 1979) constrains equal protection ONLY for pupil assignment; all other due process and equal protection guarantees are fully independent of federal interpretation.",
+  "hashes": {
+    "current_text_sha256": "bd475537413bd560d72dbbe65ae20b9ce3422aaccf1d01ffbe8487646fa8cff9"
+  },
+  "evolution_chain": [
+    {"stage": "01_origin_1849", "section": "Art. I §8 (1849 Constitution)", "event": "Due process bundled with double jeopardy, self-incrimination, and takings. Copied from 5th Amendment.", "source": "supremelaw.org transcription of 1849 Constitution"},
+    {"stage": "02_revision_1879", "section": "Art. I §13 (1879 Constitution)", "event": "Takings clause separated out. Due process renumbered but substantively unchanged.", "source": "Wikisource transcription of 1879 Constitution"},
+    {"stage": "03_revision_1974_prop7", "section": "Art. I §7 (Prop. 7, 1974)", "event": "Due process finally gets own section. Equal protection ADDED for first time. Privileges and immunities added as (b). Language modernized.", "source": "Reconstructed from current text minus 1979 additions; consistent with leginfo annotation"},
+    {"stage": "04_amendment_1979_prop1", "section": "Art. I §7(a) (Prop. 1, 1979)", "event": "Busing limitation added to subdivision (a). All other due process and equal protection unchanged. THIS IS THE CURRENT TEXT.", "source": "leginfo (current text = 1979 text, no subsequent amendments)"}
+  ],
+  "case_law": [
+    {"case": "Raven v. Deukmejian, 52 Cal.3d 336 (1990)", "category": "interpretive", "rule": "Section 7 due process is a structural feature of the Constitution that cannot be eliminated by initiative amendment. Prop. 115 lockstep can change interpretation methodology but cannot remove the right itself."}
+  ],
+  "amendment_history": [
+    {"year": 1849, "event": "1849 Constitution, Art. I §8 — due process first appears in California law"},
+    {"year": 1879, "event": "1879 Constitution, Art. I §13 — renumbered, takings separated"},
+    {"year": 1974, "event": "Prop. 7 (Res.Ch. 90, 1974) — Section 7 created with due process + equal protection + privileges and immunities"},
+    {"year": 1979, "event": "Prop. 1 (Res.Ch. 18, 1979) — busing limitation added to subdivision (a)"}
+  ],
+  "triple_constraint_test_results": {
+    "governing_guidelines": {"passes": true, "evidence": "California Constitution Art. I §7 from leginfo; binding constitutional authority"},
+    "standards_of_creation": {"passes": true, "evidence": "Full evolution chain with 4 stages, each with text, context/diff, and provenance. Case law with holding, statute_version_cited, and provenance."},
+    "standard_of_care": {
+      "passes": "STRONG",
+      "current_layer": "VERIFIED — text fetched from leginfo, hashed",
+      "evolution_layer": "VERIFIED — 4 stages: 1849 origin (transcription from supremelaw.org), 1879 revision (Wikisource), 1974 Prop 7 (reconstructed), 1979 Prop 1 (confirmed = current text)",
+      "origin_layer": "VERIFIED — 1849 Constitution Art. I §8 text located and documented"
+    }
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — verbatim text in current/ and all evolution stages",
+    "reasoning": "PRESENT — context.md in each evolution stage explains why each change was made",
+    "historical_loss": "PRESENT — the wound is documented: government acting without process, 1849 delegates' experience with military rule, 1974 creation of standalone section, 1979 busing controversy",
+    "cross_references": "PRESENT — refs.json links to §1, §24, Prob §811, 42 USC §1983, Bane Act §52.1",
+    "verifiable_provenance": "PRESENT — provenance.json for current text and each evolution stage"
+  },
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction (Michael Hartmann), 2026-04-09",
+    "second_mouth_witness": "NONE — not yet countersigned",
+    "publishable_to_corpus": false,
+    "status": "PROPOSED"
+  },
+  "files": {
+    "origin": ["evolution/01_origin_1849/text.txt", "evolution/01_origin_1849/context.md", "evolution/01_origin_1849/provenance.json"],
+    "evolution": [
+      "evolution/02_revision_1879/text.txt", "evolution/02_revision_1879/diff_from_prior.md", "evolution/02_revision_1879/provenance.json",
+      "evolution/03_revision_1974_prop7/text.txt", "evolution/03_revision_1974_prop7/diff_from_prior.md", "evolution/03_revision_1974_prop7/provenance.json",
+      "evolution/04_amendment_1979_prop1/text.txt", "evolution/04_amendment_1979_prop1/diff_from_prior.md", "evolution/04_amendment_1979_prop1/provenance.json",
+      "evolution/05_current/README.md"
+    ],
+    "current": ["current/cal_const_art1_sec7_leginfo.txt", "current/provenance.json"],
+    "case_law": ["case_law/interpretive/raven_v_deukmejian_1990/holding.md", "case_law/interpretive/raven_v_deukmejian_1990/statute_version_cited.md", "case_law/interpretive/raven_v_deukmejian_1990/provenance.json"],
+    "cross_refs": ["cross_refs/refs.json"],
+    "manifest": "manifest.json"
+  },
+  "outstanding_work": [
+    "Fetch Proposition 7 (1974) ballot pamphlet from California State Archives to confirm pre-1979 text",
+    "Fetch Proposition 1 (1979) ballot pamphlet to confirm amendment text",
+    "Fetch full opinion text for Raven v. Deukmejian from Justia",
+    "Add additional case law: People v. Anderson (1972, death penalty/cruel punishment), Serrano v. Priest (1971, equal protection/school funding)",
+    "Obtain second-mouth countersignature"
+  ]
+}

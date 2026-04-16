@@ -1,0 +1,8 @@
+Wilson v. Blue Cross of Southern California, 222 Cal.App.3d 660 (1990)
+California Court of Appeal, Second District, 1990
+
+HOLDING: A health insurer that denies medically necessary inpatient psychiatric care in bad faith may be held liable in tort for the patient's death, including potential liability for wrongful death, because the insurer's bad faith denial was a proximate cause of the harm.
+
+KEY LANGUAGE: "We conclude that an insurance company owes a duty to the insured not to unreasonably withhold payment of benefits where doing so causes harm to the insured, and where such harm is foreseeable."
+
+RELEVANCE: Wilson extends the Sarchett bad faith doctrine to third-party liability — establishes that when a bad faith UR denial causes patient death, the insurer faces wrongful death exposure, not just contract damages. Applied to spine surgery fraud: if Blue Shield's non-physician UR denial caused or contributed to the steward's surgical harm, Wilson supports a wrongful death/personal injury damages theory alongside the §10123.135 statutory violation.

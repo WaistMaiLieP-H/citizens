@@ -1,0 +1,15 @@
+{
+  "document": "California Business & Professions Code §§17200–17210 (Unfair Competition Law)",
+  "source_type": "california_statute",
+  "primary_source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=17200.",
+  "current_as_of": "2026-04-11",
+  "original_enactment_precursor": "Stats. 1933, Ch. 953 (Unfair Practices Act)",
+  "modern_enactment": "Stats. 1977 (current UCL form)",
+  "critical_amendment": "Proposition 64 (Nov. 2004) — amended §17204 to require private plaintiff injury in fact + lost money or property",
+  "fetch_method": "VernenLegal MCP — california_get_section (leginfo.legislature.ca.gov official source)",
+  "fetch_timestamp_utc": "2026-04-11T00:00:00Z",
+  "retrieval_steward": "Claude (assistant) under direction of Michael Hartmann",
+  "verbatim_capture_status": "COMPLETE — bp_17200_leginfo.txt contains verbatim text of §17200",
+  "txt_sha256": "afcf76dabaed146f65a9f143697d466db2e2260efeadc5749384c707b36bffe6",
+  "build_date": "2026-04-11"
+}

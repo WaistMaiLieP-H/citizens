@@ -1,0 +1,20 @@
+{
+  "standard_id": "CAL_PROB_2620_ACCOUNTING",
+  "refs_updated": "2026-04-12",
+  "cross_references": [
+    {
+      "target_standard": "CAL_PROB_1851_ANNUAL_REVIEW",
+      "relationship": "\u00a71851 requires the conservator to make financial records available to the investigator; \u00a72620 requires annual accountings to the court. The two provisions create overlapping financial oversight \u2014 the \u00a72620 accounting is the self-report; the \u00a71851 review is the independent check.",
+      "target_citizen": "CA_Conservator_Investigator",
+      "target_manifest": "${citizens}/CA_Conservator_Investigator/standards/cal_prob_1851/manifest.json",
+      "build_status": "BUILT \u2014 same Citizen"
+    },
+    {
+      "target_standard": "CAL_CIV_CODE_3294_PUNITIVE",
+      "relationship": "punitive damages companion \u2014 willful misappropriation of conservatorship assets may constitute fraud or oppression under \u00a73294, supporting punitive damages in a civil action against the conservator. The \u00a72620 accounting gaps are the evidentiary foundation for the \u00a73294 malice finding.",
+      "target_citizen": "CA_Real_Estate_Attorney",
+      "target_manifest": "${citizens}/CA_Real_Estate_Attorney/standards/civ_3294_punitive_damages/manifest.json",
+      "build_status": "BUILT \u2014 WITNESSED-BY-HERALD 2026-04-12"
+    }
+  ]
+}

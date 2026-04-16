@@ -1,0 +1,11 @@
+{
+  "stage": "02_micra_1975_one_year",
+  "source": "Medical Injury Compensation Reform Act (MICRA), Stats. 1975, Ch. 2 (2d Ex. Sess.)",
+  "signed": "1975",
+  "effective": "1976-01-01",
+  "wound_addressed": "Open-ended SOL exposure; actuarial unpredictability driving medical malpractice insurance crisis",
+  "design": "1-year discovery + 3-year outer absolute limit; four exceptions preserved (minor, fraud, foreign body, disability)",
+  "constitutional_status": "Upheld — American Bank & Trust Co. v. Community Hospital (1984); rational basis; MICRA package as whole provided offsetting benefit",
+  "verbatim_capture_status": "PENDING",
+  "build_date": "2026-04-11"
+}

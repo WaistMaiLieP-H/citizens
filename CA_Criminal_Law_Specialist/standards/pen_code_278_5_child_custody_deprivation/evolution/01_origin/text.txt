@@ -1,0 +1,17 @@
+Cal. Penal Code § 278.5 — Origin
+SB 1011 (Chapter 680, Statutes of 1977)
+
+§ 278.5 was enacted in 1977 as California grappled with the rise of parental child abduction during custody disputes. Prior to 1977, a parent who took a child in violation of a custody order could only be held in civil contempt — there was no criminal charge for custodial interference.
+
+Original § 278.5:
+"Every person who takes, detains, conceals, or entices away a minor child, or aids, abets, or assists in taking, detaining, concealing, or enticing away such minor child, and every person who knowingly maintains possession of a minor child in violation of a valid court order for custody of the child made by any court of this state...is punishable by imprisonment in the state prison for 16 months, or two or three years, or by imprisonment in the county jail not to exceed one year, or by a fine not to exceed one thousand dollars ($1,000), or by both such fine and imprisonment."
+
+Key original elements:
+1. Takes, detains, conceals, or entices away a minor child
+2. By a person with no right to custody — or knowingly maintains possession in violation of a custody order
+3. The custody order must be a valid California court order
+4. Wobbler — felony or misdemeanor
+
+Note: People v. Campos (1982) established that subjective good-faith belief in parental rights is NOT a defense to § 278.5.
+
+Source: SB 1011, Chapter 680, Statutes of 1977.

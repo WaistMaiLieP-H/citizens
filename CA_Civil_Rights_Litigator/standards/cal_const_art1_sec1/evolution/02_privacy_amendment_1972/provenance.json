@@ -1,0 +1,12 @@
+{
+  "stage": "02_privacy_amendment_1972",
+  "constitutional_provision": "California Constitution, Article I, Section 1",
+  "mechanism": "Proposition 11 (Privacy Initiative), November 1972 general election",
+  "effective": "1972-11-07",
+  "source": "ballotpedia.org/California_Proposition_11_(1972)",
+  "retrieval_method": "knowledge_base",
+  "retrieval_date": "2026-04-10",
+  "retrieval_steward": "Claude Opus 4.6 (1M context)",
+  "primary_source_verified": false,
+  "notes": "Added 'privacy' to the list of inalienable rights in §1. Created California's unique constitutional privacy right enforceable against both government and private actors."
+}

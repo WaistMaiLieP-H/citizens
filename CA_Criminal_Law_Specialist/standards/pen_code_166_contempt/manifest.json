@@ -1,0 +1,50 @@
+{
+  "standard_id": "PEN_166",
+  "version": "0.2.0-witnessed-by-herald",
+  "filed_at_utc": "2026-04-11T01:30:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "primary_citation": {
+    "code": "California Penal Code",
+    "section": "§ 166",
+    "popular_name": "Criminal contempt of court",
+    "jurisdiction": "California (state criminal)",
+    "location_in_code": "Penal Code, Part 1, Title 7, Chapter 7",
+    "original_enactment": "1872; substantial subd. (c) enhancements in 1989-1990 and 1993"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current text digest via MCP",
+    "reasoning": "PRESENT — nine categories, scienter, civil/criminal distinction, enhancement framework",
+    "historical_loss": "PRESENT — pre-1989 weak DV order enforcement documented; 1989 and 1993 DVPA amendment stages built (03 + 04)",
+    "cross_references": "PRESENT — cross_refs/refs.json",
+    "verifiable_provenance": "PARTIAL — current text via MCP; evolution stages 03 and 04 PROPOSED pending bill number primary-source verification"
+  },
+  "evolution_stages": [
+    "01_origin (1872 — general criminal contempt)",
+    "02_current (pointer to current text)",
+    "03_amendment_1989_dvpa (subd. (c)(1) — DVPA criminal enforcement, mandatory minimum)",
+    "04_amendment_1993_dvpa_enhancement (subd. (c)(3) wobbler + subd. (c)(4) § 136.2 orders)"
+  ],
+  "case_law": [
+    {
+      "folder": "people_v_greenfield_1982",
+      "cite": "People v. Greenfield (1982) 134 Cal.App.3d Supp. 1",
+      "type": "proposed",
+      "key_holding": "§ 166 willfulness element — conscious and deliberate violation required; mistake of law does not negate willfulness; genuine factual mistake about order existence may negate willfulness in narrow circumstances"
+    },
+    {
+      "folder": "people_v_von_villas_1992",
+      "cite": "People v. Von Villas (1992) 10 Cal.App.4th 201",
+      "type": "proposed",
+      "key_holding": "§ 166 knowledge element — prosecution must prove defendant knew of the order; in-court oral notification in minute order is legally sufficient; formal service not required; knowledge is a separate element from willfulness"
+    }
+  ],
+  "cases_to_add": [],
+  "citizen_relevance": "Supporting statute. Relevant to CLETS violation analysis and any past/future court order enforcement in the Hartmann matters. Not primary charge in 04-23-01959.",
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

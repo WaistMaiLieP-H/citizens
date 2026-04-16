@@ -1,0 +1,13 @@
+{
+  "standard_id": "CCP_340_5_MEDICAL_SOL",
+  "primary_source": "Cal. Code Civ. Proc. §340.5",
+  "enacted": "Medical Injury Compensation Reform Act (MICRA), Stats. 1975, Ch. 2 (2d Ex. Sess.), effective 1976-01-01",
+  "current_version_source": "§340.5 as amended; current form includes 4 tolling provisions (minor, fraud, foreign body, disability)",
+  "codification": "California Code of Civil Procedure, Part 2 (Of Civil Actions), Title 2 (Of the Time of Commencing Civil Actions), Chapter 3 (The Time of Commencing Actions Other Than for the Recovery of Real Property), §340.5",
+  "fetch_method": "VernenLegal MCP — california_get_section (leginfo.legislature.ca.gov official source)",
+  "fetch_timestamp_utc": "2026-04-11T00:00:00Z",
+  "retrieval_steward": "Claude (assistant) under direction of Michael Hartmann",
+  "verbatim_capture_status": "COMPLETE — ccp_340_5_leginfo.txt contains verbatim text of §340.5",
+  "txt_sha256": "71e9799e9445074fe8fbdc7b610e56e0417679284ac651dda823809cd9eb9b20",
+  "build_date": "2026-04-11"
+}

@@ -1,0 +1,11 @@
+{
+  "source": "29 U.S.C. § 1132 — text from training knowledge; NOT verified via live fetch",
+  "url": "https://law.cornell.edu/uscode/text/29/1132",
+  "retrieved": "2026-04-12",
+  "retrieval_tool": "Training knowledge (VernenLegal MCP usc_get_section returned not found for 29 USC §1132)",
+  "sha256": "6abc2c5b5feabb2eaf3338e15fb225544b9babc0a676ca606a79516fe0032e08",
+  "bill_origin": "ERISA, Pub. L. 93-406 (1974); amended by OBRA 1986, SBJPA 1996, PPA 2006",
+  "effective_date": "January 1, 1975 (original ERISA effective date)",
+  "verified": false,
+  "notes": "Steward must verify current text at law.cornell.edu/uscode/text/29/1132 before any filing reliance."
+}

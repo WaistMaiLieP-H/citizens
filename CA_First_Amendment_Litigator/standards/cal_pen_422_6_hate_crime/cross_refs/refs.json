@@ -1,0 +1,5 @@
+[
+  {"target":"${citizens}/CA_Constitutional_Law_Specialist/standards/cal_const_art1_sec2/manifest.json","relationship":"§422.6(c) speech-alone exception implements the constitutional speech protection of Art. I §2"},
+  {"target":"${citizens}/CA_Civil_Rights_Litigator/standards/bane_act_civ_52_1/manifest.json","relationship":"Bane Act §52.1 is the civil analogue — both prohibit interference with rights by force or threat; §422.6 is criminal, §52.1 is civil"},
+  {"target":"${citizens}/CA_Constitutional_Law_Specialist/standards/cal_const_art1_sec1/manifest.json","relationship":"§422.6 criminalizes interference with the exercise of inalienable rights enumerated in Art. I §1"}
+]

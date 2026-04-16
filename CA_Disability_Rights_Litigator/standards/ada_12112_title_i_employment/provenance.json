@@ -1,0 +1,39 @@
+{
+  "standard_id": "ada_12112_title_i_employment",
+  "citizen": "CA_Disability_Rights_Litigator",
+  "build_date": "2026-04-13",
+  "primary_source": {
+    "source_type": "statute",
+    "jurisdiction": "federal",
+    "code": "United States Code",
+    "title": "42",
+    "section": "12112",
+    "fetch_method": "mcp__claude_ai_VernenLegal__usc_get_section",
+    "verified": false,
+    "fetch_date": "2026-04-13",
+    "note": "USC tool returned 'not found' for 42 USC §12112. Statute text from training knowledge. STEWARD MUST VERIFY against uscode.house.gov → Title 42 → Chapter 126 → §12112 before citing in federal court filings."
+  },
+  "supporting_sources": [
+    {
+      "source_type": "training_knowledge",
+      "description": "ADA Amendments Act of 2008 (ADAAA) — restored broad coverage; rejected Sutton and Toyota Motor Mfg. narrowing; 'substantially limits' broadly construed; mitigating measures excluded",
+      "note": "Legislative history; verify ADAAA text if citing in federal briefing"
+    },
+    {
+      "source_type": "training_knowledge",
+      "description": "Sutton v. United Air Lines (1999) 527 U.S. 471 — narrow 'substantially limits' interpretation corrected by ADAAA",
+      "note": "Case law; verify citation"
+    },
+    {
+      "source_type": "training_knowledge",
+      "description": "Toyota Motor Mfg., Kentucky v. Williams (2002) 534 U.S. 184 — further narrowing corrected by ADAAA",
+      "note": "Case law; verify citation"
+    }
+  ],
+  "steward_verify_queue": [
+    "42 USC §12112 full text — fetch from uscode.house.gov → Title 42 → Chapter 126 → §12112",
+    "Sutton v. United Air Lines (1999) 527 U.S. 471",
+    "Toyota Motor Mfg., Kentucky v. Williams (2002) 534 U.S. 184"
+  ],
+  "chronicle_flag": false
+}

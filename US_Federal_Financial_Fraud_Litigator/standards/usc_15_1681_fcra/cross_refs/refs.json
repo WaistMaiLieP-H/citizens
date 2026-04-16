@@ -1,0 +1,47 @@
+{
+  "standard_id": "USC_15_1681_FCRA",
+  "cross_references": [
+    {
+      "anchor": "usc_18_1028_identity_theft",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_18_1028_identity_theft/",
+      "relationship": "parallel_criminal_track",
+      "note": "§1028 criminalizes the identity theft that produces the fraudulent tradelines FCRA must block. A §1028 criminal referral + FTC identity theft report together support §1681c-2 blocking. Flores-Figueroa knowledge element and Dubin at-the-crux test apply to criminal track."
+    },
+    {
+      "anchor": "usc_15_1692_fdcpa",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_15_1692_fdcpa/",
+      "relationship": "companion_consumer_statute",
+      "note": "FDCPA governs debt collectors who report to CRAs. A debt collection that violates FDCPA (overshadowing, false representation, abusive communication) and is reported to a CRA compounds: §1692e false representation + §1681s-2(b) furnisher failure to correct. Dual claim opportunity."
+    },
+    {
+      "anchor": "usc_18_1343_wire_fraud",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_18_1343_wire_fraud/",
+      "relationship": "predicate_criminal_act",
+      "note": "If the fraudulent account creation or credit report manipulation involved electronic communications (email, online portal, wire transfer), §1343 wire fraud is a parallel criminal track and a civil RICO predicate. Wire fraud + FCRA violations compound the damages theory."
+    },
+    {
+      "anchor": "civil_rico_1961_1968",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/civil_rico_1961_1968/",
+      "relationship": "enterprise_theory",
+      "note": "If multiple actors coordinated the identity theft (thief + furnisher who knows the account is fraudulent + debt collector who knows the debt is fraudulent), the pattern of racketeering activity (§1028 + §1343 predicates) supports a civil RICO claim under §1964(c). FCRA violations are not RICO predicates themselves but the underlying fraud that produces the FCRA violations may be."
+    },
+    {
+      "anchor": "chexsystems_specialty_cra",
+      "path": "${nonfamilylaw}/ChexSystems/",
+      "relationship": "case_binding_primary",
+      "note": "Primary evidentiary source for Michael's FCRA claims. ChexSystems file + disclosure log + bank denial letters are the standing evidence chain under TransUnion."
+    },
+    {
+      "anchor": "treasury_securities_identity_theft",
+      "path": "${nonfamilylaw}/Treasury_Securities/",
+      "relationship": "case_binding_primary",
+      "note": "Four contradictory Treasury responses re: bonds in Michael's name belonging to 'another individual' corroborate SSN theft. If Treasury reported to any CRA, §1681c-2 blocking available on FTC identity theft report."
+    },
+    {
+      "anchor": "ftc_identity_theft_report",
+      "path": "https://www.identitytheft.gov/",
+      "relationship": "procedural_prerequisite",
+      "note": "FACTA §1681c-2 requires a copy of an 'identity theft report' — defined to include FTC IdentityTheft.gov reports. Filing the FTC report is the procedural trigger for the blocking right. Must be done before requesting §1681c-2 blocks from CRAs."
+    }
+  ]
+}

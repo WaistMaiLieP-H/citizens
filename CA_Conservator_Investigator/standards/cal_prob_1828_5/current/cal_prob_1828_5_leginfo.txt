@@ -1,0 +1,27 @@
+California Probate Code § 1828.5 — Limited Conservatorship Hearing Requirements
+
+(a) At the hearing on the petition for appointment of a limited conservator for an allegedly developmentally disabled adult, the court shall:
+  (1) Inquire into the nature and extent of general intellectual functioning
+  (2) Evaluate the extent of impairment of adaptive behavior
+  (3) Ascertain capacity to care for self and property
+  (4) Inquire into the qualifications of the person seeking appointment
+  (5) If a regional center report was not filed because the proposed conservatee withheld consent, determine the reason
+
+(b) If the court finds the proposed conservatee POSSESSES THE CAPACITY to care for self and manage property as a reasonably prudent person, THE COURT SHALL DISMISS THE PETITION.
+
+(c) If the court finds the proposed conservatee lacks capacity for SOME but not all tasks, the court shall appoint a LIMITED conservator.
+
+(d) If the court finds the proposed conservatee lacks capacity for ALL tasks, the court shall appoint either a conservator or a limited conservator.
+
+(e) The court SHALL DEFINE the powers and duties of the limited conservator SO AS TO PERMIT THE DEVELOPMENTALLY DISABLED ADULT TO CARE FOR HIMSELF OR HERSELF commensurate with ability.
+
+(f) Prior to appointment, the court SHALL INFORM the proposed conservatee of:
+  - The nature and purpose of the proceeding
+  - That appointment will result in TRANSFER OF CERTAIN RIGHTS and the effect of such transfer
+  - The identity of the nominated conservator
+  - The RIGHT TO OPPOSE the proceeding
+  - The RIGHT TO JURY TRIAL
+
+After communicating this information, the court SHALL CONSULT THE PERSON to determine their opinion concerning the appointment.
+
+[Source: leginfo.legislature.ca.gov via VernenLegal MCP tool, fetched 2026-04-09]

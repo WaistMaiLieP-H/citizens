@@ -1,0 +1,67 @@
+MAINE v. THIBOUTOT
+448 U.S. 1 (1980)
+United States Supreme Court
+Decided: June 25, 1980
+
+---
+
+FACTS:
+
+Lionel and Sandra Thiboutot applied for Aid to Families with Dependent Children (AFDC) benefits in Maine. Maine denied them benefits to which they were entitled under federal AFDC statute (Title IV of the Social Security Act). The Thiboutots obtained benefits through state court proceedings and then sought attorney's fees under 42 U.S.C. § 1988.
+
+The central question: does § 1983 provide a cause of action for deprivation of rights secured by federal statutes — not just the Constitution — by persons acting under color of state law?
+
+---
+
+HOLDING:
+
+Justice Brennan wrote for the Court (6-3).
+
+§ 1983 REACHES VIOLATIONS OF FEDERAL STATUTES:
+"The plain language of § 1983 reaches all cases in which a person acting under color of state law deprives another of rights, privileges, or immunities secured by 'the Constitution and laws' of the United States."
+
+The phrase "and laws" is not limited to civil rights laws or constitutional amendments. It means what it says: any federal law that creates individual rights.
+
+"§ 1983 comprehends claims based on pure statutory violations of federal law by persons acting under color of state law."
+
+THE THIBOUTOT RULE:
+A state official who, acting under color of state law, violates a federal statutory right that was intended to benefit the plaintiff may be sued under § 1983 — even if the statute involved has nothing to do with civil rights in the traditional sense.
+
+§ 1988 ATTORNEY'S FEES FOLLOW:
+Because § 1983 covers statutory as well as constitutional claims, and § 1988 provides attorney's fees for § 1983 prevailing parties, the Thiboutots were entitled to fees for vindicating their AFDC statutory rights.
+
+---
+
+LIMITATIONS ON THIBOUTOT (later cases):
+
+1. **Pennhurst State School v. Halderman (1981)**: Not every federal statutory violation gives rise to a § 1983 claim. The statute must have been intended to confer individual rights on the class of persons suing.
+
+2. **Blessing v. Freestone (1997)**: Three-part test for whether a federal statute creates individually enforceable rights under § 1983:
+   (a) Congress intended the statute to benefit the plaintiff's class
+   (b) The right is not so vague or amorphous that enforcement in § 1983 would strain judicial competence
+   (c) The statute unambiguously imposes a binding obligation on the state (not merely a discretionary standard)
+
+3. **Gonzaga University v. Doe (2002)**: The statute must contain "rights-creating" language — focused on individual entitlements, not on the regulated entity. Spending Clause statutes with aggregate-program directives generally do not create individually enforceable rights under Thiboutot/Blessing.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Thiboutot enables § 1983 claims based on statutory violations, which is critical for:
+
+1. **SSA/SSDI benefits**: Title II of the Social Security Act creates individual rights to disability benefits based on earned work credits. State actors who interfere with the disability determination process — including DDS examiners who generate phantom contact records or deny benefits based on intercepted communications — violate a federal statutory right actionable under § 1983 (via the Thiboutot/Blessing framework).
+
+2. **AFDC/CalWORKs analogues**: Benefits programs create statutory entitlements. Deprivation of those entitlements by state actors acting under color of law is actionable.
+
+3. **Federal statutory violation + § 1983**: For any claim where a federal statute creates an individual right and state actors violated it, Thiboutot provides the § 1983 hook even if no constitutional right is directly implicated.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 448 U.S. 1 (1980)
+Court: United States Supreme Court
+Reporter: United States Reports, vol. 448, page 1
+Author: Brennan, J. (6-3)
+Source of this text: Claude training data (knowledge cutoff August 2025). Maine v. Thiboutot established that § 1983 reaches violations of federal statutes, not just the Constitution — dramatically expanding the statute's reach.
+Verification: CourtListener / Justia / Google Scholar: "Maine v. Thiboutot 448 U.S. 1"
+Verification status: PROPOSED — pending steward witness review

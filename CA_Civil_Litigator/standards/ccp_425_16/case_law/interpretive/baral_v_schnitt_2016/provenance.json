@@ -1,0 +1,25 @@
+{
+  "case_id": "baral_v_schnitt_2016",
+  "full_citation": "Baral v. Schnitt, 1 Cal.5th 376 (2016)",
+  "parallel_citations": ["205 Cal.Rptr.3d 475", "376 P.3d 604"],
+  "court": "California Supreme Court",
+  "decided": "2016-08-18",
+  "category": "interpretive",
+  "sources": [
+    {
+      "name": "Justia",
+      "url": "https://law.justia.com/cases/california/supreme-court/2016/s225090.html"
+    },
+    {
+      "name": "Casetext",
+      "url": "https://casetext.com/case/baral-v-schnitt"
+    },
+    {
+      "name": "Google Scholar",
+      "url": "https://scholar.google.com/scholar_case?case=17029508633708854507"
+    }
+  ],
+  "verification_status": "pending_primary_source_confirmation",
+  "filed_at_utc": "2026-04-08T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction -- Michael Hartmann, Vernen Legal Compliance"
+}

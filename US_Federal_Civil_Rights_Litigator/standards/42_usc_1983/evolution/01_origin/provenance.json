@@ -1,0 +1,19 @@
+{
+  "standard_id": "42_USC_1983",
+  "evolution_stage": "01_origin",
+  "enacted_as": "Civil Rights Act of April 20, 1871, §1",
+  "also_known_as": "Ku Klux Klan Act, Third Enforcement Act",
+  "congress": "42nd Congress, Session I",
+  "chapter": "22",
+  "statutes_at_large": "17 Stat. 13",
+  "approved_date": "1871-04-20",
+  "source_url": "https://govtrackus.s3.amazonaws.com/legislink/pdf/stat/17/STATUTE-17-Pg13.pdf",
+  "source_description": "Statutes at Large, Volume 17, pages 13-15. PDF scan of enrolled act.",
+  "fetch_timestamp_utc": "2026-04-08T23:55:00Z",
+  "fetch_tool": "WebFetch (Claude Code) → PDF read",
+  "retrieval_steward": "Claude (assistant) under steward direction — Michael Hartmann",
+  "text_file": "text.txt",
+  "context_file": "context.md",
+  "transcription_method": "Manual transcription from PDF scan of original Statutes at Large page. OCR artifacts in PDF required human-assisted reading; text verified against two secondary sources (uscode.house.gov and law.cornell.edu) for the provisions that survived into current §1983.",
+  "notes": "Section 1 of the 1871 Act is the ONLY section that became 42 USC §1983. Sections 2-7 became other provisions (§1985, expired, or repealed). The PDF contains all 7 sections across pages 13-15 of 17 Stat."
+}

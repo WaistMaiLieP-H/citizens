@@ -1,0 +1,95 @@
+{
+  "standard_id": "pen_code_422_criminal_threats",
+  "statute": "California Penal Code § 422",
+  "short_title": "Criminal Threats",
+  "citizen": "CA_Criminal_Law_Specialist",
+  "version": "1.1.0-witnessed-by-herald",
+  "created_at_utc": "2026-04-11T00:00:00Z",
+  "created_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "five_layer_status": {
+    "layer_1_rule": "COMPLETE — Pen. Code § 422 text captured from leginfo MCP in current/text.txt",
+    "layer_2_reasoning": "COMPLETE — Five elements, UUIS test, conditional threats, sustained fear, bilateral use framework in current/context.md",
+    "layer_3_historical_loss": "COMPLETE — 1988 origin through 2006 amendment, loss anchors documented in historical_chain.md",
+    "layer_4_cross_refs": "COMPLETE — 12 cross-references in cross_refs/refs.json covering companion statutes, overlapping offenses, constitutional constraints, and internal citizen cross-refs",
+    "layer_5_provenance": "COMPLETE — Two case law entries with full provenance.json, holding.md, statute_version_cited.md: Toledo (2001, Cal.S.Ct.) and Ryan D. (2002, placeholder, Cal.App.4th)"
+  },
+  "case_law": {
+    "interpretive": [
+      {
+        "folder": "people_v_toledo_2001",
+        "citation": "People v. Toledo (2001) 26 Cal.4th 221",
+        "authority": "California Supreme Court — BINDING",
+        "proposition": "Definitive UUIS test; conditional threats can qualify; sustained fear requires more than momentary; no intent to carry out required",
+        "verification_status": "Citation documented from training knowledge. Verify reporter citation before use in filed document."
+      },
+      {
+        "folder": "people_v_ryan_d_2002_placeholder",
+        "citation": "In re Ryan D. (2002) 100 Cal.App.4th 854",
+        "authority": "California Court of Appeal, Fourth District — Published",
+        "proposition": "Sustained fear duration requirement — more than momentary; minutes can suffice; objective reasonableness; protective behavior supports finding",
+        "verification_status": "PLACEHOLDER — Citation documented from training knowledge. Verify reporter citation before use in filed document."
+      }
+    ],
+    "constitutional": [
+      {
+        "citation": "Virginia v. Black (2003) 538 U.S. 343",
+        "authority": "United States Supreme Court",
+        "proposition": "True threats not protected by First Amendment; cross-burning statute context",
+        "folder": "NOT YET BUILT"
+      },
+      {
+        "citation": "Counterman v. Colorado (2023) 600 U.S. 66, 143 S.Ct. 2106",
+        "authority": "United States Supreme Court — BINDING",
+        "proposition": "True threats require at minimum reckless disregard of threatening nature (conscious disregard of substantial risk statement would be perceived as threatening); purely objective test is constitutionally insufficient; California § 422's specific intent element already satisfies Counterman floor",
+        "folder": "counterman_v_colorado_2023",
+        "verification_status": "HIGH CONFIDENCE — prominent 2023 SCOTUS decision; citation confirmed reliable; safe for use in filed documents with routine verification"
+      }
+    ]
+  },
+  "outstanding_work": [
+    {
+      "priority": "RESOLVED",
+      "item": "Counterman v. Colorado (2023) 600 U.S. 66 case law entry",
+      "resolution": "Built 2026-04-11 — counterman_v_colorado_2023/ folder complete with holding.md + provenance.json + statute_version_cited.md"
+    },
+    {
+      "priority": "HIGH",
+      "item": "Resolve Ryan D. placeholder — verify reporter citation 100 Cal.App.4th 854",
+      "reason": "Citation documented from training knowledge; must be verified against Westlaw or Lexis before use in any filed document"
+    },
+    {
+      "priority": "MEDIUM",
+      "item": "Build People v. Mendoza (sustained fear in digital context) — specific case TBD",
+      "reason": "Need Court of Appeal authority specifically addressing § 422 sustained fear in text/social media threat context"
+    },
+    {
+      "priority": "MEDIUM",
+      "item": "Build People v. Felix (conditional threats) — specific case TBD",
+      "reason": "Need specific Court of Appeal authority on conditional threat analysis beyond Toledo's general holding"
+    }
+  ],
+  "steward_case_connections": [
+    {
+      "case_id": "Case_4",
+      "case_ref": "M25-00758",
+      "direction": "defendant",
+      "use": "§ 422 may be charged; diversion tracks available; UUIS element attack and sustained fear challenge viable"
+    },
+    {
+      "case_id": "Orchestration",
+      "direction": "complainant",
+      "use": "16-year threat pattern may yield § 422 charges against actors in the coordinated scheme; digital forensics period 2018+ is key evidence window"
+    }
+  ],
+  "statute_last_amended": "2006 (subd. (b) public official aggravator)",
+  "elements_count": 5,
+  "wobbler": true,
+  "wobbler_note": "Felony mandatory where threat directed at public official in performance of duties (subd. (b)); otherwise wobbler",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

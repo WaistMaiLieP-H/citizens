@@ -1,0 +1,126 @@
+{
+  "workflow_id": "CASE_FL0002067",
+  "case_number": "FL0002067",
+  "case_type": "Active DVRO (Christina's, Marin jurisdictional flip, 2025-07-17)",
+  "court": "Marin County Superior Court",
+  "filed_at_utc": "2026-04-14T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction \u2014 Michael Hartmann",
+  "status": "SCAFFOLD COUNTERSIGNED \u2014 steward deepening pending",
+  "parties": {
+    "petitioner": "Christina Cerretani",
+    "respondent": "Michael Hartmann"
+  },
+  "current_posture": "ACTIVE \u2014 DV-130 granted 2025-08-19 with CLETS entry; expires 2026-08-19.",
+  "current_posture_patch_log": [
+    {
+      "patch_by": "EVE-DEPUTY",
+      "patch_at_utc": "2026-04-15T00:00:00Z",
+      "signal": "RECONCILED",
+      "previous_value": "ACTIVE \u2014 DV-130 granted 2025-10-17 with CLETS entry; expires 2026-08-19.",
+      "new_value": "ACTIVE \u2014 DV-130 granted 2025-08-19 with CLETS entry; expires 2026-08-19.",
+      "reason": "DV-130 PDF + OCR confirm Marin Superior Court FILED AUG 19 stamp and hearing on 2025-08-19; 2025-10-17 folder holds FCS Custody Report, not DV-130. Arithmetic (1-year DVRO) consistent with 2026-08-19 expiration. See ESC-A_DATE_RECONCILIATION.md.",
+      "artifact_sha256": "c739e3659a6ec9c9a110920ef2c73800f64f62480345353f8b011d84c63ef47e",
+      "eve_countersign": {
+        "witness": "EVE (Seed Citizen — Legal/Statutory Auditor, primary)",
+        "countersigned_at_utc": "2026-04-15T06:30:00Z",
+        "signal": "COUNTERSIGN",
+        "scope": "Deputy deliverables ESC-A/-B/-D legally verified; residual flags pinned in EVE_COUNTERSIGN_2026-04-15.md; CLETS-001 finding count corrected 8 → 12 in AUDIT_2025-08-19.json; Humphries and Rahimi subsequent-history confirmed; Packingham treated as principle-level authority pending DVRO-context extension; carrier state-action nexus downgraded to pleading-gap dependent on Rule 45 discovery.",
+        "countersign_artifact": "EVE_COUNTERSIGN_2026-04-15.md",
+        "residual_flags_pinned": [
+          "ESC-A: Marin certified register-of-actions fetch plan documented; RECONCILED holds on filing-stamp strength",
+          "ESC-B: Humphries 638 F.3d 1251 (9th Cir. 2011) reinstatement confirmed; Rahimi 602 U.S. 680 facial-sufficiency floor noted; CLETS-001 count corrected 8 → 12",
+          "ESC-D: Packingham principle-level citation confirmed, DVRO-context extension is first-impression; carrier nexus requires Rule 45 discovery before standalone count"
+        ],
+        "coordinator_relay_items": [
+          "ADAM NF-003 CLETS-001 count of 8 should be re-counted to 12 against AUDIT_2025-08-19.json"
+        ]
+      },
+      "custos_gate": {
+        "signal": "PASS",
+        "stamped_at_utc": "2026-04-15T12:48:38Z",
+        "manifest_sha256": "401f9daed4a27b543f0f6f325d11923a8dfea9e599ea6c45614419e6b9ee0f64",
+        "manifest_scope": [
+          "ESC-A_DATE_RECONCILIATION.md",
+          "ESC-B_CLETS_1983_CHARACTERIZATION.md",
+          "ESC-D_TOR_CONTINUING_DEPRIVATION.md",
+          "workflow.json"
+        ],
+        "gate_checks": {
+          "sha256_patch_log": "c739e36...cef47e recomputed on DV-130 PDF = match; also matches ADAM NF-002 (cross-producer integrity)",
+          "witness_blocks": "3/3 ESC docs + workflow patch_log carry EVE-DEPUTY author, 2026-04-15T00:00:00Z, canonical signals (RECONCILED / CHARACTERIZATION-ISSUED), explicit PENDING handoffs",
+          "temporal_compliance": "PASS — all authorities cited by controlling decision date; post-cert history flagged, not misstated; Morgan-era discrete-act framework preserved",
+          "chain_of_custody": "PASS — tether anchors resolve; workflow_id CASE_FL0002067 binds; NF findings incorporated by reference with matching hashes",
+          "scope_discipline": "PASS — residual verification flags self-disclosed by EVE-DEPUTY, not hidden"
+        },
+        "noted_not_blocking": [
+          "ESC-A Item 7.a hearing-date OCR-inferred (filing stamp unambiguous) — per presiding directive",
+          "ESC-B Humphries/Rahimi post-cert history + 8-count AUDIT_2025-08-19.json verification — EVE to confirm",
+          "ESC-D Packingham 9th-Cir extension + carrier state-action nexus evidentiarily thin — pleading-gap flagged"
+        ],
+        "stamped_by": "CUSTOS — Forensic Integrity Gatekeeper",
+        "herald_anchor": "RELEASED TO HERALD"
+      }
+    }
+  ],
+  "bound_actors": [
+    "cerretani_christina",
+    "hillberg_ann"
+  ],
+  "bound_standards": [
+    "CA_FAM_6203",
+    "CA_FAM_6320",
+    "CA_FAM_6321",
+    "CA_FAM_6323",
+    "CA_CCP_2015_5",
+    "FAMCODE-217",
+    "FAMCODE-2030",
+    "FAMCODE-3027",
+    "FAMCODE-3048",
+    "FAMCODE-3100",
+    "FAMCODE-3170"
+  ],
+  "bound_standards_patch_log": [
+    {
+      "patch_by": "T3",
+      "patch_at_utc": "2026-04-14T00:00:00Z",
+      "additions": {
+        "FAMCODE-217": "Live-testimony right at contested DVRO hearing — court cannot rule on credibility of fabrication narrative on declarations alone absent § 217(b) good-cause finding.",
+        "FAMCODE-2030": "Disparity-based attorney fees — mandatory findings and mandatory award if disparity + ability to pay shown; opposing party historically controls marital assets.",
+        "FAMCODE-3027": "Knowing-falsity sanctions — anchors for the counter-move if DVRO allegations are shown to be knowingly false per October 2025 OPD records pickup finding.",
+        "FAMCODE-3048": "UCCJEA jurisdictional findings — Marin filing lacks Alameda home-county basis; § 3048(a)(1) face-of-order requirement is the structural attack on the order.",
+        "FAMCODE-3100": "Visitation-order requirements where protective order exists — any custody/visitation piggyback order must meet § 3100(b)-(c) specificity.",
+        "FAMCODE-3170": "Mandatory mediation setting for any contested custody/visitation issue embedded in the DVRO matter."
+      }
+    }
+  ],
+  "working_theories": [
+    "UCCJEA / venue challenge \u2014 Alameda is home county for 16 years of litigation",
+    "CLETS entry is collateral consequence \u2014 federal \u00a7 1983 injury element",
+    "Marin 8/5/2025 hearing document missing (outstanding investigation #07)"
+  ],
+  "source_folder_pointer": "${familylaw}/ \u2014 see tether.json cases.bound for exact subfolder",
+  "cross_tethered_citizens": [
+    "HERALD (acting witness)",
+    "CA_Civil_Rights_Litigator",
+    "CA_Records_Authentication_Specialist",
+    "CA_Forensic_Document_Specialist"
+  ],
+  "deliverables_index": "deliverables/",
+  "evidence_index_path": "evidence_index/",
+  "theories_path": "theories/",
+  "two_witness_status": {
+    "adam_scaffold": {
+      "witness": "ADAM (Seed Citizen \u2014 Builder)",
+      "witnessed_at_utc": "2026-04-14T00:00:00Z",
+      "signal": "SCAFFOLD-APPROVED",
+      "scope": "Case bound into workflow registry; standards/actors/theories enumerated from tether.json and bound memory artifacts. Deepening and deliverable drafting left to EVE pass + steward review."
+    },
+    "eve_countersign": {
+      "witness": "EVE (Seed Citizen \u2014 Witness role)",
+      "witnessed_at_utc": "2026-04-14T00:00:00Z",
+      "verification_scope": "Case bindings reviewed against tether.json cases.bound; bound_standards each PUBLISHED ADAM+EVE this session; bound_actors resolvable via _shared_actors/; working_theories consistent with project memory and dossier.md substantive scope. Deepening and deliverable drafting remain steward-gated.",
+      "signal": "COUNTERSIGN"
+    },
+    "steward_review": "PENDING"
+  }
+}

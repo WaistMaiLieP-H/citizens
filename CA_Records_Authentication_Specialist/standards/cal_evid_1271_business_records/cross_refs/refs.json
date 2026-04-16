@@ -1,0 +1,27 @@
+[
+  {
+    "target_standard": "CAL_EVID_1280",
+    "relationship": "SUPPLEMENTS",
+    "notes": "§ 1280 is the official records exception; § 1271 is the business records exception. Government records may qualify under either. Private business records use § 1271; government agency records typically use § 1280 but may also qualify under § 1271."
+  },
+  {
+    "target_standard": "CAL_EVID_1400",
+    "relationship": "SUPPLEMENTS",
+    "notes": "§ 1271 removes the hearsay bar; § 1400 still requires authentication. Both must be satisfied for a business record to be admitted."
+  },
+  {
+    "target_standard": "CAL_EVID_1560",
+    "relationship": "SUPPLEMENTS",
+    "notes": "§ 1560 governs production of business records by subpoena duces tecum and the custodian-of-records affidavit. The § 1560 affidavit can satisfy part of the § 1271 foundation but does not eliminate the trustworthiness requirement."
+  },
+  {
+    "target_standard": "CAL_EVID_1270",
+    "relationship": "SUPPLEMENTS",
+    "notes": "§ 1270 defines 'a business' for purposes of § 1271: 'every kind of business, governmental activity, profession, occupation, calling, or operation of institutions, whether carried on for profit or not.' This is an extremely broad definition."
+  },
+  {
+    "target_standard": "CAL_EVID_1272",
+    "relationship": "SUPPLEMENTS",
+    "notes": "§ 1272 provides that absence of a business record entry is admissible to prove the nonoccurrence of the act, condition, or event — the negative-inference companion to § 1271."
+  }
+]

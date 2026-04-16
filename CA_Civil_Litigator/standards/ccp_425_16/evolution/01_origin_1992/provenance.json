@@ -1,0 +1,12 @@
+{
+  "stage": "01_origin_1992",
+  "bill": "SB 1264",
+  "stats_chapter": "Stats. 1992, Ch. 726",
+  "effective": "1993-01-01",
+  "source": "leginfo.legislature.ca.gov",
+  "retrieval_method": "knowledge_base",
+  "retrieval_date": "2026-04-10",
+  "retrieval_steward": "Claude Opus 4.6 (1M context)",
+  "primary_source_verified": false,
+  "notes": "Original enactment of anti-SLAPP statute. Authored by Senator Bill Lockyer. Signed by Governor Pete Wilson. Context.md carried forward from prior build with full wound/promise narrative."
+}

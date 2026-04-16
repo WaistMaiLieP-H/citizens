@@ -1,0 +1,15 @@
+{
+  "standard_id": "USC_15_1638_TILA",
+  "primary_citation": "15 U.S.C. §1638 (Truth in Lending Act, Pub. L. 90-321 (1968); current version through Pub. L. 111-203, Dodd-Frank (2010))",
+  "key_implementing_regulation": "12 C.F.R. Part 1026 (Regulation Z), specifically §§1026.18, 1026.19 (CFPB, successor to Federal Reserve Board)",
+  "key_civil_remedy_provision": "15 U.S.C. §1640",
+  "original_enactment": "Consumer Credit Protection Act, Pub. L. 90-321, Title I (Truth in Lending Act), §128 (May 29, 1968)",
+  "civil_minimum_damages": "$100-$1,000 per individual violation (§1640(a)(2)(A)(i)); attorneys' fees mandatory if plaintiff prevails",
+  "sol": "1 year from date of violation (§1640(e)); affirmative defense/counterclaim use in collection actions has no SOL",
+  "fetch_method": "WebFetch — uscode.house.gov official source",
+  "fetch_timestamp_utc": "2026-04-11T00:00:00Z",
+  "retrieval_steward": "Claude (assistant) under direction of Michael Hartmann",
+  "verbatim_capture_status": "COMPLETE — usc_15_1638_leginfo.txt contains verbatim text of §1640(a) (civil liability); §1638(a) disclosure requirements require verification before filing",
+  "txt_sha256": "4ab0b702cdaa708c7134bf51d61a01633e189da4dd107143f767a3c49c54961b",
+  "verification_note": "Verify current §1638 and §1640 text; verify Regulation Z §§1026.18-1026.19 at 12 C.F.R. Part 1026 before use in filed documents"
+}

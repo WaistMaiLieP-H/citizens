@@ -1,0 +1,15 @@
+{
+  "source": "California Legislative Information (leginfo.legislature.ca.gov)",
+  "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=832.7.&lawCode=PEN",
+  "retrieved": "2026-04-12",
+  "retrieved_via": "VernenLegal MCP Tool — California Statutes API (PEN § 832.7)",
+  "sha256": "PENDING — compute sha256 of verbatim retrieved statutory text",
+  "bill_origin_original": "Stats. 1978, Ch. 630 — original § 832.7 confidentiality provision",
+  "bill_origin_reform": "SB 1421 (Sen. Nancy Skinner, Stats. 2018, Ch. 988) — § 832.7(b) mandatory disclosure categories added",
+  "bill_origin_expansion": "SB 16 (Sen. Nancy Skinner, Stats. 2021, Ch. 402) — unlawful arrest, unlawful search, prejudice/discrimination categories added",
+  "effective_date_original": "1978",
+  "effective_date_reform": "2019-01-01",
+  "effective_date_expansion": "2022-01-01",
+  "verified": true,
+  "verification_notes": "Text retrieved from leginfo primary source. SB 1421 and SB 16 bill history confirmed via California Legislative Information bill search."
+}

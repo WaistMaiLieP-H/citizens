@@ -1,0 +1,51 @@
+{
+  "workflow_id": "CASE_RF10508853",
+  "case_number": "RF10508853",
+  "case_type": "Dissolution Ex Parte (Christina's, 2010-04-09)",
+  "court": "Alameda County Superior Court",
+  "filed_at_utc": "2026-04-14T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction \u2014 Michael Hartmann",
+  "status": "SCAFFOLD COUNTERSIGNED \u2014 steward deepening pending",
+  "parties": {
+    "petitioner": "Christina Hartmann",
+    "respondent": "Michael Hartmann"
+  },
+  "current_posture": "No disposition. Transferred to Solano 2025-06-25.",
+  "bound_actors": [
+    "cerretani_christina",
+    "delucchi_paul_judge"
+  ],
+  "bound_standards": [
+    "CA_CCP_1005_MOTION_NOTICE",
+    "CA_CCP_2015_5"
+  ],
+  "working_theories": [
+    "Ex parte grant after RF09470833 voided \u2014 procedural posture analysis needed",
+    "Solano transfer 2025 occurred during fee-waiver 'filing error' window (see outstanding investigation #08)"
+  ],
+  "source_folder_pointer": "${familylaw}/ \u2014 see tether.json cases.bound for exact subfolder",
+  "cross_tethered_citizens": [
+    "HERALD (acting witness)",
+    "CA_Civil_Rights_Litigator",
+    "CA_Records_Authentication_Specialist",
+    "CA_Forensic_Document_Specialist"
+  ],
+  "deliverables_index": "deliverables/",
+  "evidence_index_path": "evidence_index/",
+  "theories_path": "theories/",
+  "two_witness_status": {
+    "adam_scaffold": {
+      "witness": "ADAM (Seed Citizen \u2014 Builder)",
+      "witnessed_at_utc": "2026-04-14T00:00:00Z",
+      "signal": "SCAFFOLD-APPROVED",
+      "scope": "Case bound into workflow registry; standards/actors/theories enumerated from tether.json and bound memory artifacts. Deepening and deliverable drafting left to EVE pass + steward review."
+    },
+    "eve_countersign": {
+      "witness": "EVE (Seed Citizen \u2014 Witness role)",
+      "witnessed_at_utc": "2026-04-14T00:00:00Z",
+      "verification_scope": "Case bindings reviewed against tether.json cases.bound; bound_standards each PUBLISHED ADAM+EVE this session; bound_actors resolvable via _shared_actors/; working_theories consistent with project memory and dossier.md substantive scope. Deepening and deliverable drafting remain steward-gated.",
+      "signal": "COUNTERSIGN"
+    },
+    "steward_review": "PENDING"
+  }
+}

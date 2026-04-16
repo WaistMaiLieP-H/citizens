@@ -1,0 +1,16 @@
+{
+  "standard_id": "ins_790_09_cdi_order_no_shield",
+  "authority": "Cal. Ins. Code \u00a7790.09",
+  "status": "SUPERSEDED",
+  "content_hash": "95965833",
+  "build_date": "2026-04-12",
+  "terminal": "Terminal B",
+  "citizen": "CA_Insurance_Compliance_Litigator",
+  "verified": true,
+  "adam_signal": "APPROVE",
+  "eve_signal": "COUNTERSIGN",
+  "witness_date": "2026-04-12",
+  "superseded_by": "ins_790_09_enforcement_nonabsolution",
+  "superseded_date": "2026-04-15",
+  "supersession_note": "Earlier 2026-04-12 build; superseded by 2026-04-13 ins_790_09_enforcement_nonabsolution which carries the complete five-layer structure (rule.md + reasoning.md + statute_text.md + 1947 UIPA historical origin + cross_refs.md). Retained for provenance history only."
+}

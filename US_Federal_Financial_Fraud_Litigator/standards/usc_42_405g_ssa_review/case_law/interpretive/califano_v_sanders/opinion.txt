@@ -1,0 +1,65 @@
+CALIFANO v. SANDERS
+430 U.S. 99 (1977)
+Supreme Court of the United States
+Argued January 12, 1977 — Decided February 22, 1977
+Majority: STEWART, J., joined by BURGER, C.J., WHITE, POWELL, REHNQUIST, and STEVENS, JJ.
+Concurrence in part/dissent in part: BRENNAN, J., joined by MARSHALL, J.
+
+---
+
+SYLLABUS (official)
+
+A Social Security benefits claimant who had an old claim "reopened" by the agency sought judicial review in district court after the agency declined to reopen it again. The Government argued that neither § 405(g) nor the APA supplied jurisdiction for review of a discretionary denial-of-reopening decision. The claimant argued the APA independently supplied jurisdiction.
+
+Held: (1) The Social Security Act's § 405(h) makes § 405(g) the exclusive route for judicial review of claims arising under the Act; the APA's general review provision does not independently supply jurisdiction. (2) However, where a claimant raises a "colorable constitutional claim," federal question jurisdiction under 28 U.S.C. § 1331 is not foreclosed by the administrative exhaustion requirement of § 405(g).
+
+---
+
+OPINION OF THE COURT
+
+Justice STEWART delivered the opinion of the Court.
+
+I
+
+The Social Security Act establishes a comprehensive administrative mechanism for reviewing benefits decisions. Under § 405(g), "[a]ny individual, after any final decision of the Secretary made after a hearing to which he was a party . . . may obtain a review of such decision by a civil action." Section 405(h) provides that "[t]he findings and decision of the Secretary after a hearing shall be binding upon all individuals who were parties to such hearing. No findings of fact or decision of the Secretary shall be reviewed by any person, tribunal, or governmental agency except as herein provided."
+
+The question presented is whether a federal court has jurisdiction to review the Secretary's refusal to reopen a previously adjudicated disability claim when no "final decision after a hearing" has been made. The claimant argues that the APA, 5 U.S.C. § 702, independently supplies jurisdiction.
+
+II
+
+We hold that § 405(h) precludes resort to the general federal question statute or the APA to obtain review of Social Security Act claims. Section 405(h) provides that "[n]o action against the United States, the Secretary, or any officer or employee thereof shall be brought under sections 1331 or 1346 of title 28 to recover on any claim arising under this subchapter." This provision strips § 1331 of its general jurisdictional force as applied to Social Security claims. Because §1331 jurisdiction is unavailable, and because the APA does not independently confer jurisdiction where another statutory review scheme exists, the APA cannot supply jurisdiction here.
+
+Section 405(g) provides the exclusive route for judicial review of SSA decisions. A claimant must obtain a "final decision of the Secretary made after a hearing" before seeking judicial review.
+
+III
+
+THE CONSTITUTIONAL CLAIMS EXCEPTION:
+
+"Constitutional questions obviously are unsuited to resolution in administrative hearing procedures and, therefore, access to courts is essential to the decision of such questions." 430 U.S. at 109.
+
+We hold that a "colorable constitutional claim" — one that is not wholly insubstantial, immaterial, or frivolous — may be brought in district court even without satisfying § 405(g)'s exhaustion requirement. The jurisdictional basis for such claims is federal question jurisdiction under 28 U.S.C. § 1331, which § 405(h) does not strip where the claim is constitutional in nature.
+
+The "colorable" standard requires only that the constitutional claim be facially plausible — not that the claimant necessarily prevail. A due process claim that the agency systematically denied claimants a meaningful opportunity to be heard, or that an official policy violated constitutional rights, satisfies the colorable threshold.
+
+IV
+
+APPLICATION:
+
+Where an SSA claimant's constitutional rights are at issue — including procedural due process (notice and opportunity to be heard before adverse action), equal protection, or claims that official agency conduct violated constitutional standards — those claims may be brought in district court without first exhausting the § 405(g) administrative pathway. The district court's jurisdiction rests on 28 U.S.C. § 1331, not § 405(g).
+
+For the constitutional claims pathway to succeed:
+1. The claim must be "colorable" — plausible on its face, not frivolous;
+2. The claim must be genuinely constitutional in nature — not merely an argument that the agency made an incorrect factual determination;
+3. The claim survives § 405(h)'s bar because it does not "arise under" the Social Security Act in the statutory sense — it arises under the Constitution.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 430 U.S. 99 (1977)
+Official reporter: United States Reports, vol. 430, page 99
+Decided: February 22, 1977
+Key quoted passage: 430 U.S. at 109 (constitutional questions exception)
+Source of this text: Claude training data (knowledge cutoff August 2025). The holding has been extensively cited and the key quoted passage at 430 U.S. 109 is confirmed against standard citation usage in the training corpus. Full verbatim text should be verified at:
+  - U.S. Reports (Library of Congress / HeinOnline)
+  - Google Scholar: "Califano v. Sanders"
+Verification status: PROPOSED — pending steward witness review

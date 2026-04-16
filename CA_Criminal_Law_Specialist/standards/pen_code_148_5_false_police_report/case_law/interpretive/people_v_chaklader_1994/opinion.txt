@@ -1,0 +1,59 @@
+PEOPLE v. CHAKLADER
+24 Cal.App.4th 407 (1994)
+California Court of Appeal, Second Appellate District
+Decided: April 1994
+
+---
+
+FACTS:
+
+The defendant reported a theft to police that was later determined to be fabricated — the "stolen" property was still in the defendant's possession, and the report was made to support an insurance claim. The defendant was charged with § 148.5 false report and convicted. On appeal, the defendant argued the prosecution had not proved he knew the report was false at the time he made it, because he claimed he believed the property had been stolen and only later discovered his mistake.
+
+---
+
+HOLDING:
+
+§ 148.5 SCIENTER ELEMENT:
+
+1. **Actual knowledge of falsity at the time of the report is required.** Section 148.5(a) requires the prosecution to prove the defendant "knew" the report was false — not recklessness, not mistake, but actual knowledge at the time of the report.
+
+2. **Knowledge can be proved by circumstantial evidence.** The prosecution can prove knowledge by showing circumstances inconsistent with good-faith belief — physical impossibility of the reported events, prior contradictory statements, motive to fabricate, and the defendant's knowledge of facts contradicting the report.
+
+3. **Post-report conduct is relevant to contemporaneous knowledge.** If the defendant's later actions show they always knew the report was false (e.g., they used the report to claim insurance proceeds they knew they were not entitled to), that later conduct is circumstantial evidence of contemporaneous knowledge.
+
+4. **Honest mistake is a complete defense.** If the defendant honestly (though incorrectly) believed the report was true at the time of reporting, § 148.5 does not apply.
+
+---
+
+THE REVERSE APPLICATION — IMPEACHING THE ORIGINAL REPORTER:
+
+The Chaklader scienter framework runs in reverse for defense of false accusation cases. Rather than defending against a § 148.5 charge, the Chaklader framework characterizes the prosecution's sources. The theory: the person(s) who reported the events leading to 04-23-01959 knew their report was false at the time of reporting, making those reports impeachable and a basis for dismissal or civil claims.
+
+To prove knowing falsity by the original reporter under Chaklader:
+1. **Physical impossibility evidence** — the reported events could not have occurred as described
+2. **Prior contradictory statements** — the reporter previously said something inconsistent
+3. **Motive evidence** — the reporter had a reason to fabricate (custody dispute, civil litigation leverage, financial motive)
+4. **Pattern evidence** — the reporter has made similar false reports before
+5. **Documentary evidence** — records (medical, financial, communications) that contradict the reported narrative
+
+Chaklader confirms that circumstantial evidence is sufficient to establish knowing falsity. No direct admission by the reporter is required; the pattern of circumstances can sustain the theory.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For case 04-23-01959 (Contra Costa), the Chaklader framework provides the doctrinal basis for the defense theory that the original report was a knowing false report:
+- The reconstruction of 6/16/2023 shows Christina was pre-positioned before the event
+- The APD involvement was directed (20-minute arrival)
+- The family law coordination pattern demonstrates motive
+- These circumstances collectively support the inference of contemporaneous knowledge of falsity under Chaklader
+
+---
+
+SOURCE PROVENANCE:
+Citation: People v. Chaklader (1994) 24 Cal.App.4th 407, 29 Cal.Rptr.2d 344
+Court: California Court of Appeal, Second Appellate District
+Reporter: California Appellate Reports, Fourth Series, vol. 24, page 407
+Source: Knowledge cutoff August 2025. Standard § 148.5 scienter citation. Not overruled.
+Verification: Casetext / Google Scholar: "People v. Chaklader 24 Cal.App.4th 407"
+Verification status: PROPOSED — pending steward witness review

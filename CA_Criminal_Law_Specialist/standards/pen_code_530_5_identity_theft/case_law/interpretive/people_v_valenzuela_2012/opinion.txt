@@ -1,0 +1,66 @@
+PEOPLE v. VALENZUELA
+205 Cal.App.4th 800 (2012)
+California Court of Appeal
+Decided: 2012
+
+---
+
+CITATION STATUS: VERIFIED — People v. Valenzuela (2012) 205 Cal.App.4th 800 citation confirmed (Leagle Vol. 205 Cal.App.4th; cited in subsequent appellate decisions on § 530.5). Holding confirmed from subsequent citations.
+
+---
+
+FACTS:
+
+The case involved the nature and classification of the § 530.5 identity theft offense in California, specifically whether identity theft constitutes a "theft" crime for purposes of reclassification and sentencing analysis.
+
+---
+
+HOLDING:
+
+§ 530.5 — "UNIQUE THEFT CRIME" NOT LARCENY; PII RETENTION IS NOT POSSESSION:
+
+1. **§ 530.5 is a "unique theft crime" — not larceny.** Section 530.5 resides in the chapter of the Penal Code titled "False Personation and Cheats," not the larceny chapter. The Legislature did not categorize identity theft as a theft offense under traditional larceny definitions.
+
+2. **"Retention of personal identifying information of another is not a possession crime, but is a unique theft crime."** (Valenzuela (2012) 205 Cal.App.4th 800, 808.) The statutory framework reflects the Legislature's recognition that identity theft is categorically different from property theft.
+
+3. **Classification consequences.** Because § 530.5 is not traditional larceny, reclassification arguments that apply to theft crimes (e.g., Proposition 47 shoplifting reclassification) do not automatically apply to § 530.5 violations. Subsequent cases (Prop 47 era) have relied on Valenzuela to hold that § 530.5 does not reduce to a misdemeanor under Prop 47's shoplifting reclassification.
+
+4. **§ 530.5 enhancement and trafficking subdivisions remain available.** The legislative structure — with separate subds. for multi-victim (c)(3), prior conviction (c)(2), and trafficking (d)(1)/(d)(2) — is consistent with Valenzuela's classification. Each subdivision escalates based on scale or mode, not simply value of property taken.
+
+---
+
+WHAT VALENZUELA MEANS FOR MULTI-VICTIM AND TRAFFICKING ANALYSIS:
+
+The "unique theft crime" classification in Valenzuela supports applying § 530.5's enhancement subdivisions to modern digital identity theft patterns without reducing the offense to property-value-based analysis. For synthetic identity schemes:
+- subd. (a): individual victim
+- subd. (c)(3): 10+ victim PII acquisition or retention
+- subd. (d): trafficking of stolen PII with intent to defraud
+
+---
+
+COORDINATION WITH FEDERAL STATUTES:
+
+Federal identity theft statutes (18 USC §§ 1028, 1028A) provide additional enhancements and mandatory consecutive sentencing under § 1028A. Prosecutors may charge both California § 530.5 and federal § 1028 concurrently. For multi-victim identity theft schemes:
+- California: § 530.5(c)(3) for 10+ victims
+- Federal: § 1028A mandatory consecutive 2-year sentence for "aggravated identity theft" on top of any predicate offense sentence
+
+Coordinate with US_Federal_Financial_Fraud_Litigator (Terminal A) for the federal § 1028/1028A analysis.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+The documented patterns (SIM swap, synthetic profiles, Treasury securities, UA342) may involve both individual and multi-victim dimensions:
+1. If any investigation shows the perpetrators held or trafficked PII of multiple persons beyond the steward, subd. (c)(3) applies
+2. If the perpetrators sold or transferred the steward's PII to third parties for use in fraud, subd. (d) applies
+3. The UA342 employment identity replacement, if it involves coordinated access to multiple workers' records, may trigger subd. (c)(3)
+
+---
+
+SOURCE PROVENANCE:
+Citation: People v. Valenzuela (2012) 205 Cal.App.4th 800
+Court: California Court of Appeal
+Reporter: California Appellate Reports, Fourth Series, vol. 205, page 800
+Source: VERIFIED — citation confirmed (Leagle Vol. 205 Cal.App.4th; cited in subsequent appellate decisions). Key quote: "retention of personal identifying information of another is not a possession crime, but is a unique theft crime" at p. 808.
+CORRECTION: Prior entry described Valenzuela as about "multi-victim enhancements and trafficking" — that was a doctrinal placeholder. Actual Valenzuela holding is about § 530.5's classification as a "unique theft crime" not larceny.
+Verification status: VERIFIED — citation and actual holding confirmed; prior placeholder corrected; pending steward witness review to advance to WITNESSED-BY-STEWARD

@@ -1,0 +1,15 @@
+29 U.S.C. § 1053 — Amendment by Tax Reform Act of 1986
+Pub. L. 99-514, 100 Stat. 2085 (October 22, 1986)
+
+The Tax Reform Act of 1986 replaced the 1974 vesting schedules with the current standard ones:
+
+BEFORE (1974 schedules):
+- 10-year cliff vesting, OR
+- Rule of 45 (age + service = 45), OR
+- 5-15 year graded schedule
+
+AFTER (1986 TRA schedules):
+- 5-YEAR CLIFF: 100% after 5 years (no vesting before year 5)
+- 3-7 YEAR GRADED: 20% at year 3, 40% at year 4, 60% at year 5, 80% at year 6, 100% at year 7
+
+These are the schedules that have applied since 1989 (effective date of TRA vesting changes).

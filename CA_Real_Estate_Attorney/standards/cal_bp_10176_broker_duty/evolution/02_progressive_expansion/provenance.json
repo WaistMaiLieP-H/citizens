@@ -1,0 +1,16 @@
+{
+  "evolution_stage": "02_progressive_expansion",
+  "standard_id": "CAL_BPC_10176",
+  "description": "Progressive addition of disciplinary grounds (f)–(m) through multiple amendment sessions",
+  "enacted_by": "Multiple amendment sessions — REQUIRES_PRIMARY_SOURCE_VERIFICATION for individual bill/chapter numbers",
+  "effective_date": "Various — 1950s through 2000s",
+  "source": "California Statutes — multiple sessions",
+  "primary_source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=10176.",
+  "retrieval_method": "Current text confirmed via VernenLegal MCP 2026-04-10; historical amendment dates require verification",
+  "verification_status": "TEXT_CONFIRMED — INDIVIDUAL_AMENDMENT_DATES_REQUIRE_VERIFICATION",
+  "verification_note": "To identify exact amendment dates for each lettered subdivision: use leginfo.legislature.ca.gov bill history search for BPC § 10176 amendments. The DRE publishes the regulatory history at dre.ca.gov.",
+  "html_sha256": null,
+  "fetch_timestamp": "2026-04-11T00:00:00Z",
+  "fetch_tool": "VernenLegal MCP (current text) + historical research",
+  "retrieval_steward": "Claude (assistant) under steward direction — Michael Hartmann"
+}

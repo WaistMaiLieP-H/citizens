@@ -1,0 +1,18 @@
+{
+  "standard": "cal_fam_721_spousal_fiduciary",
+  "refs": [
+    {"type": "specific_application_personal_property", "target": "Fam. Code § 1100(e)", "relationship": "§ 1100(e) applies § 721 duty to community personal property management", "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_fam_1100_community_property"},
+    {"type": "specific_application_real_property", "target": "Fam. Code § 1102", "relationship": "§ 1102 dual-consent rule for community real property", "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_fam_1102_community_real_property"},
+    {"type": "remedy_statute", "target": "Fam. Code § 1101", "relationship": "§ 1101 50%/100% remedy references § 721 and § 1100 as duty sources", "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_fam_1101_remedy"},
+    {"type": "partnership_incorporation", "target": "Corp. Code §§ 16403, 16404, 16503", "relationship": "§ 721(b) incorporates partnership fiduciary duty by reference"},
+    {"type": "probate_exceptions", "target": "Prob. Code §§ 143, 144, 146, 16040, 16047, 21385", "relationship": "Listed exceptions to the general fiduciary duty rule"},
+    {"type": "punitive_trigger", "target": "Civ. Code § 3294", "relationship": "Breaches meeting § 3294 fraud/oppression/malice definitions trigger § 1101(h) 100% remedy", "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_civ_3294_punitive"}
+  ],
+  "cases_to_add": [
+    "In re Marriage of Rossin (2009) 172 Cal.App.4th 725 — already documented in cal_fam_1100",
+    "In re Marriage of Feldman (2007) 153 Cal.App.4th 1470",
+    "In re Marriage of Margulis (2011) 198 Cal.App.4th 1252",
+    "Vai v. Bank of America (1961) 56 Cal.2d 329 — pre-codification fiduciary duty"
+  ],
+  "generated_at_utc": "2026-04-11T06:10:00Z"
+}

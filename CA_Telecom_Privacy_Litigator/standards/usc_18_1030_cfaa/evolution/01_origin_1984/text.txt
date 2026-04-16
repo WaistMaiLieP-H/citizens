@@ -1,0 +1,22 @@
+Counterfeit Access Device and Computer Fraud and Abuse Act of 1984
+Pub. L. 98-473, Title II, Chapter XXI, § 2102 (October 12, 1984)
+
+Adding 18 U.S.C. § 1030 (original enactment):
+
+The 1984 original was narrow and covered only three scenarios:
+
+§ 1030(a)(1): Unauthorized access to classified government information with intent to injure the US or benefit a foreign nation (espionage scenario).
+
+§ 1030(a)(2): Unauthorized access to obtain financial records from a financial institution OR information from a consumer reporting agency.
+
+§ 1030(a)(3): Unauthorized access to a government computer (any federal computer, not just classified).
+
+Key limitations of the original:
+- No coverage of private computers (only financial institutions, consumer reporting agencies, and government).
+- No civil right of action — criminal only.
+- "Without authorization" not defined.
+- Maximum penalty: 5 years for (a)(1); 1 year for (a)(2) and (a)(3).
+
+The 1984 statute was explicitly motivated by the 1983 film "WarGames" in Congressional testimony. Senator Eagleton (D-MO) cited the film directly when introducing the bill, describing the threat of a teenager hacking into military computers.
+
+Source: Pub. L. 98-473, 98 Stat. 2190 (1984).
