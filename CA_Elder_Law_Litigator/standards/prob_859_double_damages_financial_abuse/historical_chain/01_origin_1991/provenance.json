@@ -1,0 +1,15 @@
+{
+  "standard_id": "prob_859_double_damages_financial_abuse",
+  "layer": "historical_chain",
+  "subdirectory": "01_origin_1991",
+  "primary_source": "Cal. Prob. Code \u00a7 859",
+  "enactment": "Stats. 1997, Ch. 724",
+  "key_amendments": [
+    "Stats. 2008, Ch. 178 (extended to elders, dependent adults, trusts; linked to WIC \u00a715610.30)"
+  ],
+  "current_form_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=859.&lawCode=PROB",
+  "verified": true,
+  "fetch_method": "VernenLegal MCP california_get_section",
+  "fetch_date": "2026-04-12",
+  "chronicle_flag": false
+}

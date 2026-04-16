@@ -1,0 +1,14 @@
+{
+  "standard": "cal_gov_13955_eligibility",
+  "refs": [
+    {"type": "denial_companion", "target": "Gov. Code § 13956 (denial grounds)", "relationship": "§ 13955 opens with 'Except as provided in Section 13956' — every eligibility analysis must also negate § 13956 grounds", "anchor": "${citizens}/CA_Victim_Compensation_Litigator/standards/cal_gov_13956_denial_grounds"},
+    {"type": "compensation_companion", "target": "Gov. Code §§ 13957-13957.7 (compensation scope)", "relationship": "§ 13955(g) requires pecuniary loss within the § 13957-13957.7 scope", "anchor": "${citizens}/CA_Victim_Compensation_Litigator/standards/cal_gov_13957_compensation_scope"},
+    {"type": "timeliness_companion", "target": "Gov. Code § 13953 (application timeliness)", "relationship": "§ 13955(d) requires timely application under § 13953", "anchor": "${citizens}/CA_Victim_Compensation_Litigator/standards/cal_gov_13953 (to be built)"},
+    {"type": "procedural_companion", "target": "Gov. Code § 13959 (hearing and appeal)", "relationship": "Eligibility is determined by the Board; denied applicants contest under § 13959", "anchor": "${citizens}/CA_Victim_Compensation_Litigator/standards/cal_gov_13959_hearing_appeal"},
+    {"type": "constitutional_overlay", "target": "Cal. Const. Art. I § 28 (Marsy's Law)", "relationship": "Constitutional victim rights provide interpretive context and independent grounds for reversal of CalVCB denials that violate victim due process", "anchor": "${citizens}/CA_Victim_Compensation_Litigator/standards/cal_const_art1_28_marsys_law"},
+    {"type": "penal_code_crosslinks", "target": "Penal Code §§ 236.1, 261, 273a, 273d, 285-289, 600.2, 600.5, 667.5(c)", "relationship": "§ 13955(f)(3) lists these PC sections for emotional-injury-only coverage; PC § 667.5(c) is the violent felony list", "anchor": "external (Penal Code)"},
+    {"type": "regulatory_overlay", "target": "2 CCR § 649 et seq.", "relationship": "CalVCB regulations implement § 13955 — Board compliance with its own regulations is an independent appeal ground", "anchor": "${citizens}/CA_Victim_Compensation_Litigator/standards/ccr_title_2_649 (to be built)"},
+    {"type": "appeal_review", "target": "CCP § 1094.5 (writ of mandate)", "relationship": "Final CalVCB decisions are reviewable in superior court under CCP § 1094.5", "anchor": "${citizens}/CA_Civil_Litigator/standards/ccp_1094_5"}
+  ],
+  "generated_at_utc": "2026-04-10T23:00:00Z"
+}

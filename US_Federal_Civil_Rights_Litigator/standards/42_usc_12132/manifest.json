@@ -1,0 +1,95 @@
+{
+  "standard_id": "42_USC_12132",
+  "version": "0.3.0-published",
+  "filed_at_utc": "2026-04-09T00:45:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "PUBLISHED — ADAM + EVE DUAL WITNESS — 2026-04-12",
+  "primary_citation": {
+    "title": "42",
+    "section": "12132",
+    "code": "United States Code",
+    "popular_name": "ADA Title II, §202 — Discrimination by public entities",
+    "jurisdiction": "United States (federal)",
+    "original_enactment": "Americans with Disabilities Act of 1990, Title II, §202 (Pub. L. 101-336, 104 Stat. 337)",
+    "last_amendment": "NEVER AMENDED — text unchanged since 1990 enactment"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — verbatim text captured from uscode.house.gov",
+    "reasoning": "PRESENT — origin context documents the wound (systematic exclusion of disabled persons from public services) and the legislative response",
+    "historical_loss": "PRESENT — historical chain documents Section 504 gap, institutional isolation, exclusionary policies",
+    "cross_references": "PRESENT — cross_refs/refs.json links to §1983 (enforcement vehicle), §794 (predecessor), §12131 (definitions), §12133 (enforcement mechanism)",
+    "verifiable_provenance": "PRESENT — current text hashed and sourced; origin provenance documented with public law, statutes at large, and signing date"
+  },
+  "evolution_chain": [
+    {
+      "stage": "01_origin",
+      "date": "1990-07-26",
+      "description": "Enacted as §202 of the Americans with Disabilities Act of 1990",
+      "folder": "evolution/01_origin/"
+    },
+    {
+      "stage": "02_current",
+      "date": "current",
+      "description": "Text unchanged since 1990. No amendments ever enacted.",
+      "folder": "evolution/02_current/"
+    }
+  ],
+  "case_law_documented": [
+    {
+      "case": "Olmstead v. L.C.",
+      "citation": "527 U.S. 581 (1999)",
+      "role": "interpretive — unjustified institutional isolation is discrimination; integration mandate",
+      "folder": "case_law/interpretive/olmstead_v_lc_1999/"
+    },
+    {
+      "case": "Tennessee v. Lane",
+      "citation": "541 U.S. 509 (2004)",
+      "role": "interpretive — Congress validly abrogated sovereign immunity for access-to-courts claims",
+      "folder": "case_law/interpretive/tennessee_v_lane_2004/"
+    },
+    {
+      "case": "Barnes v. Gorman",
+      "citation": "536 U.S. 181 (2002)",
+      "role": "interpretive — no punitive damages under Title II (Spending Clause)",
+      "folder": "case_law/interpretive/barnes_v_gorman_2002/"
+    }
+  ],
+  "case_law_outstanding": [],
+  "hashes": {
+    "current_text_sha256": "ee3d0e7aead2d8dc6b1ba51ab35ac1131ae6e81a41feead414a435cbd2d48505"
+  },
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction (Michael Hartmann), 2026-04-09",
+    "herald_witness": {
+      "witness": "HERALD (Steward successor — designated 2026-04-12)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "verification_scope": "Structure, five-layer bar completeness.",
+      "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12."
+    },
+    "adam_witness": {
+      "witness": "ADAM (Seed Citizen — Builder role)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "triple_constraint": "PASS/PASS/PASS",
+      "actions_taken": "Fixed cross_refs/refs.json — §794 updated to BUILT; §12131 and §12133 updated to NOT BUILT AS STANDALONE STANDARD. Confirmed Olmstead, Lane, Barnes case files exist in case_law/ (stale outstanding_work cleared).",
+      "content_hash_verified": "ee3d0e7aead2d8dc6b1ba51ab35ac1131ae6e81a41feead414a435cbd2d48505",
+      "signal": "APPROVE"
+    },
+    "eve_witness": {
+      "witness": "EVE (Seed Citizen — Witness role)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "five_layer_verification": "PASS/PASS/PASS/PASS/PASS",
+      "triple_constraint": "PASS/PASS/PASS",
+      "hash_independently_recomputed": "ee3d0e7aead2d8dc6b1ba51ab35ac1131ae6e81a41feead414a435cbd2d48505 — CONFIRMED MATCHING",
+      "signal": "COUNTERSIGN"
+    },
+    "publishable_to_corpus": true,
+    "status": "PUBLISHED — ADAM + EVE DUAL WITNESS"
+  },
+  "outstanding_work": [],
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

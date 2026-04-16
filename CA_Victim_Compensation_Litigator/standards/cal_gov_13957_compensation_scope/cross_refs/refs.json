@@ -1,0 +1,13 @@
+{
+  "standard": "cal_gov_13957_compensation_scope",
+  "refs": [
+    {"type": "eligibility_gate", "target": "Gov. Code § 13955(g)", "relationship": "§ 13955(g) requires that pecuniary loss fall within the § 13957 scope; the two sections read together define what counts as compensable loss"},
+    {"type": "rate_schedule", "target": "Gov. Code § 13957.2 (medical/mental health rates)", "relationship": "Rate-schedule limits on categories (a)(1) and (a)(2)", "anchor": "${citizens}/CA_Victim_Compensation_Litigator/standards/cal_gov_13957_2 (to be built)"},
+    {"type": "loss_of_income_limits", "target": "Gov. Code § 13957.5", "relationship": "Loss of income/support limits for category (a)(3)", "anchor": "${citizens}/CA_Victim_Compensation_Litigator/standards/cal_gov_13957_5 (to be built)"},
+    {"type": "trauma_scene_waste", "target": "Health & Safety Code § 118321 et seq.", "relationship": "Registered trauma scene waste practitioner requirement for crime scene cleanup reimbursement (a)(9)", "anchor": "external (HSC)"},
+    {"type": "penal_code_crosslinks", "target": "Penal Code §§ 600.2, 600.5", "relationship": "Service/guide/signal dog injury criminal statutes — trigger for (a)(10) reimbursement", "anchor": "external (PC)"},
+    {"type": "restitution_fund", "target": "Gov. Code § 13969 (Restitution Fund)", "relationship": "§ 13957 compensation is paid from the Restitution Fund under § 13969", "anchor": "${citizens}/CA_Victim_Compensation_Litigator/standards/cal_gov_13969 (to be built)"},
+    {"type": "federal_funding", "target": "42 USC § 10601 (Victims of Crime Act)", "relationship": "Federal VOCA funding triggers the $70K increased cap; factual inquiry for any application", "anchor": "external (federal)"}
+  ],
+  "generated_at_utc": "2026-04-10T23:30:00Z"
+}

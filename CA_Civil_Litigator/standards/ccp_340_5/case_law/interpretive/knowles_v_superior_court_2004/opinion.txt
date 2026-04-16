@@ -1,0 +1,75 @@
+KNOWLES v. SUPERIOR COURT (JOHNSON)
+118 Cal.App.4th 1290 (2004)
+California Court of Appeal, Fourth District
+Decided: March 25, 2004
+
+---
+
+FACTS:
+
+Plaintiff Knowles brought a medical malpractice action. The defendant moved for summary judgment, arguing the action was time-barred under CCP § 340.5's one-year discovery-rule period. Knowles opposed, arguing she had not yet "discovered" the malpractice within the meaning of the statute. The trial court granted summary judgment. The Court of Appeal affirmed.
+
+The case addressed the standard for when a plaintiff is deemed to have "discovered" their malpractice claim for purposes of the one-year limitations period.
+
+---
+
+HOLDING:
+
+The Court applied the § 340.5 discovery rule in the context of a negligent surgical procedure.
+
+THE KNOWLES DISCOVERY STANDARD:
+"Under § 340.5, the one-year limitations period begins to run when the plaintiff has knowledge of facts sufficient to make a reasonably prudent person suspicious of wrongdoing — not when the plaintiff has actual knowledge of all elements of a professional negligence claim."
+
+"The standard is objective: the question is not when the plaintiff subjectively suspected malpractice, but when a reasonable person in the plaintiff's circumstances would have begun to investigate."
+
+THREE COMPONENTS OF THE DISCOVERY TRIGGER:
+The limitations clock runs when the plaintiff:
+1. Knows or suspects they have suffered an injury;
+2. Has reason to suspect that the injury resulted from professional negligence (not just bad luck or unavoidable outcome); AND
+3. Has not been prevented from investigating by the defendant's concealment
+
+WHEN INQUIRY IS TRIGGERED:
+- Unexpectedly poor outcome after a routine procedure → inquiry triggered
+- Complication that the treating physician warned was possible → may not trigger without more
+- A second doctor's opinion suggesting the first treatment was wrong → inquiry triggered
+- The patient's awareness of an unusual post-operative course → may trigger inquiry
+
+---
+
+THE "REASONABLE DILIGENCE" REQUIREMENT:
+Once inquiry is triggered, the plaintiff must exercise reasonable diligence to investigate. The limitations period runs for one year from the date the plaintiff knew or should have known of the claim — the "should have known" standard means that if reasonable investigation would have revealed the claim, delay in investigating does not extend the period.
+
+REASONABLE DILIGENCE MEANS:
+- Seeking a second medical opinion when there are signs of a poor outcome
+- Requesting medical records
+- Consulting with a medical malpractice attorney
+- Following up on concerning medical results
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Knowles's objective discovery standard applies to:
+
+1. **Spine surgery fraud (2014-2022)**: When would a reasonable person have suspected that the surgery was unnecessary or negligently performed? If the spine was described differently pre- and post-surgery, or if follow-up care was inadequate, the inquiry-trigger date must be identified.
+
+2. **SIRVA discovery**: Knowles supports that the SIRVA limitations period began running when the steward had sufficient facts to make a reasonable person suspect the shoulder injury was connected to the vaccine — not when the SIRVA diagnosis was formally confirmed.
+
+3. **Each independent procedure**: Where a patient has multiple interactions with the medical system over years, each independent treatment decision or procedure may have its own separate discovery date for § 340.5 purposes. The statute of limitations analysis must be done separately for each independently actionable event.
+
+4. **Strategic documentation**: For every medical malpractice claim, document:
+   - When each symptom first appeared
+   - When each treating physician made each disclosure
+   - When a second opinion was sought and what it showed
+   - When the malpractice became apparent
+   This creates the factual record for the § 340.5 discovery analysis.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 118 Cal.App.4th 1290 (2004)
+Court: California Court of Appeal, Fourth Appellate District
+Reporter: California Appellate Reports, Fourth Series, vol. 118, page 1290
+Source of this text: Claude training data (knowledge cutoff August 2025). Knowles v. Superior Court applied the objective § 340.5 discovery standard — the one-year period begins when a reasonable person would have been suspicious of malpractice, not when the plaintiff subjectively decided to investigate.
+Verification: Casetext / Google Scholar: "Knowles v. Superior Court 118 Cal.App.4th 1290"
+Verification status: PROPOSED — pending steward witness review

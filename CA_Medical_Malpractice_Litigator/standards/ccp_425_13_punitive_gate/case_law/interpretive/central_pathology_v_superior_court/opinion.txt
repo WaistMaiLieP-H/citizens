@@ -1,0 +1,90 @@
+CENTRAL PATHOLOGY SERVICE MEDICAL CLINIC, INC. v. SUPERIOR COURT
+3 Cal.4th 181 (1992)
+Supreme Court of California
+Decided: September 3, 1992
+Author: ARABIAN, J.
+
+---
+
+FACTS:
+
+A patient who underwent a surgical procedure at Central Pathology Service Medical Clinic sought to amend her complaint to add punitive damages allegations against the healthcare provider defendants. Code of Civil Procedure § 425.13 requires that before a plaintiff may include a claim for punitive damages against a healthcare provider in a medical malpractice action, the plaintiff must first obtain court approval through a noticed motion supported by evidence showing a "substantial probability" that the punitive damages claim will prevail.
+
+The trial court granted the motion to amend. Central Pathology sought a writ of mandate, arguing the evidence did not meet the § 425.13 standard.
+
+---
+
+HOLDING — THE § 425.13 STANDARD:
+
+The California Supreme Court interpreted and applied the standard for obtaining court approval to amend a medical malpractice complaint to add punitive damages.
+
+THE "SUBSTANTIAL PROBABILITY" STANDARD:
+Section 425.13(a) requires the plaintiff to show that there is a "substantial probability" that the plaintiff will prevail on the punitive damages claim. The court held this means:
+
+"The plaintiff must make a sufficient showing that there exists a substantial probability that the plaintiff will prevail on the claim pursuant to Civil Code section 3294." 3 Cal.4th at 188.
+
+This requires the plaintiff to present facts establishing:
+1. The healthcare provider's conduct was malicious, oppressive, or fraudulent;
+2. Specific facts — not conclusory allegations — supporting the punitive damages claim.
+
+THE EVIDENCE REQUIREMENT:
+The plaintiff must submit competent evidence (declarations, medical records, expert opinion) demonstrating that the punitive damages claim is not speculative. The § 425.13 motion is an evidentiary gatekeeping mechanism — the court must assess whether a reasonable trier of fact could find punitive damages warranted.
+
+---
+
+HOLDING — SCOPE OF § 425.13:
+
+§ 425.13 applies to punitive damages claims against:
+1. Healthcare providers as defined in § 340.5 (physicians, surgeons, hospitals, clinics, etc.);
+2. In actions "arising out of" the professional negligence of such providers.
+
+§ 425.13 does NOT apply to:
+- Punitive damages claims based on intentional torts (battery, fraud, intentional infliction of emotional distress) that are analytically distinct from professional negligence;
+- Claims against non-healthcare-provider defendants.
+
+Note: Central Pathology explored the boundary between professional negligence (subject to § 425.13) and intentional torts (not subject to § 425.13). The court acknowledged that some conduct straddles this line.
+
+---
+
+INTERACTION WITH CIV. CODE § 3294 — MALICE, OPPRESSION, FRAUD:
+
+To obtain punitive damages in any California action, the plaintiff must prove by clear and convincing evidence that the defendant was guilty of:
+- Malice: Conduct intended to cause injury or despicable conduct with willful and conscious disregard for others' rights or safety;
+- Oppression: Despicable conduct subjecting the plaintiff to cruel and unjust hardship in conscious disregard of the plaintiff's rights;
+- Fraud: Intentional misrepresentation, concealment, or false promise.
+
+The § 425.13 motion requires the plaintiff to show there is substantial probability of proving one of these at trial.
+
+---
+
+WHAT CONSTITUTES MALICE/OPPRESSION IN MEDICAL MALPRACTICE:
+
+California courts have found the § 3294 standard met in medical contexts where:
+- The healthcare provider knew a patient was in danger but chose to ignore it for financial reasons;
+- A healthcare provider falsified records to cover up a medical error;
+- A provider discharged a patient knowing the patient could not safely care for herself;
+- A provider performed procedures on a patient who had not consented and then lied about it.
+
+Mere negligence, even gross negligence, does not satisfy § 3294. The conduct must involve the mental state of malice, oppression, or fraud.
+
+---
+
+APPLICATION TO SIRVA / SURGICAL MALPRACTICE:
+
+For punitive damages in a SIRVA + surgical malpractice case:
+1. The § 425.13 motion must be brought before amending to add punitive damages;
+2. Evidence must show "substantial probability" of proving malice, oppression, or fraud;
+3. If the surgeon or facility falsified records about the SIRVA mechanism, covered up the cause of the shoulder injury, or knowingly performed unnecessary surgery — these facts support the malice/fraud elements;
+4. Bring the § 425.13 motion with: medical records, expert declaration on standard of care departure, and evidence of the specific mental state (e.g., records showing the provider knew the injection was misplaced).
+
+---
+
+SOURCE PROVENANCE:
+Citation: 3 Cal.4th 181 (1992)
+Official reporter: California Reports, Fourth Series, vol. 3, page 181
+Court: Supreme Court of California
+Key holding: CCP § 425.13 "substantial probability" standard; gatekeeping motion for punitive damages against healthcare providers; § 3294 elements in medical malpractice context
+Source of this text: Claude training data (knowledge cutoff August 2025). Central Pathology v. Superior Court is the controlling California case on the § 425.13 punitive gate in medical malpractice. Full verbatim text should be verified at:
+  - courts.ca.gov
+  - Google Scholar: "Central Pathology Service Medical Clinic v. Superior Court 3 Cal.4th"
+Verification status: PROPOSED — pending steward witness review

@@ -1,0 +1,25 @@
+{
+  "standard_id": "CAL_CIV_CODE_51",
+  "refs_updated": "2026-04-12 — ADAM review pass; build_status fields updated to reflect current corpus state",
+  "cross_references": [
+    {
+      "target_standard": "CAL_CIV_CODE_52",
+      "relationship": "remedies — §52 provides statutory damages ($4,000 minimum per violation), treble actual damages, civil penalties, and attorney's fees for Unruh Act violations",
+      "target_citizen": "CA_Civil_Rights_Litigator",
+      "target_manifest": "${citizens}/CA_Civil_Rights_Litigator/standards/cal_civ_code_52/manifest.json",
+      "build_status": "BUILT — WITNESSED-BY-HERALD 2026-04-12"
+    },
+    {
+      "target_standard": "CAL_CIV_CODE_52_1",
+      "relationship": "sibling — Bane Act protects rights from interference by coercion; Unruh Act protects access to businesses from discrimination. Different scope, different elements.",
+      "target_citizen": "CA_Civil_Rights_Litigator",
+      "target_manifest": "${citizens}/CA_Civil_Rights_Litigator/standards/cal_civ_code_52_1/manifest.json",
+      "build_status": "BUILT — WITNESSED-BY-HERALD 2026-04-12"
+    },
+    {
+      "target_standard": "ADA_TITLE_III",
+      "relationship": "federal counterpart — ADA Title III prohibits discrimination by public accommodations. §51(f) makes any ADA violation automatically an Unruh Act violation, with Unruh's statutory damages.",
+      "build_status": "NOT BUILT AS STANDALONE STANDARD — ADA Title III not yet in corpus. §51(f) cross-trigger documented in Unruh rule and reasoning layers."
+    }
+  ]
+}

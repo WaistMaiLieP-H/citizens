@@ -1,0 +1,10 @@
+{
+  "source": "VernenLegal MCP california_get_section",
+  "code": "CIV",
+  "section": "52",
+  "fetch_date_utc": "2026-04-09",
+  "fetched_from": "leginfo.legislature.ca.gov via VernenLegal MCP tool",
+  "fetched_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "text_file": "cal_civ_code_52_text.txt",
+  "notes": "Full text of all subdivisions (a) through (i) as returned by MCP. Formatted with paragraph breaks for readability; content unchanged."
+}

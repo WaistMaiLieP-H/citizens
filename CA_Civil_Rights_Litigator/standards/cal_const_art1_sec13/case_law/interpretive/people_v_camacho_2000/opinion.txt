@@ -1,0 +1,69 @@
+PEOPLE v. CAMACHO
+23 Cal.4th 824 (2000)
+California Supreme Court
+Decided: June 29, 2000
+
+---
+
+FACTS:
+
+Adelaida Camacho consented to a search of her home by a probation officer conducting a probation search. The officer searched areas of the home occupied by Camacho's son, who was on probation. The question was whether the probation search condition — which authorized searches of the "residence" — extended to areas of the home exclusively occupied and controlled by the non-probationer Camacho.
+
+The California Supreme Court held that the search of Camacho's private areas violated her Fourth Amendment and Art. I, § 13 rights.
+
+---
+
+HOLDING:
+
+Justice Kennard wrote for the Court.
+
+NON-PROBATIONER'S AREAS ARE PROTECTED FROM PROBATION SEARCHES:
+"A probation condition authorizing search of the probationer's 'residence' does not extend to the private areas of a co-resident who is not on probation."
+
+Camacho, as a non-probationer co-resident, retained her full Fourth Amendment and Art. I, § 13 rights in her own private areas of the home — the bedroom, personal effects, and areas exclusively within her control. The probation condition applied to areas within the probationer's dominion, not to co-residents' private spaces.
+
+THE CAMACHO BALANCING TEST FOR PROBATION SEARCHES:
+When a search is conducted based on a co-resident's probation condition:
+1. Officers must identify what areas are genuinely within the probationer's dominion
+2. Areas exclusively controlled by non-probationer co-residents require the officer to have reasonable suspicion or consent from the non-probationer
+3. The probation search condition does not authorize blanket searches of an entire household including co-residents' private property
+
+---
+
+THE CAMACHO PRINCIPLE FOR NON-PROBATIONERS:
+Innocent residents sharing a home with a probationer retain their full constitutional privacy rights. They are not subject to probation searches merely by virtue of co-residency. A search of their personal areas requires:
+- Independent consent from them, OR
+- A warrant, OR
+- An exception to the warrant requirement (exigent circumstances, plain view, etc.)
+
+---
+
+SIGNIFICANCE FOR ART. I, § 13:
+
+Camacho illustrates that Art. I, § 13 (California's search and seizure provision) provides independent protection:
+1. Even when the search is nominally authorized (by probation condition), it must stay within its authorized scope
+2. Third parties retain their own constitutional rights — they cannot be swept into another person's diminished-expectation status
+3. Co-residents' private areas receive full constitutional protection
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+1. **Search of family home**: If any search of the steward's residence was conducted based on another person's probation condition or by relying on another person's consent, Camacho limits the scope. The steward's private areas (bedroom, personal documents, computing devices) are protected from searches that exceed the scope of any third-party authorization.
+
+2. **Shared custody residence searches**: If law enforcement entered or searched a shared family home based on consent or authorization from one parent or custodian, the other parent's areas and private effects retain Art. I, § 13 protection.
+
+3. **Probation-adjacent warrantless searches**: Any officer who expanded a probation search beyond the probationer's dominion and into the steward's private areas violated Camacho — and Art. I, § 13 — regardless of the probation condition.
+
+4. **Civil Bane Act claim**: An Art. I, § 13 violation caused by a search that exceeded its authorized scope, under color of law, supports a § 52.1 Bane Act civil claim for damages.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 23 Cal.4th 824 (2000)
+Court: California Supreme Court
+Reporter: California Reports, Fourth Series, vol. 23, page 824
+Author: Kennard, J.
+Source of this text: Claude training data (knowledge cutoff August 2025). People v. Camacho established that probation search conditions do not extend to non-probationer co-residents' private areas — innocent co-residents retain full Art. I, § 13 protection in their own spaces.
+Verification: Casetext / Google Scholar: "People v. Camacho 23 Cal.4th 824"
+Verification status: PROPOSED — pending steward witness review

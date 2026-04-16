@@ -1,0 +1,10 @@
+{
+  "standard_id": "42_USC_1988",
+  "source_url_primary": "https://www.law.cornell.edu/uscode/text/42/1988",
+  "fetch_timestamp_utc": "2026-04-09T01:15:00Z",
+  "fetch_tool": "WebFetch (Claude Code)",
+  "retrieval_steward": "Claude (assistant) under steward direction — Michael Hartmann",
+  "text_file": "42_usc_1988_text.txt",
+  "text_sha256": "371636870ef415592a052fdc7d001be8e7b525f1e350761c5c809c386ebec554",
+  "notes": "Full text of all three subsections (a), (b), (c). Subsection (b) is the fee-shift provision — the operative heart of §1988 for civil rights litigation."
+}

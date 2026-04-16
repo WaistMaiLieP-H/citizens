@@ -1,0 +1,13 @@
+{
+  "case_name": "Tibble v. Edison International",
+  "year": 2015,
+  "reporter_citation": "575 U.S. 523",
+  "parallel_citations": ["135 S.Ct. 1823", "191 L.Ed.2d 795"],
+  "court": "United States Supreme Court",
+  "decided": "2015-05-18",
+  "author": "Breyer, J.",
+  "vote": "unanimous",
+  "statute_interpreted": "29 U.S.C. §§ 1104, 1109, 1113",
+  "verification_status": "VERIFIED — SCOTUS opinion; published in United States Reports",
+  "significance": "SCOTUS — continuing duty to monitor plan administration; each failure to remediate a known breach is a new breach; § 1113 limitations runs from last failure to correct, not initial wrong"
+}

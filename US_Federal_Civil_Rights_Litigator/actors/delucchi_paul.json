@@ -1,0 +1,12 @@
+{
+  "actor_id": "delucchi_paul",
+  "shared_record": "${citizens}/_shared_actors/delucchi_paul.json",
+  "domain": "US_Federal_Civil_Rights_Litigator",
+  "role": "§1983 defendant — judicial immunity analysis needed",
+  "risk_level": "MEDIUM",
+  "applicable_standards": ["42_USC_1983"],
+  "theory_of_liability": "Adopted mediation recommendation from Sala Ajaniku (ZERO verifiable credentials) without verification, reversing protective DVRO. The question is whether reliance on an unqualified mediator is a judicial act (immune) or an administrative failure (not immune).",
+  "immunity_analysis": "Judicial immunity applies for acts in judicial capacity (Stump v. Sparkman, 435 U.S. 349 (1978)). However: (1) 1996 FRIA amendment permits injunctive/declaratory relief against judges under §1983; (2) Pulliam v. Allen, 466 U.S. 522 (1984) and progeny; (3) strategic recommendation: name for declaratory/injunctive relief only, focus damages on non-immune defendants.",
+  "strategic_note": "Naming the judge is important for completeness of the conspiracy narrative and for injunctive relief (preventing future reliance on unqualified mediators), but damages recovery from this defendant is unlikely.",
+  "filed_at_utc": "2026-04-08T22:00:00Z"
+}

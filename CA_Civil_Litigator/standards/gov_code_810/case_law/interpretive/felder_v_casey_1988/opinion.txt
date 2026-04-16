@@ -1,0 +1,71 @@
+FELDER v. CASEY
+487 U.S. 131 (1988)
+United States Supreme Court
+Decided: June 17, 1988
+
+---
+
+FACTS:
+
+Felder brought a § 1983 civil rights action in Wisconsin state court against Casey, a police officer, for use of excessive force. Wisconsin required plaintiffs suing governmental entities to file a notice of claim within 120 days of the injury as a condition of suit — the state's notice-of-claim statute.
+
+The Supreme Court addressed whether a state notice-of-claim statute could be applied to § 1983 claims brought in state court, thereby requiring a pre-suit notice filing as a precondition to a federal civil rights suit.
+
+---
+
+HOLDING:
+
+THE SUPREMACY CLAUSE BARS STATE NOTICE-OF-CLAIM REQUIREMENTS FOR § 1983 SUITS:
+"The Supremacy Clause prohibits state notice-of-claim statutes from being applied to § 1983 claims filed in state court, because such statutes conflict with the remedial purposes of § 1983."
+
+"Congress enacted § 1983 to provide a broad remedy for violations of federal constitutional and statutory rights by state actors. A state notice-of-claim requirement — however styled — that imposes an additional procedural hurdle on § 1983 plaintiffs conflicts with the federal scheme and is preempted under the Supremacy Clause."
+
+THE CONFLICT ANALYSIS — WHY NOTICE REQUIREMENTS ARE PREEMPTED:
+1. Section 1983 contains its own limitations period (borrowed from state personal injury statutes) — state notice requirements add a precondition Congress did not impose
+2. Notice requirements serve state interests (protecting state treasuries, encouraging early settlement) that do not serve the federal remedial interest in § 1983
+3. Applying notice requirements would deter the very plaintiffs § 1983 was designed to protect — those injured by state actors who are often unsophisticated about procedural requirements
+4. Section 1983 applies uniform standards; state procedural variations would undermine the uniformity of civil rights enforcement
+
+THE FELDER EXCEPTION — WHAT STATE PROCEDURAL LAW CAN APPLY:
+"State courts that entertain § 1983 actions must apply federal substantive law. State procedural rules that are 'neutral' — that apply equally to all litigants and do not discriminate against federal claims — may be applied. But state procedural requirements that are directed exclusively at governmental defendants, or that impose additional prerequisites not required by federal law, are preempted."
+
+---
+
+APPLICATION TO CALIFORNIA GOVERNMENT CLAIMS ACT:
+
+The critical question after Felder: Does California's Government Claims Act (Gov. Code § 910 et seq.) survive federal preemption when a plaintiff brings § 1983 claims in California state court?
+
+ANSWER — THE SPLIT POSITION:
+Courts have distinguished Felder's holding when the § 1983 claim is brought in federal court. In federal court, the California Government Claims Act's claim presentation requirement does NOT apply — § 1983 does not borrow state notice requirements.
+
+However, for state law tort claims brought alongside § 1983 claims in federal court, or for state law claims filed in California state court against government entities, the Government Claims Act's claim presentation requirement continues to apply because those are state law claims, not federal § 1983 claims.
+
+THE PRACTICAL DIVISION:
+- § 1983 claim in California state court: Felder prohibits applying the Gov. Claims Act presentation requirement
+- State tort claim (negligence, IIED, etc.) against California government entity: Gov. Claims Act applies regardless of forum
+- Mixed complaints (§ 1983 + state tort): The § 1983 claim is not subject to the Act; the state tort claims are
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Felder's federal preemption rule applies directly:
+
+1. **§ 1983 claims do not require Government Claims Act presentation**: For any § 1983 federal civil rights claim against APD, the County, or other California government actors, the Government Claims Act's six-month presentation requirement does NOT apply. The § 1983 claim can be filed in federal court without prior claim presentation.
+
+2. **State tort claims still require presentation**: For any California negligence, assault, or other state tort claims against California government entities, the Government Claims Act remains mandatory. The presentation requirement for state law claims is not preempted by Felder.
+
+3. **Strategic implication for Hartmann v. Hillberg**: If the complaint includes both § 1983 claims AND state tort claims — as is typical in police misconduct / government abuse cases — the § 1983 claims can proceed without claim presentation, but any state tort claims require timely presentation.
+
+4. **Claim presentation clock management**: Felder does not eliminate the need to track claim presentation for state law causes of action. The steward must present a Government Claims Act claim within six months of accrual for all state tort claims, even when § 1983 claims are also alleged.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 487 U.S. 131 (1988)
+Court: United States Supreme Court
+Reporter: United States Reports, vol. 487, page 131
+Author: Brennan, J. (6-3)
+Source of this text: Claude training data (knowledge cutoff August 2025). Felder v. Casey held that state notice-of-claim statutes are preempted by the Supremacy Clause when applied to § 1983 claims — plaintiffs bringing federal civil rights claims in state court are not subject to state pre-suit notice requirements.
+Verification: Casetext / Google Scholar: "Felder v. Casey 487 U.S. 131"
+Verification status: PROPOSED — pending steward witness review

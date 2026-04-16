@@ -1,0 +1,12 @@
+{
+  "stage": "02_amendment_1987",
+  "bill": "California Legislature, 1987 session",
+  "stats_chapter": "Stats. 1987",
+  "effective": "1988-01-01",
+  "source": "leginfo.legislature.ca.gov",
+  "retrieval_method": "knowledge_base",
+  "retrieval_date": "2026-04-10",
+  "retrieval_steward": "Claude Opus 4.6 (1M context)",
+  "primary_source_verified": false,
+  "notes": "Incorporated Unruh Act categories by reference. Same session as Bane Act enactment."
+}

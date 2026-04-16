@@ -1,0 +1,28 @@
+{
+  "_schema": "five-layer cross-reference block",
+  "references": [
+    {
+      "target": "${citizens}/CA_Civil_Litigator/standards/ccp_340_5/manifest.json",
+      "relationship": "§364 tolls §340.5. The two provisions are operationally inseparable — every §364 notice decision is also a §340.5 calendar decision.",
+      "build_status": "PROPOSED-WITNESSED"
+    },
+    {
+      "target": "${citizens}/CA_Medical_Malpractice_Litigator/standards/civ_3333_2/manifest.json",
+      "relationship": "§364 cross-references Civ §3333.2(e)(2) for the definition of 'health care provider'. The two provisions use the same definitional framework.",
+      "build_status": "BUILT"
+    },
+    {
+      "target": "${citizens}/CA_Medical_Malpractice_Litigator/standards/sirva_doctrine/manifest.json",
+      "relationship": "SIRVA state-court claims must comply with §364 before filing. The steward's SIRVA case is the primary operational binding for this standard.",
+      "build_status": "BUILT"
+    }
+  ],
+  "sister_micra_provisions": [
+    "CCP §340.5 — MICRA SOL",
+    "CCP §425.13 — punitive damages pleading control for healthcare providers",
+    "CCP §667.7 — periodic payment of future damages",
+    "Civ §3333.1 — collateral source rule abrogation",
+    "Civ §3333.2 — noneconomic damages cap",
+    "B&P §6146 — attorney fee sliding scale"
+  ]
+}

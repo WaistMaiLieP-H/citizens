@@ -1,0 +1,18 @@
+Cal. Penal Code § 529 — Origin (1872 Codification)
+
+§ 529 was part of the original 1872 California Penal Code codification:
+
+§ 529 (1872 approximate):
+"Every person who falsely personates another in either his private or official capacity, and in such assumed character...
+1. Becomes bail or surety for any party in any proceeding whatever, before any court or officer authorized to take such bail or surety;
+2. Subscribes, verifies, publishes, acknowledges, or proves any written instrument with intent that the same may be delivered or used as true;
+3. Does any other act whereby, if done by the person falsely personated, might subject such person to civil or criminal liability, or might cause him loss or injury...is punishable by imprisonment in the state prison."
+
+The original three-pronged structure:
+1. Legal proceeding impersonation (bail, surety)
+2. Instrument impersonation (signing or acknowledging documents)
+3. General catch-all — any act that could create civil or criminal liability for the person impersonated
+
+The third prong — "any other act" creating liability or injury — is the provision that covers modern synthetic identity applications.
+
+Source: California Penal Code (1872 Codification).

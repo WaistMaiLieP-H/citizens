@@ -1,0 +1,47 @@
+{
+  "standard_id": "pen_1369_competency_hearing",
+  "citizen": "CA_Mental_Health_Litigator",
+  "layer": "cross_refs",
+  "generated": "2026-04-12",
+  "internal_refs": [
+    {
+      "id": "pen_1368_mental_competency",
+      "path": "${citizens}/CA_Mental_Health_Litigator/standards/pen_1368_mental_competency",
+      "relationship": "\u00a71368 triggers \u00a71369 \u2014 entry point \u2192 process"
+    },
+    {
+      "id": "bpc_2290_5_telehealth_standards",
+      "path": "${citizens}/CA_Mental_Health_Litigator/standards/bpc_2290_5_telehealth_standards",
+      "relationship": "Telehealth evaluation under \u00a71369 must comply with BPC \u00a72290.5 \u2014 CA licensure, prior consent, professional standards apply"
+    }
+  ],
+  "external_refs": [
+    {
+      "id": "CA_Criminal_Law_Specialist",
+      "path": "${citizens}/CA_Criminal_Law_Specialist",
+      "relationship": "\u00a71369(b)(1)(D) requires diversion opinion if defense requests \u2014 coordinates with \u00a71001.36 diversion mechanics owned by Criminal Law Citizen"
+    },
+    {
+      "id": "CA_Medical_Privacy_Officer",
+      "path": "${citizens}/CA_Medical_Privacy_Officer",
+      "relationship": "\u00a71369 evaluation report may be subject to CMIA/HIPAA confidentiality \u2014 mental health records privilege analysis required"
+    }
+  ],
+  "case_law": [
+    {
+      "citation": "Dusky v. United States, 362 U.S. 402 (1960)",
+      "holding": "Two-prong test: (1) understand proceedings AND (2) assist counsel with rational understanding \u2014 both required in \u00a71369(b)(1)(B)",
+      "significance": "Constitutional standard that \u00a71369(b)(1)(B) implements"
+    },
+    {
+      "citation": "In re Anthony H., 129 Cal.App.4th 495 (2005)",
+      "holding": "Inadequate competency evaluation = structural error; \u00a71368 standards require adequate hearing",
+      "significance": "Structural error standard \u2014 inadequate \u00a71369 process is not subject to harmless error review"
+    },
+    {
+      "citation": "Sell v. United States, 539 U.S. 166 (2003)",
+      "holding": "Government cannot forcibly medicate defendant to restore competency without satisfying four-part constitutional test",
+      "significance": "Limits forced restoration under \u00a71369(b)(1)(C) \u2014 medication restorability opinion has constitutional constraints"
+    }
+  ]
+}

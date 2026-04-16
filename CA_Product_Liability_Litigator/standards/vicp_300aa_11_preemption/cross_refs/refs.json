@@ -1,0 +1,39 @@
+{
+  "standard_id": "vicp_300aa_11_preemption",
+  "citizen": "CA_Product_Liability_Litigator",
+  "build_date": "2026-04-13",
+  "cross_references": [
+    {
+      "ref_id": "XREF-VICP-001",
+      "target_citizen": "CA_Product_Liability_Litigator",
+      "target_standard": "greenman_strict_products_liability",
+      "path": "${citizens}/CA_Product_Liability_Litigator/standards/greenman_strict_products_liability/",
+      "relationship": "preemption_boundary",
+      "note": "VICP §300aa-22(b)(1) (per Bruesewitz) preempts Greenman strict liability and Barker design defect claims against vaccine MANUFACTURERS. Does NOT apply to Walgreens as administering party."
+    },
+    {
+      "ref_id": "XREF-VICP-002",
+      "target_citizen": "CA_Product_Liability_Litigator",
+      "target_standard": "barker_design_defect_test",
+      "path": "${citizens}/CA_Product_Liability_Litigator/standards/barker_design_defect_test/",
+      "relationship": "preemption_boundary",
+      "note": "Bruesewitz fully preempts Barker design defect against vaccine manufacturers. Barker applies to Walgreens only for non-vaccine device defects (syringe, needle manufacturer)."
+    },
+    {
+      "ref_id": "XREF-VICP-003",
+      "target_citizen": "CA_Medical_Malpractice_Litigator",
+      "target_standard": "sirva_doctrine",
+      "path": "${citizens}/CA_Medical_Malpractice_Litigator/standards/sirva_doctrine/",
+      "relationship": "gateway",
+      "note": "VICP preemption analysis is the gateway: once confirmed Walgreens is not a manufacturer, the claim routes to SIRVA negligent administration doctrine (CA_Medical_Malpractice_Litigator). These standards must be read together for the Walgreens claim."
+    },
+    {
+      "ref_id": "XREF-VICP-004",
+      "target_citizen": "CA_Product_Liability_Litigator",
+      "target_standard": "ccp_338_property_fraud_sol",
+      "path": "${citizens}/CA_Product_Liability_Litigator/standards/ccp_338_property_fraud_sol/",
+      "relationship": "procedural",
+      "note": "VICP 3-year petition filing deadline runs from first symptom. Civil action against Walgreens (post-VICP failure or parallel): CCP §335.1 (2-year personal injury). Check whether VICP filing window is closed."
+    }
+  ]
+}

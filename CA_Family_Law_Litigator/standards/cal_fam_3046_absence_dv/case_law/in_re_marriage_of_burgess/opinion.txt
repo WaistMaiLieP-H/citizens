@@ -1,0 +1,26 @@
+IN RE MARRIAGE OF BURGESS
+13 Cal.4th 25
+California Supreme Court, 1996
+
+FACTS:
+Relocation case. The custodial mother sought to move with the couple's children for
+employment reasons. The father opposed the move. The trial court denied the relocation.
+The Court of Appeal reversed. The California Supreme Court granted review to address
+the standard governing a custodial parent's right to relocate.
+
+HOLDING — CAL. FAM. CODE § 3020 / BEST INTEREST:
+"[A] parent who has sole physical custody has the presumptive right to change the
+residence of the child, subject to the power of the court to restrain a removal that
+would prejudice the rights or welfare of the child." The court held that the noncustodial
+parent bears the initial burden of showing the move would be detrimental to the child.
+The custodial parent's reasons for moving are generally not subject to court approval.
+
+SIGNIFICANCE:
+While Burgess predates the DV-specific § 3046 framing, it establishes the foundational
+principle that the court cannot use a custodial parent's relocation decision as
+evidence against them without the noncustodial parent first showing detriment.
+§ 3046 extends this logic to DV victims: the departure is presumptively protected
+once the DV nexus is shown. Burgess is cited alongside § 3046 to argue that a
+DV victim-parent who departed cannot be treated as having disrupted the child's
+custody arrangement without the abuser first demonstrating actual detriment —
+a near-impossible burden where the departure was caused by the abuser's own violence.

@@ -1,0 +1,57 @@
+{
+  "standard_id": "wic_15610_30_financial_abuse_def",
+  "citizen": "CA_Elder_Law_Litigator",
+  "layer": "cross_refs",
+  "generated": "2026-04-12",
+  "internal_refs": [
+    {
+      "id": "wic_15610_70_undue_influence",
+      "path": "${citizens}/CA_Elder_Law_Litigator/standards/wic_15610_70_undue_influence",
+      "relationship": "\u00a715610.30(a)(3) incorporates \u00a715610.70 by reference \u2014 undue influence is the third pathway to financial abuse"
+    },
+    {
+      "id": "wic_15657_5_financial_abuse_remedies",
+      "path": "${citizens}/CA_Elder_Law_Litigator/standards/wic_15657_5_financial_abuse_remedies",
+      "relationship": "Enhanced remedies triggered by proof of financial abuse under this definition"
+    },
+    {
+      "id": "prob_859_double_damages",
+      "path": "${citizens}/CA_Elder_Law_Litigator/standards/prob_859_double_damages",
+      "relationship": "Double damages for bad-faith taking expressly cross-references \u00a715610.30"
+    }
+  ],
+  "external_refs": [
+    {
+      "id": "CA_Conservator_Investigator_prob_2620",
+      "path": "${citizens}/CA_Conservator_Investigator/standards/cal_prob_2620",
+      "relationship": "Conservator as 'representative' under \u00a715610.30(d)(1) \u2014 accounting failures combined with financial abuse"
+    },
+    {
+      "id": "CA_Real_Estate_Attorney_case_19",
+      "path": "${citizens}/CA_Real_Estate_Attorney",
+      "relationship": "Honeysuckle sale \u2014 property disposition by conservator/representative under undue influence or wrongful use theory"
+    },
+    {
+      "id": "US_Federal_Financial_Fraud_Litigator",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator",
+      "relationship": "Wire fraud / RICO overlay where financial elder abuse crosses into federal jurisdiction"
+    }
+  ],
+  "case_law": [
+    {
+      "citation": "Das v. Bank of America, N.A., 186 Cal.App.4th 727 (2010)",
+      "holding": "Bank that assists wrongful transfer of elder's property may be directly liable under \u00a715610.30(a)(2) as assisting party",
+      "significance": "Established third-party institutional liability pathway"
+    },
+    {
+      "citation": "Bernard v. Foley, 39 Cal.4th 794 (2006)",
+      "holding": "Care custodian prohibition on donative transfers; even apparently voluntary gifts from dependent adult to caretaker are presumptively invalid",
+      "significance": "Applies \u00a715610.30 to apparent consent situations"
+    },
+    {
+      "citation": "Stebley v. Litton Loan Servicing, LLP, 202 Cal.App.4th 522 (2011)",
+      "holding": "Elder financial abuse applied to mortgage fraud context; loan modification targeting elder = financial abuse",
+      "significance": "Extended \u00a715610.30 to real property/mortgage contexts"
+    }
+  ]
+}

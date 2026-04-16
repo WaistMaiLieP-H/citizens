@@ -1,0 +1,46 @@
+{
+  "investigation_id": "ajaniku_pra_request",
+  "title": "Public Records Act request to Alameda County Superior Court for Sala Ajaniku employment, qualifications, and credential records",
+  "question": "Does Alameda County Superior Court possess any documentary record of Sala Ajaniku's credentials, qualifications, employment status, hiring documentation, or training certificates?",
+  "context": "Per the credential audit (CREDENTIAL-AUDIT-AJANIKU-PAREDES-DITSWORTH-2026-03-23.md), Sala Ajaniku has zero verifiable credentials in any public database, professional directory, or licensing board. Her September 2010 mediator recommendation in RF09456481 reversed the prior protective DVRO and granted Christina unsupervised visitation. Family Code § 3164(b) requires every mediator to meet § 1815 minimum qualifications. § 1815(a)(7) requires DV training under § 1816. § 1816(g) requires court notification or certificate attachment. Without any documentary support, Ajaniku's appointment was statutorily defective.",
+  "unblock_path": "File a California Public Records Act (Gov. Code § 7920.000 et seq.) request with Alameda County Superior Court Family Court Services seeking: (1) Sala Ajaniku's complete employment file; (2) any credential verification records on file at the time of her September 2010 mediator assignment; (3) any § 1816 DV training certificates filed by Ajaniku; (4) the original mediation report from 09/02/2010 with any credentials listed; (5) the institutional credential-verification process that should have applied to her appointment.",
+  "who_can_answer": "Alameda County Superior Court — Public Records Act compliance officer",
+  "related_actors": [
+    "ajaniku_sala",
+    "delucchi_paul_judge"
+  ],
+  "related_cases": [
+    "RF09456481"
+  ],
+  "related_standards": [
+    "CA_FAM_3164_MEDIATOR_QUALIFICATIONS",
+    "CA_FAM_1815_COUNSELOR_QUALIFICATIONS",
+    "CA_FAM_1816_MEDIATOR_DV_TRAINING"
+  ],
+  "priority": "CRITICAL",
+  "status": "READY_TO_SEND",
+  "filed_at_utc": "2026-04-08T19:25:00Z",
+  "prepared_on": "2026-04-15",
+  "draft_letter_path": "outstanding_investigations/drafts/ajaniku_pra_request_letter.md",
+  "draft_letter_status": "FINALIZED 2026-04-15; steward fills in mailing address + signature block and sends.",
+  "deliverables": [
+    {
+      "type": "outgoing_letter",
+      "path": "outstanding_investigations/ajaniku_pra_request/deliverables/outgoing_letter_or_subpoena.md"
+    },
+    {
+      "type": "finalized_letter_body",
+      "path": "outstanding_investigations/drafts/ajaniku_pra_request_letter.md"
+    },
+    {
+      "type": "recipient_routing",
+      "path": "outstanding_investigations/ajaniku_pra_request/deliverables/recipient_routing.md"
+    },
+    {
+      "type": "response_tracker",
+      "path": "outstanding_investigations/ajaniku_pra_request/deliverables/response_tracker.md"
+    }
+  ],
+  "delivery_mode": "email_and_usps_certified",
+  "mailing_execution_status": "READY_TO_PRINT"
+}

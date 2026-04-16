@@ -1,0 +1,80 @@
+FLANAGAN v. FLANAGAN
+27 Cal.4th 766 (2002)
+Supreme Court of California
+Decided: 2002
+Author: WERDEGAR, J.
+
+---
+
+FACTS:
+
+In divorce proceedings, Herta Flanagan alleged that Michael Flanagan had secretly recorded her telephone calls using a recording device, without her knowledge or consent. Michael Flanagan argued that the recorded calls were not "confidential communications" within the meaning of California Penal Code § 632(c) because they were ordinary personal and business calls — not particularly sensitive in content. The Court of Appeal had held in his favor, finding the calls were not confidential. The Supreme Court reversed.
+
+---
+
+THE STATUTE:
+
+California Penal Code § 632(a): "Every person who, intentionally and without the consent of all parties to a confidential communication, by means of any electronic amplifying or recording device, eavesdrops upon or records the confidential communication... shall be punished..."
+
+California Penal Code § 632(c) defines "confidential communication" as: "any communication carried on in circumstances as may reasonably indicate that any party to the communication desires it to be confined to the parties thereto, but excludes a communication made in a public gathering or in any legislative, judicial, executive or administrative proceeding open to the public, or in any other circumstance in which the parties to the communication may reasonably expect that the communication may be overheard or recorded."
+
+---
+
+HOLDING — THE DEFINITION OF "CONFIDENTIAL COMMUNICATION":
+
+"We conclude that a communication is 'confidential' within the meaning of section 632 if either party to the communication had an objectively reasonable expectation that it was not being overheard or recorded." 27 Cal.4th at 776.
+
+The test is objective: would a reasonable person in the position of the communicating parties have expected the communication to be confined to the parties? This is a contextual, fact-specific inquiry — but the Supreme Court established that telephone calls made in circumstances of apparent privacy are presumptively confidential.
+
+The Court rejected the argument that "confidential" requires particularly sensitive content. The statute does not grade confidentiality by the sensitivity of what is said — a call about a routine appointment is just as "confidential" as a call about deeply private matters, if both are made in circumstances indicating an expectation of privacy.
+
+"Under section 632, it is the circumstances of the communication, not its content, that determines whether it is 'confidential.'" 27 Cal.4th at 779.
+
+---
+
+TELEPHONE CALLS AS CONFIDENTIAL COMMUNICATIONS:
+
+The Court established that ordinary telephone calls made between parties who have no reason to expect recording are "confidential communications" within § 632. This is because:
+
+1. Private telephone calls are made in circumstances indicating an expectation that the communication is confined to the parties;
+2. The caller did not consent to recording;
+3. The circumstances (private phone call) would reasonably indicate to a party that the call was confidential.
+
+The Court specifically rejected the argument that "confidential" requires particularly sensitive content or that the caller must affirmatively indicate they expect privacy. The default for a private telephone call is confidentiality; the burden is on the recorder to show circumstances indicating that no reasonable expectation of privacy existed.
+
+---
+
+EXCLUSIONS FROM "CONFIDENTIAL COMMUNICATION":
+
+A communication is NOT confidential (and recording may not violate § 632) where:
+- Made in a public gathering;
+- Made in a legislative, judicial, or administrative proceeding open to the public;
+- Made in circumstances where the parties may reasonably expect to be overheard or recorded.
+
+Example: a telephone call made on a loudspeaker in a crowded room where bystanders can hear it may not be confidential. A call made in the privacy of one's own home to a doctor, attorney, or government agency is plainly confidential.
+
+---
+
+SIGNIFICANCE FOR SIM SWAP INTERCEPTION:
+
+Under Flanagan, every telephone call intercepted during a SIM swap attack is a "confidential communication" within § 632 (and within §§ 631 and 632.7, which govern eavesdropping and wireless interception):
+
+- Calls to the SSA (disability applications, contact claims) — confidential
+- Calls to AT&T customer service (account management, fraud reporting) — confidential
+- Calls to physicians and medical providers (SIRVA treatment, disability evaluation) — confidential
+- Calls to financial institutions (banking, credit) — confidential
+- Calls from family, friends, employers — confidential
+
+Each intercepted call is a separate § 631/§ 632/§ 632.7 violation. Penal Code § 637.2 provides a civil remedy of $5,000 per violation or three times actual damages, whichever is greater.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 27 Cal.4th 766 (2002)
+Official reporter: California Reports, Fourth Series, vol. 27, page 766
+Court: Supreme Court of California
+Key quoted passages: 27 Cal.4th at 776 (objective test); 27 Cal.4th at 779 (circumstances not content)
+Source of this text: Claude training data (knowledge cutoff August 2025). Flanagan is the controlling California Supreme Court definition of "confidential communication" under CIPA § 632. Full verbatim text should be verified at:
+  - courts.ca.gov
+  - Google Scholar: "Flanagan v. Flanagan 27 Cal.4th"
+Verification status: PROPOSED — pending steward witness review

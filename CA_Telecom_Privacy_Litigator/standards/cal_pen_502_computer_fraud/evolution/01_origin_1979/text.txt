@@ -1,0 +1,17 @@
+California Penal Code § 502 — Original Enactment
+SB 1012 (Chapter 858, Statutes of 1979)
+
+The original 1979 § 502 was narrowly focused on financial computer crimes:
+
+Original § 502 (1979):
+"Any person who intentionally and without authorization accesses, alters, damages, or destroys any computer system, computer network, computer program, or data, or who intentionally accesses, alters, damages, or destroys any computer system, computer network, computer program, or data, as part of a scheme or artifice to defraud or to obtain money, property, or services with false or fraudulent intent, representations, or promises is guilty of a public offense."
+
+Key characteristics of the original enactment:
+1. Required intent to defraud OR intent to damage — narrow scope.
+2. No private right of action — criminal prosecution only.
+3. No explicit definition of "computer system" or "computer network."
+4. California was among the earliest states to criminalize computer fraud.
+
+Limitation: The original statute did not cover mere unauthorized access without financial fraud or damage. If someone accessed a computer simply to read information without intent to defraud or damage, the original § 502 did not apply.
+
+Source: Chapter 858, Statutes of 1979; SB 1012.

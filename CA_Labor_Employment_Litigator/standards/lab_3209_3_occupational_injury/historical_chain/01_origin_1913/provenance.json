@@ -1,0 +1,16 @@
+{
+  "standard_id": "lab_3209_3_occupational_injury",
+  "layer": "historical_chain",
+  "subdirectory": "01_origin_1913",
+  "primary_source": "Cal. Lab. Code \u00a7 3208 (statute text); source prep referenced \u00a73209.3 \u2014 corrected; \u00a73209.3 is physician definition",
+  "enactment": "Stats. 1913, Ch. 176 (Workers Compensation Act original framework)",
+  "key_amendments": [
+    "1975 \u2014 \u00a73208.1 cumulative injury doctrine codified"
+  ],
+  "current_form_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3208.&lawCode=LAB",
+  "verified": true,
+  "fetch_method": "VernenLegal MCP california_get_section (\u00a73208 fetched; \u00a73209.3 also fetched \u2014 confirmed as physician definition not occupational injury)",
+  "fetch_date": "2026-04-12",
+  "source_prep_note": "Source prep stated \u00a73209.3 as occupational injury definition \u2014 incorrect. \u00a73209.3 defines 'physician' for workers comp purposes. Content corrected to \u00a73208. Tether standard ID preserved for consistency.",
+  "chronicle_flag": false
+}

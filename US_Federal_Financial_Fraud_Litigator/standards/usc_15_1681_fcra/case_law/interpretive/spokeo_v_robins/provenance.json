@@ -1,0 +1,15 @@
+{
+  "case_slug": "spokeo_v_robins",
+  "full_citation": "Spokeo, Inc. v. Robins, 578 US 330 (2016)",
+  "court": "United States Supreme Court",
+  "decided": "2016-05-16",
+  "docket": "13-1339",
+  "opinion_author": "Alito, J.",
+  "dissent": "Ginsburg, J. (joined by Sotomayor, J.)",
+  "holding_category": "interpretive — Article III standing / concrete injury requirement",
+  "fcra_sections_interpreted": ["15 USC §1681e(b)", "15 USC §1681n"],
+  "subsequent_history": "Remanded to 9th Cir.; Ninth Circuit on remand found standing (660 Fed.Appx. 524 (9th Cir. 2016))",
+  "source_url": "https://supreme.justia.com/cases/federal/us/578/330/",
+  "verbatim_capture_status": "PENDING",
+  "build_date": "2026-04-10"
+}

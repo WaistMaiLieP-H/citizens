@@ -1,0 +1,16 @@
+{
+  "evolution_stage": "03_superremedy_amendment",
+  "standard_id": "CAL_FAM_1101",
+  "description": "Addition of § 1101(h) — 100% super-remedy for § 3294-level fiduciary breaches",
+  "enacted_by": "REQUIRES_PRIMARY_SOURCE_VERIFICATION",
+  "effective_date": "REQUIRES_PRIMARY_SOURCE_VERIFICATION",
+  "source": "California Statutes — exact chapter requires verification",
+  "primary_source_url": "https://leginfo.legislature.ca.gov/faces/billSearchClient.xhtml",
+  "retrieval_method": "Historical legal research — current text confirmed via VernenLegal MCP (2026-04-10); amendment date requires verification",
+  "verification_status": "TEXT_CONFIRMED — AMENDMENT_DATE_REQUIRES_VERIFICATION",
+  "verification_note": "Current § 1101(h) text confirmed from leginfo.legislature.ca.gov MCP fetch 2026-04-10. To find exact amendment: search leginfo for Fam. Code § 1101 amendments, filter for bills adding subdivision (h). Walker v. Heye (2012) CA App cited § 1101(h), confirming it was in effect by 2012.",
+  "html_sha256": null,
+  "fetch_timestamp": "2026-04-11T00:00:00Z",
+  "fetch_tool": "historical research + VernenLegal MCP (current text)",
+  "retrieval_steward": "Claude (assistant) under steward direction — Michael Hartmann"
+}

@@ -1,0 +1,43 @@
+{
+  "standard_id": "ins_790_unfair_practices_purpose",
+  "citizen": "CA_Insurance_Compliance_Litigator",
+  "citation": "Cal. Ins. Code \u00a7790",
+  "jurisdiction": "California",
+  "build_date": "2026-04-13",
+  "build_state": "PUBLISHED",
+  "layers": {
+    "rule": "COMPLETE",
+    "statute_text": "COMPLETE",
+    "historical_chain": "COMPLETE",
+    "case_law": "COMPLETE",
+    "cross_refs": "COMPLETE"
+  },
+  "provenance": {
+    "source": "leginfo.legislature.ca.gov",
+    "tool": "mcp__claude_ai_VernenLegal__california_get_section",
+    "fetch_date": "2026-04-13",
+    "verified": true,
+    "statute_sha256": "e9cc63acffb17d1e7f73466ffe4fd6b2a545b8990f535a8f32780003277716b3"
+  },
+  "witness": {
+    "ADAM": {
+      "signal": "APPROVE",
+      "date": "2026-04-15",
+      "note": "Five-layer schema complete; primary-source provenance (SHA256) intact; no stubs; aligns with tether triple_constraint."
+    },
+    "EVE": {
+      "signal": "COUNTERSIGN",
+      "date": "2026-04-15",
+      "note": "Hash independently recomputed and confirmed; cross-refs consistent with sibling Citizens; historical chain seeded; OK to publish."
+    }
+  },
+  "adam_signal": "APPROVE",
+  "eve_signal": "COUNTERSIGN",
+  "witness_date": "2026-04-15",
+  "herald_countersign": {
+    "signal": "COUNTERSIGN",
+    "date": "2026-04-15",
+    "role": "acting_witness",
+    "note": "Stewardship witness per HERALD designation 2026-04-12 \u2014 entry is routine/verified."
+  }
+}

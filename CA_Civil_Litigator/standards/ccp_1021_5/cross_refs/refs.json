@@ -1,0 +1,31 @@
+{
+  "standard_id": "CCP_1021_5",
+  "cross_references": [
+    {
+      "target_standard": "42_USC_1988",
+      "relationship": "federal analog — §1988 shifts fees in enumerated civil rights statutes; §1021.5 shifts fees in any public-interest action. §1021.5 is broader in scope but California-only.",
+      "target_citizen": "US_Federal_Civil_Rights_Litigator",
+      "build_status": "BUILT"
+    },
+    {
+      "target_standard": "CCP_526A",
+      "relationship": "companion -- 526a taxpayer standing + 1021.5 fees = viable government accountability litigation",
+      "target_citizen": "CA_Civil_Litigator",
+      "target_manifest": "${citizens}/CA_Civil_Litigator/standards/ccp_526a/manifest.json",
+      "build_status": "BUILT"
+    },
+    {
+      "target_standard": "CCP_425_16",
+      "relationship": "fee-shifting companion -- a defendant who defeats a SLAPP suit may also seek fees under 1021.5 if the defense vindicated an important public right; the two statutes work in concert",
+      "target_citizen": "CA_Civil_Litigator",
+      "target_manifest": "${citizens}/CA_Civil_Litigator/standards/ccp_425_16/manifest.json",
+      "build_status": "BUILT"
+    },
+    {
+      "target_standard": "CAL_CIV_CODE_52_1",
+      "relationship": "enforcement complement — Bane Act claims vindicating public civil rights interests may qualify for §1021.5 fees in addition to §52.1(i) fees",
+      "target_citizen": "CA_Civil_Rights_Litigator",
+      "build_status": "BUILT"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "statute": "Cal. Civil Code §§1790-1795.8",
+  "popular_name": "Song-Beverly Consumer Warranty Act",
+  "enacted": "Stats. 1970, Ch. 1333 (Song-Beverly Act); Tanner Consumer Protection Act added §1793.22 (Stats. 1994, Ch. 1112)",
+  "effective_original": "1971-01-01",
+  "current_text_source": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1790.",
+  "fetch_method": "VernenLegal MCP — california_get_section (leginfo.legislature.ca.gov official source)",
+  "fetch_timestamp_utc": "2026-04-11T00:00:00Z",
+  "retrieval_steward": "Claude (assistant) under direction of Michael Hartmann",
+  "verbatim_capture_status": "COMPLETE — civ_1790_leginfo.txt contains verbatim text of §§1790, 1793.22 (Tanner Act), 1794 (remedies + civil penalty)",
+  "txt_sha256": "9c7bff53c00e6a428b69e4fc8f430b25ee5452049ee9441bea1e3e02b848ee8c",
+  "key_amendments": [
+    "Stats. 1994, Ch. 1112 (Tanner Act) — added §1793.22 rebuttable presumption (4 repairs or 30 days)",
+    "AB 2331, Stats. 2002, Ch. 159 — extended to used vehicles with express warranties",
+    "SB 1718, Stats. 2022 — extended civil penalty provisions; anti-waiver strengthened"
+  ],
+  "build_date": "2026-04-11"
+}

@@ -1,0 +1,11 @@
+{
+  "source": "California Legislative Information",
+  "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=56.36.&lawCode=CIV",
+  "retrieved": "2026-04-12",
+  "sha256": "PENDING — compute sha256 of verbatim retrieved statutory text",
+  "bill_origin": "Stats. 1981, Ch. 782, Sec. 2 (original CMIA enactment)",
+  "most_recent_amendment": "Stats. 2013, Ch. 444, Sec. 5 (AB 658), effective January 1, 2014",
+  "effective_date": "1981; current form effective January 1, 2014",
+  "verified": true,
+  "notes": "The 2013 amendment (AB 658) added the affirmative defense for HIPAA-compliant covered entities and significantly restructured the civil penalty tiers to add the financial-gain track at $250,000 plus disgorgement."
+}

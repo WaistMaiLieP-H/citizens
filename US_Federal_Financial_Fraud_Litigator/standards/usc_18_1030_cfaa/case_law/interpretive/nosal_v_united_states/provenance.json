@@ -1,0 +1,14 @@
+{
+  "case_slug": "nosal_v_united_states",
+  "full_citation_nosal_i": "United States v. Nosal, 676 F.3d 854 (9th Cir. 2012) (en banc)",
+  "full_citation_nosal_ii": "United States v. Nosal, 844 F.3d 1024 (9th Cir. 2016)",
+  "court": "United States Court of Appeals for the Ninth Circuit",
+  "decided": "Nosal I: 2012-04-10 (en banc); Nosal II: 2016-07-05",
+  "holding_category": "interpretive — Nosal I: 'exceeds authorized access' is scope-based (adopted by Van Buren); Nosal II: credential-sharing to grant access to unauthorized user = 'without authorization'; survives Van Buren",
+  "statute_interpreted": "18 U.S.C. §1030(a)(2)",
+  "source_url_nosal_i": "https://law.justia.com/cases/federal/appellate-courts/ca9/10-10038/",
+  "source_url_nosal_ii": "https://law.justia.com/cases/federal/appellate-courts/ca9/14-10037/",
+  "current_status": "Nosal I: reasoning adopted by Van Buren (2021); Nosal II: survives Van Buren; both remain good law in Ninth Circuit",
+  "verbatim_capture_status": "PENDING",
+  "build_date": "2026-04-11"
+}

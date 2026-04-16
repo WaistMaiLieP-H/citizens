@@ -1,0 +1,47 @@
+{
+  "standard_id": "lab_4600_medical_treatment_entitlement",
+  "citizen": "CA_Workers_Compensation_Litigator",
+  "build_date": "2026-04-13",
+  "cross_references": [
+    {
+      "ref_id": "XREF-4600-001",
+      "target_citizen": "CA_Workers_Compensation_Litigator",
+      "target_standard": "lab_4610_utilization_review",
+      "path": "${citizens}/CA_Workers_Compensation_Litigator/standards/lab_4610_utilization_review/",
+      "relationship": "prerequisite",
+      "note": "§4600(d)(5) authorizes insurer to require prior authorization and conduct UR under §4610. §4610 defines the procedural requirements for a valid UR denial. A UR denial that does not comply with §4610 is void — the §4600(a) self-procured treatment liability then applies."
+    },
+    {
+      "ref_id": "XREF-4600-002",
+      "target_citizen": "CA_Workers_Compensation_Litigator",
+      "target_standard": "lab_4663_apportionment_permanent_disability",
+      "path": "${citizens}/CA_Workers_Compensation_Litigator/standards/lab_4663_apportionment_permanent_disability/",
+      "relationship": "concurrent",
+      "note": "Apportionment (§4663) affects permanent disability indemnity, NOT medical treatment. The employer must treat the industrial component regardless of apportionment. §4600 treatment obligation and §4663 apportionment operate on different tracks."
+    },
+    {
+      "ref_id": "XREF-4600-003",
+      "target_citizen": "CA_Workers_Compensation_Litigator",
+      "target_standard": "lab_3202_liberal_construction",
+      "path": "${citizens}/CA_Workers_Compensation_Litigator/standards/lab_3202_liberal_construction/",
+      "relationship": "prerequisite",
+      "note": "Ambiguities in §4600 (what treatment is 'reasonably required'? who qualifies as a 'personal physician'?) are resolved in favor of the injured worker under §3202 liberal construction."
+    },
+    {
+      "ref_id": "XREF-4600-004",
+      "target_citizen": "CA_Workers_Compensation_Litigator",
+      "target_standard": "lab_4553_serious_willful_misconduct_enhancement",
+      "path": "${citizens}/CA_Workers_Compensation_Litigator/standards/lab_4553_serious_willful_misconduct_enhancement/",
+      "relationship": "concurrent",
+      "note": "If the employer or insurer systematically denied required medical treatment through procedurally deficient UR as part of a deliberate fraud scheme (UA342 identity replacement), the 50% enhancement under §4553 may apply if the pattern constitutes serious and willful misconduct."
+    },
+    {
+      "ref_id": "XREF-4600-005",
+      "target_citizen": "CA_Labor_Employment_Litigator",
+      "target_standard": "lab_132a_wc_retaliation",
+      "path": "${citizens}/CA_Labor_Employment_Litigator/standards/lab_132a_wc_retaliation/",
+      "relationship": "parallel",
+      "note": "LAB §132a prohibits retaliation against workers who claim workers comp benefits. If treatment denial was part of a retaliation pattern (e.g., employer directing physician to minimize injury to discourage claim), §132a is the parallel track. CA_Labor_Employment_Litigator owns §132a; this Citizen owns the §4600 treatment entitlement."
+    }
+  ]
+}

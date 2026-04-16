@@ -1,0 +1,27 @@
+{
+  "standard_id": "CCP_583_310",
+  "cross_references": [
+    {
+      "target_standard": "CCP_583_340",
+      "relationship": "tolling exceptions \u2014 \u00a7583.340 defines the only circumstances that toll the five-year clock: impossibility, impracticability, or futility of bringing the action to trial; stays; court-ordered suspensions. Without \u00a7583.340, the five-year rule would be absolutely inflexible.",
+      "build_status": "NOT BUILT AS STANDALONE STANDARD \u2014 tolling exceptions documented within ccp_583_310 reasoning layer."
+    },
+    {
+      "target_standard": "CCP_583_360",
+      "relationship": "computation and dismissal \u2014 \u00a7583.360 governs how the five years is calculated (from filing, not service) and mandates dismissal on motion or the court's own motion when the period expires.",
+      "build_status": "NOT BUILT AS STANDALONE STANDARD \u2014 computation and dismissal procedures documented within ccp_583_310 reasoning layer."
+    },
+    {
+      "target_standard": "CCP_583_130",
+      "relationship": "policy tension \u2014 \u00a7583.130 declares California's preference for trial on the merits. The five-year rule (\u00a7583.310) is the mandatory exception: when the two policies conflict, the five-year dismissal controls. The Legislature values finality over merits resolution after five years.",
+      "build_status": "NOT BUILT AS STANDALONE STANDARD \u2014 policy preference for trial on merits documented within ccp_583_310 historical_chain layer."
+    },
+    {
+      "target_standard": "CCP_340_5",
+      "relationship": "procedural deadline sibling \u2014 \u00a7340.5 determines when a medical malpractice case must be FILED. \u00a7583.310 determines when it must be TRIED. Together they define the outer boundary of a medical malpractice case's lifespan.",
+      "target_citizen": "CA_Civil_Litigator",
+      "build_status": "BUILT (this session)"
+    }
+  ],
+  "refs_updated": "2026-04-12 \u2014 ADAM review pass; build_status fields updated to reflect current corpus state"
+}

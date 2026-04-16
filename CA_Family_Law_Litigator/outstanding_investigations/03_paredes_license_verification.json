@@ -1,0 +1,29 @@
+{
+  "investigation_id": "paredes_license_verification",
+  "title": "Direct DCA license search for Olga Paredes; California Board of Psychology contact for license verification",
+  "question": "Did Olga Paredes hold a valid California Board of Psychology license in July 2009? What is her license number? What degree does she actually hold from the Wright Institute?",
+  "context": "Per the credential audit, Paredes claims a Ph.D. from the Wright Institute, but the Wright Institute grants PsyD degrees, not Ph.D. The credential audit found no California Board of Psychology license number for her through web search. In California, one cannot use the title 'forensic psychologist' (which Paredes claims on LinkedIn) without a Board of Psychology license per Bus. & Prof. Code § 2903.",
+  "unblock_path": "(1) Direct DCA License Search at search.dca.ca.gov for 'Olga Paredes'; (2) phone California Board of Psychology at 916-574-7720 for license verification; (3) contact Wright Institute Registrar's office for degree-type verification.",
+  "who_can_answer": "California Board of Psychology; Wright Institute Registrar; California Department of Consumer Affairs",
+  "related_actors": [
+    "paredes_olga"
+  ],
+  "related_cases": [
+    "RF09456481"
+  ],
+  "related_standards": [
+    "CA_FAM_3164_MEDIATOR_QUALIFICATIONS",
+    "CA_FAM_1815_COUNSELOR_QUALIFICATIONS",
+    "CA_FAM_1816_MEDIATOR_DV_TRAINING"
+  ],
+  "priority": "MEDIUM",
+  "status": "READY_TO_SEND",
+  "filed_at_utc": "2026-04-08T19:25:00Z",
+  "prepared_on": "2026-04-15",
+  "deliverables": [
+    "outstanding_investigations/03_paredes_license_verification/deliverables/outgoing_request.md",
+    "outstanding_investigations/03_paredes_license_verification/deliverables/recipient_routing.md",
+    "outstanding_investigations/03_paredes_license_verification/deliverables/response_tracker.md"
+  ],
+  "mailing_execution_status": "READY_TO_PRINT"
+}

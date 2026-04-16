@@ -1,0 +1,44 @@
+{
+  "standard": "cal_fam_1100_community_property",
+  "filed": "2026-04-10",
+  "filer": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "hash_chain_prev": "cal_civ_3294_punitive (same session)",
+  "sources": [
+    {
+      "layer": "current_text",
+      "source": "leginfo.legislature.ca.gov via VernenLegal MCP",
+      "tool": "mcp__claude_ai_VernenLegal__california_get_section",
+      "params": {"code": "FAM", "section": "1100"},
+      "retrieved_at_utc": "2026-04-10T18:15:00Z"
+    },
+    {
+      "layer": "amendment_history",
+      "sources": [
+        "Deering's California Family Code § 1100 historical and statutory notes",
+        "West's Annotated California Codes § 1100 historical note",
+        "Cross-reference to predecessor Civ. Code § 5125 via Deering's source-table note",
+        "Stats. 1973, ch. 987 (SB 364) — equal management and control — triangulated",
+        "Stats. 1986, ch. 1091 — fiduciary duty addition — triangulated",
+        "Stats. 1991, ch. 1026 — full disclosure obligation — triangulated",
+        "Stats. 1992, ch. 162 — Family Code recodification — triangulated"
+      ],
+      "pending": "Direct PDF capture of Stats. chapter texts"
+    },
+    {
+      "layer": "case_law",
+      "sources": [
+        "In re Marriage of Lucas (1980) 27 Cal.3d 808 — California Official Reports citation format",
+        "In re Marriage of Rossin (2009) 172 Cal.App.4th 725 — California Official Reports citation format",
+        "In re Marriage of Walker (2012) 203 Cal.App.4th 137 — California Official Reports citation format"
+      ],
+      "pending": "Opinion text capture (opinion.txt) for each case"
+    }
+  ],
+  "quality_gate": {
+    "two_witness_rule": "SATISFIED for current text (MCP + annotation histories). PENDING for Stats. chapter PDFs.",
+    "five_layer_bar": "4/5 — rule, reasoning, historical_loss, cross_references all PRESENT; verifiable_provenance PARTIAL (intermediate 1986/1991 amendments summarized rather than separately documented)",
+    "particularity": "Each case law entry contains statute_version_cited.md consistency check",
+    "domain_coordination": "Confirmed Terminal A (CA_Family_Law_Litigator) is not currently building § 1100; noted in manifest and in cross_refs"
+  },
+  "intended_use": "Primary community-property management statute for CA_Real_Estate_Attorney. Load-bearing for Honeysuckle § 1100(e)/§1101(h) complaint. Also cross-referenced from CA_Civil_Litigator for cases involving community property disputes."
+}

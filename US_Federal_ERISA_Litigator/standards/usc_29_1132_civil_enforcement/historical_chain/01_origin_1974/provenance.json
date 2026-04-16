@@ -1,0 +1,19 @@
+{
+  "layer": "historical_chain",
+  "stage": "01_origin_1974",
+  "standard_id": "USC_29_1132_CIVIL_ENFORCEMENT",
+  "enacting_law": "Pub. L. 93-406 (ERISA), § 502, 88 Stat. 829 (Sept. 2, 1974)",
+  "signed_by": "President Gerald R. Ford",
+  "signed_date": "1974-09-02",
+  "effective_date": "1974-09-02",
+  "congressional_record": "120 Cong. Rec. (1974)",
+  "official_source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1132",
+  "verified": false,
+  "verified_note": "USC tool blocked for Title 29; text from training knowledge cross-checked against Cornell LII. Verify at uscode.house.gov.",
+  "wound_record": "Studebaker 1963 plant closure — documented in historical_chain/ context.md",
+  "key_amendment_history": [
+    "Pub. L. 98-397 (Retirement Equity Act 1984) — survivor annuity notification",
+    "Pub. L. 109-280 (Pension Protection Act 2006) — disclosure penalty expansion",
+    "Pub. L. 116-94 (SECURE Act 2019) — RMD and portability"
+  ]
+}

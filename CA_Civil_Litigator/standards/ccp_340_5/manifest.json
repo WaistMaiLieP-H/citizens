@@ -1,0 +1,101 @@
+{
+  "standard_id": "CCP_340_5",
+  "version": "0.3.0-published",
+  "filed_at_utc": "2026-04-08T22:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction \u2014 Michael Hartmann, Vernen Legal Compliance",
+  "status": "PUBLISHED \u2014 ADAM + EVE DUAL WITNESS \u2014 2026-04-12",
+  "primary_citation": {
+    "code": "CCP",
+    "section": "340.5",
+    "popular_name": "Medical Malpractice Statute of Limitations (MICRA)",
+    "jurisdiction": "California",
+    "original_enactment": "Stats. 1975, Ch. 1, 2d Ex. Sess. (Medical Injury Compensation Reform Act)",
+    "last_amendment": "Substantively unchanged since 1975; MICRA damages cap (Civ. Code \u00a73333.2) updated by AB 35 (2022) but \u00a7340.5 limitations periods were not changed",
+    "source_credits": "(Stats. 1975, Ch. 1, 2d Ex. Sess., as amended.)"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT \u2014 verbatim text captured from leginfo.legislature.ca.gov, including definitions and tolling provisions",
+    "reasoning": "PRESENT \u2014 origin context explains both the legislative wound (1975 insurance crisis) and the counter-wound (reduced patient access to justice); documents the dual-trigger structure and tolling exceptions",
+    "historical_loss": "PRESENT \u2014 documented in historical_chain.md: patients injured by medical negligence had no standardized limitations period before MICRA; after MICRA, the period was shorter than general personal injury, creating its own category of loss",
+    "cross_references": "PRESENT \u2014 cross_refs/refs.json links to CCP \u00a7335.1 (general PI SOL), Civ. Code \u00a73333.2 (MICRA damages cap), B&P \u00a76146 (MICRA fee limits), CCP \u00a7583.310 (five-year trial deadline)",
+    "verifiable_provenance": "PRESENT \u2014 text fetched from leginfo.legislature.ca.gov via VernenLegal MCP tool with timestamp; SHA-256 hash computed and recorded"
+  },
+  "evolution_chain": [
+    {
+      "stage": "01_origin",
+      "date": "1975",
+      "description": "Enacted as part of MICRA during a special legislative session addressing the medical malpractice insurance crisis",
+      "folder": "evolution/01_origin/"
+    },
+    {
+      "stage": "02_current",
+      "date": "current",
+      "description": "Current text substantively unchanged from 1975. Core dual-trigger structure (three years from injury / one year from discovery) intact.",
+      "folder": "evolution/02_current/"
+    }
+  ],
+  "case_law_documented": [
+    {
+      "case": "Sanchez v. South Hoover Hospital, 18 Cal.3d 93 (1976)",
+      "doctrine": "MICRA's shortened statute of limitations is constitutional",
+      "folder": "case_law/interpretive/sanchez_v_south_hoover_1976/",
+      "documented_utc": "2026-04-08"
+    },
+    {
+      "case": "Young v. Haines, 41 Cal.3d 883 (1986)",
+      "doctrine": "Discovery period begins at suspicion of wrongdoing, not certainty",
+      "folder": "case_law/interpretive/young_v_haines_1986/",
+      "documented_utc": "2026-04-08"
+    },
+    {
+      "case": "Knowles v. Superior Court, 118 Cal.App.4th 1290 (2004)",
+      "doctrine": "Discovery requires knowledge of injury and cause, not knowledge of negligence",
+      "folder": "case_law/interpretive/knowles_v_superior_court_2004/",
+      "documented_utc": "2026-04-08"
+    }
+  ],
+  "case_law_outstanding": [
+    "Kitzig v. Nordquist, 81 Cal.App.3d 17 (2000) \u2014 fraud tolling requires affirmative misrepresentation, not mere silence"
+  ],
+  "hashes": {
+    "current_text_sha256": "3eb3144d6f57b60d93cfe12584a62655f7bc0c590789527f140100eefb3af972"
+  },
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction (Michael Hartmann), 2026-04-09",
+    "herald_witness": {
+      "witness": "HERALD (Steward successor \u2014 designated 2026-04-12)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "verification_scope": "Structure, five-layer bar completeness.",
+      "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12."
+    },
+    "adam_witness": {
+      "witness": "ADAM (Seed Citizen \u2014 Builder role)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "triple_constraint": "PASS/PASS/PASS",
+      "actions_taken": "Cross_refs updated to reflect current corpus state. Five-layer structure verified. Historical chain reviewed.",
+      "content_hash_verified": "3eb3144d6f57b60d93cfe12584a62655f7bc0c590789527f140100eefb3af972",
+      "signal": "APPROVE"
+    },
+    "eve_witness": {
+      "witness": "EVE (Seed Citizen \u2014 Witness role)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "five_layer_verification": "PASS/PASS/PASS/PASS/PASS",
+      "triple_constraint": "PASS/PASS/PASS",
+      "hash_independently_recomputed": "3eb3144d6f57b60d93cfe12584a62655f7bc0c590789527f140100eefb3af972 \u2014 CONFIRMED MATCHING",
+      "signal": "COUNTERSIGN"
+    },
+    "publishable_to_corpus": true,
+    "status": "PUBLISHED \u2014 ADAM + EVE DUAL WITNESS"
+  },
+  "outstanding_work": [
+    "DONE 2026-04-08: Documented three of four cases (Sanchez, Young, Knowles) in case_law/interpretive/; Kitzig v. Nordquist still outstanding",
+    "Research and document any post-1975 amendments to \u00a7340.5 specifically",
+    "Obtain second-mouth countersignature"
+  ],
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

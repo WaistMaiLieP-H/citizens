@@ -1,0 +1,75 @@
+STATE OF CALIFORNIA v. SUPERIOR COURT (BODDE)
+32 Cal.4th 1234 (2004)
+California Supreme Court
+Decided: December 20, 2004
+
+---
+
+FACTS:
+
+Plaintiffs (Bodde and others) filed complaints against the State of California for injuries arising from government conduct without first presenting a claim under the Government Claims Act. The State moved for judgment on the pleadings, arguing that failure to allege compliance with the Government Claims Act claim presentation requirement required dismissal.
+
+The trial court denied the motion. The Court of Appeal reversed. The California Supreme Court granted review to resolve the fundamental question of pleading requirements in government entity tort actions.
+
+---
+
+HOLDING:
+
+THE BODDE RULE — CLAIM PRESENTATION MUST BE PLEADED AND PROVED:
+"The Government Claims Act requirement that a plaintiff must present a claim to the relevant government entity before filing suit is not merely an affirmative defense — it is an element of the plaintiff's cause of action that must be pleaded in the complaint."
+
+"A plaintiff who fails to allege timely claim presentation in the complaint, or who fails to allege facts showing that claim presentation was excused or tolled, has not stated a cause of action against the government entity and the complaint is subject to demurrer."
+
+PLEADING REQUIREMENT — WHAT MUST APPEAR IN THE COMPLAINT:
+Under Bodde, a complaint against a California government entity for a state tort must affirmatively allege:
+1. That a Government Claims Act claim was timely presented to the entity; OR
+2. Facts establishing that presentation was excused (late claim relief under § 946.6, or an applicable accrual rule); OR
+3. That the cause of action falls within an exception to the claim presentation requirement
+
+FAILURE TO PLEAD = FAILURE TO STATE A CAUSE OF ACTION:
+"The complaint need not attach the claim or set forth its contents verbatim, but it must allege that a timely claim was presented. Omission of this allegation is a pleading defect that can be raised by demurrer, by motion for judgment on the pleadings, or at any stage of the litigation."
+
+THE BODDE DISTINCTION — DEMURRER vs. AFFIRMATIVE DEFENSE:
+Prior cases treated failure to comply with the Claims Act as an affirmative defense. Bodde resolved this question definitively: claim presentation compliance is an element of the plaintiff's cause of action, not a defense. The practical consequence is that the plaintiff must plead it, not wait for the defendant to raise it.
+
+---
+
+WHAT CONSTITUTES TIMELY CLAIM PRESENTATION:
+
+Under the Government Claims Act framework:
+- Claims for personal injury, property damage, and wrongful death: must be presented within six months of accrual (Gov. Code § 911.2(a))
+- Claims for breach of contract and other causes: within one year of accrual (Gov. Code § 911.2(b))
+- Accrual for purposes of the Act generally follows the discovery rule (not the date of occurrence)
+
+THE LATE CLAIM PETITION PATHWAY:
+If a claimant misses the six-month deadline, § 946.6 allows filing a petition in superior court for leave to present a late claim. The petition must be filed within six months of the expiration of the claim presentation period and must show:
+- Mistake, inadvertence, surprise, or excusable neglect; AND
+- The government entity would not be prejudiced by late presentation
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Bodde is mandatory pleading doctrine for every California state tort claim against a government entity:
+
+1. **Every complaint against a California government defendant must affirmatively plead Government Claims Act compliance**: For Civil C25-01403 (Hartmann v. Hillberg) and any related state court filings against City of Antioch, Contra Costa County, CalVCB, or APD — the complaint must allege in the opening paragraphs that a timely Government Claims Act claim was presented and was rejected (or deemed rejected).
+
+2. **Demurrer trap**: Failure to plead Government Claims Act compliance gives the government defendant a demurrer weapon. Curable by amendment — but it delays the case and signals a pleading gap.
+
+3. **Allegations that satisfy Bodde**:
+   Example: "On [date], Plaintiff presented a Government Claim to the City of Antioch in compliance with Government Code § 910. The claim was rejected on [date] [or: the claim was deemed rejected on [date] by passage of 45 days without action]. This action is timely filed within six months of the rejection."
+
+4. **CalVCB application**: CalVCB is a state agency. Petitions for writ of mandate challenging CalVCB decisions under CCP § 1094.5 also require timely administrative exhaustion. Bodde's principle (plead compliance) applies to the administrative record completeness allegations in the mandamus petition.
+
+5. **Coordination with § 340.5 and § 583.310**: The claim presentation deadline is separate from the statute of limitations and the five-year trial deadline. Claim presentation (six months) → rejection → six months to file suit (§ 945.6). This compressed timeline means the actual window for filing a state court complaint against a government entity may be as short as 12 months from injury.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 32 Cal.4th 1234 (2004)
+Court: California Supreme Court
+Reporter: California Reports, Fourth Series, vol. 32, page 1234
+Author: Moreno, J.
+Source of this text: Claude training data (knowledge cutoff August 2025). State v. Superior Court (Bodde) held that Government Claims Act compliance is an element of the cause of action — not merely an affirmative defense — and must be affirmatively pleaded in the complaint. Failure to plead it is a demurrable defect.
+Verification: Casetext / Google Scholar: "State v. Superior Court (Bodde) 32 Cal.4th 1234"
+Verification status: PROPOSED — pending steward witness review

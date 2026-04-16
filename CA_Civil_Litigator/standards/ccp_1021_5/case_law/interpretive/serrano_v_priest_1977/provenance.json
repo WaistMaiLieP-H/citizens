@@ -1,0 +1,25 @@
+{
+  "case_id": "serrano_v_priest_1977",
+  "full_citation": "Serrano v. Priest, 20 Cal.3d 25 (1977)",
+  "parallel_citations": ["141 Cal.Rptr. 315", "569 P.2d 1303"],
+  "court": "California Supreme Court",
+  "decided": "1977-09-22",
+  "category": "interpretive",
+  "sources": [
+    {
+      "name": "Justia",
+      "url": "https://law.justia.com/cases/california/supreme-court/3d/20/25.html"
+    },
+    {
+      "name": "Casetext",
+      "url": "https://casetext.com/case/serrano-v-priest-3"
+    },
+    {
+      "name": "Google Scholar",
+      "url": "https://scholar.google.com/scholar_case?case=5765801636498905407"
+    }
+  ],
+  "verification_status": "pending_primary_source_confirmation",
+  "filed_at_utc": "2026-04-08T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction -- Michael Hartmann, Vernen Legal Compliance"
+}

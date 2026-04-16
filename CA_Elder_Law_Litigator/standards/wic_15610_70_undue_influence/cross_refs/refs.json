@@ -1,0 +1,52 @@
+{
+  "standard_id": "wic_15610_70_undue_influence",
+  "citizen": "CA_Elder_Law_Litigator",
+  "layer": "cross_refs",
+  "generated": "2026-04-12",
+  "internal_refs": [
+    {
+      "id": "wic_15610_30_financial_abuse_def",
+      "path": "${citizens}/CA_Elder_Law_Litigator/standards/wic_15610_30_financial_abuse_def",
+      "relationship": "\u00a715610.30(a)(3) incorporates \u00a715610.70 \u2014 undue influence is the third path to financial abuse; these two standards work together"
+    },
+    {
+      "id": "wic_15657_5_financial_abuse_remedies",
+      "path": "${citizens}/CA_Elder_Law_Litigator/standards/wic_15657_5_financial_abuse_remedies",
+      "relationship": "When financial abuse is established via undue influence pathway, \u00a715657.5 enhanced remedies follow"
+    },
+    {
+      "id": "prob_859_double_damages",
+      "path": "${citizens}/CA_Elder_Law_Litigator/standards/prob_859_double_damages",
+      "relationship": "\u00a7859 double damages apply when property taken by undue influence in bad faith"
+    }
+  ],
+  "external_refs": [
+    {
+      "id": "prob_86",
+      "path": "California Prob. Code \u00a786 \u2014 Probate undue influence definition",
+      "relationship": "Parallel probate definition; courts cross-reference both; \u00a715610.70 controls for WIC financial elder abuse claims"
+    },
+    {
+      "id": "CA_Conservator_Investigator_prob_1826",
+      "path": "${citizens}/CA_Conservator_Investigator/standards/cal_prob_1826",
+      "relationship": "Investigator must examine for undue influence in conservatorship proceedings; \u00a715610.70 factors apply in APS investigation context"
+    },
+    {
+      "id": "CA_Real_Estate_Attorney_case_19",
+      "path": "${citizens}/CA_Real_Estate_Attorney",
+      "relationship": "Honeysuckle sale \u2014 19 unsigned docs + haste + secrecy = \u00a715610.70(a)(3)(C) tactics; property rights changed under apparent authority of legal actors"
+    }
+  ],
+  "case_law": [
+    {
+      "citation": "Conservatorship of Davidson, 113 Cal.App.4th 1035 (2003)",
+      "holding": "Professional trustee who exerted excessive persuasion over elder liable for breach of fiduciary duty and financial elder abuse; undue influence analysis applied to trust administration",
+      "significance": "Pre-\u00a715610.70 but applied same four-factor framework; 2008 amendment codified this approach"
+    },
+    {
+      "citation": "Bernard v. Foley, 39 Cal.4th 794 (2006)",
+      "holding": "Care custodian prohibition on donative transfers from dependent adult; apparent voluntary gift invalid where care relationship creates presumption of undue influence",
+      "significance": "Vulnerability + apparent authority factors applied to create rebuttable presumption of invalidity"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "standard_id": "CA_BPC_12001_WEIGHTS_AND_MEASURES",
+  "version": "0.2.0-verbatim-and-substance-audited",
+  "filed_at_utc": "2026-04-08T09:23:00Z",
+  "deepened_at_utc": "2026-04-08T11:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction \u2014 Michael Hartmann, Vernen Legal Compliance",
+  "status": "PROPOSED-DEEPENED-COMPACT \u2014 verbatim text extracted, brief substance audit completed. Standard is in an umbrella with INDIRECT relevance to the steward's case file; the audit is calibrated accordingly. Awaiting second-mouth countersignature.",
+  "build_context": "Originally built 2026-04-08 as part of the breadth-first umbrella seeding pass (Umbrella 04 Measurement / Metrology first occupant). Deepened later same day with verbatim text and brief substance audit via _deepen_remaining_manifests.py.",
+  "primary_citation": {
+    "jurisdiction": "California",
+    "code": "California Business and Professions Code",
+    "section": "\u00a7 12001",
+    "popular_name": "California Weights and Measures Law \u2014 Definitions Scope",
+    "current_codification_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=12001.&lawCode=BPC",
+    "current_form_local_artifact": "current/cal_bpc_12001_leginfo.html",
+    "verbatim_text_extracted_artifact": "current/cal_bpc_12001_leginfo.txt"
+  },
+  "structural_location": {
+    "division": "DIVISION 5. WEIGHTS AND MEASURES [12001 - 13800]",
+    "division_history": "Division 5 added by Stats. 1939, Ch. 43",
+    "chapter": "CHAPTER 1. General Provisions [12001 - 12027]",
+    "section_history": "Added by Stats. 1939, Ch. 43. Never amended \u2014 section is in its original 1939 form."
+  },
+  "verbatim_summary": "Single-sentence definitional-scope provision: 'The definitions in this chapter apply to this division only and do not affect the provisions of any other division.' This is a structural housekeeping section that establishes the scope of the Weights and Measures Law's definitional framework, separating it from definitions used in other Business and Professions Code divisions.",
+  "amendment_history_visible_on_leginfo": [
+    {
+      "year": 1939,
+      "stats": "Stats. 1939, Ch. 43",
+      "event": "Original enactment of the entire Division 5 Weights and Measures Law. \u00a7 12001 has never been amended."
+    }
+  ],
+  "substance_audit": {
+    "purpose": "\u00a7 12001 itself is a structural scope provision, not a substantive rule. The substantive rules of weights and measures are in subsequent sections (\u00a7\u00a7 12002 et seq. for definitions; \u00a7\u00a7 12100 et seq. for the State Sealer; \u00a7\u00a7 12200 et seq. for inspection; etc.). Building \u00a7 12001 occupies the umbrella but the operative rules are downstream.",
+    "audit_filed_at_utc": "2026-04-08T11:00:00Z",
+    "audit_filed_by": "Claude (assistant) at first-mouth level; steward review required",
+    "audit_items": [
+      {
+        "audit_id": "Scope-of-definitions doctrine",
+        "recommendation": "STRUCTURAL \u2014 establishes that California weights-and-measures definitions are domain-bounded; not directly steward-relevant",
+        "audit_status": "ROUTINE"
+      },
+      {
+        "audit_id": "Next-step deepening",
+        "recommendation": "Future deepening should fetch \u00a7\u00a7 12002-12027 (definitions) and \u00a7\u00a7 12100+ (State Sealer authority), which are the operative provisions",
+        "audit_status": "OUTSTANDING"
+      }
+    ]
+  },
+  "umbrellas": [
+    "Measurement / Metrology (Umbrella 04) \u2014 primary"
+  ],
+  "owner_citizen": {
+    "primary": "CA_Weights_Measures_Inspector"
+  },
+  "triple_constraint_test_results": {
+    "governing_guidelines": {
+      "passes": true,
+      "evidence": "California Business and Professions Code \u00a7 12001 located at official primary source; binding California authority confirmed; verbatim text extracted to current/cal_bpc_12001_leginfo.txt"
+    },
+    "standards_of_creation": {
+      "passes": true,
+      "evidence": "Section is well-formed and properly codified."
+    },
+    "standard_of_care": {
+      "passes": "PARTIAL",
+      "current_layer": "VERIFIED \u2014 current form fetched, hashed (sha256: 558eadeb5ebcd36c6bc700f35762924711c517dfa4b38b49cd4fb371dbf74549), and verbatim-extracted",
+      "evolution_layer": "PARTIAL \u2014 amendment history captured at manifest level; primary-source amendment volumes not yet downloaded",
+      "origin_layer": "IDENTIFIED \u2014 original enactment recorded in amendment_history; primary-source not yet fetched"
+    }
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT \u2014 verbatim text extracted",
+    "reasoning": "PARTIAL \u2014 recorded in legislative findings where applicable",
+    "historical_loss": "OUTSTANDING",
+    "cross_references": "PARTIAL",
+    "verifiable_provenance": "PRESENT for current form; ABSENT for evolution and origin layers"
+  },
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction (Michael Hartmann), 2026-04-08",
+    "second_mouth_witness": "NONE \u2014 not yet countersigned",
+    "publishable_to_corpus": false,
+    "status": "PROPOSED-DEEPENED-COMPACT"
+  },
+  "files": {
+    "origin": [],
+    "evolution": [],
+    "current": [
+      "current/cal_bpc_12001_leginfo.html",
+      "current/cal_bpc_12001_leginfo.txt"
+    ],
+    "context": [],
+    "manifest": "manifest.json",
+    "provenance": "provenance.json"
+  },
+  "outstanding_work": [
+    "Locate and fetch primary-source statute volumes for the original enactment and key amendments",
+    "Document the historical-loss layer \u2014 what specific incidents drove the section's enactment",
+    "Fetch operative downstream sections in the same article/chapter as integrity-tracked HTML markers",
+    "Build cross-references to other Vernen corpus standards where applicable",
+    "Obtain second-mouth countersignature on the standard"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_schema": "five-layer cross-reference block",
+  "references": [
+    {
+      "target": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_18_1343_wire_fraud/manifest.json",
+      "relationship": "Master predicate. Wire fraud is the most common §1028A predicate in the enumerated list. The steward's Treasury Securities and crypto fraud cases turn on wire fraud + §1028A coupling.",
+      "build_status": "QUEUED"
+    },
+    {
+      "target": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_15_1681_fcra/manifest.json",
+      "relationship": "Civil remedy parallel. FCRA §1681c-2 identity theft block depends on the §1028-defined identity theft concept. FCRA provides the private right of action that §1028 does not.",
+      "build_status": "QUEUED"
+    },
+    {
+      "target": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_18_1961_rico/manifest.json",
+      "relationship": "Civil RICO predicate pathway. §1028 is listed in §1961(1)(B) as a RICO predicate. Civil plaintiffs can use §1028 violations as pattern-of-racketeering predicates under §1964(c).",
+      "build_status": "NOT_YET_QUEUED"
+    },
+    {
+      "target": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_18_1028a_aggravated/manifest.json",
+      "relationship": "Companion sentencing enhancement statute. Built as a separate standard but historically and operationally inseparable from §1028.",
+      "build_status": "SEPARATE_STANDARD_QUEUED"
+    },
+    {
+      "target": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_5_552a_privacy_act/manifest.json",
+      "relationship": "Privacy Act civil remedy against federal agencies for inaccurate record maintenance. Relevant to Treasury Securities case where Treasury's records are the site of the identity exploitation.",
+      "build_status": "NOT_YET_QUEUED"
+    },
+    {
+      "target": "${citizens}/CA_Consumer_Protection_Litigator/standards/civ_1750_clra/manifest.json",
+      "relationship": "State-law parallel for consumer-protection components of identity theft cases. CLRA reaches deceptive practices; §1028 reaches the criminal identity theft itself. Pled together in civil complaints.",
+      "build_status": "BUILT_THIS_SESSION"
+    }
+  ],
+  "federal_predicate_list_citation": "18 USC §1028A(c) — enumerated predicate felonies for aggravated identity theft enhancement",
+  "rico_predicate_citation": "18 USC §1961(1)(B) — lists §1028 as RICO predicate offense"
+}

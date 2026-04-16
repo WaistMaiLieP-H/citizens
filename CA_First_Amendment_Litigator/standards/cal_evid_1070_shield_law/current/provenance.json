@@ -1,0 +1,13 @@
+{
+  "standard_id": "CA_EVID_1070",
+  "source_url_primary": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1070.&lawCode=EVID",
+  "source_url_secondary_used": "VernenLegal MCP tool (mcp__claude_ai_VernenLegal__california_get_section, code=EVID, section=1070)",
+  "source_description": "California Legislative Information — Evidence Code Section 1070, Shield Law",
+  "fetch_timestamp_utc": "2026-04-09T05:30:00Z",
+  "fetch_tool": "VernenLegal MCP california_get_section tool (D1 database mirror of leginfo)",
+  "retrieval_steward": "Claude (assistant) under steward direction — Michael Hartmann",
+  "text_file": "cal_evid_1070_leginfo.txt",
+  "text_sha256": "cb1eaaa7be4559759e3913f1046f095233ae39c474eedda1ab5987f5ee45dac2",
+  "edition": "Current as of 2026-04-09. Last amended Stats. 1974, Ch. 1323.",
+  "notes": "Text retrieved via VernenLegal MCP tool which mirrors leginfo D1 database. Leginfo direct URL timed out during this session. MCP tool returned full text of all three subdivisions (a), (b), (c). Amendment history: Added Stats. 1965 Ch. 299; Amended Stats. 1971 Ch. 1455; Amended Stats. 1974 Ch. 1323."
+}

@@ -1,0 +1,35 @@
+{
+  "standard_id": "lab_4553_serious_willful_misconduct_enhancement",
+  "citizen": "CA_Workers_Compensation_Litigator",
+  "build_date": "2026-04-13",
+  "primary_source": {
+    "source_type": "statute",
+    "jurisdiction": "California",
+    "code": "Labor Code",
+    "section": "4553",
+    "fetch_method": "mcp__claude_ai_VernenLegal__california_get_section",
+    "verified": true,
+    "fetch_date": "2026-04-13",
+    "note": "Live MCP fetch — LAB §4553(a)-(c) returned with full text; verified=true"
+  },
+  "supporting_sources": [
+    {
+      "source_type": "training_knowledge",
+      "description": "California court interpretations of 'serious and willful misconduct' — deliberate act with knowledge of probable consequences; more than negligence but less than specific intent to harm",
+      "note": "Judicial definition developed since 1913; consistent doctrine; cite to specific cases when drafting WCAB petition"
+    },
+    {
+      "source_type": "training_knowledge",
+      "description": "LAB §5407 — statute of limitations for §4553 petition: 1 year from date of injury or last indemnity payment",
+      "note": "Live fetch not performed; training knowledge; verify against current LAB §5407 before filing"
+    },
+    {
+      "source_type": "training_knowledge",
+      "description": "SB 899 (2004) — apportionment reform; §4553 enhancement survives and applies to post-apportionment permanent disability",
+      "note": "2004 legislative history; cross-reference to lab_4663_apportionment_permanent_disability standard"
+    }
+  ],
+  "steward_verify_queue": [],
+  "chronicle_flag": false,
+  "chronicle_note": "LAB §4553 history does not contain offensive or discriminatory doctrine. Workers comp exclusions (agricultural/domestic workers) are documented in lab_4663 reasoning.md and flagged for future CHRONICLE review if built into a dedicated standard."
+}

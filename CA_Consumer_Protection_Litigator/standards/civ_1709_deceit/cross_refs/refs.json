@@ -1,0 +1,37 @@
+{
+  "standard_id": "CIV_1709_DECEIT",
+  "cross_references": [
+    {
+      "id": "CIV_1750_CLRA",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/civ_1750_clra/",
+      "relationship": "COMPOUND — CLRA §1770(a)(7) (misrepresentation of origin) + §1770(a)(14) (warranty non-compliance) cover overlapping conduct. Plead §1709 deceit + CLRA for the same false representation: CLRA adds mandatory fees and punitive damages separate from §3294.",
+      "direction": "compound"
+    },
+    {
+      "id": "CIV_2981_REES_LEVERING",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/civ_2981_rees_levering/",
+      "relationship": "COMPOUND — Rees-Levering governs the void finance contract; §1709 deceit governs the fraudulent representations inducing the contract. Both claims survive the void contract — deceit is a tort, independent of the contract.",
+      "direction": "compound"
+    },
+    {
+      "id": "CIV_1790_SONG_BEVERLY",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/civ_1790_song_beverly/",
+      "relationship": "PARALLEL — Song-Beverly provides warranty replacement/refund remedy; §1709 provides out-of-pocket fraud damages for the same transaction. Stack both claims: Song-Beverly for warranty rights, §1709 for the misrepresentation about vehicle condition/history.",
+      "direction": "parallel"
+    },
+    {
+      "id": "BP_17200_UCL",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/bp_17200_ucl/",
+      "relationship": "OVERLAY — §1709 deceit = UCL fraudulent prong (false representations to reasonable consumers) + UCL unlawful prong (§1709 violation borrowed). UCL adds restitution as a separate remedy from §1709 out-of-pocket damages.",
+      "direction": "overlay"
+    },
+    {
+      "id": "CIV_3294_PUNITIVE",
+      "path": "${citizens}/CA_Real_Estate_Attorney/standards/civ_3294_punitive/",
+      "relationship": "PUNITIVE_PATHWAY — §1709 fraud satisfies §3294 'fraud' prong for punitive damages. The same conduct (intentional misrepresentation, active concealment, promissory fraud) that establishes §1709 liability supports §3294 punitive damages with clear and convincing evidence standard.",
+      "direction": "punitive"
+    }
+  ],
+  "path_anchor": "${citizens}",
+  "build_date": "2026-04-11"
+}

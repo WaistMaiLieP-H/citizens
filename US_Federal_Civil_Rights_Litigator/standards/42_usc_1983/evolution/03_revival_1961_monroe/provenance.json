@@ -1,0 +1,18 @@
+{
+  "standard_id": "42_USC_1983",
+  "evolution_stage": "03_revival_1961_monroe",
+  "stage_type": "doctrinal_revival (case law, not textual amendment — included in evolution per steward decision because the 90-year dormancy → revival is structural)",
+  "case_citation": "Monroe v. Pape, 365 U.S. 167 (1961)",
+  "decided": "1961-02-20",
+  "author_of_opinion": "Justice William O. Douglas",
+  "vote": "8-1 (Frankfurter dissenting in part)",
+  "source_urls": [
+    "https://supreme.justia.com/cases/federal/us/365/167/",
+    "https://www.law.cornell.edu/supremecourt/text/365/167"
+  ],
+  "cross_link_to_case_law": "../case_law/interpretive/monroe_v_pape/",
+  "statute_version_the_court_read": "R.S. §1979 (1874 text, unchanged since recodification) — text at evolution/02_recodification_1874/text.txt",
+  "context_file": "context.md",
+  "textual_change_to_statute": "NONE — Monroe changed the INTERPRETATION of §1983, not its text. The text remained the 1874 R.S. §1979 language until 1979.",
+  "fetch_status": "Context and holding verified against secondary sources (Justia, Cornell). Full opinion text not yet downloaded and hashed as local artifact — outstanding work."
+}

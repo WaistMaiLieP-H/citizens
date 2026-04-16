@@ -1,0 +1,5 @@
+[
+  {"target":"${citizens}/CA_Constitutional_Law_Specialist/standards/cal_const_art1_sec2/manifest.json","relationship":"Art. I §2(b) is the constitutional elevation of the statutory shield in §1070; both protect against compelled disclosure of sources and unpublished information"},
+  {"target":"${citizens}/CA_First_Amendment_Litigator/standards/cal_ccp_425_17_anti_slapp_exemptions/manifest.json","relationship":"§425.17(d)(1) exempts persons protected by §1070 from anti-SLAPP exemptions — shield law recipients always keep anti-SLAPP protection"},
+  {"target":"${citizens}/CA_First_Amendment_Litigator/standards/cal_ccp_425_16_anti_slapp/manifest.json","relationship":"Shield law and anti-SLAPP are complementary protections: shield prevents compelled disclosure, anti-SLAPP prevents retaliatory litigation"}
+]

@@ -1,0 +1,17 @@
+{
+  "stage": "01_origin_1975_sb364",
+  "statute": "California Family Code § 1100 (via predecessor Civil Code § 5125)",
+  "originating_legislation": "SB 364 (Stats. 1973, ch. 987), effective January 1, 1975; amended by Stats. 1974, ch. 1206",
+  "predecessor_code_section": "Former Civil Code § 5125 (enacted 1872, amended 1973/1974)",
+  "pre_1975_rule": "Husband's management and control of community property",
+  "post_1975_rule": "Equal management and control; either spouse has full authority subject to gift, family-dwelling, and (after 1986/1991 amendments) fiduciary restrictions",
+  "recodification_to_family_code": {
+    "date": "Effective 1994-01-01",
+    "stats_chapter": "Stats. 1992, ch. 162",
+    "change_summary": "Moved from Civ. Code § 5125 to Fam. Code § 1100 without substantive change; minor modernization and subdivision reorganization"
+  },
+  "source_note": "California pre-1994 community property statutory history is traced through Deering's and West's annotation histories, which preserve former Civil Code section cross-references and Stats. chapter citations for each amendment stage.",
+  "captured_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "captured_at_utc": "2026-04-10T20:55:00Z",
+  "pending": "Direct PDF capture of 1973 SB 364 enrolled text and Stats. 1992 ch. 162 recodification text"
+}

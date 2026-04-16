@@ -1,0 +1,345 @@
+{
+  "standard_id": "CA_FIELD_ACT_1933",
+  "provenance_record_filed_at_utc": "2026-04-08T06:16:00Z",
+  "fetcher_software": "curl 7.x and wget on local Linux; pdftoppm (poppler-utils) for page rendering; sha256sum for hashing",
+  "fetcher_user_agent_string": "Vernen-Compliance-Provenance-Fetcher/1.0 (research; contact michael@vernenlegal.com) \u2014 also tested as Mozilla/5.0 (X11; Linux x86_64) Vernen-Provenance/1.0",
+  "fetcher_operator": "Claude (assistant) under steward direction (Michael Hartmann)",
+  "verification_principle": "Every fetch records URL, timestamp, file size, sha256 hash, and source authority. Derived artifacts (page renders) record the source artifact and the exact derivation parameters so they are independently reproducible. No artifact in this folder may enter the Vernen corpus without a second-mouth countersignature; the provenance record is the substrate that the second mouth verifies against.",
+  "fetches": [
+    {
+      "artifact_local_path": "origin/1933_Vol1_Chapters.pdf",
+      "source_url": "https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1933/33Vol1_Chapters.pdf",
+      "discovered_via": "https://clerk.assembly.ca.gov/historical-information/archive-list/statutes-and-amendments-codes-1933?field_archive_type_value=Statutes",
+      "source_authority": "California State Assembly, Office of the Chief Clerk \u2014 official archive of California session laws",
+      "source_authority_type": "primary (state legislative body)",
+      "fetched_at_utc_initial_attempt": "2026-04-08T06:10:01Z",
+      "fetched_at_utc_completed": "2026-04-08T06:12:02Z",
+      "fetch_method": "wget --tries=20 --timeout=60 --continue (initial curl attempts failed mid-transfer; wget --continue resumed and completed)",
+      "file_size_bytes": 173687651,
+      "sha256": "c6b006953f20a5ddbdf2d57228d44fef5b29b7a12064b1bdba26a516a9a9576b",
+      "pdf_internal_metadata": {
+        "title_metadata": "Amendments933.PDF",
+        "creator_software": "PixEdit",
+        "producer_software": "Acrobat PDFWriter 3.02 for Windows",
+        "creation_date": "1999-08-04 14:38:26",
+        "modification_date": "1999-08-31 15:29:17 PDT",
+        "pages": 3270,
+        "page_size": "432 x 636 pts",
+        "pdf_version": "1.2"
+      },
+      "content_description": "Complete scanned PDF of Volume 1 of Statutes and Amendments to the Codes, Fiftieth Session of the California Legislature, 1933. Contains all chapters of the regular session including Chapter 59 (the Field Act) at printed pages 352\u2013355 (PDF pages 353\u2013356). Image-based PDF with no OCR text layer; pages must be visually rendered for reading."
+    },
+    {
+      "artifact_local_path": "origin/1933_Vol1_Index.pdf",
+      "source_url": "https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1933/33Vol1_Index.pdf",
+      "source_authority": "California State Assembly, Office of the Chief Clerk",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-08T06:10:50Z",
+      "file_size_bytes": 6199330,
+      "sha256": "29a17d8c81f2bec3db561f263aac4c6d1622b3716343a713101eec949ea0d4e3",
+      "pdf_pages": 31,
+      "content_description": "Index portion (printed pages ~3361\u20133391) covering A through COURTS. Contains entries pointing to Chapter 59 / printed page 352 for school building construction; entries for earthquake-proof requirements at printed page 1531; entries for public-buildings earthquake reconstruction at printed page 1533."
+    },
+    {
+      "artifact_local_path": "origin/1933_Vol1_TablesStat.pdf",
+      "source_url": "https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1933/33Vol1_TablesStat.pdf",
+      "source_authority": "California State Assembly, Office of the Chief Clerk",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-08T06:10:50Z",
+      "file_size_bytes": 1966719,
+      "sha256": "a57e155c262d003ce8a73f01ade996e462a62548dc4c99630b40ddf6cd95d451",
+      "pdf_pages": 82,
+      "content_description": "Cross-reference tables and statutory record appendix (printed pages ~3275\u20133357), showing additions, amendments, revisions, and repeals affecting the codes and general laws by 1933 legislation. Includes an Agricultural Code cross-reference, Fish and Game Code, Code of Civil Procedure Revision, Military Code, and a Statutory Record section with subsections for Agricultural Code, Civil Code, Code of Civil Procedure, Probate Code, Fish and Game Code, Penal Code, Political Code, School Code, and General Laws. The School Code section (printed page 3347 onward) is the most likely location of the cross-reference for Chapter 59 \u2192 School Code, which would document where the Field Act was codified upon enactment."
+    },
+    {
+      "artifact_local_path": "origin/chapter_59_pages/ch59_p352_title_and_sections_1-2.png",
+      "derived_from_artifact": "origin/1933_Vol1_Chapters.pdf",
+      "derived_from_artifact_sha256": "c6b006953f20a5ddbdf2d57228d44fef5b29b7a12064b1bdba26a516a9a9576b",
+      "derivation_method": "pdftoppm -f 353 -l 353 -r 150 -png (renders PDF page 353, which is printed statute page 352, at 150 DPI)",
+      "derivation_at_utc": "2026-04-07T23:13:00Z",
+      "sha256": "cc9257b46f082a57246d7fc0e9b44e89d76632a6bf17f5870eb36dcb7e51f2bf",
+      "file_size_bytes": 122293,
+      "content_description": "First page of Chapter 59 (the Field Act). Shows: 'CHAPTER 59.', the full official title verbatim, the approval line '[Approved by the Governor April 10, 1933. In effect immediately.]', the formula 'The people of the State of California do enact as follows:', Section 1 (vesting authority in Division of Architecture and defining 'school building'), and the beginning of Section 2 (plan approval requirement and fee schedule).",
+      "verification_chain": "This image is reproducible from the source PDF by running the stated derivation method. Any party can verify by re-rendering and comparing the resulting hash."
+    },
+    {
+      "artifact_local_path": "origin/chapter_59_pages/ch59_p353_sections_2-4.png",
+      "derived_from_artifact": "origin/1933_Vol1_Chapters.pdf",
+      "derived_from_artifact_sha256": "c6b006953f20a5ddbdf2d57228d44fef5b29b7a12064b1bdba26a516a9a9576b",
+      "derivation_method": "pdftoppm -f 354 -l 354 -r 150 -png",
+      "derivation_at_utc": "2026-04-07T23:13:00Z",
+      "sha256": "5ab3d6e451d667573043fb44bc6fd0c26651d82f6b2a08f77a17f7ede042a10e",
+      "file_size_bytes": 139252,
+      "content_description": "Second page of Chapter 59. Shows: Section 2 continued (fee schedule details, Public School Building Fund), Section 3 (invalid contracts), Section 4 (reports requirement)."
+    },
+    {
+      "artifact_local_path": "origin/chapter_59_pages/ch59_p354_sections_4-9start.png",
+      "derived_from_artifact": "origin/1933_Vol1_Chapters.pdf",
+      "derived_from_artifact_sha256": "c6b006953f20a5ddbdf2d57228d44fef5b29b7a12064b1bdba26a516a9a9576b",
+      "derivation_method": "pdftoppm -f 355 -l 355 -r 150 -png",
+      "derivation_at_utc": "2026-04-07T23:13:00Z",
+      "sha256": "018e62bf7cea59767b06fc6ca55a85637f4c42fa3bff0c13b40df6226eaaf22a",
+      "file_size_bytes": 135073,
+      "content_description": "Third page of Chapter 59. Shows: Section 4 conclusion, Section 5 (rules authority), Section 6 (penalty \u2014 felony), Section 7 (inspection authority and duty), Section 8 (inspection of existing buildings on parental request), Section 9 beginning (urgency declaration)."
+    },
+    {
+      "artifact_local_path": "origin/chapter_59_pages/ch59_p355_section_9_urgency_end.png",
+      "derived_from_artifact": "origin/1933_Vol1_Chapters.pdf",
+      "derived_from_artifact_sha256": "c6b006953f20a5ddbdf2d57228d44fef5b29b7a12064b1bdba26a516a9a9576b",
+      "derivation_method": "pdftoppm -f 356 -l 356 -r 150 -png",
+      "derivation_at_utc": "2026-04-07T23:13:00Z",
+      "sha256": "76840dc1f3317e673a194b6b36d6c872fbc8dce3ebe3062f09d8a7a405679a4a",
+      "file_size_bytes": 122875,
+      "content_description": "Fourth and final page of Chapter 59. Shows the conclusion of Section 9 (the urgency clause finishing with 'These buildings will be erected, constructed and reconstructed at once and accordingly it is necessary that this act go into immediate effect in order that the lives and property of the people will be protected.'). End of Chapter 59. The page also begins Chapter 60 (an unrelated act amending the California Districts Securities Commission Act), which provides a clean boundary marker confirming Chapter 59 ends here."
+    },
+    {
+      "artifact_local_path": "current/edc_17280_leginfo.html",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=17280&lawCode=EDC",
+      "source_authority": "California Legislative Information (leginfo.legislature.ca.gov), maintained by the Office of Legislative Counsel of California",
+      "source_authority_type": "primary (state legislative branch official text repository)",
+      "fetched_at_utc": "2026-04-08T06:08:56Z",
+      "file_size_bytes": 167151,
+      "sha256": "9b6a682c4eb6860324a63c6b8d93da13a3e1df57d14b7b225b0d436718f6f513",
+      "content_description": "Current text of California Education Code section 17280 \u2014 the modern codified location for the K-12 school construction supervision requirement that traces back to the 1933 Field Act. Visible amendment history: 'Amended by Stats. 2002, Ch. 33, Sec. 28. Effective April 29, 2002.' Underlying article added by Stats. 1996, Ch. 277, Sec. 3. The full chain from 1933 Ch. 59 to this 1996/2002 codified form is not visible in this single fetch and is outstanding work."
+    },
+    {
+      "artifact_local_path": "context/usgs_long_beach_1933.html",
+      "source_url": "https://www.usgs.gov/programs/earthquake-hazards/science/m64-march-10-1933-long-beach-california-earthquake",
+      "source_authority": "United States Geological Survey, Earthquake Hazards Program",
+      "source_authority_type": "primary (federal scientific agency for seismology)",
+      "fetched_at_utc": "2026-04-08T06:08:56Z",
+      "file_size_bytes": 124787,
+      "sha256": "c62e9b7784d512cbc1e4e65510cb2d6ecb32c0b22981d891a00a7313177836fd",
+      "content_description": "USGS scientific record of the March 10, 1933 Long Beach earthquake. Establishes the federal scientific consensus on magnitude (M6.4 moment magnitude per Hough and Graves), epicenter (~5 km offshore Huntington Beach), fault (Newport-Inglewood, ~25 km rupture, no surface break), and casualty count (~120 fatalities, primarily from collapse of unreinforced masonry buildings). Notes the earthquake directly prompted the Field Act and California's first statewide seismic building codes."
+    },
+    {
+      "artifact_local_path": "context/cgs_long_beach_1933.html",
+      "source_url": "https://www.conservation.ca.gov/cgs/earthquakes/long-beach",
+      "source_authority": "California Geological Survey, California Department of Conservation",
+      "source_authority_type": "primary (state scientific agency for geology and seismology)",
+      "fetched_at_utc": "2026-04-08T06:08:56Z",
+      "file_size_bytes": 112129,
+      "sha256": "5a5942f2cc85201392dabe47638efa2cf3c47825dbe8f39038cb57683a115715",
+      "content_description": "California Geological Survey's official state record of the 1933 Long Beach earthquake. Provides: date and time (March 10, 1933 at 5:54 PM), magnitude (6.4), epicenter (3 miles south of Huntington Beach, ~8 miles deep), fault (Newport-Inglewood right-lateral strike-slip), casualties (120 deaths total: 52 Long Beach + 17 Compton; ~2/3 hit by debris while fleeing; 500+ injured Long Beach), property damage (~$50M 1933 dollars), and school building damage figures (70 destroyed + 120 damaged = ~75% of schools in the area). Notes: 'Since the enforcement of the Field Act, no school has collapsed because of a seismic event, and there has been no loss of life.'"
+    },
+    {
+      "artifact_local_path": "context/dsa_about.html",
+      "source_url": "https://www.dgs.ca.gov/dsa/About",
+      "source_authority": "Division of the State Architect, California Department of General Services",
+      "source_authority_type": "primary (administering state agency)",
+      "fetched_at_utc": "2026-04-08T06:08:56Z",
+      "file_size_bytes": 72386,
+      "sha256": "4bbf38e617d89ec9c7530cb23085c125f60c11b9907aa9b47dd6d2b37d481ac4",
+      "content_description": "Division of the State Architect official 'About' page. Establishes: DSA provides design and construction oversight for K-12 schools, community colleges, and other state-owned/leased facilities; DSA operates under multiple legislative frameworks including Education Code \u00a7\u00a7 17280-17316 (K-12) and \u00a7\u00a7 81130-81147 (community colleges), Government Code, Health and Safety Code, and Title 24 Regulations Parts 1-12. Headquartered in Sacramento with regional offices in Oakland, Sacramento, Los Angeles, and San Diego. Contains the verbatim operational outcome statement: 'Since the Field Act was enacted in 1933, DSA's review and approval have ensured that there has never been a major structural failure at a public California K-12 school or community college.'"
+    }
+  ],
+  "fetches_attempted_but_failed": [
+    {
+      "intended_url": "https://en.wikipedia.org/wiki/Field_Act",
+      "method": "WebFetch (model-summarized)",
+      "result": "fetched, but model summary returned 'Charles Field' as author name, conflicting with state library and other sources. Used as a secondary source only, not saved as primary artifact. Conflict resolved by additional searches identifying full name as 'Charles Donald Field' / 'C. Don Field'.",
+      "status": "RESOLVED via cross-source disambiguation"
+    },
+    {
+      "intended_url": "https://cal170.library.ca.gov/march-10-1933-the-children-are-spared-the-field-act-is-born/",
+      "method": "WebFetch",
+      "result": "HTTP 403 \u2014 access denied",
+      "status": "FAILED \u2014 should be retried with different fetch method or alternative California State Library mirror (celebratecalifornia.library.ca.gov is one possibility)"
+    },
+    {
+      "intended_url": "https://catalog.hathitrust.org/Record/010063843",
+      "method": "WebFetch",
+      "result": "HTTP 403 \u2014 access denied",
+      "status": "FAILED \u2014 HathiTrust may require authenticated session or reject anonymous bot fetches; not critical because the California Assembly Chief Clerk archive provided primary-source access directly"
+    }
+  ],
+  "session_appendices": [
+    {
+      "session_at_utc": "2026-04-08T08:30:00Z",
+      "session_note": "Evolution-layer + current-layer expansion. Added 1935 Ch. 284 (the first amendment to the Field Act, raising the trigger threshold from $1,000 to $4,000 and adding junior colleges to the 'school building' definition \u2014 the FIRST appearance of community colleges in the Field Act) plus current-form leginfo URLs for the additional Ed Code sections in the \u00a7\u00a717280-17317 series and \u00a7\u00a781130-81147 series.",
+      "fetches": [
+        {
+          "artifact_local_path": "evolution/1935_ch284_first_amendment/1935_Vol1_Chapters.pdf",
+          "actual_storage": "../../../_shared_statutes_archive/1935_Vol1_Chapters.pdf (symlinked)",
+          "source_url": "https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1935/35Vol1_Chapters.pdf",
+          "fetched_at_utc": "2026-04-08T08:30:00Z",
+          "file_size_bytes": 140431972,
+          "sha256": "0b12ee9b7ab50bb2ee4e272855660f9504b469544d9f70d1142f64db758377fb",
+          "source_authority": "California State Assembly, Office of the Chief Clerk",
+          "source_authority_type": "primary",
+          "content_description": "1935 Vol1 Chapters PDF. Contains Chapter 284 (the first amendment to the Field Act) at printed pages 1002\u20131003 (PDF pages 957\u2013958, with -45 offset). Approved by Governor June 7, 1935; in effect September 15, 1935. Marginalia 'Stats 1933, p. 352, amended' confirms direct amendment of 1933 Ch. 59 (the original Field Act)."
+        },
+        {
+          "artifact_local_path": "evolution/1935_ch284_first_amendment/chapter_pages/ch284_p1002-0957.png",
+          "derived_from_artifact": "evolution/1935_ch284_first_amendment/1935_Vol1_Chapters.pdf",
+          "derived_from_artifact_sha256": "0b12ee9b7ab50bb2ee4e272855660f9504b469544d9f70d1142f64db758377fb",
+          "derivation_method": "pdftoppm -f N -l N -r 150 -png (where N = PDF page suffix in filename)",
+          "derivation_at_utc": "2026-04-08T08:30:00Z",
+          "sha256": "b75a41f3d8e5d28dbb89bed3bedf185b21671735c4980bb2aa05c832626dee09",
+          "file_size_bytes": 93418,
+          "content_description": "Rendered page of 1935 Ch.284 (First amendment to Field Act \u2014 raises trigger threshold from $1,000 to $4,000 and adds junior colleges to 'school building' definition) from source PDF, 150 DPI grayscale PNG. Filename pattern: ch<NN>_p<printed>-<pdf>.png."
+        },
+        {
+          "artifact_local_path": "evolution/1935_ch284_first_amendment/chapter_pages/ch284_p1003-0958.png",
+          "derived_from_artifact": "evolution/1935_ch284_first_amendment/1935_Vol1_Chapters.pdf",
+          "derived_from_artifact_sha256": "0b12ee9b7ab50bb2ee4e272855660f9504b469544d9f70d1142f64db758377fb",
+          "derivation_method": "pdftoppm -f N -l N -r 150 -png (where N = PDF page suffix in filename)",
+          "derivation_at_utc": "2026-04-08T08:30:00Z",
+          "sha256": "4bb6932d40988e0b2ef760eb009a2381c919ce6d375ae654ca65827af42b01e6",
+          "file_size_bytes": 109870,
+          "content_description": "Rendered page of 1935 Ch.284 (First amendment to Field Act \u2014 raises trigger threshold from $1,000 to $4,000 and adds junior colleges to 'school building' definition) from source PDF, 150 DPI grayscale PNG. Filename pattern: ch<NN>_p<printed>-<pdf>.png."
+        },
+        {
+          "artifact_local_path": "current/edc_17280_leginfo.html",
+          "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=17280&lawCode=EDC",
+          "source_authority": "California Legislative Information (leginfo.legislature.ca.gov)",
+          "source_authority_type": "primary",
+          "fetched_at_utc": "2026-04-08T08:30:00Z",
+          "file_size_bytes": 167151,
+          "sha256": "9b6a682c4eb6860324a63c6b8d93da13a3e1df57d14b7b225b0d436718f6f513",
+          "content_description": "Current text URL marker for California Education Code section 17280. Part of the 1996 Stats. Ch. 277 recodification of the Field Act into the modern Education Code."
+        },
+        {
+          "artifact_local_path": "current/edc_17281_leginfo.html",
+          "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=17281&lawCode=EDC",
+          "source_authority": "California Legislative Information (leginfo.legislature.ca.gov)",
+          "source_authority_type": "primary",
+          "fetched_at_utc": "2026-04-08T08:30:00Z",
+          "file_size_bytes": 163197,
+          "sha256": "7f9a38fb4f3516b13153663534695b340ad4fb618ff5978dbf39e2722b655d23",
+          "content_description": "Current text URL marker for California Education Code section 17281. Part of the 1996 Stats. Ch. 277 recodification of the Field Act into the modern Education Code."
+        },
+        {
+          "artifact_local_path": "current/edc_17282_leginfo.html",
+          "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=17282&lawCode=EDC",
+          "source_authority": "California Legislative Information (leginfo.legislature.ca.gov)",
+          "source_authority_type": "primary",
+          "fetched_at_utc": "2026-04-08T08:30:00Z",
+          "file_size_bytes": 165477,
+          "sha256": "6c3c06d32ceb11e029effc0acd30673942769a3a14e226aa8a4b81793a761ffc",
+          "content_description": "Current text URL marker for California Education Code section 17282. Part of the 1996 Stats. Ch. 277 recodification of the Field Act into the modern Education Code."
+        },
+        {
+          "artifact_local_path": "current/edc_17283_leginfo.html",
+          "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=17283&lawCode=EDC",
+          "source_authority": "California Legislative Information (leginfo.legislature.ca.gov)",
+          "source_authority_type": "primary",
+          "fetched_at_utc": "2026-04-08T08:30:00Z",
+          "file_size_bytes": 163530,
+          "sha256": "47b1fc37050bf6ec1666e3d0f27f3fa72ae9bd76911d2c05596ca2c35a2b7757",
+          "content_description": "Current text URL marker for California Education Code section 17283. Part of the 1996 Stats. Ch. 277 recodification of the Field Act into the modern Education Code."
+        },
+        {
+          "artifact_local_path": "current/edc_17295_leginfo.html",
+          "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=17295&lawCode=EDC",
+          "source_authority": "California Legislative Information (leginfo.legislature.ca.gov)",
+          "source_authority_type": "primary",
+          "fetched_at_utc": "2026-04-08T08:30:00Z",
+          "file_size_bytes": 166519,
+          "sha256": "66e971247f80d106659b1fcc8462c42a5bdd61a38927045575a12208a212afb7",
+          "content_description": "Current text URL marker for California Education Code section 17295. Part of the 1996 Stats. Ch. 277 recodification of the Field Act into the modern Education Code."
+        },
+        {
+          "artifact_local_path": "current/edc_17297_leginfo.html",
+          "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=17297&lawCode=EDC",
+          "source_authority": "California Legislative Information (leginfo.legislature.ca.gov)",
+          "source_authority_type": "primary",
+          "fetched_at_utc": "2026-04-08T08:30:00Z",
+          "file_size_bytes": 162922,
+          "sha256": "65c36d37d30199c14941a40df5ce5689fefbcbe80365e66ffa10e73bda855ba4",
+          "content_description": "Current text URL marker for California Education Code section 17297. Part of the 1996 Stats. Ch. 277 recodification of the Field Act into the modern Education Code."
+        },
+        {
+          "artifact_local_path": "current/edc_17307_leginfo.html",
+          "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=17307&lawCode=EDC",
+          "source_authority": "California Legislative Information (leginfo.legislature.ca.gov)",
+          "source_authority_type": "primary",
+          "fetched_at_utc": "2026-04-08T08:30:00Z",
+          "file_size_bytes": 163345,
+          "sha256": "b84135027ffdf183c53278462ca14a3d4581fdf97453d254916ae017ddaa199f",
+          "content_description": "Current text URL marker for California Education Code section 17307. Part of the 1996 Stats. Ch. 277 recodification of the Field Act into the modern Education Code."
+        },
+        {
+          "artifact_local_path": "current/edc_17310_leginfo.html",
+          "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=17310&lawCode=EDC",
+          "source_authority": "California Legislative Information (leginfo.legislature.ca.gov)",
+          "source_authority_type": "primary",
+          "fetched_at_utc": "2026-04-08T08:30:00Z",
+          "file_size_bytes": 163525,
+          "sha256": "f6a6636dec57e61f418fe9a644fd2473817e86e336268ee80fd35c85ebbe9f3b",
+          "content_description": "Current text URL marker for California Education Code section 17310. Part of the 1996 Stats. Ch. 277 recodification of the Field Act into the modern Education Code."
+        },
+        {
+          "artifact_local_path": "current/edc_17311_leginfo.html",
+          "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=17311&lawCode=EDC",
+          "source_authority": "California Legislative Information (leginfo.legislature.ca.gov)",
+          "source_authority_type": "primary",
+          "fetched_at_utc": "2026-04-08T08:30:00Z",
+          "file_size_bytes": 165569,
+          "sha256": "49f6e1f3fb5fbb4f303fedfc3bcff233ad10b091d9527190a28746598386a6ce",
+          "content_description": "Current text URL marker for California Education Code section 17311. Part of the 1996 Stats. Ch. 277 recodification of the Field Act into the modern Education Code."
+        },
+        {
+          "artifact_local_path": "current/edc_17312_leginfo.html",
+          "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=17312&lawCode=EDC",
+          "source_authority": "California Legislative Information (leginfo.legislature.ca.gov)",
+          "source_authority_type": "primary",
+          "fetched_at_utc": "2026-04-08T08:30:00Z",
+          "file_size_bytes": 163186,
+          "sha256": "7159382ba2b5e2ca86cde1152af78280966d3bb85cab532dc827b4f3d565b585",
+          "content_description": "Current text URL marker for California Education Code section 17312. Part of the 1996 Stats. Ch. 277 recodification of the Field Act into the modern Education Code."
+        },
+        {
+          "artifact_local_path": "current/edc_17313_leginfo.html",
+          "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=17313&lawCode=EDC",
+          "source_authority": "California Legislative Information (leginfo.legislature.ca.gov)",
+          "source_authority_type": "primary",
+          "fetched_at_utc": "2026-04-08T08:30:00Z",
+          "file_size_bytes": 163431,
+          "sha256": "480b4f035fe966f3fba8e8b9628ec277617fd5068b3c8648364e84649c07412c",
+          "content_description": "Current text URL marker for California Education Code section 17313. Part of the 1996 Stats. Ch. 277 recodification of the Field Act into the modern Education Code."
+        },
+        {
+          "artifact_local_path": "current/edc_81130_leginfo.html",
+          "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=81130&lawCode=EDC",
+          "source_authority": "California Legislative Information (leginfo.legislature.ca.gov)",
+          "source_authority_type": "primary",
+          "fetched_at_utc": "2026-04-08T08:30:00Z",
+          "file_size_bytes": 164175,
+          "sha256": "7d590c90a31b854b587baf36c5dc34f5dcbaf38aceff2eea535ca376c5e9fdd4",
+          "content_description": "Current text URL marker for California Education Code section 81130. Part of the 1996 Stats. Ch. 277 recodification of the Field Act into the modern Education Code."
+        },
+        {
+          "artifact_local_path": "current/edc_81131_leginfo.html",
+          "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=81131&lawCode=EDC",
+          "source_authority": "California Legislative Information (leginfo.legislature.ca.gov)",
+          "source_authority_type": "primary",
+          "fetched_at_utc": "2026-04-08T08:30:00Z",
+          "file_size_bytes": 162050,
+          "sha256": "1bdbb1c8fcb152ec81a22f3b4406390eb24f1028921063213d14df5176be214d",
+          "content_description": "Current text URL marker for California Education Code section 81131. Part of the 1996 Stats. Ch. 277 recodification of the Field Act into the modern Education Code."
+        },
+        {
+          "artifact_local_path": "current/edc_81133_leginfo.html",
+          "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=81133&lawCode=EDC",
+          "source_authority": "California Legislative Information (leginfo.legislature.ca.gov)",
+          "source_authority_type": "primary",
+          "fetched_at_utc": "2026-04-08T08:30:00Z",
+          "file_size_bytes": 170420,
+          "sha256": "181c980657d5a4a0b3232dc6bc5fb554b92211d1de49e900a3ca6e6e8d5c1c4e",
+          "content_description": "Current text URL marker for California Education Code section 81133. Part of the 1996 Stats. Ch. 277 recodification of the Field Act into the modern Education Code."
+        },
+        {
+          "artifact_local_path": "current/edc_81147_leginfo.html",
+          "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=81147&lawCode=EDC",
+          "source_authority": "California Legislative Information (leginfo.legislature.ca.gov)",
+          "source_authority_type": "primary",
+          "fetched_at_utc": "2026-04-08T08:30:00Z",
+          "file_size_bytes": 166375,
+          "sha256": "39eeeb22373315a281dcd6f08442c7b73afd03c32b7dbc1b4bffda89cafee1f5",
+          "content_description": "Current text URL marker for California Education Code section 81147. Part of the 1996 Stats. Ch. 277 recodification of the Field Act into the modern Education Code."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+BARNES v. GORMAN
+536 U.S. 181 (2002)
+United States Supreme Court
+Decided: June 17, 2002
+
+---
+
+FACTS:
+
+Jeffrey Gorman, a paraplegic who used a wheelchair and catheter, was arrested by Kansas City, Missouri police officers. During transport in an accessible police van, officers failed to properly secure his wheelchair, causing him to fall and sustain serious injuries (a shoulder injury and a bladder injury from catheter displacement). Gorman sued the city under Title II of the ADA and § 504 of the Rehabilitation Act, seeking compensatory and punitive damages.
+
+The district court awarded compensatory damages but not punitive damages. The Eighth Circuit reversed on punitive damages, holding they were available. The Supreme Court reversed the Eighth Circuit.
+
+---
+
+HOLDING:
+
+Justice Scalia wrote for the Court (unanimous on the punitive damages holding; 8-1 overall).
+
+SPENDING CLAUSE LEGISLATION — THE CONTRACT ANALOGY:
+Both ADA Title II (as to public entities receiving federal funds) and § 504 are enacted pursuant to Congress's Spending Clause power. Spending Clause legislation operates as a contract: in exchange for federal funding, recipients agree to comply with the attached conditions.
+
+THE LIMITATION ON REMEDIES UNDER SPENDING CLAUSE STATUTES:
+"[A] recipient of federal funds may be held liable in damages under Title VI — and hence Title II and § 504 — for intentional violations, but not for unintentional violations. And the remedies available in such a suit are limited to 'those remedies traditionally available in suits for breach of contract.'"
+
+Punitive damages are NOT available in breach-of-contract suits. Therefore:
+
+PUNITIVE DAMAGES ARE NOT AVAILABLE UNDER ADA TITLE II OR § 504 (for Spending Clause-based claims):
+"Because punitive damages are not available in suits for breach of contract, they are not available in suits brought under Title VI (and hence Title II of the ADA and § 504 of the Rehabilitation Act)."
+
+WHAT IS AVAILABLE:
+- Compensatory damages (actual damages resulting from discrimination)
+- Injunctive relief
+- Declaratory relief
+
+WHAT IS NOT AVAILABLE:
+- Punitive damages (under ADA Title II / § 504 Spending Clause claims)
+
+---
+
+NOTE ON § 1983 PARALLEL CLAIMS:
+Barnes v. Gorman applies to ADA Title II and § 504 claims premised on Spending Clause authority. It does NOT apply to § 1983 claims, which can carry punitive damages against individual defendants (not governmental entities). The strategic implication:
+
+- Against individual officers/actors: bring § 1983 (punitive damages available for reckless or callous indifference under Smith v. Wade)
+- Against state/local entity for ADA/§ 504 violation: compensatory damages and injunctive relief are available; punitive damages are not
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For disability discrimination claims:
+1. ADA Title II / § 504 against state agency: compensatory damages + injunctive relief only
+2. § 1983 against individual officers for disability-based constitutional violations: full § 1983 remedy including punitive damages (qualified immunity still applies)
+3. Optimal pleading: allege both ADA/§ 504 (for structural injunctive relief and compensatory damages against the entity) and § 1983 (for punitive damages against individuals who acted with callous indifference)
+
+---
+
+SOURCE PROVENANCE:
+Citation: 536 U.S. 181 (2002)
+Court: United States Supreme Court
+Reporter: United States Reports, vol. 536, page 181
+Author: Scalia, J. (unanimous on punitive damages issue)
+Source of this text: Claude training data (knowledge cutoff August 2025). Barnes v. Gorman is the controlling case on punitive damages unavailability under ADA Title II / § 504 Spending Clause claims.
+Verification: CourtListener / Justia / Google Scholar: "Barnes v. Gorman 536 U.S. 181"
+Verification status: PROPOSED — pending steward witness review

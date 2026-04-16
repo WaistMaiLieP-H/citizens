@@ -1,0 +1,20 @@
+{
+  "standard_id": "CA_VEH_2800_OBEY_PEACE_OFFICER",
+  "provenance_record_filed_at_utc": "2026-04-08T09:23:00Z",
+  "fetcher_software": "curl with sha256sum (one-shot batch fetch as part of 2026-04-08 breadth-first umbrella seeding pass)",
+  "fetcher_operator": "Claude (assistant) under steward direction (Michael Hartmann)",
+  "verification_principle": "Current-form HTML is the primary artifact for sections whose canonical text lives at the named source authority. The HTML snapshot is hashed at fetch time so a future verifier can confirm it matches what the source served on this date.",
+  "fetches": [
+    {
+      "artifact_local_path": "current/cal_veh_2800_leginfo.html",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2800.&lawCode=VEH",
+      "source_authority": "California Legislative Information (leginfo.legislature.ca.gov)",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-08T09:23:00Z",
+      "fetch_method": "curl -sSL --max-time 60 with Vernen-Provenance user-agent (one-shot batch fetch)",
+      "file_size_bytes": 165029,
+      "sha256": "99ee632c64c6c8659cc5269c32c61534a83fd977fdb076859615eababf46f5ee",
+      "content_description": "Failure to Obey a Peace Officer's Lawful Order"
+    }
+  ]
+}

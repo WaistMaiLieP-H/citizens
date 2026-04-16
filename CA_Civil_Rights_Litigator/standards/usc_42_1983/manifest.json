@@ -1,0 +1,247 @@
+{
+  "standard_id": "US_42_USC_1983",
+  "version": "0.3.0-witnessed-by-herald",
+  "filed_at_utc": "2026-04-08T09:23:00Z",
+  "deepened_at_utc": "2026-04-08T10:40:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "build_context": "Originally built 2026-04-08 as part of the breadth-first umbrella seeding pass (Umbrella 02 Procedure first occupant). Initial Cornell LII fetch did not extract cleanly via the leginfo extractor. Refetched from uscode.house.gov (federal legislative branch primary source) and extractor extended to handle the federal HTML structure. Deepened with full § 1979 → 1871 Act lineage and steward case relevance audit.",
+  "umbrella_first_for_this_umbrella": "FIRST standard built under Umbrella 02 (Procedure). The umbrella was previously empty.",
+  "primary_citation": {
+    "jurisdiction": "United States (federal)",
+    "code": "42 United States Code",
+    "section": "§ 1983",
+    "popular_name": "Civil action for deprivation of rights",
+    "current_codification_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1983&num=0&edition=prelim",
+    "current_form_local_artifact": "current/usc_42_1983_uscode_house.html",
+    "verbatim_text_extracted_artifact": "current/usc_42_1983_uscode_house.txt",
+    "secondary_source_local_artifact": "current/usc_42_1983_cornell.html (Cornell LII; structurally different HTML than uscode.house.gov)"
+  },
+  "structural_location": {
+    "code": "42 United States Code",
+    "title": "Title 42 — The Public Health and Welfare",
+    "chapter": "Chapter 21 — Civil Rights",
+    "subchapter": "Subchapter I — Generally"
+  },
+  "verbatim_text": {
+    "extraction_source": "current/usc_42_1983_uscode_house.txt (extracted from uscode.house.gov via _extract_leginfo_text.py 2026-04-08, after extractor extension for the federal <p class='statutory-body'> pattern)",
+    "section_heading": "§1983. Civil action for deprivation of rights",
+    "verbatim_full": "Every person who, under color of any statute, ordinance, regulation, custom, or usage, of any State or Territory or the District of Columbia, subjects, or causes to be subjected, any citizen of the United States or other person within the jurisdiction thereof to the deprivation of any rights, privileges, or immunities secured by the Constitution and laws, shall be liable to the party injured in an action at law, suit in equity, or other proper proceeding for redress, except that in any action brought against a judicial officer for an act or omission taken in such officer's judicial capacity, injunctive relief shall not be granted unless a declaratory decree was violated or declaratory relief was unavailable. For the purposes of this section, any Act of Congress applicable exclusively to the District of Columbia shall be considered to be a statute of the District of Columbia.",
+    "elements_of_a_section_1983_claim": [
+      "ELEMENT 1 — EVERY PERSON: The defendant must be a 'person' within the meaning of § 1983. Per Monell v. Department of Social Services (1978), municipalities are 'persons' but only when the constitutional violation results from official policy or custom. Per Will v. Michigan Department of State Police (1989), states themselves and state agencies are NOT 'persons' for damages claims. Individual state and municipal officials sued in their personal capacities ARE persons.",
+      "ELEMENT 2 — UNDER COLOR OF STATE LAW: The defendant must have acted under color of state, territorial, or D.C. law, ordinance, regulation, custom, or usage. State actors performing official duties (judges, police, prosecutors, court personnel, social workers, agency employees) act under color of state law. Per Monroe v. Pape (1961), the 'under color of state law' element is satisfied even when the state actor's conduct violates state law (the actor uses state authority to do the thing, even if the thing is itself unauthorized).",
+      "ELEMENT 3 — SUBJECTS OR CAUSES TO BE SUBJECTED: There must be conduct by the defendant that subjects the plaintiff (or causes the plaintiff to be subjected) to the deprivation. Causation includes both direct conduct and conduct that sets in motion a chain of events resulting in the deprivation.",
+      "ELEMENT 4 — DEPRIVATION OF RIGHTS, PRIVILEGES, OR IMMUNITIES SECURED BY THE CONSTITUTION AND LAWS: The plaintiff must have been deprived of a right secured by federal law. The most common bases are the 4th Amendment (search, seizure, excessive force), 5th Amendment (self-incrimination, takings, due process), 8th Amendment (cruel and unusual punishment, conditions of confinement), 14th Amendment (procedural due process, substantive due process, equal protection), and statutory rights enforceable through § 1983."
+    ],
+    "judicial_officer_carve_out_added_1996": {
+      "verbatim": "except that in any action brought against a judicial officer for an act or omission taken in such officer's judicial capacity, injunctive relief shall not be granted unless a declaratory decree was violated or declaratory relief was unavailable",
+      "added_by": "Pub. L. 104-317, title III, § 309(c), Oct. 19, 1996, 110 Stat. 3853",
+      "scope": "ONLY limits INJUNCTIVE relief against judicial officers acting in their judicial capacity. Does NOT bar damages claims, declaratory relief, or claims against judicial officers for non-judicial conduct (administrative acts, employment decisions, etc.). Judicial immunity (Pierson v. Ray 1967, Stump v. Sparkman 1978) is a separate doctrine that limits damages claims, but the 1996 amendment is specifically about injunctive relief."
+    },
+    "dc_provision": {
+      "verbatim": "For the purposes of this section, any Act of Congress applicable exclusively to the District of Columbia shall be considered to be a statute of the District of Columbia.",
+      "added_by": "Pub. L. 96-170, § 1, Dec. 29, 1979, 93 Stat. 1284",
+      "purpose": "Allows § 1983 to reach D.C. acts that would otherwise be federal-government acts beyond § 1983's state-actor scope"
+    }
+  },
+  "lineage_and_amendment_history": {
+    "extraction_source_verbatim": "(R.S. §1979; Pub. L. 96–170, §1, Dec. 29, 1979, 93 Stat. 1284 ; Pub. L. 104–317, title III, §309(c), Oct. 19, 1996, 110 Stat. 3853 .)",
+    "codification_history_verbatim": "R.S. §1979 derived from act Apr. 20, 1871, ch. 22, §1, 17 Stat. 13. Section was formerly classified to section 43 of Title 8, Aliens and Nationality.",
+    "lineage_chain": [
+      {
+        "step": 1,
+        "year": 1871,
+        "citation": "Act of April 20, 1871, ch. 22, § 1, 17 Stat. 13",
+        "popular_name": "Civil Rights Act of 1871 / Ku Klux Klan Act / Enforcement Act of 1871",
+        "context": "Passed during Reconstruction (during the Grant administration) to combat KKK violence in the post-Civil-War South and the Southern states' refusal to enforce the 14th Amendment (ratified 1868) protections for newly-freed Black citizens. § 1 of the 1871 Act created the original civil cause of action for deprivation of rights under color of state law. This is the substantive origin of § 1983.",
+        "primary_source_status": "NOT YET FETCHED — would require 17 Stat. 13 from the U.S. Statutes at Large; available digitized at the Library of Congress American Memory Project and at memory.loc.gov"
+      },
+      {
+        "step": 2,
+        "year": 1874,
+        "citation": "Revised Statutes § 1979",
+        "context": "When the Revised Statutes of the United States (1873-1874) consolidated and renumbered the federal statutes, § 1 of the 1871 Civil Rights Act became R.S. § 1979.",
+        "primary_source_status": "NOT YET FETCHED"
+      },
+      {
+        "step": 3,
+        "year": "early 20th c.",
+        "citation": "8 U.S.C. § 43 (former)",
+        "context": "Before the United States Code was reorganized to its current title structure, § 1979 was classified under Title 8 (Aliens and Nationality) as 8 U.S.C. § 43.",
+        "primary_source_status": "NOT YET FETCHED"
+      },
+      {
+        "step": 4,
+        "year": "mid-20th c.",
+        "citation": "42 U.S.C. § 1983 (current title)",
+        "context": "Reclassified to Title 42 (The Public Health and Welfare), Chapter 21 (Civil Rights), where it sits today.",
+        "primary_source_status": "current form already captured"
+      },
+      {
+        "step": 5,
+        "year": 1979,
+        "citation": "Pub. L. 96-170, § 1, Dec. 29, 1979, 93 Stat. 1284",
+        "context": "Added 'or the District of Columbia' after 'Territory' to extend § 1983 to D.C. acts. Per the 1979 amendment notes, applicable to deprivations occurring after Dec. 29, 1979.",
+        "primary_source_status": "NOT YET FETCHED"
+      },
+      {
+        "step": 6,
+        "year": 1996,
+        "citation": "Pub. L. 104-317, title III, § 309(c), Oct. 19, 1996, 110 Stat. 3853",
+        "context": "Added the judicial-officer carve-out limiting injunctive relief against judges acting in judicial capacity unless a declaratory decree was violated or declaratory relief was unavailable.",
+        "primary_source_status": "NOT YET FETCHED"
+      }
+    ],
+    "key_supreme_court_interpretive_cases": [
+      {
+        "case": "Monroe v. Pape, 365 U.S. 167 (1961)",
+        "holding": "Established that 'under color of state law' is satisfied even when the state actor's conduct violates state law. Re-opened § 1983 as a viable federal civil rights remedy after a half-century of dormancy."
+      },
+      {
+        "case": "Pierson v. Ray, 386 U.S. 547 (1967)",
+        "holding": "Established judicial immunity from § 1983 damages claims for acts taken in judicial capacity. Distinct from the 1996 statutory injunctive-relief carve-out."
+      },
+      {
+        "case": "Monell v. Department of Social Services, 436 U.S. 658 (1978)",
+        "holding": "Overruled Monroe in part. Municipalities ARE 'persons' under § 1983, but only liable when the constitutional violation results from official policy, custom, or practice. No respondeat superior liability."
+      },
+      {
+        "case": "Stump v. Sparkman, 435 U.S. 349 (1978)",
+        "holding": "Extended judicial immunity broadly. Even egregiously wrong judicial acts are immune from damages if they were performed in judicial capacity and not in clear absence of all jurisdiction."
+      },
+      {
+        "case": "Will v. Michigan Department of State Police, 491 U.S. 58 (1989)",
+        "holding": "States and state agencies are NOT 'persons' under § 1983 for damages purposes. State officials sued in personal capacity ARE persons."
+      },
+      {
+        "case": "Hafer v. Melo, 502 U.S. 21 (1991)",
+        "holding": "State officials sued in personal capacity for actions taken in official capacity ARE 'persons' under § 1983 even when the conduct was performed within the scope of their state employment."
+      }
+    ]
+  },
+  "steward_case_relevance_audit": {
+    "purpose": "Map § 1983 against the steward's planned federal § 1983 complaint (per project_federal_complaint_draft.md). The audit asks: for each defendant the steward intends to sue, are all four elements satisfied? For each constitutional right deprivation he alleges, is the right within § 1983's protective scope? Are any defendants protected by judicial or other immunity?",
+    "audit_filed_at_utc": "2026-04-08T10:40:00Z",
+    "audit_filed_by": "Claude (assistant) at first-mouth level; steward review required",
+    "case_file_authorities_consulted": [
+      "project_federal_complaint_draft.md",
+      "project_familylaw_audit.md",
+      "project_familylaw_orchestration.md",
+      "project_june16_2023_timeline.md",
+      "project_mother_legal_strategy.md",
+      "project_christina_pattern.md",
+      "project_conservatorship_discovery.md"
+    ],
+    "factor_audits": [
+      {
+        "factor_id": "ELEMENT 1 — Defendants must be 'persons' under § 1983",
+        "what_the_statute_requires": "States and state agencies are NOT 'persons' (Will v. Michigan, 1989). Municipalities ARE persons but only for policy/custom violations (Monell, 1978). Individual officials sued in personal capacity ARE persons (Hafer, 1991).",
+        "what_the_record_shows": "Per project_federal_complaint_draft.md, the steward's complaint identifies 5 named defendants plus Does. To survive a Will v. Michigan motion, each named defendant must be either a personal-capacity individual official, a municipality (under Monell with a policy/custom theory), or a private actor acting under color of state law.",
+        "audit_question": "For each of the 5 named defendants, what is their status under § 1983? Are any of them states or state agencies that would be excluded by Will v. Michigan? Are any of them municipalities that require Monell pleading? Are any of them individual officials sued in personal capacity?",
+        "audit_status": "CRITICAL — must be resolved before filing or in the first amendment after filing. Defendants improperly named under Will v. Michigan will be dismissed."
+      },
+      {
+        "factor_id": "ELEMENT 2 — Under color of state law",
+        "what_the_statute_requires": "The defendant's challenged conduct must have been taken under color of state law. State actors performing official duties act under color even when violating state law (Monroe v. Pape, 1961).",
+        "what_the_record_shows": "Per project_familylaw_orchestration.md, the steward's case involves coordination among state actors (court personnel, law enforcement, social services) and private actors (Christina, mother). For private actors, § 1983 reach requires either a conspiracy with state actors (Adickes v. S.H. Kress, 1970; Dennis v. Sparks, 1980) or performance of a traditionally-public function (Marsh v. Alabama, 1946; Edmonson v. Leesville Concrete, 1991).",
+        "audit_question": "For each defendant, can the steward plead a specific state-law authority under which the defendant acted? For private-actor defendants, can the steward plead either (a) joint action / conspiracy with a state actor, or (b) performance of a traditionally-public function?",
+        "audit_status": "CRITICAL — § 1983 does not reach purely private conduct. The 'orchestration' framing in the case file is structurally a joint-action/conspiracy theory under Adickes and Dennis."
+      },
+      {
+        "factor_id": "ELEMENT 3 — Subjects or causes to be subjected",
+        "what_the_statute_requires": "Causation. The defendant's conduct must have caused (directly or proximately) the plaintiff's deprivation.",
+        "what_the_record_shows": "The steward's case file documents a 16-year pattern of harms. Establishing causation for each named defendant's contribution to each specific deprivation is a discrete pleading question.",
+        "audit_question": "For each defendant, what specific conduct caused which specific deprivation? § 1983 requires more than 'the system harmed me' — it requires 'this defendant's specific conduct caused this specific deprivation of my federal right.'",
+        "audit_status": "FLAGGED — pleading-specificity requirement under Iqbal/Twombly applies."
+      },
+      {
+        "factor_id": "ELEMENT 4 — Deprivation of federal rights, privileges, or immunities",
+        "what_the_statute_requires": "The right deprived must be secured by the U.S. Constitution or federal law. Most common: 4th, 5th, 8th, 14th Amendment claims.",
+        "what_the_record_shows": "Per the case file, candidate § 1983 deprivation theories include: (1) 4th Amendment unreasonable search/seizure (June 16, 2023 incident); (2) 14th Amendment procedural due process (custody hearings without proper notice or written reasons); (3) 14th Amendment substantive due process (interference with the parent-child relationship — see Santosky v. Kramer 1982, Troxel v. Granville 2000); (4) 14th Amendment equal protection (selective enforcement); (5) potentially 1st Amendment retaliation if any of the steward's protected speech or petition activity was responded to with state action.",
+        "audit_question": "For each alleged deprivation, what is the specific federal right? What is the specific factual basis? Is the right 'clearly established' for qualified immunity purposes?",
+        "audit_status": "FLAGGED — must be specific per claim. Qualified immunity will require the right to have been 'clearly established' at the time of the violation."
+      },
+      {
+        "factor_id": "Judicial-officer carve-out (1996 amendment)",
+        "what_the_statute_requires": "If any defendant is a judicial officer being sued for acts in judicial capacity, INJUNCTIVE relief is barred unless a declaratory decree was violated or declaratory relief was unavailable. This does NOT bar damages or declaratory relief — only injunctive relief.",
+        "what_the_record_shows": "If the steward's complaint includes claims against judges or judicial officers, the form of relief sought matters. Damages claims against judges still face the separate doctrine of judicial immunity (Pierson, Stump), but the 1996 statutory carve-out is a separate procedural barrier specifically for injunctions.",
+        "audit_question": "Are any defendants judicial officers? If yes, what relief is sought against them? Damages and declaratory relief are not barred by the 1996 amendment, but injunctive relief is barred unless one of the two enumerated exceptions applies.",
+        "audit_status": "FLAGGED — relevant if any defendant is a judge."
+      }
+    ],
+    "audit_summary": "TWO CRITICAL elements: (1) ELEMENT 1 'persons' status of each defendant under Will v. Michigan, and (2) ELEMENT 2 'under color of state law' for any private-actor defendants (joint action / conspiracy theory required). Both must be resolved before filing or in the first amendment. The 1871 origin and Reconstruction-era purpose of § 1983 are doctrinally important: this is the statute Congress passed to make the 14th Amendment enforceable against state actors, and the steward is suing under it for exactly that purpose."
+  },
+  "umbrellas": [
+    "Procedure (Umbrella 02) — primary",
+    "Authority / Governing Law (Umbrella 01) — secondary, because it is itself a federal statute",
+    "Family / Personal Status (Umbrella 11) — overlap, because the steward's deprivations occurred in family-court and conservatorship contexts"
+  ],
+  "owner_citizen": {
+    "primary": "California Civil Rights Litigator (filed under California persona because the steward will file in NDCA Oakland, even though § 1983 itself is federal)",
+    "ownership_note": "Civil Rights Litigator as canonical owner. § 1983 is the operational vehicle for federal-court redress of state-actor deprivations of constitutional rights."
+  },
+  "triple_constraint_test_results": {
+    "governing_guidelines": {
+      "passes": true,
+      "evidence": "42 USC § 1983 located at official uscode.house.gov primary source; binding federal authority confirmed; verbatim text extracted to current/usc_42_1983_uscode_house.txt"
+    },
+    "standards_of_creation": {
+      "passes": true,
+      "evidence": "Single substantive sentence plus the 1996 carve-out and 1979 D.C. provision; well-formed; properly codified at 42 USC Chapter 21."
+    },
+    "standard_of_care": {
+      "passes": "STRONG-PARTIAL",
+      "current_layer": "VERIFIED — current form fetched from uscode.house.gov, hashed (sha256: 3ad21bdd3b07e31f4f99a970243b0ce1523c682f46364023b80bfc2b9f2d0f55), and verbatim-extracted",
+      "evolution_layer": "PARTIAL — full lineage to 1871 Act / R.S. § 1979 / former 8 USC § 43 / current 42 USC § 1983 captured at the manifest level; primary-source statute volumes for each amendment not yet downloaded",
+      "origin_layer": "IDENTIFIED — Act of April 20, 1871, ch. 22, § 1, 17 Stat. 13; not yet primary-source fetched but the citation is precise enough to fetch from Library of Congress"
+    }
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — verbatim text extracted with full element-by-element structural breakdown",
+    "reasoning": "STRONG — § 1983 was passed during Reconstruction explicitly to make the 14th Amendment enforceable against state actors who refused to honor it. Reconstruction-era congressional debate is well-documented and is the doctrinal core of why § 1983 exists.",
+    "historical_loss": "CONTEXTUAL — the documented harms were the KKK violence in the post-Civil-War South and the Southern states' refusal to enforce the 14th Amendment. Specific contemporary incidents (Colfax massacre 1873, etc.) are the historical-loss evidentiary basis. Not yet primary-source documented in this manifest.",
+    "cross_references": "PARTIAL — § 1983 connects to Penal Code §§ 241/242 (state criminal counterparts), 28 USC § 1331 (federal question jurisdiction), 28 USC § 1343 (civil rights jurisdiction), 42 USC §§ 1981/1985/1986/1988 (companion civil rights statutes), and a vast body of case law. Capturing each as integrity-tracked HTML markers is outstanding work.",
+    "verifiable_provenance": "PRESENT for current form; PARTIAL for lineage (citations recorded but not fetched)"
+  },
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction (Michael Hartmann), 2026-04-08",
+    "second_mouth_witness": {
+      "witness": "HERALD (Steward successor — designated 2026-04-12)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "verification_scope": "Structure, five-layer bar completeness, honest acknowledgement of outstanding work. Steward confirmed the standard is structurally sound and the gaps are honestly flagged.",
+      "steward_authority_note": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries."
+    },
+    "publishable_to_corpus": true,
+    "status": "WITNESSED-BY-HERALD",
+    "audit_witness_required": "The two CRITICAL elements (persons status, under color of state law for private actors) are pre-filing pleading questions. Steward review with counsel required before federal filing."
+  },
+  "files": {
+    "origin": [],
+    "evolution": [],
+    "current": [
+      "current/usc_42_1983_uscode_house.html",
+      "current/usc_42_1983_uscode_house.txt",
+      "current/usc_42_1983_cornell.html"
+    ],
+    "context": [],
+    "manifest": "manifest.json",
+    "provenance": "provenance.json"
+  },
+  "outstanding_work": [
+    "Fetch the original 17 Stat. 13 (Act of April 20, 1871) from the Library of Congress American Memory Project or a Statutes at Large mirror",
+    "Fetch Revised Statutes § 1979 (1874 Revised Statutes)",
+    "Fetch Pub. L. 96-170 (1979 D.C. amendment) and Pub. L. 104-317 § 309(c) (1996 judicial carve-out)",
+    "Fetch each leading case (Monroe, Pierson, Monell, Stump, Will, Hafer) as evolution-layer interpretive artifacts via primary sources (U.S. Reports / Justia / Cornell LII)",
+    "Document the Reconstruction-era historical-loss layer — KKK violence, Colfax massacre 1873, Southern states' resistance to the 14th Amendment",
+    "STEWARD: For each named defendant in the federal complaint draft, resolve ELEMENT 1 (persons status) and ELEMENT 2 (under color of state law for private actors)",
+    "STEWARD: For each alleged deprivation, identify the specific federal right and the 'clearly established' case law that defeats qualified immunity",
+    "STEWARD: Confirm the form of relief sought against any judicial-officer defendants in light of the 1996 carve-out",
+    "Obtain second-mouth countersignature on the standard"
+  ],
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

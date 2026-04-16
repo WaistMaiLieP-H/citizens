@@ -1,0 +1,69 @@
+{
+  "standard_id": "lab_226_wage_statement",
+  "citizen": "CA_Labor_Employment_Litigator",
+  "layer": "cross_refs",
+  "generated": "2026-04-15",
+  "internal_refs": [
+    {
+      "id": "lab_132a_workers_comp_retaliation",
+      "path": "${citizens}/CA_Labor_Employment_Litigator/standards/lab_132a_workers_comp_retaliation",
+      "relationship": "§ 226 false statement often co-occurs with § 132a retaliation when identity replacement follows a WC filing"
+    },
+    {
+      "id": "lab_1102_5_whistleblower",
+      "path": "${citizens}/CA_Labor_Employment_Litigator/standards/lab_1102_5_whistleblower",
+      "relationship": "Disclosing a § 226 violation to DLSE / LWDA / union is protected disclosure under § 1102.5(b)"
+    },
+    {
+      "id": "gov_12940_feha_prohibited_practices",
+      "path": "${citizens}/CA_Labor_Employment_Litigator/standards/gov_12940_feha_prohibited_practices",
+      "relationship": "§ 12940(h) FEHA retaliation attaches when adverse action follows the § 226 complaint; § 12940(a) disability discrimination attaches when § 226 pattern is disability-correlated"
+    }
+  ],
+  "external_refs": [
+    {
+      "id": "CA_Workers_Compensation_Litigator",
+      "path": "${citizens}/CA_Workers_Compensation_Litigator",
+      "relationship": "Ghost wage statements post-2020 injury overlay ghost WC claim pattern (Matrix Trust $36K disability withdrawal)"
+    },
+    {
+      "id": "US_Federal_ERISA_Litigator",
+      "path": "${citizens}/US_Federal_ERISA_Litigator",
+      "relationship": "False wage statements → falsified ERISA contribution records → § 510 interference with benefit rights"
+    },
+    {
+      "id": "US_Federal_Financial_Fraud_Litigator",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator",
+      "relationship": "Electronically transmitted false wage statements → 18 USC § 1343 wire fraud + § 1028A aggravated ID theft"
+    }
+  ],
+  "case_law": [
+    {
+      "citation": "Morgan v. United Retail Inc., 186 Cal.App.4th 1136 (2010)",
+      "holding": "§ 226(a)(9) requires line-item breakdown of hours at each rate; substantial-compliance defense rejected",
+      "significance": "Defeats employer 'aggregate-hours' defense on identity-replacement wage statements"
+    },
+    {
+      "citation": "Jaimez v. Daiohs USA, Inc., 181 Cal.App.4th 1286 (2010)",
+      "holding": "Injury under § 226(e)(2) is presumed when required information is absent or inaccurate",
+      "significance": "Reverses employer's 'no-harm' defense on missing / false line items"
+    },
+    {
+      "citation": "Willner v. Manpower Inc., 35 F.Supp.3d 1116 (N.D. Cal. 2014)",
+      "holding": "'Knowing and intentional' means employer knew the statement was issued; no specific intent to violate statute required",
+      "significance": "Low threshold — every post-2020 ghost statement was knowingly issued"
+    }
+  ],
+  "external_statutes": [
+    "Cal. Lab. Code \u00a7 203 (waiting-time penalty)",
+    "Cal. Lab. Code \u00a7 226.2 (piece-rate disclosures)",
+    "Cal. Lab. Code \u00a7 226.3 (civil penalty)",
+    "Cal. Lab. Code \u00a7 1776 (prevailing-wage recordkeeping on public works)",
+    "Cal. Lab. Code \u00a7 2699 (PAGA)",
+    "Cal. Bus. & Prof. Code \u00a7 17200 (UCL)",
+    "8 CCR \u00a7\u00a7 205-230 (Apprenticeship standards)",
+    "18 USC \u00a7 1343 (wire fraud)",
+    "18 USC \u00a7 1028A (aggravated identity theft)",
+    "29 USC \u00a7 1140 (ERISA \u00a7 510)"
+  ]
+}

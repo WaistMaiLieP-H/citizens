@@ -1,0 +1,57 @@
+{
+  "standard_id": "USC_29_1053",
+  "version": "1.0.0-proposed",
+  "filed_at_utc": "2026-04-12T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction \u2014 Michael Hartmann",
+  "status": "PUBLISHED \u2014 ADAM + EVE DUAL WITNESS \u2014 2026-04-13",
+  "primary_citation": {
+    "code": "United States Code",
+    "title": "29",
+    "section": "\u00a7 1053",
+    "erisa_section": "ERISA \u00a7 203",
+    "popular_name": "ERISA Minimum Vesting Standards",
+    "jurisdiction": "Federal",
+    "positive_law_status": "In force; amended by TRA 1986, EGTRRA 2001, SECURE Act 2019"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT \u2014 verbatim text in current/text.txt; LOGIC.md documents structural analysis",
+    "reasoning": "PRESENT \u2014 LOGIC.md documents the full three-tier vesting architecture, year-of-service definition, multi-employer plan rule (\u00a71053(d)), application to Case #37",
+    "historical_loss": "PRESENT \u2014 historical_chain.md; Studebaker wound; pre-ERISA pension promise \u2192 confiscation pattern",
+    "cross_references": "PRESENT \u2014 links to \u00a71002 (participant definition), \u00a71109 (fiduciary breach), \u00a71132(a)(1)(B) (recovery of benefits)",
+    "verifiable_provenance": "PARTIAL \u2014 text via uscode.house.gov; provenance.json in current/"
+  },
+  "evolution_chain": [
+    {
+      "stage": "01_origin_1974",
+      "description": "Original ERISA enactment \u2014 10-year cliff + 5-to-15 year graded options",
+      "folder": "evolution/01_origin_1974/"
+    },
+    {
+      "stage": "02_amendment_1986_tra",
+      "description": "TRA 1986 \u2014 tightened to 5-year cliff + 3-7 year graded",
+      "folder": "evolution/02_amendment_1986_tra/"
+    },
+    {
+      "stage": "03_amendment_2001_egtrra",
+      "description": "EGTRRA 2001 \u2014 3-year cliff for matching contributions",
+      "folder": "evolution/03_amendment_2001_egtrra/"
+    },
+    {
+      "stage": "04_current",
+      "description": "Current text \u2014 post-SECURE Act",
+      "folder": "evolution/04_current/"
+    }
+  ],
+  "case_law": [],
+  "cases_to_add": [
+    "Central States Southeast & Southwest Areas Pension Fund v. Central Transport (1985) \u2014 multi-employer fund audit rights",
+    "Firestone Tire & Rubber Co. v. Bruch (1989) \u2014 standard of review for benefit determinations"
+  ],
+  "citizen_relevance": "Case #37 \u2014 UA Local 342 Pension Identity Replacement. Michael's 16+ years as a journeyman plumber mean full vesting under any ERISA schedule. Vested status is nonforfeitable \u2014 an unauthorized retirement election cannot undo vesting. The \u00a71053 analysis establishes what Michael is entitled to before arguing how the freeze occurred.",
+  "two_witness_status": {
+    "status": "PROPOSED",
+    "first_mouth": "Claude (assistant)",
+    "second_mouth": "PENDING \u2014 steward review required"
+  },
+  "updated": "2026-04-13"
+}

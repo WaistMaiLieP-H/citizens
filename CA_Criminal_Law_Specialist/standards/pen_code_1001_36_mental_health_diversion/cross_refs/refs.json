@@ -1,0 +1,60 @@
+{
+  "standard": "pen_code_1001_36_mental_health_diversion",
+  "cross_references": [
+    {
+      "cite": "Pen. Code § 1001.9",
+      "label": "Record restriction upon successful completion of § 1001.36 diversion",
+      "relationship": "incorporated_by_reference"
+    },
+    {
+      "cite": "Pen. Code § 1370",
+      "label": "Competency proceedings — § 1001.36 diversion now available as alternative to § 1370 commitment",
+      "relationship": "parallel_track"
+    },
+    {
+      "cite": "Pen. Code § 1170.18",
+      "label": "Proposition 47 'unreasonable risk of danger' definition — imported into § 1001.36 suitability analysis",
+      "relationship": "definition_imported"
+    },
+    {
+      "cite": "Pen. Code § 1000",
+      "label": "Drug diversion (deferred entry of judgment) — alternative track for substance-related offenses",
+      "relationship": "alternative_diversion"
+    },
+    {
+      "cite": "Pen. Code § 1001.95",
+      "label": "General misdemeanor diversion (enacted 2021) — broader alternative for misdemeanor charges",
+      "relationship": "alternative_diversion"
+    },
+    {
+      "cite": "Welf. & Inst. Code § 5008(h)(1)(B)",
+      "label": "Gravely disabled definition — court may initiate conservatorship if defendant gravely disabled during diversion",
+      "relationship": "conservatorship_trigger"
+    },
+    {
+      "cite": "Welf. & Inst. Code § 5350",
+      "label": "LPS conservatorship — endpoint if defendant is gravely disabled and cannot complete diversion",
+      "relationship": "conservatorship_track"
+    },
+    {
+      "cite": "Welf. & Inst. Code § 5751.2",
+      "label": "Qualified mental health expert definition (WIC) — incorporated into § 1001.36",
+      "relationship": "definition"
+    },
+    {
+      "cite": "In re Estrada (1965) 63 Cal.2d 740",
+      "label": "Retroactivity rule applied in People v. Frahs to make § 1001.36 applicable to non-final cases",
+      "relationship": "constitutional_foundation"
+    },
+    {
+      "cite": "People v. Frahs (2020) 9 Cal.5th 618",
+      "label": "Controlling authority on § 1001.36 retroactivity — remand for diversion hearing on non-final judgments",
+      "relationship": "controlling_case_law"
+    },
+    {
+      "cite": "DSM-5-TR (2022)",
+      "label": "Diagnostic and Statistical Manual — defines qualifying mental disorders under § 1001.36(b)(1)",
+      "relationship": "external_reference"
+    }
+  ]
+}

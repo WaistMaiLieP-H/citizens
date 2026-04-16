@@ -1,0 +1,20 @@
+{
+  "path_anchors": {"familylaw":"/home/vernenlegal/FamilyLaw","nonfamilylaw":"/home/vernenlegal/NonFamilyLaw","citizens":"/home/vernenlegal/citizens"},
+  "citizen": "CA_Records_Authentication_Specialist",
+  "tether_version": "0.1.0-initial",
+  "filed_at_utc": "2026-04-09T05:10:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "purpose": "The CA_Records_Authentication_Specialist carries the Evidence Code provisions governing authentication, official records, and document admissibility. This Citizen exists because the steward's case involves 11,000+ documents, document manipulation findings, unsigned reports, and questions about the authenticity and chain of custody of records used in family law, medical, and financial proceedings.",
+  "blueprints_inherited": {"blueprints":["Triple Constraint","Five-Layer Bar","Two-Witness Rule","Hash Chain + Anchor"]},
+  "standards": {"bound_directly": [
+    {"standard_id":"CAL_EVID_1400","popular_name":"Authentication required before admission","status":"PARTIAL"},
+    {"standard_id":"CAL_EVID_1401","popular_name":"Authentication — defined","status":"PARTIAL"},
+    {"standard_id":"CAL_EVID_1410","popular_name":"Means of authentication","status":"PARTIAL"},
+    {"standard_id":"CAL_EVID_1280","popular_name":"Official records exception to hearsay","status":"PARTIAL"}
+  ]},
+  "domain": {
+    "jurisdiction": "California",
+    "subject_matter": "Document authentication (Evidence Code §§1400-1421), official records (§1280), business records (§1271), computer records (§1552), chain of custody, document forensics",
+    "exclusions": ["Substantive legal claims — other Citizens","Federal evidence rules — separate domain"]
+  }
+}

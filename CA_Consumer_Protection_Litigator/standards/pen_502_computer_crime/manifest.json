@@ -1,0 +1,75 @@
+{
+  "standard_id": "PEN_502_COMPUTER_CRIME",
+  "citizen": "CA_Consumer_Protection_Litigator",
+  "version": "1.0.0",
+  "status": "PROPOSED",
+  "primary_citation": "Cal. Penal Code §502 (Stats. 1988, Ch. 1523; current version through Stats. 2021, Ch. 535)",
+  "short_title": "Cal. Penal Code §502 — Unauthorized Computer Access; California Parallel to CFAA",
+  "one_line_rule": "Knowingly accessing any California computer, computer system, or computer network 'without permission' for fraud, data theft, or simple unauthorized access violates §502; civil remedy provides compensatory damages and injunctive relief with no minimum loss threshold required.",
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current/LOGIC.md",
+    "reasoning": "PRESENT — current/LOGIC.md §§ WOUND (federal CFAA gap, $5,000 threshold) + DESIGN (§502 architecture, definitions, civil remedy) + no-loss-threshold advantage + SIM swap application",
+    "historical_loss": "PRESENT — historical_chain.md + evolution/ (3 stages)",
+    "cross_references": "PRESENT — cross_refs/refs.json (4 references: CFAA §1030, CIPA §630, SCA §2701, UCL §17200)",
+    "verifiable_provenance": "PRESENT — current/provenance.json + evolution provenances; verbatim text capture PENDING"
+  },
+  "evolution_chain": [
+    {
+      "stage": "01_origin_1979",
+      "label": "First California Computer Crime Law",
+      "source": "Stats. 1979, Ch. 858",
+      "logic_file": "evolution/01_origin_1979/LOGIC.md"
+    },
+    {
+      "stage": "02_amendment_1988_comprehensive",
+      "label": "1988 Comprehensive Rewrite — Modern §502 Architecture",
+      "source": "Stats. 1988, Ch. 1523",
+      "logic_file": "evolution/02_amendment_1988_comprehensive/LOGIC.md"
+    },
+    {
+      "stage": "03_amendment_1994_cdfa",
+      "label": "1994+ Incremental Amendments — Internet and Identity Theft Applications",
+      "source": "Stats. 1994, Ch. 1266 (primary); through Stats. 2021, Ch. 535",
+      "logic_file": "evolution/03_amendment_1994_cdfa/LOGIC.md"
+    }
+  ],
+  "case_law": [
+    {
+      "slug": "facebook_v_power_ventures",
+      "cite": "Facebook, Inc. v. Power Ventures, Inc., 844 F.3d 1058 (9th Cir. 2016)",
+      "court": "United States Court of Appeals for the Ninth Circuit",
+      "category": "foundational",
+      "key_rule": "After express revocation of permission, continuing access = 'without permission' under §502; §502 and CFAA analyzed in parallel; 'without permission' (§502) = 'without authorization' (CFAA). Binding 9th Circuit precedent.",
+      "verbatim_capture_status": "PENDING"
+    },
+    {
+      "slug": "whatsapp_v_nso_group",
+      "cite": "WhatsApp Inc. v. NSO Group Technologies Ltd., 17 F.4th 930 (9th Cir. 2021) (jurisdictional ruling)",
+      "court": "United States Court of Appeals for the Ninth Circuit",
+      "category": "interpretive",
+      "key_rule": "Parallel pleading of §502 + CFAA is standard in California federal court computer crime civil litigation; exploitation of infrastructure to access computer systems = without permission; California nexus for system location regardless of attacker location. Status note: substantive §502/CFAA claims not finally adjudicated as of Aug. 2025.",
+      "verbatim_capture_status": "PENDING"
+    }
+  ],
+  "sim_swap_application": {
+    "primary_claims": [
+      "§502(c)(1): McClaran used SIM swap to execute fraud scheme via unauthorized access to Michael's email, financial, SSA accounts — wrongfully controlling money and data",
+      "§502(c)(7): Each unauthorized login to Michael's accounts = separate §502(c)(7) violation — no fraud element or loss threshold required"
+    ],
+    "no_loss_threshold_advantage": "Unlike CFAA §1030(g), §502(e) has NO $5,000 aggregate loss threshold — any unauthorized computer access is actionable; state-law backstop for cases where CFAA threshold is arguable",
+    "california_nexus": "Michael's email/financial/SSA accounts are hosted on California-based servers (Google, financial institutions, SSA with California nexus); §502 applies regardless of where McClaran was located",
+    "at_and_t_exposure": "AT&T's California-based SIM porting systems were the mechanism of the attack; AT&T's negligent processing of the SIM swap port may constitute §502(c)(7) unauthorized access facilitation; primary AT&T theory is UCL + negligence, with §502 as an additional hook",
+    "stacking": "§502 + CFAA §1030 + SCA §2701 + CIPA §632.7 + Wiretap §2511 are all pled simultaneously; each covers different elements of the same attack chain",
+    "defendants": "Ryan McClaran (primary §502 defendant); co-conspirators who accessed accounts; UCL/§502 claims against AT&T for carrier facilitation"
+  },
+  "outstanding_work": [
+    "Verbatim text capture: Cal. Penal Code §§502(b)(1), 502(b)(3), 502(b)(5), 502(b)(8), 502(b)(12), 502(c)(1), 502(c)(2), 502(c)(7), 502(e)",
+    "Verbatim opinion capture: Facebook v. Power Ventures, 844 F.3d 1058",
+    "Verify WhatsApp v. NSO Group jurisdictional citation (17 F.4th 930) and current status of substantive claims",
+    "Research current status of any California criminal §502 prosecutions of SIM swap attackers for additional authority",
+    "Research hiQ Labs v. LinkedIn (9th Cir.) for its §502 analysis and whether it creates any limitation on the Power Ventures holding",
+    "Second-mouth witness review of §502 analysis applied to SIM swap facts"
+  ],
+  "build_date": "2026-04-11",
+  "built_by": "Terminal A"
+}

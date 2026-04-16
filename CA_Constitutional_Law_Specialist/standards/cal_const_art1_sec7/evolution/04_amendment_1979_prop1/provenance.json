@@ -1,0 +1,16 @@
+{
+  "standard_id": "CA_CONST_ART_I_SEC_7",
+  "evolution_stage": "04_amendment_1979_prop1",
+  "enacted_as": "Amendment to California Constitution Article I, Section 7(a) by Proposition 1 (November 6, 1979)",
+  "legislative_resolution": "Resolution Chapter 18, 1979 (1979-80 Regular Session)",
+  "approved_by_voters": "1979-11-06",
+  "effective": "1979-11-06",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?lawCode=CONS&division=&title=&part=&chapter=&article=I",
+  "source_description": "Current leginfo text IS the 1979-amended text. Section 7 has not been amended since 1979.",
+  "fetch_timestamp_utc": "2026-04-09T06:35:00Z",
+  "retrieval_steward": "Claude (assistant) under steward direction — Michael Hartmann",
+  "text_file": "text.txt",
+  "diff_file": "diff_from_prior.md",
+  "verification_note": "Text confirmed by leginfo annotation: 'Subdivision (a) amended Nov. 6, 1979, by Prop. 1. Res.Ch. 18, 1979. Other Source: Entire Sec. 7 was added Nov. 5, 1974, by Prop. 7; Res.Ch. 90, 1974.' Since Section 7 has not been amended since 1979, this evolution stage IS the current text.",
+  "primary_source_outstanding": "Proposition 1 (1979) ballot pamphlet would contain the full text as submitted to voters. Available from California State Archives."
+}

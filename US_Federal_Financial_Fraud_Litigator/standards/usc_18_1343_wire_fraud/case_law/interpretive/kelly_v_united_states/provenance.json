@@ -1,0 +1,15 @@
+{
+  "case_slug": "kelly_v_united_states",
+  "full_citation": "Kelly v. United States, 590 US 391 (2020)",
+  "court": "United States Supreme Court",
+  "decided": "2020-05-07",
+  "docket": "18-1059 (consolidated with 18-1086)",
+  "opinion_author": "Kagan, J.",
+  "vote": "9-0",
+  "popular_name": "Bridgegate case",
+  "holding_category": "interpretive — scheme must target property; regulatory-authority scheme not wire fraud",
+  "statutes_interpreted": ["18 USC §1341 (mail fraud)", "18 USC §1343 (wire fraud)"],
+  "source_url": "https://supreme.justia.com/cases/federal/us/590/18-1059/",
+  "verbatim_capture_status": "PENDING",
+  "build_date": "2026-04-11"
+}

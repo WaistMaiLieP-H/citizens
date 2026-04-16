@@ -1,0 +1,37 @@
+{
+  "standard_id": "CAL_CIV_1709_1710",
+  "version": "0.2.0-witnessed-by-herald",
+  "filed_at_utc": "2026-04-11T05:15:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "primary_citation": {
+    "code": "California Civil Code",
+    "sections": "§§ 1709, 1710",
+    "popular_name": "Tort of deceit",
+    "jurisdiction": "California (state)",
+    "location_in_code": "Civil Code, Division 3, Part 3, Title 2 (Deceit)",
+    "original_enactment": "1872 Civil Code; textually unchanged for 154 years"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — both sections captured verbatim via MCP",
+    "reasoning": "PRESENT — relationship to § 1572 contract fraud explained; four categories of deceit mapped against fact patterns",
+    "historical_loss": "PRESENT — shared with § 1572 origin; pre-1872 fragmented fraud doctrine documented",
+    "cross_references": "PRESENT — cross_refs/refs.json links to §§ 1572, 3343, 3294, 1102, CCP § 338(d)",
+    "verifiable_provenance": "PARTIAL — current text via MCP; 1872 original text pending PDF capture"
+  },
+  "case_law": [],
+  "cases_to_add": [
+    "Seeger v. Odell (1941) 18 Cal.2d 409 — modern suppression deceit",
+    "Lazar v. Superior Court (1996) 12 Cal.4th 631 — promissory fraud tort-independent-of-contract",
+    "Tenzer v. Superscope (1985) 39 Cal.3d 18 — circumstantial evidence of intent",
+    "Robinson Helicopter (2004) 34 Cal.4th 979 — economic loss rule exception",
+    "Linear Technology (2007) 152 Cal.App.4th 115 — deceit elements"
+  ],
+  "citizen_relevance": "Tort fraud cause of action independent of contract; every § 1572 claim in the Honeysuckle complaint should be paired with a § 1709-1710 claim for tort remedies including punitive damages.",
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

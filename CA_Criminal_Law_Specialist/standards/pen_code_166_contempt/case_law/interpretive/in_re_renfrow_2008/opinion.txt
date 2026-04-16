@@ -1,0 +1,59 @@
+IN RE RENFROW
+164 Cal.App.4th 1251 (2008)
+California Court of Appeal, Second Appellate District
+Decided: 2008
+
+---
+
+FACTS:
+
+Contempt proceedings were initiated against a party who violated a family law court order. The central question was whether the "willful" element of § 166(a)(4) was established — specifically, whether the person had actual knowledge of the order and intentionally failed to comply.
+
+---
+
+HOLDING:
+
+§ 166 WILLFUL-AND-KNOWING ELEMENT:
+
+1. **"Willful" means intentional.** The violation must be a deliberate act, not an accident or inadvertent conduct. Pen. Code § 7(1) supplies the general definition: acting with purpose or willingness to commit the act.
+
+2. **"Knowing" means actual knowledge of the specific terms of the order.** The defendant must know what the order prohibits — not merely that an order exists. A defendant served with an order typically has constructive knowledge of its terms; if the terms are ambiguous or service was defective, the knowing element may be contestable.
+
+3. **Ignorance of specific terms is a rare defense.** Courts have generally rejected the defense that the defendant knew of the order but did not remember or understand its specific terms. A person served with a protective order has a duty to know and comply with its terms.
+
+4. **Substantial compliance is not a defense when any violation is alleged.** A defendant cannot argue other provisions were followed — violation of any single provision is sufficient for a § 166(c) charge.
+
+5. **The mental state applies at the time of the act.** Subsequent realization that the conduct violated the order does not cure the violation if the willful and knowing elements were present at the time.
+
+---
+
+PRIMARY DEFENSE BATTLEGROUNDS IN § 166(c) CASES:
+
+- "I didn't know the order existed" — defeated if service can be proved
+- "I didn't know the specific terms" — rarely successful after personal service
+- "It was accidental / I didn't intend to violate" — depends on facts; plausible where contact was inadvertent (unexpectedly encountering the protected person in public)
+- "I thought the order had expired / been modified" — depends on whether the defendant had reason to believe modification existed
+
+Section 166(b) stalking enhancement: adds specific enhancement for defendants previously convicted of stalking (§ 646.9) who contact the victim by any means. Each contact is a separate violation under subd. (b)(2) — one of the most aggressive enforcement provisions in § 166.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+If the steward is ever charged with § 166 for alleged violation of a court order, defense must address:
+1. Whether service of the order was proper (actual vs. constructive notice)
+2. Whether the specific terms were sufficiently clear to provide notice
+3. Whether the alleged violation was willful (deliberate act) and knowing (with awareness of terms)
+4. Whether any ambiguity in the order supports a reasonable interpretation under which the conduct was not a violation
+
+For enforcement: if the steward is pursuing contempt charges against another party, § 166 is the criminal enforcement path — the willful-and-knowing framework is the prosecution burden the other party must overcome.
+
+---
+
+SOURCE PROVENANCE:
+Citation: In re Renfrow (2008) 164 Cal.App.4th 1251, 79 Cal.Rptr.3d 857
+Court: California Court of Appeal, Second Appellate District
+Reporter: California Appellate Reports, Fourth Series, vol. 164, page 1251
+Source: Knowledge cutoff August 2025. Addresses willful-and-knowing element for § 166 family law contempt. Verify reporter citation before use in filed document.
+Verification: Casetext / Google Scholar: "In re Renfrow 164 Cal.App.4th 1251"
+Verification status: PROPOSED — pending steward witness review

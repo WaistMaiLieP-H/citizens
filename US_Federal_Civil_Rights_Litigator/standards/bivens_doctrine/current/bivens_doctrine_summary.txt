@@ -1,0 +1,51 @@
+BIVENS DOCTRINE — CURRENT STATE SUMMARY
+========================================
+
+What it is:
+In 1971, the Supreme Court decided that if a federal officer violates your constitutional
+rights, you can sue that officer personally for money damages — even though no statute
+says you can. The Constitution itself implies the right to sue. This is the Bivens doctrine.
+
+Why it matters:
+Section 1983 lets you sue state and local officers who violate your rights, but it does
+not cover federal officers. Before Bivens, if a federal agent kicked down your door
+illegally, you had no federal civil rights remedy. Bivens filled that gap.
+
+The three recognized contexts:
+1. Bivens v. Six Unknown Named Agents, 403 U.S. 388 (1971) — Fourth Amendment
+   unreasonable search and seizure by federal narcotics agents.
+2. Davis v. Passman, 442 U.S. 228 (1979) — Fifth Amendment gender discrimination
+   by a member of Congress against a staff member.
+3. Carlson v. Green, 446 U.S. 14 (1980) — Eighth Amendment failure to provide
+   adequate medical care to a federal prisoner.
+
+What happened next:
+After those three cases, the Supreme Court never recognized Bivens in a new context
+again. For over 40 years, every attempt to extend it to new facts was rejected.
+
+The formal narrowing:
+- Ziglar v. Abbasi, 137 S. Ct. 1843 (2017): The Court created a two-step test.
+  First, ask whether the claim arises in a "new context" — meaning any factual
+  difference from the three recognized cases. Second, ask whether "special factors
+  counsel hesitation." The Court defined "new context" so broadly that virtually any
+  case that is not identical to the original three counts as new. And the "special
+  factors" bar is set so low that almost anything qualifies.
+
+- Egbert v. Boule, 596 U.S. 482 (2022): The Court confirmed and extended the
+  narrowing. It held that if Congress has provided any alternative remedial structure
+  — even one that does not fully compensate the plaintiff — that alone is enough
+  to block a Bivens claim. The Court also suggested that separation of powers
+  concerns almost always counsel against extending Bivens.
+
+Current state (as of 2022):
+The doctrine is functionally dead for new claims. The three original contexts survive —
+you can still bring a Bivens claim that fits squarely within the Fourth Amendment
+search/seizure, Fifth Amendment gender discrimination, or Eighth Amendment prison
+medical care patterns. But if your facts differ in any meaningful way from those
+three cases, you will almost certainly lose.
+
+What this means for practitioners:
+If your case involves federal officers, check first whether the facts fit within one
+of the three recognized Bivens contexts. If they do not, you need a statutory cause
+of action (such as the Federal Tort Claims Act) rather than a Bivens claim. Do not
+rely on Bivens for novel constitutional claims against federal officers.

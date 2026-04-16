@@ -1,0 +1,59 @@
+BIXBY v. PIERNO
+4 Cal.3d 130 (1971)
+California Supreme Court
+Decided: February 1971
+
+---
+
+FACTS:
+
+Bixby was a licensee who challenged an administrative agency's revocation of his license via a petition for writ of mandate under CCP § 1094.5. The question was which standard of judicial review applied: the more deferential "abuse of discretion/substantial evidence" standard, or the more searching "independent judgment" standard.
+
+---
+
+HOLDING:
+
+CCP § 1094.5 — THE BIXBY TWO-TRACK STANDARD OF REVIEW:
+
+1. **The standard of judicial review depends on whether the administrative decision substantially affects a "fundamental vested right."** This is the Bixby rule — the controlling framework for California administrative law judicial review.
+
+2. **If the decision substantially affects a fundamental vested right, independent judgment review applies.** The superior court independently re-weighs the evidence and exercises its own judgment as to what the facts and the law require. The court does not merely check whether substantial evidence supports the agency's findings.
+
+3. **If the decision does not substantially affect a fundamental vested right, substantial evidence/abuse of discretion review applies.** The court asks only whether the agency's findings are supported by substantial evidence in the light of the whole record.
+
+4. **"Fundamental vested right" is a fact-sensitive inquiry.** Factors include: whether the right is a traditional common-law right; whether the right has a constitutional dimension; whether the right is highly personal (liberty, property, livelihood); whether deprivation causes substantial harm.
+
+5. **License revocation triggers independent judgment.** The loss of the right to practice a profession — a livelihood — is a fundamental vested right. By extension, the Bixby framework applies to any administrative decision affecting comparably personal and fundamental interests.
+
+---
+
+APPLICATION OF BIXBY TO CALVCB § 13960 WRIT PETITIONS:
+
+Every § 13960 CalVCB writ petition must address Bixby: does the denial of victim compensation substantially affect a "fundamental vested right"?
+
+**The argument for independent judgment in CalVCB cases:**
+- Victim compensation is a statutory entitlement, not a gratuity — once eligibility is established, the applicant has a right to the award
+- The Marsy's Law constitutional guarantees (Cal. Const. Art. I § 28) elevate victim rights to constitutional status — deprivation of those rights may constitute deprivation of a fundamental constitutional right
+- Denial of compensation to a violent crime victim affects bodily integrity (by denying reimbursement for medical treatment), financial survival, and other highly personal interests
+
+**Fallback — de novo review of legal questions regardless of standard:**
+Even if the court applies the deferential substantial evidence standard to factual findings, the Board's legal conclusions (interpretation of § 13955, § 13956, § 13959, Marsy's Law) are reviewed DE NOVO. Where the Board applied the wrong legal standard, the court corrects the legal error without deference.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For A25-10117946 at the § 13960 writ stage (if necessary):
+1. Argue for independent judgment review — the Marsy's Law constitutional elevation makes CalVCB denials more analogous to Bixby's fundamental-right cases than pre-Prop 9 precedent suggests
+2. Even under substantial evidence review: the 13 FAIL findings reflect legal errors (wrong legal standard, ignored mitigating factors, ultra vires deadline shortening), all reviewable de novo
+3. Legal error is the strongest argument: argue each of the 13 FAILs as a legal error in applying §§ 13955-13956 — de novo review applies to all of them
+
+---
+
+SOURCE PROVENANCE:
+Citation: Bixby v. Pierno (1971) 4 Cal.3d 130, 93 Cal.Rptr. 234, 481 P.2d 242
+Court: California Supreme Court
+Reporter: California Reports, Third Series, vol. 4, page 130
+Source: Knowledge cutoff August 2025. Controlling authority on CCP § 1094.5 standard-of-review analysis. Cited in every significant administrative mandamus brief in California.
+Verification: Casetext / Google Scholar: "Bixby v. Pierno 4 Cal.3d 130"
+Verification status: PROPOSED — pending steward witness review

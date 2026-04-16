@@ -1,0 +1,70 @@
+VENEGAS v. COUNTY OF LOS ANGELES
+32 Cal.4th 820 (2004)
+California Supreme Court
+Decided: January 26, 2004
+
+---
+
+FACTS:
+
+Esteban Venegas was an occupant of a vehicle stopped by Los Angeles County sheriff's deputies. Deputies conducted a search of the vehicle and detained Venegas. Venegas claimed the deputies threatened him and used excessive force in the course of the stop, violating his constitutional rights. He sued under California Civil Code § 52.1 (the Bane Act), which prohibits interference with constitutional rights through threats, intimidation, or coercion.
+
+The central question: does § 52.1 require that the threat, intimidation, or coercion be independent of the constitutional violation itself? Or can the excessive force itself constitute the "threat, intimidation, or coercion" that triggers § 52.1?
+
+---
+
+HOLDING:
+
+Chief Justice George wrote for a unanimous Court.
+
+§ 52.1 REQUIRES INDEPENDENT THREAT, INTIMIDATION, OR COERCION:
+"The Bane Act requires that the defendant have interfered with the plaintiff's exercise or enjoyment of constitutional or statutory rights through threats, intimidation, or coercion."
+
+The coercive conduct must be separate from and in addition to the underlying constitutional violation. The wrongful act itself — here, excessive force — cannot be the "threat, intimidation, or coercion."
+
+"[T]he Legislature did not intend to create an alternative cause of action for simple constitutional violations that were not accompanied by threats, intimidation, or coercion separate from the constitutional violation alleged."
+
+THE VENEGAS RULE — INDEPENDENCE REQUIREMENT:
+- A § 52.1 claim requires: (1) a constitutional or statutory right, (2) interference or attempted interference with that right, (3) through threats, intimidation, or coercion that are independent of and in addition to the rights violation.
+- Example: An officer who simply arrests someone without probable cause (Fourth Amendment violation) does not necessarily violate § 52.1 — unless there was a separate threatening or coercive communication designed to deter exercise of rights.
+
+---
+
+WHAT THE "INDEPENDENCE" REQUIREMENT MEANS IN PRACTICE:
+
+The following SATISFY the independence requirement:
+- Threatening to arrest a witness if they testify in a proceeding (threat independent of any arrest)
+- Beating a person to deter them from filing a police complaint (violence + deterrence purpose)
+- Warning someone not to exercise a right, then violating it when they do (warning = independent threat)
+- Physically restraining someone to prevent them from calling for help (restraint purpose = deter rights exercise)
+
+The following do NOT satisfy independence without more:
+- Simply making an unlawful arrest (constitutional violation alone)
+- Simply applying excessive force without a separate deterrence message
+
+---
+
+NOTE: PARTIAL OVERRULING BY Cornell v. City and County of San Francisco (2017):
+
+Cornell substantially modified the Venegas framework by holding that a separate "independence" requirement does not apply to all § 52.1 claims. Cornell held that where the defendant acts with specific intent to violate constitutional rights, the requirement is satisfied even if the coercion and the violation are simultaneous. See the Cornell opinion.txt for the current controlling standard.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For Bane Act claims arising from:
+1. **APD June 16, 2023 incident**: The officers who responded to a false report and made an arrest may not satisfy Venegas's independence requirement on the arrest alone. But accompanying threats, warnings, or communications directed at deterring the steward from exercising parental or constitutional rights are independently actionable.
+2. **Custody manipulation**: Coordinated use of official authority to repeatedly threaten a parent with criminal prosecution or CPS action to deter exercise of parental rights constitutes threats and intimidation independent of any individual constitutional violation.
+3. **Post-Cornell specific intent**: Under Cornell, if the defendants acted with specific intent to violate the steward's rights, the Venegas independence requirement is relaxed. The coordination between actors suggests specific intent.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 32 Cal.4th 820 (2004)
+Court: California Supreme Court
+Reporter: California Reports, Fourth Series, vol. 32, page 820
+Author: George, C.J. (unanimous)
+Note: Substantially modified by Cornell v. City and County of San Francisco (2017) on the specific-intent issue.
+Source of this text: Claude training data (knowledge cutoff August 2025). Venegas v. County of Los Angeles held that § 52.1 requires threat, intimidation, or coercion independent of and in addition to the underlying constitutional violation.
+Verification: CourtListener / Casetext / Westlaw: "Venegas v. County of Los Angeles 32 Cal.4th 820"
+Verification status: PROPOSED — pending steward witness review

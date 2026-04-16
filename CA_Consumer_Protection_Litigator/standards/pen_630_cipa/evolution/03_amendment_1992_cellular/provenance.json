@@ -1,0 +1,11 @@
+{
+  "stage": "03_amendment_1992_cellular",
+  "label": "1992 Amendment — §632.7 Added; Confidentiality Requirement Eliminated for Cellular",
+  "source": "Stats. 1992, Ch. 298",
+  "effective_date": "1993-01-01",
+  "provisions_added": [
+    "Cal. Penal Code §632.7 — cellular/cordless communications interception without confidentiality requirement"
+  ],
+  "significance": "§632.7 is the primary CIPA provision for SIM swap and modern cellular interception claims; no confidentiality showing required",
+  "verbatim_capture_status": "PENDING"
+}

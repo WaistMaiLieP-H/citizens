@@ -1,0 +1,24 @@
+California Proposition 115 (June 1990 Primary) — Crime Victims Justice Reform Act
+Adding Cal. Penal Code §§ 1054–1054.7 (the California Criminal Discovery statute)
+
+§ 1054.1 (original text as enacted by Prop 115):
+
+"The prosecuting attorney shall disclose to the defendant or his or her attorney all of the following materials and information, if it is in the possession of the prosecuting attorney or if the prosecuting attorney knows it to be in the possession of the investigating agencies:
+
+(a) The names and addresses of persons the prosecutor intends to call as witnesses at trial.
+
+(b) Statements of all defendants.
+
+(c) All relevant real evidence seized or obtained as a part of the investigation of the offenses charged.
+
+(d) The existence of a felony conviction of any material witness whose conviction is known to the prosecutor.
+
+(e) Any exculpatory evidence.
+
+(f) Relevant written or recorded statements of witnesses or reports of the statements of witnesses whom the prosecutor intends to call at the trial, including any reports or statements of experts made in conjunction with the case, including the results of physical or mental examinations, scientific tests, experiments, or comparisons which the prosecutor intends to offer in evidence at the trial."
+
+Disclosure time: 30 days before trial OR 15 days before preliminary hearing (if prosecution intends to call the witness at the preliminary hearing).
+
+Note: § 1054.1 is the PROSECUTION'S disclosure obligation. § 1054.3 is the DEFENDANT'S reciprocal obligation. Both were enacted simultaneously by Prop 115.
+
+Source: California Proposition 115, approved June 5, 1990.

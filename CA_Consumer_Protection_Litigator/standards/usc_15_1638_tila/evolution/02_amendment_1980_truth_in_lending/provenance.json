@@ -1,0 +1,13 @@
+{
+  "stage": "02_amendment_1980_truth_in_lending",
+  "label": "Truth in Lending Simplification and Reform Act — 1980",
+  "source": "Truth in Lending Simplification and Reform Act, Pub. L. 96-221 (March 31, 1980)",
+  "effective_date": "1982-04-01 (effective date for most provisions)",
+  "key_changes": [
+    "APR tolerance established (1/8 of 1% for regular transactions)",
+    "Segregated disclosure requirement (APR and finance charge in prominent box)",
+    "Good-faith error defense for knowing violations distinction",
+    "Streamlined required disclosures"
+  ],
+  "verbatim_capture_status": "PENDING"
+}

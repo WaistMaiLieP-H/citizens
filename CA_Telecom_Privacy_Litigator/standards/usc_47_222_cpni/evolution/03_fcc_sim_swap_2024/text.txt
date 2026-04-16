@@ -1,0 +1,21 @@
+FCC Second Report and Order — SIM Swap and Port-Out Fraud
+WC Docket No. 21-441, FCC 23-100 (November 15, 2023; effective 2024)
+
+Key rule changes — explicitly addressing SIM swap authentication for the first time:
+
+**New § 64.2010(h) — SIM Swap Authentication:**
+Carriers must now use a secure authentication method before implementing a SIM change or port-out request. Acceptable authentication methods include:
+(1) Multi-factor authentication combining a password/PIN with a one-time passcode sent to a previously registered contact method (NOT the phone number being changed);
+(2) Government-issued photo ID verified at a carrier store;
+(3) Other NIST-compliant authentication methods approved by the FCC.
+
+**New § 64.2011(b) — Immediate Customer Notification:**
+Carriers must immediately notify customers (at a non-SMS contact method — email or pre-registered alternate number) whenever a SIM swap or port-out is requested, regardless of whether the request is approved. The notification must occur BEFORE the SIM swap is processed.
+
+**Prohibition on sole-factor authentication:**
+A carrier may not process a SIM swap based on last-4-SSN alone, customer name alone, or any single piece of knowledge that could be obtained through social engineering or public records.
+
+**Explicit CPNI violation:**
+The 2024 rules state explicitly: a SIM swap that transfers a customer's phone number to an unauthorized party without compliant authentication is a § 222(c) CPNI violation.
+
+Source: FCC 23-100, WC Docket No. 21-441 (2023), effective 2024. Codified at 47 C.F.R. §§ 64.2010(h), 64.2011(b).

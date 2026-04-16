@@ -1,0 +1,14 @@
+{
+  "layer": "historical_chain",
+  "node": "01_origin_2017",
+  "event": "California Values Act enacted — SB 54 — GOV §§7282-7284.10",
+  "date": "2017-10-05",
+  "operative_date": "2018-01-01",
+  "source": "Stats. 2017, ch. 495 (SB 54)",
+  "leginfo_url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180SB54",
+  "verified": true,
+  "key_cases_in_chain": [
+    "United States v. California, 921 F.3d 865 (9th Cir. 2019) — SB 54 not preempted",
+    "Printz v. United States, 521 U.S. 898 (1997) — anti-commandeering doctrine foundation"
+  ]
+}

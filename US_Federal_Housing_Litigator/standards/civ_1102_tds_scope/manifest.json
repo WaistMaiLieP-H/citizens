@@ -1,0 +1,75 @@
+{
+  "standard_id": "civ_1102_tds_scope",
+  "label": "Civ. Code \u00a7\u00a71102 / 1102.3 \u2014 Transfer Disclosure Statement Scope and Delivery",
+  "citizen": "US_Federal_Housing_Litigator",
+  "authority": "Cal. Civ. Code \u00a7\u00a71102, 1102.3; Stats. 1985, Ch. 1574",
+  "status": "PUBLISHED \u2014 ADAM + EVE DUAL WITNESS \u2014 2026-04-13",
+  "witness_date": "2026-04-13",
+  "five_layer_complete": true,
+  "layers": {
+    "current": {
+      "status": "VERIFIED \u2014 PUBLISHED",
+      "files": [
+        "current/statute_text.md",
+        "current/rule.md",
+        "current/reasoning.md",
+        "current/provenance.json"
+      ],
+      "source": "VernenLegal MCP live fetch 2026-04-13"
+    },
+    "evolution": {
+      "status": "PROPOSED",
+      "stages": [
+        "01_origin_1985",
+        "02_electronic_ueta",
+        "03_current"
+      ]
+    },
+    "case_law": {
+      "status": "PROPOSED",
+      "cases": [
+        "jue_v_smiser_1994 \u2014 TDS floor/ceiling; TDS compliance does not bar fraud claim"
+      ],
+      "steward_verify": [
+        "Jue v. Smiser (1994) 23 Cal.App.4th 312 \u2014 verify citation"
+      ]
+    },
+    "cross_refs": {
+      "status": "PROPOSED",
+      "files": [
+        "cross_refs/refs.json"
+      ],
+      "count": 4
+    },
+    "historical_chain": {
+      "status": "PROPOSED",
+      "files": [
+        "historical_chain/wound.md"
+      ]
+    }
+  },
+  "content_hash": "de815db0",
+  "hash_method": "find -type f | sort | xargs sha256sum | sha256sum | cut -c1-8",
+  "adam_eve_status": "PUBLISHED",
+  "witness_record": {
+    "adam": "APPROVED \u2014 2026-04-13",
+    "eve": "COUNTERSIGNED \u2014 2026-04-13",
+    "status": "PUBLISHED",
+    "corpus_entry": "CONFIRMED"
+  },
+  "steward_verify_queue": [
+    "Jue v. Smiser (1994) 23 Cal.App.4th 312 \u2014 verify citation at courts.ca.gov/Google Scholar",
+    "CIV \u00a71102.2 (exceptions) \u2014 probate/trust/new construction exceptions; verify if applicable to Honeysuckle facts",
+    "CIV \u00a71102.13 (rescission remedy) \u2014 3-year window; fetch and add to corpus",
+    "19 Honeysuckle documents \u2014 identify which specific document is the TDS or \u00a71102.6 form"
+  ],
+  "notes": [
+    "\u00a71102(c) waiver-void provision is absolute \u2014 any clause waiving TDS requirements is unenforceable regardless of buyer's signature",
+    "19 unsigned documents in Honeysuckle = evidence of \u00a71102 violation AND potential \u00a712955(i)(1) discriminatory transaction terms",
+    "Conservatorship control during TDS delivery window = cancellation right was hollow; statutory protection denied",
+    "UETA electronic delivery requires parties' agreement \u2014 unsigned electronic documents may not qualify as proper delivery"
+  ],
+  "built_by": "Claude (assistant) under steward direction \u2014 Michael Hartmann",
+  "built_at_utc": "2026-04-13T00:00:00Z",
+  "updated": "2026-04-13"
+}

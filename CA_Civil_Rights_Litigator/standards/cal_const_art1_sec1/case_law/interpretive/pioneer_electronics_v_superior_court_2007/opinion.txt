@@ -1,0 +1,73 @@
+PIONEER ELECTRONICS (USA), INC. v. SUPERIOR COURT (OLMSTEAD)
+40 Cal.4th 360 (2007)
+California Supreme Court
+Decided: February 1, 2007
+
+---
+
+FACTS:
+
+A class action was filed against Pioneer Electronics for a defective DVD/CD player product line. The plaintiffs sought discovery of Pioneer's customer complaint database, which contained names, contact information, and detailed complaint descriptions from thousands of customers who had contacted Pioneer about the product defect. Pioneer resisted production on the grounds that disclosing the customers' contact information and complaint details violated their privacy rights under California's constitutional privacy provision.
+
+The question: when third-party consumers have voluntarily complained to a company about a product defect, what privacy interest do they have in their complaint records being disclosed in third-party litigation?
+
+---
+
+HOLDING:
+
+Chief Justice George wrote for the Court.
+
+THE HILL FRAMEWORK APPLIED TO CONSUMER COMPLAINT RECORDS:
+
+ELEMENT 1 — LEGALLY PROTECTED PRIVACY INTEREST:
+Consumers have a legally protected privacy interest in their:
+- Personal contact information (home address, phone number, email)
+- The content of their complaints (which may disclose personal circumstances, health information, or financial situations)
+
+ELEMENT 2 — REASONABLE EXPECTATION:
+Persons who voluntarily provided their contact information to a company to resolve a complaint had a reasonable expectation that the information would be used for that purpose — not disclosed in third-party class action litigation without notice.
+
+"A consumer who contacts a company with a complaint has a reasonable expectation that their personal information will not be involuntarily disclosed to plaintiffs' attorneys in a lawsuit."
+
+ELEMENT 3 — SERIOUS VIOLATION:
+Disclosing thousands of consumers' home addresses, phone numbers, and detailed complaints to litigation counsel is a meaningful privacy invasion.
+
+BALANCING — CLASS ACTION DISCOVERY:
+The plaintiffs' interest in identifying class members and the court's interest in fair resolution of the litigation are legitimate. But the privacy interests must be balanced:
+
+The Court held: Before disclosing third-party consumer information in class action litigation, the defendant must notify the customers of the proposed disclosure and give them an opportunity to object. This "conditional notice" procedure balances the litigants' discovery rights against the third-party consumers' privacy rights.
+
+---
+
+THE PIONEER PRIVACY BALANCING PRINCIPLE FOR FINANCIAL RECORDS:
+Pioneer is regularly cited for the principle that:
+- Financial records, account information, and personal complaint information submitted to financial institutions or companies
+- Are subject to California constitutional privacy protection
+- Cannot be disclosed in litigation without either consent or a balancing process that gives the subject notice and an opportunity to object
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Pioneer Electronics is essential for the financial fraud and privacy claims:
+
+1. **Treasury Securities / financial records**: Pioneer confirms that financial account records and correspondence with financial institutions are subject to Art. I, § 1 protection. Any unauthorized disclosure of the steward's Treasury account information — including to persons claiming to be him or to investigate on his behalf — constitutes a privacy violation.
+
+2. **Discovery in litigation**: When the steward seeks production of records held by third parties (AT&T phone records, bank records, Treasury records), the Pioneer framework cuts both ways:
+   - The steward can seek disclosure of his own records (he has standing to waive his own privacy rights)
+   - Third parties holding his records cannot invoke Pioneer to block his own access to his own information
+
+3. **Protection against unauthorized disclosure**: Records obtained by unauthorized persons (through identity theft, SIM swap, social engineering) are protected by Pioneer's framework. The unauthorized acquisition of financial records by identity thieves violates Art. I, § 1 as well as federal privacy statutes.
+
+4. **Class of harm**: For cases involving systematic disclosure of financial records, Pioneer's per-disclosure analysis means each unauthorized disclosure is a separate violation with separate compensable harm.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 40 Cal.4th 360 (2007)
+Court: California Supreme Court
+Reporter: California Reports, Fourth Series, vol. 40, page 360
+Author: George, C.J.
+Source of this text: Claude training data (knowledge cutoff August 2025). Pioneer Electronics v. Superior Court applied the Hill framework to consumer financial and complaint records, holding that conditional notice procedures are required before third-party disclosure of personally identifiable information in class litigation.
+Verification: Casetext / Google Scholar: "Pioneer Electronics (USA) Inc. v. Superior Court 40 Cal.4th 360"
+Verification status: PROPOSED — pending steward witness review

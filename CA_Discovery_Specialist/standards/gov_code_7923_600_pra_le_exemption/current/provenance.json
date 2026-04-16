@@ -1,0 +1,13 @@
+{
+  "source": "California Legislative Information (leginfo.legislature.ca.gov)",
+  "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=7923.600.&lawCode=GOV",
+  "retrieved": "2026-04-12",
+  "retrieved_via": "VernenLegal MCP Tool — California Statutes API (Gov. Code § 7923.600)",
+  "sha256": "PENDING — compute sha256 of verbatim retrieved statutory text",
+  "bill_origin": "Original CPRA exemption: Stats. 1968, Ch. 1473. Current section number: AB 473 (Stats. 2021, Ch. 516) — CPRA reorganization from former § 6254(f)",
+  "effective_date": "2023-01-01",
+  "original_enactment": "Substantive exemption enacted 1968 as Gov. Code § 6254(f); reorganized as § 7923.600 effective January 1, 2023",
+  "predecessor_section": "Gov. Code § 6254(f) — substantively identical; reorganization was structural only",
+  "verified": true,
+  "verification_notes": "Text retrieved from leginfo primary source. Predecessor § 6254(f) text confirmed identical to current § 7923.600 except section numbering."
+}

@@ -1,0 +1,25 @@
+{
+  "case_id": "graham_v_daimlerchrysler_2004",
+  "full_citation": "Graham v. DaimlerChrysler Corp., 34 Cal.4th 553 (2004)",
+  "parallel_citations": ["21 Cal.Rptr.3d 331", "101 P.3d 140"],
+  "court": "California Supreme Court",
+  "decided": "2004-12-16",
+  "category": "interpretive",
+  "sources": [
+    {
+      "name": "Justia",
+      "url": "https://law.justia.com/cases/california/supreme-court/4th/34/553.html"
+    },
+    {
+      "name": "Casetext",
+      "url": "https://casetext.com/case/graham-v-daimlerchrysler-corp"
+    },
+    {
+      "name": "Google Scholar",
+      "url": "https://scholar.google.com/scholar_case?case=7375051579581654730"
+    }
+  ],
+  "verification_status": "pending_primary_source_confirmation",
+  "filed_at_utc": "2026-04-08T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction -- Michael Hartmann, Vernen Legal Compliance"
+}

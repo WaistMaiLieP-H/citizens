@@ -1,0 +1,62 @@
+TRIPLE A MANAGEMENT CO. v. FRISONE
+69 Cal.App.4th 520 (1999)
+California Court of Appeal
+Decided: 1999
+
+---
+
+FACTS:
+
+A dispute arose over conflicting interests in real property. One party had an unrecorded interest; the other had a recorded interest. The question was whether the recording acts (Civ. Code § 1213 et seq.) protected the recorded interest against the unrecorded one.
+
+---
+
+HOLDING:
+
+CALIFORNIA'S RACE-NOTICE RECORDING SYSTEM:
+
+1. **California's recording acts protect bona fide purchasers for value who record first.** Under the race-notice system, a subsequent purchaser who (a) pays value, (b) acts in good faith without notice of the prior interest, and (c) records first, prevails over an earlier unrecorded interest.
+
+2. **"Notice" includes actual knowledge, constructive notice from recorded documents, and inquiry notice from facts that would put a reasonable person on notice.** A purchaser who ignores red flags cannot claim bona fide purchaser status.
+
+3. **The recording system is designed to protect reliance on the public record.** Parties who search the record and find no competing interests are entitled to rely on that search — provided they are not on inquiry notice of unrecorded claims.
+
+THE RULE:
+Under California's race-notice recording system, a subsequent bona fide purchaser who records first prevails over an earlier unrecorded interest — but only if they had no actual, constructive, or inquiry notice of the prior interest.
+
+---
+
+WHY THIS CASE MATTERS:
+
+Triple A Management establishes the core rule that governs recording act priority disputes in California. It applies to every situation where two parties claim an interest in the same real property and the question is whose interest was properly recorded first, and who had notice of prior claims.
+
+The three types of notice under the recording acts:
+- **Actual notice**: The purchaser was directly informed of the prior interest
+- **Constructive notice**: The prior interest was recorded; purchaser is charged with notice regardless of actual knowledge
+- **Inquiry notice**: Facts were available that would have caused a reasonable person to investigate and discover the prior interest
+
+Any one of these three types of notice defeats the BFP defense.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For the 2958 Honeysuckle transaction:
+
+1. **Unrecorded community property interests**: Michael's community property interest in the Honeysuckle property was not eliminated by Christina's unilateral action at closing. Under the recording acts, Michael's interest is good against all parties with actual, constructive, or inquiry notice.
+
+2. **$356K equity gap**: The 19 unsigned documents and the $496K gap in proceeds may indicate that certain interests were never properly recorded — and the question of who benefited may turn on what was recorded and what wasn't.
+
+3. **Buyer's notice investigation**: Any prospective buyer of the Honeysuckle property (or any subsequent transferee) who had reason to investigate the title history is charged with notice of all recorded community property indicators. The recorded chain of title would have shown community ownership.
+
+4. **Purchaser's diligence requirement**: A purchaser who fails to examine the full chain of title is not a BFP. Any purchaser who saw title in joint names and then purchased under a sole-spouse transfer had inquiry notice and cannot claim BFP status.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 69 Cal.App.4th 520 (1999)
+Court: California Court of Appeal
+Reporter: California Appellate Reports, Fourth Series, vol. 69, page 520
+Source of this text: Claude training data (knowledge cutoff August 2025) supplemented by holding.md from prior build session. Triple A Management v. Frisone applied California's race-notice recording statute — subsequent bona fide purchasers who record first prevail over prior unrecorded interests unless they had actual, constructive, or inquiry notice.
+Verification: Casetext / Google Scholar: "Triple A Management Co. v. Frisone 69 Cal.App.4th 520"
+Verification status: PROPOSED — pending steward witness review

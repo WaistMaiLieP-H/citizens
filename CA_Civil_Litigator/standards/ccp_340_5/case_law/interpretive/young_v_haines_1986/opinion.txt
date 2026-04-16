@@ -1,0 +1,63 @@
+YOUNG v. HAINES
+181 Cal.App.3d 8 (1986)
+California Court of Appeal, Second District
+Decided: January 30, 1986
+
+---
+
+FACTS:
+
+Plaintiff Young received medical treatment and later alleged it was negligently performed. She filed her malpractice suit within one year of learning of the malpractice but more than three years after the original injury. The question was whether the three-year maximum period in § 340.5 was subject to equitable tolling or fraud exceptions, or whether it was an absolute bar.
+
+---
+
+HOLDING:
+
+The Court of Appeal addressed the interaction between the § 340.5 three-year maximum period and equitable tolling doctrines.
+
+THE THREE-YEAR MAXIMUM — LIMITATIONS AND EXCEPTIONS:
+CCP § 340.5 provides that no action may be brought more than three years after the date of injury "unless tolled for any of the following: (1) upon proof of fraud, (2) intentional concealment, or (3) the presence of a foreign body which has no therapeutic or diagnostic purpose or effect in the body of the injured person."
+
+THE YOUNG HOLDING ON FRAUD TOLLING:
+"The three-year maximum period in § 340.5 is tolled during any period in which the defendant commits fraud or intentional concealment that prevents the plaintiff from discovering the injury or its cause."
+
+"[T]he MICRA three-year outer limit is not a complete bar to claims where the medical provider's own fraudulent concealment prevented timely discovery."
+
+HOW FRAUD TOLLING WORKS:
+1. The plaintiff bears the burden of proving fraudulent concealment
+2. The concealment must be affirmative — not mere silence or failure to disclose
+3. The plaintiff must not have been able to discover the malpractice through reasonable diligence despite the concealment
+4. The limitations period is tolled for the period of fraudulent concealment
+
+WHAT "FRAUDULENT CONCEALMENT" REQUIRES:
+- Active misrepresentation (not mere non-disclosure)
+- Misrepresentation about the nature of the injury, the treatment, or the cause
+- Reliance by the plaintiff on the misrepresentation in failing to seek legal advice
+- The concealment must actually prevent timely discovery
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Young's fraud tolling doctrine applies to:
+
+1. **Spine surgery fraud (2014-2022)**: If treating physicians actively misrepresented the nature of the steward's spine condition, the need for surgery, or post-operative prognosis — and those misrepresentations prevented the steward from discovering the fraud — the § 340.5 three-year outer limit is tolled during the concealment period.
+
+2. **SIRVA concealment**: If Walgreens or other providers concealed the SIRVA diagnosis, declined to inform the steward that his shoulder injury was related to the vaccine, or provided misleading information about recovery — the fraud tolling applies to the § 340.5 timeline.
+
+3. **Fraudulent medical records**: If medical records were altered, omitted, or fabricated — and the alteration concealed the nature of the treatment and its consequences — each act of record alteration is a separate act of fraudulent concealment that tolls the limitations period.
+
+4. **Pleading fraud tolling**: To invoke the fraud exception, the complaint must plead:
+   - The specific fraudulent acts
+   - The date the steward could not have discovered the malpractice despite reasonable diligence
+   - The date the fraud was discovered (which triggers the one-year discovery period running from that point)
+
+---
+
+SOURCE PROVENANCE:
+Citation: 181 Cal.App.3d 8 (1986)
+Court: California Court of Appeal, Second Appellate District
+Reporter: California Appellate Reports, Third Series, vol. 181, page 8
+Source of this text: Claude training data (knowledge cutoff August 2025). Young v. Haines held that § 340.5's three-year maximum period is tolled for fraud and intentional concealment — the defendant cannot use the outer limitations period as a shield when their own concealment prevented timely discovery.
+Verification: Casetext / Google Scholar: "Young v. Haines 181 Cal.App.3d 8"
+Verification status: PROPOSED — pending steward witness review

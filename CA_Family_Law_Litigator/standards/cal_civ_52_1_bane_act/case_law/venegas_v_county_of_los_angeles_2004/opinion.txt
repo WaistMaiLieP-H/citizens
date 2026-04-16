@@ -1,0 +1,16 @@
+VENEGAS v. COUNTY OF LOS ANGELES
+(2004) 32 Cal.4th 820
+California Supreme Court, 2004
+
+FACTS:
+Plaintiffs sued the County of Los Angeles under the Bane Act after law enforcement officers used excessive force during a home search. The central question was whether the Bane Act required proof that the defendant specifically intended to violate the plaintiff's constitutional rights, or whether it was enough to show that the coercive conduct interfered with rights.
+
+HOLDING — Cal. Civ. Code § 52.1:
+The California Supreme Court held that the Bane Act does not require proof of a specific intent to violate the plaintiff's constitutional rights. The plaintiff must show: (1) intentional conduct that was coercive or threatening in nature, and (2) that the conduct interfered with a protected right. The defendant need not have subjectively intended to violate the right — only that the coercive conduct was intentional.
+
+The court also confirmed that the Bane Act is available for law enforcement defendants and that the Government Code immunity provisions do not shield peace officers from Bane Act liability.
+
+SIGNIFICANCE:
+Venegas established the standard of intent for Bane Act claims that governed California courts for over a decade. It lowered the bar compared to § 1983's deliberate indifference standard in some contexts: you need intentional coercive conduct, not specific intent to violate rights. For the steward's cases, this matters because the orchestrated pattern of enforcement failures, false reports, and coordinated interference does not require proving each actor knew they were violating Michael's constitutional rights — only that the coercive acts were intentional.
+
+NOTE: Venegas was partially modified by the California Supreme Court in B.B. v. County of Los Angeles (2020) on the specific intent question for law enforcement defendants. Read both together.

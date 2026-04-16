@@ -1,0 +1,12 @@
+Phillips v. Campbell
+2 Cal.App.5th 844 (2016)
+California Court of Appeal, Sixth Appellate District, 2016
+
+FACTS:
+Domestic violence restraining order proceeding. The petitioner alleged multiple forms of "abuse" under § 6203 that did not involve physical violence: monitoring her movements, controlling her finances, isolating her from family and friends, and making threatening statements. The trial court narrowly construed § 6203 and denied the DVRO, reasoning that no physical contact had occurred.
+
+HOLDING — Family Code § 6203:
+The Court of Appeal reversed, holding that § 6203's definition of "abuse" expressly includes non-physical conduct. Subdivision (a)(4) — "disturbing the peace of the other party" — was specifically enacted to reach exactly the pattern at issue: monitoring, control, isolation, financial domination, and threats that fall short of criminal assault. The Legislature's express listing of multiple forms of abuse in § 6203(a) reflects an intent to protect victims from the full spectrum of abusive conduct, not only the most visible physical manifestations.
+
+SIGNIFICANCE:
+Establishes that § 6203(a)(4) reaches the coercive control pattern: financial control, isolation, monitoring, and threats. Courts cannot require physical violence as a predicate for DVRO relief. For any case involving systematic isolation from employment, medical care, disability benefits, or professional activities — the coercive control pattern falls within § 6203(a)(4) "disturbing the peace" abuse.

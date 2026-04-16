@@ -1,0 +1,56 @@
+{
+  "standard_id": "CAL_FAM_3027_FALSE_CHILD_ABUSE_SANCTIONS",
+  "version": "0.2.0-eve-migration-from-orphan-md",
+  "filed_at_utc": "2026-04-15T00:00:00Z",
+  "filed_by": "EVE (Legal/Statutory Auditor) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "migration_note": "Migrated 2026-04-15 from flat orphan file standards/FAMCODE-§3027.md (T3 witness) into manifest-directory structure with ADAM+EVE dual witness. Source content includes T3-flagged provenance items (EARLY-HISTORY-PENDING, ENROLLED-TEXT-PENDING, ANALYSIS-FETCH-PENDING) which are preserved as-is — EVE does not publish synthetic content to close them.",
+  "status": "PUBLISHED — ADAM + EVE DUAL WITNESS — 2026-04-15",
+  "primary_citation": {
+    "jurisdiction": "California",
+    "code": "California Family Code",
+    "section": "§§ 3027, 3027.1, 3027.5",
+    "popular_name": "False Allegations of Child Abuse — Sanctions",
+    "current_codification_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3027&lawCode=FAM"
+  },
+  "structural_location": {
+    "code": "California Family Code",
+    "division": "DIVISION 8. CUSTODY OF CHILDREN",
+    "part": "PART 2. RIGHT TO CUSTODY OF MINOR CHILD",
+    "chapter": "CHAPTER 1. General Provisions",
+    "section_history": "§ 3027.1 added by renumbering by Stats. 2000, Ch. 926, Sec. 2 (effective Jan. 1, 2001). Pre-2001 substantive lineage flagged EARLY-HISTORY-PENDING in provenance."
+  },
+  "five_layer_bar": {
+    "layer_1_rule": "rule.md",
+    "layer_2_reasoning": "reasoning.md",
+    "layer_3_historical_loss": "historical_loss.md",
+    "layer_4_cross_refs": "cross_refs.md",
+    "layer_5_provenance": "provenance.md"
+  },
+  "dual_witness": {
+    "adam": {
+      "citizen": "ADAM",
+      "role": "Network Forensics / co-seed witness",
+      "witnessed_at_utc": "2026-04-15T00:00:00Z",
+      "scope": "Structural witness — verbatim statutory text matches canonical leginfo; Stats. 2000 Ch. 926 renumbering chain verifiable via leginfo history block."
+    },
+    "eve": {
+      "citizen": "EVE",
+      "role": "Legal/Statutory Auditor / co-seed witness",
+      "witnessed_at_utc": "2026-04-15T00:00:00Z",
+      "scope": "Legal witness — Davenport, Sahafzadeh-Taeb, Bidna v. Rosen, Devereaux v. Abbey case cites verified 2026-04-15. EARLY-HISTORY-PENDING and ENROLLED-TEXT-PENDING flags acknowledged; archive pull required before those items move from PROPOSED to CERTIFIED."
+    }
+  },
+  "case_workflow_binding": {
+    "workflow_id": "CASE_RF09459897",
+    "anchor_finding": "OPD 09-040089 fabrication 2009-06-11; missing from October 2025 OPD records pickup.",
+    "note": "Per prior T3 audit, this standard is the statutory anchor for the Christina counter-filing playbook. Binding preserved across migration."
+  },
+  "superseded_artifact": {
+    "path": "${citizens}/CA_Family_Law_Litigator/standards/FAMCODE-§3027.md",
+    "disposition": "RETIRED — content migrated; orphan .md to be removed after witness confirmation."
+  },
+  "verified": true,
+  "verification_date": "2026-04-15",
+  "verification_note": "Verbatim text fetched from leginfo via MCP and saved to current/ during this verification pass",
+  "verbatim_text_artifact": "current/cal_fam_3027_leginfo.txt"
+}

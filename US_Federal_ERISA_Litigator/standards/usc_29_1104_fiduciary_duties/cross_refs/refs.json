@@ -1,0 +1,59 @@
+{
+  "standard": "usc_29_1104_fiduciary_duties",
+  "cross_references": [
+    {
+      "cite": "29 U.S.C. § 1109",
+      "label": "ERISA Fiduciary Breach — Personal Liability",
+      "relationship": "consequence",
+      "note": "§ 1104 defines the duties; §1109 creates personal liability when those duties are breached. Any fiduciary who breaches §1104 is personally liable to restore plan losses and disgorge profits."
+    },
+    {
+      "cite": "29 U.S.C. § 1105",
+      "label": "Co-Fiduciary Liability",
+      "relationship": "extended_liability",
+      "note": "A fiduciary who knowingly participates in another fiduciary's §1104 breach, conceals it, or fails to remedy a known breach is co-liable. Applies to joint board trustees who knew of the identity replacement scheme."
+    },
+    {
+      "cite": "29 U.S.C. § 1132(a)(2)",
+      "label": "ERISA Civil Enforcement — Plan Recovery",
+      "relationship": "enforcement_vehicle",
+      "note": "§ 1132(a)(2) is the statutory vehicle for §1109 recovery. Participants and beneficiaries may bring §1132(a)(2) suits to recover plan losses caused by fiduciary breach."
+    },
+    {
+      "cite": "29 U.S.C. § 1132(a)(3)",
+      "label": "ERISA Civil Enforcement — Equitable Relief",
+      "relationship": "supplemental_remedy",
+      "note": "§ 1132(a)(3) provides equitable relief (injunction, restitution, surcharge) for individual harm where §1132(a)(1)(B) benefit recovery is inadequate. Used in cases of fraudulent benefit manipulation."
+    },
+    {
+      "cite": "29 U.S.C. § 1053",
+      "label": "ERISA Minimum Vesting — Nonforfeitable Rights",
+      "relationship": "rights_predicate",
+      "note": "§ 1053 establishes that vested benefits are nonforfeitable. A §1104 fiduciary breach that purports to terminate or freeze a vested participant's benefits violates both §1104 and §1053 simultaneously."
+    },
+    {
+      "cite": "29 U.S.C. § 1113",
+      "label": "ERISA Statute of Limitations",
+      "relationship": "time_constraint",
+      "note": "§1104 claims: 3 years from earliest date of actual knowledge, 6 years from date of last act of breach. Fraud or concealment tolls the 3-year period. Identity replacement constitutes concealment."
+    },
+    {
+      "cite": "29 U.S.C. § 1106",
+      "label": "Prohibited Transactions",
+      "relationship": "per_se_breach",
+      "note": "§1106 prohibits fiduciaries from dealing with plan assets in their own interest. A trustee who participated in or benefited from the identity replacement scheme is also subject to §1106 per se breach."
+    },
+    {
+      "cite": "DOL Cybersecurity Guidance (April 2021)",
+      "label": "DOL Prudent Expert Baseline — Identity Verification",
+      "relationship": "standard_of_care_definition",
+      "note": "DOL guidance defines what the §1104(a)(1)(B) prudent expert standard requires for participant identity verification before processing account changes. Plan administrators post-April 2021 who processed unauthorized retirement elections without identity verification fall below the stated prudent expert floor."
+    },
+    {
+      "cite": "29 U.S.C. § 1002(21)",
+      "label": "ERISA Fiduciary Definition",
+      "relationship": "definitional_predicate",
+      "note": "§1002(21)(A) defines fiduciary by function: any person who exercises discretionary authority or control over plan management or plan assets is a fiduciary. The Trust administrator who processed the retirement election is a §1002(21) fiduciary."
+    }
+  ]
+}

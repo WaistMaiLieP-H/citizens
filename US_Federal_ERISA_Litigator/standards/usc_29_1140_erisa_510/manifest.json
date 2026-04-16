@@ -1,0 +1,24 @@
+{
+  "citizen": "US_Federal_ERISA_Litigator",
+  "standard_id": "usc_29_1140_erisa_510",
+  "citation": "29 U.S.C. \u00a71140",
+  "popular_name": "ERISA \u00a7510 \u2014 Interference with Protected Rights",
+  "jurisdiction": "Federal",
+  "enacted": "1974",
+  "public_law": "Pub. L. 93-406",
+  "build_state": "PUBLISHED",
+  "five_layer_complete": false,
+  "layers": {
+    "current": true,
+    "historical_chain": true,
+    "case_law": true,
+    "cross_refs": true
+  },
+  "verified": false,
+  "note": "Superseded by usc_29_1140_interference (PUBLISHED \u2014 ADAM + EVE DUAL WITNESS \u2014 2026-04-13). Legacy stub retained for reference.",
+  "build_date": "2026-04-12",
+  "steward": "Michael Hartmann",
+  "status": "SUPERSEDED",
+  "superseded_by": "usc_29_1140_interference",
+  "superseded_date": "2026-04-13"
+}

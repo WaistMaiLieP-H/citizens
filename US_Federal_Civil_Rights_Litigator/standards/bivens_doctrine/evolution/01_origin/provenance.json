@@ -1,0 +1,15 @@
+{
+  "case": "Bivens v. Six Unknown Named Agents",
+  "citation": "403 U.S. 388 (1971)",
+  "decided": "1971-06-21",
+  "author": "Justice Brennan",
+  "vote": "6-3",
+  "dissents": ["Chief Justice Burger", "Justice Blackmun", "Justice Black"],
+  "constitutional_basis": "Fourth Amendment — unreasonable search and seizure",
+  "holding": "The Fourth Amendment implies a federal cause of action for damages against federal officers who violate it, even absent a statute authorizing the suit.",
+  "source_urls": [
+    "https://supreme.justia.com/cases/federal/us/403/388/",
+    "https://www.law.cornell.edu/supremecourt/text/403/388"
+  ],
+  "last_verified": "2026-04-08"
+}

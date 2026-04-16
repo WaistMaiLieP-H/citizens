@@ -1,0 +1,30 @@
+{
+  "cross_references": [
+    {
+      "target": "Cal. Pen. Code § 236",
+      "relationship": "Invalid citizen's arrest constitutes false imprisonment under § 236",
+      "direction": "consequence",
+      "internal_path": "pen_code_236_false_imprisonment"
+    },
+    {
+      "target": "Cal. Pen. Code § 836(d)",
+      "relationship": "Peace officer receiving a citizen's arrest may release the person if grounds are insufficient",
+      "direction": "procedural_pipeline"
+    },
+    {
+      "target": "Cal. Pen. Code § 847",
+      "relationship": "Person making citizen's arrest must deliver arrestee to magistrate or peace officer without unnecessary delay",
+      "direction": "procedural_pipeline"
+    },
+    {
+      "target": "Cal. Pen. Code § 243(e)(1)",
+      "relationship": "DV battery is a common basis for citizen's arrest under Ground 1 — but the battery must have actually occurred in the arrestor's presence",
+      "internal_path": "pen_code_243e1_dv_battery"
+    },
+    {
+      "target": "Cal. Pen. Code § 148.5",
+      "relationship": "If a citizen's arrest is based on a knowingly false claim of criminal conduct, the false claim may independently violate § 148.5",
+      "internal_path": "pen_code_148_5_false_police_report"
+    }
+  ]
+}

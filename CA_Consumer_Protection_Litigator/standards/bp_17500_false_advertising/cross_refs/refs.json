@@ -1,0 +1,31 @@
+{
+  "standard_id": "BP_17500_FALSE_ADVERTISING",
+  "cross_references": [
+    {
+      "id": "BP_17200_UCL",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/bp_17200_ucl/",
+      "relationship": "COORDINATED REGIME — §17500 violation is per se unlawful under §17200's 'unlawful' prong; §17200's 'fraudulent' prong independently covers misleading conduct without needing §17500's knowledge element. Always plead both. UCL remedies (injunction + restitution) stack with §17535 remedies.",
+      "direction": "lattice"
+    },
+    {
+      "id": "CIV_1709_DECEIT",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/civ_1709_deceit/",
+      "relationship": "COMMON LAW SUPPLEMENT — §17500 false advertising + §1709/§1710 intentional misrepresentation are separate causes of action on the same dealer fraud facts. §1709 requires intent; §17500 requires only 'should know.' Plead both: §17500 is easier to prove; §1709 opens §3294 punitive damages pathway via §3343 out-of-pocket damages.",
+      "direction": "supplement"
+    },
+    {
+      "id": "CIV_1790_SONG_BEVERLY",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/civ_1790_song_beverly/",
+      "relationship": "SEPARATE TRACK — Song-Beverly covers warranty breach; §17500 covers deceptive advertising in the sale transaction. Both can proceed against a dealer on the same vehicle. §1794(c) civil penalty for willfulness is separate from §17500 restitution. False advertising about warranty coverage = §17500 violation + §1790 warranty breach simultaneously.",
+      "direction": "parallel"
+    },
+    {
+      "id": "ROSENTHAL_ACT",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/rosenthal_act/",
+      "relationship": "COLLECTION SIDE — §17500 covers false representations in the sale transaction; Rosenthal Act covers false representations in subsequent debt collection. Yo-yo financing: §17500 applies at point of sale (false financing term representations); if dealer/finance company then collects on an inflated rate using deceptive communications, Rosenthal Act applies to the collection conduct.",
+      "direction": "sequential"
+    }
+  ],
+  "path_anchor": "${citizens}",
+  "build_date": "2026-04-11"
+}

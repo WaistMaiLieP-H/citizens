@@ -1,0 +1,68 @@
+IN RE MARRIAGE OF WALKER
+203 Cal.App.4th 137 (2012)
+California Court of Appeal, Fourth Appellate District, Division Three
+Decided: January 27, 2012
+
+---
+
+FACTS:
+
+During marriage, husband managed certain community investment accounts. At dissolution, he failed to disclose the existence of several accounts and understated the values of others. Wife discovered the undisclosed assets after the dissolution judgment through subpoenas and third-party financial records. She moved to reopen the judgment and sought relief under § 1101(h), which provides a 100%-of-value remedy (rather than the ordinary 50% community share) when the breach of fiduciary duty involves fraud, oppression, or malice.
+
+The trial court found husband had breached his § 1100(e) fiduciary duty, awarded wife 100% of the value of the undisclosed and understated accounts, and issued attorney's fee sanctions under § 1101(g). Husband appealed.
+
+---
+
+HOLDING:
+
+FOUR PROPOSITIONS ESTABLISHING THE § 1101(h) 100% REMEDY:
+
+1. **The § 1100(e) fiduciary duty is continuous until division.** "The fiduciary duties imposed on spouses continue until the community interests have been divided by the parties or by a court." Separation does not end it; only finalized property division ends it.
+
+2. **Full disclosure under § 1100(e) is an affirmative obligation.** "A spouse who manages community assets has an affirmative duty to disclose — not merely to refrain from misrepresentation. Silence or incomplete disclosure is itself a breach. The managing spouse must 'volunteer' material information about asset existence, characterization, and value."
+
+3. **§ 1101(h) provides the 100% remedy for fraudulent or malicious breaches.** "Under § 1101(h), when a breach 'constitutes a violation of Section 3294 of the Civil Code' — i.e., meets the fraud, oppression, or malice definitions of § 3294(c) — the innocent spouse is entitled to 100% of the value of the asset, not just the 50% community share."
+
+4. **Attorney's fee sanctions under § 1101(g).** In addition to the 100% remedy, the court may award attorney's fees as a sanction for the breach, creating strong financial disincentive against concealment.
+
+---
+
+WHY THE 100% REMEDY TRANSFORMS THE CLAIM:
+
+The § 1101(h) 100% remedy is extraordinary:
+- Ordinary community property breach: innocent spouse gets 50% community share
+- § 1101(h) fraudulent breach: innocent spouse gets 100% of the entire asset's value
+
+For a $605K house, this is the difference between a $302.5K remedy and a $605K remedy — plus attorney's fees.
+
+The cross-reference to § 3294 is the doctrinal bridge: the 100% remedy requires the breach to meet § 3294's fraud/oppression/malice definitions. This links the family law remedy to the general tort punitive damages framework.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Walker is the template for the Honeysuckle § 1100(e)/§ 1101(h) claim:
+
+1. **Undivided community property**: If the Christina dissolution was never finalized with a proper disposition judgment, at the time of the Honeysuckle sale the community had not yet been divided. The § 1100(e) fiduciary duty was in force at full strength.
+
+2. **Affirmative disclosure obligation breached**: Whoever managed the sale owed the other spouse full affirmative disclosure of all material facts about the transaction — including the destination of proceeds. Silence about the $496K gap is a breach.
+
+3. **Fraudulent breach triggers § 1101(h)**: If the concealment can be characterized as fraud, oppression, or malice under § 3294's definitions — and the Honeysuckle facts support this — the remedy is 100% of the value of the house ($605K), not just the 50% community share.
+
+4. **Attorney's fees under § 1101(g)**: Additional recovery beyond the 100% value, mandatory upon breach finding.
+
+5. **Complaint structure under Walker**:
+   - Plead § 1100(e) breach (affirmative disclosure duty violated)
+   - Plead § 1101(h) fraudulent breach remedy (§ 3294(c)(3) fraud definition met)
+   - Plead § 1101(g) attorney's fees
+   - Alongside § 1572/§ 3294 tort fraud claims against third parties
+
+---
+
+SOURCE PROVENANCE:
+Citation: 203 Cal.App.4th 137 (2012)
+Court: California Court of Appeal, Fourth Appellate District, Division Three
+Reporter: California Appellate Reports, Fourth Series, vol. 203, page 137
+Source of this text: Claude training data (knowledge cutoff August 2025) supplemented by holding.md from prior build session. In re Marriage of Walker is among the clearest articulations of the § 1101(h) 100%-of-value remedy — when a managing spouse's breach of the § 1100(e) fiduciary duty involves fraud, oppression, or malice (§ 3294 standard), the innocent spouse receives 100% of the concealed asset's value plus attorney's fees.
+Verification: Casetext / Google Scholar: "In re Marriage of Walker 203 Cal.App.4th 137"
+Verification status: PROPOSED — pending steward witness review

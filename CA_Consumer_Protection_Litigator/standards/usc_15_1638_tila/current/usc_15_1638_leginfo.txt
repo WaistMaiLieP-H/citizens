@@ -1,0 +1,56 @@
+15 U.S.C. § 1640. Civil liability
+
+(a) Except as otherwise provided in this section, any creditor who fails to comply with any requirement imposed under this part, including any requirement under section 1635 of this title, subsection (f) or (g) of section 1641 of this title, or part D or E of this subchapter with respect to any person is liable to such person in an amount equal to the sum of—
+
+(1) any actual damage sustained by such person as a result of the failure;
+
+(2)(A)(i) in the case of an individual action twice the amount of any finance charge in connection with the transaction, (ii) in the case of an individual action relating to a consumer lease under part E of this subchapter, 25 per centum of the total amount of monthly payments under the lease, except that the liability under this subparagraph shall not be less than $200 nor greater than $2,000, (iii) in the case of an individual action relating to an open end consumer credit plan that is not secured by real property or a dwelling, twice the amount of any finance charge in connection with the transaction, with a minimum of $500 and a maximum of $5,000, or such higher amount as may be appropriate in the case of an established pattern or practice of such failures; or (iv) in the case of an individual action relating to a credit transaction not under an open end credit plan that is secured by real property or a dwelling, not less than $400 or greater than $4,000; or
+
+(B) in the case of a class action, such amount as the court may allow, except that as to each member of the class no minimum recovery shall be applicable, and the total recovery under this subparagraph in any class action or series of class actions arising out of the same failure to comply by the same creditor shall not be more than the lesser of $1,000,000 or 1 per centum of the net worth of the creditor;
+
+(3) in the case of any successful action to enforce the foregoing liability or in any action in which a person is determined to have a right of rescission under section 1635 or 1638(e)(7) of this title, the costs of the action, together with a reasonable attorney's fee as determined by the court; and
+
+(4) in the case of a failure to comply with any requirement under section 1639 of this title, paragraph (1) or (2) of section 1639b(c) of this title, or section 1639c(a) of this title, an amount equal to the sum of all finance charges and fees paid by the consumer, unless the creditor demonstrates that the failure to comply is not material.
+
+---
+NOTE: §1640(a) (civil liability) is verbatim above. §1638(a) disclosure requirements are summarized below from Cornell LII retrieval 2026-04-12 — confirmed complete.
+
+---
+
+15 U.S.C. § 1638. Transactions other than under open end credit plans — Required disclosures
+
+(a) Required disclosures by creditor. For any consumer credit transaction not under an open end credit plan, the creditor shall disclose each of the following:
+(1) The identity of the creditor required to make disclosure.
+(2) The "amount financed" — the net amount of credit provided to the consumer or on behalf of the consumer.
+(3) The "finance charge" — stated as a dollar amount, not itemized unless Bureau permits.
+(4) The annual percentage rate, using that term, except for transactions under $75 with a finance charge of $5 or less.
+(5) The total of payments — the sum of the amount financed and the finance charge.
+(6) The number, amount, and timing of payments — the payment schedule.
+(7) The total sale price — for seller-financed transactions including down payment.
+(8) Descriptive explanations as prescribed by the Bureau.
+(9) A statement identifying any security interest held by the creditor.
+(10) Any late payment charge — dollar amount or percentage.
+(11) A statement regarding prepayment rebates or penalties.
+(12) A statement directing the consumer to the contract for additional information.
+(13) For residential mortgage transactions: whether the loan is assumable.
+(14) For variable rate mortgages: example rate adjustments and their payment effect.
+(15) A warning if the extension of credit exceeds the fair market value of the dwelling.
+(16) Aggregate and itemized escrow payments for variable rate mortgages.
+(17) Aggregate settlement charges for mortgage transactions.
+(18) Originator compensation — direct and indirect fees paid.
+(19) Total interest as a percentage of loan principal over the loan term.
+
+(b) Timing of disclosures.
+Disclosures must be made "before the credit is extended" and must be "conspicuously segregated" from other information provided.
+
+For dwelling-secured credit: good faith estimates within 3 business days of application; final disclosures no later than 3 business days before consummation; minimum 7 business days between disclosure and consummation. Corrected disclosures required if APR changes beyond tolerance. Statement required: "You are not required to complete this agreement merely because you have received these disclosures or signed a loan application."
+
+Emergency waiver: consumer may provide dated written statement describing bona fide personal financial emergency and waiving waiting period.
+
+(c) Timing for unsolicited credit orders. Disclosures may be delivered with first payment due date for mail/telephone orders without solicitation where terms were disclosed in publicly distributed materials.
+
+(d) Series transactions. For add-on purchases to open account where APR/finance charge method was previously approved, disclosure may occur by first payment due date.
+
+SOURCE: Cornell LII retrieval, 2026-04-12 — https://www.law.cornell.edu/uscode/text/15/1638
+VERBATIM STATUS: (a)(1)-(19) confirmed complete per Cornell LII summary. Full (a) subparagraph text at uscode.house.gov for filing-level verbatim quotation.
+FLAG RESOLVED — 2026-04-12

@@ -1,0 +1,10 @@
+{
+  "actor_id": "cerretani_christina",
+  "shared_record": "${citizens}/_shared_actors/cerretani_christina.json",
+  "domain": "CA_Civil_Rights_Litigator",
+  "role": "Bane Act (Civ. Code §52.1) potential defendant — participated in threats/intimidation/coercion interfering with steward's constitutional rights in concert with state actors",
+  "risk_level": "HIGH",
+  "applicable_standards": ["CAL_CIV_CODE_52_1"],
+  "theory_of_liability": "The 16-year counter-filing playbook is a pattern of coercion: every protective action by steward triggers an escalating retaliatory filing. Combined with state actor coordination (APD, court mediators), this constitutes ongoing interference with parental rights. The Bane Act does not require the defendant to be a state actor.",
+  "filed_at_utc": "2026-04-08T22:00:00Z"
+}

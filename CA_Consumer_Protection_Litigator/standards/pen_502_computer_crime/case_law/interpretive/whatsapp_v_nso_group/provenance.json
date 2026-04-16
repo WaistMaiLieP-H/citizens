@@ -1,0 +1,16 @@
+{
+  "case_slug": "whatsapp_v_nso_group",
+  "citation": "WhatsApp Inc. v. NSO Group Technologies Ltd., 17 F.4th 930 (9th Cir. 2021) (jurisdictional ruling); N.D. Cal. Case No. 4:19-cv-07123 (substantive §502/CFAA claims pending)",
+  "court": "United States Court of Appeals for the Ninth Circuit (jurisdictional); Northern District of California (substantive)",
+  "year_jurisdiction_ruling": 2021,
+  "reporter": "Federal Reporter, Fourth Series",
+  "volume": 17,
+  "page": 930,
+  "category": "interpretive",
+  "statute_version_applicable": "Cal. Penal Code §502(c)(1) and §502(c)(7) (current version) + 18 U.S.C. §1030 (CFAA)",
+  "rule_established": "§502 and CFAA operate as parallel claims; exploitation of vulnerability to access computer systems = without permission; Cal. §502 applies when attacked systems are in California regardless of attacker location; parallel pleading of §502 + CFAA is standard in California federal cybercrime civil litigation",
+  "status_note": "Substantive merits of §502/CFAA claims not finally adjudicated — cite for parallel pleading confirmation and legal theory, not as decided merits ruling",
+  "circuit": "9th Circuit (binding for jurisdictional ruling; NDCA for substantive claims)",
+  "verbatim_capture_status": "PENDING",
+  "verification_note": "Verify 17 F.4th 930 citation; verify current status of underlying NDCA case before citing as precedent for merits of §502 claims"
+}

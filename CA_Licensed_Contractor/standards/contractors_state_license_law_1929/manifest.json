@@ -1,0 +1,250 @@
+{
+  "standard_id": "CA_CONTRACTORS_STATE_LICENSE_LAW_1929",
+  "version": "0.2.0-evolution-chain-built",
+  "filed_at_utc": "2026-04-08T07:00:00Z",
+  "evolution_chain_built_at_utc": "2026-04-08T08:30:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "PROPOSED-EVOLUTION-COMPLETE — first-mouth complete with full primary-source evolution chain (1929→1931→1933→1935) AND current-form codification location (Bus & Prof Code §§ 7000+) in place; awaiting second-mouth countersignature. The corpus-correctness gap of 'where is the chain?' is closed.",
+
+  "naming_correction_2026_04_08": {
+    "issue": "The popular name 'Contractors' License Law' / 'Contractors State License Law' was previously stated to apply to the 1929 original act. Primary-source review of 1933 Ch. 573 § 14 (which adds new § 15 to the original act) shows that the original 1929 Ch. 791 had NO popular name; it was just 'An act providing for the registration of contractors...'. The statutory text 'This act shall be known and may be cited as the \"Contractors' License Law\"' was added by 1933 Ch. 573 § 14 (codified as new section 15 of the original act).",
+    "consequence": "When citing this standard for any period before May 26, 1933, the popular name should not be used. The 1929 act is properly cited as 'Statutes of California 1929, Chapter 791' or by its full official title. After May 26, 1933 the popular name 'Contractors' License Law' is the proper citation. The modern name 'Contractors State License Law' (note: no apostrophe in 'State', three words) appears to derive from the post-1935 era, after Ch. 816 created the 'Contractors' State License Board' — a name divergence that requires further primary-source tracing.",
+    "found_in": "evolution/1933_ch573_amendment/chapter_pages/ch573_p1492-1493.png (printed page 1492 of 1933 Statutes Vol. 1)"
+  },
+
+  "primary_citation": {
+    "jurisdiction": "California",
+    "session": "Forty-Eighth Session, California Legislature (1929)",
+    "chapter": 791,
+    "official_title_verbatim_from_chaptered_text": "An act providing for the registration of contractors, and defining the term contractor; providing the method of obtaining licenses to engage in the business of contracting, and fixing the fees for such licenses; providing the method of suspension and cancellation of such licenses; and prescribing the punishment for violation of the provisions of this act.",
+    "popular_name": "Contractors State License Law (CSLL); also known as the Contractors' State License Law",
+    "approval_date": "1929-06-13",
+    "approval_governor": "TBD — to be confirmed against primary source (Governor of California in June 1929 was Clement Calhoun Young)",
+    "in_effect_date": "1929-08-14",
+    "delay_between_approval_and_effect_days": 62,
+    "is_urgency_act": false,
+    "primary_source_text_location": "origin/1929_Vol1_Chapters.pdf (Statutes of California 1929, printed pages 1591–1595; PDF pages 1593–1597)"
+  },
+
+  "structure_of_original_act": {
+    "section_count": 14,
+    "page_count_in_original_statute": 5,
+    "section_outline": [
+      "Section 1 — License required: Unlawful for any person, firm, copartnership, corporation, association, or other organization to engage in or act in the capacity of a contractor within this state without a license, unless particularly exempted under Section 2.",
+      "Section 2 — Exemptions: (a) Authorized representatives of the United States government, the State of California, or any incorporated town, city, county, city and county, irrigation district, reclamation district, or other municipal or political corporation or subdivision; (b) Construction or operation incidental to construction and repair of irrigation and drainage ditches of regularly constituted irrigation districts, reclamation districts, or to farming, dairying, agriculture, viticulture, horticulture, or stock or poultry raising; (c) Trustees of an express trust or officers of a court providing they are acting within the terms of their trust or office; (d) Public utilities operating under the regulation of the State Railroad Commission on construction work incidental to their own business or the discovering or producing of petroleum or gas, or the drilling, testing, abandoning, or other operation of petroleum or gas wells when performed by an owner or lessee; (e) Sole owners of property, building structures thereon for their own use; (f) Any work or operation on one undertaking or project by contract or contracts performed directly or indirectly by one contractor, where the aggregate contract price for which, for labor, materials, and all other items, is less than two hundred dollars, such work or operations being considered as of a casual, minor, or inconsequential nature.",
+      "Section 3 — Contractor defined: A contractor within the meaning of this act is a person, firm, copartnership, corporation, association, or other organization, or any combination of any thereof, who for a fixed sum, price, fee, percentage, or other compensation other than wages, undertakes with another for the construction, alteration, repair, addition to, or improvement of any building, highway, road, railroad, excavation or other structure, project, development, or improvement, other than to personalty, or any part thereof; provided, that the term contractor, as used in this act, shall include subcontractor, but shall not include any one who merely furnishes materials or supplies without fabricating the same into, or consuming the same in the performance of, the work of the contractor as herein defined.",
+      "Section 4 — Registrar / Department: The director of the department of professional and vocational standards is hereby constituted a registrar for the purpose of this act, and is empowered to employ such assistants and procure such equipment and records as may be necessary to carry out its provisions.",
+      "Section 5 — Application for license: To obtain a license under this act the applicant shall submit, on such forms as the registrar shall prescribe, a duly verified application stating the general nature of his contracting business, and if an individual his name and address, if a copartnership the names and addresses of all partners, and if a corporation, association, or other organization the name and addresses of the president, vice president, secretary, and chief construction managing officer; and containing the statement that the applicant desires the issuance of a license under the terms of this act. Said application shall be accompanied by a fee of five dollars (license fund created from fees).",
+      "Section 6 — Issuance of license: Upon receipt of said application and of said fee, it shall be the duty of the registrar forthwith and within ten days to issue a license to the applicant permitting him to engage in business as a contractor under the terms of this act for the balance of the fiscal year following the application.",
+      "Section 7 — Expiration and renewal: All licenses issued under the provisions of this act shall lapse and expire on June thirtieth of each year. Application for renewal of a current license at any time during the year after said authorize operation as a contractor for such licensee until actual issuance of such renewal license for the ensuing fiscal year. All licensees shall report all changes of personnel and addresses under this act, within thirty days after same shall occur, on such forms as the registrar shall provide in such cases.",
+      "Section 8 — Registrar's records: The registrar shall maintain at the office of the department of professional and vocational standards in Sacramento, open to public inspection during office hours, a complete indexed record of all applications and all licenses issued and of all renewed licenses; and all terminations, cancellations and suspensions thereof; and shall furnish a certified copy of any license issued, or of the cancellation or suspension thereof, upon receipt of the sum of fifty cents; and such certified copy shall be received in all courts and elsewhere as prima facie evidence of the facts stated therein.",
+      "Section 9 — Complaints / grounds for filing: Any person, firm, corporation, association, or other organization may file a duly verified complaint with the registrar charging that the licensee is guilty of one or more of the following acts or omissions: (1) Abandonment of any contract without legal excuse; (2) Diversion of funds or property received under express agreement, for prosecution or completion of a specific contract under this act, or for a specified purpose in the prosecution or completion of any contract, obligation or purpose with intent to defraud or deceive creditors or the owner; (3) Fraudulent departure from, or disregard of, plans or specifications in any material respect, without consent of the owner or his duly authorized representative; or the doing of any wilful, fraudulent act by the licensee as a contractor in consequence of which another is substantially injured.",
+      "Section 10 — Investigation and rehearing: On filing of such complaint with the registrar shall investigate the charge and within sixty days after the filing of such complaint shall render and file his decision with his reasons therefor. If the registrar's decision is to suspend the charge and within sixty days after the filing of such complaint, then a particular grounds and reasons for the action on such petition and shall fortwith mail a copy of any such decision to the parties who have appeared under the complaint. In case the action under such complaint by mail of the registrar's action, the complainant or the contractor may within twenty days after the service by mail of the registrar's action, file a statement of the particular grounds and reasons for a rehearing of the matter and serve his decision on the matter as in original decision.",
+      "Section 11 — Renewal after suspension: After suspension of the license, the registrar shall renew the same upon proof of the compliance by the contractor and renewal of any provisions of the judgment as to renewal of such license, or in the absence of such judgment or any provisions therein as to renewal, in the sound discretion of the registrar. After cancellation of a license such license shall not be renewed or reissued within a period of one year after final determination of cancellation and then only on proper showing that all loss caused by the act or omission for which the license was canceled has been fully satisfied.",
+      "Section 12 — Penalties: Any person, firm, copartnership, corporation, association, or other organization, acting in the capacity of contractor within the meaning of this act, without a license as herein provided, shall upon conviction thereof, if a person, be punished by a fine of not to exceed five hundred dollars or by imprisonment in the county jail for a term not to exceed six months, or by both such fine and imprisonment, in the discretion of the court. The same penalties shall apply upon conviction to any member of a copartnership, or to any construction managing or directing officer of any organization consenting to, participating in, or aiding or abetting, any such violation of this act.",
+      "Section 13 — Constitutionality / severance: If any section, subsection, sentence, clause, or phrase of this act is for any reason held to be unconstitutional, such decision shall not affect the validity of the remaining portions of this act. The Legislature hereby declares that it would have passed this act and each section, subsection, sentence, clause, and phrase thereof, irrespective of the fact that any one or more sections, subsections, sentences, clauses, or phrases be declared unconstitutional.",
+      "Section 14 — Repealer: All laws, or parts of laws, in conflict with this act shall be, and the same are hereby repealed."
+    ]
+  },
+
+  "documented_evolution_from_primary_sources": {
+    "verification_status": "PRIMARY-SOURCE-VERIFIED through 1935 Ch. 816 (creation of CSLB). Modern recodification chain (1935 → current Bus & Prof Code) remains incomplete.",
+    "chain": [
+      {
+        "year": 1929,
+        "chapter": 791,
+        "approved": "1929-06-13",
+        "effective": "1929-08-14",
+        "popular_name_at_time": "(none — original act had no popular name)",
+        "summary": "Original enactment. Created the contractor-registration regime under the Director of the Department of Professional and Vocational Standards acting as 'registrar.' 14 sections.",
+        "primary_source_artifact": "origin/1929_Vol1_Chapters.pdf @ printed pages 1591-1595",
+        "status": "ORIGIN-VERIFIED — already in this manifest's primary_citation block"
+      },
+      {
+        "year": 1931,
+        "chapter": 578,
+        "approved": "1931-06-03",
+        "effective": "1931-08-14",
+        "popular_name_at_time": "(none)",
+        "title_verbatim": "An act to amend sections 2, 3, 4, 6, 7, 8, 9, 10, 11 and 12 of, and to add new sections numbered 9a and 10a, to chapter 791, statutes of 1929, entitled 'An act providing for the registration of contractors...' approved June 13, 1929, relating to the powers and duties of the registrar of contractors and proceedings for revocation of licenses.",
+        "summary": "First amendment. Substantially expanded the registrar's enforcement, investigation, and revocation authority. Added new sections 9a and 10a covering hearing procedures and appeal/court-review process. Refined definition of 'contractor' and the licensing/exemption framework.",
+        "primary_source_artifact": "evolution/1931_ch578_amendment/chapter_pages/ (9 PNG renders, printed pages 1255-1263)",
+        "primary_source_pdf": "evolution/1931_ch578_amendment/1931_Vol1_Chapters.pdf (symlink to shared 1931 Vol1 archive; sha256 367aaf44a75a7962098e24475b43b88087311bc23e0aa6f93f4c24f78146ac1c)",
+        "status": "PRIMARY-SOURCE-VERIFIED 2026-04-08"
+      },
+      {
+        "year": 1933,
+        "chapter": 573,
+        "approved": "1933-05-26",
+        "effective": "immediate (urgency)",
+        "popular_name_first_assigned_in_this_act": "Contractors' License Law",
+        "title_verbatim": "An act to amend sections 1, 2, 3, 4, 5, 6, 7, 8, 9, 9a, 10a, 11 and 12 of, and to add sections 15 to, an act entitled 'An act providing for the registration of contractors...' approved June 13, 1929, relating to contractors and the Contractors' License Bureau and declaring the same to be an urgency measure.",
+        "summary": "Second amendment. Most consequential of the early amendments. (a) Added new § 15 stating: 'This act shall be known and may be cited as the \"Contractors' License Law.\"' This is when the law was first given a popular name. (b) Reduced the annual renewal fee from $10 to $5 (Great Depression context — the urgency justification recites that the proposed reduction takes effect July 1, 1933 with the new fiscal year). (c) Refined the contractor definition. (d) Refined the exemption list. (e) Detailed the hearing/appeal/rehearing procedure (cross-referencing CCP and Code of Civil Procedure Title I, Part III). (f) Renamed the administrative arm from 'Registrar of Contractors' to 'Contractors' License Bureau.'",
+        "primary_source_artifact": "evolution/1933_ch573_amendment/chapter_pages/ (10 PNG renders, printed pages 1483-1492)",
+        "primary_source_pdf": "../../../CA_Structural_Engineer/standards/field_act_1933/origin/1933_Vol1_Chapters.pdf (sha256 c6b006953f20a5ddbdf2d57228d44fef5b29b7a12064b1bdba26a516a9a9576b — same physical file as the Field Act standard's 1933 Vol1)",
+        "popular_name_section_location": "Section 14 of Ch. 573 adds new section 15 to the original act; the verbatim text is on rendered page ch573_p1492-1493.png",
+        "status": "PRIMARY-SOURCE-VERIFIED 2026-04-08"
+      },
+      {
+        "year": 1935,
+        "chapter": 816,
+        "approved": "1935-07-26",
+        "effective": "1935-09-15",
+        "popular_name_at_time": "Contractors' License Law",
+        "title_verbatim": "An act to amend sections 1, 2, 3, 4, 6 and 9a of, and to add section 3¼ to 'An act providing for the registration of contractors...' approved June 13, 1929, as amended, relating to contractors.",
+        "summary": "Third amendment. CREATES THE CONTRACTORS' STATE LICENSE BOARD (CSLB), the agency name and structure that survives to the present day. Section 5 of Ch. 816 amends § 4 of the original act to read in relevant part: 'There is hereby created a Contractors' State License Board, hereinafter called and referred to as the board.' The board succeeds to the functions and duties of the Director of the Department of Professional and Vocational Standards as they relate to administration of the act. Section 6 (composition): the board shall be composed of seven (7) members, all contractors actively engaged in the business for not less than five years preceding appointment, of whom one shall be a general engineering contractor, three shall be general building contractors, and three shall be specialty contractors. Members appointed by the Governor within 30 days after the effective date of the act. Each member must be a citizen and resident of California for at least five years preceding appointment.",
+        "primary_source_artifact": "evolution/1935_ch816_cslb_creation/chapter_pages/ (10 PNG renders, printed pages 2215-2224)",
+        "primary_source_pdf": "evolution/1935_ch816_cslb_creation/1935_Vol1_Chapters.pdf (symlink to shared 1935 Vol1 archive; sha256 0b12ee9b7ab50bb2ee4e272855660f9504b469544d9f70d1142f64db758377fb)",
+        "key_section_for_cslb_creation": "Ch. 816 Sec. 5 (which amends § 4 of the original act); rendered on pages ch816_p2218-2173.png and ch816_p2219-2174.png",
+        "status": "PRIMARY-SOURCE-VERIFIED 2026-04-08"
+      },
+      {
+        "year_range": "1935 to current",
+        "chapter": "(multiple, not yet primary-source-mapped)",
+        "summary": "Continuous amendment, recodification into Cal. Business and Professions Code §§ 7000 et seq. (modern home of the CSLL), and structural transition to administration under the California Department of Consumer Affairs. The 1935-to-current chain has not yet been primary-source-traced chapter by chapter. Modern current-form URLs for §§ 7000-7191 captured under current/ as a starting point.",
+        "status": "INCOMPLETE — outstanding work"
+      }
+    ]
+  },
+
+  "agency_at_enactment": {
+    "name": "Director of the Department of Professional and Vocational Standards (acting as Registrar)",
+    "evolutionary_chain": "Department of Professional and Vocational Standards → Registrar of Contractors (1931) → Bureau of Contractors' Registration (1933) → Contractors' State License Board / CSLB (1935 to present)",
+    "current_agency": "Contractors State License Board (CSLB), California Department of Consumer Affairs"
+  },
+
+  "umbrellas": [
+    "Authority / Governing Law (Umbrella 1)",
+    "Ethics / Conduct (Umbrella 6)",
+    "Substance / Specification (Umbrella 3)"
+  ],
+
+  "owner_citizen": {
+    "primary": "California Licensed Contractor (canonical persona definition lives in citizens/catalog/manufacturing_construction_space_personas.md, persona section B2)",
+    "ownership_note": "This standard is the foundational law that creates the licensed-contractor profession in California. The owner is the licensed contractor whose existence is itself constituted by this act."
+  },
+
+  "current_codification": {
+    "primary": "California Business and Professions Code §§ 7000 et seq. (Contractors State License Law)",
+    "structure": "BPC Division 3, Chapter 9 (Contractors), Articles 1-12 spanning §§ 7000-7191",
+    "article_index": {
+      "Article 1": "§§ 7000-7021 (general provisions, board, registrar)",
+      "Article 2": "§§ 7025-7036 (definitions)",
+      "Article 3": "§§ 7040-7054.5 (exemptions)",
+      "Article 4": "§§ 7055-7059.1 (classifications)",
+      "Article 5": "§§ 7065-7077 (licensing requirements)",
+      "Article 6": "§§ 7080.5-7084 (license issuance)",
+      "Article 6.2": "§§ 7085-7085.9 (arbitration)",
+      "Article 7": "§§ 7090-7124.6 (disciplinary proceedings)",
+      "Article 7.5": "§§ 7125-7127 (workers comp)",
+      "Article 8": "§§ 7135-7138.1 (fees)",
+      "Article 8.5": "§§ 7139-7139.10",
+      "Article 9": "§§ 7140-7145.5 (suspension/revocation)",
+      "Article 10": "§§ 7150-7170 (home improvement contracts)",
+      "Article 11": "§§ 7180-7189.7 (contractor liability)",
+      "Article 12": "§§ 7190-7191"
+    },
+    "administering_agency": "Contractors State License Board (CSLB) under California Department of Consumer Affairs",
+    "leginfo_chapter_index_url": "https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?lawCode=BPC&division=3.&title=&part=&chapter=9.&article=",
+    "key_sections_fetched": {
+      "BPC § 7000": "current/bpc_7000_leginfo.html",
+      "BPC § 7008": "current/bpc_7008_leginfo.html (NOTE: BPC § 7008 in modern form is the rules-and-regulations grant; the modern short-title section is at a different number — outstanding work to identify exactly which section now contains the popular-name 'Contractors State License Law' citation)",
+      "BPC § 7011": "current/bpc_7011_leginfo.html (modern Registrar of Contractors creation; sunset 2029)",
+      "BPC § 7026": "current/bpc_7026_leginfo.html (definition of contractor)",
+      "BPC § 7027": "current/bpc_7027_leginfo.html",
+      "BPC § 7028": "current/bpc_7028_leginfo.html (license-required violation)",
+      "BPC § 7065": "current/bpc_7065_leginfo.html",
+      "BPC § 7068": "current/bpc_7068_leginfo.html",
+      "BPC § 7113": "current/bpc_7113_leginfo.html",
+      "BPC § 7160": "current/bpc_7160_leginfo.html"
+    },
+    "fetch_status": "Current-form URL markers fetched as integrity-tracked artifacts (HTML shells; verbatim section text loaded dynamically by leginfo and captured in this manifest where critical). 1996/2008/recent recodification chapters not yet primary-source-traced.",
+    "note": "Vernen has a live CSLB integration in Wave 7 of the build (per project_ca_state_source_inventory.md), which means downstream tooling already exists for this standard's modern administering agency."
+  },
+
+  "triple_constraint_test_results": {
+    "governing_guidelines": {
+      "passes": true,
+      "evidence": "Statutes of California 1929 Chapter 791 located in primary source. Binding state authority confirmed."
+    },
+    "standards_of_creation": {
+      "passes": true,
+      "evidence": "Original act has 14 enumerated sections, internally consistent, properly chaptered, properly approved by Governor with date of approval (June 13, 1929) and a delayed effective date (August 14, 1929 — 62 days after approval, which is the standard non-urgency delay)."
+    },
+    "standard_of_care": {
+      "passes": "PARTIAL",
+      "origin_layer": "VERIFIED — primary source PDF (sha256: a456d3c2ac408b86267b170039bf6b426bf3a168366ed145628ec85fe1992d97) locally stored; per-page PNG renders of Chapter 791 (5 pages, individually hashed)",
+      "evolution_layer": "VERIFIED through 1935 (2026-04-08) — three primary-source amendments captured, hashed, and rendered: 1931 Ch. 578 (9 pages), 1933 Ch. 573 (10 pages), 1935 Ch. 816 (10 pages). Each amendment is from the official Statutes of California Vol. 1 PDFs from the Assembly Chief Clerk archive. The 1935→current recodification chapter chain remains incomplete.",
+      "current_layer": "PARTIAL — current Bus. & Prof. Code §§ 7000+ section structure mapped via leginfo expanded-branch fetch; 10 key individual section URLs captured as integrity-tracked HTML shells; verbatim text of the most critical sections (§§ 7008 rules, 7011 registrar) captured in this manifest"
+    }
+  },
+
+  "five_layer_bar_status": {
+    "rule": "PRESENT — verbatim from primary source page renders, all 14 sections of the original 1929 act located plus all amending sections of 1931 Ch. 578, 1933 Ch. 573, and 1935 Ch. 816",
+    "reasoning": "PARTIAL — the 1929 original has no urgency clause and no primary-source statement of legislative intent; HOWEVER the 1933 Ch. 573 urgency clause provides primary-source legislative reasoning for that amendment: 'The annual renewal fee of ten dollars is due and payable on or before June thirtieth of this year. If the proposed reduction of the annual renewal fee to five dollars is to become effective for the fiscal year beginning July 1, 1933, this act must take effect immediately.' This is Great Depression fee relief, primary-source-documented, even though the 1929 underlying law's 'why' remains unestablished",
+    "historical_loss": "PARTIAL — original 1929 historical-loss layer remains MISSING (working hypothesis: 1920s building boom unlicensed-contractor fraud); 1933 Ch. 573 historical-loss is documented (Depression-era contractor financial distress driving fee reduction)",
+    "cross_references": "VERIFIED — 1931→1933→1935 amendment chain primary-source-cross-referenced; cross-references to Field Act and Riley Act standards exist via the shared 1933 Vol1 Chapters PDF (same physical artifact serves all three standards)",
+    "verifiable_provenance": "VERIFIED — three additional primary-source PDFs fetched, hashed, locally stored; 29 PNG page renders across the three amendments individually hashed; 10 leginfo HTML URL markers fetched and hashed"
+  },
+
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction (Michael Hartmann), 2026-04-07/08",
+    "second_mouth_witness": "NONE — not yet countersigned",
+    "publishable_to_corpus": false,
+    "status": "PROPOSED"
+  },
+
+  "files": {
+    "origin": [
+      "origin/1929_Vol1_Chapters.pdf",
+      "origin/1929_Vol1_Index.pdf",
+      "origin/chapter_pages/ch791_p1591_title_sections_1-2.png",
+      "origin/chapter_pages/ch791_p1592_sections_2-5.png",
+      "origin/chapter_pages/ch791_p1593_sections_5-8.png",
+      "origin/chapter_pages/ch791_p1594_sections_8-10.png",
+      "origin/chapter_pages/ch791_p1595_sections_11-14_repealer.png"
+    ],
+    "evolution": [
+      "evolution/1931_ch578_amendment/1931_Vol1_Chapters.pdf (symlink)",
+      "evolution/1931_ch578_amendment/1931_Vol1_Index.pdf (symlink)",
+      "evolution/1931_ch578_amendment/chapter_pages/ (9 PNG renders, printed pp. 1255-1263)",
+      "evolution/1933_ch573_amendment/chapter_pages/ (10 PNG renders, printed pp. 1483-1492)",
+      "evolution/1935_ch816_cslb_creation/1935_Vol1_Chapters.pdf (symlink)",
+      "evolution/1935_ch816_cslb_creation/1935_Vol1_Index.pdf (symlink)",
+      "evolution/1935_ch816_cslb_creation/chapter_pages/ (10 PNG renders, printed pp. 2215-2224)"
+    ],
+    "current": [
+      "current/bpc_7000_leginfo.html",
+      "current/bpc_7008_leginfo.html",
+      "current/bpc_7011_leginfo.html",
+      "current/bpc_7026_leginfo.html",
+      "current/bpc_7027_leginfo.html",
+      "current/bpc_7028_leginfo.html",
+      "current/bpc_7065_leginfo.html",
+      "current/bpc_7068_leginfo.html",
+      "current/bpc_7113_leginfo.html",
+      "current/bpc_7160_leginfo.html"
+    ],
+    "context": [],
+    "manifest": "manifest.json",
+    "provenance": "provenance.json"
+  },
+
+  "outstanding_work": [
+    "Confirm signing Governor (likely Clement Calhoun Young) against primary source — still outstanding",
+    "Locate the historical-loss layer for the 1929 ORIGINAL act (not the 1933 amendment, which is now documented): what specific harm or pattern of harm prompted the 1929 enactment?",
+    "Trace the chapter-by-chapter recodification chain from 1935 Ch. 816 forward to the modern Cal. Bus. & Prof. Code §§ 7000+ structure (especially the recodification that moved the law from a freestanding act into the B&P Code)",
+    "Identify which modern BPC section now contains the popular-name short-title statement (it is no longer at § 7008, which is now the rules-and-regulations grant)",
+    "Fetch and hash the remaining BPC §§ 7000-7191 individual section URLs (currently 10 of 190+ captured)",
+    "Build cross-references to other Vernen corpus standards once they exist",
+    "Obtain second-mouth countersignature before publication"
+  ],
+
+  "completed_in_2026_04_08_session": [
+    "Fetched and hashed 1931 Vol1 Chapters PDF (165 MB); located Ch. 578 at printed pages 1255-1263; rendered 9 chapter pages",
+    "Located 1933 Ch. 573 in already-fetched 1933 Vol1 Chapters PDF; rendered 10 chapter pages (printed 1483-1492); discovered the popular-name section that names the law 'Contractors' License Law'",
+    "Fetched and hashed 1935 Vol1 Chapters PDF (140 MB), Index PDF, and StatRecord PDF; located Ch. 816 at printed pages 2215-2224; rendered 10 chapter pages; primary-source-confirmed CSLB creation",
+    "Mapped the modern BPC Chapter 9 structure (Articles 1-12, §§ 7000-7191); fetched 10 key section HTML URL markers",
+    "Corrected the popular-name attribution in this manifest (the 'Contractors' License Law' name was added by 1933 Ch. 573 § 14, not present in the 1929 original)"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "citizen_id": "CA_Immigration_Litigator",
+  "version": "1.0",
+  "status": "OPERATIONAL",
+  "build_date": "2026-04-13",
+  "operational_date": "2026-04-13",
+  "steward": "Michael Hartmann",
+
+  "path_anchors": {
+    "citizens": "/home/vernenlegal/citizens",
+    "familylaw": "/home/vernenlegal/FamilyLaw",
+    "nonfamilylaw": "/home/vernenlegal/NonFamilyLaw"
+  },
+
+  "blueprints_inherited": ["ADAM", "EVE"],
+  "triple_constraint": {
+    "governing_guidelines": "GOV §§7282-7284.10 (California TRUST Act / Values Act); EVID §752 (interpreter oath); GOV §68566 (civil interpreter right); CRC Rule 2.890 (interpreter qualifications); 8 USC §§1101/1227/1229a (INA — federal, USC tool blocked)",
+    "standards_of_creation": "Five-layer bar; no stubs; ADAM+EVE dual witness; CA statutes with full fetched text verified=true; federal INA statutes verified=false pending uscode.house.gov confirmation; CRC rules verified=false pending courts.ca.gov confirmation",
+    "standard_of_care": "Immigration status is the ultimate vulnerability. When the legal system — dissolution courts, criminal proceedings, or identity fraud schemes — weaponizes immigration status against someone who cannot understand the proceedings, every protection fails simultaneously. The interpreter is not a convenience; it is due process itself. The TRUST Act is not a sanctuary law; it is a prohibition on using California resources to enforce a federal civil regulatory scheme against California residents."
+  },
+
+  "bound_standards": [
+    "gov_7284_6_trust_act_prohibitions",
+    "evid_752_interpreter_oath",
+    "ina_u_visa_crime_victim",
+    "gov_68566_civil_interpreter_right",
+    "crc_2890_court_interpreter"
+  ],
+
+  "cases_covered": [
+    "butsaya_dissolution_thai_national",
+    "thai_translation_authentication",
+    "compound_identity_immigration_documents",
+    "court_interpreter_fraud"
+  ],
+
+  "boundary_rules": {
+    "ca_family_law_litigator_owns": "Dissolution proceedings; DVRO fraud; Butsaya-Divorce case facts",
+    "ca_criminal_law_specialist_owns": "Criminal proceedings involving non-citizen parties; Padilla IAC theory",
+    "ca_forensic_document_specialist_owns": "Certified translation authentication; document forensics",
+    "this_citizen_owns": "Federal immigration law framework (INA); USCIS processes; removal proceedings; CA TRUST Act (GOV §§7282-7284.10); interpreter standards (EVID §752; GOV §68566; CRC 2.890); T/U visa pathways; immigration documentation authentication; trafficking victim protections"
+  },
+
+  "cross_citizen_refs": {
+    "CA_Family_Law_Litigator": "Butsaya dissolution; DVRO fraud — dissolution facts layer",
+    "CA_Criminal_Law_Specialist": "Padilla obligation — defense counsel must advise non-citizen of deportation consequences",
+    "CA_Forensic_Document_Specialist": "Certified translation authentication; ATA certification requirements; sworn translator declarations",
+    "US_Federal_Civil_Rights_Litigator": "Due process in proceedings conducted in language party cannot understand — 14th Amendment + ADA Title II",
+    "HERALD": "Will witness NTAs, visa petitions, certified translations, dissolution orders affecting immigration status"
+  },
+
+  "steward_verify_queue": [
+    "8 USC §1101(a)(15)(U) — U visa — uscode.house.gov Title 8 §1101 (ina_u_visa_crime_victim; verified=false)",
+    "8 USC §1101(a)(15)(T) — T visa — same source",
+    "GOV §68566 — civil interpreter right — courts.ca.gov or leginfo.ca.gov (not in D1; verified=false at build)",
+    "CRC Rule 2.890 — court interpreter qualifications — courts.ca.gov/rules (verified=false at build)",
+    "Padilla v. Kentucky, 559 U.S. 356 (2010) — verify citation",
+    "Zadvydas v. Davis, 533 U.S. 678 (2001) — verify citation"
+  ],
+
+  "terminal": "B",
+  "all_standards_published": true,
+  "chronicle_flags": [
+    "TRUST Act historical chain: California's choice to prohibit state participation in federal civil immigration enforcement represents a state sovereignty position — CHRONICLE-eligible content"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "standard_id": "FRCP_56_C_4",
+  "popular_name": "Declarations for summary judgment — personal knowledge requirement",
+  "citizen_owner": "HERALD",
+  "filed": "2026-04-12",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "two_witness_status": {
+    "status": "PROPOSED",
+    "witness_1": null,
+    "witness_2": null
+  },
+  "herald_witness": {
+    "status": "SELF — HERALD is the owner; external witness required",
+    "note": "HERALD cannot self-witness its own standards. Requires steward review."
+  },
+  "layers_complete": {
+    "rule": true,
+    "reasoning": true,
+    "historical_loss": true,
+    "cross_refs": true,
+    "provenance": true
+  },
+  "primary_source": "FRCP 56(c)(4) — Federal Rules of Civil Procedure",
+  "source_url": "https://www.law.cornell.edu/rules/frcp/rule_56",
+  "priority": "HIGH",
+  "use_in_cases": [
+    "1983_NDCA",
+    "Honeysuckle_fraud"
+  ],
+  "flags": [
+    "Summary judgment trilogy texts not retrieved verbatim — retrieve before direct quotation in brief",
+    "Ninth Circuit qualified immunity case law — retrieve before § 1983 summary judgment opposition"
+  ],
+  "version": "1.1.0-witnessed-by-herald"
+}

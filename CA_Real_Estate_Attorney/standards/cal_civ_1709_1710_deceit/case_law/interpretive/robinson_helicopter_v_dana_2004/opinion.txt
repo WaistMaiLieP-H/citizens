@@ -1,0 +1,57 @@
+ROBINSON HELICOPTER CO., INC. v. DANA CORP.
+34 Cal.4th 979 (2004)
+California Supreme Court
+Decided: December 2004
+
+---
+
+FACTS:
+
+Robinson Helicopter manufactured helicopters requiring specific clutch assemblies manufactured by Dana Corporation. Dana supplied non-conforming clutches over a period of time, misrepresenting them as meeting contract specifications. When Robinson discovered the non-conformance, it had to recall and repair helicopters already sold to customers. Robinson sued Dana for breach of contract AND for fraud (intentional misrepresentation). Dana moved to dismiss the fraud claim under the "economic loss rule," which generally bars tort recovery for economic losses arising from breach of contract.
+
+---
+
+HOLDING:
+
+THE ECONOMIC LOSS RULE AND ITS FRAUD EXCEPTION:
+
+1. **The economic loss rule generally bars tort recovery for economic losses arising from breach of contract.** When parties are in contract, and the only losses are economic (as opposed to physical injury to person or property), tort claims are generally unavailable. The remedy is breach of contract.
+
+2. **BUT the economic loss rule does NOT bar intentional fraud claims where the fraudulent conduct is independent of the contract.** If the defendant committed fraud that is distinct from the mere breach of contractual promises, the fraud claim survives. Categories of independent fraud:
+   - Fraud in the inducement (false statements that induced entry into the contract)
+   - Affirmative misrepresentations during contract performance (not merely failure to perform)
+   - Fraudulent concealment of breach or defects
+
+3. **Dana's conduct was independent fraud.** Dana did not merely fail to deliver conforming goods — it affirmatively represented that non-conforming goods WERE conforming. This was fraud separate from and in addition to the breach of contract.
+
+4. **Tort remedies, including punitive damages, are available for independent fraud.** The fraud claim survived, so Robinson was entitled to tort damages and the possibility of § 3294 punitive damages, not just contract damages.
+
+THE ROBINSON HELICOPTER RULE:
+- Economic loss rule bars fraud claims that are merely recast breach-of-contract claims: "you promised X, you delivered Y, you committed fraud." NOT ALLOWED.
+- Economic loss rule does NOT bar fraud claims where the fraud is independent: affirmative misrepresentation, concealment, fraud in the inducement. ALLOWED.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Robinson Helicopter is directly relevant to the Honeysuckle complaint. The buyer and seller are in contract (the purchase agreement), and the economic losses are the $496K gap. Under the economic loss rule, defendants might move to dismiss a fraud claim as merely a breach-of-contract claim.
+
+Robinson Helicopter defeats that argument:
+
+1. **Fraud in the inducement**: Misrepresentations about the community property status, the authority to sell, or the destination of proceeds that induced the parties to enter the contract are independent fraud.
+
+2. **Affirmative misrepresentations**: Statements on the closing statement, TDS, or other documents that were affirmatively false are independent fraud.
+
+3. **Fraudulent concealment**: Suppression of material facts about the transaction structure is independent fraud.
+
+All three categories satisfy Robinson Helicopter's independence requirement. The fraud claims survive the economic loss rule, and the plaintiff is entitled to tort damages and punitive damages under § 3294.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 34 Cal.4th 979 (2004)
+Court: California Supreme Court
+Reporter: California Reports, Fourth Series, vol. 34, page 979
+Source of this text: Claude training data (knowledge cutoff August 2025) supplemented by holding.md from prior build session. Robinson Helicopter Co. v. Dana Corp. is THE modern California authority on the economic loss rule and its exceptions — intentional fraud independent of contract breach survives the rule and supports tort damages including punitive damages.
+Verification: Casetext / Google Scholar: "Robinson Helicopter v. Dana Corp. 34 Cal.4th 979"
+Verification status: PROPOSED — pending steward witness review

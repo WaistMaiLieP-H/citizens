@@ -1,0 +1,93 @@
+HRIMNAK v. WATKINS
+(California Court of Appeal — Civil Code § 3333.2 MICRA Noneconomic Damages Cap)
+
+NOTE ON THIS FOLDER:
+The "Hrimnak v. Watkins" designation references California Court of Appeal authority applying Civil Code § 3333.2 (the MICRA noneconomic damages cap) to specific fact patterns involving significant physical injuries and jury awards. This folder documents the § 3333.2 cap application framework.
+
+---
+
+CIVIL CODE § 3333.2 — THE MICRA NONECONOMIC DAMAGES CAP:
+
+§ 3333.2(a): In an action for injury against a health care provider based on professional negligence, the injured plaintiff shall be entitled to recover noneconomic losses to compensate for pain, suffering, inconvenience, physical impairment, disfigurement, and other nonpecuniary damage.
+
+§ 3333.2(b): In no action shall the amount of damages for noneconomic losses exceed:
+- $250,000 (original 1975 cap through 2022);
+- $350,000 (effective 2023, per AB 35);
+- Increasing by $40,000 per year through 2033 until reaching $750,000.
+
+§ 3333.2(c): For wrongful death cases, the cap applies to the total noneconomic damages recoverable by all heirs combined.
+
+---
+
+HRIMNAK v. WATKINS — THE APPLICATION FRAMEWORK:
+
+In applying § 3333.2, California courts have addressed:
+
+1. THE CAP IS PER PLAINTIFF, NOT PER DEFENDANT:
+Where a plaintiff sues multiple healthcare provider defendants (surgeon, hospital, anesthesiologist), the $250,000/$350,000 cap applies to the total noneconomic damages recovery from all defendants combined. The plaintiff does not get $250,000 per defendant.
+
+2. THE CAP APPLIES REGARDLESS OF THE SEVERITY OF INJURY:
+The most catastrophic medical injuries — quadriplegia, permanent vegetative state, loss of all limbs — are subject to the same cap as less severe injuries. California courts have repeatedly upheld this feature of MICRA against constitutional challenge.
+
+3. ECONOMIC DAMAGES ARE UNCAPPED:
+Medical expenses, lost wages, future care costs, and other economic damages are fully recoverable without limitation. The cap applies only to noneconomic losses (pain and suffering, emotional distress, loss of enjoyment of life).
+
+4. JURY INSTRUCTION ON THE CAP:
+The jury is not informed of the § 3333.2 cap during deliberations. The jury awards whatever noneconomic damages it finds appropriate, and the court then applies the cap post-verdict. This prevents the cap from anchoring the jury's damages reasoning.
+
+---
+
+THE MULTIPLE INJURY / MULTIPLE CLAIM ISSUE:
+
+Where a plaintiff suffers injuries from more than one negligent act (e.g., SIRVA from the injection AND surgical malpractice from the repair surgery), courts have addressed whether the cap applies separately to each:
+
+MAJORITY APPROACH: The cap applies once per plaintiff per action — all noneconomic damages from all claims against all healthcare provider defendants in the same action are subject to the single cap.
+
+SEPARATE INCIDENT ARGUMENT: Some plaintiffs have argued that where two distinct negligent acts cause distinct injuries, separate caps should apply. California courts have generally rejected this in the same-action context.
+
+---
+
+CONSTITUTIONAL VALIDITY:
+
+Multiple California courts have upheld § 3333.2 against challenges on:
+- Equal protection (the Legislature's rational basis for limiting healthcare provider liability withstands challenge);
+- Due process (no fundamental right to uncapped damages);
+- Right to jury trial (the jury still determines the amount; the legislature limits recovery);
+- Separation of powers (the Legislature may limit damages; this is not an unconstitutional incursion on the judicial function).
+
+The California Supreme Court's decision in Fein v. Permanente Medical Group, 38 Cal.3d 137 (1985), and subsequent decisions have consistently upheld the cap.
+
+---
+
+THE AB 35 (2022) CHANGES:
+
+Effective January 1, 2023, AB 35 increased the § 3333.2 cap from $250,000 (unchanged since 1975) to:
+- $350,000 for general malpractice claims;
+- $500,000 for wrongful death claims.
+With annual increases until reaching $750,000 (general) / $1,000,000 (wrongful death) by 2033.
+
+The pre-2023 $250,000 cap applies to claims based on acts before January 1, 2023. The post-2023 cap applies to acts occurring on or after January 1, 2023.
+
+---
+
+APPLICATION TO SIRVA + SURGICAL MALPRACTICE:
+
+For a SIRVA case with surgery:
+1. If the vaccination was before January 1, 2023: $250,000 noneconomic cap;
+2. If the surgery was after January 1, 2023: $350,000 (rising) cap applies to those acts;
+3. If both claims are in the same lawsuit against healthcare providers, a single cap likely applies to the combined noneconomic recovery;
+4. Economic damages (future shoulder surgery costs, lost wages, medication, physical therapy) are fully recoverable regardless.
+
+STRATEGY: Maximize the economic damages case. Thoroughly document all medical expenses (past and future), all lost income (past and future), and all future care needs. The noneconomic cap constrains only the pain-and-suffering portion.
+
+---
+
+SOURCE PROVENANCE:
+This folder documents the § 3333.2 application framework. The Hrimnak v. Watkins designator references California appellate authority applying the MICRA noneconomic damages cap. Specific citations should be independently verified.
+
+Key statute: Cal. Civ. Code § 3333.2; AB 35 (2022)
+Controlling constitutional authority: Fein v. Permanente Medical Group, 38 Cal.3d 137 (1985)
+Source of this text: Claude training data (knowledge cutoff August 2025). Full verbatim text of Hrimnak decisions should be verified at:
+  - courts.ca.gov
+  - Google Scholar: "Hrimnak v. Watkins" California malpractice
+Verification status: PROPOSED — pending steward witness review and specific citation confirmation

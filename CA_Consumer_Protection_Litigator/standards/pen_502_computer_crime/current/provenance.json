@@ -1,0 +1,13 @@
+{
+  "standard_id": "PEN_502_COMPUTER_CRIME",
+  "primary_citation": "Cal. Penal Code §502 (Stats. 1988, Ch. 1523; current version Stats. 2021, Ch. 535)",
+  "original_enactment": "Cal. Penal Code §502 (Stats. 1979, Ch. 858 — original narrow statute)",
+  "comprehensive_rebuild": "Stats. 1988, Ch. 1523 — complete rewrite establishing current architecture",
+  "current_version": "Cal. Penal Code §502 (as amended through 2021)",
+  "key_civil_remedy_provision": "Cal. Penal Code §502(e)",
+  "fetch_method": "VernenLegal MCP — california_get_section (leginfo.legislature.ca.gov official source)",
+  "fetch_timestamp_utc": "2026-04-11T00:00:00Z",
+  "retrieval_steward": "Claude (assistant) under direction of Michael Hartmann",
+  "verbatim_capture_status": "COMPLETE — pen_502_leginfo.txt contains verbatim text of §502(a)-(k) in full",
+  "txt_sha256": "3d8b2af28f071cf889285f18fc8747ae334d23e3db67e524e3dc6aa98362a46c"
+}

@@ -1,0 +1,52 @@
+DOCTRINAL FRAMEWORK: § 13956 DENIAL GROUNDS — COOPERATION REQUIREMENT AND MITIGATING FACTORS
+[Specific published case citation pending primary-source verification]
+California Victim Compensation Board / California Courts of Appeal
+
+---
+
+CITATION STATUS:
+
+This folder documents the § 13956 denial grounds framework — specifically, the cooperation requirement and its mandatory mitigating factors. Specific citation pending primary-source verification.
+
+---
+
+HOLDING:
+
+§ 13956 DENIAL GROUNDS — FRAMEWORK:
+
+1. **Cooperation requirement (§ 13956(a)) — mitigating factors are mandatory, not permissive.** The Board may deny compensation where the applicant did not cooperate with law enforcement. However, the mitigating factors listed in § 13956(a)(2) MUST be independently considered. These include: whether the applicant is a victim of domestic violence, sexual assault, or trafficking where fear of retaliation prevented cooperation; disability impairing cooperation; and other enumerated and unenumerated factors.
+
+2. **The Board CANNOT deny for failure to cooperate without examining whether any mitigating factor applies.** Single-source denial without examining the applicant's circumstances is a legal error requiring remand.
+
+3. **"Cooperation" is context-specific.** A victim who reported to law enforcement but did not persist in prosecution because of witness intimidation, fear, or trauma may still be "cooperating" within the meaning of the statute.
+
+4. **Felony or misdemeanor conduct (§ 13956(b)) — reduction is proportional, not absolute.** The Board may "reduce or deny" based on the applicant's criminal conduct. It retains discretion to reduce rather than deny entirely. The Board may only consider criminal conduct that contributed to the specific victimization — prior unrelated convictions are not grounds for denial.
+
+5. **Protected classes restrict the use of conduct history.** Domestic violence victims, sexual assault victims, trafficking victims, and military sexual assault victims are protected by additional provisions that restrict the use of their cooperation or conduct history against them (§ 13956(b)(3), (c)).
+
+---
+
+THE SINGLE-SOURCE PROBLEM — REVERSIBLE ERROR:
+
+Where the Board denies based on a single adverse source (e.g., a police report that characterizes the victim unfavorably) without: (a) giving the applicant an opportunity to respond; (b) independently investigating whether the characterization is accurate; (c) considering the victim's account and any corroborating evidence — the denial violates the Board's own regulations and due process. Single-source denial without independent investigation is a recurring audit finding and a cognizable appeal ground.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For application A25-10117946, if the CalVCB denial invoked cooperation or contributing conduct grounds:
+1. **Identify which denial ground(s)** the Board invoked
+2. **Show the applicable mitigating factors were not considered** — particularly the domestic violence and orchestrated-scheme context
+3. **Show the applicant's circumstances fall within mitigating factor categories** — the coordinated nature of the June 16, 2023 incident and its orchestration context qualify
+4. **Show the denial was based on single-source adverse evidence** without independent investigation (police characterization without examining the steward's account and supporting documentation)
+
+Each of these is a separate reversal ground on appeal.
+
+---
+
+SOURCE PROVENANCE:
+Citation: Doctrinal placeholder — primary case citation pending verification
+Court: California Victim Compensation Board / California Courts of Appeal
+Source: Framework grounded in Gov. Code § 13956 statutory text, CalVCB audit standards, and California administrative law principles. Knowledge cutoff August 2025.
+Verification: Search Casetext for § 13956 cooperation mitigating factors published decisions; search CalVCB administrative decisions
+Verification status: PROPOSED — citation requires verification; denial grounds framework confirmed by § 13956 text; pending steward witness review

@@ -1,0 +1,47 @@
+{
+  "standard_id": "ccp_338_property_fraud_sol",
+  "citizen": "CA_Product_Liability_Litigator",
+  "build_date": "2026-04-13",
+  "cross_references": [
+    {
+      "ref_id": "XREF-338-001",
+      "target_citizen": "CA_Product_Liability_Litigator",
+      "target_standard": "greenman_strict_products_liability",
+      "path": "${citizens}/CA_Product_Liability_Litigator/standards/greenman_strict_products_liability/",
+      "relationship": "procedural",
+      "note": "§338(c) 3-year property damage SOL applies to Greenman strict liability claims for damage to personal property (goods/chattels). Separate from 2-year personal injury SOL under CCP §335.1."
+    },
+    {
+      "ref_id": "XREF-338-002",
+      "target_citizen": "CA_Product_Liability_Litigator",
+      "target_standard": "com_2314_implied_warranty_merchantability",
+      "path": "${citizens}/CA_Product_Liability_Litigator/standards/com_2314_implied_warranty_merchantability/",
+      "relationship": "concurrent",
+      "note": "Implied warranty breach SOL is COM §2725 (4-year). §338(a) covers statutory liability created by COM §2314 if no specific warranty SOL applies. Fraud discovered during RedJag purchase invokes §338(d)."
+    },
+    {
+      "ref_id": "XREF-338-003",
+      "target_citizen": "CA_Real_Estate_Attorney",
+      "target_standard": "civ_1572_actual_fraud",
+      "path": "${citizens}/CA_Real_Estate_Attorney/standards/civ_1572_actual_fraud/",
+      "relationship": "parallel",
+      "note": "Honeysuckle house fraud claims under CIV §1572: §338(d) fraud discovery rule is the SOL vehicle. Discovery rule tolled until audit revealed 19 unsigned documents and equity theft mechanism."
+    },
+    {
+      "ref_id": "XREF-338-004",
+      "target_citizen": "CA_Medical_Malpractice_Litigator",
+      "target_standard": "ccp_340_5_medical_sol",
+      "path": "${citizens}/CA_Medical_Malpractice_Litigator/standards/ccp_340_5_medical_sol/",
+      "relationship": "parallel",
+      "note": "SIRVA personal injury SOL is CCP §340.5 (medical malpractice, 3 years/1 year from discovery) OR CCP §335.1 (2-year general personal injury), not §338. §338(d) fraud SOL applies only if Walgreens made misrepresentations about its administration training/procedures."
+    },
+    {
+      "ref_id": "XREF-338-005",
+      "target_citizen": "CA_Vehicle_Code_Specialist",
+      "target_standard": "veh_11713_dealer_prohibited_acts",
+      "path": "${citizens}/CA_Vehicle_Code_Specialist/standards/veh_11713_dealer_prohibited_acts/",
+      "relationship": "parallel",
+      "note": "RedJag VEH §11713 dealer fraud: §338(d) discovery rule extends SOL for fraud discovered after the 2018 purchase. §338(a) applies to statutory liability under VEH §11713."
+    }
+  ]
+}

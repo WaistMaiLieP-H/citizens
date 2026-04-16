@@ -1,0 +1,13 @@
+{
+  "standard_id": "veh_11713_dealer_prohibited_acts",
+  "authority": "Cal. Veh. Code \u00a711713",
+  "status": "PUBLISHED",
+  "content_hash": "fad924ef",
+  "build_date": "2026-04-12",
+  "terminal": "Terminal B",
+  "citizen": "CA_Vehicle_Code_Specialist",
+  "verified": true,
+  "adam_signal": "APPROVE",
+  "eve_signal": "COUNTERSIGN",
+  "witness_date": "2026-04-12"
+}

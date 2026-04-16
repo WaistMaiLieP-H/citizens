@@ -1,0 +1,46 @@
+{
+  "standard_id": "cal_gov_13960_judicial_review",
+  "cite": "Gov. Code § 13960",
+  "short_name": "Judicial Review of CalVCB Decisions — Writ of Mandate",
+  "citizen": "CA_Victim_Compensation_Litigator",
+  "layer_status": {
+    "statute_current": "COMPLETE — text.txt captured from leginfo via VernenLegal MCP 2026-04-11",
+    "context": "COMPLETE — standard of review, Bixby framework, attorney fees, deadlines, relevance to A25-10117946",
+    "historical_chain": "COMPLETE — origin, CalVCB 1998 transfer, Marsy's Law 2008",
+    "cross_refs": "COMPLETE — 7 cross-references",
+    "case_law": "PARTIAL — 1 documented case (Bixby v. Pierno 1971), 1 doctrinal placeholder",
+    "evolution_layer": "NOT YET BUILT",
+    "opinion_text": "NOT YET CAPTURED"
+  },
+  "five_layer_score": "3.5 / 5",
+  "cases_documented": 1,
+  "cases_placeholder": 1,
+  "case_references": [
+    {
+      "folder": "bixby_v_pierno_1971",
+      "cite": "Bixby v. Pierno (1971) 4 Cal.3d 130",
+      "type": "documented",
+      "key_holding": "CCP § 1094.5 standard of review — independent judgment applies where administrative decision substantially affects fundamental vested right"
+    },
+    {
+      "folder": "ccp_1094_5_standard_placeholder",
+      "cite": "DOCTRINAL PLACEHOLDER — CalVCB-specific standard of review",
+      "type": "placeholder",
+      "key_holding": "pending"
+    }
+  ],
+  "target_cases": [
+    "A25-10117946 (CalVCB application — judicial review pathway)"
+  ],
+  "priority": "HIGH — final escalation tool for A25-10117946",
+  "built_by": "Claude (CA_Victim_Compensation_Litigator) under steward direction — Michael Hartmann",
+  "built_at_utc": "2026-04-11T00:00:00Z",
+  "version": "v0.2.0-witnessed-by-herald",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

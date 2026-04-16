@@ -1,0 +1,46 @@
+{
+  "standard_id": "pen_code_1054_1_discovery",
+  "cite": "Pen. Code § 1054.1",
+  "short_name": "Prosecution Discovery Obligations (Brady/Giglio codification)",
+  "citizen": "CA_Criminal_Law_Specialist",
+  "layer_status": {
+    "statute_current": "COMPLETE — text.txt captured from leginfo via VernenLegal MCP 2026-04-11",
+    "context": "COMPLETE — six disclosure categories, Brady/Giglio overlay, Pitchess supplement, enforcement strategy, case #7 Brady demand items",
+    "historical_chain": "COMPLETE — pre-1990, Proposition 115, Brady 1963, Giglio 1972, Agurs 1976, Pitchess reform 2004",
+    "cross_refs": "COMPLETE — 10 cross-references including Brady and Giglio",
+    "case_law": "PARTIAL — 1 documented case (Brady v. Maryland, U.S.S.Ct.), 1 doctrinal placeholder (§ 1054.5 sanctions)",
+    "evolution_layer": "NOT YET BUILT",
+    "opinion_text": "NOT YET CAPTURED"
+  },
+  "five_layer_score": "3.5 / 5",
+  "cases_documented": 2,
+  "cases_placeholder": 0,
+  "case_references": [
+    {
+      "folder": "brady_v_maryland_1963",
+      "cite": "Brady v. Maryland (1963) 373 U.S. 83",
+      "type": "documented",
+      "key_holding": "Prosecution must disclose material favorable evidence; obligation is affirmative; applies regardless of good faith; materiality = reasonable probability of different outcome"
+    },
+    {
+      "folder": "people_v_kasim_1997",
+      "cite": "People v. Kasim (1997) 56 Cal.App.4th 1360",
+      "type": "documented",
+      "key_holding": "Brady violation — prosecution failed to disclose benefits given to accomplice-witnesses; habeas corpus granted; judgment reversed for new trial; materiality = reasonable probability of different outcome"
+    }
+  ],
+  "target_cases": [
+    "04-23-01959 (Criminal — Child Abuse, Contra Costa) — Brady demand and enforcement"
+  ],
+  "priority": "HIGH — pre-trial motion in active criminal case",
+  "built_by": "Claude (CA_Criminal_Law_Specialist) under steward direction — Michael Hartmann",
+  "built_at_utc": "2026-04-11T00:00:00Z",
+  "version": "v0.2.0-witnessed-by-herald",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

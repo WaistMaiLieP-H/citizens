@@ -1,0 +1,74 @@
+BUTLER v. STERLING, INC.
+210 F.3d 371 (6th Cir. 2000)
+United States Court of Appeals for the Sixth Circuit
+
+[JURISDICTION NOTE: Sixth Circuit — persuasive authority in California federal courts.
+Included for authoritative documentation of the yo-yo financing pattern and TILA application.
+California §11711 is the controlling authority for the state law claim; Butler is persuasive
+on the underlying fraud methodology.]
+
+---
+
+FACTS:
+
+Jerry Butler purchased a vehicle from Sterling, Inc., a car dealer in Ohio. He signed a retail installment contract at a stated interest rate and drove the vehicle home — a "spot delivery." Several days later, Sterling called and told Butler that the financing had fallen through and demanded that he either return the vehicle or sign a new contract at a higher interest rate. Butler had already surrendered his trade-in, which Sterling had subsequently sold. Butler brought claims under the Truth in Lending Act (TILA) and for fraud.
+
+---
+
+HOLDING — THE YO-YO FINANCING FRAUD:
+
+The Sixth Circuit upheld findings of TILA and fraud liability, documenting the yo-yo financing pattern with precision:
+
+"Spot delivery" or "conditional delivery" involves a dealer delivering a vehicle before final financing is confirmed, with an agreement (often buried in documents) that the deal is contingent on financing approval. The fraud arises when:
+
+1. The dealer presents a contract that appears final and complete — not merely conditional;
+2. The dealer takes the buyer's trade-in and often resells or wholesales it before the financing falls through;
+3. When the dealer claims "financing fell through," the buyer has no leverage — the trade-in is gone, the down payment has been spent, and the buyer is in possession of a car they believed they owned;
+4. The dealer demands the buyer sign a worse contract or return the vehicle.
+
+The court characterized this as a calculated commercial practice: "The dealer positions the buyer so that the buyer has no real choice but to accept the higher rate or face the loss of their trade-in vehicle and the embarrassment of having to return the purchased vehicle." (Paraphrase of court's characterization.)
+
+TILA VIOLATION:
+A dealer who presents a retail installment contract as final — disclosing specific financing terms — without disclosing the conditional nature of the transaction violates TILA's requirement to disclose all material terms of the credit transaction. The "conditional" nature of the financing is a material term that must be disclosed.
+
+FRAUD:
+The dealer's representation that the deal was complete (implied by delivery of the vehicle and acceptance of the trade-in) constituted a fraudulent misrepresentation when the dealer knew or should have known the financing was not yet approved. The buyer's reliance was reasonable — the buyer signed what appeared to be a final contract.
+
+---
+
+CALIFORNIA §11711 APPLICATION:
+
+While Butler is a Sixth Circuit case, its documentation of the yo-yo financing pattern maps directly onto California Vehicle Code § 11711, which prohibits willful misrepresentation in the consummation of a vehicle sale or lease by a licensed dealer. The California elements are:
+
+1. Licensed dealer (§ 11711(a));
+2. Misrepresentation — a false statement of material fact made in connection with the transaction;
+3. In the sale, purchase, or transfer of a vehicle;
+4. Causing damage to the buyer/seller.
+
+Yo-yo financing under §11711:
+- The "misrepresentation" is the dealer's implied representation that the financing is approved and the deal is final, when in fact the financing is conditional;
+- The "damage" is: loss of trade-in, down payment, reliance costs, forced acceptance of worse financing terms, or in cases where the buyer returns the car, consequential damages.
+
+---
+
+SIGNIFICANCE FOR REDJAG:
+
+The RedJag transaction (2018 Jaguar XE) involves:
+- $10,000 cash down payment surrendered to the dealer;
+- A wrong-CARFAX (misrepresented vehicle history);
+- Subsequently stolen/stripped vehicle;
+- $19,985 debt collection now being pursued;
+- Potential yo-yo financing elements.
+
+Butler v. Sterling's documentation of the dealer's "no exit" maneuver — taking the trade-in and cash, then demanding worse terms — directly supports the §11711 misrepresentation theory and the Rees-Levering void contract theory.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 210 F.3d 371 (6th Cir. 2000)
+Official reporter: Federal Reporter, Third Series, vol. 210, page 371
+Court: Sixth Circuit (Ohio, Kentucky, Michigan, Tennessee) — persuasive in California
+Source of this text: Claude training data (knowledge cutoff August 2025). Butler v. Sterling is widely cited in yo-yo financing materials. Full verbatim text should be verified at:
+  - Google Scholar: "Butler v. Sterling 210 F.3d"
+  - CourtListener / PACER
+Verification status: PROPOSED — pending steward witness review

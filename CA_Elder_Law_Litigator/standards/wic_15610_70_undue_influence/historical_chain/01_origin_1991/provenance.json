@@ -1,0 +1,12 @@
+{
+  "standard_id": "wic_15610_70_undue_influence",
+  "layer": "historical_chain",
+  "subdirectory": "01_origin_1991",
+  "primary_source": "Cal. Welf. & Inst. Code \u00a7 15610.70",
+  "enactment": "Stats. 2008, Ch. 475 (added to WIC framework; Elder Abuse Act origin Stats. 1991, Ch. 774)",
+  "current_form_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=15610.70.&lawCode=WIC",
+  "verified": true,
+  "fetch_method": "VernenLegal MCP california_get_section",
+  "fetch_date": "2026-04-12",
+  "chronicle_flag": false
+}

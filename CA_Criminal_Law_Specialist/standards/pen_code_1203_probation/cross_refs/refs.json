@@ -1,0 +1,61 @@
+{
+  "standard": "pen_code_1203_probation",
+  "last_updated": "2026-04-11",
+  "refs": [
+    {
+      "id": "REF-1203-001",
+      "target_code": "Penal Code § 1001.36",
+      "description": "Mental health diversion — primary alternative to conviction + probation. If § 1001.36 succeeds, § 1203 never applies. Cross-reference pen_code_1001_36_mental_health_diversion.",
+      "relationship": "preferred_alternative",
+      "direction": "out",
+      "internal_standard": "pen_code_1001_36_mental_health_diversion"
+    },
+    {
+      "id": "REF-1203-002",
+      "target_code": "Penal Code § 1001.95",
+      "description": "Misdemeanor diversion — primary alternative for M25-00758. If § 1001.95 succeeds, § 1203 never applies. Cross-reference pen_code_1001_95_misdemeanor_diversion.",
+      "relationship": "preferred_alternative",
+      "direction": "out",
+      "internal_standard": "pen_code_1001_95_misdemeanor_diversion"
+    },
+    {
+      "id": "REF-1203-003",
+      "target_code": "Penal Code § 1203.4",
+      "description": "Expungement after successful probation completion — after completing probation, defendant may petition to withdraw plea or set aside verdict. Available for § 273d if probation is completed successfully. Post-completion relief pathway.",
+      "relationship": "post_probation_relief",
+      "direction": "out"
+    },
+    {
+      "id": "REF-1203-004",
+      "target_code": "Penal Code § 1202.4",
+      "description": "Victim restitution — mandatory as a condition of probation. The probation officer report must address the amount of restitution. Where the 'victim' is the false accuser, restitution may be disputed or offset by counter-claims.",
+      "relationship": "mandatory_probation_condition",
+      "direction": "out"
+    },
+    {
+      "id": "REF-1203-005",
+      "target_code": "California Rules of Court, rule 4.414",
+      "description": "Criteria affecting probation — court rules listing factors to consider in granting or denying probation. Defense sentencing memo should address each factor in rule 4.414.",
+      "relationship": "procedural_rule",
+      "direction": "out"
+    },
+    {
+      "id": "REF-1203-006",
+      "target_code": "Penal Code § 1203.049",
+      "description": "Mental health treatment as condition of probation — court may impose mental health treatment as a probation condition. If diversion is unavailable, accepting a treatment condition is a pathway to reduced supervision and § 1203.4 expungement.",
+      "relationship": "probation_condition_option",
+      "direction": "out"
+    },
+    {
+      "id": "REF-1203-007",
+      "target_code": "Penal Code § 667.5(c)",
+      "description": "Violent felony list — § 1203(k) bars probation if defendant was on felony probation at time of new offense AND new offense is a violent or serious felony. Must verify defendant's current probation status.",
+      "relationship": "ineligibility_trigger",
+      "direction": "out"
+    }
+  ],
+  "internal_cross_refs": [
+    "pen_code_1001_36_mental_health_diversion",
+    "pen_code_1001_95_misdemeanor_diversion"
+  ]
+}

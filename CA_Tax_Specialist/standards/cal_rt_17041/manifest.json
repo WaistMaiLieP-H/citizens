@@ -1,0 +1,124 @@
+{
+  "standard_id": "CA_RTC_17041_INCOME_TAX",
+  "version": "0.2.0-verbatim-and-substance-audited",
+  "filed_at_utc": "2026-04-08T09:23:00Z",
+  "deepened_at_utc": "2026-04-08T11:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction \u2014 Michael Hartmann, Vernen Legal Compliance",
+  "status": "PROPOSED-DEEPENED-COMPACT \u2014 verbatim text extracted, brief substance audit completed. Standard is in an umbrella with INDIRECT relevance to the steward's case file; the audit is calibrated accordingly. Awaiting second-mouth countersignature.",
+  "build_context": "Originally built 2026-04-08 as part of the breadth-first umbrella seeding pass (Umbrella 14 Tax first occupant). Deepened later same day with verbatim text and brief substance audit via _deepen_remaining_manifests.py.",
+  "primary_citation": {
+    "jurisdiction": "California",
+    "code": "California Revenue and Taxation Code",
+    "section": "\u00a7 17041",
+    "popular_name": "Personal Income Tax \u2014 Imposition and Rate Schedule",
+    "current_codification_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=17041.&lawCode=RTC",
+    "current_form_local_artifact": "current/cal_rtc_17041_leginfo.html",
+    "verbatim_text_extracted_artifact": "current/cal_rtc_17041_leginfo.txt"
+  },
+  "structural_location": {
+    "division": "DIVISION 2. OTHER TAXES [6001 - 61050]",
+    "part": "PART 10. PERSONAL INCOME TAX [17001 - 18181]",
+    "part_history": "Part 10 added by Stats. 1943, Ch. 659 \u2014 California enacted the Personal Income Tax in 1943",
+    "chapter": "CHAPTER 2. Imposition of Tax [17041 - 17061]",
+    "chapter_history": "Chapter 2 repealed and added by Stats. 1955, Ch. 939",
+    "section_history": "Most recent amendment: Stats. 2010, Ch. 14, Sec. 5 (SB 401) Effective January 1, 2011. Note: Section was amended on June 8, 1982, by initiative Prop. 7 (different Prop 7 than the 1974 Constitutional one)"
+  },
+  "verbatim_summary": "Imposes the California Personal Income Tax with rate schedules for: (a) residents who are not heads of household, (b) nonresidents and part-year residents, (c) heads of household residents, (d) head-of-household nonresidents, (e) estates/trusts/common trust funds. Rate brackets range from 1% on income up to $3,650 to 9.3% on income over $23,950 (single filer base brackets, before annual inflation adjustment under (h)). Subdivision (h) requires annual inflation adjustment based on California CPI. Subdivision (i) defines 'taxable income of a nonresident or part-year resident' for nonresident calculations.",
+  "amendment_history_visible_on_leginfo": [
+    {
+      "year": 1943,
+      "stats": "Stats. 1943, Ch. 659",
+      "event": "Original enactment of California's Personal Income Tax (Part 10 of the Revenue and Taxation Code). California enacted the personal income tax during World War II."
+    },
+    {
+      "year": 1955,
+      "stats": "Stats. 1955, Ch. 939",
+      "event": "Chapter 2 (Imposition of Tax) repealed and re-added \u2014 major mid-century recodification"
+    },
+    {
+      "year": 1982,
+      "stats": "Initiative Prop. 7 (June 8, 1982)",
+      "event": "Amended by ballot initiative \u2014 DIFFERENT Prop 7 than the 1974 Constitutional rights Prop 7"
+    },
+    {
+      "year": 2010,
+      "stats": "Stats. 2010, Ch. 14, Sec. 5 (SB 401)",
+      "event": "Most recent amendment, effective January 1, 2011"
+    }
+  ],
+  "substance_audit": {
+    "purpose": "\u00a7 17041 is the operational core of the California personal income tax. Not directly steward-relevant unless his case touches tax compliance or refund issues.",
+    "audit_filed_at_utc": "2026-04-08T11:00:00Z",
+    "audit_filed_by": "Claude (assistant) at first-mouth level; steward review required",
+    "audit_items": [
+      {
+        "audit_id": "Residency determination",
+        "recommendation": "California vs nonresident vs part-year resident determinations are tax-consequential. Not currently steward-relevant",
+        "audit_status": "ROUTINE"
+      },
+      {
+        "audit_id": "Inflation adjustment mechanism",
+        "recommendation": "Subdivision (h) annual CPI-based bracket adjustment is administered by FTB; relevant for any historical tax-year reconstruction",
+        "audit_status": "ROUTINE"
+      },
+      {
+        "audit_id": "Stale rate brackets in statute",
+        "recommendation": "The base brackets in the statute are from a much earlier era (the $3,650-$23,950 base values). The actual current brackets are computed via the (h) inflation factor. Historical bracket reconstruction would require both the base brackets and the FTB's annual factor",
+        "audit_status": "OUTSTANDING"
+      }
+    ]
+  },
+  "umbrellas": [
+    "Tax (Umbrella 14) \u2014 primary"
+  ],
+  "owner_citizen": {
+    "primary": "CA_Tax_Specialist"
+  },
+  "triple_constraint_test_results": {
+    "governing_guidelines": {
+      "passes": true,
+      "evidence": "California Revenue and Taxation Code \u00a7 17041 located at official primary source; binding California authority confirmed; verbatim text extracted to current/cal_rtc_17041_leginfo.txt"
+    },
+    "standards_of_creation": {
+      "passes": true,
+      "evidence": "Section is well-formed and properly codified."
+    },
+    "standard_of_care": {
+      "passes": "PARTIAL",
+      "current_layer": "VERIFIED \u2014 current form fetched, hashed (sha256: 461ffc55d6d9c76ce2094707239a3c1a8c87cd37646f9fec0cfba7f16a5d2406), and verbatim-extracted",
+      "evolution_layer": "PARTIAL \u2014 amendment history captured at manifest level; primary-source amendment volumes not yet downloaded",
+      "origin_layer": "IDENTIFIED \u2014 original enactment recorded in amendment_history; primary-source not yet fetched"
+    }
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT \u2014 verbatim text extracted",
+    "reasoning": "PARTIAL \u2014 recorded in legislative findings where applicable",
+    "historical_loss": "OUTSTANDING",
+    "cross_references": "PARTIAL",
+    "verifiable_provenance": "PRESENT for current form; ABSENT for evolution and origin layers"
+  },
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction (Michael Hartmann), 2026-04-08",
+    "second_mouth_witness": "NONE \u2014 not yet countersigned",
+    "publishable_to_corpus": false,
+    "status": "PROPOSED-DEEPENED-COMPACT"
+  },
+  "files": {
+    "origin": [],
+    "evolution": [],
+    "current": [
+      "current/cal_rtc_17041_leginfo.html",
+      "current/cal_rtc_17041_leginfo.txt"
+    ],
+    "context": [],
+    "manifest": "manifest.json",
+    "provenance": "provenance.json"
+  },
+  "outstanding_work": [
+    "Locate and fetch primary-source statute volumes for the original enactment and key amendments",
+    "Document the historical-loss layer \u2014 what specific incidents drove the section's enactment",
+    "Fetch operative downstream sections in the same article/chapter as integrity-tracked HTML markers",
+    "Build cross-references to other Vernen corpus standards where applicable",
+    "Obtain second-mouth countersignature on the standard"
+  ]
+}

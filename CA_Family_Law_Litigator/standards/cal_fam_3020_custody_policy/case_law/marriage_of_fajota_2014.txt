@@ -1,0 +1,12 @@
+In re Marriage of Fajota
+230 Cal.App.4th 1487 (2014)
+California Court of Appeal, Third Appellate District, 2014
+
+FACTS:
+Post-dissolution custody proceeding in which one parent sought modification of custody and visitation. The trial court had balanced the § 3020(b) "frequent and continuing contact" preference against the § 3020(a) health, safety, and welfare primary concern, ultimately privileging contact over documented safety concerns.
+
+HOLDING — Family Code § 3020:
+The Court of Appeal reversed, holding that the trial court misapplied § 3020 by treating the frequent contact preference as co-equal with the health/safety/welfare primary concern. Section 3020 creates an explicit hierarchy: health, safety, and welfare are PRIMARY. Frequent and continuing contact is a secondary policy that must yield when it conflicts with the primary concern. The trial court's balancing approach improperly elevated contact to a co-equal priority.
+
+SIGNIFICANCE:
+Directly applies § 3020's hierarchical structure. The statute does not ask courts to balance safety against contact — it subordinates contact to safety. Any order that grants contact at the expense of documented safety concerns inverts the statutory hierarchy. Directly applicable when a family court order grants visitation or contact with a party despite documented DV, on the grounds that "the children need a relationship with both parents."

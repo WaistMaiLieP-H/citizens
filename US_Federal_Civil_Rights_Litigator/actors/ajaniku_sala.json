@@ -1,0 +1,11 @@
+{
+  "actor_id": "ajaniku_sala",
+  "shared_record": "${citizens}/_shared_actors/ajaniku_sala.json",
+  "domain": "US_Federal_Civil_Rights_Litigator",
+  "role": "§1983 defendant — state actor (court-connected mediator) who deprived steward of due process rights by issuing recommendation without verifiable professional qualifications",
+  "risk_level": "HIGH",
+  "applicable_standards": ["42_USC_1983", "28_USC_1343"],
+  "theory_of_liability": "Court-connected mediator whose recommendation was adopted by Judge Delucchi, reversing protective custody structure. ZERO verifiable professional credentials found. A person who holds no valid credential to perform the function cannot claim immunity for performing it. The recommendation was the proximate cause of the custody reversal.",
+  "immunity_analysis": "Court-connected mediators may claim quasi-judicial immunity. However: (1) credentialing void may pierce immunity — you cannot claim functional immunity for a function you were not qualified to perform; (2) Cal. Family Code §3164/§1815 requires master's degree + 2 years experience + DV training; (3) failure to meet statutory qualifications may remove the actor from the protected class entirely.",
+  "filed_at_utc": "2026-04-08T22:00:00Z"
+}

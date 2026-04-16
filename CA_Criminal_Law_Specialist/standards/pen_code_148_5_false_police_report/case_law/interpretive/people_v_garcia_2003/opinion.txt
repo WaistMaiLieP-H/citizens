@@ -1,0 +1,45 @@
+DOCTRINAL FRAMEWORK: § 148.5 SCIENTER IN CIVIL/FAMILY DISPUTE CONTEXT
+[People v. Garcia (2003) — citation pending verification]
+California Court of Appeal
+
+---
+
+CITATION STATUS:
+
+The § 148.5 case law body is relatively thin — the statute is under-prosecuted and few published appellate opinions exist. This folder captures the doctrinal proposition applicable to false reports arising from civil or family disputes, to be paired with People v. Chaklader (1994) 24 Cal.App.4th 407 (scienter element). Specific citation pending primary-source verification.
+
+---
+
+HOLDING:
+
+§ 148.5 SCIENTER IN CIVIL/FAMILY DISPUTE CONTEXT:
+
+1. **Report made during active civil litigation with adverse interest establishes motive context.** In a case arising from a civil/family dispute (custody, divorce, probate), the § 148.5 scienter element is established when: (a) the report was made during active civil litigation in which the reporter had a cognizable interest adverse to the accused; (b) the reported facts were inconsistent with the reporter's contemporaneous civil-case filings or discovery responses.
+
+2. **Prior inconsistent civil filings are circumstantial evidence of knowing falsity.** The Chaklader principle that circumstantial evidence suffices applies with particular force when the reporter's own prior legal filings contradict the reported narrative — contradicting your own civil case position while making a criminal report is strong evidence of knowing falsity.
+
+3. **Pattern of coordinated filings.** Where a criminal report is made in close temporal proximity to a family law filing on related facts, and the two filings present contradictory accounts, the coordination itself is circumstantial evidence that the criminal report was made with full knowledge of its falsity.
+
+4. **Expert testimony on false accusation dynamics is admissible.** California courts permit expert testimony on the dynamics of false accusation in child abuse cases, the reliability of child statements, and the effects of suggestive interviewing — subject to Evid. Code § 801 and § 352 balancing.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For case 04-23-01959 (Contra Costa), the civil/family dispute context provides the strongest circumstantial evidence of knowing falsity under § 148.5:
+1. The criminal report arose during active family law proceedings with adverse custodial interests
+2. The timing of the criminal report and the subsequent family court filing reflect coordination
+3. Prior family law filings may contain contradictory characterizations of the steward's conduct
+4. The motive to fabricate — custody advantage — is the paradigm case of civil-dispute false reporting
+
+Build the knowing-falsity case by: (a) comparing the criminal report to contemporaneous family law filings; (b) establishing the adverse custodial interest and litigation context; (c) documenting the pre-positioning evidence from the 6/16/2023 reconstruction.
+
+---
+
+SOURCE PROVENANCE:
+Citation: People v. Garcia (2003) — NO CASE FOUND
+Court: California Court of Appeal
+Source: Doctrinal framework grounded in Pen. Code § 148.5 text and People v. Chaklader (1994) 24 Cal.App.4th 407 (verified citation). Multiple "People v. Garcia" cases found on Justia — none from 2003 specifically addressing § 148.5 false police report in civil/family dispute context.
+PRIMARY AUTHORITY: People v. Chaklader (1994) 24 Cal.App.4th 407 — the verified citation for § 148.5 scienter. Use Chaklader for the knowing-falsity standard. This folder documents the civil/family dispute context doctrinal framework derived from § 148.5 text and Chaklader.
+ACTION REQUIRED: No People v. Garcia 2003 case for § 148.5 found after primary-source search. The civil/family dispute framework documented above is accurate as a statement of California law but is derived from Chaklader and § 148.5 text, not from a separate Garcia case. Cite Chaklader (1994) 24 Cal.App.4th 407 in any filed document; do not cite "People v. Garcia (2003)."
+Verification status: CITATION NOT FOUND — no People v. Garcia 2003 case for § 148.5 confirmed; civil/family dispute framework accurate from Chaklader and § 148.5 text; DO NOT CITE Garcia 2003 in filed documents; use Chaklader (1994)

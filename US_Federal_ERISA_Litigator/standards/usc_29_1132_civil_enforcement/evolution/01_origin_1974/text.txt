@@ -1,0 +1,38 @@
+29 U.S.C. § 1132 — Civil Enforcement (ERISA § 502)
+As enacted: Pub. L. 93-406, 88 Stat. 891 (September 2, 1974)
+
+(a) Persons empowered to bring a civil action.
+A civil action may be brought—
+(1) by a participant or beneficiary—
+  (A) for the relief provided for in subsection (c) of this section, or
+  (B) to recover benefits due to him under the terms of his plan, to enforce his rights
+      under the terms of the plan, or to clarify his rights to future benefits under the
+      terms of the plan;
+(2) by the Secretary, or by a participant, beneficiary or fiduciary for appropriate relief
+    under section 1109 of this title;
+(3) by a participant, beneficiary, or fiduciary—
+  (A) to enjoin any act or practice which violates any provision of this subchapter or
+      the terms of the plan, or
+  (B) to obtain other appropriate equitable relief (i) to redress such violations or
+      (ii) to enforce any provisions of this subchapter or the terms of the plan;
+
+(c)(1) Any administrator who fails to provide a statement of rights or who fails to meet
+disclosure requirements shall be personally liable to such participant or beneficiary in
+the amount of up to $100 per day from the date of such failure...
+
+(e) Jurisdiction.
+The district courts of the United States shall have exclusive jurisdiction of civil
+actions under this subchapter brought by the Secretary or by a participant, beneficiary,
+fiduciary, or any person referred to in section 1021(f)(1) of this title, irrespective
+of the amount in controversy or the citizenship of the parties...
+
+(f) Amount in controversy; citizenship of parties.
+The district courts of the United States shall have jurisdiction, without respect to the
+amount in controversy or the citizenship of the parties, to grant the relief provided for
+in subsection (a) of this section in any action...
+
+(g)(1) In any action under this subchapter (other than an action described in paragraph (2))
+by a participant, beneficiary, or fiduciary, the court in its discretion may allow a
+reasonable attorney's fee and costs of action to either party.
+
+Note: Original 1974 per-day civil penalty was $100 (later adjusted to $110 by regulation).

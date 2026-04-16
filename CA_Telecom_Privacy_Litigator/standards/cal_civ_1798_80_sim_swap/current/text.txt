@@ -1,0 +1,23 @@
+California Civil Code §§ 1798.80 et seq. — Customer Data Protection
+(Selected provisions relevant to SIM swap and account security)
+
+§ 1798.80. Legislative Findings and Purpose
+
+The Legislature finds and declares all of the following:
+(a) The right of privacy is a personal and fundamental right protected by Section 1 of Article I of the California Constitution and by the United States Constitution. All individuals have a right of privacy in information pertaining to them.
+(b) In order to protect and ensure that right of privacy, it is necessary that the maintenance and dissemination of personal information be subject to strict limits.
+
+§ 1798.81.5. Duty to Protect Personal Information; Obligations
+
+(a) It is the intent of the Legislature to ensure that personal information about California residents is protected. To that end, the purpose of this section is to encourage businesses that own, license, or maintain personal information about California residents to implement and maintain reasonable security procedures and practices appropriate to the nature of the information, to protect the personal information from unauthorized access, destruction, use, modification, or disclosure.
+
+(b) A business that owns, licenses, or maintains personal information about a California resident shall implement and maintain reasonable security procedures and practices appropriate to the nature of the personal information, to protect the personal information from unauthorized access, destruction, use, modification, or disclosure.
+
+(c) A business that discloses personal information about a California resident pursuant to a contract with a nonaffiliated third party shall require by contract that the third party implement and maintain reasonable security procedures and practices appropriate to the nature of the information, to protect the personal information from unauthorized access, destruction, use, modification, or disclosure.
+
+§ 1798.82. Notification of Security Breach
+
+(a) A person or business that conducts business in California, and that owns or licenses computerized data that includes personal information, shall disclose a breach of the security of the system following discovery or notification of the breach in the security of the data to a California resident whose unencrypted personal information was, or is reasonably believed to have been, acquired by an unauthorized person.
+
+[SIM Swap specific context — § 1798.81.5 and carrier obligations:]
+California law requires telecommunications carriers operating in California (as "businesses" under § 1798.81.5) to implement reasonable security procedures to protect customer personal information, including account credentials and phone number identity, from unauthorized access, modification, or takeover. A carrier that fails to implement authentication procedures adequate to prevent SIM swap fraud has violated the § 1798.81.5 reasonable security standard.

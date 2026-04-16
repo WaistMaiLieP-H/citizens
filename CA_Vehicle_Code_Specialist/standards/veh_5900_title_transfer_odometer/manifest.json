@@ -1,0 +1,13 @@
+{
+  "standard_id": "veh_5900_title_transfer_odometer",
+  "authority": "Cal. Veh. Code \u00a75900; 49 USC \u00a732705",
+  "status": "PUBLISHED",
+  "content_hash": "ea5e8dc4",
+  "build_date": "2026-04-12",
+  "terminal": "Terminal B",
+  "citizen": "CA_Vehicle_Code_Specialist",
+  "verified": true,
+  "adam_signal": "APPROVE",
+  "eve_signal": "COUNTERSIGN",
+  "witness_date": "2026-04-12"
+}

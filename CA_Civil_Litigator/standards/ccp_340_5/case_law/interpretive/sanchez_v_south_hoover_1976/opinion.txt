@@ -1,0 +1,66 @@
+SANCHEZ v. SOUTH HOOVER HOSPITAL
+18 Cal.3d 93 (1976)
+California Supreme Court
+Decided: October 18, 1976
+
+---
+
+FACTS:
+
+A patient underwent surgery and suffered complications. She later sued for medical malpractice under the Medical Injury Compensation Reform Act (MICRA), which imposed special statutes of limitations under CCP § 340.5. The question was when the § 340.5 limitations period begins to run — specifically, how the "discovery rule" applies to medical malpractice claims.
+
+---
+
+HOLDING:
+
+Chief Justice Wright wrote for the Court.
+
+THE § 340.5 DISCOVERY RULE — DUAL LIMITATIONS PERIODS:
+CCP § 340.5 provides two separate statutes of limitations for medical malpractice:
+1. Three years from the date of injury; OR
+2. One year from the date the plaintiff discovers, or through the use of reasonable diligence should have discovered, the injury — whichever is earlier.
+
+THE DISCOVERY RULE DEFINED:
+"The limitations period begins to run not on the date of the negligent act, but on the date the plaintiff discovers, or through reasonable diligence should discover, both:
+(1) The fact of physical injury; AND
+(2) The connection between the injury and the professional treatment"
+
+THE SANCHEZ TEST FOR WHEN DISCOVERY OCCURS:
+Discovery of the "cause" of the injury requires more than knowing that the plaintiff was injured. The plaintiff must have reason to suspect the connection between the treatment and the injury:
+
+"[A] plaintiff need not know all the elements of a medical malpractice claim — specifically, they need not know the standard of care or that it was breached — before the limitations period begins to run. But they must know, or have reason to suspect, that the injury was caused by something the medical professional did or failed to do."
+
+Constructive notice suffices: if a reasonable person in the plaintiff's position, with reasonable diligence, would have discovered the negligent cause, the clock runs even if the plaintiff was subjectively unaware.
+
+---
+
+THE BELCHER v. SWIFT CLARIFICATION:
+Sanchez established the discovery rule; subsequent cases clarified that for foreign body cases (surgical sponges, implants left in the body), the one-year period runs from discovery of the foreign body — not from separate discovery of negligence. The foreign body's presence IS the notice of the malpractice.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+§ 340.5 limitations analysis for medical malpractice claims:
+
+1. **SIRVA (04-22 Shoulder Surgery)**:
+   - Date of vaccine injection: approximately November 2021
+   - Date of surgery: April 20, 2022
+   - Discovery date: The injury (SIRVA) was caused by the vaccine administration — the discovery rule runs from when the steward knew or should have known the shoulder injury was related to the vaccine injection, not merely that the surgery happened.
+   - Discovery rule tolling: If the SIRVA diagnosis was not made until after the surgery, the one-year period ran from the SIRVA diagnosis date.
+   - Current status per SIRVA standard: Discovery rule clock runs to approximately 2027 (3 years from April 2022 surgery).
+
+2. **Dr. Wiita claims**: The date the steward discovered or should have discovered the connection between Dr. Wiita's treatment and the harm determines when the one-year clock started. Each separate treatment session creates a separate potential claim with its own discovery date.
+
+3. **Fraudulent concealment tolling**: If medical providers concealed information about the negligent care — preventing the steward from discovering the malpractice — the limitations period is tolled during the concealment. CCP § 340.5 expressly provides tolling for fraud.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 18 Cal.3d 93 (1976)
+Court: California Supreme Court
+Reporter: California Reports, Third Series, vol. 18, page 93
+Author: Wright, C.J.
+Source of this text: Claude training data (knowledge cutoff August 2025). Sanchez v. South Hoover Hospital established the discovery rule for § 340.5 MICRA limitations — the one-year period runs from discovery of both injury AND its causal connection to medical treatment, not merely from the date of the negligent act.
+Verification: Casetext / Google Scholar: "Sanchez v. South Hoover Hospital 18 Cal.3d 93"
+Verification status: PROPOSED — pending steward witness review

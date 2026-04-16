@@ -1,0 +1,25 @@
+{
+  "case_id": "common_cause_v_board_of_supervisors_1989",
+  "full_citation": "Common Cause v. Board of Supervisors, 49 Cal.3d 432 (1989)",
+  "parallel_citations": ["261 Cal.Rptr. 574", "777 P.2d 610"],
+  "court": "California Supreme Court",
+  "decided": "1989-08-07",
+  "category": "interpretive",
+  "sources": [
+    {
+      "name": "Justia",
+      "url": "https://law.justia.com/cases/california/supreme-court/3d/49/432.html"
+    },
+    {
+      "name": "Casetext",
+      "url": "https://casetext.com/case/common-cause-v-board-of-supervisors"
+    },
+    {
+      "name": "Google Scholar",
+      "url": "https://scholar.google.com/scholar_case?case=3891506068498263401"
+    }
+  ],
+  "verification_status": "pending_primary_source_confirmation",
+  "filed_at_utc": "2026-04-08T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction -- Michael Hartmann, Vernen Legal Compliance"
+}

@@ -1,0 +1,24 @@
+{
+  "investigation_id": "alameda_solano_fee_waiver_filing_error",
+  "title": "Document and obtain the 2025 fee waiver 'filing error' that blocked the Alameda \u2192 Solano transfer",
+  "question": "What was the specific 'filing error' on Michael's fee waiver in 2025 that prevented the transfer from Alameda to Solano? Was the error his, the court's, or the clerk's? What were the consequences?",
+  "context": "Per project_familylaw_orchestration.md, the 2025 jurisdictional trap involved a fee waiver 'filing error' that blocked the transfer from Alameda to Solano. Alameda bounced Michael to Solano; Solano said no transfer received. Christina then took Cole and went to Marin. The fee waiver issue was structurally critical to the jurisdictional flip.",
+  "unblock_path": "Request from Alameda County Superior Court: the fee waiver application Michael filed in 2025; any clerk-generated rejection or correction notice; any internal memo about the error. Cross-reference against the dates of the dismissal (6/25/2025) and the transfer.",
+  "who_can_answer": "Alameda County Superior Court clerk's office",
+  "related_actors": [],
+  "related_cases": [
+    "25FL122591",
+    "RF10508853"
+  ],
+  "related_standards": [],
+  "priority": "HIGH",
+  "status": "READY_TO_SEND",
+  "filed_at_utc": "2026-04-08T19:25:00Z",
+  "prepared_on": "2026-04-15",
+  "deliverables": [
+    "outstanding_investigations/08_alameda_solano_fee_waiver_filing_error/deliverables/outgoing_request.md",
+    "outstanding_investigations/08_alameda_solano_fee_waiver_filing_error/deliverables/recipient_routing.md",
+    "outstanding_investigations/08_alameda_solano_fee_waiver_filing_error/deliverables/response_tracker.md"
+  ],
+  "mailing_execution_status": "READY_TO_PRINT"
+}

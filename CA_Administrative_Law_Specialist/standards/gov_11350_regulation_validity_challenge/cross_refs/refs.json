@@ -1,0 +1,47 @@
+{
+  "standard_id": "gov_11350_regulation_validity_challenge",
+  "citizen": "CA_Administrative_Law_Specialist",
+  "build_date": "2026-04-13",
+  "cross_references": [
+    {
+      "ref_id": "XREF-11350-001",
+      "target_citizen": "CA_Administrative_Law_Specialist",
+      "target_standard": "gov_11340_apa_purpose",
+      "path": "${citizens}/CA_Administrative_Law_Specialist/standards/gov_11340_apa_purpose/",
+      "relationship": "prerequisite",
+      "note": "GOV §11340 documents the legislative findings that justify §11350's existence — unprecedented regulatory growth, unclear language, unnecessary burden. §11340 is the 'why' for the rulemaking process that §11350 enforces."
+    },
+    {
+      "ref_id": "XREF-11350-002",
+      "target_citizen": "CA_Administrative_Law_Specialist",
+      "target_standard": "ccp_1094_5_administrative_mandamus",
+      "path": "${citizens}/CA_Administrative_Law_Specialist/standards/ccp_1094_5_administrative_mandamus/",
+      "relationship": "parallel",
+      "note": "§11350 (regulation validity) and §1094.5 (adjudicative decision validity) are parallel but distinct vehicles. §11350 invalidates the regulation for everyone; §1094.5 reverses the decision in the specific case. Often both are available and complementary."
+    },
+    {
+      "ref_id": "XREF-11350-003",
+      "target_citizen": "CA_Victim_Compensation_Litigator",
+      "target_standard": "gov_13950_calvcb_framework",
+      "path": "${citizens}/CA_Victim_Compensation_Litigator/standards/gov_13950_calvcb_framework/",
+      "relationship": "application",
+      "note": "CalVCB shortened deadlines: if imposed by regulation without APA rulemaking compliance, §11350 is the vehicle for systemic challenge. The rulemaking file (§11347.3) is the evidence; missing required elements under §11350(d)(3) prove the APA failure."
+    },
+    {
+      "ref_id": "XREF-11350-004",
+      "target_citizen": "CA_Insurance_Compliance_Litigator",
+      "target_standard": "ins_790_03_unfair_claims",
+      "path": "${citizens}/CA_Insurance_Compliance_Litigator/standards/ins_790_03_unfair_claims/",
+      "relationship": "parallel",
+      "note": "CDI and DMHC regulations governing unfair claim practices: if adopted without APA compliance, §11350 declaratory relief is available. The CA_Administrative_Law_Specialist owns the §11350 vehicle; the CA_Insurance_Compliance_Litigator owns the substantive insurance law."
+    },
+    {
+      "ref_id": "XREF-11350-005",
+      "target_citizen": "CA_Administrative_Law_Specialist",
+      "target_standard": "gov_11513_apa_hearing_procedures",
+      "path": "${citizens}/CA_Administrative_Law_Specialist/standards/gov_11513_apa_hearing_procedures/",
+      "relationship": "concurrent",
+      "note": "§11513 governs the hearing at which the validity challenge is litigated. If a §11350 declaratory relief action goes to hearing, §11513's evidentiary rules apply to that hearing as well."
+    }
+  ]
+}

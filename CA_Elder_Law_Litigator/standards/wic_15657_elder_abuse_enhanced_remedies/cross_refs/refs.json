@@ -1,0 +1,52 @@
+{
+  "standard_id": "wic_15657_elder_abuse_enhanced_remedies",
+  "citizen": "CA_Elder_Law_Litigator",
+  "layer": "cross_refs",
+  "generated": "2026-04-12",
+  "internal_refs": [
+    {
+      "id": "wic_15610_30_financial_abuse_def",
+      "path": "${citizens}/CA_Elder_Law_Litigator/standards/wic_15610_30_financial_abuse_def",
+      "relationship": "Companion statute \u2014 financial abuse definition; \u00a715657 covers physical abuse while \u00a715657.5 covers financial abuse defined in \u00a715610.30"
+    },
+    {
+      "id": "wic_15657_5_financial_abuse_remedies",
+      "path": "${citizens}/CA_Elder_Law_Litigator/standards/wic_15657_5_financial_abuse_remedies",
+      "relationship": "Parallel enhanced remedies for financial abuse; \u00a715657.5 has LOWER threshold (preponderance for attorney fees vs. C&C + recklessness here)"
+    },
+    {
+      "id": "prob_859_double_damages",
+      "path": "${citizens}/CA_Elder_Law_Litigator/standards/prob_859_double_damages",
+      "relationship": "Supplemental remedy \u2014 double damages for bad-faith financial abuse; stacks with \u00a715657 remedies"
+    }
+  ],
+  "external_refs": [
+    {
+      "id": "civ_3333_2_micra_cap",
+      "path": "${citizens}/CA_Medical_Malpractice_Litigator/standards/civ_3333_2_micra_cap",
+      "relationship": "\u00a715657(b) preserves the \u00a73333.2 MICRA cap \u2014 must analyze whether healthcare provider defendant triggers MICRA; see Medical Malpractice Citizen for full MICRA analysis"
+    },
+    {
+      "id": "civ_3294_punitive_damages",
+      "path": "${citizens}/CA_Civil_Litigator/standards/civ_3294_punitive_damages",
+      "relationship": "\u00a715657(c) employer liability uses \u00a73294(b) managing agent standard \u2014 same standard as general punitive damages employer liability"
+    },
+    {
+      "id": "ccp_377_34_survival",
+      "path": "${citizens}/CA_Civil_Litigator/standards/ccp_377_34_survival",
+      "relationship": "\u00a715657(b) removes this cap \u2014 cross-reference to understand what the removal achieves"
+    }
+  ],
+  "case_law": [
+    {
+      "citation": "Delaney v. Baker, 20 Cal.4th 23 (1999)",
+      "holding": "Recklessness standard applies to professional caretakers; systemic understaffing = recklessness; enhanced remedies available against nursing facilities",
+      "significance": "Landmark \u2014 extended \u00a715657 to institutional defendants; set recklessness standard still used today"
+    },
+    {
+      "citation": "Carter v. Prime Healthcare Paradise Valley LLC, 198 Cal.App.4th 396 (2011)",
+      "holding": "Hospital liable under \u00a715657 for neglect of elderly patient; mandatory attorney fees affirmed",
+      "significance": "Confirmed post-Delaney application to hospital settings"
+    }
+  ]
+}

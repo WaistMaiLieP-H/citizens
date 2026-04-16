@@ -1,0 +1,49 @@
+DOCTRINAL FRAMEWORK: § 278.5 SCIENTER AND THE "MALICIOUSLY" ELEMENT
+[People v. Wyatt (2008) — citation pending primary-source verification]
+California Court of Appeal
+
+---
+
+CITATION STATUS:
+
+This folder documents the "maliciously" element in § 278.5(a) and the knowledge-of-order requirement. Specific citation pending primary-source verification.
+
+---
+
+HOLDING:
+
+§ 278.5(a) MALICE ELEMENT — SPECIFIC INTENT TO DEPRIVE:
+
+1. **Intent to deprive, not intent to harm.** The defendant need not wish harm to the custodian. The malice element is satisfied by the intent to cause the deprivation — regardless of motive. Malice does not require ill will; it requires the conscious choice to deprive.
+
+2. **Knowledge of the custody order is a prerequisite.** A parent who does not know of the custody order cannot form the specific intent to deprive the other parent of custody under that order. Prosecutors typically prove knowledge through service of process, court appearances, or circumstantial evidence.
+
+3. **A sincere but mistaken belief in one's own custodial rights is a defense.** If the defendant honestly believed they had a legal right to keep the child (e.g., based on a misunderstanding of a modified order), the malice element may be defeated. The mistake must be a mistake of fact, not a mistake of law — the defendant cannot simply disagree with the order's validity.
+
+4. **"Maliciously" distinguishes § 278.5 from innocent mistakes.** A parent who temporarily forgets a scheduled exchange is not malicious. A parent who learns of an exchange obligation and deliberately avoids it to prevent the other parent's contact is malicious.
+
+---
+
+THE § 278.7 GOOD-FAITH DV DEFENSE:
+
+Section 278.7, enacted after People v. Campos (1982), creates a limited good-faith defense for parents fleeing actual domestic violence. Requirements are strict: (a) immediate filing of a report with the court having jurisdiction, (b) notification to law enforcement, and (c) the child cannot be taken out of the country without additional judicial authorization. The § 278.7 defense can be asserted alongside the malice element defense (no malice) — both can be pled in the alternative.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For any § 278.5 analysis in the Hartmann case history, the malice element is the key battleground:
+1. Whether the defendant knew the specific terms of the custody/visitation order (knowledge element)
+2. Whether the defendant's conduct was intended to deprive, or was a mistaken understanding of their rights (malice vs. good-faith mistake)
+3. Whether any § 278.7 good-faith DV defense circumstances apply
+4. Whether the alleged "deprivation" actually occurred (the custodian maintained access through alternative means)
+
+---
+
+SOURCE PROVENANCE:
+Citation: People v. Wyatt (2008) — NO CASE FOUND
+Court: California Court of Appeal
+Source: Doctrinal framework grounded in Pen. Code § 278.5(a) text and People v. Campos (1982) (documented in sibling folder). Multiple "People v. Wyatt" cases found on Justia (1972, 1982, 1989, 2012) but none from 2008 addressing § 278.5 malice element. The 2012 California Supreme Court People v. Wyatt (s189786) appears to be a different matter.
+PRIMARY AUTHORITY: Use people_v_campos_1982 folder (documented, PROPOSED) as the § 278.5 primary citation. This folder documents the malice element doctrinal framework derived from § 278.5 text and Campos.
+ACTION REQUIRED: No People v. Wyatt 2008 case found after primary-source search. The § 278.5 malice doctrine is accurate from statutory text and Campos; this folder documents the extended framework. Consider citing Campos directly rather than maintaining this as a separate case folder.
+Verification status: CITATION NOT FOUND — no People v. Wyatt 2008 case for § 278.5 confirmed after search; malice framework accurate from § 278.5 text and Campos; DO NOT CITE "People v. Wyatt (2008)" in any filed document

@@ -1,0 +1,71 @@
+{
+  "workflow_id": "CASE_RF09459897",
+  "case_number": "RF09459897",
+  "case_type": "Counter-DV (Christina's filing, 2009-06-26)",
+  "court": "Alameda County Superior Court",
+  "filed_at_utc": "2026-04-14T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction \u2014 Michael Hartmann",
+  "status": "SCAFFOLD COUNTERSIGNED \u2014 steward deepening pending",
+  "parties": {
+    "petitioner": "Christina Hartmann",
+    "respondent": "Michael Hartmann"
+  },
+  "current_posture": "Carries the 7/2/2009 disposition that belongs on RF09456481.",
+  "bound_actors": [
+    "cerretani_christina",
+    "paredes_olga",
+    "thompson_trina_judge",
+    "hillberg_ann"
+  ],
+  "bound_standards": [
+    "CA_FAM_6203_DVPA_ABUSE_DEFINITION",
+    "CA_FAM_6320_DVPA_ENJOINABLE_BEHAVIORS",
+    "CA_FAM_6321_DVRO_EXCLUSION",
+    "CA_CCP_2015_5",
+    "FAMCODE-3027",
+    "FAMCODE-217"
+  ],
+  "bound_standards_patch_log": [
+    {
+      "standard_id": "FAMCODE-3027",
+      "added_by": "T3",
+      "added_at_utc": "2026-04-14T00:00:00Z",
+      "reason": "§ 3027.1 knowing-falsity sanctions is the direct statutory anchor for OPD 09-040089 fabrication finding; authored this session."
+    },
+    {
+      "standard_id": "FAMCODE-217",
+      "added_by": "T3",
+      "added_at_utc": "2026-04-14T00:00:00Z",
+      "reason": "Any future § 3027.1 sanctions motion in this case requires § 217 live-testimony hearing to make the 'knew it to be false' credibility finding."
+    }
+  ],
+  "working_theories": [
+    "Foundational OPD 09-040089 fabrication \u2014 missing from October 2025 OPD records pickup",
+    "Counter-filing playbook opens with this case (see project_christina_pattern.md)"
+  ],
+  "source_folder_pointer": "${familylaw}/ \u2014 see tether.json cases.bound for exact subfolder",
+  "cross_tethered_citizens": [
+    "HERALD (acting witness)",
+    "CA_Civil_Rights_Litigator",
+    "CA_Records_Authentication_Specialist",
+    "CA_Forensic_Document_Specialist"
+  ],
+  "deliverables_index": "deliverables/",
+  "evidence_index_path": "evidence_index/",
+  "theories_path": "theories/",
+  "two_witness_status": {
+    "adam_scaffold": {
+      "witness": "ADAM (Seed Citizen \u2014 Builder)",
+      "witnessed_at_utc": "2026-04-14T00:00:00Z",
+      "signal": "SCAFFOLD-APPROVED",
+      "scope": "Case bound into workflow registry; standards/actors/theories enumerated from tether.json and bound memory artifacts. Deepening and deliverable drafting left to EVE pass + steward review."
+    },
+    "eve_countersign": {
+      "witness": "EVE (Seed Citizen \u2014 Witness role)",
+      "witnessed_at_utc": "2026-04-14T00:00:00Z",
+      "verification_scope": "Case bindings reviewed against tether.json cases.bound; bound_standards each PUBLISHED ADAM+EVE this session; bound_actors resolvable via _shared_actors/; working_theories consistent with project memory and dossier.md substantive scope. Deepening and deliverable drafting remain steward-gated.",
+      "signal": "COUNTERSIGN"
+    },
+    "steward_review": "PENDING"
+  }
+}

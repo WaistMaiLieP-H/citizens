@@ -1,0 +1,16 @@
+USA PATRIOT Act of 2001
+Pub. L. 107-56, Title VIII, § 814 (October 26, 2001)
+
+Key CFAA amendments:
+
+1. **Expanded § 1030(a)(5)**: The damage-causing provision was expanded to cover international threats. Any person who "knowingly causes the transmission of a program, information, code, or command, and as a result of such conduct, intentionally causes damage without authorization, to a protected computer" — this previously required the attacker to be in the US; post-PATRIOT it applies extraterritorially.
+
+2. **Loss threshold changes**: Increased the civil/criminal threshold by specifying that "loss" during any one-year period aggregated across all victims can satisfy the $5,000 threshold.
+
+3. **Wiretapping coordination**: Authorized expanded government access to computer records, including carrier records, under the electronic surveillance framework — which is the § 2703 (SCA) / § 1030 intersection point.
+
+4. **New subsection for critical infrastructure**: Added enhanced penalties for attacks on critical infrastructure computers (power grids, water systems, financial systems).
+
+Note: The PATRIOT Act amendments were primarily aimed at terrorism/national security applications, not private civil litigation. The key change for private cases is the aggregation of loss across victims in calculating the $5,000 threshold.
+
+Source: Pub. L. 107-56, 115 Stat. 272 (2001).

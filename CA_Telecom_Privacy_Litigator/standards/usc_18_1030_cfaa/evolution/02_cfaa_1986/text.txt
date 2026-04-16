@@ -1,0 +1,18 @@
+Computer Fraud and Abuse Act of 1986
+Pub. L. 99-474, 100 Stat. 1213 (October 16, 1986)
+
+Major expansion of § 1030:
+
+Added § 1030(a)(4): "knowingly and with intent to defraud, accesses a Federal interest computer without authorization, or exceeds authorized access, and by means of such conduct furthers the intended fraud and obtains anything of value, unless the object of the fraud and the thing obtained consists only of the use of the computer."
+
+Added § 1030(a)(5): unauthorized access + intentional damage to a computer. First damage provision.
+
+Added § 1030(a)(6): trafficking in computer access codes or passwords.
+
+Key structural change: Introduced the "exceeds authorized access" prong — covering not only outsiders who access without any authorization, but insiders who have some authorization but exceed it. This distinction (without authorization vs. exceeds authorized access) becomes the central interpretive battleground in Van Buren v. United States (2021).
+
+Also: renamed from "Counterfeit Access Device and Computer Fraud and Abuse Act" to simply "Computer Fraud and Abuse Act" (CFAA).
+
+Penalty enhancement: increased maximum from 1 year to 5 years for financial fraud violations.
+
+Source: Pub. L. 99-474, 100 Stat. 1213 (1986).

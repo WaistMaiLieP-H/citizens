@@ -1,0 +1,19 @@
+29 U.S.C. § 1053 — Amendment by Economic Growth and Tax Relief Reconciliation Act of 2001
+Pub. L. 107-16, 115 Stat. 38 (June 7, 2001)
+
+EGTRRA 2001 added accelerated vesting schedules for EMPLOYER MATCHING CONTRIBUTIONS to
+defined-contribution plans (401(k) and similar):
+
+For employer matching contributions:
+- 3-YEAR CLIFF: 100% vested after 3 years of service (0% before year 3)
+- 2-6 YEAR GRADED:
+    2 years = 20%
+    3 years = 40%
+    4 years = 60%
+    5 years = 80%
+    6 years = 100%
+
+These accelerated schedules apply specifically to employer matching contributions.
+Standard pension accrual benefits continue to use the 1986 TRA schedules (5-year cliff / 3-7 year graded).
+
+Multiemployer plans were not affected by EGTRRA's matching contribution changes.

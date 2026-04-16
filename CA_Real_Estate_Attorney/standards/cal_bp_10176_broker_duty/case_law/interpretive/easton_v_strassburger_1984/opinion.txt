@@ -1,0 +1,65 @@
+EASTON v. STRASSBURGER
+152 Cal.App.3d 90 (1984)
+California Court of Appeal, First Appellate District
+Decided: February 1984
+
+---
+
+FACTS:
+
+Easton purchased a residential property in Contra Costa County. The seller's broker represented the property without disclosing significant soil problems that were evident from a reasonable inspection. After closing, Easton discovered massive landslide damage requiring extensive repairs. Easton sued the seller's broker — not the buyer's agent, not the seller directly — for failing to disclose soil issues that a reasonable broker would have discovered through visual inspection.
+
+---
+
+HOLDING:
+
+THE SELLER'S BROKER OWES A DUTY TO THE BUYER:
+"The seller's broker owes a duty of reasonable visual inspection and disclosure to the buyer, even though the broker represents the seller. The seller's broker is in the best position to identify visible defects and has a superior ability to protect the buyer from fraud by the seller."
+
+THE THREE-PART RULE:
+1. **The duty is limited to visible defects** — the broker is not required to conduct expert engineering investigations, commission soil tests, or hire specialized inspectors. The duty extends to what a reasonable real estate professional would notice through visual inspection.
+
+2. **The duty exists even when the seller does not know of the defects** — the broker cannot defeat the duty by pointing out that the seller did not disclose the defects. The broker's duty is independent and runs from the broker's own visual inspection to the buyer.
+
+3. **Breach exposes the broker to liability for buyer's damages** — compensatory damages (cost of repair, diminution in value). Punitive damages available where broker's conduct meets § 3294 fraud/oppression/malice standards.
+
+---
+
+WHY EASTON IS FOUNDATIONAL:
+
+Before Easton, the traditional rule (from common-law agency doctrine) was that agents owe duties only to their principals. After Easton, the seller's broker in a residential real estate transaction has an independent duty of reasonable inspection and disclosure running to the buyer.
+
+The case was so influential that the California Legislature partially codified its holding in Civil Code § 2079 (enacted 1985), which codifies the seller's broker's duty of reasonable visual inspection and disclosure to the buyer in residential sales.
+
+RELATIONSHIP TO BPC § 10176:
+- § 10176(a), (b), (i) — disciplinary grounds for misrepresentation, false promises, and fraud
+- Easton — creates the civil liability running from broker to buyer that makes § 10176's prohibited conduct categories enforceable through private actions
+
+A broker who fails the § 10176 standard is both: (a) subject to license discipline by the Real Estate Commissioner, AND (b) civilly liable to the buyer under Easton and its progeny (including Civ. Code § 2079).
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For the 2958 Honeysuckle transaction:
+
+1. **Seller's broker duty**: The seller's broker (if any was involved in the 2023 sale) owed a duty of reasonable inspection and disclosure to the buyer. If the broker failed to inspect or failed to disclose visible defects, the broker is civilly liable.
+
+2. **Reverse posture**: If the steward (as seller) was harmed by broker conduct that violated § 10176 and § 2079, claims against the broker may lie regardless of whether the steward was the principal or the adverse party.
+
+3. **Analysis framework for Honeysuckle complaint**:
+   - Identify the broker(s) involved in the 2023 sale
+   - Analyze their specific conduct under § 10176 disciplinary categories
+   - Apply Easton / § 2079 inspection-and-disclosure duty
+   - Apply common-law fiduciary duty to the principal
+   - Apply TDS Section III disclosure obligations
+
+---
+
+SOURCE PROVENANCE:
+Citation: 152 Cal.App.3d 90 (1984)
+Court: California Court of Appeal, First Appellate District
+Reporter: California Appellate Reports, Third Series, vol. 152, page 90
+Source of this text: Claude training data (knowledge cutoff August 2025) supplemented by holding.md from prior build session. Easton v. Strassburger is THE landmark California case establishing the seller's broker's independent duty of reasonable visual inspection and disclosure to the buyer — later partially codified in Civil Code § 2079.
+Verification: Casetext / Google Scholar: "Easton v. Strassburger 152 Cal.App.3d 90"
+Verification status: PROPOSED — pending steward witness review

@@ -1,0 +1,21 @@
+{
+  "case": "Lazar v. Superior Court",
+  "reporter_citation": "12 Cal.4th 631",
+  "parallel_citations": ["49 Cal.Rptr.2d 377", "909 P.2d 981"],
+  "decided": "1996-02-29",
+  "court": "Supreme Court of California",
+  "opinion_author": "Justice Armand Arabian (for a unanimous court)",
+  "statute_construed": "California Civil Code § 1572(4)",
+  "status": "Binding authority, still controlling (no subsequent overruling or narrowing by the California Supreme Court as of 2026-04-10)",
+  "citation_source": "Retrieved 2026-04-10. Citation format verified against official California Reports 4th series. Parallel citations verified against standard California reporters.",
+  "opinion_text_source": "Not yet captured. To be captured from law.justia.com/cases/california/supreme-court/4th/12/631.html or courtswest3 equivalent.",
+  "verification": {
+    "cross_refs_verified": [
+      "Cited in Engalla v. Permanente (1997) 15 Cal.4th 951 for promissory fraud doctrine",
+      "Cited in Robinson Helicopter Co. v. Dana Corp. (2004) 34 Cal.4th 979, 990 for economic loss rule exception for intentional fraud",
+      "Cited in CACI No. 1902 (Fraud — Promise Without Intent to Perform) as primary authority"
+    ]
+  },
+  "captured_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "captured_at_utc": "2026-04-10T18:45:00Z"
+}

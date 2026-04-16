@@ -1,0 +1,17 @@
+CALIFORNIA FAMILY CODE § 1102 (as recodified 1994)
+Civil Code § 5127 → Family Code § 1102
+
+SOURCE: Stats. 1992, ch. 162 (AB 1650) — Family Code; effective January 1, 1994
+REQUIRES_PRIMARY_SOURCE_VERIFICATION.
+
+Current Family Code § 1102 is substantively identical to Civil Code § 5127 (post-1975) with these structural additions:
+
+(a): Core equal-management + joint-execution requirement (preserved from § 5127)
+(b): Exception for spouse-to-spouse transactions (new explicit exception)
+(c): Good-faith purchaser rule — now with explicit subsections for pre-1975 (husband-only rule preserved for historical transactions) and post-1975 (either-spouse rule)
+(d): One-year SOL for actions to void instruments affecting record-title property
+(e): Exception allowing either spouse to encumber their own community property interest to pay attorney's fees in dissolution proceedings
+
+NOTE: The current text as retrieved from leginfo.legislature.ca.gov (via VernenLegal MCP, 2026-04-10) reflects this structure. See current/ folder for full text.
+
+PROVENANCE: Requires primary source verification. See provenance.json.

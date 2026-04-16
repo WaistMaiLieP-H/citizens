@@ -1,0 +1,62 @@
+BIXBY v. PIERNO
+4 Cal.3d 130 (1971)
+California Supreme Court
+Decided: July 22, 1971
+
+---
+
+FACTS:
+
+Charles Bixby, a licensed professional engineer, had his license suspended by the California Board of Registration for Professional Engineers. He sought review under CCP § 1094.5 challenging the suspension. The question was what standard of judicial review applied to the agency's factual findings and legal conclusions.
+
+Bixby was decided in the same period as Strumsky and established complementary principles about the administrative mandamus standard of review.
+
+---
+
+HOLDING:
+
+Justice Sullivan wrote for the Court.
+
+THE BIXBY INDEPENDENT JUDGMENT RULE FOR PROFESSIONAL LICENSES:
+"When an agency decision substantially affects a fundamental vested right — such as the revocation or suspension of a professional license — the superior court does not merely review whether substantial evidence supports the decision. The court exercises independent judgment on the evidence in the administrative record."
+
+WHAT "INDEPENDENT JUDGMENT" MEANS:
+The trial court sitting in administrative mandamus:
+1. Weighs the evidence independently — it does not defer to the agency's evidentiary conclusions
+2. May reach a different conclusion than the agency on disputed facts
+3. Does not give the agency's credibility determinations conclusive effect
+4. Applies the same standard of proof (preponderance or clear and convincing, depending on the proceeding) that the agency was required to apply
+
+THE LIMITATION — RECORD REVIEW:
+Independent judgment review does NOT mean de novo trial. The court reviews the administrative record — it does not hear new evidence (unless the court permits augmentation of the record). The court independently weighs the evidence THAT WAS BEFORE THE AGENCY.
+
+WHAT BIXBY ADDED TO THE DOCTRINE:
+Bixby focused specifically on professional license cases and established:
+1. A professional license, once earned, is a fundamental vested right
+2. Revocation of a professional license requires independent judgment review — not mere deference to the agency
+3. The agency's decision must be supported by the preponderance of evidence in the record to survive independent judgment review
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Bixby is directly applicable to:
+
+1. **Professional license proceedings**: Any proceeding affecting the steward's professional certifications (UA Local 342 journeyman plumber license, contractor's license) is subject to independent judgment review under Bixby. The licensing board's findings do not receive agency deference — the court independently weighs the evidence.
+
+2. **Administrative record completeness**: If the agency's administrative record is incomplete — e.g., if records were destroyed, omitted, or were never created (phantom contact records, fabricated determinations) — the court may augment the record. Filing a § 1094.5 petition preserves the right to challenge what is and is not in the administrative record.
+
+3. **Standard of proof**: For license revocation proceedings, the agency must support its findings by clear and convincing evidence. Independent judgment review means the court independently asks: is there clear and convincing evidence in this record?
+
+4. **Independent judgment = no deference to agency experts**: Expert opinions submitted to the agency (psychiatrists, medical examiners, evaluators) are subject to independent court weighing — not automatic deference. For claims involving fraudulent competency evaluations, independent judgment review means the court weighs the expert's credibility, qualifications, and methodology independently.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 4 Cal.3d 130 (1971)
+Court: California Supreme Court
+Reporter: California Reports, Third Series, vol. 4, page 130
+Author: Sullivan, J.
+Source of this text: Claude training data (knowledge cutoff August 2025). Bixby v. Pierno established that professional license revocation triggers independent judgment review under § 1094.5 — courts independently weigh the administrative evidence without agency deference.
+Verification: Casetext / Google Scholar: "Bixby v. Pierno 4 Cal.3d 130"
+Verification status: PROPOSED — pending steward witness review

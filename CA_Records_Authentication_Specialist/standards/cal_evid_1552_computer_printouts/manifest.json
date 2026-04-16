@@ -1,0 +1,38 @@
+{
+  "standard_id": "CA_EVID_1552_1553_COMPUTER_DIGITAL_RECORDS",
+  "version": "1.0.0-proposed",
+  "filed_at_utc": "2026-04-12T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "status": "PROPOSED",
+  "primary_citation": {
+    "code": "California Evidence Code",
+    "sections": ["§ 1552", "§ 1553"],
+    "popular_name": "Computer Printouts and Digital Records Presumption",
+    "jurisdiction": "California (state)",
+    "location_in_code": "Evidence Code, Division 11, Chapter 2, Article 1",
+    "original_enactment": "§1552: Stats. 1965, Ch. 299 (original evidence code); §1553: Stats. 1998, Ch. 100",
+    "most_recent_amendment": "Stats. 1998, Ch. 100 (modernized both sections for digital era)",
+    "positive_law_status": "In force"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current/text.txt contains §§1552-1553 operative text",
+    "reasoning": "PRESENT — current/context.md documents rebuttable presumption, burden mechanics, §1552(b) exception, digital image extension, steward attack strategy",
+    "historical_loss": "PRESENT — historical_chain.md documents 1965 punch-card wound, 1998 digital era update",
+    "cross_references": "PRESENT — cross_refs/refs.json links to §1400, §1530, §452.5, FRE 902",
+    "verifiable_provenance": "PARTIAL — 1998 amendment text captured; 1965 origin pending primary-source fetch"
+  },
+  "presumption_type": "Affecting burden of producing evidence (disappears once opponent introduces contrary evidence; burden then shifts to proponent to prove accuracy by preponderance)",
+  "key_exceptions": {
+    "1552_b": "Computer-generated official records certified under §452.5 or §1530 are NOT governed by §1552; must use official records framework"
+  },
+  "sections_covered": {
+    "1552": "Printed representation of computer information",
+    "1553": "Printed representation of digital/video images"
+  },
+  "citizen_relevance": "Every electronic record in steward's cases — pension database printouts, emails, system logs, electronic medical records, screenshots of communications — is governed by §1552/1553. Attack strategy: challenge accuracy/reliability of opposing party's electronic records to rebut presumption and force proponent to prove accuracy by preponderance. Support own records: §1552/1553 admits steward's electronic evidence without full expert foundation unless challenged.",
+  "two_witness_status": {
+    "status": "PROPOSED",
+    "first_mouth": "Claude (assistant)",
+    "second_mouth": "PENDING — steward review required"
+  }
+}

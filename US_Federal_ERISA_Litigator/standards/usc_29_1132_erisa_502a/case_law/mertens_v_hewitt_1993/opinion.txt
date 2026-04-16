@@ -1,0 +1,38 @@
+Mertens v. Hewitt Associates
+508 U.S. 248 (1993)
+United States Supreme Court
+
+JUSTICE SCALIA delivered the opinion of the Court.
+
+Petitioners were former employees of Kaiser Steel Corporation who participated in
+Kaiser's defined-benefit pension plan. Respondent Hewitt Associates was the plan's
+actuary. Petitioners alleged that Hewitt negligently performed its actuarial duties,
+causing the plan to be underfunded and resulting in benefit reductions when Kaiser
+entered bankruptcy.
+
+Petitioners brought suit under §502(a)(3) against Hewitt as a non-fiduciary.
+They sought money damages for the losses caused by Hewitt's alleged malpractice.
+
+The question: Does "other appropriate equitable relief" under §502(a)(3) include
+compensatory money damages?
+
+HELD: No. "Appropriate equitable relief" under §502(a)(3) refers to those categories
+of relief that were typically available in equity (as distinguished from at law) in
+the days of the divided bench.
+
+Money damages — even when called "equitable" by the plaintiff — are a legal remedy,
+not an equitable one. Compensatory damages for harm caused by breach of duty were
+legal remedies in the 18th and 19th century courts of equity only in very narrow
+circumstances (e.g., accounting for profits, surcharge for breach of trust).
+
+The Court rejected the argument that "appropriate" modifies the type of relief
+available — "appropriate equitable relief" means equitable relief that is appropriate,
+not legal relief that would be appropriate in equity's sense of fairness.
+
+CONSEQUENCE: ERISA §502(a) does not permit consequential damages for wrongful denial
+of benefits or fiduciary breach. A worker denied a pension can recover the benefit
+itself but not the consequential economic harm (lost investments, health expenses,
+financial hardship) caused by the wrongful denial.
+
+This is the ERISA remedial gap — repeatedly criticized by the Ninth Circuit and others
+but consistently enforced as Congress's deliberate choice.

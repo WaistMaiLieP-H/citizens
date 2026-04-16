@@ -1,0 +1,95 @@
+{
+  "standard_id": "29_USC_794",
+  "version": "0.3.0-published",
+  "filed_at_utc": "2026-04-09T00:45:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "PUBLISHED — ADAM + EVE DUAL WITNESS — 2026-04-12",
+  "primary_citation": {
+    "title": "29",
+    "section": "794",
+    "code": "United States Code",
+    "popular_name": "Section 504 — Nondiscrimination under Federal grants and programs",
+    "jurisdiction": "United States (federal)",
+    "original_enactment": "Rehabilitation Act of 1973, §504 (Pub. L. 93-112, 87 Stat. 394)",
+    "last_amendment": "Pub. L. 102-166, §1991 (Civil Rights Act of 1991)",
+    "source_credits": "(Pub. L. 93-112, title V, §504, Sept. 26, 1973, 87 Stat. 394; amended 1978, 1988, 1991.)"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — verbatim text captured from uscode.house.gov, full section",
+    "reasoning": "PRESENT — origin context documents the wound (no disability civil rights before 1973) and the legislative model (Title VI framework applied to disability)",
+    "historical_loss": "PRESENT — documented in evolution/01_origin/context.md: systematic exclusion of people with disabilities from federally funded programs with no legal remedy",
+    "cross_references": "PRESENT — cross_refs/refs.json links to §12132 (ADA Title II), §1983 (enforcement), §2000d (Title VI model)",
+    "verifiable_provenance": "PRESENT — current text hashed and sourced; origin provenance documented with public law and statutes at large citation"
+  },
+  "evolution_chain": [
+    {
+      "stage": "01_origin",
+      "date": "1973-09-26",
+      "description": "Section 504 of the Rehabilitation Act of 1973 — first federal disability civil rights law",
+      "folder": "evolution/01_origin/"
+    },
+    {
+      "stage": "02_current",
+      "date": "current",
+      "description": "Text reflects amendments through 1991. Complex amendment history noted but individual stages not yet built.",
+      "folder": "evolution/02_current/"
+    }
+  ],
+  "evolution_note": "Section 504 has a complex amendment history (1978, 1988, 1991). Individual amendment stages are not yet built as separate evolution folders. This is outstanding work.",
+  "case_law_documented": [
+    {
+      "case": "Southeastern Community College v. Davis",
+      "citation": "442 U.S. 397 (1979)",
+      "role": "interpretive — 'otherwise qualified' does not require fundamental program alterations",
+      "folder": "case_law/interpretive/southeastern_v_davis_1979/"
+    },
+    {
+      "case": "Alexander v. Choate",
+      "citation": "469 U.S. 287 (1985)",
+      "role": "interpretive — disparate impact reachable but requires denial of 'meaningful access'",
+      "folder": "case_law/interpretive/alexander_v_choate_1985/"
+    }
+  ],
+  "case_law_outstanding": [
+    "Barnes v. Gorman, 536 U.S. 181 (2002) — documented under 42_usc_12132 (applies to both ADA Title II and §504)"
+  ],
+  "hashes": {
+    "current_text_sha256": "cdabb63b2af4ca6879a2842295b6b8f4891a3feae5fbc161cf8cd1d64e9bfc07"
+  },
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction (Michael Hartmann), 2026-04-09",
+    "herald_witness": {
+      "witness": "HERALD (Steward successor — designated 2026-04-12)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "verification_scope": "Structure, five-layer bar completeness.",
+      "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12."
+    },
+    "adam_witness": {
+      "witness": "ADAM (Seed Citizen — Builder role)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "triple_constraint": "PASS/PASS/PASS",
+      "actions_taken": "Fixed cross_refs/refs.json — §2000d updated to NOT BUILT AS STANDALONE STANDARD; §12132 confirmed BUILT. Confirmed Davis and Alexander case files exist (stale outstanding_work cleared).",
+      "content_hash_verified": "cdabb63b2af4ca6879a2842295b6b8f4891a3feae5fbc161cf8cd1d64e9bfc07",
+      "signal": "APPROVE"
+    },
+    "eve_witness": {
+      "witness": "EVE (Seed Citizen — Witness role)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "five_layer_verification": "PASS/PASS/PASS/PASS/PASS",
+      "triple_constraint": "PASS/PASS/PASS",
+      "hash_independently_recomputed": "cdabb63b2af4ca6879a2842295b6b8f4891a3feae5fbc161cf8cd1d64e9bfc07 — CONFIRMED MATCHING",
+      "signal": "COUNTERSIGN"
+    },
+    "publishable_to_corpus": true,
+    "status": "PUBLISHED — ADAM + EVE DUAL WITNESS"
+  },
+  "outstanding_work": [
+    "Build individual amendment stages for 1978 (Pub. L. 95-602), 1988 (Pub. L. 100-259), and 1991 (Pub. L. 102-166) — evolution note honestly flagged; lower priority"
+  ],
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

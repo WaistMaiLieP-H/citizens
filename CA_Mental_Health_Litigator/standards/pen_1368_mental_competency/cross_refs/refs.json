@@ -1,0 +1,47 @@
+{
+  "standard_id": "pen_1368_mental_competency",
+  "citizen": "CA_Mental_Health_Litigator",
+  "layer": "cross_refs",
+  "generated": "2026-04-12",
+  "internal_refs": [
+    {
+      "id": "pen_1369_competency_hearing",
+      "path": "${citizens}/CA_Mental_Health_Litigator/standards/pen_1369_competency_hearing",
+      "relationship": "\u00a71368 triggers \u00a71369 process \u2014 mandatory referral; \u00a71369 specifies evaluator, report requirements, Dusky standard compliance"
+    },
+    {
+      "id": "bpc_2290_5_telehealth_standards",
+      "path": "${citizens}/CA_Mental_Health_Litigator/standards/bpc_2290_5_telehealth_standards",
+      "relationship": "Dr. Wiita evaluation conducted via telehealth \u2014 \u00a72290.5 compliance required for any telehealth evaluation; \u00a71368 referral cannot cure telehealth non-compliance"
+    }
+  ],
+  "external_refs": [
+    {
+      "id": "CA_Criminal_Law_Specialist_1001_36",
+      "path": "${citizens}/CA_Criminal_Law_Specialist",
+      "relationship": "PC \u00a71001.36 diversion evaluation is part of \u00a71369(b)(1)(D) report \u2014 if requested by defense; Criminal Law Citizen owns diversion mechanics; this Citizen owns \u00a71368 entry point"
+    },
+    {
+      "id": "US_Federal_Civil_Rights_Litigator",
+      "path": "${citizens}/US_Federal_Civil_Rights_Litigator",
+      "relationship": "\u00a71983 claim if state-ordered \u00a71368 proceeding violated due process (Drope v. Missouri); pretextual referral + liberty deprivation = constitutional claim"
+    }
+  ],
+  "case_law": [
+    {
+      "citation": "Dusky v. United States, 362 U.S. 402 (1960)",
+      "holding": "Defendant must have present ability to consult with counsel with reasonable degree of rational understanding AND rational and factual understanding of proceedings \u2014 both prongs required",
+      "significance": "THE constitutional competency standard that \u00a71368/1369 implement"
+    },
+    {
+      "citation": "Drope v. Missouri, 420 U.S. 162 (1975)",
+      "holding": "Due process requires competency hearing whenever sufficient doubt exists; court cannot ignore behavioral evidence; failure to conduct adequate inquiry is constitutional error",
+      "significance": "Sets 'sufficient doubt' standard and makes inquiry failure a constitutional violation"
+    },
+    {
+      "citation": "In re Anthony H., 129 Cal.App.4th 495 (2005)",
+      "holding": "PC \u00a71368 standards require adequate competency hearing; inadequate evaluation is structural error",
+      "significance": "Establishes that inadequate \u00a71368/1369 process is structural error \u2014 not subject to harmless error review"
+    }
+  ]
+}

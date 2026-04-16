@@ -1,0 +1,64 @@
+{
+  "citizen_id": "CA_Workers_Compensation_Litigator",
+  "display_name": "California Workers Compensation Litigator",
+  "status": "OPERATIONAL",
+  "build_date": "2026-04-13",
+  "terminal": "B",
+  "all_standards_published": true,
+  "standards": [
+    {
+      "standard_id": "lab_4600_medical_treatment_entitlement",
+      "status": "PUBLISHED",
+      "content_hash": "616c940f",
+      "build_date": "2026-04-13"
+    },
+    {
+      "standard_id": "lab_4663_apportionment_permanent_disability",
+      "status": "PUBLISHED",
+      "content_hash": "6a198a40",
+      "build_date": "2026-04-13"
+    },
+    {
+      "standard_id": "lab_4553_serious_willful_misconduct_enhancement",
+      "status": "PUBLISHED",
+      "content_hash": "411709f1",
+      "build_date": "2026-04-13"
+    },
+    {
+      "standard_id": "lab_3202_liberal_construction",
+      "status": "PUBLISHED",
+      "content_hash": "766637bb",
+      "build_date": "2026-04-13"
+    },
+    {
+      "standard_id": "lab_4610_utilization_review",
+      "status": "PUBLISHED",
+      "content_hash": "6a3b1454",
+      "build_date": "2026-04-13"
+    },
+    {
+      "standard_id": "lab_3212_industrial_presumptions",
+      "status": "PUBLISHED",
+      "content_hash": "COMPUTED_AT_BUILD",
+      "build_date": "2026-04-13"
+    },
+    {
+      "standard_id": "lab_3700_employer_comp_obligation",
+      "status": "PUBLISHED",
+      "content_hash": "COMPUTED_AT_BUILD",
+      "build_date": "2026-04-13"
+    }
+  ],
+  "path_anchors": {
+    "citizens": "${citizens}",
+    "resolved_path": "/home/vernenlegal/citizens"
+  },
+  "steward_verify_queue": [
+    {
+      "item": "Escobedo v. Marshalls (2005) WCAB — §4663 substantial medical evidence standard",
+      "standard": "lab_4663_apportionment_permanent_disability"
+    }
+  ],
+  "chronicle_flags": [],
+  "coordination_boundary": "CA_Family_Law_Litigator is owned by another terminal — do not write into that Citizen"
+}

@@ -1,0 +1,49 @@
+{
+  "standard_id": "CAL_CIV_1102",
+  "version": "0.2.0-witnessed-by-herald",
+  "filed_at_utc": "2026-04-11T05:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "primary_citation": {
+    "code": "California Civil Code",
+    "section": "§ 1102 (gateway to Article 1.5, §§ 1102-1102.19)",
+    "popular_name": "Transfer Disclosure Statement (TDS) law",
+    "jurisdiction": "California (state)",
+    "location_in_code": "Civil Code, Division 2, Part 4, Title 4, Chapter 2, Article 1.5",
+    "original_enactment": "Stats. 1985, ch. 1574; effective January 1, 1986",
+    "amendment_history": "Multiple expansions: environmental hazards (1990s), death on property (1990s), Section III agent disclosures (1990s-2000s), foreclosure/short sale exemption refinements (2000s-2010s)"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current text captured via MCP; Article 1.5 structure documented",
+    "reasoning": "PRESENT — 1985 wound (caveat emptor information asymmetry) and promise (mandatory, non-waivable disclosure regime) documented",
+    "historical_loss": "PRESENT — pre-1985 caveat emptor regime and its failure to protect residential buyers documented",
+    "cross_references": "PRESENT — cross_refs/refs.json links to §§ 1572, 1709-1710, 3294, 3343, Fam §§ 1102, BPC § 10176",
+    "verifiable_provenance": "PARTIAL — current text via MCP; 1985 original enactment and subsequent amendment PDFs pending"
+  },
+  "evolution_chain": [
+    {
+      "stage": "01_origin_1985",
+      "description": "Stats. 1985, ch. 1574; mandatory TDS regime established",
+      "folder": "evolution/01_origin_1985/"
+    },
+    {
+      "stage": "02_current",
+      "description": "Current form — core rule stable; specific disclosure categories added incrementally",
+      "folder": "evolution/02_current/"
+    }
+  ],
+  "case_law": [],
+  "cases_to_add": [
+    "Calemine v. Samuelson (2009) 171 Cal.App.4th 153",
+    "Assilzadeh v. California Federal Bank (2000) 82 Cal.App.4th 399",
+    "Robinson v. Grossman (1997) 57 Cal.App.4th 634",
+    "Shapiro v. Sutherland (1998) 64 Cal.App.4th 1534"
+  ],
+  "citizen_relevance": "Critical for the Honeysuckle complaint. The TDS analysis is the first question in any residential real estate fraud case: was it delivered, was it complete, was it accurate, was it signed. § 1102.4 strict liability runs alongside § 1572 common-law fraud and § 3294 punitive damages.",
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

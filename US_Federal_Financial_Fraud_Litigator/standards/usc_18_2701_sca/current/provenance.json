@@ -1,0 +1,13 @@
+{
+  "standard_id": "USC_18_2701_SCA",
+  "primary_citation": "18 U.S.C. §§2701-2712 (Stored Communications Act, Title II of ECPA, Pub. L. 99-508 (1986))",
+  "original_enactment": "Electronic Communications Privacy Act of 1986, Pub. L. 99-508, Title II, 100 Stat. 1860 (Oct. 21, 1986)",
+  "current_version": "18 U.S.C. §§2701-2712 (last substantively amended by USA PATRIOT Act, Pub. L. 107-56 (2001); USA FREEDOM Act 2015 minor amendments)",
+  "key_civil_remedy_provision": "18 U.S.C. §2707",
+  "civil_minimum_damages": "$1,000 per violation (§2707(c))",
+  "fetch_method": "WebFetch — uscode.house.gov official source",
+  "fetch_timestamp_utc": "2026-04-11T00:00:00Z",
+  "retrieval_steward": "Claude (assistant) under direction of Michael Hartmann",
+  "verbatim_capture_status": "COMPLETE — usc_18_2701_leginfo.txt contains verbatim text of §§2701(a)-(c) and §2707(a)-(g)",
+  "txt_sha256": "ebe0d596c063d4d1c7973b648c68675ebdc20db43821be992aba297222f2fe62"
+}

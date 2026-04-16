@@ -1,0 +1,12 @@
+Metropolitan Life Insurance Co. v. Glenn
+554 U.S. 105 (2008)
+United States Supreme Court, 2008
+
+FACTS:
+An employer that both administered its disability plan and paid benefits from its own assets denied a participant's disability claim. The participant challenged the denial under § 1132(a)(1)(B). The question was whether the conflict of interest — the administrator also paid benefits — affected the standard of review.
+
+HOLDING — 29 U.S.C. § 1132:
+The Supreme Court held that when a plan administrator operates under a conflict of interest (funding and administering the same plan), that conflict is a factor in the Firestone arbitrary-and-capricious review. Courts must weigh the conflict against other evidence of how the administrator reached its decision. A serious conflict can reduce or eliminate the deference normally given to an administrator's discretionary determination.
+
+SIGNIFICANCE:
+Establishes that plan administrator conflicts of interest are substantively relevant in § 1132(a)(1)(B) benefit denial challenges. For multi-employer union plans, the trustees who administer the plan have a fiduciary obligation — but if the plan's financial condition or other interests create pressure to deny claims, that pressure is a Glenn conflict factor. Where an administrator's decision to deny or suspend pension benefits coincides with the plan's financial interest in reducing payouts, heightened scrutiny applies.

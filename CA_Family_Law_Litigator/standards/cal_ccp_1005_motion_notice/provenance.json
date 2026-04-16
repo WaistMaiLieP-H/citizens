@@ -1,0 +1,17 @@
+{
+  "standard_id": "CA_CCP_1005_MOTION_NOTICE",
+  "provenance_record_filed_at_utc": "2026-04-09T00:00:00Z",
+  "fetcher_software": "VernenLegal MCP API (california_get_section)",
+  "fetcher_operator": "Claude (assistant) under steward direction (Michael Hartmann)",
+  "fetches": [
+    {
+      "artifact_local_path": "current/cal_ccp_1005_leginfo.txt",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1005.&lawCode=CCP",
+      "source_authority": "California Legislative Information (leginfo.legislature.ca.gov) via VernenLegal MCP",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-09T00:00:00Z",
+      "fetch_method": "VernenLegal MCP california_get_section",
+      "content_description": "Cal. Code of Civil Procedure § 1005 — Motion notice timing: 16 court days + mailing extensions, 9-day opposition, 5-day reply"
+    }
+  ]
+}

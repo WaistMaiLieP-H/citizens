@@ -1,0 +1,67 @@
+WIRIN v. PARKER
+48 Cal.2d 890 (1957)
+California Supreme Court
+Decided: June 25, 1957
+
+---
+
+FACTS:
+
+A.L. Wirin, a taxpayer, filed an action under CCP § 526a challenging the legality of expenditures by the City of Los Angeles. He alleged that the city's police department was spending public funds to maintain an intelligence unit that collected dossiers on political dissidents and labor union members — an alleged unlawful use of public money.
+
+The question was whether a taxpayer has standing to challenge such expenditures and seek to enjoin them.
+
+---
+
+HOLDING:
+
+Justice Traynor wrote for the Court.
+
+TAXPAYER STANDING UNDER § 526a IS BROAD:
+"Section 526a grants any taxpayer standing to bring an action in equity to restrain illegal or wasteful expenditure of public funds, without requiring any showing of special injury beyond their status as a taxpayer."
+
+The only standing requirement under § 526a is:
+1. The plaintiff is a taxpayer of the jurisdiction whose funds are being spent; AND
+2. The expenditure is alleged to be illegal or wasteful
+
+No special injury — no particularized harm beyond the general harm all taxpayers suffer — is required. This makes § 526a one of the most accessible standing vehicles in California law.
+
+TAXPAYER SUIT AS A CHECK ON GOVERNMENT:
+"The taxpayer suit is a democratic mechanism enabling any citizen who pays taxes to hold government accountable for illegal or wasteful expenditures without having to prove personal injury. The injury is collective — it is the injury to the public treasury that creates the cause of action."
+
+INJUNCTIVE RELIEF:
+The remedy under § 526a is injunctive — preventing future illegal or wasteful expenditure. Damages are not available. The plaintiff must show that the expenditure is ongoing or will recur, not merely that it occurred in the past.
+
+---
+
+THE WIRIN PRINCIPLE:
+After Wirin, any California taxpayer may:
+1. Sue to enjoin illegal government expenditures
+2. Without showing personal injury beyond taxpayer status
+3. In a court of equity
+4. For injunctive relief against the offending expenditure or activity
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+§ 526a / Wirin standing applies to:
+
+1. **APD expenditures on false-report responses**: Any California taxpayer (the steward is a taxpayer in Antioch/Contra Costa County) has standing to challenge APD's expenditure of public funds on law enforcement responses that are systematically triggered by false reports. If the dispatch protocol enables coordinated misuse of emergency services, the expenditure of responding to false calls may be illegal and wasteful under § 526a.
+
+2. **Family court expenditures**: Expenditures on court-appointed evaluators who generate fraudulent reports — if the reports were fabricated and the expenditure thus served no legitimate purpose — may be challenged as illegal or wasteful.
+
+3. **Government Claims Act prerequisite**: Note that § 526a suits against state agencies (as opposed to local governments) may require compliance with the Government Claims Act before injunctive relief is available. Verify jurisdiction-specific requirements.
+
+4. **Utility as a standing vehicle**: § 526a provides standing when other standing theories are unavailable. For constitutional challenges to government expenditure patterns — including patterns that affect civil rights — § 526a provides an independent basis to bring the action even when direct injury is hard to quantify.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 48 Cal.2d 890 (1957)
+Court: California Supreme Court
+Reporter: California Reports, Second Series, vol. 48, page 890
+Author: Traynor, J.
+Source of this text: Claude training data (knowledge cutoff August 2025). Wirin v. Parker established that § 526a taxpayer standing is broad — any taxpayer can challenge illegal or wasteful government expenditures without showing personal injury beyond taxpayer status.
+Verification: Casetext / Google Scholar: "Wirin v. Parker 48 Cal.2d 890"
+Verification status: PROPOSED — pending steward witness review

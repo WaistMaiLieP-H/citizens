@@ -1,0 +1,57 @@
+BARAL v. SCHNITT
+1 Cal.5th 376 (2016)
+California Supreme Court
+Decided: August 1, 2016
+
+---
+
+FACTS:
+
+Andrew Baral filed a lawsuit against Carol Schnitt that contained both claims arising from protected anti-SLAPP activity and claims that did not arise from protected activity. Schnitt filed an anti-SLAPP motion. The question was whether the anti-SLAPP motion could target only the protected-activity-based claims, or whether a mixed complaint either survived or fell entirely.
+
+---
+
+HOLDING:
+
+Justice Kruger wrote for the Court.
+
+ANTI-SLAPP CAN TARGET INDIVIDUAL CLAIMS OR ALLEGATIONS WITHIN A COMPLAINT:
+Prior cases had divided on whether § 425.16 applied to an entire action (meaning mixed complaints were either saved or dismissed entirely) or could target discrete claims.
+
+Baral resolved: "The anti-SLAPP statute may be used to strike only those claims or allegations in a complaint that arise from protected activity. The statute does not require striking an entire complaint where only some claims arise from protected activity."
+
+THE CLAIM-BY-CLAIM ANALYSIS:
+1. Identify which specific claims or allegations arise from protected activity
+2. Apply the two-step § 425.16 analysis to only those specific claims/allegations
+3. Claims that do not arise from protected activity are not subject to anti-SLAPP and proceed normally
+4. If protected-activity claims are struck, only those claims are dismissed; the remainder proceed
+
+THE GRAVAMEN TEST:
+The "gravamen" of each claim determines whether it arises from protected activity. A claim whose central wrong is protected speech or petitioning activity is subject to anti-SLAPP. A claim whose central wrong is non-protected conduct (even if some protected activity is incidentally mentioned) is not.
+
+"[I]n assessing the gravamen of a claim, courts must identify the specific acts that are alleged to constitute the defendant's wrongdoing. If those acts include both protected and unprotected conduct, the anti-SLAPP motion reaches only the claims arising from the protected acts."
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Baral's claim-by-claim analysis has multiple implications:
+
+1. **Plaintiff's advantage**: Even if one or more of the steward's claims could be anti-SLAPP'd (because they arise from another party's protected petitioning activity), the remaining non-protected claims proceed. Anti-SLAPP cannot knock out the entire case unless every claim arises from protected activity.
+
+2. **Strategic pleading**: Organize claims so that the gravamen of each claim is the non-protected wrongdoing (the false reports, the physical conduct, the financial fraud) — not the protected activity (filing court documents). The court looks at what the central wrong is, not whether protected activity is mentioned.
+
+3. **Defendant's filing strategy**: If defendants file anti-SLAPP motions against the steward, Baral requires them to identify which specific claims arise from their protected activity. Vague motions targeting the entire complaint will fail under Baral.
+
+4. **California Rules of Court timing**: Anti-SLAPP motions must be filed within 60 days of service of the complaint (unless the court permits later filing for good cause). Cal. Code Civ. Proc. § 425.16(f). Monitor the 60-day window.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 1 Cal.5th 376 (2016)
+Court: California Supreme Court
+Reporter: California Reports, Fifth Series, vol. 1, page 376
+Author: Kruger, J.
+Source of this text: Claude training data (knowledge cutoff August 2025). Baral v. Schnitt held that anti-SLAPP applies claim-by-claim — a motion can strike only those claims arising from protected activity, not an entire mixed complaint. Courts apply the "gravamen" test to determine which claims are targeted.
+Verification: Casetext / Google Scholar: "Baral v. Schnitt 1 Cal.5th 376"
+Verification status: PROPOSED — pending steward witness review

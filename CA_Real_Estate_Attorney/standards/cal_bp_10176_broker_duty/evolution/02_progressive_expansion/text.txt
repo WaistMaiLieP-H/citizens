@@ -1,0 +1,33 @@
+CALIFORNIA BUSINESS AND PROFESSIONS CODE § 10176
+Progressive Expansion of Disciplinary Grounds (1950s–2000s)
+
+SOURCE: Multiple amendment sessions. REQUIRES_PRIMARY_SOURCE_VERIFICATION for exact bill/chapter numbers.
+Current text confirmed via VernenLegal MCP, 2026-04-10.
+
+--- Key additions beyond original core (a)–(e) ---
+
+(f) [Added ~1960s–1970s]: Claiming or taking a fee under an exclusive agreement that does not contain a "definite, specified date of final and complete termination."
+→ WOUND ANSWERED: Open-ended exclusive listings that trapped sellers indefinitely.
+
+(g) [Added]: The claiming or taking of any "secret or undisclosed amount of compensation, commission, or profit" or failure to reveal full compensation prior to or coincident with signing.
+→ WOUND ANSWERED: Hidden kickbacks from title companies, lenders, or co-brokers — not disclosed to principals.
+
+(h) [Added]: Option-to-purchase abuse — a broker who holds both an option to buy and a listing agreement must disclose the full amount of profit before exercising the option.
+→ WOUND ANSWERED: Brokers holding options on listed properties and flipping them for undisclosed profits.
+
+(i) [Core catchall]: "Any other conduct, whether of the same or of a different character than specified in this section, which constitutes fraud or dishonest dealing."
+→ PURPOSE: Prevents technical evasion of enumerated categories.
+
+(j) [Added]: Unauthorized solicitation of buyers without the seller's written authorization to list.
+→ WOUND ANSWERED: Cold-calling buyers with properties not authorized for listing.
+
+(k) [Added]: Intentional delay in disbursing funds under a committed mortgage loan for the purpose of increasing fees.
+→ WOUND ANSWERED: Lender-brokers who held loan proceeds to earn additional interest.
+
+(l) [Added]: Intentionally delaying closing of a mortgage loan solely to increase fees.
+→ Related to (k), targeting the disbursement/closing distinction.
+
+(m) [Added]: Violation of any licensing law provision that specifies the violation is also a violation of the licensee's licensing law.
+→ Cross-licensing enforcement mechanism.
+
+NOTE: Full current text is in the standards/cal_bp_10176_broker_duty/current/ folder.

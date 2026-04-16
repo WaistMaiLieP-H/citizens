@@ -1,0 +1,42 @@
+{
+  "standard_id": "wic_5150_involuntary_hold",
+  "citizen": "CA_Mental_Health_Litigator",
+  "layer": "cross_refs",
+  "generated": "2026-04-12",
+  "internal_refs": [
+    {
+      "id": "evid_1016_psychotherapist_privilege",
+      "path": "${citizens}/CA_Mental_Health_Litigator/standards/evid_1016_psychotherapist_privilege",
+      "relationship": "Statements made during \u00a75150 evaluation are in a professional context \u2014 privilege analysis required for use of evaluation statements in subsequent proceedings"
+    }
+  ],
+  "external_refs": [
+    {
+      "id": "CA_Conservator_Investigator",
+      "path": "${citizens}/CA_Conservator_Investigator",
+      "relationship": "\u00a75150 \u2192 \u00a75250 \u2192 \u00a75350 LPS conservatorship pipeline; Conservator Investigator Citizen owns \u00a71800.3/\u00a71801 guardianship/conservatorship standards; coordinate on LPS entry point"
+    },
+    {
+      "id": "CA_Civil_Rights_Litigator",
+      "path": "${citizens}/CA_Civil_Rights_Litigator",
+      "relationship": "False \u00a75150 hold targeting protected class = potential FEHA, state civil rights violation; liberty deprivation via pretextual mental health hold"
+    },
+    {
+      "id": "US_Federal_Civil_Rights_Litigator",
+      "path": "${citizens}/US_Federal_Civil_Rights_Litigator",
+      "relationship": "\u00a71983 claim for liberty deprivation if false \u00a75150 hold was state-actor action without probable cause; Fourth + Fourteenth Amendment seizure of person"
+    }
+  ],
+  "case_law": [
+    {
+      "citation": "Welfare Rights Organization v. Crisan, 33 Cal.3d 766 (1983)",
+      "holding": "\u00a75150 probable cause requirement is meaningful \u2014 not a rubber stamp; court must assess adequacy of facts supporting the detention",
+      "significance": "Establishes that probable cause review is substantive, not deferential"
+    },
+    {
+      "citation": "Heater v. Southwood Psychiatric Center, 42 Cal.App.4th 1068 (1996)",
+      "holding": "Civil liability for false \u00a75150 application; \u00a75150(e) creates private right of action for persons detained based on intentionally false statement",
+      "significance": "Confirms civil damages available for false holds"
+    }
+  ]
+}

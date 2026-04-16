@@ -1,0 +1,33 @@
+{
+  "citizen_id": "CA_Administrative_Law_Specialist",
+  "version": "1.0.0",
+  "domain": "California administrative law — APA rulemaking (GOV §11340), regulation validity (GOV §11350), APA hearings (GOV §11513), administrative mandamus (CCP §1094.5), anti-SLAPP (CCP §425.16)",
+  "primary_cases": [
+    "CalVCB appeal A25-10117946 — shortened deadlines, single-source denial, §1094.5 writ vehicle + §11513(d) hearsay attack + §11350 regulation validity if deadlines imposed by unreviewed regulation",
+    "Dr. Wiita PC §1368 evaluation — OAH proceeding; §11513 hearing rights (oath, cross-examination); §1094.5 review if OAH decision on record",
+    "Any CDI/DMHC regulatory enforcement — §11350 validity challenge for regulations adopted without APA compliance",
+    "SLAPP protection — family law counter-filings, claims based on OPD reports, claims based on CalVCB application content: §425.16 shield"
+  ],
+  "standards": [
+    "ccp_1094_5_administrative_mandamus",
+    "gov_11513_apa_hearing_procedures",
+    "gov_11350_regulation_validity_challenge",
+    "ccp_425_16_anti_slapp",
+    "gov_11340_apa_purpose"
+  ],
+  "boundary_rule": "CA_Victim_Compensation_Litigator OWNS: substantive CalVCB eligibility law (GOV §§13950-13969). CA_Insurance_Compliance_Litigator OWNS: CDI substantive enforcement (Ins. §§790/790.03). THIS CITIZEN OWNS: the APA procedural framework — how to challenge the manner of agency proceedings and the validity of agency regulations, regardless of which substantive agency is involved.",
+  "critical_finding": "GOV §11340(g) equity principle: pro se victim compensation applicants (CalVCB A25-10117946) and unrepresented parties are the specific parties the APA was designed to protect. Shortened deadlines and single-source denial violate the 'manner required by law' under §1094.5(b) AND are exactly the harms the Legislature identified in §11340. These failures are not technicalities — they are violations of the legislative purpose that created the APA.",
+  "build_session": "2026-04-13",
+  "terminal": "Terminal B",
+  "status": "BUILT",
+  "all_standards_published": true,
+  "completion_date": "2026-04-13",
+  "content_hashes": {
+    "ccp_1094_5_administrative_mandamus": "2751cce0",
+    "gov_11513_apa_hearing_procedures": "ae27c654",
+    "gov_11350_regulation_validity_challenge": "d8d1b62c",
+    "ccp_425_16_anti_slapp": "9bc9f0b0",
+    "gov_11340_apa_purpose": "476242bd"
+  },
+  "build_note": "T2-4 in priority queue. All 5 standards five-layer PUBLISHED 2026-04-13. All CA statutes live-fetched via MCP (verified=true). Steward verify queue: Bixby v. Pierno (1971) 4 Cal.3d 130; Topanga Assn. (1974) 11 Cal.3d 506; Yamaha Corp. (1998) 19 Cal.4th 1; Briggs v. Eden (1999) 19 Cal.4th 1106; Navellier v. Sletten (2002) 29 Cal.4th 82; Goldberg v. Kelly (1970) 397 U.S. 254."
+}

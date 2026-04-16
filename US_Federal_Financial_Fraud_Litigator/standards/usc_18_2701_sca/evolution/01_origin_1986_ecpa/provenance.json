@@ -1,0 +1,13 @@
+{
+  "stage": "01_origin_1986_ecpa",
+  "label": "Stored Communications Act — ECPA Title II Original Enactment",
+  "source": "Electronic Communications Privacy Act of 1986, Pub. L. 99-508, Title II",
+  "effective_date": "1986-10-21",
+  "provisions_enacted": [
+    "18 U.S.C. §2701 — unlawful access to stored communications (prohibition + criminal penalties)",
+    "18 U.S.C. §2702 — voluntary disclosure prohibition",
+    "18 U.S.C. §2703 — required disclosure procedures for government",
+    "18 U.S.C. §2707 — civil action (actual damages + $1,000 minimum + punitive + fees)"
+  ],
+  "verbatim_capture_status": "PENDING"
+}

@@ -1,0 +1,31 @@
+{
+  "standard_id": "BP_2234_MEDICAL_BOARD",
+  "cross_references": [
+    {
+      "id": "CIV_3333_2_MICRA_CAP",
+      "path": "${citizens}/CA_Medical_Malpractice_Litigator/standards/civ_3333_2/",
+      "relationship": "PARALLEL_TRACK — §2234 gross negligence (Board discipline) and civil malpractice negligence (§3333.2 cap) are independent proceedings against the same physician conduct. Board discipline does not establish civil liability; civil judgment does not trigger automatic Board action.",
+      "direction": "parallel"
+    },
+    {
+      "id": "SIRVA_DOCTRINE",
+      "path": "${citizens}/CA_Medical_Malpractice_Litigator/standards/sirva_doctrine/",
+      "relationship": "APPLICATION — SIRVA cases (negligent injection technique) may constitute §2234(b) gross negligence if the injection technique was an extreme departure, or §2234(c) repeated acts if the provider had multiple SIRVA complaints.",
+      "direction": "application"
+    },
+    {
+      "id": "CIV_3294_PUNITIVE",
+      "path": "${citizens}/CA_Real_Estate_Attorney/standards/civ_3294_punitive/",
+      "relationship": "PUNITIVE_PARALLEL — Pattern of physician misconduct documented in §2234 complaint supports §3294 punitive damages theory (malice/oppression/fraud) in the civil case. Prior Board discipline history is admissible evidence of pattern.",
+      "direction": "punitive_parallel"
+    },
+    {
+      "id": "BP_6146_MICRA_FEES",
+      "path": "${citizens}/CA_Medical_Malpractice_Litigator/standards/bp_6146_micra_fees/",
+      "relationship": "COORDINATION — If Hrimnak escape (intentional tort framing) removes MICRA caps, the §2234(f) fraud theory is the administrative track parallel. Both tracks use the fraud/intentional misconduct framing.",
+      "direction": "coordination"
+    }
+  ],
+  "path_anchor": "${citizens}",
+  "build_date": "2026-04-11"
+}

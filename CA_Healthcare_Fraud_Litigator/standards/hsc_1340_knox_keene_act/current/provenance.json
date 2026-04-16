@@ -1,0 +1,11 @@
+{
+  "source": "California Legislative Information",
+  "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1340.&lawCode=HSC",
+  "retrieved": "2026-04-12",
+  "retrieval_tool": "VernenLegal MCP — california_get_section",
+  "sha256": "a5d4dbbf4f2cf0c93c249bd562d8f65981b23942f24b45b726022cf01983561a",
+  "bill_origin": "Knox-Keene Health Care Service Plan Act (1975)",
+  "effective_date": "1975 (original); substantially amended through 2024",
+  "verified": true,
+  "notes": "§1340 title section retrieved live and verified. Framework sections §§1367/1367.01/1368 require separate leginfo verification."
+}

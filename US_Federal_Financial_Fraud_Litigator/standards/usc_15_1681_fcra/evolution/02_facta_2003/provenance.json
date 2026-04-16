@@ -1,0 +1,18 @@
+{
+  "stage": "02_facta_2003",
+  "statute": "Fair and Accurate Credit Transactions Act of 2003",
+  "citation": "Pub. L. 108-159, 117 Stat. 1952 (Dec. 4, 2003)",
+  "effective_date": "2004-06-04 (most provisions, per FTC implementation schedule)",
+  "codified_amendments_to": "15 USC §§1681–1681x",
+  "legislative_history": {
+    "house_bill": "H.R. 2622 (108th Cong.)",
+    "primary_sponsor_house": "Rep. Spencer Bachus (R-AL)",
+    "senate_companion": "S. 1753",
+    "signed_by": "President George W. Bush"
+  },
+  "key_new_section": "§1681c-2 (identity theft block); §1681c-1 (fraud alerts); §1681j(a) (free annual report)",
+  "source_url": "https://www.congress.gov/108/plaws/publ159/PLAW-108publ159.pdf",
+  "capture_method": "LOGIC.md — structural knowledge base",
+  "verbatim_capture_status": "PENDING",
+  "build_date": "2026-04-10"
+}

@@ -1,0 +1,53 @@
+{
+  "standard": "pen_code_1054_5_discovery_enforcement",
+  "last_updated": "2026-04-11",
+  "refs": [
+    {
+      "id": "REF-10545-001",
+      "target_code": "Penal Code § 1054.1",
+      "description": "The disclosure obligations that § 1054.5 enforces. § 1054.5 has no independent content — it only enforces § 1054.1 and § 1054.3. Cross-reference pen_code_1054_1_discovery.",
+      "relationship": "enforcement_mechanism_for",
+      "direction": "out",
+      "internal_standard": "pen_code_1054_1_discovery"
+    },
+    {
+      "id": "REF-10545-002",
+      "target_code": "Penal Code § 1054.3",
+      "description": "Defendant's reciprocal disclosure obligations — the prosecution can also use § 1054.5 to enforce § 1054.3 against the defense. In a case where the steward is a defendant, comply with § 1054.3 obligations to avoid prosecution enforcement motions.",
+      "relationship": "parallel_enforcement_target",
+      "direction": "out"
+    },
+    {
+      "id": "REF-10545-003",
+      "target_code": "Brady v. Maryland (1963) 373 U.S. 83",
+      "description": "The constitutional foundation for discovery disclosure that § 1054.5 enforces at the statutory level. Where § 1054.5 provides no dismissal remedy, Brady-based constitutional claims may support dismissal in egregious cases. Cross-reference pen_code_1054_1_discovery for Brady/Giglio analysis.",
+      "relationship": "constitutional_floor",
+      "direction": "out",
+      "internal_standard": "pen_code_1054_1_discovery"
+    },
+    {
+      "id": "REF-10545-004",
+      "target_code": "Penal Code § 1054(e)",
+      "description": "Liberal construction mandate — § 1054(e) requires liberal construction of the discovery chapter to promote the purposes of the chapter. This supports broad reading of what materials are subject to disclosure and what sanctions are available for non-compliance.",
+      "relationship": "construction_mandate",
+      "direction": "out"
+    },
+    {
+      "id": "REF-10545-005",
+      "target_code": "Cal. Rules of Court, rule 4.111",
+      "description": "Court form and procedure for filing discovery enforcement motions in criminal cases. Verify current local rules for Contra Costa Superior Court for any additional requirements for discovery enforcement motions.",
+      "relationship": "procedural_rule",
+      "direction": "out"
+    },
+    {
+      "id": "REF-10545-006",
+      "target_code": "Pitchess motion (Evid. Code §§ 1043-1047)",
+      "description": "Where the discovery being sought includes law enforcement officer personnel records, the Pitchess motion procedure applies IN ADDITION to the § 1054.5 enforcement procedure. Pitchess must be separately filed; § 1054.5 does not override Evid. Code §§ 1043-1047.",
+      "relationship": "parallel_procedure_required",
+      "direction": "out"
+    }
+  ],
+  "internal_cross_refs": [
+    "pen_code_1054_1_discovery"
+  ]
+}

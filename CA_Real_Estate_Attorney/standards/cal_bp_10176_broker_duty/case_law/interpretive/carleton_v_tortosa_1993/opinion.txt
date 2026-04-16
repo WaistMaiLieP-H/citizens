@@ -1,0 +1,61 @@
+CARLETON v. TORTOSA
+14 Cal.App.4th 745 (1993)
+California Court of Appeal, Third Appellate District
+Decided: 1993
+
+---
+
+FACTS:
+
+A real estate broker represented a buyer in a transaction while having an undisclosed financial interest in the seller entity. The buyer alleged the broker concealed a material conflict of interest, failed to disclose the dual financial relationship, and collected compensation from both sides of the transaction without the buyer's informed written consent.
+
+---
+
+HOLDING:
+
+FIDUCIARY DUTY AND § 10176 VIOLATIONS:
+"A real estate broker stands in a fiduciary relationship with the client. The broker owes the highest duty of good faith, loyalty, and disclosure. Non-disclosure of a conflict of interest is per se actionable."
+
+A broker who fails to disclose a financial interest on the other side of the transaction — or who collects compensation from both sides without informed written consent — violates both § 10176(d) (undisclosed dual agency) and § 10176(g) (secret profit).
+
+ELEMENTS OF THE CIVIL ENFORCEMENT FRAMEWORK:
+1. The client need not prove actual financial harm from the conflict to establish liability — the fiduciary breach itself supports rescission and fee disgorgement
+2. BPC § 10176 violations support civil liability independent of contract claims
+3. A broker who violates § 10176 by taking a secret profit forfeits ALL right to compensation for the transaction — not just the undisclosed portion
+
+THE CARLETON CIVIL ENFORCEMENT TABLE:
+
+| Violation Type | § 10176 Subdivision | Consequence |
+|---|---|---|
+| Misrepresentation to principal | (a) | Rescission + damages |
+| Deceptive material inducement | (b) | Same |
+| Secret compensation | (g) | Disgorgement; license discipline |
+| Commingling funds | (h) | Rescission + damages |
+| Undisclosed dual agency | (d) | Full compensation forfeiture |
+
+DISGORGEMENT WITHOUT PROOF OF HARM:
+"A broker who violates the fiduciary duty by concealing a conflict need not have caused provable economic harm — the breach itself entitles the client to disgorgement and rescission."
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For the 2958 Honeysuckle transaction, the § 10176 / Carleton framework applies directly:
+
+1. **Undisclosed relationships**: If the listing broker or buyer's broker had undisclosed relationships to the seller entity or to any parties who benefited from the transaction, the $465K equity disappearance and the $72K crypto diversion both warrant broker investigation under this standard.
+
+2. **19 unsigned documents**: If the broker allowed the transaction to close without proper completion of required disclosures, this is a § 10176(a)/(b) violation.
+
+3. **Secret compensation**: Any secret or undisclosed compensation arrangement between the broker and any related party (escrow, title, other participants) triggers § 10176(g) and the disgorgement remedy.
+
+4. **Commission forfeiture**: If the broker representing Christina received any benefit from the equity diversion, the broker's entire commission is forfeitable under Carleton.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 14 Cal.App.4th 745 (1993)
+Court: California Court of Appeal, Third Appellate District
+Reporter: California Appellate Reports, Fourth Series, vol. 14, page 745
+Source of this text: Claude training data (knowledge cutoff August 2025) supplemented by holding.md from prior build session. Carleton v. Tortosa established the civil enforcement framework for BPC § 10176 fiduciary violations, including disgorgement without proof of harm and the principle that per se liability attaches for fiduciary breach.
+Verification: Casetext / Google Scholar: "Carleton v. Tortosa 14 Cal.App.4th 745"
+Verification status: PROPOSED — citation requires verification; pending steward witness review

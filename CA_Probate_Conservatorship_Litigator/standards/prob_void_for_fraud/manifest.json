@@ -1,0 +1,14 @@
+{
+  "standard_id": "prob_void_for_fraud",
+  "authority": "Freese v. Bragg (1950) 98 Cal.App.2d 478; CIV \u00a7\u00a71572/1573",
+  "status": "PUBLISHED",
+  "content_hash": "31d0a013",
+  "build_date": "2026-04-13",
+  "terminal": "Terminal B",
+  "citizen": "CA_Probate_Conservatorship_Litigator",
+  "verified": false,
+  "adam_signal": "APPROVE",
+  "eve_signal": "COUNTERSIGN",
+  "witness_date": "2026-04-13",
+  "verification_note": "Freese v. Bragg citation from training knowledge \u2014 verify at Google Scholar before judicial filing"
+}

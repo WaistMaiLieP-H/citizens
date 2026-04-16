@@ -1,0 +1,108 @@
+{
+  "standard_id": "CA_HSC_113700_CALCODE",
+  "version": "0.2.0-verbatim-and-substance-audited",
+  "filed_at_utc": "2026-04-08T09:23:00Z",
+  "deepened_at_utc": "2026-04-08T11:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction \u2014 Michael Hartmann, Vernen Legal Compliance",
+  "status": "PROPOSED-DEEPENED-COMPACT \u2014 verbatim text extracted, brief substance audit completed. Standard is in an umbrella with INDIRECT relevance to the steward's case file; the audit is calibrated accordingly. Awaiting second-mouth countersignature.",
+  "build_context": "Originally built 2026-04-08 as part of the breadth-first umbrella seeding pass (Umbrella 18 Agriculture / Food first occupant). Deepened later same day with verbatim text and brief substance audit via _deepen_remaining_manifests.py.",
+  "primary_citation": {
+    "jurisdiction": "California",
+    "code": "California Health and Safety Code",
+    "section": "\u00a7 113700",
+    "popular_name": "California Retail Food Code (CalCode) \u2014 Short Title",
+    "current_codification_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=113700.&lawCode=HSC",
+    "current_form_local_artifact": "current/cal_hsc_113700_leginfo.html",
+    "verbatim_text_extracted_artifact": "current/cal_hsc_113700_leginfo.txt"
+  },
+  "structural_location": {
+    "division": "DIVISION 104. ENVIRONMENTAL HEALTH [106500 - 119406]",
+    "part": "PART 7. CALIFORNIA RETAIL FOOD CODE [113700 - 114437]",
+    "part_history": "Part 7 repealed and added by Stats. 2006, Ch. 23, Sec. 2 \u2014 CalCode in its current form dates from 2006",
+    "chapter": "CHAPTER 1. General Provisions [113700 - 113725.3]",
+    "section_history": "Repealed and added by Stats. 2006, Ch. 23, Sec. 2. Effective January 1, 2007. Operative July 1, 2007"
+  },
+  "verbatim_summary": "Single-sentence short-title section: 'These provisions shall be known, and may be cited, as the California Retail Food Code, hereafter referred to as \"this part.\"' Establishes the popular citation form for the entire CalCode (Part 7 of Division 104, \u00a7\u00a7 113700-114437).",
+  "amendment_history_visible_on_leginfo": [
+    {
+      "year": 2006,
+      "stats": "Stats. 2006, Ch. 23, Sec. 2",
+      "event": "CalCode in its current form was enacted in 2006, repealing and replacing the prior California Uniform Retail Food Facilities Law (CURFFL). Effective January 1, 2007; operative July 1, 2007."
+    }
+  ],
+  "substance_audit": {
+    "purpose": "CalCode governs every restaurant, grocery store, food truck, school cafeteria, and food vendor in California. \u00a7 113700 is the short-title provision; the operative rules are in subsequent sections. The school food allergy example the steward raised earlier in this build session is governed by the intersection of CalCode, Education Code, and H&S Code food allergen provisions.",
+    "audit_filed_at_utc": "2026-04-08T11:00:00Z",
+    "audit_filed_by": "Claude (assistant) at first-mouth level; steward review required",
+    "audit_items": [
+      {
+        "audit_id": "Short-title doctrine",
+        "recommendation": "Establishes citable name 'California Retail Food Code' / 'CalCode'. Not substantively load-bearing",
+        "audit_status": "ROUTINE"
+      },
+      {
+        "audit_id": "School cafeteria food safety (steward's peanut-law example)",
+        "recommendation": "DOCTRINAL \u2014 bridges to the steward's 'no peanuts in school cafeterias' methodological example. The operative allergen provisions are downstream in CalCode (e.g., \u00a7 114094 menu labeling, \u00a7 113816 employee health) and in Education Code provisions on school nutrition",
+        "audit_status": "DOCTRINAL \u2014 bridges to steward's methodological example"
+      },
+      {
+        "audit_id": "Next-step deepening",
+        "recommendation": "Fetch the operative CalCode provisions (definitions \u00a7 113789, food safety \u00a7\u00a7 113980+, employee health \u00a7 113816, food sources \u00a7 114021, school cafeteria-specific rules)",
+        "audit_status": "OUTSTANDING"
+      }
+    ]
+  },
+  "umbrellas": [
+    "Agriculture / Food (Umbrella 18) \u2014 primary"
+  ],
+  "owner_citizen": {
+    "primary": "CA_Retail_Food_Inspector"
+  },
+  "triple_constraint_test_results": {
+    "governing_guidelines": {
+      "passes": true,
+      "evidence": "California Health and Safety Code \u00a7 113700 located at official primary source; binding California authority confirmed; verbatim text extracted to current/cal_hsc_113700_leginfo.txt"
+    },
+    "standards_of_creation": {
+      "passes": true,
+      "evidence": "Section is well-formed and properly codified."
+    },
+    "standard_of_care": {
+      "passes": "PARTIAL",
+      "current_layer": "VERIFIED \u2014 current form fetched, hashed (sha256: 1d1530c9752a7a94d20cd2b948c2828f99c0b72d3b40dcbfbf7b4869d2911ec3), and verbatim-extracted",
+      "evolution_layer": "PARTIAL \u2014 amendment history captured at manifest level; primary-source amendment volumes not yet downloaded",
+      "origin_layer": "IDENTIFIED \u2014 original enactment recorded in amendment_history; primary-source not yet fetched"
+    }
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT \u2014 verbatim text extracted",
+    "reasoning": "PARTIAL \u2014 recorded in legislative findings where applicable",
+    "historical_loss": "OUTSTANDING",
+    "cross_references": "PARTIAL",
+    "verifiable_provenance": "PRESENT for current form; ABSENT for evolution and origin layers"
+  },
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction (Michael Hartmann), 2026-04-08",
+    "second_mouth_witness": "NONE \u2014 not yet countersigned",
+    "publishable_to_corpus": false,
+    "status": "PROPOSED-DEEPENED-COMPACT"
+  },
+  "files": {
+    "origin": [],
+    "evolution": [],
+    "current": [
+      "current/cal_hsc_113700_leginfo.html",
+      "current/cal_hsc_113700_leginfo.txt"
+    ],
+    "context": [],
+    "manifest": "manifest.json",
+    "provenance": "provenance.json"
+  },
+  "outstanding_work": [
+    "Locate and fetch primary-source statute volumes for the original enactment and key amendments",
+    "Document the historical-loss layer \u2014 what specific incidents drove the section's enactment",
+    "Fetch operative downstream sections in the same article/chapter as integrity-tracked HTML markers",
+    "Build cross-references to other Vernen corpus standards where applicable",
+    "Obtain second-mouth countersignature on the standard"
+  ]
+}

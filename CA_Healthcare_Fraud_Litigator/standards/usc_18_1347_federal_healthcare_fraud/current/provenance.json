@@ -1,0 +1,11 @@
+{
+  "source": "18 U.S.C. § 1347 — text from training knowledge; NOT verified via live fetch",
+  "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1347&num=0&edition=prelim",
+  "retrieved": "2026-04-12",
+  "retrieval_tool": "Training knowledge (VernenLegal MCP usc_get_section returned not found)",
+  "sha256": "888ab38d66bb61c562461593be6e5039a061b2d9f469991ead5a2469369ef86a",
+  "bill_origin": "HIPAA, Pub. L. 104-191 (1996); ACA, Pub. L. 111-148 (2010) amendments",
+  "effective_date": "1996 (original); 2010 (ACA amendments)",
+  "verified": false,
+  "notes": "CRITICAL: Steward must verify full current text at uscode.house.gov before any filing reliance. The §1347(b) knowledge provision and serious bodily injury/death enhancements are accurately reflected but current statutory text must be confirmed."
+}

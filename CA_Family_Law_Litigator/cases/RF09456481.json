@@ -1,0 +1,74 @@
+{
+  "case_number": "RF09456481",
+  "court": "Alameda County Superior Court",
+  "jurisdiction": "Alameda County, California",
+  "type": "Original DV / Custody",
+  "petitioner": "Michael Hartmann",
+  "respondent": "Christina Hartmann (Cerretani)",
+  "filed_date": "2009-06-08",
+  "current_status": "Michael protected. NO disposition on the case chart. The 7/2/2009 disposition (Paredes recommendation, sole custody to Michael, supervised visitation for Christina) is on the case chart for RF09459897 instead, which is anomalous.",
+  "key_dates": [
+    {
+      "date": "2009-06-08",
+      "event": "Michael files TRO"
+    },
+    {
+      "date": "2009-06-11",
+      "event": "OPD report 09-040089 filed (the contested fabricated report; basis for Christina's counter-narrative)"
+    },
+    {
+      "date": "2009-06-26",
+      "event": "Christina files counter DV-100 (becomes case RF09459897)"
+    },
+    {
+      "date": "2009-06-29",
+      "event": "Court order \u2014 Michael holds sole custody from this date forward"
+    },
+    {
+      "date": "2009-07-02",
+      "event": "Olga Paredes mediation hearing; Judge Trina Thompson adopts recommendation; sole custody confirmed"
+    },
+    {
+      "date": "2010-09-02",
+      "event": "Sala Ajaniku mediation hearing; Judge Paul A. Delucchi adopts recommendation; DVRO modified; Christina granted unsupervised visitation"
+    }
+  ],
+  "source_folder": "${familylaw}/RO_DVRO_Custody-RF09456481/",
+  "subfolders_by_date": [
+    "${familylaw}/RO_DVRO_Custody-RF09456481/2009-02-15/",
+    "${familylaw}/RO_DVRO_Custody-RF09456481/2009-06-08/",
+    "${familylaw}/RO_DVRO_Custody-RF09456481/2009-06-10/",
+    "${familylaw}/RO_DVRO_Custody-RF09456481/2009-06-11/",
+    "${familylaw}/RO_DVRO_Custody-RF09456481/2009-06-26/",
+    "${familylaw}/RO_DVRO_Custody-RF09456481/2009-06-26.1/",
+    "${familylaw}/RO_DVRO_Custody-RF09456481/2009-6-08/",
+    "${familylaw}/RO_DVRO_Custody-RF09456481/2009-07-02/"
+  ],
+  "related_actors": [
+    "paredes_olga",
+    "ajaniku_sala",
+    "thompson_trina_judge",
+    "delucchi_paul_judge",
+    "cerretani_christina",
+    "hillberg_ann"
+  ],
+  "related_standards": [
+    "CA_FAMILY_CODE_3011_BEST_INTEREST",
+    "CA_FAM_3020_CUSTODY_POLICY",
+    "CA_FAM_6203_DVPA_ABUSE_DEFINITION"
+  ],
+  "related_cases": [
+    "RF09459897",
+    "RF09470833",
+    "RF10508853",
+    "RF10508859"
+  ],
+  "known_anomalies": [
+    "Disposition for the 7/2/2009 Paredes hearing appears on RF09459897 (Christina's counter) instead of on RF09456481 (Michael's original) where it was actually issued",
+    "Mediator switch between 2009 and 2010 (Paredes \u2192 Ajaniku) without documented reason",
+    "Judge switch between 2009 and 2010 (Thompson \u2192 Delucchi) without documented reason",
+    "Sala Ajaniku, who issued the 2010-09-02 recommendation that removed protective supervision, has zero verifiable credentials",
+    "The 2009-06-11 OPD report (09-040089) that anchors Christina's counter-narrative has POST violations (POST-002B overlay rule) and the contemporaneous 6/2/2009 OPD report (the actual 5150 incident) does not exist in OPD records per October 2025 records pickup"
+  ],
+  "filed_at_utc": "2026-04-08T18:05:00Z"
+}

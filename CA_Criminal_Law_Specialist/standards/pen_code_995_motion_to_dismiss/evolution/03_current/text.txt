@@ -1,0 +1,15 @@
+Pointer to current/ directory.
+
+The current text of Cal. Penal Code § 995 is in:
+../../../current/text.txt
+
+The chain closes here: 1872 original (procedural — was hearing held?) → mid-20th century modernization (substantive — was PC finding legally sufficient?) → current.
+
+Current operative framework:
+- § 995(a)(2)(A): information must be set aside if defendant was NOT legally committed by a magistrate
+- § 995(a)(2)(B): information must be set aside if defendant was committed WITHOUT reasonable or probable cause
+- § 995a: limitations (waiver, preservation of error)
+
+Standard of review: court conducts an independent review of the preliminary hearing transcript, applying the same standard as the magistrate — whether the evidence, including reasonable inferences, supports a strong suspicion of guilt. Illegally obtained evidence excluded at the preliminary hearing CANNOT support the commitment (Pen. Code § 1538.5 overlap).
+
+For Case #7: the § 995 motion tests whether the APD testimony and evidence at the preliminary hearing, stripped of any unconstitutionally obtained material, supported the commitment on each charged count.

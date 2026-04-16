@@ -1,0 +1,16 @@
+{
+  "standard_id": "gov_12965_feha_civil_action",
+  "layer": "historical_chain",
+  "subdirectory": "01_origin_1980",
+  "primary_source": "Cal. Gov. Code \u00a7 12965",
+  "enactment": "Stats. 1980, Ch. 992",
+  "key_amendments": [
+    "Stats. 2019, Ch. 709 \u2014 complaint SOL extended from 1 year to 3 years",
+    "Stats. 2021, Ch. 357 \u2014 DFEH renamed CRD"
+  ],
+  "current_form_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=12965.&lawCode=GOV",
+  "verified": true,
+  "fetch_method": "VernenLegal MCP california_get_section",
+  "fetch_date": "2026-04-12",
+  "chronicle_flag": false
+}

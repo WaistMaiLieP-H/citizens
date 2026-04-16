@@ -1,0 +1,70 @@
+PEOPLE v. JACKSON
+77 Cal.App.4th 574 (2000)
+California Court of Appeal
+Decided: 2000
+
+---
+
+CITATION STATUS: VERIFIED — People v. Jackson (2000) 77 Cal.App.4th 574 confirmed on Justia and Leagle (91 Cal.Rptr.2d 805).
+
+---
+
+FACTS:
+
+Defendant was convicted of § 273.5 (corporal injury to a cohabitant). The victim was injured while attempting to escape from the defendant's assault, not from the defendant's direct application of force to the victim's body. The court addressed whether § 273.5 requires direct application of force.
+
+---
+
+HOLDING:
+
+§ 243(e)(1) AS LESSER INCLUDED OFFENSE; DIRECT-FORCE REQUIREMENT:
+
+1. **§ 273.5 requires direct application of force.** Section 273.5 is not violated unless the corporal injury results from a direct application of force by the defendant on the victim. If the victim's injury results from the victim's own escape attempt rather than the defendant's direct force, § 273.5 is not satisfied.
+
+2. **§ 243(e)(1) is a lesser included offense of § 273.5.** The court modified the judgment from § 273.5 to the lesser included offense, § 243(e)(1) (domestic battery), because the battery element was established even where the traumatic condition element failed.
+
+3. **§ 273.5 requires a "traumatic condition"** — a wound or external or internal injury caused by direct physical force. No traumatic condition = § 273.5 fails; battery may still be proved under § 243(e)(1).
+
+4. **§ 243(e)(1) requires only a battery** (unlawful touching or use of force) against a qualifying domestic partner. No injury required. Always a misdemeanor.
+
+5. **Every § 273.5 violation contains the § 243(e)(1) battery element.** When § 273.5 fails on the traumatic condition, § 243(e)(1) is the available lesser conviction.
+
+---
+
+THE "TRAUMATIC CONDITION" ELEMENT OF § 273.5:
+
+"Traumatic condition" under § 273.5 is defined by case law as a wound or external or internal injury caused by a physical force, including a minor injury such as bruising or redness. The element is forgiving — even minimal physical marking satisfies the statute — but it IS required. Without any physical manifestation of injury, § 273.5 does not apply and § 243(e)(1) is the proper charge.
+
+---
+
+THE § 273.5 / § 243(e)(1) DISTINCTION DRIVES:
+
+- **Felony exposure**: § 273.5 can be charged as a felony; § 243(e)(1) is always a misdemeanor
+- **Collateral consequences**: § 273.5 triggers federal Lautenberg Amendment firearm prohibitions more clearly; immigration consequences differ; professional licensing consequences differ
+- **Sentence enhancement priors**: § 273.5 is a more serious prior for enhancement purposes
+- **Plea negotiations**: defendants charged under § 273.5 often seek to plea down to § 243(e)(1) to avoid felony exposure and collateral consequences
+
+---
+
+DEFENSE STRATEGY:
+
+When § 273.5 is charged:
+1. **Challenge the traumatic condition** — if the evidence does not clearly show injury, the element fails and the charge must be reduced to § 243(e)(1) (or acquitted if the battery element also fails)
+2. **Challenge the force-connection** — even if injury is present, the prosecution must show it was caused by the defendant's force, not accident or preexisting condition
+3. **Challenge the qualifying relationship** — same as § 243(e)(1) cohabitation analysis under Holifield
+4. **Affirmative defenses** — self-defense, defense of others, consent (rare)
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Any DV battery allegations in the Hartmann history should be analyzed for both § 273.5 and § 243(e)(1) exposure. The traumatic condition element is the primary distinguishing factor: (1) was there a battery at all? (2) was there a traumatic condition? (3) did the force cause the condition? (4) is the relationship qualifying under Holifield?
+
+---
+
+SOURCE PROVENANCE:
+Citation: People v. Jackson (2000) 77 Cal.App.4th 574, 91 Cal.Rptr.2d 805
+Court: California Court of Appeal, Fourth Appellate District
+Reporter: California Appellate Reports, Fourth Series, vol. 77, page 574
+Source: VERIFIED — citation confirmed on Justia (law.justia.com/cases/california/court-of-appeal/4th/77/574.html) and Leagle. Establishes direct-force requirement for § 273.5 and § 243(e)(1) as lesser included offense.
+Verification status: VERIFIED — citation and holding confirmed; pending steward witness review to advance to WITNESSED-BY-STEWARD

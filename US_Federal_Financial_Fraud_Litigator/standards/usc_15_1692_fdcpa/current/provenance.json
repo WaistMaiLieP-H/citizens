@@ -1,0 +1,15 @@
+{
+  "document": "15 USC §§1692–1692p (FDCPA consolidated)",
+  "source_type": "federal_statute",
+  "primary_source_url": "https://uscode.house.gov/view.xhtml?path=/prelim@title15/chapter41/subchapter5&edition=prelim",
+  "current_as_of": "2026-04-11",
+  "original_enactment": "Pub. L. 95-109, 91 Stat. 874 (Sept. 20, 1977)",
+  "last_major_amendment": "Dodd-Frank Wall Street Reform and Consumer Protection Act, Pub. L. 111-203 (2010) — transferred enforcement authority to CFPB, added §1692l(d)",
+  "cfpb_regulation": "Regulation F, 12 CFR Part 1006 (effective November 30, 2021) — CFPB rulemaking clarifying email/text communication rules, 7-in-7 call cap, electronic disclosure options",
+  "fetch_method": "WebFetch — uscode.house.gov official source",
+  "fetch_timestamp_utc": "2026-04-11T00:00:00Z",
+  "retrieval_steward": "Claude (assistant) under direction of Michael Hartmann",
+  "verbatim_capture_status": "COMPLETE — usc_15_1692_leginfo.txt contains verbatim text of §1692k (civil liability)",
+  "txt_sha256": "ea029ebf8550035ddba9e6cf9d626bc953bfb373e1e291dd44c9bc21919da233",
+  "build_date": "2026-04-11"
+}

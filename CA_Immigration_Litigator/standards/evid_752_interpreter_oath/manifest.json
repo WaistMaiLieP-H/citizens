@@ -1,0 +1,36 @@
+{
+  "standard_id": "EVID_752_INTERPRETER_OATH",
+  "version": "1.0.0",
+  "citizen": "CA_Immigration_Litigator",
+  "popular_name": "Interpreter for Witnesses — Cal. Evid. Code § 752",
+  "authority": "Cal. Evid. Code § 752",
+  "jurisdiction": "California",
+  "standard_type": "CA_STATE_STATUTE",
+  "status": "PUBLISHED — ADAM + EVE DUAL WITNESS — 2026-04-13",
+  "five_layer_score": 5,
+  "created": "2026-04-13",
+  "updated": "2026-04-13",
+  "verified": true,
+  "layers": {
+    "rule": "COMPLETE",
+    "reasoning": "COMPLETE",
+    "historical_loss": "COMPLETE",
+    "cross_references": "COMPLETE",
+    "verifiable_provenance": "COMPLETE"
+  },
+  "case_relevance": [
+    "Butsaya dissolution — were all hearings conducted with sworn §752-compliant interpreters? Unsworn translations = inadmissible",
+    "Thai document authentication — translator's sworn declaration = §752 documentary equivalent"
+  ],
+  "files": [
+    "manifest.json",
+    "current/rule.md",
+    "current/reasoning.md",
+    "current/statute_text.md",
+    "current/provenance.json",
+    "current/adam_eve_review.md",
+    "historical_chain/01_origin_1965/context.md",
+    "historical_chain/01_origin_1965/provenance.json",
+    "cross_refs/cross_refs.md"
+  ]
+}

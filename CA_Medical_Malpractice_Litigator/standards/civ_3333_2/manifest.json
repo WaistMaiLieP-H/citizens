@@ -1,0 +1,54 @@
+{
+  "standard_id": "CIV_3333_2",
+  "citizen": "CA_Medical_Malpractice_Litigator",
+  "version": "0.1.0-proposed",
+  "filed_at_utc": "2026-04-10T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "PROPOSED",
+  "primary_citation": {
+    "code": "Civ",
+    "section": "3333.2",
+    "popular_name": "MICRA Noneconomic Damages Cap",
+    "jurisdiction": "California",
+    "original_enactment": "Stats. 1975, 2d Ex. Sess., Ch. 1, §25.4 (AB 1XX, Keene)",
+    "effective": "1975-12-12",
+    "last_significant_amendment": "Stats. 2022, Ch. 17 (AB 35, Reyes) — effective 2023-01-01; first significant amendment in 47 years"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — full current text captured from leginfo including all AB 35 subdivisions; 1975 origin text captured; 2022 amendment text captured",
+    "reasoning": "PRESENT — origin context documents both the 1975 Legislature's framing and the plaintiff-advocate counter-account; AB 35 context documents the multi-party negotiation",
+    "historical_loss": "PRESENT — historical_chain.md documents the 47-year erosion of the 1975 cap and the two-sided wound (insurance crisis framing vs. patient-access erosion)",
+    "cross_references": "PRESENT — refs.json links to §340.5, §3333.1, §364, §6146, §425.13, SIRVA doctrine",
+    "verifiable_provenance": "PARTIAL — provenance.json files at each level; primary-source session-law PDF capture PENDING for both 1975 and 2022 enactments"
+  },
+  "evolution_chain": [
+    {"stage": "01_origin_1975", "folder": "evolution/01_origin_1975/", "status": "BUILT"},
+    {"stage": "02_ab35_2022", "folder": "evolution/02_ab35_2022/", "status": "BUILT"},
+    {"stage": "03_current", "folder": "evolution/03_current/", "status": "POINTS_TO_CURRENT"}
+  ],
+  "case_law": {
+    "uphold": [
+      {"slug": "fein_v_permanente", "cite": "38 Cal.3d 137 (1985)", "rule": "§3333.2 cap survives state constitutional challenge (equal protection, due process, jury trial)", "files": ["holding.md", "provenance.json", "statute_version_cited.md"], "status": "BUILT"}
+    ],
+    "strike": [],
+    "interpretive": [
+      {"slug": "hrimnak_v_watkins", "cite": "38 Cal.App.4th 964 (1995)", "rule": "§3333.2 applies only to professional negligence; fraud, battery, intentional torts escape the cap", "files": ["holding.md", "provenance.json", "statute_version_cited.md"], "status": "BUILT"}
+    ]
+  },
+  "cross_refs_path": "cross_refs/refs.json",
+  "historical_chain_path": "historical_chain.md",
+  "operational_caps_2026": {
+    "_comment": "Pre-computed caps for the steward's case-filing posture. Recompute each January.",
+    "non_death_noneconomic_cap": 470000,
+    "death_noneconomic_cap": 650000,
+    "basis": "AB 35: $350K (2023) + $40K × 3 years through 2026 = $470K; $500K (2023) + $50K × 3 = $650K"
+  },
+  "outstanding_work": [
+    "Primary-source session-law PDF capture (1975 and 2022)",
+    "Primary-source opinion text for both cases",
+    "Second-witness review",
+    "Build §3333.1 collateral source abrogation standard as sister provision"
+  ],
+  "hash_sha256_current": null,
+  "witness_status": "AWAITING_STEWARD_WITNESS"
+}

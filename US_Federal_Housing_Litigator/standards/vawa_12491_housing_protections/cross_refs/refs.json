@@ -1,0 +1,41 @@
+{
+  "standard_id": "VAWA_34_USC_12491_HOUSING_PROTECTIONS",
+  "cross_refs": [
+    {
+      "id": "xref_001",
+      "citation": "42 U.S.C. § 3604 — Fair Housing Act § 3604 Prohibited Acts",
+      "citizen_standard": "${citizens}/US_Federal_Housing_Litigator/standards/fha_3604_prohibited_acts",
+      "relationship": "concurrent claim — § 3604(b)/(f) discriminatory housing terms companion; where DV victim status intersects with protected class (sex, disability), both statutes apply",
+      "direction": "bidirectional"
+    },
+    {
+      "id": "xref_002",
+      "citation": "31 U.S.C. § 3729 — False Claims Act",
+      "citizen_standard": "US_Federal_Financial_Fraud_Litigator (cross-citizen)",
+      "relationship": "fraud instrument — false HUD Form 5382 self-certification to obtain federally funded housing = false claim; qui tam relator path available to person harmed by fraudulent DV claim",
+      "direction": "outbound"
+    },
+    {
+      "id": "xref_003",
+      "citation": "42 U.S.C. § 1983 — Civil Rights Act of 1871 — Government Actor Liability",
+      "citizen_standard": "${citizens}/US_Federal_Civil_Rights_Litigator/standards/usc_42_1983_civil_rights",
+      "relationship": "enforcement companion — § 1983 reaches government actors (housing authorities, court officials) who administered a fraudulent DV-based housing placement; state action required",
+      "direction": "outbound"
+    },
+    {
+      "id": "xref_004",
+      "citation": "Cal. Gov. Code § 12955 — FEHA Housing Anti-Discrimination",
+      "citizen_standard": "${citizens}/US_Federal_Housing_Litigator/standards/gov_12955_feha_housing_discrimination",
+      "relationship": "state law parallel — where federal § 12491 program covers CA-based housing, CA FEHA § 12955 may run concurrently; broader protected classes under state law",
+      "direction": "bidirectional"
+    },
+    {
+      "id": "xref_005",
+      "citation": "18 U.S.C. § 1001 — False Statements to Federal Agencies",
+      "citizen_standard": "${citizens}/US_Federal_Criminal_Defense_Litigator",
+      "relationship": "criminal exposure — knowing false statement on HUD Form 5382 to a federal housing authority = potential § 1001 violation; element: statement to department/agency of the United States",
+      "direction": "outbound"
+    }
+  ],
+  "boundary_note": "§ 12491 covers housing program access and DV-based housing protections. The criminal DV case (PC § 273.5, PC § 243(e)), family court DVRO proceedings (FC § 6200 et seq.), and custody matters are owned by CA_Criminal_Law_Specialist and CA_Family_Law_Litigator respectively. The False Claims Act qui tam theory is owned by US_Federal_Financial_Fraud_Litigator. § 12491 provides the housing statute anchor; companion Citizens provide the fraud and enforcement layers."
+}

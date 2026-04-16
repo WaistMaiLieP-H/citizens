@@ -1,0 +1,12 @@
+{
+  "stage": "02_amendment_1998_technology",
+  "sources": [
+    "Incremental California Legislative amendments 1994-2002 (specific session law citations pending verbatim capture)",
+    "California Consumer Privacy Act (CCPA), Stats. 2018, Ch. 55 (SB 1121), effective 2020-01-01 — private sector framework that does NOT supersede IPA",
+    "Federal Driver's Privacy Protection Act, Pub. L. 103-322 (1994) — influenced California DMV disclosure restrictions"
+  ],
+  "wound_addressed": "1977 architecture did not address electronic transfers, automated database sharing, or digital record systems; CCPA (2018) created private-sector framework requiring clarification that IPA remains exclusive for state agencies",
+  "key_distinction": "CCPA applies to private businesses; IPA applies to state agencies — they govern separate sectors and do not overlap on state agency records",
+  "verbatim_capture_status": "PENDING",
+  "build_date": "2026-04-11"
+}

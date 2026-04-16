@@ -1,0 +1,17 @@
+{
+  "standard_id": "CA_CRC_5_215_DV_PROTOCOL",
+  "provenance_record_filed_at_utc": "2026-04-08T22:00:00Z",
+  "fetcher_software": "VernenLegal MCP + WebFetch from courts.ca.gov",
+  "fetcher_operator": "Claude (assistant) under steward direction (Michael Hartmann)",
+  "fetches": [
+    {
+      "artifact_local_path": "current/cal_crc_5_215_courts_ca_gov.txt",
+      "source_url": "https://www.courts.ca.gov/cms/rules/index.cfm?title=five&linkid=rule5_215",
+      "source_authority": "California Courts (courts.ca.gov), maintained by the Judicial Council of California",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-08T22:00:00Z",
+      "fetch_method": "VernenLegal MCP + WebFetch from courts.ca.gov",
+      "content_description": "Domestic Violence Protocol for Family Court Services — Screening, Safety, Training"
+    }
+  ]
+}

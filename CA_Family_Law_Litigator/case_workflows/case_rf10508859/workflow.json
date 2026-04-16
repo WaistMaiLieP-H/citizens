@@ -1,0 +1,52 @@
+{
+  "workflow_id": "CASE_RF10508859",
+  "case_number": "RF10508859",
+  "case_type": "Grandparent Visitation (Ann Marie Packard / Hillberg, 2010-04-09)",
+  "court": "Alameda County Superior Court",
+  "filed_at_utc": "2026-04-14T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction \u2014 Michael Hartmann",
+  "status": "SCAFFOLD COUNTERSIGNED \u2014 steward deepening pending",
+  "parties": {
+    "petitioner": "Ann Marie Packard",
+    "respondent": "Michael Hartmann"
+  },
+  "current_posture": "Michael NEVER SERVED. Filed same day as Christina's RF10508853 ex parte dissolution.",
+  "bound_actors": [
+    "hillberg_ann",
+    "cerretani_christina"
+  ],
+  "bound_standards": [
+    "CA_CCP_1005_MOTION_NOTICE",
+    "CA_CCP_2015_5"
+  ],
+  "working_theories": [
+    "Service-of-process defect \u2014 \u00a7 1005 notice failure anchor",
+    "Coordinated same-day filing with RF10508853 \u2014 orchestration pattern (see project_familylaw_orchestration.md)",
+    "Grandparent visitation statute (Fam \u00a7\u00a7 3102-3104) NOT YET IN TETHER \u2014 flag to add"
+  ],
+  "source_folder_pointer": "${familylaw}/ \u2014 see tether.json cases.bound for exact subfolder",
+  "cross_tethered_citizens": [
+    "HERALD (acting witness)",
+    "CA_Civil_Rights_Litigator",
+    "CA_Records_Authentication_Specialist",
+    "CA_Forensic_Document_Specialist"
+  ],
+  "deliverables_index": "deliverables/",
+  "evidence_index_path": "evidence_index/",
+  "theories_path": "theories/",
+  "two_witness_status": {
+    "adam_scaffold": {
+      "witness": "ADAM (Seed Citizen \u2014 Builder)",
+      "witnessed_at_utc": "2026-04-14T00:00:00Z",
+      "signal": "SCAFFOLD-APPROVED",
+      "scope": "Case bound into workflow registry; standards/actors/theories enumerated from tether.json and bound memory artifacts. Deepening and deliverable drafting left to EVE pass + steward review."
+    },
+    "eve_countersign": {
+      "witness": "EVE (Seed Citizen \u2014 Witness role)",
+      "witnessed_at_utc": "2026-04-14T00:00:00Z",
+      "verification_scope": "Case bindings reviewed against tether.json cases.bound; bound_standards each PUBLISHED ADAM+EVE this session; bound_actors resolvable via _shared_actors/; working_theories consistent with project memory and dossier.md substantive scope. Deepening and deliverable drafting remain steward-gated.",
+      "signal": "COUNTERSIGN"
+    },
+    "steward_review": "PENDING"
+  }
+}

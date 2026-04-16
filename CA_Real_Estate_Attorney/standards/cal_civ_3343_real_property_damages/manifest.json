@@ -1,0 +1,36 @@
+{
+  "standard_id": "CAL_CIV_3343",
+  "version": "0.2.0-witnessed-by-herald",
+  "filed_at_utc": "2026-04-11T05:25:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "primary_citation": {
+    "code": "California Civil Code",
+    "section": "§ 3343",
+    "popular_name": "Out-of-pocket damages rule for real property fraud",
+    "jurisdiction": "California (state)",
+    "location_in_code": "Civil Code, Division 4, Part 1, Title 2, Chapter 2",
+    "original_enactment": "1872 Civil Code with subsequent amendments to expand consequential damages categories"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current text captured via MCP",
+    "reasoning": "PRESENT — out-of-pocket vs. benefit-of-the-bargain distinction; four consequential damage categories; relationship to other remedies documented in context.md",
+    "historical_loss": "PRESENT — incorporated in context.md; the California-specific choice of out-of-pocket rule vs. common-law benefit-of-the-bargain",
+    "cross_references": "PRESENT — cross_refs/refs.json",
+    "verifiable_provenance": "PARTIAL — current text via MCP"
+  },
+  "case_law": [],
+  "cases_to_add": [
+    "Stout v. Turney (1978) 22 Cal.3d 718",
+    "Alliance Mortgage Co. v. Rothwell (1995) 10 Cal.4th 1226",
+    "Garrett v. Perry (1959) 53 Cal.2d 178",
+    "Bagdasarian v. Gragnon (1948) 31 Cal.2d 744"
+  ],
+  "citizen_relevance": "Critical damages calculation statute for the Honeysuckle complaint. Out-of-pocket measure: $605K − $109K = $496K baseline, plus consequential damages, plus punitive damages under § 3294.",
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

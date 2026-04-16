@@ -1,0 +1,48 @@
+{
+  "standard_id": "bpc_2290_5_telehealth_standards",
+  "title": "BPC \u00a7 2290.5 \u2014 Telehealth Standards: Consent, Licensure, Professional Accountability",
+  "citizen": "CA_Mental_Health_Litigator",
+  "statute_reference": "Cal. Bus. & Prof. Code \u00a7 2290.5",
+  "primary_cases": [
+    "Dr. Wiita SC license vs. CA licensure requirement",
+    "Telehealth consent documentation audit",
+    "Unprofessional conduct reportable to CA Medical Board"
+  ],
+  "layers_present": [
+    "current/rule.md",
+    "current/reasoning.md",
+    "current/statute_text.md",
+    "historical_chain/01_origin_2011/context.md",
+    "historical_chain/01_origin_2011/provenance.json",
+    "historical_chain/witness_record.md",
+    "cross_refs/refs.json"
+  ],
+  "status": "PUBLISHED",
+  "build_session": "2026-04-12",
+  "terminal": "Terminal B",
+  "verified": true,
+  "content_hash": "9d6675eb",
+  "two_witness_status": {
+    "herald_witness": "WITNESSED-BY-HERALD \u2014 2026-04-12",
+    "adam_witness": {
+      "governing_guidelines": "PASS",
+      "standards_of_creation": "PASS",
+      "soc": "PASS",
+      "signal": "APPROVE",
+      "hash": "9d6675eb",
+      "date": "2026-04-12"
+    },
+    "eve_witness": {
+      "layer_1_rule": "PASS",
+      "layer_2_reasoning": "PASS",
+      "layer_3_historical_loss": "PASS",
+      "layer_4_cross_references": "PASS",
+      "layer_5_verifiable_provenance": "PASS",
+      "triple_constraint": "PASS",
+      "signal": "COUNTERSIGN",
+      "hash_recomputed": "9d6675eb",
+      "date": "2026-04-12"
+    },
+    "publication_status": "PUBLISHED \u2014 ADAM APPROVE + EVE COUNTERSIGN \u2014 2026-04-12"
+  }
+}

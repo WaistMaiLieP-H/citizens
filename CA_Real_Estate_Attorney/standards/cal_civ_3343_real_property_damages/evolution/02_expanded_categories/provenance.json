@@ -1,0 +1,15 @@
+{
+  "evolution_stage": "02_expanded_categories",
+  "standard_id": "CAL_CIV_3343",
+  "description": "Amendment adding specific subcategories of recoverable damage — (a)(1)-(4) and (b)(1)-(2)",
+  "enacted_by": "REQUIRES_PRIMARY_SOURCE_VERIFICATION",
+  "effective_date": "REQUIRES_PRIMARY_SOURCE_VERIFICATION",
+  "text_source": "leginfo.legislature.ca.gov via VernenLegal MCP, 2026-04-10",
+  "primary_source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=3343.",
+  "retrieval_method": "Current text confirmed via MCP; historical amendment date requires verification",
+  "verification_status": "TEXT_CONFIRMED — AMENDMENT_DATE_REQUIRES_VERIFICATION",
+  "html_sha256": null,
+  "fetch_timestamp": "2026-04-11T00:00:00Z",
+  "fetch_tool": "VernenLegal MCP",
+  "retrieval_steward": "Claude (assistant) under steward direction — Michael Hartmann"
+}

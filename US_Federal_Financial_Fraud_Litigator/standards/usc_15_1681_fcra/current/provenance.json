@@ -1,0 +1,15 @@
+{
+  "document": "15 USC §§1681–1681x (FCRA consolidated)",
+  "source_type": "federal_statute",
+  "primary_source_url": "https://uscode.house.gov/view.xhtml?path=/prelim@title15/chapter41/subchapter3&edition=prelim",
+  "secondary_reference": "CFPB Summary of Rights Under FCRA, 12 CFR Part 1022 (Regulation V)",
+  "current_as_of": "2026-04-10",
+  "last_major_amendment": "Dodd-Frank Wall Street Reform and Consumer Protection Act, Pub. L. 111-203 (2010) — transferred enforcement authority to CFPB",
+  "prior_major_amendment": "Fair and Accurate Credit Transactions Act (FACTA), Pub. L. 108-159 (2003) — added identity theft provisions including §1681c-2",
+  "fetch_method": "WebFetch — uscode.house.gov official source",
+  "fetch_timestamp_utc": "2026-04-11T00:00:00Z",
+  "retrieval_steward": "Claude (assistant) under direction of Michael Hartmann",
+  "verbatim_capture_status": "COMPLETE — usc_15_1681_leginfo.txt contains verbatim text of §§1681n (willful violations) and §1681o (negligent violations)",
+  "txt_sha256": "dab42faf3a33efb865946eec77c137fe85c4598873f2ab23c74f371670c4aa27",
+  "build_date": "2026-04-11"
+}

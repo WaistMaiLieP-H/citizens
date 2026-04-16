@@ -1,0 +1,67 @@
+{
+  "standard_id": "SIRVA_DOCTRINE",
+  "citizen": "CA_Medical_Malpractice_Litigator",
+  "version": "0.1.0-proposed",
+  "filed_at_utc": "2026-04-10T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "PROPOSED",
+  "standard_type": "Case-law + regulatory framework (no single statutory text)",
+  "primary_citation": {
+    "popular_name": "Shoulder Injury Related to Vaccine Administration (SIRVA) Doctrine",
+    "primary_federal_authorities": [
+      "42 USC §300aa-10 et seq. (National Childhood Vaccine Injury Act)",
+      "42 USC §300aa-22(b)(1) (NCVIA preemption)",
+      "42 USC §247d-6d (PREP Act liability immunity)",
+      "42 USC §247d-6e (CICP)",
+      "42 CFR §100.3 (Vaccine Injury Table, 2017 SIRVA addition)"
+    ],
+    "primary_case": "Bruesewitz v. Wyeth LLC, 562 U.S. 223 (2011)",
+    "primary_state_authorities": [
+      "California CCP §340.5 (MICRA SOL)",
+      "California CCP §364 (90-day pre-suit notice)",
+      "California Civ. Code §3333.2 (MICRA noneconomic damages cap)"
+    ]
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current framework document captures VICP/CICP/state-court three-regime analysis; Bruesewitz preemption carve-out documented; PREP Act immunity scope documented",
+    "reasoning": "PRESENT — historical_chain.md documents the medical recognition wound, the 2017 Table addition promise, and the PREP Act counter-wound",
+    "historical_loss": "PRESENT — documented as the mechanical injury pattern with no legal recognition 2005-2017 and the COVID-19 vaccine subset with narrowed compensation options 2020-present",
+    "cross_references": "PRESENT — refs.json links to §3333.2 cap, CCP §340.5 SOL, CCP §364 notice, ADA Title II for public-entity administrators",
+    "verifiable_provenance": "PARTIAL — provenance.json records primary authorities; primary-source capture of Bruesewitz opinion and PREP Act declarations PENDING"
+  },
+  "evolution_chain": [
+    {"stage": "01_recognition_2010s", "folder": "evolution/01_recognition_2010s/", "status": "PLACEHOLDER"},
+    {"stage": "02_ncvia_boundary", "folder": "evolution/02_ncvia_boundary/", "status": "PLACEHOLDER"},
+    {"stage": "03_prep_act_covid", "folder": "evolution/03_prep_act_covid/", "status": "PLACEHOLDER"},
+    {"stage": "04_current", "folder": "evolution/04_current/", "status": "POINTS_TO_CURRENT"}
+  ],
+  "case_law": {
+    "uphold": [],
+    "strike": [],
+    "interpretive": [
+      {"slug": "bruesewitz_v_wyeth", "cite": "562 U.S. 223 (2011)", "rule": "NCVIA preempts state-court design-defect claims against vaccine manufacturers; does NOT preempt negligent-administration claims against providers", "files": ["holding.md", "provenance.json", "statute_version_cited.md"], "status": "BUILT"}
+    ]
+  },
+  "cross_refs_path": "cross_refs/refs.json",
+  "historical_chain_path": "historical_chain.md",
+  "operational_notes_for_steward_case": {
+    "case_folder": "${nonfamilylaw}/04-22_Shoulder_Surgery",
+    "discovery_date": "2026-03-18",
+    "sol_calendar": {
+      "ccp_340_5_outer_limit": "2027-03-18 (one year from discovery)",
+      "ccp_364_notice_deadline": "Serve pre-suit notice by 2026-12-18 to preserve §364 tolling window if filing late"
+    },
+    "defendant_targets": ["Walgreens Boots Alliance (corporate)", "Walgreens Brentwood store entity", "Administering pharmacist (name TBD from records)"],
+    "pleading_strategy": "Negligent injection technique (not vaccine design) + willful misconduct in the alternative (PREP Act exception)",
+    "federal_program_status": "CICP 1-year window expired; VICP not applicable to COVID-19 vaccines"
+  },
+  "outstanding_work": [
+    "Primary-source capture of Bruesewitz opinion",
+    "Primary-source capture of PREP Act 2020 HHS declaration",
+    "Primary-source capture of 2017 SIRVA Table addition (42 CFR §100.3 amendment)",
+    "Build Kehler and other VICP SIRVA Special Master decisions as additional case law",
+    "Track contested COVID-19 SIRVA state-court decisions (federal district court PREP Act rulings)"
+  ],
+  "hash_sha256_current": null,
+  "witness_status": "AWAITING_STEWARD_WITNESS"
+}

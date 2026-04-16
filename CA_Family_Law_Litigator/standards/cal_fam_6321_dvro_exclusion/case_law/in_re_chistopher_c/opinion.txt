@@ -1,0 +1,30 @@
+IN RE CHRISTOPHER C.
+182 Cal.App.4th 73
+California Court of Appeal, 2010
+
+FACTS:
+Dependency proceeding where a parent sought exclusion of the other parent from
+the family home under the DVPA, in conjunction with a dependency case involving
+the children. The excluded parent challenged both the sufficiency of the DVPA
+exclusion order and its interaction with the dependency court's jurisdiction
+over the children's placement.
+
+HOLDING — CAL. FAM. CODE § 6321 / EMOTIONAL HARM:
+The court addressed the emotional harm prong of § 6321(a)(1), holding that
+documented evidence of children's emotional disturbance attributable to exposure
+to the excluded party's conduct was sufficient to support the "emotional harm
+would otherwise result" finding. The court confirmed that § 6321's "emotional
+harm" prong is not limited to physical violence — sustained psychological
+intimidation, harassment, and conduct causing documented trauma in the children
+satisfies the statutory standard.
+
+SIGNIFICANCE:
+Confirms that emotional harm to children — not just physical harm — satisfies
+§ 6321(a)(1). This is a double-edged sword: it means an exclusion order can
+be obtained without physical violence if emotional harm to children is shown,
+but it also means that a party seeking to contest an exclusion order must
+directly address the emotional harm evidence, not just the absence of physical
+violence. In the steward's case, the emotional harm framing is frequently used
+in counter-filings; the Christopher C. standard means each such claim must be
+specifically rebutted with evidence that the alleged emotional harm was caused
+by the counter-filing campaign itself, not by the steward's presence.

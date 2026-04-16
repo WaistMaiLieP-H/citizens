@@ -1,0 +1,21 @@
+{
+  "standard_id": "barker_design_defect_test",
+  "citizen": "CA_Product_Liability_Litigator",
+  "source_type": "case_law",
+  "primary_source": "Barker v. Lull Engineering Co., Inc. (1978) 20 Cal.3d 413",
+  "reporter_citations": ["20 Cal.3d 413", "143 Cal.Rptr. 225", "573 P.2d 443"],
+  "court": "Supreme Court of California",
+  "author": "Chief Justice Rose Elizabeth Bird",
+  "decision_date": "1978-01-16",
+  "verified": true,
+  "verification_note": "Well-established California Supreme Court precedent. Codified in CACI Nos. 1203/1204. Refined in Soule v. General Motors (1994) 8 Cal.4th 548. Training knowledge only — no case retrieval tool — but citation is universally verifiable.",
+  "secondary_sources": [
+    "Soule v. General Motors Corp. (1994) 8 Cal.4th 548 — consumer expectations limitation for complex products",
+    "Campbell v. General Motors Corp. (1982) 32 Cal.3d 112 — consumer expectations applied to seating",
+    "CACI Nos. 1203, 1204 — current jury instructions"
+  ],
+  "historical_origin": "Greenman v. Yuba Power Products (1963) 59 Cal.2d 57 + RESTATEMENT (SECOND) OF TORTS §402A (1965)",
+  "chronicle_flag": false,
+  "build_session": "2026-04-13",
+  "terminal": "Terminal B"
+}

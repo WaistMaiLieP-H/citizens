@@ -1,0 +1,31 @@
+PEN Code § 1001.36 (2026) [excerpted — full text is extensive]
+
+(a) On an accusatory pleading alleging the commission of a misdemeanor or felony offense not set forth in subdivision (d), the court may, in its discretion, and after considering the positions of the defense and prosecution, grant pretrial diversion to a defendant pursuant to this section if the defendant satisfies the eligibility requirements for pretrial diversion set forth in subdivision (b) and the court determines that the defendant is suitable for that diversion under the factors set forth in subdivision (c).
+
+(b) A defendant is eligible for pretrial diversion pursuant to this section if both of the following criteria are met:
+  (1) The defendant has been diagnosed with a mental disorder as identified in the most recent edition of the DSM, including, but not limited to, bipolar disorder, schizophrenia, schizoaffective disorder, or PTSD, but excluding antisocial personality disorder and pedophilia. Evidence of the defendant's mental disorder shall be provided by the defense and shall include a diagnosis or treatment for a diagnosed mental disorder within the last five years by a qualified mental health expert.
+  (2) The defendant's mental disorder was a significant factor in the commission of the charged offense. If the defendant has been diagnosed with a mental disorder, the court shall find that the defendant's mental disorder was a significant factor in the commission of the offense unless there is clear and convincing evidence that it was not a motivating factor, causal factor, or contributing factor to the defendant's involvement in the alleged offense.
+
+(c) For any defendant who satisfies the eligibility requirements in subdivision (b), the court must consider whether the defendant is suitable for pretrial diversion. A defendant is suitable for pretrial diversion if all of the following criteria are met:
+  (1) In the opinion of a qualified mental health expert, the defendant's symptoms of the mental disorder causing, contributing to, or motivating the criminal behavior would respond to mental health treatment.
+  (2) The defendant consents to diversion and waives the defendant's right to a speedy trial [or meets incompetency diversion criteria under § 1370].
+  (3) The defendant agrees to comply with treatment as a condition of diversion.
+  (4) The defendant will not pose an unreasonable risk of danger to public safety, as defined in Section 1170.18, if treated in the community.
+
+(d) Excluded offenses [not eligible for § 1001.36 diversion]:
+  (1) Murder or voluntary manslaughter
+  (2) Sex registration offenses (§ 290), except § 314
+  (3) Rape
+  (4) Lewd or lascivious act on child under 14 (§ 288)
+  (5) Assault with intent to commit rape/sodomy/oral copulation (§ 220)
+  (6) Rape or penetration in concert (§ 264.1)
+  (7) Continuous sexual abuse of child (§ 288.5)
+  (8) Specified WMD violations (§ 11418(b)/(c))
+
+(f)(1) "Pretrial diversion" means the postponement of prosecution, temporarily or permanently, from charge through adjudication, to allow mental health treatment. Maximum diversion period: 2 years (felony), 1 year (misdemeanor).
+
+(h) Upon satisfactory completion of diversion, the court shall dismiss the charges. The arrest shall be deemed never to have occurred and records shall be restricted per § 1001.9.
+
+(i) A record pertaining to an arrest resulting in successful completion of diversion shall not, without the defendant's consent, be used in any way that could result in the denial of any employment, benefit, license, or certificate.
+
+Source: leginfo.legislature.ca.gov, retrieved 2026-04-11. Full text on file in leginfo; excerpted for working context.

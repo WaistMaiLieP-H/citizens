@@ -1,0 +1,72 @@
+TAN v. SUPERIOR COURT (PEOPLE)
+[2022]
+California Court of Appeal, First Appellate District
+Docket No.: A163715
+
+---
+
+CITATION STATUS: VERIFIED — confirmed at law.justia.com/cases/california/court-of-appeal/2022/a163715.html; Justia docket number A163715. Reporter citation pending (volume/page not confirmed from search results; confirm at courts.ca.gov or Google Scholar before citing in filed document as "Tan v. Superior Court (2022) [Cal.App.5th __]").
+
+---
+
+FACTS:
+
+Defendant Tan was charged with driving under the influence (DUI) — a misdemeanor offense under the Vehicle Code. Effective January 1, 2021, the Legislature enacted Penal Code § 1001.95 (AB 3234), creating a new court-initiated misdemeanor diversion program. Section 1001.95 authorizes a trial judge to offer diversion to defendants charged with misdemeanors, over prosecutorial objection, in the interests of justice.
+
+Vehicle Code § 23640 provides that diversion is categorically prohibited for persons charged with DUI offenses. Tan sought diversion under § 1001.95, arguing that the newer, more general § 1001.95 had superseded the specific Vehicle Code § 23640 prohibition.
+
+The trial court denied the diversion application. Tan filed a writ petition.
+
+---
+
+HOLDING:
+
+§ 1001.95 DOES NOT SUPERSEDE VEHICLE CODE § 23640 — DUI INELIGIBILITY SURVIVES:
+
+1. **The two statutes can be reconciled.** Section 1001.95 is a general grant of judicial diversion authority for misdemeanors. Vehicle Code § 23640 is a specific, targeted exclusion of DUI offenses from diversion. Under the rule of statutory construction, a specific statute controls over a general statute where the two can coexist without conflict.
+
+2. **DUI defendants are not eligible for § 1001.95 diversion.** Vehicle Code § 23640's categorical DUI diversion prohibition survives the enactment of § 1001.95. The Legislature did not expressly repeal § 23640 when it enacted § 1001.95, and implied repeal is disfavored.
+
+3. **§ 1001.95 does not list DUI as an exclusion, but § 23640 is an independent exclusion.** The fact that § 1001.95 lists other specific offense exclusions (domestic violence, stalking, certain sex offenses) does not mean it intended to create an exhaustive list that overrides all pre-existing diversion prohibitions in the Vehicle Code.
+
+4. **Reconciliation principle governs.** Courts must reconcile statutes if possible; repeal by implication is not favored. The DUI exclusion in § 23640 is a focused, identifiable legislative policy choice — limiting diversion for a specific category of public safety offense — that is consistent with the § 1001.95 general framework.
+
+---
+
+SCOPE OF TAN — WHAT TAN DOES NOT HOLD:
+
+Tan is limited to the DUI/§ 23640 context. Tan does NOT hold:
+- That § 1001.95 diversion is unavailable for misdemeanors generally
+- That specific-statute exclusions outside the Vehicle Code context automatically survive § 1001.95
+- That a trial court must deny diversion when the prosecution objects (§ 1001.95 expressly allows judicial grant over prosecutorial objection)
+
+For non-DUI misdemeanors: § 1001.95 discretion operates fully, subject only to the exclusions expressly stated in § 1001.95 and any other specific pre-existing diversion bars that a court determines were not superseded.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For M25-00758 (Solano County — diversion pending):
+
+1. **Is the charge DUI?** If yes, § 1001.95 is unavailable per Tan. Shift to § 1001.36 (mental health diversion) analysis if a qualifying mental disorder is documented.
+
+2. **Is the charge § 243(e)(1) (misdemeanor DV battery)?** § 1001.95 has its own DV exclusion — check § 1001.95(e) for the specific DV/stalking exclusions listed in the statute. If the charge is DV-related but not on the exclusion list, Tan does not bar § 1001.95.
+
+3. **Non-DV, non-DUI misdemeanor?** § 1001.95 applies fully — Tan is irrelevant. Court retains full discretion; prosecution cannot veto.
+
+---
+
+COORDINATING CASES:
+
+- **People v. Allen (2021)** — co-documented case in this standard. Addresses a different dimension of § 1001.95.
+- **People v. Frahs (2020) 9 Cal.5th 618** — the § 1001.36 retroactivity case. For defendants with qualifying mental health disorders, § 1001.36 is an alternative where § 1001.95 is unavailable (DUI context) or where DV exclusion applies.
+
+---
+
+SOURCE PROVENANCE:
+Citation: Tan v. Superior Court (People) (2022)
+Court: California Court of Appeal, First Appellate District
+Docket: A163715
+Source: VERIFIED — confirmed at law.justia.com/cases/california/court-of-appeal/2022/a163715.html. Reporter volume/page pending confirmation.
+Holding: § 1001.95 does not supersede Vehicle Code § 23640 DUI diversion prohibition; DUI defendants remain ineligible for § 1001.95 diversion; statutes reconciled.
+Verification status: CITATION VERIFIED (docket/URL); reporter citation pending confirmation — verify volume/page at courts.ca.gov or Google Scholar before filing

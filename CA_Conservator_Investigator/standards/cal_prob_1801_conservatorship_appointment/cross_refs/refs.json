@@ -1,0 +1,34 @@
+{
+  "standard_id": "CAL_PROB_1801_CONSERVATORSHIP_APPOINTMENT",
+  "refs_updated": "2026-04-12",
+  "cross_references": [
+    {
+      "target_standard": "CAL_PROB_1800_3_MINOR_CONSERVATEE",
+      "relationship": "\u00a7 1801 opens with 'Subject to Section 1800.3' \u2014 the least restrictive alternative requirement is a prerequisite to any \u00a71801 appointment; must be satisfied before any conservatorship grounds can be found",
+      "target_citizen": "CA_Conservator_Investigator",
+      "target_manifest": "${citizens}/CA_Conservator_Investigator/standards/cal_prob_1800_3/manifest.json",
+      "build_status": "BUILT \u2014 same Citizen"
+    },
+    {
+      "target_standard": "CAL_PROB_1826_INVESTIGATOR_PRE_APPOINTMENT",
+      "relationship": "procedural prerequisite \u2014 \u00a71826 court investigator report must be filed before the \u00a71801 hearing; the investigator assesses whether \u00a71801 grounds are met and whether conservatee wishes to oppose; no \u00a71801 appointment is valid without \u00a71826 compliance",
+      "target_citizen": "CA_Conservator_Investigator",
+      "target_manifest": "${citizens}/CA_Conservator_Investigator/standards/cal_prob_1826/manifest.json",
+      "build_status": "BUILT \u2014 same Citizen"
+    },
+    {
+      "target_standard": "CAL_PROB_811_CAPACITY",
+      "relationship": "\u00a71826(a)(4)(B) requires the investigator to determine whether proposed conservatee suffers from \u00a7811 mental function deficits; \u00a7811 is the clinical framework for assessing capacity; links the legal ground (\u00a71801) to the medical finding (\u00a7811)",
+      "target_citizen": "CA_Conservator_Investigator",
+      "target_manifest": "${citizens}/CA_Conservator_Investigator/standards/cal_prob_811/manifest.json",
+      "build_status": "BUILT \u2014 same Citizen"
+    },
+    {
+      "target_standard": "42_USC_1983",
+      "relationship": "civil rights companion \u2014 a court-appointed conservator acting under court order is a state actor for \u00a71983 purposes; a county court investigator is unambiguously a state actor; procedural violations of \u00a71801/\u00a71826 by state actors causing constitutional injury (liberty deprivation without due process) = \u00a71983 claim",
+      "target_citizen": "US_Federal_Civil_Rights_Litigator",
+      "target_manifest": "${citizens}/US_Federal_Civil_Rights_Litigator/standards/42_usc_1983/manifest.json",
+      "build_status": "PUBLISHED \u2014 ADAM + EVE DUAL WITNESS 2026-04-12"
+    }
+  ]
+}

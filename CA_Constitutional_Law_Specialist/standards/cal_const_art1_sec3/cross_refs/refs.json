@@ -1,0 +1,6 @@
+[
+  {"target":"${citizens}/CA_Constitutional_Law_Specialist/standards/cal_const_art1_sec1/manifest.json","relationship":"Section 3(b)(3) explicitly preserves Section 1 privacy right against public access claims"},
+  {"target":"${citizens}/CA_Constitutional_Law_Specialist/standards/cal_const_art1_sec2/manifest.json","relationship":"Speech (§2) and petition/assembly (§3) form the participation triad"},
+  {"target":"${citizens}/CA_Constitutional_Law_Specialist/standards/cal_const_art1_sec7/manifest.json","relationship":"Section 3(b)(4) explicitly preserves Section 7 due process/equal protection guarantees"},
+  {"target":"${citizens}/CA_First_Amendment_Litigator/standards/cal_ccp_425_16_anti_slapp/manifest.json","relationship":"Anti-SLAPP protects the petition right guaranteed by Section 3(a)"}
+]

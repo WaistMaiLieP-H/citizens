@@ -1,0 +1,55 @@
+DOCTRINAL FRAMEWORK: § 13960 CALVCB-SPECIFIC JUDICIAL REVIEW STANDARD
+[Specific published CalVCB § 13960 writ case pending primary-source verification]
+California Courts of Appeal
+
+---
+
+CITATION STATUS:
+
+This folder documents the CalVCB-specific standard of review under § 13960 / CCP § 1094.5, building on Bixby v. Pierno (1971) 4 Cal.3d 130 as the general framework. A specific published Court of Appeal or Supreme Court decision directly addressing the standard of review in CalVCB mandamus cases is pending primary-source verification.
+
+---
+
+HOLDING:
+
+CALVCB JUDICIAL REVIEW — THE BIXBY APPLIED TO § 13960:
+
+1. **Substantial evidence argument (deferential):**
+   - CalVCB is a public benefit program, not a traditional common-law right
+   - The Legislature created the benefit and may define its scope
+   - Victim compensation awards involve policy judgments within the Board's expertise
+   - Courts applying this view have affirmed CalVCB denials under substantial evidence review
+
+2. **Independent judgment argument (searching):**
+   - Marsy's Law (Cal. Const. Art. I § 28) elevated victim rights to constitutional status in 2008
+   - Post-Marsy's Law, the argument that CalVCB denials do not affect "fundamental" rights is weaker
+   - Deprivation of compensation directly affects bodily integrity (medical reimbursement), financial survival, and dignity
+   - At minimum, legal errors in applying § 13955 or § 13956 are reviewable de novo
+
+3. **De novo review of legal questions (always applies):**
+   - Regardless of which factual review standard applies, courts review the Board's legal conclusions de novo
+   - Where the Board applied the wrong legal standard — required more than preponderance of the evidence, failed to apply proper mitigating factors analysis, shortened deadlines beyond statutory authority — the court corrects the legal error without deference
+
+---
+
+WHY LEGAL ERROR IS THE STRONGEST ARGUMENT FOR A25-10117946:
+
+The 13 FAIL findings in the audit reflect not merely factual errors but legal errors:
+- Applying the wrong burden of proof (§ 13955 preponderance vs. higher standard)
+- Failing to consider required statutory factors (§ 13956(b) mitigating factors)
+- Shortening deadlines that are legally set (§ 13959 10-day notice)
+- Failing to provide required advocacy (Marsy's Law § 28(b)(17))
+- Making single-source denials without independent investigation
+
+Each of these is a legal error, reviewable de novo. The court need not defer to the Board on questions of statutory interpretation.
+
+Strategic framing: lead the § 13960 brief with the legal error arguments (de novo, always applies), then make the Bixby independent judgment argument as an alternative for the factual findings.
+
+---
+
+SOURCE PROVENANCE:
+Citation: Doctrinal placeholder — primary case citation pending verification
+Court: California Courts of Appeal
+Source: Framework grounded in Bixby v. Pierno (1971) 4 Cal.3d 130, CCP § 1094.5, Gov. Code § 13960, and Cal. Const. Art. I § 28. Knowledge cutoff August 2025.
+Verification: Search Casetext for CalVCB § 13960 published Court of Appeal decisions; post-Marsy's Law (post-2008) decisions on CalVCB review standard
+Verification status: PROPOSED — citation requires verification; Bixby framework confirmed; pending steward witness review

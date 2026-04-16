@@ -1,0 +1,58 @@
+{
+  "standard_id": "CCP_364",
+  "citizen": "CA_Medical_Malpractice_Litigator",
+  "version": "0.1.0-proposed",
+  "filed_at_utc": "2026-04-10T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "status": "PROPOSED",
+  "build_method": "Logical Delta (LOGIC.md at each evolution stage)",
+  "primary_citation": {
+    "code": "CCP",
+    "section": "364",
+    "popular_name": "MICRA 90-day Pre-Suit Notice of Intent to Commence Action",
+    "jurisdiction": "California",
+    "original_enactment": "Stats. 1975, 2d Ex. Sess., Ch. 2, §1 (MICRA package)",
+    "effective": "1975-12-12",
+    "stability": "Essentially unchanged since original enactment"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current LOGIC.md documents three operative commands (written notice, 90-day wait, tolling)",
+    "reasoning": "PRESENT — origin LOGIC.md documents the 1975 'surprise litigation' framing and the procedural-gateway design",
+    "historical_loss": "PRESENT — historical_chain.md documents the 1975 wound, the 1991 Woods softening, and the 1999 Preferred Risk tolling clarification",
+    "cross_references": "PRESENT — refs.json links to §340.5 (tolled), §3333.2 (definitional cross-reference), SIRVA doctrine (operational binding)",
+    "verifiable_provenance": "PARTIAL — provenance.json files; primary-source capture PENDING"
+  },
+  "evolution_chain": [
+    {"stage": "01_origin_1975", "folder": "evolution/01_origin_1975/", "status": "LOGIC_BUILT"},
+    {"stage": "02_current", "folder": "evolution/02_current/", "status": "POINTS_TO_CURRENT"}
+  ],
+  "case_law": {
+    "uphold": [],
+    "strike": [],
+    "interpretive": [
+      {"slug": "woods_v_young", "cite": "53 Cal.3d 315 (1991)", "rule": "§364 is directory, not jurisdictional; non-compliance produces stay, not dismissal", "files": ["holding.md", "provenance.json", "statute_version_cited.md"], "status": "BUILT"},
+      {"slug": "preferred_risk_v_reiswig", "cite": "21 Cal.4th 208 (1999)", "rule": "§364(d) tolling applies automatically on service, even in borderline cases; applies to both §340.5 triggers", "files": ["holding.md", "provenance.json", "statute_version_cited.md"], "status": "BUILT"}
+    ]
+  },
+  "cross_refs_path": "cross_refs/refs.json",
+  "historical_chain_path": "historical_chain.md",
+  "operational_notes_for_steward_cases": {
+    "sirva_case_calendar": {
+      "discovery_date": "2026-03-18",
+      "sol_deadline_without_tolling": "2027-03-18",
+      "recommended_notice_service_date": "Before 2026-12-01",
+      "wait_period_expiration": "~2027-03-01",
+      "filing_window": "2027-03-01 through 2027-03-18",
+      "notice_recipients": ["Walgreens Boots Alliance (corporate)", "Walgreens Brentwood store", "Individual administering pharmacist (name from records)"],
+      "backup_tolling_posture": "If notice must be served after 2026-12-18, §364(d) tolling extends SOL to (notice date + 90 days) under Preferred Risk"
+    },
+    "other_medical_cases": "Each case requires individual discovery-date determination and §364 calendar; workflow template applies uniformly"
+  },
+  "outstanding_work": [
+    "Draft §364 notice letter template for SIRVA case",
+    "Locate administering pharmacist's name from Walgreens records",
+    "Primary-source opinion text for Woods and Preferred Risk",
+    "Second-mouth witness review"
+  ],
+  "witness_status": "AWAITING_STEWARD_WITNESS"
+}

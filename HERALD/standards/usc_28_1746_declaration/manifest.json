@@ -1,0 +1,38 @@
+{
+  "standard_id": "USC_28_1746",
+  "popular_name": "Unsworn declarations under penalty of perjury",
+  "citizen_owner": "HERALD",
+  "filed": "2026-04-12",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "two_witness_status": {
+    "status": "PROPOSED",
+    "witness_1": null,
+    "witness_2": null
+  },
+  "herald_witness": {
+    "status": "SELF — HERALD is the owner; external witness required",
+    "note": "HERALD cannot self-witness its own standards. Requires steward review."
+  },
+  "layers_complete": {
+    "rule": true,
+    "reasoning": true,
+    "historical_loss": true,
+    "cross_refs": true,
+    "provenance": true
+  },
+  "primary_source": "28 U.S.C. § 1746 — Pub. L. 94-550 § 1(a), Oct. 18, 1976, 90 Stat. 2534",
+  "source_url": "https://www.law.cornell.edu/uscode/text/28/1746",
+  "priority": "CRITICAL",
+  "use_in_cases": [
+    "1983_NDCA",
+    "CalVCB_A25-10117946",
+    "Honeysuckle_fraud",
+    "Treasury_identity_theft",
+    "criminal_04-23-01959"
+  ],
+  "flags": [
+    "Nissho-Iwai 845 F.2d 1300 — full opinion not yet retrieved; CITED not VERIFIED; do not quote directly until retrieved",
+    "CalVCB jurisdiction — confirm whether § 13959 appeal requires CCP 2015.5 or accepts 28 USC 1746"
+  ],
+  "version": "1.1.0-witnessed-by-herald"
+}

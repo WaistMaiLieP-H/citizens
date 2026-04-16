@@ -1,0 +1,11 @@
+{
+  "standard_id": "wic_5150_involuntary_hold",
+  "primary_source": "Cal. Welf. & Inst. Code \u00a7 5150",
+  "enactment": "Stats. 1967, Ch. 1667 (Lanterman-Petris-Short Act)",
+  "current_form_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=5150.&lawCode=WIC",
+  "verified": true,
+  "fetch_method": "VernenLegal MCP california_get_section",
+  "fetch_date": "2026-04-12",
+  "chronicle_flag": true,
+  "chronicle_note": "Pre-LPS (pre-1967) commitment history contains discriminatory and abusive practices \u2014 fully documented in CHRONICLE archive. Statute itself (post-1967) is remedial and not CHRONICLE-restricted."
+}

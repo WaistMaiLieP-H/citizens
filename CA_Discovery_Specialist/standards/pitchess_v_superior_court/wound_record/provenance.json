@@ -1,0 +1,16 @@
+{
+  "wound_authority": "Pre-Pitchess absolute confidentiality of peace officer personnel records; California Government Code § 6254(c) personnel records exemption as applied to officer files; absence of criminal discovery mechanism for police personnel records",
+  "jurisdiction": "California (state)",
+  "in_force_period": "From the establishment of California's public records and personnel confidentiality framework until July 25, 1974",
+  "superseded_by": "Pitchess v. Superior Court, 11 Cal.3d 531 (1974); codified in Cal. Evid. Code §§ 1043-1047 (Stats. 1978); further expanded by SB 1421 (Stats. 2018, Ch. 988, effective January 1, 2019)",
+  "current_status": "SUPERSEDED — absolute confidentiality framework no longer operative. Qualified discovery right established by Pitchess and codification. Mandatory disclosure categories established by SB 1421.",
+  "primary_sources_pending": [
+    "Cal. Gov. Code § 6254(c) pre-1974 text — California Statutes archive",
+    "Pitchess v. Superior Court, 11 Cal.3d 531 (1974) — full opinion text (opinion.txt in case_law/ folder)",
+    "Cal. Evid. Code §§ 1043-1047 legislative history — Stats. 1978 enactment"
+  ],
+  "verification_status": "PARTIAL — pre-Pitchess framework drawn from the Pitchess opinion's own description of the law it was changing. Verbatim pre-1974 statutory text pending primary-source fetch.",
+  "purpose_of_preservation": "Defensive historical record — accurate citation of the legal wound that Pitchess and SB 1421 addressed. Demonstrates what access rights had to be fought for and why they matter.",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "filed_at_utc": "2026-04-12T00:00:00Z"
+}

@@ -1,0 +1,43 @@
+{
+  "case_number": "RF10508859",
+  "court": "Alameda County Superior Court",
+  "type": "Grandparent Visitation (Family Code \u00a7 3104)",
+  "petitioner": "Ann Marie Packard (Christina's mother)",
+  "respondent": "Michael Hartmann",
+  "co_filer_anomaly": "Christina is listed as a co-filer despite having 0% custody, an active restraining order against her, and being under court-ordered psychiatric treatment",
+  "filed_date": "2010-04-09",
+  "current_status": "Michael NEVER SERVED",
+  "key_dates": [
+    {
+      "date": "2010-04-09",
+      "event": "Filed as part of the coordinated triple filing"
+    },
+    {
+      "date": "2010-04-09",
+      "event": "Served by mail SAME DAY filed \u2014 likely mailed to Christina (co-filer), not Michael (custodial parent)"
+    }
+  ],
+  "source_folder": "FamilyLaw/2010-04-09/ (presumed)",
+  "related_actors": [
+    "hillberg_ann",
+    "cerretani_christina"
+  ],
+  "related_standards": [],
+  "related_cases": [
+    "RF09456481",
+    "RF10508853"
+  ],
+  "known_anomalies": [
+    "Petitioner is the grandmother (Ann Marie Packard) but Christina is listed as co-filer despite legal disqualifications",
+    "Service by mail on the same day filed is procedurally suspect",
+    "Service was NEVER actually effected on Michael per the case file",
+    "Cross-references the same-day RF10508853 dissolution filing \u2014 coordinated by Ann Hillberg/Packard",
+    "Family Code \u00a7 3104 grandparent visitation has elaborate procedural requirements (notice, service, parent objection rights) \u2014 if Michael was never served, the petition is structurally void"
+  ],
+  "outstanding_investigations": [
+    "Was Family Code \u00a7 3104 procedural compliance ever established for this petition?",
+    "What is the current status of the petition? Is it still pending? Was it dismissed? Defaulted?",
+    "What was the disposition?"
+  ],
+  "filed_at_utc": "2026-04-08T18:05:00Z"
+}

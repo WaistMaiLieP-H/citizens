@@ -1,0 +1,12 @@
+Palma v. U.S. Industrial Fasteners, Inc.
+36 Cal.3d 171 (1984)
+California Supreme Court, 1984
+
+FACTS:
+Plaintiff filed a declaration in support of a motion for summary judgment. The declaration used Form (a) language but did not include the place of execution. Defendant moved to strike the declaration as defective under CCP § 2015.5.
+
+HOLDING — CCP § 2015.5:
+The California Supreme Court held that strict compliance with § 2015.5 is required. A Form (a) declaration must include both the date AND the place of execution. A declaration missing either required element does not satisfy the statute and may be disregarded by the court. The court noted that the Legislature provided Form (b) precisely for situations where place of execution might be uncertain or omitted.
+
+SIGNIFICANCE:
+The foundational case establishing that § 2015.5 requires strict compliance. Every subsequent California court citing § 2015.5 defects draws on Palma. The case establishes: (1) Form (a) requires date + place — no exceptions; (2) courts have discretion to strike noncompliant declarations; (3) the solution is Form (b), which requires only a date. Practitioners universally cite Palma for the proposition that Form (b) is the safe harbor.

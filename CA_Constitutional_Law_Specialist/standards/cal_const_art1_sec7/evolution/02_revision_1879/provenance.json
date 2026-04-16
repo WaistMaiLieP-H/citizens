@@ -1,0 +1,16 @@
+{
+  "standard_id": "CA_CONST_ART_I_SEC_7",
+  "evolution_stage": "02_revision_1879",
+  "enacted_as": "Constitution of the State of California (1879), Article I, Section 13",
+  "adopted": "May 7, 1879 (ratified by voters)",
+  "effective": "January 1, 1880",
+  "source_url": "https://en.wikisource.org/wiki/California_State_Constitution_of_1879",
+  "source_description": "Wikisource — transcription of the 1879 California Constitution",
+  "fetch_timestamp_utc": "2026-04-09T06:20:00Z",
+  "fetch_tool": "WebFetch (Claude Code)",
+  "retrieval_steward": "Claude (assistant) under steward direction — Michael Hartmann",
+  "text_file": "text.txt",
+  "diff_file": "diff_from_prior.md",
+  "transcription_notes": "Due process clause in 1879 Constitution is in Article I, Section 13. Text confirmed via Wikisource transcription. California State Archives has scanned image PDF at archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf but it is JBIG2 image format, not text-extractable. Scribd also has a transcription at scribd.com/doc/125279247.",
+  "primary_source_archive": "https://www.sos.ca.gov/archives/collections/constitutions"
+}

@@ -1,0 +1,19 @@
+{
+  "standard_id": "civ_51_unruh_civil_rights_act",
+  "citizen": "CA_Disability_Rights_Litigator",
+  "build_date": "2026-04-13",
+  "content_hash": "2e6cd015",
+  "hash_method": "find -type f | sort | xargs sha256sum | sha256sum | cut -c1-8",
+  "status": "PUBLISHED \u2014 ADAM + EVE DUAL WITNESS \u2014 2026-04-13",
+  "layers": {
+    "current_statute_text": true,
+    "current_rule": true,
+    "current_reasoning": true,
+    "historical_chain_origin": true,
+    "historical_chain_witness_record": true,
+    "cross_refs": true,
+    "provenance": true
+  },
+  "five_layer_complete": true,
+  "updated": "2026-04-13"
+}

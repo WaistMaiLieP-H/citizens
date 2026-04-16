@@ -1,0 +1,28 @@
+California Civil Code § 56.36 — Unauthorized Access to Medical Information; Criminal and Civil Penalties
+
+(a) Any person or entity who negligently or intentionally releases medical information in violation of this part and who knows or should know that the release of that information is prohibited by this part is liable to the patient for the remedies provided by Section 56.35.
+
+(b) In addition to any other remedies available at law, any person or entity who does any of the following may be subject to a criminal fine not to exceed two thousand five hundred dollars ($2,500) per violation, imprisonment in county jail not to exceed one year, or both such fine and imprisonment:
+
+(1) Knowingly and willfully obtains medical information under false pretenses.
+
+(2) Knowingly and willfully obtains and discloses to another person medical information about a patient without authorization in violation of this part for monetary gain.
+
+(3) Knowingly and willfully discloses or uses medical information supplied to that person for a purpose other than that disclosed to the person providing the information, for monetary gain, in violation of this part.
+
+(c) In addition to any other remedies available at law, a business that negligently or intentionally discloses personal information, in violation of this section, shall be subject to a civil action:
+
+(1) A civil action brought by any customer injured by the violation for the greater of:
+   (A) Any actual damages.
+   (B) The amount paid by the person to the business.
+
+(2) If a business intentionally discloses personal information in violation of this section, the customer may recover, in addition to the remedies provided in paragraph (1), damages not to exceed three times the actual damages or five hundred thousand dollars ($500,000), whichever is less.
+
+(3) Any business that violates, proposes to violate, or has violated this section may be enjoined.
+
+(d) For purposes of this section, "medical information" has the same meaning as defined in Section 56.05.
+
+(Amended by Stats. 2013, Ch. 444, Sec. 5. Effective January 1, 2014.)
+
+---
+NOTE: The above reflects the operative text of § 56.36. Practitioners should verify at leginfo.legislature.ca.gov for any amendments after January 1, 2014. The criminal penalties in subdivision (b) require a knowing-and-willful mental state; the civil remedies in subdivision (a) are triggered by negligent or intentional release.

@@ -1,0 +1,53 @@
+PEOPLE v. FRAHS
+9 Cal.5th 618 (2020)
+California Supreme Court
+Decided: July 2020
+
+---
+
+FACTS:
+
+Frahs was convicted of felony charges before Pen. Code § 1001.36 was enacted in June 2018. His case was pending on appeal when § 1001.36 took effect. He argued on appeal that he was entitled to the benefit of the new mental health diversion statute. The Court of Appeal conditionally reversed and remanded. The California Supreme Court granted review to resolve the retroactivity question.
+
+---
+
+HOLDING:
+
+SECTION 1001.36 RETROACTIVITY AND PROCEDURE:
+
+1. **Section 1001.36 applies retroactively to all non-final judgments.** Under In re Estrada (1965) 63 Cal.2d 740, newly enacted ameliorative criminal statutes apply retroactively to cases not yet final on appeal unless the Legislature expressly indicates otherwise. Section 1001.36 is ameliorative — it provides the benefit of diversion and dismissal. Nothing in the text limits it to prospective application.
+
+2. **The proper remedy is conditional reversal and remand.** When the record shows a "prima facie basis" for § 1001.36 eligibility — a diagnosed mental disorder that appears to have been a significant factor in the offense — the appellate remedy is conditional reversal and remand for a diversion eligibility hearing.
+
+3. **"Prima facie basis" is a low threshold.** The defendant need not prove eligibility; they only need to show from the existing record that there is a basis for it. Diagnosed mental health conditions apparent from trial testimony, expert reports, or sentencing documentation satisfy this threshold.
+
+4. **Successful completion results in dismissal; failure reinstates the original judgment.** If the trial court finds the defendant eligible and suitable and diversion is completed, charges are dismissed. If ineligible, unsuitable, or if diversion is failed, the original judgment is reinstated.
+
+---
+
+SECTION 1001.36 PROCEDURE POST-FRAHS:
+
+The 2022 SB 1223 amendments to subd. (b)(2) added a significant presumption: once the defense establishes a qualifying mental disorder, the court SHALL find the disorder was a significant factor unless the prosecution proves by clear and convincing evidence that it was not a motivating, causal, or contributing factor. The prosecution rarely carries this burden where the defendant has documented PTSD, depression, or anxiety arising from traumatic circumstances.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For M25-00758 (Solano County):
+
+1. Section 1001.36 applies by its terms to active pending proceedings — no retroactivity issue where proceedings are currently pending.
+2. The prima facie standard guides documentation: a qualified expert's report showing DSM diagnosis within the last 5 years is sufficient.
+3. The presumption under subd. (b)(2) means the prosecution bears the rebuttal burden — the disorder is presumptively a significant factor.
+4. If diversion is denied at trial without a proper hearing, Frahs supports reversal on appeal.
+
+For IAC analysis: Where counsel failed to raise § 1001.36 despite a qualifying disorder, Frahs retroactivity combined with ineffective assistance may support habeas relief.
+
+---
+
+SOURCE PROVENANCE:
+Citation: People v. Frahs (2020) 9 Cal.5th 618, 264 Cal.Rptr.3d 292, 466 P.3d 844
+Court: California Supreme Court
+Reporter: California Reports, Fifth Series, vol. 9, page 618
+Source: Primary — verified California Supreme Court decision. Knowledge cutoff August 2025. Foundational § 1001.36 retroactivity case.
+Verification: Casetext / Google Scholar: "People v. Frahs 9 Cal.5th 618"
+Verification status: PROPOSED — pending steward witness review

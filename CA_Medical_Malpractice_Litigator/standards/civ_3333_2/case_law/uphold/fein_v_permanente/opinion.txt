@@ -1,0 +1,104 @@
+FEIN v. PERMANENTE MEDICAL GROUP
+38 Cal.3d 137 (1985)
+Supreme Court of California
+Decided: January 31, 1985
+[UPHOLD POSTURE — § 3333.2 NONECONOMIC DAMAGES CAP CONSTITUTIONAL]
+
+---
+
+NOTE ON CITATION AND CONTEXT:
+This is the § 3333.2 (noneconomic damages cap) uphold holding from Fein v. Permanente Medical Group. The collateral source rule (§ 3333.1) holding from the same case is documented at:
+  CA_Medical_Malpractice_Litigator/standards/civ_3333_1/case_law/interpretive/fein_v_permanente_collateral/opinion.txt
+
+Both holdings arise from the same decision: 38 Cal.3d 137 (1985).
+
+---
+
+FACTS:
+
+Lawrence Fein sustained injuries from the alleged failure of Permanente Medical Group physicians to timely diagnose his heart attack. The jury awarded substantial damages including significant noneconomic damages for pain and suffering. The trial court reduced the noneconomic damages to $250,000 pursuant to Civil Code § 3333.2. Fein challenged the constitutionality of § 3333.2 on multiple grounds.
+
+---
+
+HOLDING — § 3333.2 IS CONSTITUTIONAL:
+
+The California Supreme Court upheld Civil Code § 3333.2's $250,000 limit on noneconomic damages in medical malpractice cases against all constitutional challenges.
+
+THE RATIONAL BASIS TEST:
+The Legislature's objectives in enacting MICRA — to reduce the cost of medical malpractice insurance, ensure the continued availability of healthcare providers and malpractice coverage, and maintain access to medical care for California residents — constitute a rational basis for the noneconomic damages cap. The cap need not be perfectly calibrated to achieve these goals; it need only be rationally related to a legitimate government interest.
+
+"The Legislature could reasonably have determined that a limitation on noneconomic damages would serve the goal of reducing medical malpractice insurance costs and thereby help to preserve the availability of medical care for California citizens." 38 Cal.3d at 160 (paraphrase).
+
+---
+
+CONSTITUTIONAL CHALLENGES REJECTED:
+
+EQUAL PROTECTION:
+The cap treats medical malpractice plaintiffs differently from other tort plaintiffs. The court held this distinction satisfies rational basis — there is a rational basis for treating the medical malpractice context differently given the Legislature's legitimate interest in healthcare access and insurance cost control.
+
+Critically: the court rejected the argument that medical malpractice plaintiffs are a "suspect class" deserving heightened scrutiny. They are not a protected class under equal protection doctrine.
+
+DUE PROCESS / RETROACTIVITY:
+The cap does not deprive plaintiffs of a vested property right — there is no vested right to a particular measure of damages before judgment is entered.
+
+RIGHT TO JURY TRIAL:
+The jury's role is to find facts — including the amount of noneconomic harm experienced. The Legislature may constitutionally set an upper limit on the legal consequences of those facts without violating the right to jury trial. The jury still determines the noneconomic harm; the cap operates as a matter of law after the verdict.
+
+SEPARATION OF POWERS:
+The Legislature's authority to define the measure of damages in civil actions is a legitimate exercise of legislative power. The cap does not unconstitutionally invade the judicial function.
+
+---
+
+THE CAP IN OPERATION:
+
+§ 3333.2(b): "In no action shall the amount of damages for noneconomic losses exceed two hundred fifty thousand dollars ($250,000)." (Original text; now $350,000 as of 2023 per AB 35, rising to $750,000 by 2033.)
+
+WHAT THE CAP COVERS:
+- Pain and suffering;
+- Inconvenience;
+- Physical impairment;
+- Disfigurement;
+- Other nonpecuniary damage.
+
+WHAT THE CAP DOES NOT COVER:
+- Past and future medical expenses (fully recoverable);
+- Past and future loss of earnings (fully recoverable);
+- Future care costs (fully recoverable);
+- Any economic loss.
+
+---
+
+THE DETERRENCE CRITIQUE:
+
+Fein's constitutionality holding has been criticized by plaintiff advocacy groups and some scholars on the ground that:
+1. $250,000 in 1975 dollars (when enacted) was worth significantly more than $250,000 in 2022 dollars — the cap was not adjusted for inflation for 47 years;
+2. The cap particularly disadvantages plaintiffs whose primary loss is noneconomic — children, retirees, homemakers — whose economic losses may be small while their pain and suffering is severe.
+
+AB 35 (2022) addressed the inflation issue by increasing the cap and providing for future increases.
+
+---
+
+APPLICATION TO SIRVA / SURGICAL MALPRACTICE:
+
+For a SIRVA case where:
+- The vaccine was administered before January 1, 2023: $250,000 noneconomic cap applies;
+- The surgery occurred on or after January 1, 2023: $350,000 cap applies (rising annually);
+- Both claims in same action against healthcare providers: single cap on total noneconomic recovery.
+
+MAXIMIZING RECOVERY UNDER THE CAP:
+1. Document all economic losses in detail (past medical, future medical, wage loss, future care needs);
+2. Maximize the economic damages case — these are fully uncapped;
+3. Present noneconomic damages evidence clearly to the jury, even knowing the cap will apply after verdict;
+4. Consider: if the same facts support intentional tort claims (battery for non-consented procedures), such claims may not be subject to the § 3333.2 cap, which applies specifically to "professional negligence."
+
+---
+
+SOURCE PROVENANCE:
+Citation: 38 Cal.3d 137 (1985)
+Official reporter: California Reports, Third Series, vol. 38, page 137
+Court: Supreme Court of California
+Key holding (§ 3333.2 aspect): MICRA $250,000 noneconomic damages cap upheld against constitutional challenge; rational basis satisfied; jury trial right not violated
+Source of this text: Claude training data (knowledge cutoff August 2025). Fein v. Permanente Medical Group is the controlling California authority on § 3333.2 constitutionality. Full verbatim text should be verified at:
+  - courts.ca.gov
+  - Google Scholar: "Fein v. Permanente Medical Group 38 Cal.3d"
+Verification status: PROPOSED — pending steward witness review

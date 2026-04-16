@@ -1,0 +1,19 @@
+{
+  "case": "Whitman v. Superior Court",
+  "reporter_citation": "54 Cal.3d 1063",
+  "parallel_citations": ["2 Cal.Rptr.2d 160", "820 P.2d 262"],
+  "decided": "1991",
+  "court": "California Supreme Court",
+  "statutes_construed": [
+    "California Penal Code § 859",
+    "California Penal Code § 859b",
+    "California Penal Code § 872",
+    "California Proposition 115 (1990)"
+  ],
+  "status": "California Supreme Court decision upholding constitutionality of Proposition 115 preliminary hearing hearsay procedures. Foundational authority for one-witness prelim, law enforcement hearsay relay, and withholding of complaining witness.",
+  "opinion_text_source": "Not yet captured",
+  "confidence": "HIGH — major California Supreme Court Prop 115 decision",
+  "verification_note": "Citation 54 Cal.3d 1063 documented based on training knowledge. High confidence. Verify citation before use in filed document.",
+  "captured_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "captured_at_utc": "2026-04-11T00:00:00Z"
+}

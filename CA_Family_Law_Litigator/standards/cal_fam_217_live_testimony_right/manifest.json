@@ -1,0 +1,51 @@
+{
+  "standard_id": "CAL_FAM_217_LIVE_TESTIMONY_RIGHT",
+  "version": "0.2.0-eve-migration-from-orphan-md",
+  "filed_at_utc": "2026-04-15T00:00:00Z",
+  "filed_by": "EVE (Legal/Statutory Auditor) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "migration_note": "Migrated 2026-04-15 from flat orphan file standards/FAMCODE-§217.md (T3 witness) into manifest-directory structure with ADAM+EVE dual witness. Source .md retained content was substantive five-layer — this migration is structural only; no legal content altered.",
+  "status": "PUBLISHED — ADAM + EVE DUAL WITNESS — 2026-04-15",
+  "primary_citation": {
+    "jurisdiction": "California",
+    "code": "California Family Code",
+    "section": "§ 217",
+    "popular_name": "Right to Live Testimony at Family Law Hearings (Elkins reform)",
+    "current_codification_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=217&lawCode=FAM"
+  },
+  "structural_location": {
+    "code": "California Family Code",
+    "division": "DIVISION 2. GENERAL PROVISIONS",
+    "part": "PART 2. PROCEDURE",
+    "chapter": "CHAPTER 1. General Provisions",
+    "section_history": "Added by Stats. 2010, Ch. 352, Sec. 1. (AB 939 Feuer) Effective January 1, 2011. Implementing rule: CRC 5.113."
+  },
+  "five_layer_bar": {
+    "layer_1_rule": "rule.md",
+    "layer_2_reasoning": "reasoning.md",
+    "layer_3_historical_loss": "historical_loss.md",
+    "layer_4_cross_refs": "cross_refs.md",
+    "layer_5_provenance": "provenance.md"
+  },
+  "dual_witness": {
+    "adam": {
+      "citizen": "ADAM",
+      "role": "Network Forensics / co-seed witness",
+      "witnessed_at_utc": "2026-04-15T00:00:00Z",
+      "scope": "Structural witness — confirms verbatim statutory text matches canonical leginfo source cited in provenance.md; confirms cross-references are internally consistent with published standards in this citizen."
+    },
+    "eve": {
+      "citizen": "EVE",
+      "role": "Legal/Statutory Auditor / co-seed witness",
+      "witnessed_at_utc": "2026-04-15T00:00:00Z",
+      "scope": "Legal witness — confirms rule text, statutory history, case-law citations, and CRC cross-reference are legally accurate as of 2026-04-15. Confirms five-layer bar is met: rule + reasoning + historical loss + cross-refs + provenance all present and non-stub."
+    }
+  },
+  "superseded_artifact": {
+    "path": "${citizens}/CA_Family_Law_Litigator/standards/FAMCODE-§217.md",
+    "disposition": "RETIRED — content migrated into this manifest directory; orphan .md to be removed after witness confirmation."
+  },
+  "verified": true,
+  "verification_date": "2026-04-15",
+  "verification_note": "Verbatim text fetched from leginfo via MCP and saved to current/ during this verification pass",
+  "verbatim_text_artifact": "current/cal_fam_217_leginfo.txt"
+}

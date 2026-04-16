@@ -1,0 +1,65 @@
+DOCTRINAL FRAMEWORK: § 13959 HEARING AND APPEAL FRAMEWORK
+[Framework entry — specific published citation pending verification]
+California Victim Compensation Board (administrative)
+
+---
+
+CITATION STATUS:
+
+Published appellate decisions specifically on § 13959 CalVCB hearing procedures are limited. This entry documents the operative framework for A25-10117946 appeal proceedings derived from the statute and administrative procedure principles.
+
+---
+
+HOLDING:
+
+§ 13959 HEARING FRAMEWORK:
+
+1. **Right to hearing is mandatory, not discretionary.** Section 13959 provides that an applicant who receives an adverse determination has the right to request a hearing before the Board. This mandatory procedural protection must be honored.
+
+2. **The hearing is a de novo review of the staff determination.** The applicant may: present additional documentation; call witnesses; challenge the staff analysis; present legal argument on the statute. The hearing is not limited to the record before the staff.
+
+3. **New evidence is receivable at hearing.** An applicant who was denied because documentation was not timely produced may present that documentation at the hearing if it was not available earlier or if the denial of an extension was error. The hearing officer should receive any evidence relevant to the claim.
+
+4. **Standard of review at hearing is de novo on the legal and factual questions.** The staff determination is not entitled to deference. The applicable standard is whether the evidence establishes by a preponderance that the applicant qualifies for compensation under §§ 13955-13957.
+
+---
+
+APPEAL BRIEF STRUCTURE (§ 13959):
+
+An effective appeal brief must:
+1. State the denial grounds — identify exactly what the staff determination said and why it denied or reduced the claim
+2. Address each denial ground — for each, argue: (a) the statutory standard that applies, (b) the evidence satisfying the standard, (c) the error in the staff's application
+3. Invoke the liberal construction mandate — argue ambiguous provisions must be resolved in favor of the applicant under § 13950
+4. Identify process violations — if the CalVCB process was defective (inadequate notice, shortened deadlines, failure to consider evidence), document the violation and its prejudicial effect
+5. Request specific relief — specify what compensation is sought, broken down by category
+
+---
+
+JUDICIAL REVIEW — § 13960:
+
+If the Board's hearing decision is adverse, § 13960 provides for judicial review by writ of mandate (Code Civ. Proc. § 1094.5). The standard of judicial review is abuse of discretion. A Board determination that misapplies the statute, fails to consider relevant evidence, or imposes requirements not in the statute is an abuse of discretion. The prejudicial error standard: the court will grant the writ only if the error was prejudicial — i.e., if the Board had applied the statute correctly, the result might have been different.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For application A25-10117946:
+
+**Phase 1 — § 13959 hearing:**
+Present the audit analysis (13 FAIL findings) as the structural framework. At the hearing:
+- Present all documentation now available that was not available at the time of the staff determination
+- Argue each FAIL finding as an independent ground for reversal
+- Invoke § 13950 liberal construction for any ambiguous findings
+- Argue that the CalVCB process failures (shortened deadlines, inadequate notice) are independently reversible
+
+**Phase 2 — § 13960 writ (if necessary):**
+If the Board upholds the adverse determination, § 13960 writ of mandate is available in superior court. The petition should argue: legal error in applying §§ 13955-13957; abuse of discretion in applying shortened deadlines; failure to apply liberal construction mandate; procedural due process violation.
+
+---
+
+SOURCE PROVENANCE:
+Citation: Framework entry — specific published citation pending verification
+Forum: California Victim Compensation Board (administrative)
+Source: Derived from §§ 13959-13960 statutory text, administrative procedure principles, and CCP § 1094.5 judicial review framework. Knowledge cutoff August 2025.
+Verification: Search Casetext for CalVCB § 13959 hearing appeal published appellate decisions
+Verification status: PROPOSED — statutory framework verified; pending steward witness review

@@ -1,0 +1,27 @@
+# Family Code § 3020 — Custody Policy: Health, Safety, Welfare and Frequent Contact
+
+## Family Code - FAM
+
+## DIVISION 8. CUSTODY OF CHILDREN [3000 - 3465]
+
+( Division 8 enacted by Stats. 1992, Ch. 162, Sec. 10. )
+
+## PART 2. RIGHT TO CUSTODY OF MINOR CHILD [3020 - 3204]
+
+( Part 2 enacted by Stats. 1992, Ch. 162, Sec. 10. )
+
+## CHAPTER 1. General Provisions [3020 - 3032]
+
+( Chapter 1 enacted by Stats. 1992, Ch. 162, Sec. 10. )
+
+## 3020.
+
+(a) The Legislature finds and declares that it is the public policy of this state to ensure that the health, safety, and welfare of children shall be the court's primary concern in determining the best interests of children when making any orders regarding the physical or legal custody or visitation of children. The Legislature further finds and declares that children have the right to be safe and free from abuse, and that the perpetration of child abuse or domestic violence in a household where a child resides is detrimental to the health, safety, and welfare of the child.
+
+(b) The Legislature finds and declares that it is the public policy of this state to ensure that children have frequent and continuing contact with both parents after the parents have separated or dissolved their marriage, or ended their relationship, and to encourage parents to share the rights and responsibilities of child rearing in order to effect this policy, except when the contact would not be in the best interests of the child, as provided in subdivisions (a) and (c) of this section and Section 3011.
+
+(c) When the policies set forth in subdivisions (a) and (b) of this section are in conflict, a court's order regarding physical or legal custody or visitation shall be made in a manner that ensures the health, safety, and welfare of the child and the safety of all family members.
+
+(d) The Legislature finds and declares that it is the public policy of this state to ensure that the sex, gender identity, gender expression, or sexual orientation of a parent, legal guardian, or relative is not considered in determining the best interests of the child.
+
+(Amended by Stats. 2019, Ch. 551, Sec. 2. (SB 495) Effective January 1, 2020.)

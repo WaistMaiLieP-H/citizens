@@ -1,0 +1,12 @@
+{
+  "source": "California Legislative Information (leginfo.legislature.ca.gov)",
+  "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=836.&lawCode=PEN",
+  "retrieved": "2026-04-12",
+  "retrieved_via": "VernenLegal MCP Tool — California Statutes API (PEN § 836)",
+  "sha256": "PENDING — compute sha256 of verbatim retrieved statutory text",
+  "bill_origin": "Original California Penal Code (1872) — codification of common law arrest authority",
+  "effective_date_original": "1872",
+  "dv_amendments": "Domestic violence provisions (§ 836(b)-(d)) added progressively through legislation 1984–2002 in response to VAWA (1994) and empirical research on DV arrest effectiveness",
+  "verified": true,
+  "verification_notes": "Text retrieved from leginfo primary source. DV amendment history confirmed from California Legislative Information; Minneapolis Domestic Violence Experiment (Sherman & Berk, 1984) is the empirical foundation for mandatory arrest provisions."
+}

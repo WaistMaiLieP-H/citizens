@@ -1,0 +1,89 @@
+{
+  "standard_id": "CIV_1790_SONG_BEVERLY",
+  "citizen": "CA_Consumer_Protection_Litigator",
+  "version": "0.1.0-proposed",
+  "filed_at_utc": "2026-04-11T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "PROPOSED",
+  "build_method": "Logical Delta (LOGIC.md at each evolution stage)",
+  "primary_citation": {
+    "code": "Cal. Civil Code",
+    "sections": "§§1790-1795.8",
+    "popular_name": "Song-Beverly Consumer Warranty Act",
+    "jurisdiction": "California",
+    "enacted": "Stats. 1970, Ch. 1333",
+    "effective": "1971-01-01",
+    "key_amendment": "Tanner Consumer Protection Act — §1793.22 rebuttable presumption (Stats. 1994, Ch. 1112); Used vehicle expansion (AB 2331, Stats. 2002, Ch. 159)"
+  },
+  "core_rights_summary": {
+    "no_disclaimer": "§1790.1 — implied warranty disclaimer void for consumer goods (non-waivable)",
+    "repair_or_replace": "§1793.2(d) — after reasonable number of attempts, manufacturer must replace or refund",
+    "tanner_presumption": "§1793.22 — 4+ attempts OR 30+ days out of service within 18 months/18,000 miles = rebuttable presumption",
+    "civil_penalty": "§1794(c) — up to 2× actual damages if manufacturer's failure was willful",
+    "mandatory_fees": "§1794(d) — attorney fees mandatory for prevailing buyer (one-way fee shift)"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current/LOGIC.md documents four core warranties, Tanner presumption, §1794(c) civil penalty willfulness, mandatory fee shift, new vs. used coverage, damages mosaic with CLRA/Rees-Levering/UCL",
+    "reasoning": "PRESENT — evolution/01_origin_1970/LOGIC.md documents UCC disclaimer gap wound and three-protection design; evolution/02_2002/LOGIC.md documents certified pre-owned gap and used vehicle extension",
+    "historical_loss": "PRESENT — historical_chain.md documents full arc from UCC disclaimer abuse through Song-Beverly creation through Tanner presumption through used expansion through current willfulness case law",
+    "cross_references": "PRESENT — refs.json links to CLRA, Rees-Levering, UCL, Rosenthal",
+    "verifiable_provenance": "PARTIAL — provenance.json files present; verbatim statute text and opinion text PENDING"
+  },
+  "evolution_chain": [
+    {"stage": "01_origin_1970", "folder": "evolution/01_origin_1970/", "status": "LOGIC_BUILT"},
+    {"stage": "02_2002_used_vehicle_expansion", "folder": "evolution/02_2002_used_vehicle_expansion/", "status": "LOGIC_BUILT"}
+  ],
+  "case_law": {
+    "uphold": [],
+    "interpretive": [
+      {
+        "slug": "robertson_v_fleetwood",
+        "cite": "Robertson v. Fleetwood Travel Trailers, 144 Cal.App.4th 785 (2006)",
+        "rule": "Cumulative defects can constitute a §1793.2(d) nonconformity even if no single defect would be sufficient; substantial impairment measured against buyer's reasonable expectations.",
+        "files": ["holding.md", "provenance.json", "statute_version_cited.md"],
+        "status": "BUILT"
+      },
+      {
+        "slug": "brand_v_hyundai",
+        "cite": "Brand v. Hyundai Motor America, 226 Cal.App.4th 1538 (2014)",
+        "rule": "§1794(c) willfulness = knowing non-compliance with replacement/refund obligation. Formal demand ignored after Tanner presumption triggered = willfulness evidence. Civil penalty up to 2× is discretionary.",
+        "files": ["holding.md", "provenance.json", "statute_version_cited.md"],
+        "status": "BUILT"
+      }
+    ]
+  },
+  "cross_refs_path": "cross_refs/refs.json",
+  "historical_chain_path": "historical_chain.md",
+  "operational_notes_for_steward_cases": {
+    "redjag_jaguar_xe": {
+      "case_reference": "Case #26 — RedJag (2018 Jaguar XE)",
+      "song_beverly_analysis": "Sold with manufacturer express warranty. Yo-yo financing, wrong CARFAX, and stripped vehicle suggest both (1) Rees-Levering void contract and (2) vehicle delivered non-conforming with warranty. Document any warranty repair attempts (ROs). If 4+ attempts or 30+ days out of service: Tanner presumption triggered. Demand letter to manufacturer required before filing.",
+      "action": "Obtain complete repair order history from dealer. If warranty repairs were attempted, send §1793.2(d) demand letter citing Tanner presumption. Proceed to Song-Beverly claim + CLRA + Rees-Levering + UCL compound."
+    },
+    "kiasoul": {
+      "case_reference": "Case #29 — KiaSoul",
+      "song_beverly_analysis": "If sold new or certified pre-owned with express warranty, Song-Beverly applies. Same analysis as RedJag — document repair history.",
+      "action": "Obtain repair order history. Determine warranty type at sale. If qualifying defects: same compound filing strategy."
+    },
+    "demand_letter_checklist": [
+      "Send demand BEFORE filing suit (provides evidence of willfulness for civil penalty)",
+      "Cite: §1793.2(d) replacement/refund right",
+      "Cite: §1793.22 Tanner presumption (if triggered)",
+      "Demand: replacement vehicle OR full refund of purchase price minus mileage offset",
+      "Set response deadline: 30 days",
+      "Send CLRA §1782 demand simultaneously (CLRA requires 30-day pre-suit notice before seeking damages)"
+    ]
+  },
+  "additional_cases_to_add": [
+    "Jensen v. BMW of North America (2021) — civil penalty standards; formal demand",
+    "Ibrahim v. Ford Motor Co. (1989) 214 Cal.App.3d 878 — mileage offset calculation method",
+    "Oregel v. American Isuzu Motors, Inc. (2001) 90 Cal.App.4th 1094 — willfulness from repair history alone"
+  ],
+  "outstanding_work": [
+    "Verbatim capture of §§1790, 1791, 1793.2, 1793.22, 1794 current text (PENDING)",
+    "Primary-source opinion text for Robertson and Brand",
+    "Add Jensen v. BMW case (2021 willfulness)",
+    "Second-mouth witness review"
+  ],
+  "witness_status": "AWAITING_STEWARD_WITNESS"
+}

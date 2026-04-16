@@ -1,0 +1,23 @@
+{
+  "standard_id": "CCP_2023_SPOLIATION",
+  "popular_name": "Discovery Misuse and Spoliation Sanctions",
+  "authority": "Cal. Code Civ. Proc. § 2023.010–2023.030",
+  "jurisdiction": "California",
+  "citizen": "CA_Discovery_Specialist",
+  "status": "PROPOSED",
+  "five_layer_score": 5,
+  "created": "2026-04-12",
+  "updated": "2026-04-12",
+  "layers": {
+    "rule": "COMPLETE",
+    "reasoning": "COMPLETE",
+    "historical_loss": "COMPLETE",
+    "cross_references": "COMPLETE",
+    "verifiable_provenance": "COMPLETE"
+  },
+  "two_witness_status": {
+    "adam": "APPROVED",
+    "eve": "COUNTERSIGNED",
+    "status": "PROPOSED"
+  }
+}

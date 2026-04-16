@@ -1,0 +1,15 @@
+{
+  "standard": "pen_code_278_5_child_custody_deprivation",
+  "refs": [
+    {"type": "companion_statute", "target": "Pen. Code § 277 (definitions)", "relationship": "§ 277 defines 'lawful custodian' and other terms used in §§ 278, 278.5"},
+    {"type": "companion_statute", "target": "Pen. Code § 278 (abduction by non-custodian)", "relationship": "Parallel statute for takings by persons without a right to custody"},
+    {"type": "defense", "target": "Pen. Code § 278.7 (good-faith DV defense)", "relationship": "Good-faith protective custody defense with procedural requirements"},
+    {"type": "enhancement", "target": "Pen. Code § 279 (punishment enhancement)", "relationship": "Enhanced sentencing for certain aggravating circumstances"},
+    {"type": "family_code_interlock", "target": "Family Code § 3048 (kidnapping prevention orders)", "relationship": "Civil family-court orders that can prevent taking; violation can trigger § 278.5"},
+    {"type": "family_code_interlock", "target": "Family Code § 3134 (custody enforcement)", "relationship": "Civil enforcement of custody orders"},
+    {"type": "federal_parallel", "target": "28 USC § 1738A (Parental Kidnapping Prevention Act)", "relationship": "Federal framework for recognition and enforcement of custody orders across states"},
+    {"type": "cross_citizen", "target": "CA_Family_Law_Litigator", "relationship": "Custody order generation and enforcement is Terminal A domain"},
+    {"type": "cross_citizen", "target": "CA_Conservator_Investigator", "relationship": "Conservatorship can affect custody determinations"}
+  ],
+  "generated_at_utc": "2026-04-11T00:45:00Z"
+}

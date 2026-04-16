@@ -1,0 +1,14 @@
+IN RE MARRIAGE OF ANKOLA
+(2020) 53 Cal.App.5th 369
+Court of Appeal, Fourth Appellate District, 2020
+
+FACTS:
+In a custody proceeding with a documented history of domestic violence, the trial court conducted mediation without properly screening for DV or offering the victim separate sessions. The mediator conducted joint sessions over the victim's objection. The resulting recommendation was adopted by the trial court. The victim appealed on DV protocol grounds.
+
+HOLDING — Cal. Rules of Court, Rule 5.215 / Rule 5.210:
+The Court of Appeal held that the failure to screen for DV and the failure to offer separate sessions in a case with documented DV history violated both Rule 5.210 and Rule 5.215. These are not discretionary guidelines — they are mandatory procedural requirements. The court held that when a trial court adopts a mediation recommendation obtained through a procedurally defective process in a DV case, the resulting custody order is itself tainted by the procedural violation.
+
+The court remanded for new mediation conducted with proper DV protocols, separate sessions, and a properly trained mediator.
+
+SIGNIFICANCE:
+Ankola (2020) is the most current and directly on-point authority for challenging custody orders in DV cases where mediation was procedurally defective. It covers both Rule 5.210 qualifications and Rule 5.215 DV protocols in a single holding. For the steward's cases, this case provides the template for the argument: (1) documented DV history, (2) mediation without proper screening and separate sessions, (3) custody order tainted and subject to vacation. The Ankola pattern fits the 2009-2025 proceedings precisely.

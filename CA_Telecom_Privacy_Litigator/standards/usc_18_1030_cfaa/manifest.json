@@ -1,0 +1,53 @@
+{
+  "standard_id": "USC_18_1030_CFAA_TELECOM",
+  "title": "18 U.S.C. § 1030 — Computer Fraud and Abuse Act (Telecom/SIM Swap Context)",
+  "short_name": "CFAA — Unauthorized Access / SIM Swap Application",
+  "citation": "18 U.S.C. § 1030",
+  "jurisdiction": "Federal",
+  "court": "U.S. District Courts (criminal); civil § 1030(g)",
+  "type": "Statute",
+  "domain": "unauthorized computer access, SIM swap, digital surveillance, civil CFAA claims",
+  "enacted": "1984",
+  "origin_act": "Counterfeit Access Device and Computer Fraud and Abuse Act of 1984 (Pub. L. 98-473)",
+  "last_material_amendment": "2008 (Identity Theft Enforcement and Restitution Act)",
+  "current_version_date": "2008-01-01",
+  "positive_law": true,
+  "build_state": "PROPOSED",
+  "witness_state": "AWAITING-STEWARD",
+  "filed_at_utc": "2026-04-11T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "html_sha256": "PENDING_VERIFICATION",
+  "evolution_chain_hash": "PENDING_VERIFICATION",
+  "coordination_note": "Canonical deep-build of § 1030 for financial fraud RICO predicates lives in US_Federal_Financial_Fraud_Litigator. This standard is built from the telecom/unauthorized-access angle: SIM swap attacks, device takeover, digital surveillance, and Ryan McClaran IT operator conduct. Both builds are independently justified by domain scope differences.",
+  "evolution_stages": [
+    "01_origin_1984",
+    "02_cfaa_1986",
+    "03_civil_remedy_1994",
+    "04_protected_computer_1996",
+    "05_patriot_2001",
+    "06_current"
+  ],
+  "cases_documented": [
+    "van_buren_v_us_2021"
+  ],
+  "cases_to_add": [
+    "hiQ Labs v. LinkedIn (9th Cir. 2022) — 'without authorization' requires affirmative revocation; public access cannot be 'unauthorized'",
+    "United States v. Nosal (9th Cir. 2012 / 2016) — exceeds authorized access requires gates/barriers, not mere policy violation; SIM swap analogy"
+  ],
+  "cross_refs": [
+    "CAL_PEN_502",
+    "USC_18_1343_WIRE_FRAUD",
+    "USC_47_222_CPNI",
+    "VAN_BUREN_2021_NARROWING"
+  ],
+  "steward_relevance": "Post-SIM-swap, attackers had access to phone-based authentication across email, financial, and government accounts. Each unauthorized login after a SIM swap is a separate § 1030(a)(2)(C) violation (unauthorized access to protected computer + obtains information). § 1030(g) civil private right of action requires showing: loss exceeding $5,000 in a 1-year period OR impairment of medical examination. AT&T carrier conduct enabling the SIM swap may also constitute § 1030(a)(2) aiding.",
+  "first_step_triage": "Post-SIM-swap: identify each account that was accessed (email, financial, phone), when (timestamp from carrier logs), and what information was obtained. Each unauthorized session is a discrete § 1030 violation. Damages calculation under § 1030(c)(4)(A)(i)(I) = investigative and remediation costs + imputed value of data accessed. Civil filing threshold: $5,000 aggregate loss within one-year period.",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "version": "0.1.0-witnessed-by-herald",
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

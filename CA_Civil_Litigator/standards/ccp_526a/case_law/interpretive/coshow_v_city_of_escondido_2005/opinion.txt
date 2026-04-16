@@ -1,0 +1,61 @@
+COSHOW v. CITY OF ESCONDIDO
+132 Cal.App.4th 687 (2005)
+California Court of Appeal, Fourth District
+Decided: October 19, 2005
+
+---
+
+FACTS:
+
+Plaintiffs, taxpayers of the City of Escondido, brought a § 526a action challenging the city's expenditure of public funds on a redevelopment project they alleged was illegal. The city argued the plaintiffs lacked standing because they had not suffered a particularized injury from the redevelopment and could not demonstrate that the expenditure was clearly illegal.
+
+---
+
+HOLDING:
+
+The Court of Appeal analyzed the current state of § 526a standing requirements and the "illegal expenditure" element.
+
+§ 526a STANDING REQUIREMENTS (COSHOW SYNTHESIS):
+"Under CCP § 526a, a taxpayer need show only:
+(1) Taxpayer status — the plaintiff pays taxes to the jurisdiction whose funds are at issue;
+(2) The expenditure is illegal — made contrary to law or in violation of a statutory or constitutional provision;
+(3) The expenditure has occurred or will occur — an existing or threatened expenditure."
+
+The plaintiff need not show:
+- Personal injury beyond taxpayer status
+- That the illegal expenditure caused them specific harm
+- That they would benefit personally from stopping the expenditure
+
+THE "ILLEGAL EXPENDITURE" ELEMENT:
+"An illegal expenditure includes expenditures made in violation of statutory requirements, in excess of authorized appropriations, in violation of competitive bidding requirements, or in furtherance of a project that is itself illegal or unconstitutional."
+
+However, § 526a is not a vehicle for challenging government actions that are merely improvident or unwise — the expenditure must be clearly illegal. Policy disagreements about how to spend money are not reviewable under § 526a.
+
+THE ILLEGAL EXPENDITURE STANDARD:
+1. Clear illegality: The expenditure must violate an identifiable legal prohibition (statute, constitutional provision, regulatory requirement)
+2. Not merely wasteful: Policy disputes about government priorities are not § 526a-justiciable
+3. Ongoing or prospective: The remedy is injunction — the plaintiff must show future expenditure, not just past harm
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Coshow's synthesis of § 526a standing clarifies:
+
+1. **The "clearly illegal" threshold**: For the APD dispatch pattern claim, the argument is not merely that responding to false calls is wasteful (policy dispute) but that dispatching officers based on known false or manipulated reports, without verification, violates constitutional requirements — the expenditure is illegal because it enforces unconstitutional conduct.
+
+2. **Prospective injunction**: To get § 526a relief, the steward must show APD will continue the pattern of responding to false reports without verification protocols. Given the documented history, this is easily alleged.
+
+3. **Taxpayer status verification**: California taxpayer status means any California state income tax payer or local property/sales tax payer. The steward's residence in Antioch, CA gives him taxpayer standing against Antioch PD and Contra Costa County.
+
+4. **Combining § 526a with other claims**: § 526a is most useful as a supplemental standing vehicle when other standing theories (direct injury, Bane Act, § 1983) are also present. It provides equitable injunctive relief as an alternative remedy.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 132 Cal.App.4th 687 (2005)
+Court: California Court of Appeal, Fourth Appellate District
+Reporter: California Appellate Reports, Fourth Series, vol. 132, page 687
+Source of this text: Claude training data (knowledge cutoff August 2025). Coshow v. City of Escondido synthesized § 526a standing requirements — taxpayer status + clearly illegal expenditure + ongoing/prospective threat — clarifying that policy disagreements are not reviewable but constitutional violations in spending patterns are.
+Verification: Casetext / Google Scholar: "Coshow v. City of Escondido 132 Cal.App.4th 687"
+Verification status: PROPOSED — pending steward witness review

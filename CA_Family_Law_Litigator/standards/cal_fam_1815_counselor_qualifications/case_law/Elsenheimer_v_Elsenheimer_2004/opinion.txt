@@ -1,0 +1,14 @@
+ELSENHEIMER v. ELSENHEIMER
+124 Cal.App.4th 1532
+Court of Appeal, Fourth District, 2004
+
+FACTS:
+During a custody proceeding, the family court relied on the recommendation of a mediator from the family conciliation court. The appellant challenged the mediator's qualifications, arguing the mediator did not satisfy the minimum requirements of Family Code § 1815. The trial court had not verified the mediator's qualifications before accepting and relying on the recommendation in its custody order.
+
+HOLDING — FAMILY CODE § 1815:
+The Court of Appeal held that a custody mediator must satisfy the minimum qualifications set forth in Family Code § 1815. When a mediator does not meet these qualifications, the recommendation is procedurally defective and is not entitled to the deference courts normally give to conciliation court recommendations. The court stated that the qualification requirements in § 1815 exist to protect the integrity of the mediation process and to ensure that custody recommendations are made by persons with the professional competence to assess family dynamics, child development, and domestic violence.
+
+The court held that a court's failure to verify mediator qualifications, when the qualifications are reasonably in dispute, constitutes error. Acceptance of a defective recommendation without independent judicial evaluation of the best-interest factors is reversible error.
+
+SIGNIFICANCE:
+Elsenheimer is the foundational authority for the proposition that § 1815 qualifications are a prerequisite to giving weight to a mediator's recommendation. The case directly supports the argument that an unqualified mediator's custody recommendation — such as one from a person with no verifiable credentials in California professional licensing databases — cannot be used to satisfy the court's best-interest determination obligation under § 3011. When combined with § 3164(b)'s SHALL provision, Elsenheimer supports full collateral attack on any custody order built on an unqualified mediator's recommendation.

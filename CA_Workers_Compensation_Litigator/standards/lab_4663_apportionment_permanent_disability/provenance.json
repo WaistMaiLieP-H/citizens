@@ -1,0 +1,33 @@
+{
+  "standard_id": "lab_4663_apportionment_permanent_disability",
+  "citizen": "CA_Workers_Compensation_Litigator",
+  "build_date": "2026-04-13",
+  "primary_source": {
+    "statute": "California Labor Code § 4663",
+    "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=4663.&lawCode=LAB",
+    "fetch_method": "mcp__claude_ai_VernenLegal__california_get_section",
+    "verified": true,
+    "fetch_date": "2026-04-13",
+    "verification_note": "Live fetch via VernenLegal MCP — text confirmed against leginfo.legislature.ca.gov"
+  },
+  "supporting_sources": [
+    {
+      "citation": "SB 899 (2004) — Workers Compensation Reform",
+      "type": "legislative_history",
+      "verified": "training_knowledge",
+      "steward_verify": false,
+      "note": "Causation-based apportionment enacted 2004"
+    },
+    {
+      "citation": "Escobedo v. Marshalls (2005) WCAB",
+      "type": "case_law",
+      "verified": "training_knowledge",
+      "steward_verify": true,
+      "note": "Substantial medical evidence for apportionment — verify citation and year before filing"
+    }
+  ],
+  "chain_of_custody": "LAB §4663 fetched live via VernenLegal MCP → statute_text.md written → rule.md drafted (causation framework; four challenge grounds; bilateral ankle application; checklist) → reasoning.md drafted (SB 899 policy shift; structural conflict of interest; historical loss in percentages) → historical_chain built (pre-2004 compensation-based → 2004 SB 899 → Escobedo substantial evidence) → cross_refs built with ${citizens} anchors → provenance.json written → manifest.json pending",
+  "steward_verification_queue": [
+    "Escobedo v. Marshalls (2005) WCAB — verify citation and year before filing"
+  ]
+}

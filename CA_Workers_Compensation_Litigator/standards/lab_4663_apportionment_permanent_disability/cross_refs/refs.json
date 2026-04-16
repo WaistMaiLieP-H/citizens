@@ -1,0 +1,47 @@
+{
+  "standard_id": "lab_4663_apportionment_permanent_disability",
+  "citizen": "CA_Workers_Compensation_Litigator",
+  "build_date": "2026-04-13",
+  "cross_references": [
+    {
+      "ref_id": "XREF-4663-001",
+      "target_citizen": "CA_Workers_Compensation_Litigator",
+      "target_standard": "lab_4600_medical_treatment_entitlement",
+      "path": "${citizens}/CA_Workers_Compensation_Litigator/standards/lab_4600_medical_treatment_entitlement/",
+      "relationship": "concurrent",
+      "note": "Apportionment (§4663) applies to permanent disability indemnity, NOT to medical treatment. The employer's medical treatment obligation under §4600 is not reduced by apportionment — the employer must treat the industrial component regardless of the PD apportionment percentage."
+    },
+    {
+      "ref_id": "XREF-4663-002",
+      "target_citizen": "CA_Workers_Compensation_Litigator",
+      "target_standard": "lab_3202_liberal_construction",
+      "path": "${citizens}/CA_Workers_Compensation_Litigator/standards/lab_3202_liberal_construction/",
+      "relationship": "prerequisite",
+      "note": "§3202 liberal construction applies to ambiguities in §4663 — including what constitutes 'substantial medical evidence' for apportionment and what conditions qualify as causally contributing. Ambiguities resolved in worker's favor."
+    },
+    {
+      "ref_id": "XREF-4663-003",
+      "target_citizen": "CA_Workers_Compensation_Litigator",
+      "target_standard": "lab_4553_serious_willful_misconduct_enhancement",
+      "path": "${citizens}/CA_Workers_Compensation_Litigator/standards/lab_4553_serious_willful_misconduct_enhancement/",
+      "relationship": "concurrent",
+      "note": "If the employer's QME engaged in systematic speculation-based apportionment as part of a fraudulent claims management scheme (UA342 identity replacement), the underlying misconduct may support a §4553 enhancement on the PD award. The §4663 apportionment is applied to the base PD; §4553 then increases the employer's share by 50%."
+    },
+    {
+      "ref_id": "XREF-4663-004",
+      "target_citizen": "US_Federal_Social_Security_Litigator",
+      "target_standard": "usc_42_423_disability_definition",
+      "path": "${citizens}/US_Federal_Social_Security_Litigator/standards/usc_42_423_disability_definition/",
+      "relationship": "parallel",
+      "note": "Workers comp permanent disability rating and SSA disability determination are separate systems. WC PD is based on the AMA Guides impairment model; SSA uses a functional capacity model. A WC apportionment finding does not control SSA eligibility. However, WC medical records are relevant evidence in SSA proceedings."
+    },
+    {
+      "ref_id": "XREF-4663-005",
+      "target_citizen": "CA_Medical_Malpractice_Litigator",
+      "target_standard": "ccp_340_5_medical_malpractice_sol",
+      "path": "${citizens}/CA_Medical_Malpractice_Litigator/standards/ccp_340_5_medical_malpractice_sol/",
+      "relationship": "parallel",
+      "note": "A QME physician who produces a speculative or fraudulent apportionment opinion — particularly if it causes the worker to lose a significant permanent disability benefit — may have independent malpractice liability. The standard for an adequate apportionment opinion (substantial medical evidence; specific causation) sets the care standard. CA_Medical_Malpractice_Litigator owns the malpractice track."
+    }
+  ]
+}

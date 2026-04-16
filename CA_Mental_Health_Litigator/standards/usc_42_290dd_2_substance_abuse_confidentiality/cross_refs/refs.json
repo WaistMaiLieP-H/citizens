@@ -1,0 +1,17 @@
+{
+  "standard_id": "usc_42_290dd_2_substance_abuse_confidentiality",
+  "cross_refs": [
+    {"type": "implementing_regulation", "citation": "42 C.F.R. Part 2"},
+    {"type": "federal_amendment", "citation": "CARES Act § 3221 (Pub. L. 116-136, 2020)"},
+    {"type": "agency_rule", "citation": "SAMHSA Final Rule 2024 (implementing CARES Act § 3221)"},
+    {"type": "state_parallel", "citation": "Cal. WIC § 5328", "standard": "wic_5328_lps_confidentiality", "relation": "State LPS confidentiality; both regimes apply to overlapping records; stricter controls"},
+    {"type": "state_parallel", "citation": "Cal. Civ. § 56.05 et seq. (CMIA)", "relation": "State medical records confidentiality; CA_Medical_Privacy_Officer owns"},
+    {"type": "federal_parallel", "citation": "45 C.F.R. Parts 160, 164 (HIPAA)", "relation": "HIPAA applies to covered entities; §290dd-2 stricter for SUD records"},
+    {"type": "evidence_privilege", "citation": "Jaffee v. Redmond (1996) 518 U.S. 1", "relation": "Federal psychotherapist-patient privilege under FRE 501"},
+    {"type": "attaches_at", "citation": "Cal. WIC § 5250", "standard": "wic_5250_14_day_certification", "relation": "§5250 'impairment by chronic alcoholism' certification brings SUD records under dual regime"},
+    {"type": "citizen_external", "citizen": "CA_Medical_Privacy_Officer", "relation": "CMIA + HIPAA overlay"},
+    {"type": "citizen_external", "citizen": "CA_Family_Law_Litigator", "relation": "SUD records admissibility requires §290dd-2(b)(2)(C) + Part 2 Subpart E court order, not just §5328"},
+    {"type": "citizen_external", "citizen": "CA_Criminal_Law_Specialist", "relation": "§290dd-2(c) absolute bar on criminal-proceeding use without heightened court order"},
+    {"type": "citizen_external", "citizen": "US_Federal_Civil_Rights_Litigator", "relation": "§1983 predicate for state-actor Part 2 violations; Ellison v. Cocke County pattern"}
+  ]
+}

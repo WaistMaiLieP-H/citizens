@@ -1,0 +1,28 @@
+Kulshrestha v. First Union Commercial Corp. (2004) 33 Cal.4th 601
+
+CITATION: 33 Cal.4th 601, 93 P.3d 386, 15 Cal.Rptr.3d 793
+COURT: Supreme Court of California
+DATE DECIDED: July 12, 2004
+
+HOLDING:
+A declaration executed outside California is inadmissible as substitute for an affidavit under Code of Civil Procedure section 2015.5 unless it recites that it was made "under the laws of the State of California." The omission is not a trivial technicality; it is a jurisdictional defect that renders the declaration legally unsworn and therefore inadmissible as evidence.
+
+KEY FACTS:
+Declarant signed declaration in New Jersey supporting summary judgment motion. The declaration stated it was made "under penalty of perjury" but did not specify it was made "under the laws of the State of California." The Court of Appeal affirmed summary judgment relying on the declaration.
+
+REASONING:
+Section 2015.5 requires that a declaration executed outside California contain the phrase "under the laws of the State of California" to be enforceable as a substitute for a sworn affidavit. The perjury statute (Pen. Code § 118) only reaches false statements made "under penalty of perjury under the laws of the State of California." Without that language, the declarant cannot be prosecuted for perjury in California, and the document is therefore not "sworn" within the meaning of the Evidence Code. The defect cannot be cured by post-hoc affidavit or stipulation.
+
+APPLICATION TO § 2015.5:
+A declaration that fails to comply with the statutory formula is a legal nullity. Courts may not consider defective declarations even if the opposing party does not object at the trial level. The Supreme Court reversed and remanded.
+
+APPLICATION TO VERNEN CASES:
+— Case #1 (Christina DVRO declarations): Any declaration Christina executed outside California (travel, relocation periods) must be scrutinized for § 2015.5 compliance. Missing "laws of the State of California" language = inadmissible.
+— Case #2 (Wiita MC-350/fraudulent competency declarations): Supporting declarations by out-of-state experts require strict § 2015.5 compliance; defect = exclusion.
+— Pattern: Opposing declarations signed in Thailand, Nevada, or other jurisdictions are per se defective unless they recite the California perjury formulation.
+
+CROSS-REFERENCES:
+— CCP § 2015.5 (declaration formula)
+— Penal Code § 118 (perjury)
+— Evidence Code § 702 (personal knowledge)
+— People v. James (1977) 19 Cal.3d 99 (defective declaration = insufficient)

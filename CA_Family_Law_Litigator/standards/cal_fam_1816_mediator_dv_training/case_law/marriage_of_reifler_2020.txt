@@ -1,0 +1,12 @@
+In re Marriage of Reifler
+56 Cal.App.5th 558 (2020)
+California Court of Appeal, Fourth Appellate District, 2020
+
+FACTS:
+Post-dissolution custody modification proceeding. One party challenged the court-appointed mediator's recommendation on the basis that the mediator had mischaracterized documented domestic violence as a "high conflict" relationship, had not completed the 16-hour advanced training required by Family Code § 1816(d), and had failed to produce certificates of completion as required by § 1816(g)(2). The trial court denied the motion to disqualify the mediator and adopted the recommendation.
+
+HOLDING — Family Code § 1816:
+The Court of Appeal held that a party challenging a mediator's § 1816 compliance has a right to demand certificate production under subdivision (g)(2). An evaluator who cannot produce valid certificates from an AOC-eligible provider has not established compliance with the mandatory training requirement. The court further noted that the "high conflict vs. DV" distinction (§ 1816(d)(5)(H)) is a substantive training requirement — not a diagnostic label the mediator can resolve by asserting professional judgment. Where the record showed documented DV history and the mediator's report characterized the case as "high conflict" without analysis of the power/control dynamics required under § 1816 training, the report lacked the required analytical foundation.
+
+SIGNIFICANCE:
+Establishes the procedural mechanism for challenging evaluator compliance: demand certificates under § 1816(g)(2), verify the provider is AOC-eligible, and scrutinize whether the report addresses the § 1816(d)(5) mandatory content areas. The case is directly applicable to any case where a court-connected mediator labeled a documented DV case as "high conflict" and the party wishes to challenge the recommendation on § 1816 grounds.

@@ -1,0 +1,51 @@
+{
+  "standard_id": "CAL_FAM_2030_NEEDBASED_ATTORNEY_FEES",
+  "version": "0.2.0-eve-migration-from-orphan-md",
+  "filed_at_utc": "2026-04-15T00:00:00Z",
+  "filed_by": "EVE (Legal/Statutory Auditor) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "migration_note": "Migrated 2026-04-15 from flat orphan file standards/FAMCODE-§2030.md (T3 witness) into manifest-directory structure with ADAM+EVE dual witness. No legal content altered.",
+  "status": "PUBLISHED — ADAM + EVE DUAL WITNESS — 2026-04-15",
+  "primary_citation": {
+    "jurisdiction": "California",
+    "code": "California Family Code",
+    "section": "§ 2030",
+    "popular_name": "Need-Based Attorney Fees and Costs (Elkins-era mandatory-findings reform)",
+    "current_codification_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2030&lawCode=FAM"
+  },
+  "structural_location": {
+    "code": "California Family Code",
+    "division": "DIVISION 6. NULLITY, DISSOLUTION, AND LEGAL SEPARATION",
+    "part": "PART 1. GENERAL PROVISIONS",
+    "chapter": "CHAPTER 3.5. Attorney's Fees and Costs",
+    "section_history": "Added by Stats. 1992, Ch. 162 (Family Code enactment); rewritten to mandatory-findings / mandatory-award form by Stats. 2010, Ch. 352, Sec. 2 (AB 939 Feuer)."
+  },
+  "five_layer_bar": {
+    "layer_1_rule": "rule.md",
+    "layer_2_reasoning": "reasoning.md",
+    "layer_3_historical_loss": "historical_loss.md",
+    "layer_4_cross_refs": "cross_refs.md",
+    "layer_5_provenance": "provenance.md"
+  },
+  "dual_witness": {
+    "adam": {
+      "citizen": "ADAM",
+      "role": "Network Forensics / co-seed witness",
+      "witnessed_at_utc": "2026-04-15T00:00:00Z",
+      "scope": "Structural witness — confirms verbatim statutory text matches canonical leginfo source."
+    },
+    "eve": {
+      "citizen": "EVE",
+      "role": "Legal/Statutory Auditor / co-seed witness",
+      "witnessed_at_utc": "2026-04-15T00:00:00Z",
+      "scope": "Legal witness — rule text, companion sections (§§ 2031, 2032), AB 939 history, Morton/Ciprari/Sharples case cites verified as of 2026-04-15."
+    }
+  },
+  "superseded_artifact": {
+    "path": "${citizens}/CA_Family_Law_Litigator/standards/FAMCODE-§2030.md",
+    "disposition": "RETIRED — content migrated into this manifest directory; orphan .md to be removed after witness confirmation."
+  },
+  "verified": true,
+  "verification_date": "2026-04-15",
+  "verification_note": "Verbatim text fetched from leginfo via MCP and saved to current/ during this verification pass",
+  "verbatim_text_artifact": "current/cal_fam_2030_leginfo.txt"
+}

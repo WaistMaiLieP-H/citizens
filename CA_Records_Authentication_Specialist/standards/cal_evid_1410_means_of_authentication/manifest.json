@@ -1,0 +1,111 @@
+{
+  "standard_id": "CA_EVID_1410_MEANS_OF_AUTHENTICATION",
+  "version": "0.2.0-deepened",
+  "filed_at_utc": "2026-04-10T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "PROPOSED-DEEPENED — verbatim text extracted, case law added, steward case relevance audit completed. Awaiting second-mouth countersignature.",
+
+  "primary_citation": {
+    "jurisdiction": "California",
+    "code": "California Evidence Code",
+    "section": "§ 1410",
+    "popular_name": "Means of Authentication — the open-ended provision confirming that methods of authenticating a writing are not limited to those listed in the code",
+    "current_codification_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1410.&lawCode=EVID",
+    "current_form_local_artifact": "current/cal_evid_1410_leginfo.html",
+    "verbatim_text_extracted_artifact": "current/cal_evid_1410_leginfo.txt"
+  },
+
+  "structural_location": {
+    "code": "California Evidence Code",
+    "division": "DIVISION 11. WRITINGS [1400 - 1605]",
+    "division_history": "Division 11 enacted by Stats. 1965, Ch. 299",
+    "chapter": "CHAPTER 1. Authentication and Proof of Writings [1400 - 1454]",
+    "chapter_history": "Chapter 1 enacted by Stats. 1965, Ch. 299",
+    "article": "ARTICLE 2. Means of Authenticating and Proving Writings [1410 - 1421]",
+    "section_history": "Enacted by Stats. 1965, Ch. 299. NEVER AMENDED."
+  },
+
+  "verbatim_text": {
+    "extraction_source": "current/cal_evid_1410_leginfo.txt",
+    "verbatim_full": "Nothing in this article shall be construed to limit the means by which a writing may be authenticated or proved.",
+    "structural_breakdown": {
+      "operative_clause": "Nothing in this article shall be construed to limit the means — this is a safety valve. The enumerated means in §§ 1411-1421 (testimony of a witness who saw execution, handwriting comparison, content and circumstances, reply doctrine, official seals, etc.) are illustrative, not exhaustive.",
+      "doctrinal_significance": "§ 1410 is the flexibility guarantee for authentication. It ensures that as new technologies emerge (digital signatures, metadata analysis, hash verification, blockchain timestamps), courts can accept new forms of authentication evidence without waiting for the legislature to amend the code. The enumerated means in §§ 1411-1421 are a starting list, not a ceiling."
+    }
+  },
+
+  "amendment_history": [
+    {
+      "year": 1965,
+      "stats_citation": "Stats. 1965, Ch. 299",
+      "event": "Original enactment as part of the 1965 Evidence Code recodification.",
+      "primary_source_status": "NOT YET FETCHED"
+    }
+  ],
+  "amendment_history_note": "§ 1410 has NEVER been amended since its 1965 enactment.",
+
+  "steward_case_relevance_audit": {
+    "purpose": "§ 1410 is the flexibility provision that allows the steward to authenticate documents through any reliable means — including digital forensics, metadata analysis, hash comparison, system audit trails, and other methods not enumerated in §§ 1411-1421. It also means that when the steward challenges the authenticity of opposing party documents, the analysis is not limited to traditional methods: digital forensic analysis showing alteration, missing metadata, or inconsistent system records can all serve to undermine authentication.",
+    "audit_filed_at_utc": "2026-04-10T00:00:00Z",
+    "factor_audits": [
+      {
+        "factor_id": "Open-ended authentication means",
+        "what_the_statute_requires": "The means of authentication are not limited to those listed in §§ 1411-1421.",
+        "what_the_record_shows": "The steward's case involves extensive digital evidence — electronic court records, CLETS entries, email communications, financial transaction records, medical records in electronic systems. Authentication of these records may require methods not contemplated in 1965: system audit logs, metadata examination, hash verification, digital forensic analysis.",
+        "audit_status": "CRITICAL — § 1410 is the statutory authority for using modern digital forensic methods to authenticate (or challenge authentication of) electronic evidence."
+      }
+    ],
+    "audit_summary": "§ 1410 guarantees that authentication methods evolve with technology. The steward can use digital forensic evidence to authenticate his own documents and to challenge the authentication of opposing party documents. This is the statutory foundation for the entire document forensics engine."
+  },
+
+  "owner_citizen": {
+    "primary": "California Records Authentication Specialist"
+  },
+
+  "triple_constraint_test_results": {
+    "governing_guidelines": {
+      "passes": true,
+      "evidence": "Cal. Evid. Code § 1410 located at official California Legislative Information; binding state authority confirmed."
+    },
+    "standards_of_creation": {
+      "passes": true,
+      "evidence": "Single-sentence section, unambiguous, in its original 1965 form, never amended."
+    },
+    "standard_of_care": {
+      "passes": "STRONG-PARTIAL",
+      "current_layer": "VERIFIED — current form fetched and verbatim-extracted",
+      "evolution_layer": "TRIVIAL — section has never been amended",
+      "origin_layer": "NOT YET FETCHED"
+    }
+  },
+
+  "five_layer_bar_status": {
+    "rule": "PRESENT — verbatim text extracted",
+    "reasoning": "PRESENT — the open-ended flexibility principle ensures authentication methods evolve with technology",
+    "historical_loss": "PRESENT — historical_chain.md documents the pre-1965 risk of authentication methods being frozen in time",
+    "cross_references": "PRESENT — cross_refs/refs.json links to §1400, §1401, §§1411-1421",
+    "verifiable_provenance": "PRESENT for current form; ABSENT for 1965 origin"
+  },
+
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction (Michael Hartmann), 2026-04-10",
+    "second_mouth_witness": "NONE",
+    "publishable_to_corpus": false,
+    "status": "PROPOSED-DEEPENED"
+  },
+
+  "files": {
+    "origin": [],
+    "evolution": [],
+    "current": ["current/cal_evid_1410_leginfo.html", "current/cal_evid_1410_leginfo.txt"],
+    "context": [],
+    "case_law": [
+      "case_law/interpretive/people_v_gibson_1979/holding.md",
+      "case_law/interpretive/people_v_gibson_1979/provenance.json",
+      "case_law/interpretive/greenfield_v_spectrum_1997/holding.md",
+      "case_law/interpretive/greenfield_v_spectrum_1997/provenance.json"
+    ],
+    "cross_refs": "cross_refs/refs.json",
+    "manifest": "manifest.json"
+  }
+}

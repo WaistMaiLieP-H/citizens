@@ -1,0 +1,18 @@
+{
+  "standard_id": "CFR_47_64_CPNI",
+  "primary_citation": "47 C.F.R. Part 64, Subpart U (CPNI Rules); implementing 47 U.S.C. §222 (Telecommunications Act of 1996, Pub. L. 104-104)",
+  "key_regulatory_provision": "47 C.F.R. §64.2010 (authentication requirements)",
+  "key_statutory_provision": "47 U.S.C. §222 (CPNI duty)",
+  "original_enactment": "Telecommunications Act of 1996, Pub. L. 104-104, §702 (adding 47 U.S.C. §222); FCC CPNI Order implementing rules (1999)",
+  "significant_amendments": [
+    "FCC 07-22 (2007) — comprehensive CPNI order; strengthened authentication requirements; addressed pretexting and social engineering",
+    "FCC 23-67 (2023) — SIM swap specific action; additional carrier obligations for SIM swap fraud prevention"
+  ],
+  "civil_remedy_note": "No private right of action directly under 47 U.S.C. §222. Civil liability through: (1) negligence/negligence per se, (2) California UCL §17200 unlawful prong, (3) California negligence §1714. FCC enforcement through 47 U.S.C. §503(b) forfeiture",
+  "fetch_method": "WebFetch — Cornell LII (law.cornell.edu)",
+  "fetch_timestamp_utc": "2026-04-11T00:00:00Z",
+  "retrieval_steward": "Claude (assistant) under direction of Michael Hartmann",
+  "verbatim_capture_status": "PARTIAL — cfr_47_64_2010_leginfo.txt; key verbatim quotes marked in file; full verbatim verification required at ecfr.gov before filing; §64.2010(h)(1) SIM authentication requirement and §64.2010(a) safeguard obligation are operationally captured",
+  "txt_sha256": "b224548265a6ebbdad83b31d1dfbe6e1495dd6a0e60d531278a6a9ac5a7aefc0",
+  "verification_note": "Verify current CPNI rule text via FCC eCFR before use in filed documents; verify FCC 23-67 citation and current rule status"
+}

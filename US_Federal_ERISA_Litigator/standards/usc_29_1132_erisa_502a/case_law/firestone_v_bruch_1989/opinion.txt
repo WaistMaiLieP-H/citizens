@@ -1,0 +1,37 @@
+Firestone Tire & Rubber Co. v. Bruch
+489 U.S. 101 (1989)
+United States Supreme Court
+
+JUSTICE O'CONNOR delivered the opinion of the Court.
+
+This case requires us to determine the appropriate standard of judicial review of benefit
+determinations by fiduciaries or plan administrators under the Employee Retirement Income
+Security Act of 1974 (ERISA).
+
+Firestone Tire & Rubber Co. maintained a termination pay plan for its employees.
+The plan provided benefits to employees who were "laid off" but not to those who
+"resign, retire, or are discharged for cause."
+
+Respondents were employees at Firestone's Plastics Division who were terminated when
+the division was sold. Firestone denied them termination pay on the ground they were
+not "laid off." Respondents brought suit under §502(a)(1)(B).
+
+The question: What standard of review applies when a plan fiduciary (or administrator
+granted discretion by the plan) denies benefits?
+
+HELD: A denial of benefits challenged under §502(a)(1)(B) is to be reviewed under
+a de novo standard unless the benefit plan gives the administrator or fiduciary
+discretionary authority to determine eligibility for benefits or to construe the terms
+of the plan.
+
+Where discretion is granted, the court reviews for abuse of discretion (arbitrary
+and capricious standard). Where no discretion is granted, review is de novo.
+
+The de novo default is appropriate because ERISA's legislative history reveals that
+Congress intended courts to determine, independently, whether plan administrators
+properly applied plan terms. Where the employer also serves as the plan administrator,
+a structural conflict of interest exists that courts must consider when determining
+whether the fiduciary's decision was reasonable.
+
+The structural conflict does not automatically trigger de novo review but is a factor
+in assessing whether the administrator abused its discretion.

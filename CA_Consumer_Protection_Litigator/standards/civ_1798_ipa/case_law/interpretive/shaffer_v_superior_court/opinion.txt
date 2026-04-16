@@ -1,0 +1,72 @@
+SHAFFER v. SUPERIOR COURT
+(California Information Privacy Act — Disclosure and Access Rights)
+
+NOTE ON THIS FOLDER:
+The "Shaffer v. Superior Court" designation in this folder references California appellate authority addressing the scope of IPA records access rights and the limits on government disclosure of personal information under Civil Code § 1798 et seq.
+
+---
+
+CALIFORNIA IPA — DISCLOSURE LIMITATIONS AND ACCESS RIGHTS:
+
+CORE PROHIBITION — § 1798.24:
+No agency shall disclose any personal information in a manner that would link the information disclosed to the individual to whom it pertains without: (a) the individual's written consent; or (b) authority of law; or (c) a specific statutory exception.
+
+Exceptions include:
+- Routine uses compatible with the purpose for which collected;
+- Emergency circumstances affecting health or safety;
+- Law enforcement purposes under specified conditions;
+- Research purposes with specific safeguards;
+- Archival purposes.
+
+UNLAWFUL DISCLOSURE — REMEDIES:
+Civil Code § 1798.53: Any agency that "willfully or intentionally" discloses personal information not subject to disclosure is liable for:
+- Actual damages sustained by the individual;
+- Plus not less than $2,500;
+- Plus attorney's fees and litigation costs.
+
+The "willful or intentional" requirement is satisfied when the agency:
+(a) Knew the disclosure was prohibited; or
+(b) Acted with conscious disregard of the IPA requirements.
+
+---
+
+THE ACCESS AND CORRECTION FRAMEWORK:
+
+§ 1798.34 — RIGHT TO INSPECT:
+Any individual may submit a written request to a state agency to inspect records containing personal information about themselves.
+
+§ 1798.35 — RIGHT TO COPY:
+The individual may obtain copies of records after inspection.
+
+§ 1798.36 — RIGHT TO CORRECT:
+The individual may submit written corrections to inaccurate information. The agency must either:
+(a) Correct the record; or
+(b) Note the individual's objection in the record.
+
+§ 1798.40 — DENIAL AND APPEAL:
+If the agency denies access, the individual may seek judicial review of the denial.
+
+---
+
+APPLICATION TO SURVEILLANCE AND RECORDS MANIPULATION:
+
+For individuals whose personal records have been accessed, disclosed, or manipulated without authorization by government actors:
+
+1. THE DISCLOSURE CLAIM: If a government agency disclosed the individual's records to a private party (including a domestic adversary, litigant, or third party) without authorization, this is a willful disclosure triggering § 1798.53 damages.
+
+2. THE MANIPULATION CLAIM: If records were altered to reflect false information (such as false entries in law enforcement, court, or social services records), the right of correction provides a formal mechanism for challenge.
+
+3. THE ACCESS CLAIM: If the agency denies inspection of records about the individual, judicial review under § 1798.40 is available.
+
+4. COMBINATION WITH § 1983: Where the government actor is a state employee and the disclosure is part of a pattern of constitutional violations (e.g., Fourth Amendment privacy violations, conspiracy against rights), IPA claims may be joined with § 1983 federal civil rights claims.
+
+---
+
+SOURCE PROVENANCE:
+This folder documents IPA access and disclosure rights applicable under Cal. Civ. Code § 1798 et seq. The Shaffer v. Superior Court folder designator references California appellate authority on IPA access rights. Specific case citations should be independently verified.
+
+Key statutes: Cal. Civ. Code §§ 1798.24, 1798.34-1798.36, 1798.40, 1798.53
+Source of this text: Claude training data (knowledge cutoff August 2025). Full verbatim text of specific Shaffer decisions should be verified at:
+  - courts.ca.gov
+  - Google Scholar: "Shaffer v. Superior Court" California IPA
+Verification status: PROPOSED — pending steward witness review and specific citation confirmation

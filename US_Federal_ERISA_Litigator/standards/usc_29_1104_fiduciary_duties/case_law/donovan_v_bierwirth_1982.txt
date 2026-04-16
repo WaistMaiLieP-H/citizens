@@ -1,0 +1,12 @@
+Donovan v. Bierwirth
+680 F.2d 263 (2d Cir. 1982)
+United States Court of Appeals, Second Circuit, 1982
+
+FACTS:
+Trustees of a pension plan used plan assets to purchase shares of the sponsoring company in order to resist a hostile takeover bid. The trustees acted in the interest of incumbent management rather than solely in the interest of plan participants. The Secretary of Labor sued under § 1109 for breach of fiduciary duty.
+
+HOLDING — 29 U.S.C. § 1104:
+The Second Circuit held that the trustees violated their § 1104(a)(1)(A) duty of loyalty. ERISA requires fiduciaries to act "solely in the interest of the participants and beneficiaries" — not in the interest of management, the employer, or the union. Any decision that benefits a party other than plan participants, and that is motivated even in part by that benefit, violates the exclusive benefit rule. The court established a strict conflict-of-interest framework: when a fiduciary faces a conflict between participant interests and any other interest, the fiduciary must act exclusively for participants or resign.
+
+SIGNIFICANCE:
+The foundational loyalty case in ERISA fiduciary law. Establishes the strict standard: fiduciaries must act exclusively for participants, not in the interests of the employer, the union, or the trustees themselves. For multi-employer pension plans, the trustees are jointly appointed by labor and management — but regardless of appointment, each trustee's duty runs to the participants. A trustee who coordinates decisions with the union or employer to the detriment of a participant's benefit violates the duty of loyalty established in Donovan.

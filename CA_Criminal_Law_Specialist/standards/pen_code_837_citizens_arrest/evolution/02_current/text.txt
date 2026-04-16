@@ -1,0 +1,5 @@
+Pointer to current/ directory. Chain: 1872 origin (common law codification, misdemeanor in-presence + felony reasonable-cause) → 2021 AB 1775 (significant restrictions, NOT YET BUILT as separate stage — FLAG FOR NEXT SESSION) → current.
+
+IMPORTANT: The current § 837 post-AB 1775 (2021) is materially different from the 1872 original. The 2021 amendment stage should be built as evolution/02_amendment_2021/ before this 02_current pointer. Flagged as outstanding in manifest.
+
+Current § 837 allows citizen's arrest: misdemeanor if committed in presence; felony under limited circumstances. AB 1775 restricted force use and narrowed the felony arrest authority.

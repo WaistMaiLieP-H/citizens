@@ -1,0 +1,80 @@
+{
+  "standard_id": "USC_15_1638_TILA",
+  "citizen": "CA_Consumer_Protection_Litigator",
+  "version": "1.0.0",
+  "status": "PROPOSED",
+  "primary_citation": "15 U.S.C. §1638 (Truth in Lending Act, Pub. L. 90-321 (1968); current version through Pub. L. 111-203, Dodd-Frank (2010))",
+  "short_title": "Truth in Lending Act §1638 — Auto Financing Disclosure Requirements; Yo-Yo Financing Violations",
+  "one_line_rule": "Creditors must disclose the APR, finance charge, payment schedule, and total of payments accurately before consummating closed-end credit (including auto financing); inaccurate or changed terms in yo-yo financing = TILA violation; civil remedy $100-$1,000 statutory minimum + actual damages + mandatory attorneys' fees.",
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current/LOGIC.md",
+    "reasoning": "PRESENT — current/LOGIC.md §§ WOUND (pre-1968 opaque credit) + DESIGN (§1638 disclosure requirements, Regulation Z, APR tolerance) + yo-yo financing TILA violation theory + Jaguar XE application + SOL analysis",
+    "historical_loss": "PRESENT — historical_chain.md + evolution/ (3 stages)",
+    "cross_references": "PRESENT — cross_refs/refs.json (4 references: §11711, CLRA, UCL, Rees-Levering)",
+    "verifiable_provenance": "PRESENT — current/provenance.json + evolution provenances; verbatim text capture PENDING"
+  },
+  "evolution_chain": [
+    {
+      "stage": "01_origin_1968_tila",
+      "label": "Truth in Lending Act — Original Enactment",
+      "source": "Consumer Credit Protection Act, Pub. L. 90-321, Title I (May 29, 1968)",
+      "logic_file": "evolution/01_origin_1968_tila/LOGIC.md"
+    },
+    {
+      "stage": "02_amendment_1980_truth_in_lending",
+      "label": "Truth in Lending Simplification and Reform Act — 1980",
+      "source": "Pub. L. 96-221 (March 31, 1980)",
+      "logic_file": "evolution/02_amendment_1980_truth_in_lending/LOGIC.md"
+    },
+    {
+      "stage": "03_amendment_2010_dodd_frank",
+      "label": "Dodd-Frank — TILA Authority Transferred to CFPB",
+      "source": "Pub. L. 111-203 (July 21, 2010)",
+      "logic_file": "evolution/03_amendment_2010_dodd_frank/LOGIC.md"
+    }
+  ],
+  "case_law": [
+    {
+      "slug": "ford_motor_credit_v_milhollin",
+      "cite": "Ford Motor Credit Co. v. Milhollin, 444 U.S. 555 (1980)",
+      "court": "Supreme Court of the United States",
+      "category": "foundational",
+      "key_rule": "Courts defer to Federal Reserve Board (now CFPB) Regulation Z interpretations; Official Staff Commentary is authoritative for specific disclosure requirements; APR is the central TILA disclosure; purpose of enabling comparison shopping informs all disclosure requirements. Note: deference aspect weakened by Loper Bright (2024).",
+      "verbatim_capture_status": "PENDING"
+    },
+    {
+      "slug": "cfpb_auto_lending_enforcement",
+      "cite": "CFPB Auto Finance Examination Procedures + Supervisory Highlights (pattern 2011-present)",
+      "court": "Consumer Financial Protection Bureau (regulatory guidance)",
+      "category": "enforcement_pattern",
+      "key_rule": "Yo-yo financing with inaccurate APR = TILA violation; spot delivery where original terms don't match final terms = TILA violation; TILA affirmative defense available in collection actions without SOL; CFPB examines auto financing TILA compliance as priority area.",
+      "verbatim_capture_status": "PENDING — verify at consumerfinance.gov"
+    }
+  ],
+  "jaguar_xe_application": {
+    "vehicle": "2018 Jaguar XE (purchased approximately 2018)",
+    "yo_yo_financing_facts": "Wrong CARFAX provided; yo-yo financing scheme with different terms presented after delivery",
+    "tila_violations": [
+      "§1638(a)(4) APR: disclosed APR inaccurate if financing terms changed",
+      "§1638(a)(3) Finance charge: dollar cost of credit inaccurate if terms changed",
+      "§1638(a)(6) Payment schedule: payment amounts inaccurate if terms changed"
+    ],
+    "sol_analysis": {
+      "direct_tila_claim": "15 U.S.C. §1640(e) — 1 year from violation; 2018 purchase = time-barred for direct TILA civil claim",
+      "affirmative_defense": "TILA violations may be raised as affirmative defense or recoupment in any collection action on the vehicle debt — no SOL on defenses",
+      "california_claims": "CLRA §1780 (3-year), Rees-Levering (4-year), UCL §17208 (4-year), Veh §11711 (3-year) — longer SOLs; TILA is predicate fact"
+    },
+    "primary_remedy_track": "California §11711 treble damages + CLRA + UCL for the same yo-yo financing facts; TILA establishes the federal standard of what was violated"
+  },
+  "outstanding_work": [
+    "Verbatim text capture: 15 U.S.C. §§1638(a)(1)-(19), 1640(a)-(e)",
+    "Verbatim text capture: 12 C.F.R. §§1026.18, 1026.19 (CFPB Regulation Z auto financing provisions)",
+    "Verbatim opinion capture: Ford Motor Credit Co. v. Milhollin, 444 U.S. 555",
+    "Research specific CFPB enforcement orders against auto dealers for yo-yo financing (post-2012)",
+    "Verify current APR tolerance under 12 C.F.R. §1026.22",
+    "Research California Rees-Levering (CC §§2981-2984) as primary state TILA parallel — should be built as separate standard",
+    "Note: Loper Bright Enterprises v. Raimondo (U.S. 2024) impact on CFPB Regulation Z deference claims — evaluate for current filings"
+  ],
+  "build_date": "2026-04-11",
+  "built_by": "Terminal A"
+}

@@ -1,0 +1,9 @@
+{
+  "stage": "01_origin_1975",
+  "citation": "Stats. 1975, 2d Ex. Sess., Ch. 2, §1 (Medical Injury Compensation Reform Act — MICRA)",
+  "effective_date": "1975-12-12",
+  "legislative_context": "Part of the MICRA package enacted in extraordinary session of the Legislature in response to medical liability insurance crisis. Same session enacted §3333.2 (noneconomic cap), §340.5 (SOL), §667.7 (periodic payments), §425.13 (punitive damages control), B&P §6146 (attorney fee sliding scale), CCP §364 (90-day pre-suit notice).",
+  "capture_method": "LOGIC.md — structural knowledge base",
+  "verbatim_capture_status": "PENDING",
+  "build_date": "2026-04-11"
+}

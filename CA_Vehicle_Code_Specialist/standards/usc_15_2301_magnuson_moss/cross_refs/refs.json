@@ -1,0 +1,41 @@
+{
+  "standard_id": "usc_15_2301_magnuson_moss",
+  "cross_references": [
+    {
+      "target_citizen": "CA_Vehicle_Code_Specialist",
+      "target_standard": "civ_1793_2_song_beverly_lemon_law",
+      "relationship": "state_federal_parallel_pair",
+      "note": "Magnuson-Moss + Song-Beverly are the canonical state/federal warranty pair. §2311 expressly preserves state law. Plead both; Song-Beverly 2x civil penalty is additive."
+    },
+    {
+      "target_citizen": "CA_Vehicle_Code_Specialist",
+      "target_standard": "civ_2982_rees_levering",
+      "relationship": "independent_domains",
+      "note": "Magnuson-Moss = warranty; Rees-Levering = financing. Pleads coexist without overlap."
+    },
+    {
+      "target_citizen": "CA_Vehicle_Code_Specialist",
+      "target_standard": "veh_5900_title_transfer_odometer",
+      "relationship": "predicate_for_breach",
+      "note": "Title/odometer fraud under §5900 is a predicate breach of implied warranty of merchantability — which Magnuson-Moss §2308 locks in whenever any written warranty was given."
+    },
+    {
+      "target_citizen": "CA_Consumer_Protection_Litigator",
+      "target_standard": "clra_civ_1750",
+      "relationship": "independent_parallel",
+      "note": "CLRA (Civ §1750) and Magnuson-Moss independently attach; CLRA remedies differ (actual damages + injunctive + fees)."
+    },
+    {
+      "target_citizen": "CA_Vehicle_Code_Specialist",
+      "target_standard": "veh_11713_dealer_prohibited_acts",
+      "relationship": "stackable_dealer_conduct",
+      "note": "§11713 dealer prohibited acts do not require a warranty; Magnuson-Moss requires a written warranty. If both facts present, both claims stack."
+    },
+    {
+      "target_citizen": "CA_Civil_Litigator",
+      "target_standard": "federal_jurisdiction_removal",
+      "relationship": "forum_selection",
+      "note": "§2310(d)(3) $50K federal AIC threshold interacts with 28 USC §1441 removal. Plaintiff forum choice matters."
+    }
+  ]
+}

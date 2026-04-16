@@ -1,0 +1,31 @@
+{
+  "standard_id": "USC_18_1030_CFAA",
+  "cross_references": [
+    {
+      "id": "USC_18_1343_WIRE_FRAUD",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_18_1343_wire_fraud/",
+      "relationship": "RICO PREDICATE CHAIN — §1030(a)(4) computer fraud (unauthorized access to further fraud) is functionally a wire fraud (§1343) when the scheme uses interstate communications. Both are RICO predicates under §1961(1)(B). A SIM swap attack that uses the internet to access accounts AND uses wire communications to intercept/redirect communications = both §1030 and §1343 violations simultaneously = two independent RICO predicate types.",
+      "direction": "predicate"
+    },
+    {
+      "id": "USC_18_1961_RICO",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_18_1961_rico/",
+      "relationship": "RICO PREDICATE — §1030(a)(4) (computer fraud) is a RICO predicate act under §1961(1)(B). Each unauthorized access to further fraud = separate predicate act. Multi-year SIM swap campaign = pattern of related predicate acts satisfying H.J. Inc. relatedness + continuity. Civil RICO trebles all damages.",
+      "direction": "predicate"
+    },
+    {
+      "id": "USC_18_1028_IDENTITY_THEFT",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_18_1028_identity_theft/",
+      "relationship": "RELATED STATUTE — §1028 (identity document fraud) and §1030 (computer fraud) often co-occur in identity theft schemes. SIM swap uses social engineering to hijack telecommunications identity (phone number) → then uses hijacked identity to access computer accounts. §1028 covers the identity component; §1030 covers the computer access component. Both apply to the same underlying conduct.",
+      "direction": "related"
+    },
+    {
+      "id": "USC_5_552A_PRIVACY_ACT",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_5_552a_privacy_act/",
+      "relationship": "SEPARATE TRACK — CFAA covers the unauthorized computer access committed BY the attacker against Michael. Privacy Act covers the federal agency's (SSA's) handling of records ABOUT Michael — including records that may have been corrupted or inserted by actors using the hijacked communications infrastructure. Both run simultaneously but against different defendants.",
+      "direction": "parallel"
+    }
+  ],
+  "path_anchor": "${citizens}",
+  "build_date": "2026-04-11"
+}

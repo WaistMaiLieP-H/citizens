@@ -1,0 +1,38 @@
+Pitchess v. Superior Court, 11 Cal.3d 531 (1974)
+California Supreme Court
+Decided July 25, 1974
+
+SYLLABUS:
+Defendant Pitchess sought discovery of records in the Los Angeles Sheriff's Department's personnel files relating to prior complaints of excessive force, dishonesty, and similar misconduct by the deputies involved in his arrest. The trial court denied discovery on the ground that police personnel records are confidential. The California Supreme Court reversed, holding that under certain circumstances a criminal defendant has the right to discover relevant evidence from police personnel files.
+
+HOLDING (Chief Justice Wright):
+"We conclude that the constitutional guarantee of due process, the right of privacy, and the need of defendants for access to relevant evidence, as well as the important interests of law enforcement in preserving the confidentiality of personnel records, must all be considered in determining when discovery of records should be ordered."
+
+The Court established a discovery framework:
+1. The defendant must make a specific factual showing of good cause for the discovery
+2. The showing must establish that the information sought is material and relevant to the defense
+3. The trial court must review the records in camera to determine what, if any, information should be disclosed
+4. Disclosure is limited to what is directly relevant to the defense theory
+
+CODIFICATION:
+The Pitchess doctrine was codified in California Evidence Code §§ 1043-1047 (effective 1978) and Penal Code §§ 832.5, 832.7, and 832.8.
+
+---
+
+California Evidence Code § 1043 — Motion for Discovery of Peace Officer Personnel Records
+
+(a) In any case in which discovery or disclosure is sought of peace or custodial officer personnel records or records maintained pursuant to Section 832.5 of the Penal Code or information from those records, the party seeking the discovery or disclosure shall file a written motion with the appropriate court or administrative body upon written notice to the governmental agency which has custody and control of the records, and upon written notice to the officer if the officer's personnel file is sought...
+
+(b) The motion shall include all of the following:
+(1) Identification of the proceeding in which discovery or disclosure is sought, the party seeking discovery or disclosure, the peace or custodial officer whose records are sought, the governmental agency which has custody and control of the records, and the time and place at which the motion for discovery or disclosure shall be heard.
+(2) A description of the type of records or information sought.
+(3) Affidavits showing good cause for the discovery or disclosure sought, setting forth the materiality thereof to the subject matter involved in the pending litigation and stating upon reasonable belief that the governmental agency identified has the records or information from the records.
+
+California Evidence Code § 1045 — In Camera Review; Order for Disclosure
+
+(a) Nothing in this article shall be construed to affect the right of access to records of complaints, or investigations of complaints, or discipline imposed as a result of those investigations, concerning an event or transaction in which the moving party, or the victim in a criminal proceeding when the victim is a party to a civil proceeding, was involved...
+
+(b) In determining relevance, the court shall examine the information in chambers in conformity with Section 915, and shall exclude from disclosure...
+
+---
+SOURCE: Pitchess v. Superior Court, 11 Cal.3d 531 (1974); Cal. Evid. Code §§ 1043-1047; Cal. Pen. Code §§ 832.5, 832.7, 832.8. Text of Evidence Code sections at leginfo.legislature.ca.gov — verify current text. SB 1421 (Stats. 2018, Ch. 988, effective January 1, 2019) substantially amended §832.7 to require public disclosure of certain sustained misconduct records, reducing the scope of Pitchess motions needed for those categories.

@@ -1,0 +1,84 @@
+{
+  "standard_id": "VEH_11711_DEALER_FRAUD",
+  "citizen": "CA_Consumer_Protection_Litigator",
+  "version": "1.0.0",
+  "status": "PROPOSED",
+  "primary_citation": "Cal. Vehicle Code §11711 (Stats. 1959, Ch. 3 framework; treble damages + fees amendment ~1988)",
+  "short_title": "Motor Vehicle Dealer Fraud — Civil Remedy with Treble Damages and Mandatory Fees",
+  "one_line_rule": "A licensed California car dealer who commits fraud, misrepresentation, false promise, or deceit in a vehicle sale or lease is liable for actual damages, up to three times actual damages at the court's discretion, and mandatory attorneys' fees.",
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current/LOGIC.md",
+    "reasoning": "PRESENT — current/LOGIC.md §§ WOUND + DESIGN + Jaguar XE application package",
+    "historical_loss": "PRESENT — historical_chain.md + evolution/ (2 stages)",
+    "cross_references": "PRESENT — cross_refs/refs.json (4 references)",
+    "verifiable_provenance": "PRESENT — current/provenance.json + evolution provenances; verbatim text capture PENDING"
+  },
+  "evolution_chain": [
+    {
+      "stage": "01_origin_1961",
+      "label": "Licensed Dealer Civil Liability Established",
+      "source": "California Vehicle Code Division 5 framework (~1959-1961)",
+      "logic_file": "evolution/01_origin_1961/LOGIC.md"
+    },
+    {
+      "stage": "02_amendment_1988_treble_damages",
+      "label": "Treble Damages + Mandatory Attorneys' Fees Added",
+      "source": "Stats. 1988 (chapter number requires verification)",
+      "logic_file": "evolution/02_amendment_1988_treble_damages/LOGIC.md"
+    }
+  ],
+  "case_law": [
+    {
+      "slug": "butler_v_sterling",
+      "cite": "Butler v. Sterling, Inc., 210 F.3d 371 (6th Cir. 2000)",
+      "court": "United States Court of Appeals for the Sixth Circuit",
+      "category": "persuasive",
+      "key_rule": "Yo-yo financing pattern documented: apparent finality of signed contract + delivery = representation that deal is complete; post-delivery demand for worse terms = evidence original representation was false; loss of trade-in as leverage = evidence of intentional misrepresentation.",
+      "verbatim_capture_status": "PENDING"
+    },
+    {
+      "slug": "lurch_v_ford_motor",
+      "cite": "Lurch v. Ford Motor Credit Co., No. BC282636 (L.A. Super. Ct. 2003)",
+      "court": "Los Angeles County Superior Court",
+      "category": "persuasive",
+      "key_rule": "California yo-yo financing damages methodology; conditional delivery 'complete deal' representation theory; Rees-Levering §2983.2 rescission right runs alongside §11711 damages; 'entire deal' doctrine — all components of the vehicle transaction package within §11711 scope.",
+      "verbatim_capture_status": "PENDING — trial court, verify citation"
+    }
+  ],
+  "jaguar_xe_application": {
+    "violation_1_wrong_carfax": {
+      "theory": "Wrong CARFAX (different VIN) presented as vehicle history = direct misrepresentation in licensed dealer transaction",
+      "damages": "Reduction in fair market value from undisclosed prior damage/history",
+      "evidence": "Both VINs; CARFAX provided; actual VIN on vehicle"
+    },
+    "violation_2_yo_yo_financing": {
+      "theory": "Financing presented as complete at signing; post-delivery demand for return or higher rate = original financing representation was false",
+      "damages": "Rate differential over loan life (if accepted) OR lost down payment + trade-in value (if vehicle returned)",
+      "evidence": "Original contract terms; dealer's subsequent demand; $10,000 cash down payment lost"
+    },
+    "violation_3_title_defect": {
+      "theory": "Sale of stolen/stripped vehicle with title defect = per se misrepresentation about what was being sold; dealer knew or should have known",
+      "damages": "Full purchase price ($19,985 balance + $10,000 down = ~$29,985)",
+      "evidence": "Theft/title investigation records; auction history; debt collection demand"
+    },
+    "combined_damages": {
+      "actual": "~$30,000+ (down payment + payments + collection exposure)",
+      "treble": "Up to ~$90,000+ at court's discretion; three violations support pattern finding",
+      "fees": "Mandatory to prevailing plaintiff",
+      "ucl_fal_stack": "§17200 + §17500 restitution runs separately; §1709 + §3294 punitive preserved"
+    }
+  },
+  "outstanding_work": [
+    "Verbatim text capture: Cal. Vehicle Code §11711 full current text (§§(a), (b), (c))",
+    "Verify session law for treble damages amendment (Stats. 1988, chapter number)",
+    "Verify session law for original §11711 enactment",
+    "Verify citation: Butler v. Sterling, 210 F.3d 371 (6th Cir. 2000)",
+    "Verify citation: Lurch v. Ford Motor Credit Co., No. BC282636 (L.A. Super. Ct. 2003)",
+    "Find and add binding California appellate authority on §11711 elements (current case law entries are persuasive only)",
+    "Verify §2983.2 Rees-Levering conditional delivery rescission right and whether it was triggered in Jaguar XE transaction",
+    "Analyze TILA SOL tolling for 2018 Jaguar XE transaction",
+    "Second-mouth witness review of title defect theory and three-violation pattern"
+  ],
+  "build_date": "2026-04-11",
+  "built_by": "Terminal A"
+}

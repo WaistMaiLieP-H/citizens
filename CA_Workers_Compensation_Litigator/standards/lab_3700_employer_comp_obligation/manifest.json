@@ -1,0 +1,69 @@
+{
+  "standard_id": "lab_3700_employer_comp_obligation",
+  "label": "Lab. Code §3700 — Employer's Obligation to Secure Compensation",
+  "citizen": "CA_Workers_Compensation_Litigator",
+  "authority": "Cal. Lab. Code §3700; Stats. 1913, Ch. 176",
+  "status": "PUBLISHED",
+  "five_layer_complete": true,
+  "layers": {
+    "current": {
+      "status": "VERIFIED",
+      "files": [
+        "current/statute_text.md",
+        "current/rule.md",
+        "current/reasoning.md",
+        "current/provenance.json"
+      ],
+      "source": "VernenLegal MCP live fetch 2026-04-13"
+    },
+    "evolution": {
+      "status": "PROPOSED",
+      "stages": [
+        "01_origin_1913",
+        "02_labor_code_1937",
+        "03_current"
+      ],
+      "files": [
+        "evolution/01_origin_1913/context.md",
+        "evolution/01_origin_1913/provenance.json",
+        "evolution/02_labor_code_1937/context.md",
+        "evolution/02_labor_code_1937/provenance.json",
+        "evolution/03_current/context.md"
+      ]
+    },
+    "case_law": {
+      "status": "PROPOSED",
+      "cases": [
+        "state_comp_ins_fund_v_industrial_acc — foundational §3700 doctrine (citation TBD — steward verify)",
+        "uninsured_employers_benefit_trust_fund — UEBTF statutory doctrine (statutory; no single case name)"
+      ],
+      "steward_verify": [
+        "state_comp_ins_fund_v_industrial_acc — citation placeholder; verify at CourtListener/Google Scholar"
+      ]
+    },
+    "cross_refs": {
+      "status": "PROPOSED",
+      "files": ["cross_refs/refs.json"],
+      "count": 9
+    },
+    "historical_chain": {
+      "status": "PROPOSED",
+      "files": ["historical_chain/wound.md"]
+    }
+  },
+  "adam_eve_status": "PUBLISHED",
+  "witness_record": {
+    "adam": "APPROVED — 2026-04-13",
+    "eve": "COUNTERSIGNED — 2026-04-13",
+    "status": "PUBLISHED",
+    "corpus_entry": "CONFIRMED"
+  },
+  "built_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "built_at_utc": "2026-04-13T00:00:00Z",
+  "notes": [
+    "§3700 is the structural integrity standard for the entire WC system — compulsory coverage makes the exclusive remedy bargain real",
+    "UEBTF pathway (§§3715-3717) opens when §3700 fails — three-track strategy for uninsured employer injuries",
+    "§3706 negligence presumption: uninsured employer loses assumption of risk, contributory negligence, fellow-servant defenses",
+    "Fraudulent misclassification (UA342 scenario): misclassification as IC is itself a §3700 violation; WCAB has jurisdiction to determine true employer status"
+  ]
+}

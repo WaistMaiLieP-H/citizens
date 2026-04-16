@@ -1,0 +1,68 @@
+DAVIS v. PASSMAN
+442 U.S. 228 (1979)
+United States Supreme Court
+Decided: June 5, 1979
+
+---
+
+FACTS:
+
+Shirley Davis was a deputy administrative assistant to Congressman Otto Passman of Louisiana. Passman fired Davis, stating in a letter that, "While I believe you are fully qualified for your position, I feel that it is essential that the understudy to my Administrative Assistant be a man." Davis sued Passman under the Fifth Amendment's Due Process Clause (which contains an equal protection component for federal actors) for sex discrimination.
+
+Because Title VII did not cover congressional employees in 1974 (when the termination occurred), Davis had no statutory remedy. She argued that the Constitution itself implied a cause of action directly.
+
+The question: after Bivens v. Six Unknown Named Agents (1971), does the Fifth Amendment's equal protection component imply a right to sue a congressman for sex discrimination in employment, even without a federal statute creating that right?
+
+---
+
+HOLDING:
+
+Justice Brennan wrote for the Court (5-4).
+
+THE BIVENS IMPLIED RIGHT OF ACTION EXTENDS TO FIFTH AMENDMENT EQUAL PROTECTION:
+Bivens recognized an implied cause of action directly under the Fourth Amendment. Davis extended that implied-cause-of-action principle to the Fifth Amendment's equal protection component:
+
+"Where the statute fails to provide an alternative remedy, and there are no special factors counselling hesitation in the absence of affirmative action by Congress, the courts must compensate for the Congressional failure to act."
+
+WHEN BIVENS/DAVIS APPLIES:
+1. The plaintiff's constitutional rights were violated by a federal actor
+2. No statutory remedy exists (or the available statutory remedy is inadequate)
+3. No "special factors" counsel against implying a cause of action
+4. No "explicit congressional declaration" of an alternative remedial scheme that forecloses Bivens relief
+
+WHAT DAVIS ADDED:
+- Bivens reached Fourth Amendment violations. Davis extended the principle to Fifth Amendment due process / equal protection violations.
+- The implication: multiple constitutional provisions can potentially support Bivens-type direct claims against federal officers.
+
+---
+
+THE ZIGLAR NARROWING (Davis's subsequent fate):
+Davis's expansive implied-cause-of-action reasoning has been substantially narrowed by Ziglar v. Abbasi (2017) and Egbert v. Boule (2022). Those cases held:
+- Bivens should not be extended to any "new context" absent extraordinary circumstances
+- Davis (Fifth Amendment employment discrimination) remains technically good law as a recognized Bivens context
+- But courts are extremely reluctant to extend Davis to new factual patterns outside its specific congressperson-firing scenario
+
+Davis is thus a recognized category (employment discrimination by federal actor, no Title VII remedy) but a severely constrained precedent as a template for new Bivens extensions.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Davis is relevant to the Bivens doctrine standard in two ways:
+
+1. **Historical scope of Bivens**: Davis, along with Carlson v. Green (Eighth Amendment medical care), defined the outer boundary of recognized Bivens contexts — Fourth Amendment (Bivens), Fifth Amendment equal protection (Davis), Eighth Amendment (Carlson). No Supreme Court case since 1980 has recognized a new Bivens context.
+
+2. **Federal actors without Title VII coverage**: For any federal employment discrimination claim (federal agency personnel actions) where Title VII protections are inadequate or unavailable, Davis remains the operative precedent.
+
+3. **Strategy note**: For claims against federal actors (federal officers, federal agencies), the § 1983 framework does not apply (§ 1983 requires state action). Bivens/Davis is the federal-actor analog. Given Egbert's severe restriction of new Bivens contexts, any federal-actor claim should be structured to fit within the three recognized Bivens contexts (Fourth Amendment, Fifth Amendment employment discrimination, Eighth Amendment) or concede that Bivens is unavailable and pursue APA, FTCA, or statutory alternatives.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 442 U.S. 228 (1979)
+Court: United States Supreme Court
+Reporter: United States Reports, vol. 442, page 228
+Author: Brennan, J. (5-4)
+Source of this text: Claude training data (knowledge cutoff August 2025). Davis v. Passman extended Bivens to Fifth Amendment equal protection claims against federal actors where no adequate statutory remedy exists.
+Verification: CourtListener / Justia / Google Scholar: "Davis v. Passman 442 U.S. 228"
+Verification status: PROPOSED — pending steward witness review

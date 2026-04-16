@@ -1,0 +1,32 @@
+{
+  "standard_id": "42_USC_12132",
+  "refs_updated": "2026-04-12 — ADAM review pass; build_status fields updated to reflect current corpus state",
+  "cross_references": [
+    {
+      "target_standard_id": "42_USC_1983",
+      "relationship": "enforcement_vehicle",
+      "description": "Title II rights are enforceable through §1983 — individuals can sue state and local officials directly for disability discrimination under color of law.",
+      "status": "BUILT — ADAM + EVE DUAL WITNESS 2026-04-12"
+    },
+    {
+      "target_standard_id": "29_USC_794",
+      "relationship": "predecessor",
+      "description": "Section 504 of the Rehabilitation Act of 1973. The first federal disability rights law. Only covered federally funded programs. §12132 extended the same principle to all public entities.",
+      "target_citizen": "US_Federal_Civil_Rights_Litigator",
+      "target_manifest": "${citizens}/US_Federal_Civil_Rights_Litigator/standards/29_usc_794/manifest.json",
+      "status": "BUILT — WITNESSED-BY-HERALD 2026-04-12"
+    },
+    {
+      "target_standard_id": "42_USC_12131",
+      "relationship": "definitions",
+      "description": "Definitions for Title II of the ADA. Defines 'public entity' and 'qualified individual with a disability' — the two key terms in §12132.",
+      "status": "NOT BUILT AS STANDALONE STANDARD — §12131 definitions are incorporated within the §12132 rule and reasoning layers. No separate standard required at this stage."
+    },
+    {
+      "target_standard_id": "42_USC_12133",
+      "relationship": "enforcement_mechanism",
+      "description": "Enforcement of Title II. Incorporates the remedies, procedures, and rights of Section 504 of the Rehabilitation Act. This is the ADA's own enforcement path (separate from §1983).",
+      "status": "NOT BUILT AS STANDALONE STANDARD — §12133 enforcement context documented within §12132 reasoning layer. Future build queue."
+    }
+  ]
+}

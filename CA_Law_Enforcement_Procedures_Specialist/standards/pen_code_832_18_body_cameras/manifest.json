@@ -1,0 +1,23 @@
+{
+  "standard_id": "PEN_832_18_BODY_CAMERAS",
+  "popular_name": "Body-Worn Camera Data — Storage, Retention, and Access",
+  "authority": "Cal. Pen. Code § 832.18",
+  "jurisdiction": "California",
+  "citizen": "CA_Law_Enforcement_Procedures_Specialist",
+  "status": "PROPOSED",
+  "five_layer_score": 5,
+  "created": "2026-04-12",
+  "updated": "2026-04-12",
+  "layers": {
+    "rule": "COMPLETE",
+    "reasoning": "COMPLETE",
+    "historical_loss": "COMPLETE",
+    "cross_references": "COMPLETE",
+    "verifiable_provenance": "COMPLETE"
+  },
+  "two_witness_status": {
+    "adam": "APPROVED",
+    "eve": "COUNTERSIGNED",
+    "status": "PROPOSED"
+  }
+}

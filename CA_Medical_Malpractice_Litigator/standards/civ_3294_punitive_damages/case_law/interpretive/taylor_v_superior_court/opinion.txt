@@ -1,0 +1,80 @@
+TAYLOR v. SUPERIOR COURT
+24 Cal.3d 890 (1979)
+Supreme Court of California
+Decided: November 20, 1979
+Author: TOBRINER, J.
+
+---
+
+FACTS:
+
+Taylor was injured in an automobile accident caused by a drunk driver who had a history of prior drunk driving offenses. The plaintiff sought to include punitive damages in the complaint against the drunk driver. The central issue was whether a drunk driver's conduct could constitute the "malice" required for punitive damages under Civil Code § 3294, when the driver did not intend to injure anyone.
+
+---
+
+HOLDING — CONSCIOUS DISREGARD AS MALICE:
+
+The California Supreme Court held that a drunk driver who drives with knowledge of the foreseeable danger of driving under the influence of alcohol acts with "conscious disregard" of the rights and safety of others — satisfying the malice prong of § 3294.
+
+"One who voluntarily commences, and thereafter continues to operate, a motor vehicle while knowing that his or her ability to drive safely is impaired, and knowing that the probable consequences of so doing may be death or serious bodily injury to others, acts with 'malice' in the sense contemplated by Civil Code section 3294." 24 Cal.3d at 895.
+
+THE CONSCIOUS DISREGARD FORMULATION:
+Taylor established that "malice" under § 3294 does not require intent to harm. The second prong of malice — "despicable conduct which is carried on by the defendant with a willful and conscious disregard of the rights or safety of others" — is satisfied when:
+1. The defendant knows their conduct creates a substantial risk of harm to others;
+2. The defendant proceeds with the conduct in conscious disregard of that known risk.
+
+This formulation is sometimes called the "implied malice" standard — the defendant did not intend to harm but knew with substantial certainty that harm could result.
+
+---
+
+THE PRIOR HISTORY FACTOR:
+
+The drunk driver's prior DUI offenses were relevant to the punitive damages analysis because they showed:
+1. Knowledge that driving drunk is dangerous (the driver knew from prior experience and legal consequences);
+2. Deliberate choice to drive drunk despite that knowledge.
+
+Prior incidents are not required for conscious disregard, but they can be powerful evidence that the defendant "knew" of the danger.
+
+---
+
+THE SCOPE OF TAYLOR IN CALIFORNIA PUNITIVE DAMAGES LAW:
+
+Taylor became one of the foundational cases establishing the conscious disregard theory in California punitive damages. Post-Taylor, the § 3294 analysis in California cases regularly includes:
+1. Intent to harm (express malice);
+2. Conscious disregard of known risk of harm (implied malice per Taylor);
+3. Oppression (despicable conduct causing cruel hardship per College Hospital);
+4. Fraud (intentional misrepresentation).
+
+Taylor is most often cited for proposition 2 — that a defendant who knowingly creates a serious risk of harm and proceeds anyway may be subject to punitive damages even without express intent to harm.
+
+---
+
+APPLICATION TO MEDICAL MALPRACTICE AND DELIBERATE RISK-TAKING:
+
+For medical malpractice punitive damages cases invoking the conscious disregard theory:
+
+A healthcare provider who:
+- Knows that a particular practice creates a serious risk of patient harm;
+- Has been warned or has prior incident notice of that risk;
+- Proceeds with the practice anyway without remediation;
+
+...acts with conscious disregard under Taylor.
+
+EXAMPLES:
+- A vaccine administrator who knows the importance of injection site accuracy but fails to follow protocol despite prior training;
+- A surgeon who knows of a recognized complication risk, fails to inform the patient, and proceeds anyway;
+- A facility that knows a provider's technique is substandard (from prior complaints or incidents) but continues to credential and supervise the provider.
+
+Taylor's "conscious disregard" theory is particularly relevant for cases involving systemic risk-taking rather than a single isolated error.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 24 Cal.3d 890 (1979)
+Official reporter: California Reports, Third Series, vol. 24, page 890
+Court: Supreme Court of California
+Key holding: Conscious disregard of known risk = malice under § 3294; prior knowledge of risk + deliberate action satisfies implied malice
+Source of this text: Claude training data (knowledge cutoff August 2025). Taylor v. Superior Court is a foundational California punitive damages / conscious disregard case. Full verbatim text should be verified at:
+  - courts.ca.gov
+  - Google Scholar: "Taylor v. Superior Court 24 Cal.3d"
+Verification status: PROPOSED — pending steward witness review

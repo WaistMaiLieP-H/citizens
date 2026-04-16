@@ -1,0 +1,10 @@
+{
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=364.&lawCode=CCP",
+  "statute_citation": "Cal. Code Civ. Proc. §364",
+  "fetch_method": "WebFetch — leginfo.legislature.ca.gov official source",
+  "fetch_timestamp_utc": "2026-04-11T00:00:00Z",
+  "retrieval_steward": "Claude (assistant) under direction of Michael Hartmann",
+  "verbatim_capture_status": "COMPLETE — ccp_364_leginfo.txt contains verbatim text from leginfo",
+  "txt_sha256": "fa5fb232affef93d6c586d114ed4d55a17af97163de131dd38849d357d4825a8",
+  "stability_note": "§364 has been in essentially current form since 1975 MICRA enactment (Stats. 1975, 2nd Ex. Sess., Ch. 2). Woods v. Young (1991) is the only significant post-enactment interpretive development."
+}

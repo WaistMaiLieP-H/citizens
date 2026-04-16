@@ -1,0 +1,46 @@
+{
+  "citizen_id": "CA_ELDER_LAW_LITIGATOR",
+  "version": "1.0",
+  "status": "OPERATIONAL",
+  "build_date": "2026-04-13",
+  "steward": "Michael Hartmann",
+
+  "path_anchors": {
+    "citizens": "/home/vernenlegal/citizens",
+    "familylaw": "/home/vernenlegal/FamilyLaw",
+    "nonfamilylaw": "/home/vernenlegal/NonFamilyLaw"
+  },
+
+  "blueprints_inherited": ["ADAM", "EVE"],
+  "triple_constraint": {
+    "governing_guidelines": "California Welfare & Institutions Code Chapter 11 (Elder and Dependent Adult Civil Protection Act, WIC §§15600-15675); Probate Code §859 (double damages); Civil Code §3294 (punitive damages standard)",
+    "standards_of_creation": "Five-layer bar; no stubs; ADAM+EVE dual witness; verified live-fetched statutes",
+    "standard_of_care": "Elders and dependent adults subject to financial abuse often cannot advocate for themselves — the legal system's enhanced remedies exist precisely because the abuse occurs in relationships of trust and dependency"
+  },
+
+  "bound_standards": [
+    "wic_15600_elder_abuse_findings",
+    "wic_15610_30_financial_abuse",
+    "wic_15610_70_undue_influence",
+    "wic_15657_5_financial_remedies",
+    "wic_15630_mandated_reporter",
+    "prob_859_double_damages"
+  ],
+
+  "cases_covered": ["ann_hillberg_uit_investigation", "mother_health_financial_concerns"],
+
+  "elder_definition": "WIC §15610.27: any person residing in California, 65 years of age or older",
+
+  "cross_citizen_refs": {
+    "CA_Probate_Conservatorship_Litigator": "Conservatorship as instrument of elder financial abuse; Hillberg/mother may be under financial control instruments",
+    "CA_Insurance_Compliance_Litigator": "State Farm policy; insurance agent as mandated reporter under §15630",
+    "US_Federal_Civil_Rights_Litigator": "§1983 — state actor involvement in elder financial abuse scheme",
+    "CA_Healthcare_Fraud_Litigator": "Medical decision override of elder; healthcare fraud connected to financial abuse"
+  },
+
+  "critical_financial_finding": {
+    "prob_859_double_damages": "PROB §859 provides TWICE THE VALUE of property taken in bad faith or through elder financial abuse (§15610.30). Applies to the Hillberg State Farm/Northern Trust scheme.",
+    "wic_15657_5_mandatory_fees": "WIC §15657.5(a): if financial abuse proven by preponderance, attorney's fees are MANDATORY — not discretionary. No §377.34 cap if clear and convincing recklessness/fraud/malice.",
+    "representative_liability": "WIC §15610.30(d): conservator, trustee, and attorney-in-fact ARE 'representatives' — their acts of financial abuse are covered as direct perpetrators, not just agents"
+  }
+}

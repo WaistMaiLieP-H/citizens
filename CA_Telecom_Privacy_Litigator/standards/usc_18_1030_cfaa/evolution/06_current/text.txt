@@ -1,0 +1,18 @@
+Pointer to current/ directory.
+
+The current text of 18 U.S.C. § 1030 is in:
+../../../current/text.txt
+
+The chain closes here:
+1984 (narrow financial/govt) → 1986 (exceeds-authorized-access + damage) → 1994 (civil right of action + $5K threshold) → 1996 (all internet computers = "protected") → 2001 (extraterritorial, loss aggregation) → 2008 (Identity Theft Enforcement Act, restitution to victims) → current.
+
+Key current provisions for SIM swap / unauthorized access civil litigation:
+- § 1030(a)(2)(C): unauthorized access to protected computer obtaining information — covers each account access post-SIM-swap
+- § 1030(a)(4): intent to defraud + unauthorized access + obtaining anything of value
+- § 1030(a)(5)(A)-(C): intentional/reckless/negligent damage to protected computer
+- § 1030(c)(4)(A)(i)(I): civil standing threshold — $5,000 loss in one-year period
+- § 1030(g): civil cause of action — compensatory damages + injunctive/equitable relief
+- § 1030(e)(8): "damage" = any impairment to integrity or availability of data/program/system/network
+- § 1030(e)(11): "loss" = reasonable costs including investigating, restoring data, conducting damage assessment, and lost revenue during downtime
+
+Van Buren v. United States (2021) holds: "exceeds authorized access" means accessing data areas/files the person lacks authorization to access — NOT violating a use restriction on data they are authorized to access. Does not affect pure unauthorized-access cases (§ 1030(a)(2)(C)) where the attacker had zero authorization.

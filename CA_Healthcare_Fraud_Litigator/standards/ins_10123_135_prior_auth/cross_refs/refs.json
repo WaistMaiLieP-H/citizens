@@ -1,0 +1,27 @@
+{
+  "standard_id": "INS_10123_135_PRIOR_AUTH",
+  "refs_updated": "2026-04-12",
+  "cross_references": [
+    {
+      "target_standard": "HSC_1340_KNOX_KEENE_FRAMEWORK",
+      "relationship": "regulatory parallel \u2014 \u00a710123.135 applies to CDI-regulated disability insurers; \u00a71367(g) (Knox-Keene) applies to DMHC-regulated health care service plans. Both impose physician-only medical necessity determination requirements. Jurisdiction depends on the Blue Shield product line that issued the denial.",
+      "target_citizen": "CA_Healthcare_Fraud_Litigator",
+      "target_manifest": "${citizens}/CA_Healthcare_Fraud_Litigator/standards/hsc_1340_knox_keene_framework/manifest.json",
+      "build_status": "BUILT \u2014 same Citizen"
+    },
+    {
+      "target_standard": "HSC_1374_30_INDEPENDENT_MEDICAL_REVIEW",
+      "relationship": "procedural sequel \u2014 a \u00a710123.135 denial triggers \u00a71374.30 IMR rights. The IMR application requires that the internal grievance under \u00a71368 be exhausted or unresolved within 30 days. The \u00a710123.135 denial letter must include IMR notice (\u00a71374.30(i)); failure to include that notice is a separate \u00a71374.30 violation.",
+      "target_citizen": "CA_Healthcare_Fraud_Litigator",
+      "target_manifest": "${citizens}/CA_Healthcare_Fraud_Litigator/standards/hsc_1374_30_independent_medical_review/manifest.json",
+      "build_status": "BUILT \u2014 same Citizen"
+    },
+    {
+      "target_standard": "PEN_550_INSURANCE_FRAUD",
+      "relationship": "criminal application \u2014 a \u00a710123.135 violation (denial without physician review, AI-generated denial falsely claiming clinical review) paired with a denial letter containing false statements about the review conducted is a \u00a7550(b)(1) insurance fraud. The administrative violation becomes the predicate for the criminal charge.",
+      "target_citizen": "CA_Healthcare_Fraud_Litigator",
+      "target_manifest": "${citizens}/CA_Healthcare_Fraud_Litigator/standards/pen_550_insurance_fraud/manifest.json",
+      "build_status": "BUILT \u2014 same Citizen"
+    }
+  ]
+}

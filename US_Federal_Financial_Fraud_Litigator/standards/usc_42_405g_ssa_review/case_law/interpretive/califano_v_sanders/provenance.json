@@ -1,0 +1,20 @@
+{
+  "case_slug": "califano_v_sanders",
+  "full_citation": "Califano v. Sanders, 430 U.S. 99 (1977)",
+  "court": "Supreme Court of the United States",
+  "decided": "1977-02-22",
+  "docket": "75-6262",
+  "primary_source_url": "https://supreme.justia.com/cases/federal/us/430/99/",
+  "secondary_source_url": "https://scholar.google.com/scholar_case?case=califano+v+sanders+430+us+99",
+  "verbatim_opinion_capture_status": "PENDING — obtain from Justia or Google Scholar",
+  "holding_author": "Stewart, J.",
+  "holding_capture_status": "SYNTHESIZED FROM TRAINING KNOWLEDGE — two-witness verification pending",
+  "citation_reliability": "HIGH — 430 U.S. 99 (1977) is a foundational Supreme Court administrative law case; citation appears consistently in federal court decisions on §405(g) scope",
+  "corpus_entry_date": "2026-04-11",
+  "built_by": "Terminal A",
+  "build_status": "PROPOSED",
+  "notes": [
+    "Chose Califano v. Sanders over Shalala v. Illinois Council on Long Term Care (529 U.S. 1 (2000)) as the third §405(g) case because: (1) Califano applies to Social Security Act claims; Shalala applies to Medicare claims where §405(h) exclusivity is stricter. (2) Califano's constitutional claims exception is directly applicable to the steward's phantom-contact due process theory. (3) Shalala citation was flagged 'verify' in manifest — Califano citation is high-reliability.",
+    "Note for future build: Shalala v. Illinois Council on Long Term Care should be built as a FOURTH case when the US_Federal_Social_Security_Litigator Citizen is constructed, to document the Medicare-specific exhaustion rule distinction."
+  ]
+}

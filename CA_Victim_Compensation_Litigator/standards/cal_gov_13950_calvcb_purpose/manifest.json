@@ -1,0 +1,35 @@
+{
+  "standard_id": "CAL_GOV_13950",
+  "version": "0.2.0-witnessed-by-herald",
+  "filed_at_utc": "2026-04-10T22:30:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "primary_citation": {
+    "code": "California Government Code",
+    "section": "§ 13950",
+    "popular_name": "CalVCB purpose — legislative findings",
+    "jurisdiction": "California (state)",
+    "location_in_code": "Government Code, Title 2 (Government of the State of California), Division 3 (Executive Department), Part 4 (Fiscal Affairs), Chapter 5 (Crime Victim Compensation)",
+    "original_enactment": "Original program enacted 1965 (California was first US state to adopt crime victim compensation); current § 13950 enacted by Stats. 2002, ch. 1141 as part of a recodification",
+    "positive_law_status": "In force; substantively stable since 2002 recodification"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current text captured via VernenLegal MCP",
+    "reasoning": "PRESENT — legislative purpose of liberal compensation to crime victims documented in context.md and historical_chain.md",
+    "historical_loss": "PRESENT — pre-1965 absence of any public compensation mechanism for crime victims; California's leadership role documented",
+    "cross_references": "PRESENT — cross_refs/refs.json links to §§ 13953, 13955, 13956, 13957, 13959, 13969, 2 CCR § 649, Cal. Const. Art. I § 28",
+    "verifiable_provenance": "PARTIAL — current text via MCP; 1965 original text and 2002 recodification text to be captured in follow-up pass"
+  },
+  "case_law": [],
+  "cases_to_add": [
+    "Phelps v. State Board of Control cases (pre-2002 former-section citations)",
+    "In re Contested CalVCB Decision appellate cases post-2002"
+  ],
+  "citizen_relevance": "Provides the interpretive framing for the A25-10117946 appeal brief. The 'public interest' declaration supports liberal construction of § 13955 and strict construction of § 13956.",
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

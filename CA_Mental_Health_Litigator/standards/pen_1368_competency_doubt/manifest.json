@@ -1,0 +1,11 @@
+{
+  "standard_id": "pen_1368_competency_doubt",
+  "citizen": "CA_Mental_Health_Litigator",
+  "citation": "Cal. Pen. Code § 1368",
+  "jurisdiction": "California",
+  "build_date": "2026-04-13",
+  "build_state": "PUBLISHED",
+  "layers": {"rule": "COMPLETE","statute_text": "COMPLETE","historical_chain": "COMPLETE","case_law": "COMPLETE","cross_refs": "COMPLETE"},
+  "provenance": {"source": "leginfo.legislature.ca.gov","tool": "mcp__claude_ai_VernenLegal__california_get_section","fetch_date": "2026-04-13","verified": true,"statute_sha256": "e80f6c4b4a257b38c582749d511ea545c47718799adae10d2fa98deeddf14bb6"},
+  "witness": {"ADAM": "PENDING","EVE": "PENDING"}
+}

@@ -1,0 +1,20 @@
+{
+  "standard_id": "ins_790_09_cdi_order_no_shield",
+  "cross_refs": [
+    {
+      "ref_id": "ins_790_03_unfair_claims_settlement",
+      "path": "${citizens}/CA_Insurance_Compliance_Litigator/standards/ins_790_03_unfair_claims_settlement",
+      "relationship": "companion \u2014 \u00a7790.09 operates after \u00a7790.03 enforcement; confirms CDI order does not release civil/criminal liability"
+    },
+    {
+      "ref_id": "ins_bad_faith_brandt_gruenberg",
+      "path": "${citizens}/CA_Insurance_Compliance_Litigator/standards/ins_bad_faith_brandt_gruenberg",
+      "relationship": "\u00a7790.09 preserves the bad faith tort track independently of CDI enforcement track"
+    },
+    {
+      "ref_id": "pen_550_insurance_fraud",
+      "path": "${citizens}/CA_Healthcare_Fraud_Litigator/standards/pen_550_insurance_fraud",
+      "relationship": "\u00a7790.09 confirms CDI order does not preclude criminal prosecution under Pen. \u00a7550"
+    }
+  ]
+}

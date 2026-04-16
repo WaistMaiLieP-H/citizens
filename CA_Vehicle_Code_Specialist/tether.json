@@ -1,0 +1,51 @@
+{
+  "citizen_id": "CA_Vehicle_Code_Specialist",
+  "version": "1.1.0",
+  "domain": "California vehicle code — dealer licensing, prohibited dealer acts, title transfer, VIN tampering, automotive repair; state + federal consumer warranty (Song-Beverly, Magnuson-Moss); Rees-Levering vehicle financing reference copy; yo-yo financing, stolen vehicle, odometer fraud",
+  "primary_cases": [
+    "RedJag 2018 Jaguar XE — yo-yo financing, wrong CARFAX, stolen/stripped vehicle delivered, $10K cash, $19,985 debt collection (63 pages scanned)",
+    "Toyota Camry XSE — separate vehicle fraud (facts TBD)",
+    "June 16, 2023 car purchase setup — Christina pre-positioned; vehicle-code angle coordinated with Family Law / Criminal Law"
+  ],
+  "standards": [
+    "veh_11700_dealer_licensing",
+    "veh_11713_dealer_prohibited_acts",
+    "veh_5900_title_transfer_odometer",
+    "bpc_9880_automotive_repair_act",
+    "veh_10751_vin_tampering",
+    "cal_veh_2800",
+    "civ_1793_2_song_beverly_lemon_law",
+    "civ_2982_rees_levering",
+    "usc_15_2301_magnuson_moss"
+  ],
+  "case_workflows": [
+    "redjag_2018_jaguar_xe.md"
+  ],
+  "coordination_notes": {
+    "CA_Consumer_Protection_Litigator": "Rees-Levering (CIV §§2981-2984.6) primary home. This Citizen holds vehicle-side reference copy for pattern-of-conduct; pleadings drafted there. CLRA, UCL, Rosenthal coordinated.",
+    "CA_Insurance_Compliance_Litigator": "Forced GAP insurance claims under §790.03 / Prop 103; cross-file.",
+    "US_Federal_Financial_Fraud_Litigator": "FCRA / FDCPA / Wire Fraud if debt reported to bureaus.",
+    "CA_Family_Law_Litigator + CA_Criminal_Law_Specialist": "June 16, 2023 coordinated setup — vehicle-purchase pretext is one vector; §2800 audit already documents Vehicle-Code-duties element 6 as load-bearing."
+  },
+  "build_sessions": [
+    {"date": "2026-04-08", "note": "cal_veh_2800 scaffold — June 16 2023 § 2800 audit (historical)"},
+    {"date": "2026-04-12", "note": "5 initial standards PUBLISHED ADAM+EVE", "terminal": "Terminal B"},
+    {"date": "2026-04-15", "note": "Extension build Task #4: added civ_1793_2 (Song-Beverly), civ_2982 (Rees-Levering reference), usc_15_2301 (Magnuson-Moss); RedJag case workflow drafted", "terminal": "vehicle-builder (Task #4)"}
+  ],
+  "status": "OPERATIONAL",
+  "all_standards_published": true,
+  "standards_count": 9,
+  "five_layer_status": "7 of 9 standards meet full five-layer bar (original 5 built 2026-04-12 use minimal manifest format but are PUBLISHED; 3 new standards built 2026-04-15 are full five-layer with rule/reasoning/statute_text/historical/cross_refs/witness; cal_veh_2800 is scaffold-only with extensive June 16 2023 audit)",
+  "outstanding_fetches": [
+    "Stats. 1970 Ch. 1333 (Song-Beverly origin)",
+    "Stats. 1982 Ch. 388 (Tanner lemon-law amendment)",
+    "Stats. 1961 Ch. 1626 (Rees-Levering origin) + Senate Fact-Finding Committee Report 1960-1961",
+    "Pub. L. 93-637 (Magnuson-Moss) + Senate Commerce Report 93-151",
+    "16 CFR Parts 700-703 (FTC warranty regulations)",
+    "49 USC §32710 (federal odometer civil action — flagged 2026-04-12, still pending)",
+    "leginfo HTML for CIV §§1793.2, 1793.22, 1794, 1795.5, 2981-2984.6",
+    "uscode.house.gov text for 15 USC §§2301-2312"
+  ],
+  "terminal_last": "vehicle-builder (Task #4)",
+  "completion_date": "2026-04-15"
+}

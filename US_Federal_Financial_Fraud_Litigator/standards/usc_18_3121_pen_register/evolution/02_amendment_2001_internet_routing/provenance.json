@@ -1,0 +1,13 @@
+{
+  "stage": "02_amendment_2001_internet_routing",
+  "label": "USA PATRIOT Act — Internet Routing Information Added to Pen Register Coverage",
+  "source": "USA PATRIOT Act, Pub. L. 107-56, §216 (Oct. 26, 2001)",
+  "effective_date": "2001-10-26",
+  "provisions_amended": [
+    "18 U.S.C. §3127(3) — pen register definition expanded to 'dialing, routing, addressing, or signaling information'",
+    "18 U.S.C. §3127(4) — trap and trace expanded to include internet routing",
+    "18 U.S.C. §3123 — multi-district jurisdiction added"
+  ],
+  "civil_remedy_unchanged": "No civil damages provision added — criminal-only enforcement retained",
+  "verbatim_capture_status": "PENDING"
+}

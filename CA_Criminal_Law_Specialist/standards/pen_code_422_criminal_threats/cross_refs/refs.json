@@ -1,0 +1,98 @@
+{
+  "standard": "pen_code_422_criminal_threats",
+  "last_updated": "2026-04-11",
+  "refs": [
+    {
+      "id": "REF-422-001",
+      "target_code": "Penal Code § 422.4",
+      "description": "Criminal threats against domestic violence counselors and shelter staff — companion provision extending § 422 protections to victim advocates.",
+      "relationship": "companion_statute",
+      "direction": "out"
+    },
+    {
+      "id": "REF-422-002",
+      "target_code": "Penal Code § 136.1",
+      "description": "Dissuading a witness — overlaps with § 422 where the threat is intended to prevent a witness from reporting or testifying. Elements differ: § 136.1 focuses on preventing testimony; § 422 on causing sustained fear of violence.",
+      "relationship": "overlapping_offense",
+      "direction": "out"
+    },
+    {
+      "id": "REF-422-003",
+      "target_code": "Penal Code § 646.9",
+      "description": "Stalking — often charged in conjunction with § 422 where repeated threats form part of a stalking pattern. Distinct offense but shares 'credible threat' language that draws from § 422 doctrine.",
+      "relationship": "frequently_charged_together",
+      "direction": "out"
+    },
+    {
+      "id": "REF-422-004",
+      "target_code": "Penal Code § 273.5",
+      "description": "Corporal injury to spouse/cohabitant — frequently charged alongside § 422 in domestic violence matters. Relevant to the steward's cases where family law and criminal cross-reference.",
+      "relationship": "frequently_charged_together",
+      "direction": "out"
+    },
+    {
+      "id": "REF-422-005",
+      "target_code": "Penal Code § 182",
+      "description": "Conspiracy — where multiple actors coordinated to make or facilitate criminal threats as part of a larger scheme, conspiracy liability under § 182 can attach to all participants. Directly relevant to the multi-actor orchestration in the steward's cases.",
+      "relationship": "conspiracy_overlay",
+      "direction": "out"
+    },
+    {
+      "id": "REF-422-006",
+      "target_code": "Penal Code § 30305",
+      "description": "Convicted felon prohibited from possessing firearms — a § 422 felony conviction triggers this prohibition. Sentencing consequence for steward-as-defendant track.",
+      "relationship": "sentencing_consequence",
+      "direction": "out"
+    },
+    {
+      "id": "REF-422-007",
+      "target_code": "CALCRIM No. 1300",
+      "description": "Jury instruction for criminal threats under § 422. The UUIS test from Toledo is codified in CALCRIM 1300. Defense counsel should review the instruction to identify missing element arguments.",
+      "relationship": "jury_instruction",
+      "direction": "out"
+    },
+    {
+      "id": "REF-422-008",
+      "target_code": "Family Code § 6320",
+      "description": "Domestic violence restraining order — where a § 422 criminal threat is the predicate act, it supports a DVRO application. The threat analysis under § 422 informs the 'disturb the peace' and 'reasonable apprehension' standards in family court.",
+      "relationship": "civil_parallel_remedy",
+      "direction": "out"
+    },
+    {
+      "id": "REF-422-009",
+      "target_code": "Penal Code § 1001.36",
+      "description": "Mental health diversion — available for § 422 unless the specific conduct falls within an excluded category. A wobbler § 422 charge may qualify for diversion. Cross-reference the eligibility analysis in pen_code_1001_36_mental_health_diversion.",
+      "relationship": "diversion_eligibility",
+      "direction": "out",
+      "internal_standard": "pen_code_1001_36_mental_health_diversion"
+    },
+    {
+      "id": "REF-422-010",
+      "target_code": "Penal Code § 1001.95",
+      "description": "General misdemeanor diversion — where § 422 is charged as a misdemeanor (wobbler reduction), § 1001.95 general diversion is available as a backup if § 1001.36 is unavailable. Cross-reference pen_code_1001_95_misdemeanor_diversion.",
+      "relationship": "diversion_eligibility",
+      "direction": "out",
+      "internal_standard": "pen_code_1001_95_misdemeanor_diversion"
+    },
+    {
+      "id": "REF-422-011",
+      "target_code": "First Amendment — United States Constitution",
+      "description": "True threats doctrine — the First Amendment does not protect 'true threats.' Virginia v. Black (2003) 538 U.S. 343 and Counterman v. Colorado (2023) 600 U.S. 66 (requiring subjective awareness of threatening nature). California's § 422 must be read consistently with the First Amendment true threats doctrine.",
+      "relationship": "constitutional_constraint",
+      "direction": "out"
+    },
+    {
+      "id": "REF-422-012",
+      "target_code": "Penal Code § 1054.1",
+      "description": "Discovery — in any § 422 prosecution, Brady/Giglio obligations apply. The call logs, communications metadata, and prior threat history are all subject to § 1054.1 disclosure. Cross-reference pen_code_1054_1_discovery.",
+      "relationship": "discovery_overlay",
+      "direction": "out",
+      "internal_standard": "pen_code_1054_1_discovery"
+    }
+  ],
+  "internal_cross_refs": [
+    "pen_code_1001_36_mental_health_diversion",
+    "pen_code_1001_95_misdemeanor_diversion",
+    "pen_code_1054_1_discovery"
+  ]
+}

@@ -1,0 +1,63 @@
+PEOPLE v. KASIM
+56 Cal.App.4th 1360 (1997)
+California Court of Appeal
+Decided: 1997
+
+---
+
+CITATION STATUS: VERIFIED — People v. Kasim (1997) 56 Cal.App.4th 1360 confirmed on Justia and Leagle.
+
+FOLDER NAME NOTE: This folder is named "people_v_superior_court_meraz_placeholder" — a legacy placeholder name. The case documented here is People v. Kasim (1997). Rename to "people_v_kasim_1997" in next maintenance pass.
+
+CORRECTION: Prior citation had year as (1998) — actual year is (1997).
+
+---
+
+FACTS:
+
+Kasim was convicted after a jury trial. The trial prosecutor withheld discovery information about benefits received by two accomplice-witnesses — confidential police informants who were the prosecution's key witnesses. Defense counsel made an informal discovery request on March 7, 1994, specifically asking for information about promises, inducements, and threats involving the witness's role as a confidential police informant. The prosecution did not disclose the benefits.
+
+---
+
+HOLDING:
+
+BRADY VIOLATION — FAILURE TO DISCLOSE IMPEACHMENT EVIDENCE:
+
+1. **Trial prosecutor did not disclose benefits given to accomplice-witnesses.** The prosecutor failed to disclose information about benefits given to the two accomplice-witnesses that the prosecutor either knew or should have known. This is a Brady violation under Brady v. Maryland (1963) 373 U.S. 83.
+
+2. **Suppressed evidence was material.** The undisclosed benefits were impeachment evidence against the prosecution's two main witnesses, who were also accomplices. The court applied the Brady materiality standard: if there is a reasonable probability that, had the evidence been disclosed, the result would have been different, or if the suppression "undermine[s] confidence in the outcome," the violation is prejudicial.
+
+3. **Habeas corpus granted; judgment reversed.** Because the prosecutorial nondisclosure was prejudicial — the undisclosed benefits went directly to the credibility of the prosecution's key witnesses — the court granted the petition for writ of habeas corpus and reversed the judgment for a new trial.
+
+4. **Prosecutorial misconduct standard.** The court found prosecutorial misconduct based on deliberate or reckless failure to disclose known impeachment evidence. This is distinct from inadvertent oversight; the prosecutor "either knew or should have known" about the benefits.
+
+---
+
+APPLICATION TO § 1054.1 AND CASE #7 (04-23-01959):
+
+Kasim illustrates the consequence of Brady violations at the habeas stage. For case #7, a Brady demand should specifically request: all benefits, promises, and leniency given to any witness (CPS referral coordinators, APD officers who responded to the call, any family law proceeding participants who testified or provided information). If evidence of benefits to witnesses is later discovered, Kasim supports reversible error.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For case 04-23-01959 (Contra Costa — § 273d), specific Brady demand items:
+1. All CPS/DCFS referral documents, case notes, and any prior reports involving the same parties
+2. The child's forensic interview in full (audio/video + transcript)
+3. All APD incident reports, officer notes, and call logs related to 6/16/2023
+4. Any evidence of prior false reports by the complaining witness(es) under § 148.5
+5. All communications between prosecution, APD, CPS, and family law proceedings or parties thereto
+6. Any evidence of inconsistencies in the child's statements across different contexts
+7. Any evidence that the child's account was or was not corroborated by physical evidence
+8. Prior felony convictions of any material witness (§ 1054.1(d))
+9. Any benefits, promises, or leniency given to any witness in exchange for testimony (Giglio)
+
+---
+
+SOURCE PROVENANCE:
+Citation: People v. Kasim (1997) 56 Cal.App.4th 1360
+Court: California Court of Appeal, Fourth Appellate District
+Reporter: California Appellate Reports, Fourth Series, vol. 56, page 1360
+Source: VERIFIED — citation confirmed on Justia (law.justia.com/cases/california/court-of-appeal/4th/56/1360.html) and Leagle. Brady violation / prosecutorial misconduct; habeas corpus granted; judgment reversed for new trial.
+NOTE: Year corrected from (1998) to (1997). Folder rename pending: "people_v_superior_court_meraz_placeholder" → "people_v_kasim_1997"
+Verification status: VERIFIED — citation and holding confirmed; pending steward witness review to advance to WITNESSED-BY-STEWARD

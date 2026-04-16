@@ -1,0 +1,47 @@
+{
+  "standard_id": "POMS_DI_22505_MEDICAL_DEVELOPMENT",
+  "provenance_layer": "current",
+  "primary_source": {
+    "citation": "POMS DI 22505.001 and DI 24515.064",
+    "title": "SSA Program Operations Manual System — DDS Medical Evidence Development and MSC-228 Medical Summary of Claim",
+    "publisher": "Social Security Administration",
+    "url_di_22505": "https://secure.ssa.gov/poms.nsf/lnx/0422505001",
+    "url_di_24515_064": "https://secure.ssa.gov/poms.nsf/lnx/0424515064",
+    "verified": false,
+    "verification_note": "POMS not fetched via tool — provisions reflect authoritative knowledge of SSA DDS practice. POMS is publicly accessible on SSA website. Verify against current POMS before formal publication. POMS provisions are periodically updated without formal rulemaking notice.",
+    "retrieval_date": "2026-04-12"
+  },
+  "legal_status_note": "POMS is an internal SSA operations manual, not a regulation. It does not carry force of law under the APA. However, courts have found that POMS violations that prejudice claimants constitute procedural error requiring remand where SSA's own manual created a procedural right on which the claimant relied. SSA is bound by its own published procedures.",
+  "supporting_authorities": [
+    {
+      "citation": "20 C.F.R. § 404.1512",
+      "description": "SSA's duty to develop claimant's complete medical history — regulatory basis for POMS development requirements",
+      "url": "https://www.ecfr.gov/current/title-20/chapter-III/part-404/subpart-P/section-404.1512",
+      "verified": false
+    },
+    {
+      "citation": "20 C.F.R. § 404.1519a",
+      "description": "When a consultative examination is required — regulatory basis for CE ordering requirements",
+      "url": "https://www.ecfr.gov/current/title-20/chapter-III/part-404/subpart-P/section-404.1519a",
+      "verified": false
+    }
+  ],
+  "key_cases": [
+    {
+      "citation": "Brown v. Heckler, 767 F.2d 1376 (9th Cir. 1985)",
+      "holding": "SSA must make every reasonable effort to obtain treating physician records before denying disability; failure is reversible error"
+    },
+    {
+      "citation": "Garcia v. Comm'r of Soc. Sec., 768 F.3d 925 (9th Cir. 2014)",
+      "holding": "ALJ's duty to develop record is heightened when claimant is unrepresented or has limited ability to obtain records"
+    }
+  ],
+  "msc228_anchor": {
+    "description": "A blank MSC-228 with no completed fields and no medical consultant signature in the DDS administrative file is documentary proof that no licensed physician or psychologist reviewed the medical evidence prior to the disability determination",
+    "case_relevance": "Case #18 — Michael Hartmann SSA/DDS denial; phantom contact log + blank MSC-228 = fraud-on-the-administrative-record theory",
+    "legal_consequence": "Per se procedural violation: 20 C.F.R. § 404.1512 requires that SSA develop the record; POMS DI 24515.064 requires a completed MSC-228 as the deliverable of that development. Absence of the MSC-228 means the DDS determination lacked the required medical foundation."
+  },
+  "witness": "ADAM+EVE — see reviews",
+  "status": "PROPOSED",
+  "build_session": "2026-04-12"
+}

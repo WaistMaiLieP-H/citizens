@@ -1,0 +1,18 @@
+{
+  "standard_id": "lab_3202_liberal_construction",
+  "citizen": "CA_Workers_Compensation_Litigator",
+  "build_date": "2026-04-13",
+  "content_hash": "766637bb",
+  "hash_method": "find -type f | sort | xargs sha256sum | sha256sum | cut -c1-8",
+  "status": "PENDING_WITNESS",
+  "layers": {
+    "current_statute_text": true,
+    "current_rule": true,
+    "current_reasoning": true,
+    "historical_chain_origin": true,
+    "historical_chain_witness_record": true,
+    "cross_refs": true,
+    "provenance": true
+  },
+  "five_layer_complete": true
+}

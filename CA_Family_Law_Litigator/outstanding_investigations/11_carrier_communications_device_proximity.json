@@ -1,0 +1,43 @@
+{
+  "investigation_id": "carrier_communications_device_proximity",
+  "title": "Carrier communications about device access requiring physical proximity",
+  "question": "What carrier communications exist documenting device access requiring physical proximity? Which devices? Which carriers? What was the technical nature of the access requirement?",
+  "context": "Per the existing memory list of critical missing documents (project_familylaw_orchestration.md and project_communications_fraud.md), there are carrier communications about device access requiring physical proximity. This is structurally consistent with the Ryan McClaran IT investigation (project_ryan_mcclaran_it.md) on SIM swaps and proxy communication networks. The physical-proximity requirement may indicate a SIM-tied authentication mechanism. Scope expanded 2026-04-15 to include AT&T/Verizon/T-Mobile SCA \u00a7 2703(f) preservation + subpoena drafts, consolidated June 16 2023 CSLI narrative, and device-platform preservation (Apple/Google/Microsoft/Samsung) for physical-proximity-gated account-recovery logs.",
+  "unblock_path": "Identify the specific carriers and devices involved. Request from each carrier: (1) account access logs for the relevant period; (2) any SIM swap, port-out, or device transfer records; (3) any technical notes about authentication requirements. PRA equivalents are limited for private carriers, but subpoena via litigation may be available. 2026-04-15: preservation letters go out same-day under 18 U.S.C. \u00a7 2703(f); subpoena drafts ready to issue under CCP \u00a7 1985 in FL0002067 or \u00a7 2703(d) in pending N.D. Cal. \u00a7 1983 action.",
+  "who_can_answer": "The carriers (AT&T, T-Mobile, Verizon) and device platforms (Apple, Google, Microsoft, Samsung)",
+  "related_actors": [
+    "ryan_mcclaran",
+    "christina_cerretani"
+  ],
+  "related_cases": [
+    "sim_swap_att_case_30",
+    "sim_swap_verizon_case_31",
+    "sim_swap_tmobile_case_32",
+    "june_16_2023_setup"
+  ],
+  "related_standards": [
+    "CIV_1798_80_DATA_SECURITY",
+    "PEN_502_COMPUTER_CRIME",
+    "USC_18_1030_CFAA",
+    "USC_47_222_CPNI",
+    "USC_18_2703_SCA"
+  ],
+  "priority": "MEDIUM",
+  "status": "READY_TO_SEND",
+  "prepared_on": "2026-04-15",
+  "deliverables": [
+    "outstanding_investigations/11_carrier_communications_device_proximity/deliverables/01_att_2703f_preservation_letter.md",
+    "outstanding_investigations/11_carrier_communications_device_proximity/deliverables/02_verizon_2703f_preservation_letter.md",
+    "outstanding_investigations/11_carrier_communications_device_proximity/deliverables/03_tmobile_2703f_preservation_letter.md",
+    "outstanding_investigations/11_carrier_communications_device_proximity/deliverables/04_att_subpoena_draft.md",
+    "outstanding_investigations/11_carrier_communications_device_proximity/deliverables/05_verizon_subpoena_draft.md",
+    "outstanding_investigations/11_carrier_communications_device_proximity/deliverables/06_tmobile_subpoena_draft.md",
+    "outstanding_investigations/11_carrier_communications_device_proximity/deliverables/07_june16_2023_csli_narrative_request.md",
+    "outstanding_investigations/11_carrier_communications_device_proximity/deliverables/08_device_proximity_preservation_request.md",
+    "outstanding_investigations/11_carrier_communications_device_proximity/recipient_routing.md",
+    "outstanding_investigations/11_carrier_communications_device_proximity/response_tracker.md"
+  ],
+  "cross_reference": "Connects to project_communications_fraud.md, project_ryan_mcclaran_it.md, project_june16_2023_timeline.md, project_federal_complaint_draft.md",
+  "filed_at_utc": "2026-04-08T19:25:00Z",
+  "mailing_execution_status": "READY_TO_PRINT"
+}

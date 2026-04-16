@@ -1,0 +1,12 @@
+{
+  "stage": "03_amendment_2000",
+  "bill": "SB 2051",
+  "stats_chapter": "Ch. 98, Stats. 2000",
+  "effective": "2001-01-01",
+  "source": "leginfo.legislature.ca.gov",
+  "retrieval_method": "knowledge_base",
+  "retrieval_date": "2026-04-10",
+  "retrieval_steward": "Claude Opus 4.6 (1M context)",
+  "primary_source_verified": false,
+  "notes": "Added peace officer accountability provisions (m)-(o). Stripped Gov Code immunities, required entity indemnification."
+}

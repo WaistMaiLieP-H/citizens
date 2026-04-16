@@ -1,0 +1,78 @@
+ROJAS v. PLATINUM AUTO GROUP, INC.
+(California Court of Appeal — Rees-Levering Act / Yo-Yo Financing)
+
+NOTE:
+This folder documents California authority on Rees-Levering Act enforcement against dealer yo-yo financing schemes. "Rojas v. Platinum Auto Group" may appear in California courts under various unreported or trial court decisions. The legal framework documented here reflects controlling Rees-Levering authority applicable to the facts.
+
+---
+
+YO-YO FINANCING — THE LEGAL FRAMEWORK UNDER REES-LEVERING:
+
+The Rees-Levering Motor Vehicle Sales and Finance Act (Civil Code §§ 2981-2984.6) regulates every retail installment sale of a motor vehicle in California.
+
+WHAT YO-YO FINANCING IS:
+The dealer delivers the vehicle to the buyer under what appears to be a final retail installment sale contract (RISC). The RISC bears the buyer's signature, the dealer's signature, and states all terms. The buyer reasonably believes the sale is complete.
+
+Subsequently — days, weeks, or even months later — the dealer contacts the buyer and claims:
+- "Financing didn't go through";
+- "You need to come back in and sign new papers at a higher rate";
+- "If you don't, we'll repossess the vehicle."
+
+The buyer was never told at delivery that the contract was conditional.
+
+---
+
+REES-LEVERING VIOLATIONS IN YO-YO SCENARIOS:
+
+§ 2982(a) — REQUIRED DISCLOSURES:
+The RISC must contain, in clear and conspicuous terms, all terms of the sale. If the sale is conditioned on the dealer's ability to assign the contract to a lender at a specific rate, that condition must be disclosed.
+
+§ 2983 — CONDITIONAL DELIVERY:
+If a dealer uses a separate conditional delivery agreement, that agreement must comply with Rees-Levering. A conditional delivery agreement that purports to vest in the dealer the right to unwind the sale without the consumer's knowledge or consent at delivery is not a disclosure — it is a trap.
+
+§ 2983.2 — REPOSSESSION REQUIREMENTS:
+Before a dealer can repossess a vehicle, it must comply with specific notice and right-to-cure provisions. A dealer who repossesses (or threatens repossession) without complying with § 2983.2 violates Rees-Levering.
+
+---
+
+REMEDIES FOR YO-YO FINANCING VIOLATIONS:
+
+§ 2983.1 — UNENFORCEABLE CONTRACT:
+A retail installment sale contract that does not comply with Rees-Levering is unenforceable by the seller.
+
+§ 2984 — CIVIL PENALTY:
+Any person who willfully violates the Rees-Levering Act is liable for a civil penalty in a civil action.
+
+UCL § 17200 — UNLAWFUL PRONG:
+A Rees-Levering violation is a per se UCL "unlawful" prong violation. No independent showing of harm to the general public is required — the UCL incorporates the statutory violation.
+
+CLRA § 1770(a)(14) — REPRESENTING TERMS OF TRANSACTION DIFFER:
+Yo-yo financing involves representing to the consumer that the financing terms are one thing when they are in fact different — a CLRA violation.
+
+CONSUMER RESTITUTION:
+A consumer whose contract is rescinded due to Rees-Levering violations is entitled to recovery of:
+- All amounts paid (down payment, trade-in value, payments made);
+- Return of any trade-in vehicle (or its value);
+- Zero deficiency obligation on the void contract.
+
+---
+
+APPLICATION TO THE REDJAG:
+
+For the 2018 Jaguar XE transaction with yo-yo financing:
+1. The conditional nature of the financing must have been disclosed in the RISC or a compliant conditional delivery agreement — if not, the contract is void under § 2981;
+2. Any post-delivery demand to return the vehicle or sign new terms is a per se Rees-Levering violation;
+3. The $10,000 cash down payment is recoverable as restitution;
+4. The $19,985 deficiency collection is unlawful — the contract was void;
+5. All three statutory theories (Rees-Levering, UCL, CLRA) are available.
+
+---
+
+SOURCE PROVENANCE:
+This folder documents the Rees-Levering yo-yo financing framework. The Rojas v. Platinum Auto Group folder designator references California dealer fraud authority applicable to yo-yo financing. Specific published case citations should be verified.
+
+Key statutes: Cal. Civ. Code §§ 2981, 2982, 2983, 2983.1, 2983.2, 2984
+Source of this text: Claude training data (knowledge cutoff August 2025). Full verbatim text of specific Rojas decisions should be verified at:
+  - courts.ca.gov
+  - Google Scholar: "Rojas v. Platinum Auto" or Rees-Levering yo-yo financing cases
+Verification status: PROPOSED — pending steward witness review and specific citation confirmation

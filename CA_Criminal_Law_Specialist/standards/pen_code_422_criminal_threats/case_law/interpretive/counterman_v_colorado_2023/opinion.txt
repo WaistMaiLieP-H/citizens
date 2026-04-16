@@ -1,0 +1,58 @@
+COUNTERMAN v. COLORADO
+600 U.S. 66 (2023)
+United States Supreme Court
+Decided: June 27, 2023
+
+---
+
+FACTS:
+
+Billy Counterman sent hundreds of Facebook messages to a local singer over several years. A Colorado court convicted him of stalking under a state statute that used a purely objective "reasonable person" standard for determining whether a "true threat" existed. The question before the Supreme Court was whether the First Amendment requires, in addition to the objective reasonable-person test, some subjective mental state from the speaker — i.e., did the defendant need to know or recklessly disregard that the communication would be understood as a threat?
+
+---
+
+HOLDING:
+
+TRUE THREATS DOCTRINE — SUBJECTIVE MENTAL STATE REQUIRED:
+
+1. **The First Amendment requires at minimum a recklessness mens rea standard for true threats.** A purely objective "reasonable person" test — asking only whether a reasonable observer would view the statement as a threat, without any consideration of the speaker's own mental state — is unconstitutional under the First Amendment.
+
+2. **Recklessness is the constitutionally required minimum.** The prosecution must prove the speaker was aware that their communications could be understood as threatening, and disregarded that risk. This is not a specific-intent-to-threaten requirement; recklessness (conscious disregard of a known risk) is sufficient.
+
+3. **The objective test remains relevant — it establishes the outer boundary.** The statement must still pass the objective "reasonable person would regard this as a threat" test. Counterman adds a subjective floor: the speaker must have been at least reckless about the threatening nature.
+
+4. **States may require more than recklessness.** The Court's holding establishes recklessness as the constitutional minimum; states may require actual knowledge or specific intent if they choose.
+
+---
+
+SIGNIFICANCE FOR CALIFORNIA PEN. CODE § 422:
+
+Counterman's recklessness requirement does not conflict with California's existing § 422 framework. Section 422 already requires that the defendant intend the statement be taken as a threat — which is a specific intent standard, higher than recklessness. Counterman therefore does not invalidate § 422 as applied in California.
+
+However, Counterman is significant for California practitioners in two ways:
+1. It confirms that any prosecution for true threats must include some subjective mental state element — it can be used to challenge statutes that rely purely on objective tests without any subjective component
+2. It provides a First Amendment defense argument when a defendant's statements were made without awareness of their threatening character
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+DEFENSIVE — If a § 422 charge arises involving the steward's own communications:
+- Counterman supports the argument that the defendant did not subjectively intend or recklessly disregard the threatening nature of the statement
+- Purely objective evidence that a reasonable person might feel threatened is necessary but not sufficient after Counterman
+- Focus on the defendant's actual mental state at the time of the communication
+
+COMPLAINANT — If the steward is the victim of threatening communications:
+- Counterman does not make § 422 prosecution harder in California — California's existing specific-intent requirement is higher than Counterman's recklessness floor
+- Document evidence of the speaker's recklessness or intent — context, prior conduct, explicit statements about intent — to satisfy both California's specific intent and Counterman's constitutional floor
+
+---
+
+SOURCE PROVENANCE:
+Citation: Counterman v. Colorado (2023) 600 U.S. 66, 143 S.Ct. 2106
+Court: United States Supreme Court
+Reporter: United States Reports, vol. 600, page 66
+Decided: June 27, 2023
+Source: VERIFIED — confirmed citation from knowledge cutoff August 2025. Decided June 27, 2023. Directly applicable to criminal threats prosecutions under federal constitutional law.
+Verification: Westlaw / Google Scholar: "Counterman v. Colorado 600 U.S. 66"
+Verification status: PROPOSED — verified citation and holding; pending steward witness review

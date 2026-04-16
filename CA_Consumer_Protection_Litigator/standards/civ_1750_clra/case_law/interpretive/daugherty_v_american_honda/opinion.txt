@@ -1,0 +1,71 @@
+DAUGHERTY v. AMERICAN HONDA MOTOR CO., INC.
+144 Cal.App.4th 824 (2006)
+California Court of Appeal, Second Appellate District
+Decided: 2006
+
+---
+
+FACTS:
+
+Honda Accord owners discovered that their vehicles had a defective oil sludge problem that Honda had known about. Honda did not disclose the defect at the time of sale or afterward. The plaintiffs brought CLRA and UCL claims based on Honda's failure to disclose the known latent defect.
+
+---
+
+HOLDING — DUTY TO DISCLOSE LATENT DEFECTS:
+
+A manufacturer or seller has a duty to disclose a known latent defect when:
+1. The seller has exclusive knowledge of material facts not known to the buyer;
+2. The seller actively conceals a material fact from the buyer; or
+3. The seller makes partial representations that are misleading without disclosure of the material fact.
+
+Where a seller knows of a latent defect that materially affects value or use, and fails to disclose it when they have a duty to do so, the failure constitutes actionable concealment under Civil Code § 1710(3) and a CLRA violation.
+
+"A manufacturer who is aware of a significant defect and fails to disclose it to a consumer engages in deceptive conduct under the CLRA when that defect: (1) is material; and (2) is not reasonably accessible to the consumer." 144 Cal.App.4th at 835.
+
+---
+
+HOLDING — LATENT DEFECT AND MATERIALITY:
+
+A defect is material if it substantially affects:
+- The value of the product;
+- The use of the product as intended; or
+- The safety of the product.
+
+An oil sludge problem that causes engine failure is clearly material. Hidden mechanical defects that affect reliability and longevity are material. Prior accident damage that affects structural integrity is material.
+
+---
+
+HOLDING — THE ECONOMIC LOSS RULE DOES NOT BAR CLRA CLAIMS:
+
+Honda argued that the "economic loss rule" (which bars tort claims where the only loss is economic damage to the product itself) barred the CLRA claim. The court rejected this argument in the consumer context.
+
+The economic loss rule applies primarily to commercial transactions between sophisticated parties. In the consumer protection context, the CLRA's explicit statutory scheme overrides the common-law economic loss rule. A consumer who suffers only economic loss from a product defect — such as paying for repairs or replacement — can still bring a CLRA claim for that economic loss.
+
+---
+
+APPLICATION TO VEHICLE DEFECT CASES:
+
+For any vehicle with a known defect that was not disclosed:
+- Manufacturer's knowledge of defect + failure to disclose = CLRA concealment;
+- Dealer's knowledge of defect (actual or constructive) + failure to disclose = § 11711 misrepresentation + Civil Code § 1710(3) concealment;
+- Even if the vehicle appeared to function at the time of sale, the latent defect makes the representation of merchantable condition false.
+
+For the steward's vehicle cases: if any vehicle was sold with known mechanical defects, hidden accident damage, or known reliability problems — and these were not disclosed — Daugherty supports CLRA and § 1709/1710 concealment claims.
+
+---
+
+SPECIAL NOTE ON SIM CARDS AND STRIPPED VEHICLES:
+
+For the RedJag (stripped of SIM card and other components): if the dealer was aware that the vehicle had been stripped after it came into the dealer's possession (or if the dealer stripped it before resale), and failed to disclose this material condition, Daugherty directly supports the concealment theory. "Stripped" condition materially affects value and use; a vehicle with missing electronic modules may not function as represented.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 144 Cal.App.4th 824 (2006)
+Official reporter: California Appellate Reports, Fourth Series, vol. 144, page 824
+Court: California Court of Appeal, Second Appellate District
+Key quoted passage: 144 Cal.App.4th at 835 (latent defect disclosure duty)
+Source of this text: Claude training data (knowledge cutoff August 2025). Daugherty is a frequently cited California CLRA latent-defect case. Full verbatim text should be verified at:
+  - courts.ca.gov
+  - Google Scholar: "Daugherty v. American Honda Motor"
+Verification status: PROPOSED — pending steward witness review

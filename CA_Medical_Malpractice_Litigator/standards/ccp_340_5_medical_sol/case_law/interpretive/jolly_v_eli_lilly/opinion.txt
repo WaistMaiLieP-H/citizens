@@ -1,0 +1,87 @@
+JOLLY v. ELI LILLY AND CO.
+44 Cal.3d 1103 (1988)
+Supreme Court of California
+Decided: August 29, 1988
+Author: MOSK, J.
+
+---
+
+FACTS:
+
+Jolly brought a products liability action against Eli Lilly for injuries she alleged were caused by DES (diethylstilbestrol), a drug her mother took during pregnancy. Jolly was a "DES daughter" — a class of plaintiffs whose injuries from prenatal DES exposure typically did not manifest until years after the drug was taken.
+
+The central issue was whether Jolly's claim was time-barred. She filed suit more than three years after she had reason to suspect she had a DES-related condition, but within one year after she identified Eli Lilly as a manufacturer (among many possible defendants).
+
+---
+
+HOLDING — THE DISCOVERY RULE AND SUSPICION STANDARD:
+
+The California Supreme Court held that the statute of limitations for medical injury begins to run when the plaintiff "suspects or should suspect that her injury was caused by wrongdoing" — not when she has identified the specific defendant.
+
+"Once the plaintiff has a suspicion of wrongdoing, and therefore an incentive to investigate, there is no justification for the delay of filing suit until the plaintiff is certain of the identity of the wrongdoer." 44 Cal.3d at 1111.
+
+THE SUSPICION STANDARD:
+The cause of action accrues when the plaintiff:
+(a) Has a physical manifestation of injury;
+(b) Suspects, or reasonably should suspect, that the injury was caused by someone's wrongdoing.
+
+The plaintiff need not know:
+- The identity of the specific defendant;
+- The precise mechanism of harm;
+- The exact legal theory.
+
+The plaintiff need only have sufficient information to put a reasonable person on inquiry notice.
+
+---
+
+THE DISCOVERY RULE IN CALIFORNIA MEDICAL INJURY CONTEXT:
+
+JOLLY AND CCP § 340.5:
+The Code of Civil Procedure § 340.5 limitations period for medical malpractice actions incorporates the discovery rule: the period runs from "the date of discovery of the injury or the date on which through the use of reasonable diligence it should have been discovered, whichever is earlier."
+
+Jolly's suspicion standard defines when "discovery" occurs for limitations purposes:
+- Actual knowledge of the injury and its possible wrongdoing source triggers the limitations period;
+- Constructive knowledge (what the plaintiff should have known with reasonable diligence) can also trigger the period even without actual knowledge.
+
+---
+
+HOLDING — INQUIRY NOTICE:
+
+Once a plaintiff has inquiry notice — i.e., facts sufficient to put a reasonable person on notice that an injury might have a wrongdoing cause — the limitations period begins to run even if:
+1. The plaintiff has not yet identified the defendant;
+2. The plaintiff has not yet confirmed the causal link;
+3. The plaintiff is still investigating.
+
+"A plaintiff need not be aware of the specific facts necessary to establish the claim; that is a process contemplated by pretrial discovery. Once the plaintiff has a suspicion of wrongdoing, and therefore an incentive to investigate, there is no justification for the delay." 44 Cal.3d at 1111.
+
+---
+
+THE DISCOVERY RULE DOES NOT TOLL INDEFINITELY:
+
+Jolly establishes that the discovery rule is not a perpetual tolling device. It protects plaintiffs who, through no fault of their own, could not have reasonably discovered the injury or its wrongdoing cause. But once the plaintiff has (or should have) that suspicion:
+- The one-year period (§ 340.5) begins to run;
+- The three-year outer limit (§ 340.5(a)) runs from the date of injury regardless of discovery.
+
+---
+
+APPLICATION TO SIRVA / SURGICAL MALPRACTICE:
+
+For a SIRVA case (vaccine injection injury manifesting as shoulder pain, limited range of motion, and eventual surgery):
+1. The limitations period under § 340.5 begins when the patient suspects, or should suspect, that the shoulder injury was caused by the vaccination;
+2. If the patient did not initially connect the shoulder pain to the injection (a plausible situation given SIRVA's variable onset), the discovery rule protects until the patient makes or should make that connection;
+3. For the surgical malpractice claim (failed corrective surgery), a separate § 340.5 period begins from the discovery of the surgical failure;
+4. Jolly means: once the patient suspects the surgery went wrong, investigation cannot be delayed — get the medical records, consult a specialist, and file within one year of suspicion.
+
+SIRVA DISCOVERY RULE ARGUMENT: The patient must argue that (a) SIRVA is not commonly known; (b) the onset of symptoms may be delayed; (c) the causal connection between an injection and shoulder impingement is not obvious to a layperson — all supporting a later discovery date.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 44 Cal.3d 1103 (1988)
+Official reporter: California Reports, Third Series, vol. 44, page 1103
+Court: Supreme Court of California
+Key holding: Discovery rule / suspicion standard — limitations runs from when plaintiff suspects wrongdoing, not when defendant is identified
+Source of this text: Claude training data (knowledge cutoff August 2025). Jolly v. Eli Lilly is the controlling California discovery rule case for medical injury limitations. Full verbatim text should be verified at:
+  - courts.ca.gov
+  - Google Scholar: "Jolly v. Eli Lilly 44 Cal.3d"
+Verification status: PROPOSED — pending steward witness review

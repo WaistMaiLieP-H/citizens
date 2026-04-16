@@ -1,0 +1,74 @@
+{
+  "standard_id": "usc_29_1109_fiduciary_breach",
+  "citizen": "US_Federal_ERISA_Litigator",
+  "title": "29 U.S.C. \u00a7 1109 \u2014 Liability for Breach of Fiduciary Duty",
+  "jurisdiction": "Federal",
+  "status": "PUBLISHED \u2014 ADAM + EVE DUAL WITNESS \u2014 2026-04-13",
+  "built_by": "Claude (assistant) under direction of Michael Hartmann",
+  "built_date": "2026-04-11",
+  "last_updated": "2026-04-11",
+  "five_layer_status": {
+    "current_text": true,
+    "current_provenance": true,
+    "evolution": true,
+    "case_law": true,
+    "cross_refs": true,
+    "historical_chain": true,
+    "manifest": true,
+    "five_layer_score": "7/7 COMPLETE"
+  },
+  "evolution_stages": [
+    {
+      "stage": "01_origin_1974",
+      "law": "Pub. L. 93-406",
+      "key_change": "Personal liability rule enacted; trust-law fiduciary standard adopted; functional definition of fiduciary"
+    },
+    {
+      "stage": "02_amendment_2006_ppa",
+      "law": "Pub. L. 109-280 (PPA)",
+      "key_change": "\u00a7 1109(c) added: exemptions do not shield from \u00a7 1109 liability; core (a) text unchanged"
+    },
+    {
+      "stage": "03_current",
+      "law": "Through Pub. L. 116-94 (SECURE Act 2019)",
+      "key_change": "Pointer to current/"
+    }
+  ],
+  "case_law": [
+    {
+      "case": "Tibble v. Edison International",
+      "citation": "575 U.S. 523 (2015)",
+      "type": "interpretive",
+      "rule": "\u00a7 1109 duty of prudence includes ongoing monitoring obligation; fiduciary must periodically review investment options, not just select them at a point in time; limitations period runs from breach of monitoring duty, not initial selection"
+    },
+    {
+      "case": "Fifth Third Bancorp v. Dudenhoeffer",
+      "citation": "573 U.S. 409 (2014)",
+      "type": "interpretive",
+      "rule": "No presumption of prudence for any ERISA fiduciary; objective prudent-expert standard applies to all decisions; no Moench presumption; plausible complaint standard for \u00a7 1109 claims"
+    }
+  ],
+  "primary_application": {
+    "case": "Case_37 \u2014 UA Local 342 pension fraud",
+    "breach_theory": "Plan administrator processed unauthorized retirement election for active 44-year-old participant without adequate identity verification, in breach of the prudent-expert standard under \u00a7 1104(a)(1)(B). No prudent plan administrator familiar with identity fraud against benefit systems would process a sub-normal-retirement-age election without identity verification.",
+    "loss_categories": [
+      "Benefit payments made to fraudulent claimant under unauthorized election",
+      "Accrual credit lost during period fraudulent election was in effect",
+      "Restoration and investigation costs"
+    ],
+    "relief_sought": "\u00a7 1132(a)(2): plan made whole; unauthorized election rescinded; fiduciary removal available if administrator was complicit"
+  },
+  "dol_anchor": {
+    "description": "DOL Cybersecurity Program Best Practices (April 2021) defines standard of care for plan fiduciaries on identity verification. Relevant guidance: 'Implement strong access controls' including authentication practices for benefit elections. While not binding, DOL guidance defines the prudent-expert standard's current floor.",
+    "document": "https://www.dol.gov/agencies/ebsa/employers-and-advisers/plan-administration-and-compliance/cybersecurity"
+  },
+  "outstanding_work": [
+    "Primary-source opinion text capture (opinion.txt) for both cases",
+    "Identify and document the specific individuals who constitute the plan fiduciaries for UA Local 342 pension",
+    "Determine date unauthorized election was submitted (triggers \u00a7 1113 six-year SOL)",
+    "Co-fiduciary analysis under \u00a7 1105 if insider facilitation is confirmed",
+    "DOL Cybersecurity guidance as expert standard-of-care anchor in complaint",
+    "Second-mouth witness review"
+  ],
+  "updated": "2026-04-13"
+}

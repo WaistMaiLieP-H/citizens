@@ -1,0 +1,9 @@
+{
+  "case": "Placeholder / doctrinal proposition file",
+  "note": "This folder was originally scaffolded for a specific second § 148.5 case but was converted to a doctrinal proposition file when the author could not confirm a specific well-cited second authority with the precision required by the five-layer bar's verifiable_provenance standard. The file captures the doctrine pending primary-source case verification in the next session.",
+  "statute_construed": "California Penal Code § 148.5 (by analogy with Chaklader framework)",
+  "status": "Placeholder — doctrinal proposition only; specific case citation pending",
+  "next_action": "Locate and cite a specific published California appellate case applying § 148.5 in a civil-dispute-motive context, then replace this placeholder with a full holding.md entry",
+  "captured_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "captured_at_utc": "2026-04-11T03:00:00Z"
+}

@@ -1,0 +1,46 @@
+{
+  "standard_id": "pen_code_1001_36_mental_health_diversion",
+  "cite": "Pen. Code § 1001.36",
+  "short_name": "Mental Health Pretrial Diversion",
+  "citizen": "CA_Criminal_Law_Specialist",
+  "layer_status": {
+    "statute_current": "COMPLETE — text.txt captured from leginfo via VernenLegal MCP 2026-04-11 (excerpted; full statute on leginfo)",
+    "context": "COMPLETE — eligibility/suitability criteria, excluded offenses, process, defense strategy for M25-00758",
+    "historical_chain": "COMPLETE — 2018 enactment, AB 718, Frahs 2020, SB 1223 2022",
+    "cross_refs": "COMPLETE — 11 cross-references including People v. Frahs",
+    "case_law": "PARTIAL — 1 documented case (People v. Frahs 2020, Cal.S.Ct.), 1 doctrinal placeholder",
+    "evolution_layer": "NOT YET BUILT",
+    "opinion_text": "NOT YET CAPTURED"
+  },
+  "five_layer_score": "3.5 / 5",
+  "cases_documented": 1,
+  "cases_placeholder": 1,
+  "case_references": [
+    {
+      "folder": "people_v_frahs_2020",
+      "cite": "People v. Frahs (2020) 9 Cal.5th 618",
+      "type": "documented",
+      "key_holding": "§ 1001.36 applies retroactively to non-final judgments; remedy is conditional reversal and remand for eligibility hearing"
+    },
+    {
+      "folder": "people_v_wade_2016",
+      "cite": "DOCTRINAL PLACEHOLDER — Suitability and Prosecution Burden",
+      "type": "placeholder",
+      "key_holding": "pending — post-Frahs prosecution burden at suitability hearing"
+    }
+  ],
+  "target_cases": [
+    "M25-00758 (Solano Diversion)"
+  ],
+  "priority": "HIGH — active diversion case",
+  "built_by": "Claude (CA_Criminal_Law_Specialist) under steward direction — Michael Hartmann",
+  "built_at_utc": "2026-04-11T00:00:00Z",
+  "version": "v0.2.0-witnessed-by-herald",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

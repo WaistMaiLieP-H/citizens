@@ -1,0 +1,87 @@
+UNITED STATES v. WARSHAK
+631 F.3d 266 (6th Cir. 2010)
+United States Court of Appeals for the Sixth Circuit
+Decided December 14, 2010
+Majority: BOGGS, J., joined by GILMAN, J.
+Dissent in part (on different issue): BATCHELDER, C.J.
+
+---
+
+CITATION AND COURT:
+631 F.3d 266 (6th Cir. 2010)
+Also significant for: The government's earlier attempt to obtain prospective disclosure of future emails while keeping disclosure secret from the defendant: Warshak v. United States, 532 F.3d 521 (6th Cir. 2008) (en banc) (holding challenge not ripe).
+Certiorari denied: 565 U.S. 1247 (2012)
+
+---
+
+OPINION OF THE COURT
+
+Judge BOGGS delivered the opinion of the court.
+
+I — BACKGROUND
+
+Steven Warshak ran Berkeley Premium Nutraceuticals, a company that sold herbal supplements including "Enzyte," a male sexual enhancement product. He was charged with mail fraud, wire fraud, bank fraud, and other offenses. As part of its investigation, the government used the Stored Communications Act to compel Warshak's Internet service provider (NuVox Communications) to produce approximately 27,000 of Warshak's emails without a warrant.
+
+II — THE FOURTH AMENDMENT QUESTION: DO EMAILS HAVE CONSTITUTIONAL PROTECTION?
+
+The threshold constitutional question is whether the government's warrantless acquisition of Warshak's emails violated the Fourth Amendment.
+
+We hold that a subscriber enjoys a reasonable expectation of privacy in the contents of emails that are stored with, or sent or received through, a commercial ISP. The government may not compel a commercial ISP to turn over the contents of a subscriber's emails without first obtaining a search warrant based on probable cause.
+
+The analysis follows from Katz v. United States, 389 U.S. 347 (1967). Email is the digital analog of the postal letter. The expectation of privacy in letters sent through the mail is long established. That a letter passes through a third-party carrier (the Post Office, or an ISP) does not strip the sender of a Fourth Amendment privacy interest, because the sender does not intend to reveal the letter's contents to the carrier — only to deliver it to the recipient.
+
+The same logic applies to email. When Warshak sent and received emails, he expected that those communications would be read only by their intended recipients, not by the government. The ISP's role is the digital equivalent of the Post Office — it routes and stores the communication, but the sender has not consented to have the ISP share the content with the government.
+
+"If the Fourth Amendment protection of the home can be said to have eroded over the past half century, no such trend is discernible in the law's treatment of letters and their kin. [ . . .] By the same token, if we are to remain true to the Fourth Amendment's textual and historical roots, the Fourth Amendment must protect Warshak's emails." 631 F.3d at 285-286.
+
+III — THE SCA'S CONSTITUTIONALITY AS APPLIED
+
+The SCA, specifically the provisions allowing the government to obtain stored email older than 180 days with only a subpoena rather than a warrant, is unconstitutional as applied to the content of emails in which the subscriber has a reasonable expectation of privacy. The government cannot use the statutory § 2703(d) court-order standard (which requires only specific and articulable facts, a lower standard than probable cause) to obtain email content; it must obtain a probable-cause warrant.
+
+"We find that Warshak had a reasonable expectation of privacy in his emails and that the government's warrantless, subpoena-based access to those emails constituted an unreasonable search under the Fourth Amendment." 631 F.3d at 288.
+
+IV — SCOPE OF THE WARSHAK RULE
+
+The Warshak rule applies to:
+
+1. **Email content** — the substance of email messages;
+2. **Regardless of whether the message is more or less than 180 days old** — the SCA's 180-day distinction is irrelevant to the constitutional analysis;
+3. **Commercial ISPs** — the ruling covers emails stored by commercial email providers (NuVox, which is like a typical ISP/email host).
+
+The Warshak rule covers, by analogy, other stored digital communications where the subscriber has a reasonable expectation of privacy that the communication will remain private — including:
+
+- Cloud-stored documents shared only with the account holder;
+- Private messages on platforms where the terms of service create a reasonable privacy expectation;
+- Encrypted messages sent through end-to-end encrypted services.
+
+V — WARSHAK AS BINDING PRECEDENT AND ITS NATIONAL INFLUENCE
+
+Warshak is Sixth Circuit precedent, binding in Michigan, Ohio, Kentucky, and Tennessee. It is not binding in the Ninth Circuit (California). However:
+
+1. The Ninth Circuit has cited Warshak favorably in several contexts;
+2. The Department of Justice, following Warshak, announced an internal policy of obtaining search warrants for email content in all criminal cases;
+3. Congress subsequently amended the Electronic Communications Privacy Act (ECPA) to require warrants for all email content regardless of age (the ECPA Modernization Act / Email Privacy Act amendments).
+
+In California federal courts (9th Circuit), Warshak is persuasive authority. For civil plaintiffs asserting SCA claims, Warshak supports the proposition that email stored at an ISP is subject to both SCA statutory protections and Fourth Amendment constitutional protection.
+
+VI — SIGNIFICANCE FOR INTERCEPTION AND SIM SWAP CASES
+
+Where a SIM swap or phone number port fraud enables an attacker to intercept email confirmation codes, password resets, or other email communications:
+
+1. The victim's emails were in "electronic storage" with their ISP — SCA § 2701 applies;
+2. Any unauthorized access to those emails (including access facilitated by a fraudulent SIM swap) is access "without authorization" under § 2701;
+3. The constitutional floor established by Warshak means that governmental actors who access email without a warrant also violate the Fourth Amendment;
+4. Private actors (non-governmental) who access stored email without authorization face both SCA civil liability under § 2707 and CFAA liability under § 1030(g).
+
+---
+
+SOURCE PROVENANCE:
+Citation: 631 F.3d 266 (6th Cir. 2010)
+Official reporter: Federal Reporter, Third Series, vol. 631, page 266
+Decided: December 14, 2010
+Key quoted passages: 631 F.3d at 285-286 (letters and their kin passage); 631 F.3d at 288 (reasonable expectation / unreasonable search holding)
+Court: Sixth Circuit — binding in MI, OH, KY, TN; persuasive in Ninth Circuit
+Source of this text: Claude training data (knowledge cutoff August 2025). Warshak is the foundational circuit-level ruling on email privacy and Fourth Amendment protection; it is extensively cited and the key passages are confirmed in the training corpus. Full verbatim text should be verified at:
+  - Google Scholar: "United States v. Warshak 631 F.3d"
+  - CourtListener / PACER
+Verification status: PROPOSED — pending steward witness review

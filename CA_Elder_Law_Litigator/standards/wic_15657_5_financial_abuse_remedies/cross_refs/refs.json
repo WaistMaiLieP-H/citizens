@@ -1,0 +1,47 @@
+{
+  "standard_id": "wic_15657_5_financial_abuse_remedies",
+  "citizen": "CA_Elder_Law_Litigator",
+  "layer": "cross_refs",
+  "generated": "2026-04-12",
+  "internal_refs": [
+    {
+      "id": "wic_15610_30_financial_abuse_def",
+      "path": "${citizens}/CA_Elder_Law_Litigator/standards/wic_15610_30_financial_abuse_def",
+      "relationship": "\u00a715657.5 remedies are triggered by \u00a715610.30 financial abuse definition \u2014 that standard must be established first"
+    },
+    {
+      "id": "wic_15657_elder_abuse_enhanced_remedies",
+      "path": "${citizens}/CA_Elder_Law_Litigator/standards/wic_15657_elder_abuse_enhanced_remedies",
+      "relationship": "Parallel enhanced remedies for physical abuse; compare thresholds \u2014 \u00a715657.5(a) has lower bar (preponderance) for fee shifting"
+    },
+    {
+      "id": "prob_859_double_damages",
+      "path": "${citizens}/CA_Elder_Law_Litigator/standards/prob_859_double_damages",
+      "relationship": "\u00a7859 double damages stack on top of \u00a715657.5 remedies where bad-faith taking established \u2014 these are complementary, not exclusive"
+    }
+  ],
+  "external_refs": [
+    {
+      "id": "civ_3294_punitive",
+      "path": "Cal. Civ. Code \u00a73294",
+      "relationship": "\u00a715657.5(c) employer liability uses \u00a73294(b) managing agent standard for punitive damages (but NOT for compensatory or attorney fees)"
+    },
+    {
+      "id": "ccp_377_34",
+      "path": "Cal. CCP \u00a7377.34",
+      "relationship": "\u00a715657.5(b) removes this survival cap upon C&C + recklessness \u2014 baseline cap to understand what removal achieves"
+    }
+  ],
+  "case_law": [
+    {
+      "citation": "Delaney v. Baker, 20 Cal.4th 23 (1999)",
+      "holding": "Recklessness sufficient for enhanced remedies under \u00a715657; by implication same standard applies under \u00a715657.5",
+      "significance": "Sets recklessness standard applicable to both \u00a715657 and \u00a715657.5"
+    },
+    {
+      "citation": "Das v. Bank of America, N.A., 186 Cal.App.4th 727 (2010)",
+      "holding": "Bank liable as assisting party under \u00a715610.30(a)(2); \u00a715657.5 attorney fee award against institutional defendant affirmed",
+      "significance": "Confirmed institutional liability for fee shifting at preponderance under \u00a715657.5(a)"
+    }
+  ]
+}

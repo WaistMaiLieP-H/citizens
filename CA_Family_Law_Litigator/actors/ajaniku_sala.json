@@ -1,0 +1,74 @@
+{
+  "actor_id": "ajaniku_sala",
+  "canonical_name": "Sala Ajaniku",
+  "aliases": [],
+  "role": "Child Custody Mediator (Court-connected, Alameda County, presumed)",
+  "professional_identity": {
+    "title_used_in_court": "Child Custody Mediator",
+    "presumed_employer": "Alameda County Superior Court, Family Court Services",
+    "credential_concern": "ZERO professional credentials found in ANY public database. No license, no degree confirmation, no LinkedIn, no professional directory presence."
+  },
+  "credential_verification": {
+    "ca_board_of_psychology_license": "ZERO results",
+    "ca_board_of_behavioral_sciences_license": "ZERO results (LCSW, LMFT, LPCC all checked)",
+    "dca_license_search_result": "ZERO results",
+    "linkedin": "ZERO results",
+    "psychology_today_directory": "ZERO results",
+    "webmd_provider_directory": "ZERO results",
+    "goodtherapy_directory": "ZERO results",
+    "google_scholar": "ZERO results",
+    "court_mediator_panels_alameda_adr": "ZERO results",
+    "any_professional_directory": "ZERO results",
+    "verification_status": "CRITICAL \u2014 zero verifiable professional presence; cannot file licensing-board complaint because no licensing board exists for an unlicensed person",
+    "ca_family_code_3164_compliance_assessment": "Without verifiable credentials, cannot determine whether Ajaniku met the master's-degree-and-two-years-experience baseline of \u00a7 3164 / \u00a7 1815. Without a license, cannot determine whether DV training under \u00a7 1816 was completed."
+  },
+  "case_involvement": [
+    {
+      "case_number": "RF09456481",
+      "date": "2010-09-02",
+      "action": "Issued mediation recommendation that REVERSED the prior 2009-07-02 protective recommendation by Olga Paredes",
+      "outcome": "DVRO modified; Christina Cerretani granted UNSUPERVISED visitation (previously supervised)",
+      "outcome_classification": "ADVERSE to the steward \u2014 removed protective supervision",
+      "judge_who_adopted": "Paul A. Delucchi",
+      "anomaly": "A person with NO verifiable credentials made a recommendation that overturned a previous recommendation by a credentialed professional. The judge adopted it without apparent verification of the recommender's qualifications."
+    }
+  ],
+  "risk_level": "CRITICAL",
+  "risk_basis": "Zero verifiable credentials; adverse outcome (removed protective supervision); no accountability mechanism (no licensing board to complain to); resulted in modification of a protective DVRO",
+  "outstanding_investigations": [
+    {
+      "id": "ajaniku_pra",
+      "question": "What were Sala Ajaniku's actual credentials, employment status, and qualifications in September 2010?",
+      "unblock": "Public Records Act request to Alameda County Superior Court for: (a) all employment records, (b) qualifications and resume on file, (c) hiring documentation, (d) the original 09/02/2010 mediation report identifying any credentials listed",
+      "priority": "HIGHEST \u2014 load-bearing for the credential audit and for the steward's case theory"
+    },
+    {
+      "id": "ajaniku_alameda_hr",
+      "question": "Does Alameda County HR have any record of this individual?",
+      "unblock": "PRA to Alameda County HR"
+    },
+    {
+      "id": "ajaniku_name_variants",
+      "question": "Are there alternative spellings of the name that might surface credentials?",
+      "unblock": "Search variant spellings of first and last name"
+    },
+    {
+      "id": "ajaniku_current_employment",
+      "question": "Does this person still work for any California court?",
+      "unblock": "Court-system search across California county Superior Courts"
+    }
+  ],
+  "standards_governing_this_actor": [
+    "Cal. Family Code \u00a7 3164 (custody mediator qualifications)",
+    "Cal. Family Code \u00a7 1815 (counselor of conciliation qualifications)",
+    "Cal. Family Code \u00a7 1816 (mediator DV training requirement)",
+    "Cal. Rules of Court Rule 5.210 (court-connected mediation procedures)",
+    "Cal. Rules of Court Rule 5.215 (DV-related mediation requirements)"
+  ],
+  "source_citations": [
+    "${familylaw}/CREDENTIAL-AUDIT-AJANIKU-PAREDES-DITSWORTH-2026-03-23.md",
+    "/home/vernenlegal/.claude/projects/-home-vernenlegal/memory/project_familylaw_audit.md"
+  ],
+  "case_theory_significance": "The Ajaniku credential void, combined with the mediator switch (Paredes \u2192 Ajaniku) and the resulting protective-order modification, may constitute additional evidence of due process violations in the family court proceedings \u2014 relevant to both the federal \u00a7 1983 complaint and any state-court motion to vacate orders that flowed from the 2010-09-02 hearing.",
+  "filed_at_utc": "2026-04-08T18:05:00Z"
+}

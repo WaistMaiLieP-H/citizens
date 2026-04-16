@@ -1,0 +1,14 @@
+{
+  "standard_id": "CIV_3294_PUNITIVE_DAMAGES",
+  "primary_source": "Cal. Civil Code §3294",
+  "enacted": "Original enactment: Cal. Civil Code §3294 (1872 Field Code codification); current form includes 1987 amendment adding §3294(b) employer liability limitations and §3294(c) definitions of malice, oppression, fraud",
+  "current_version_source": "Cal. Civil Code §3294 as amended by Stats. 1987, Ch. 1498 (AB 3601, same MICRA amendment package)",
+  "codification": "California Civil Code, Division 4 (General Provisions), Part 1 (Relief), Title 3 (Damages), Chapter 1 (Measure of Damages in General), §3294",
+  "related_section": "§3295 (financial condition discovery gating; plaintiff may discover financial condition after §425.13 cleared)",
+  "fetch_method": "WebFetch — leginfo.legislature.ca.gov official source",
+  "fetch_timestamp_utc": "2026-04-11T00:00:00Z",
+  "retrieval_steward": "Claude (assistant) under direction of Michael Hartmann",
+  "verbatim_capture_status": "COMPLETE — civ_3294_leginfo.txt contains verbatim text from leginfo (Stats. 1992, Ch. 178 current version)",
+  "txt_sha256": "3bd9226cec225f08c65eec7f2e335dfb40d94e96c1f0bc3f63fe200638a67546",
+  "build_date": "2026-04-11"
+}

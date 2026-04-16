@@ -1,0 +1,16 @@
+{
+  "evolution_stage": "03_family_code_1994",
+  "standard_id": "CAL_FAM_721",
+  "description": "1994 Family Code recodification — Civil Code § 5103 → Family Code § 721",
+  "enacted_by": "Stats. 1992, ch. 162 (AB 1650)",
+  "effective_date": "1994-01-01",
+  "source": "California Statutes 1992, Chapter 162; California Family Code § 721 (1994 text)",
+  "primary_source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=FAM&sectionNum=721.",
+  "retrieval_method": "Historical legal research — requires primary source verification against 1992 California Statutes ch. 162",
+  "verification_status": "REQUIRES_PRIMARY_SOURCE_VERIFICATION",
+  "verification_note": "Stats. 1992, ch. 162 available at California State Archives. The Family Code as enacted is available in the 1992 California Statutes volumes. leginfo.legislature.ca.gov has current text; pre-1993 archived statutes require separate search.",
+  "html_sha256": null,
+  "fetch_timestamp": "2026-04-11T00:00:00Z",
+  "fetch_tool": "historical research",
+  "retrieval_steward": "Claude (assistant) under steward direction — Michael Hartmann"
+}

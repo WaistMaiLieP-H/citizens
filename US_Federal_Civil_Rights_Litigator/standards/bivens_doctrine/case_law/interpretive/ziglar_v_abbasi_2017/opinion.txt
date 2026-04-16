@@ -1,0 +1,78 @@
+ZIGLAR v. ABBASI
+582 U.S. 120 (2017)
+United States Supreme Court
+Decided: June 19, 2017
+
+---
+
+FACTS:
+
+After September 11, 2001, hundreds of Arab Muslim men were detained in federal custody pending immigration removal proceedings. They were held in harsh conditions — solitary confinement, no recreation, restricted communications, strip searches — and subjected to a formal "hold until cleared" policy requiring FBI clearance before release. Former INS Commissioner James Ziglar and other high-level executive officials directed the detention policy.
+
+The detainees brought Bivens actions against high-level executive officials for Fifth Amendment due process and equal protection violations, and against individual prison wardens for Eighth Amendment treatment claims. The Second Circuit allowed the claims to proceed.
+
+The Supreme Court reversed in large part.
+
+---
+
+HOLDING:
+
+Justice Kennedy wrote for the Court (4-2 on most issues; some portions 6-2).
+
+BIVENS MUST NOT BE EXTENDED TO NEW CONTEXTS:
+
+"Expanding the Bivens remedy is now a 'disfavored' judicial activity."
+
+"If the case is different in a meaningful way from previous Bivens cases decided by this Court, then the context is new."
+
+THE NEW CONTEXT ANALYSIS:
+A "new context" arises when there are differences that "make it less probable that Congress would have sanctioned the implied cause of action." Relevant factors include:
+- The rank of the officer (higher-ranking = more likely new context)
+- The constitutional right at issue (Fourth/Fifth/Eighth amendment vs. others)
+- The alternative remedial structure available
+- Whether the claim involves national security
+
+SPECIAL FACTORS COUNSELING HESITATION:
+Even if the facts don't create a strictly "new context," courts must ask whether "special factors" counsel against implying the Bivens remedy:
+1. **Alternative remedies**: If Congress has created an alternative remedial structure for the type of harm — even if it's not as complete as Bivens — that counsels against Bivens extension
+2. **National security / foreign policy**: Executive discretion in these domains warrants extra hesitation
+3. **High-level officials**: Bivens was designed to deter individual officers at the point of contact, not to second-guess high-level executive policy through litigation
+
+WHAT SURVIVED ZIGLAR:
+- The three recognized Bivens contexts (Bivens/4th, Davis/5th, Carlson/8th) remain intact
+- Claims against individual line officers (not policymakers) in those contexts remain viable
+- Ziglar did not eliminate Bivens — it severely restricted its extension
+
+WHAT ZIGLAR FORECLOSED:
+- Fifth Amendment substantive due process against high-level executive officials
+- Fifth Amendment equal protection against officials directing a national security policy
+- Any novel context where Congress has not expressly created a remedy but could have
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Ziglar defines the outer limits of Bivens claims against federal officers:
+
+1. **Claims against individual federal line officers** (SSA case workers, DDS examiners, federal law enforcement) in recognized contexts (Fourth/Fifth/Eighth Amendment) remain viable post-Ziglar.
+
+2. **Claims against high-level officials** directing federal programs are essentially foreclosed under Ziglar — the "new context" and "special factors" analysis will defeat Bivens at summary judgment.
+
+3. **Strategy**: For federal-actor claims, prioritize:
+   - FTCA claims against the United States (no new-context restriction)
+   - Statutory claims (APA, Privacy Act, 5 USC § 552a, Civil Service Reform Act)
+   - § 1983 where any state actors are involved in the same scheme
+   - Bivens only for claims that clearly fit within the three recognized contexts
+
+4. **SSA phantom contact**: A claim that an individual SSA/DDS examiner violated the Fourth Amendment (unauthorized access to communications) or Fifth Amendment (denial of benefits without process) might fit within the recognized contexts if framed correctly.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 582 U.S. 120 (2017)
+Court: United States Supreme Court
+Reporter: United States Reports, vol. 582, page 120
+Author: Kennedy, J. (majority)
+Source of this text: Claude training data (knowledge cutoff August 2025). Ziglar v. Abbasi severely restricted Bivens extensions — declaring the doctrine "disfavored" for new contexts and requiring special-factor analysis before any extension beyond the three 1971-1980 recognized categories.
+Verification: CourtListener / Justia / Google Scholar: "Ziglar v. Abbasi 582 U.S. 120"
+Verification status: PROPOSED — pending steward witness review

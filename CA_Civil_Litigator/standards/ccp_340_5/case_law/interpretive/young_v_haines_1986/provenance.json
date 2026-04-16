@@ -1,0 +1,27 @@
+{
+  "case_name": "Young v. Haines",
+  "citation": "41 Cal.3d 883 (1986)",
+  "parallel_citations": ["226 Cal.Rptr. 547", "718 P.2d 909"],
+  "court": "Supreme Court of California",
+  "date_decided": "1986-07-17",
+  "docket_number": "S.F. 24657",
+  "jurisdiction": "California",
+  "standard_interpreted": "CCP 340.5 (discovery rule trigger)",
+  "key_doctrine": "One-year discovery period begins at 'suspicion of wrongdoing,' not certainty of malpractice",
+  "sources": [
+    {
+      "name": "Casetext",
+      "url": "https://casetext.com/case/young-v-haines"
+    },
+    {
+      "name": "Google Scholar",
+      "url": "https://scholar.google.com/scholar_case?case=young+v+haines+41+cal+3d+883"
+    },
+    {
+      "name": "Westlaw",
+      "url": "https://www.westlaw.com/ (subscription required)"
+    }
+  ],
+  "created_utc": "2026-04-08",
+  "created_by": "Claude (assistant) under steward direction -- Michael Hartmann, Vernen Legal Compliance"
+}

@@ -1,0 +1,27 @@
+{
+  "case_name": "Bixby v. Pierno",
+  "citation": "4 Cal.3d 130 (1971)",
+  "parallel_citations": ["97 Cal.Rptr. 131", "487 P.2d 1099"],
+  "court": "Supreme Court of California",
+  "date_decided": "1971-08-26",
+  "docket_number": "S.F. 22765",
+  "jurisdiction": "California",
+  "standard_interpreted": "CCP 1094.5(c)",
+  "key_doctrine": "Fundamental vested right doctrine -- independent judgment vs. substantial evidence standard of review",
+  "sources": [
+    {
+      "name": "Casetext",
+      "url": "https://casetext.com/case/bixby-v-pierno"
+    },
+    {
+      "name": "Google Scholar",
+      "url": "https://scholar.google.com/scholar_case?case=11872085013498949498"
+    },
+    {
+      "name": "Westlaw",
+      "url": "https://www.westlaw.com/ (subscription required)"
+    }
+  ],
+  "created_utc": "2026-04-08",
+  "created_by": "Claude (assistant) under steward direction -- Michael Hartmann, Vernen Legal Compliance"
+}

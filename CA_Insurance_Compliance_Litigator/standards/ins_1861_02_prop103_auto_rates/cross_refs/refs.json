@@ -1,0 +1,20 @@
+{
+  "standard_id": "ins_1861_02_prop103_auto_rates",
+  "cross_refs": [
+    {
+      "ref_id": "ins_790_03_unfair_claims_settlement",
+      "path": "${citizens}/CA_Insurance_Compliance_Litigator/standards/ins_790_03_unfair_claims_settlement",
+      "relationship": "Use of unapproved rating criterion under \u00a71861.02(a) = unfair discrimination = \u00a7790.03 unfair practice"
+    },
+    {
+      "ref_id": "veh_11711_motor_vehicle_fraud",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/veh_11711_motor_vehicle_fraud",
+      "relationship": "RedJag forced insurance in yo-yo financing scheme \u2014 vehicle code violations + insurance violations concurrent"
+    },
+    {
+      "ref_id": "ins_bad_faith_brandt_gruenberg",
+      "path": "${citizens}/CA_Insurance_Compliance_Litigator/standards/ins_bad_faith_brandt_gruenberg",
+      "relationship": "If insurer used unapproved Prop. 103 criterion to inflate premiums \u2192 unreasonable pricing \u2192 potential bad faith theory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "standard_id": "CIV_1798_IPA",
+  "cross_references": [
+    {
+      "id": "USC_5_552A_PRIVACY_ACT",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_5_552a_privacy_act/",
+      "relationship": "PARALLEL TRACK — Federal Privacy Act runs against SSA (federal agency); California IPA runs against CDSS/DDS (state agency). Both apply to SSA/DDS disability determination context because DDS is a state agency operating under federal cooperative agreement. File amendment demands under both statutes simultaneously — they are not mutually exclusive. Federal track: civil action in U.S. District Court. State track: civil action in California Superior Court.",
+      "direction": "parallel"
+    },
+    {
+      "id": "BP_2234_MEDICAL_BOARD",
+      "path": "${citizens}/CA_Medical_Malpractice_Litigator/standards/bp_2234_medical_board/",
+      "relationship": "RELATED AGENCY — California Medical Board is a DCA constituent board and a state agency under the IPA. Medical Board records about Michael as a complainant are subject to IPA access rights. However, Medical Board investigative files about physicians are typically exempt from complainant access during active investigations. IPA access rights re-attach to complainant's records (not the physician's investigation file) at any time.",
+      "direction": "related_agency"
+    },
+    {
+      "id": "CCPA",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/civ_1798_100_ccpa/",
+      "relationship": "BOUNDARY — IPA and CCPA are mutually exclusive: IPA governs California state agency records; CCPA governs private business data collection. Do not apply CCPA to state agency claims and do not apply IPA to private entity claims. AT&T (SIM swap), Walgreens (SIRVA), and auto dealers are private businesses = CCPA, not IPA.",
+      "direction": "boundary"
+    },
+    {
+      "id": "CIV_56_CMIA",
+      "path": "${citizens}/CA_Medical_Malpractice_Litigator/standards/civ_56_cmia/",
+      "relationship": "SEQUENTIAL — When a state agency (DDS) receives and maintains medical records from a health care provider, those records are governed by CMIA at the provider level and by IPA at the state agency level. The medical records do not lose IPA protection when held by DDS. Both statutes may apply to the same underlying records — CMIA for the provider's original disclosure, IPA for DDS's maintenance and further disclosure.",
+      "direction": "sequential"
+    }
+  ],
+  "path_anchor": "${citizens}",
+  "build_date": "2026-04-11"
+}

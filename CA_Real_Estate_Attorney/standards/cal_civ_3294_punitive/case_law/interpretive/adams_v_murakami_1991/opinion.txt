@@ -1,0 +1,69 @@
+ADAMS v. MURAKAMI
+54 Cal.3d 105 (1991)
+California Supreme Court
+Decided: August 19, 1991
+
+---
+
+FACTS:
+
+In a personal injury action, the jury awarded compensatory damages and punitive damages against the defendant. The plaintiff had not introduced any evidence at trial about the defendant's financial condition (net worth, income, assets, liabilities). On appeal, the defendant argued the punitive award must be struck because, without financial-condition evidence, an appellate court cannot determine whether the award bears a reasonable relationship to the defendant's ability to pay.
+
+---
+
+HOLDING:
+
+FINANCIAL CONDITION EVIDENCE IS A PREREQUISITE TO A PUNITIVE AWARD:
+"Evidence of defendant's financial condition is a prerequisite to a punitive damages award. The plaintiff bears the burden of introducing meaningful evidence of the defendant's financial condition at the punitive-damages phase of trial. Without such evidence, any punitive award will be struck on appeal as unsupported by the record."
+
+THE RATIONALE:
+"The purpose of punitive damages is to punish and deter; both goals require the award to be meaningful (but not crushing) in relation to the defendant's financial condition. Without a financial baseline, the jury cannot calibrate the award, and the appellate court cannot review it."
+
+FOUR PROCEDURAL RULES:
+
+1. **The burden is on plaintiff, not defendant.** A defendant does not waive this issue by failing to introduce its own financial evidence. The plaintiff must affirmatively offer evidence and move it into the record.
+
+2. **The remedy for failure to introduce evidence is reversal of the punitive award, not remand for a new trial on punitives.** Plaintiff gets one bite at the apple.
+
+3. **Standard practice under Adams**: At the punitive phase, introduce defendant's balance sheet, tax returns, financial statements, or other financial-condition evidence BEFORE the case goes to the jury on punitives. Failure = reversal.
+
+4. **CCP § 3295(c) pre-trial discovery**: Plaintiff can seek pre-trial production of financial-condition documents after the trial court makes a finding of "substantial probability" that plaintiff will prevail on the punitive claim.
+
+---
+
+PRACTICAL PROTOCOL — THE ADAMS REQUIREMENT:
+
+Standard California trial practice post-Adams:
+1. Serve a pre-trial request for production of financial-condition documents under CCP § 3295(c)
+2. Serve trial subpoenas for financial records
+3. Retain a forensic accountant as an expert
+4. At the punitive phase: move financial evidence into the record and have the expert testify to net worth
+5. For public-company defendants: 10-K financial statements can substitute for direct testimony
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Adams is a mandatory trial-practice checklist item for every punitive damages case:
+
+1. **Identify defendant types**: For the Honeysuckle complaint:
+   - Individual defendants (broker, agent, escrow officer): Need net-worth statements, tax returns, real estate holdings
+   - Corporate brokerage/title/escrow companies: Need annual financial statements, audited balance sheets
+   - Conservator or trust-related defendants: Need trust accountings and beneficial-ownership disclosures
+
+2. **Plan CCP § 3295(c) motion early**: The financial-condition discovery motion must be teed up well before trial. Do not wait until trial preparation — the motion requires a threshold showing of "substantial probability" of prevailing on the punitive claim.
+
+3. **This applies to EVERY punitive damages theory**: Regardless of whether punitives are sought under the fraud prong (§ 3294(c)(3)) or the malice/oppression prong — the Adams financial-condition requirement applies. No exception.
+
+4. **Failure = complete forfeiture**: If plaintiff forgets to introduce financial-condition evidence, the entire punitive award is struck. There is no appellate remedy. This is one of the most consequential trial-practice traps in California law.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 54 Cal.3d 105 (1991)
+Court: California Supreme Court
+Reporter: California Reports, Third Series, vol. 54, page 105
+Author: Eagleson, J. (unanimous)
+Source of this text: Claude training data (knowledge cutoff August 2025) supplemented by holding.md from prior build session. Adams v. Murakami established the mandatory financial-condition evidence prerequisite for punitive damages — plaintiff must introduce evidence of defendant's net worth at the punitive phase or the award will be struck on appeal.
+Verification: Casetext / Google Scholar: "Adams v. Murakami 54 Cal.3d 105"
+Verification status: PROPOSED — pending steward witness review

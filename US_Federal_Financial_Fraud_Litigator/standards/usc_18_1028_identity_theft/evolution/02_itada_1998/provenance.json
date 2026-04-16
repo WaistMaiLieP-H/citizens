@@ -1,0 +1,17 @@
+{
+  "stage": "02_itada_1998",
+  "enactment": "Identity Theft and Assumption Deterrence Act of 1998 (ITADA)",
+  "public_law": "Pub. L. 105-318",
+  "statutes_at_large": "112 Stat. 3007",
+  "effective_date": "1998-10-30",
+  "signing_president": "William J. Clinton",
+  "legislative_session": "105th Congress",
+  "primary_source_citations": [
+    "Pub. L. 105-318, 112 Stat. 3007",
+    "18 USC §1028(a)(7) (added)",
+    "18 USC §1028(d) (means of identification definition added)"
+  ],
+  "doctrinal_framework": "Data-centric expansion: adds 'means of identification' concept, adds subsection (a)(7) core identity theft prohibition, treats individual victims as statutory victims for the first time",
+  "verification_status": "PENDING primary-source PDF capture",
+  "retrieval_steward": "Claude (assistant)"
+}

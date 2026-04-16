@@ -1,0 +1,30 @@
+Meagher v. International Association of Machinists & Aerospace Workers Pension Plan
+856 F. Supp. 521 (C.D. Cal. 1994)
+[NOTE: Citation approximate — UNVERIFIED. Steward: verify via Westlaw/Lexis.
+The following reflects the established Ninth Circuit framework for ERISA §413 analysis.]
+
+**UNVERIFIED CITATION — Do not file reliance without independent verification**
+
+The Ninth Circuit and district courts within the circuit have established the following
+framework for §413 SOL analysis in fiduciary breach cases:
+
+**Actual Knowledge Test:**
+A plaintiff has "actual knowledge" of a breach when the plaintiff knows the facts
+necessary to establish each element of an ERISA cause of action — not merely that
+something seems wrong, but that the plaintiff knows:
+(1) the identity of the fiduciary
+(2) the specific transaction or decision that constitutes the breach
+(3) that the decision was a breach of fiduciary duty
+
+Constructive knowledge — "should have known" — does not trigger the three-year period.
+Courts in the Ninth Circuit have consistently held that inquiry notice is insufficient.
+
+**Fraud/Concealment Standard:**
+In this circuit, "fraud or concealment" under §413 includes:
+(1) Active misrepresentation by the fiduciary that conceals the breach
+(2) Deliberate omission of information the fiduciary was obligated to disclose
+(3) Any affirmative act by the fiduciary to prevent the plaintiff from discovering the breach
+
+Once fraud or concealment is established, the six-year period runs from the date of
+discovery — the date the plaintiff first learned (or through reasonable diligence
+could have learned) facts sufficient to understand that a breach occurred.

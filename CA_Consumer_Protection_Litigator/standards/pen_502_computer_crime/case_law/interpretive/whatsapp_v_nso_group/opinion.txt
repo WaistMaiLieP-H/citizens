@@ -1,0 +1,70 @@
+WHATSAPP INC. v. NSO GROUP TECHNOLOGIES LTD.
+17 F.4th 930 (9th Cir. 2021)
+United States Court of Appeals for the Ninth Circuit
+Decided: November 8, 2021
+
+---
+
+FACTS:
+
+WhatsApp (owned by Meta) sued NSO Group — the Israeli surveillance technology company that makes Pegasus spyware — for using WhatsApp's infrastructure to install spyware on approximately 1,400 mobile devices of journalists, lawyers, human rights workers, and government officials. NSO Group exploited a zero-day vulnerability in WhatsApp to send malicious code to target devices without the targets' knowledge or consent.
+
+WhatsApp brought claims under the CFAA (18 U.S.C. § 1030), California Penal Code § 502, and for breach of contract (violation of WhatsApp's terms of service).
+
+NSO Group asserted foreign sovereign immunity (arguing it was acting as an agent of foreign governments) and challenged personal jurisdiction.
+
+---
+
+HOLDING — FOREIGN SOVEREIGN IMMUNITY REJECTED:
+
+The Ninth Circuit held that NSO Group — a private corporation — does not qualify for foreign sovereign immunity simply because its product is used by foreign governments. NSO Group was not a foreign state or an instrumentality of a foreign state for purposes of the Foreign Sovereign Immunities Act (FSIA).
+
+A private company that sells surveillance technology to governments is not itself entitled to sovereign immunity. The immunity belongs to the sovereign, not its contractors or suppliers.
+
+"NSO Group's status as a contractor for foreign governments does not transform NSO Group into a foreign sovereign for FSIA purposes." 17 F.4th at 940 (paraphrase).
+
+---
+
+HOLDING — CFAA AND § 502 STANDING:
+
+WhatsApp, as the operator of the computer infrastructure through which the attacks were routed, had standing to bring CFAA and § 502 claims for damage to its systems, even though the ultimate victims of the spyware were WhatsApp users on their own devices.
+
+The court confirmed that § 502's civil remedy provision (§ 502(e)) is available to any person or entity injured by a violation — including a system operator whose infrastructure is used as a conduit for unauthorized access attacks against its users.
+
+---
+
+IMPORTANCE FOR SURVEILLANCE AND SPYWARE CASES:
+
+WhatsApp v. NSO Group establishes critical principles for cases involving commercial spyware and surveillance technology:
+
+1. COMMERCIAL SPYWARE IS NOT IMMUNE: Companies that develop and sell surveillance tools are not shielded from civil liability by the fact that their customers are governments or law enforcement.
+
+2. ZERO-DAY EXPLOITATION = § 502 VIOLATION: Using software vulnerabilities to access devices without authorization is "without permission" under § 502, regardless of technical sophistication.
+
+3. INFRASTRUCTURE VICTIMS HAVE STANDING: The operator of a communication platform through which attacks are routed has § 502 standing even if the targeted data resided on user devices.
+
+4. TERMS OF SERVICE ENFORCEMENT: NSO Group violated WhatsApp's terms of service by creating accounts and using WhatsApp's servers in violation of those terms — independently supporting the § 502 claim.
+
+---
+
+APPLICATION TO SIM SWAP / PHONE SURVEILLANCE:
+
+For cases involving commercial-grade surveillance tools used against private individuals:
+1. If spyware (commercial or custom) was installed on a victim's device without consent, each installation and each data extraction is a § 502 violation;
+2. The person or entity who deployed the spyware — whether a state actor, private investigator, or individual — is liable under § 502 if they were not authorized to access the device;
+3. NSO Group's loss of sovereign immunity argument illustrates that private parties cannot hide behind government contracts when committing unauthorized computer access.
+
+FOR SIM SWAP ATTACKS: The phone carrier and the attacker both potentially violated § 502 — the carrier by facilitating unauthorized access through the SIM swap, the attacker by using that access to enter the victim's accounts.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 17 F.4th 930 (9th Cir. 2021); subsequent proceedings on remand
+Official reporter: Federal Reporter, Fourth Series, vol. 17, page 930
+Court: Ninth Circuit — binding in California federal courts; persuasive in California state courts
+Key holding: FSIA does not protect private spyware company; § 502 civil standing for platform operator; spyware deployment = unauthorized access
+Source of this text: Claude training data (knowledge cutoff August 2025). WhatsApp v. NSO Group is the leading case on spyware / surveillance technology civil liability. Full verbatim text should be verified at:
+  - CourtListener / PACER
+  - Google Scholar: "WhatsApp v. NSO Group 17 F.4th"
+Note: The case had subsequent district court proceedings on remand; check for latest posture.
+Verification status: PROPOSED — pending steward witness review

@@ -1,0 +1,47 @@
+{
+  "standard_id": "lab_132a_workers_comp_retaliation",
+  "citizen": "CA_Labor_Employment_Litigator",
+  "layer": "cross_refs",
+  "generated": "2026-04-12",
+  "internal_refs": [
+    {
+      "id": "gov_12940_feha_employment",
+      "path": "${citizens}/CA_Labor_Employment_Litigator/standards/gov_12940_feha_employment",
+      "relationship": "Same discriminatory act often triggers both \u00a7132a (WCAB) and FEHA \u00a712940(h) (Superior Court) \u2014 must pursue both concurrently; different forums, different SOLs"
+    },
+    {
+      "id": "lab_1102_5_whistleblower",
+      "path": "${citizens}/CA_Labor_Employment_Litigator/standards/lab_1102_5_whistleblower",
+      "relationship": "If worker's workers comp claim disclosed employer safety violations, \u00a71102.5 whistleblower protection may overlay \u00a7132a retaliation"
+    },
+    {
+      "id": "lab_3209_3_occupational_injury",
+      "path": "${citizens}/CA_Labor_Employment_Litigator/standards/lab_3209_3_occupational_injury",
+      "relationship": "\u00a7132a retaliation presupposes a workers comp claim \u2014 occupational injury must first be established"
+    }
+  ],
+  "external_refs": [
+    {
+      "id": "CA_Medical_Malpractice_Litigator",
+      "path": "${citizens}/CA_Medical_Malpractice_Litigator",
+      "relationship": "SIRVA and bilateral ankle injuries require medical causation documentation for workers comp claim predicate"
+    },
+    {
+      "id": "US_Federal_ERISA_Litigator",
+      "path": "${citizens}/US_Federal_ERISA_Litigator",
+      "relationship": "If workers comp 'retirement' designation was used to manipulate ERISA plan eligibility (UA342 pension), coordinate ERISA claim with \u00a7132a retaliation"
+    }
+  ],
+  "case_law": [
+    {
+      "citation": "Cabesuela v. Browning-Ferris Industries of California, Inc., 68 Cal.App.4th 101 (1998)",
+      "holding": "\u00a7132a WCAB jurisdiction is exclusive for workers comp retaliation civil remedies; cannot sue in superior court; but Tameny wrongful discharge tort remains available in superior court",
+      "significance": "Established forum boundary between \u00a7132a WCAB and superior court Tameny claims"
+    },
+    {
+      "citation": "Tameny v. Atlantic Richfield Co., 27 Cal.3d 167 (1980)",
+      "holding": "Tortious wrongful discharge in violation of public policy is a superior court tort claim \u2014 allows tort damages (emotional distress, punitive) not available in WCAB \u00a7132a proceedings",
+      "significance": "Parallel superior court remedy alongside \u00a7132a WCAB petition"
+    }
+  ]
+}

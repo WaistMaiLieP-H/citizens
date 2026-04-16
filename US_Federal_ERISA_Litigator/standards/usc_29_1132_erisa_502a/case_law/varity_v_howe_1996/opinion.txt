@@ -1,0 +1,31 @@
+Varity Corp. v. Howe
+516 U.S. 489 (1996)
+United States Supreme Court
+
+JUSTICE BREYER delivered the opinion of the Court.
+
+Varity Corporation was the successor to Massey-Ferguson, Inc. Varity created a
+subsidiary, Massey Combines Corporation (MCC), and transferred employees and their
+benefit plans to MCC. Varity told the employees that their benefits were secure
+under MCC. This was false. MCC failed. The employees lost their benefits.
+
+Plaintiffs brought suit under §502(a)(3) seeking "other appropriate equitable relief"
+for breach of fiduciary duty under ERISA §404.
+
+The question: Can individual plan beneficiaries sue under §502(a)(3) for individual
+equitable relief when they have suffered individual losses from a fiduciary's breach?
+
+HELD: Yes. Section 502(a)(3) authorizes individual beneficiaries to sue for
+equitable relief when other §502(a) subsections do not provide an adequate remedy.
+
+Section 502(a)(3) is a "catch-all" that provides relief for injuries not covered by
+other subsections. Where a plaintiff cannot recover under §502(a)(1)(B) (because,
+e.g., no benefits are "due under the plan"), §502(a)(3) fills the gap.
+
+The Court emphasized that §502(a)(3)'s reference to "appropriate equitable relief"
+must be read in light of traditional equity — the relief must be equitable in nature.
+This means injunctions, restitution, account of profits, reformation of instruments,
+constructive trusts — but not compensatory or punitive damages (see Mertens).
+
+Varity established that individual plan beneficiaries are proper plaintiffs under
+§502(a)(3) — not just the plan itself — where fiduciary breach caused individual harm.

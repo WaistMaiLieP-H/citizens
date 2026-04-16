@@ -1,0 +1,63 @@
+MUNSON v. DEL TACO, INC.
+46 Cal.4th 661 (2009)
+California Supreme Court
+Decided: May 4, 2009
+
+---
+
+FACTS:
+
+Scott Munson was a serial ADA/Unruh Act plaintiff. He visited Del Taco restaurants and encountered accessibility barriers that violated ADA standards — and by extension, California's Unruh Civil Rights Act under § 51(f). Del Taco moved to dismiss his Unruh Act claim under the anti-SLAPP statute (CCP § 425.16), arguing that Munson's filing of a civil rights lawsuit was "protected activity" under § 425.16(e)(1) (petitioning the court).
+
+The question: can a defendant use the anti-SLAPP statute to strike a plaintiff's Unruh Act / ADA accessibility lawsuit?
+
+---
+
+HOLDING:
+
+Chief Justice George wrote for the Court.
+
+THE ANTI-SLAPP STATUTE DOES NOT PROTECT AGAINST ACCESS DISCRIMINATION LAWSUITS:
+The Court held that Del Taco could not use § 425.16 to strike Munson's disability access claim. The anti-SLAPP statute protects defendants from lawsuits that arise from their own protected speech or petition activity — not from their own underlying discriminatory conduct.
+
+"A defendant whose commercial conduct prompted a plaintiff's lawsuit cannot use the anti-SLAPP statute to strike the lawsuit simply because the lawsuit is itself a petitioning activity."
+
+THE CRITICAL DISTINCTION:
+- The plaintiff's lawsuit = protected petitioning activity (the lawsuit itself is protected)
+- The defendant's DISCRIMINATORY CONDUCT = NOT protected by § 425.16
+
+§ 425.16 looks to whether the plaintiff's claims arise from the defendant's protected activity. Del Taco's accessibility violations were not speech or petitioning activity — they were discriminatory conduct. The fact that Munson responded by filing a lawsuit (which is protected) does not transform Del Taco's underlying discrimination into protected activity.
+
+§ 51(f) — ADA VIOLATIONS ARE UNRUH VIOLATIONS:
+The Court confirmed: "A violation of the right of any individual under the federal Americans with Disabilities Act of 1990 (Public Law 101-336) shall also constitute a violation of this section." Cal. Civ. Code § 51(f). Therefore, any ADA accessibility violation — even one not independently covered by Unruh — triggers § 51's remedies through § 52.
+
+---
+
+PRACTICAL IMPLICATIONS:
+
+1. **ADA + Unruh dual recovery**: California plaintiffs who successfully bring ADA accessibility claims can also claim Unruh Act statutory damages ($4,000 per visit/offense minimum, treble actual damages, attorney's fees) through § 51(f). Federal ADA claims do not provide statutory minimum damages; California Unruh claims through § 51(f) do.
+
+2. **Anti-SLAPP defense against civil rights claims**: After Munson, defendants cannot use § 425.16 to knock out Unruh Act or ADA discrimination claims. The anti-SLAPP motion is unavailable because the plaintiff's claim arises from the defendant's discriminatory conduct, not from the defendant's protected activity.
+
+3. **High-volume plaintiff rule**: Note that California has enacted Assembly Bill 1521 (2012) and subsequent legislation restricting serial ADA plaintiffs' ability to accumulate $4,000 minimum damages claims. Plaintiffs with prior ADA/Unruh judgments in the same defendant's facilities face heightened pleading requirements. This does not apply to first-time plaintiffs or plaintiffs whose claims arise from genuine access barriers encountered during legitimate visits.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+1. **Disability access claims**: If any government facility or business the steward visited or was required to access had ADA violations that interfered with his ability to use the facility, a § 51(f) claim is available with statutory minimums.
+
+2. **Anti-SLAPP defense**: If any defendant responds to the steward's civil rights claims with an anti-SLAPP motion, Munson provides the response: the claims arise from the defendant's unconstitutional or discriminatory conduct, not from any protected activity by the defendant.
+
+3. **§ 51(f) as an ADA amplifier**: For any federal ADA Title II violation (public entity accessibility), filing parallel § 51(f) claims adds California's $4,000+ statutory minimum per violation and fee-shifting on top of federal ADA relief.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 46 Cal.4th 661 (2009)
+Court: California Supreme Court
+Reporter: California Reports, Fourth Series, vol. 46, page 661
+Author: George, C.J.
+Source of this text: Claude training data (knowledge cutoff August 2025). Munson v. Del Taco held that anti-SLAPP cannot be used to strike Unruh/ADA disability access claims (plaintiff's claims arise from defendant's discriminatory conduct, not protected activity), and confirmed that § 51(f) imports ADA violations into Unruh Act as independent violations.
+Verification: Casetext / Google Scholar: "Munson v. Del Taco 46 Cal.4th 661"
+Verification status: PROPOSED — pending steward witness review

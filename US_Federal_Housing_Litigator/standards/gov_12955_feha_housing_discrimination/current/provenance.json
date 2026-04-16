@@ -1,0 +1,19 @@
+{
+  "standard": "gov_12955_feha_housing_discrimination",
+  "layer": "current",
+  "source": "VernenLegal MCP — mcp__claude_ai_VernenLegal__california_get_section",
+  "code": "GOV",
+  "section": "12955",
+  "fetch_date": "2026-04-13",
+  "verified": true,
+  "verification_method": "Live fetch from leginfo.legislature.ca.gov via VernenLegal MCP tool",
+  "sha256_partial": "COMPUTE_AT_SNAPSHOT",
+  "notes": [
+    "Full text fetched live 2026-04-13; all 16 subdivisions (a)-(p) present",
+    "No amendment dates returned by MCP tool — verify current amendment year at leginfo.legislature.ca.gov if needed",
+    "§12955(d) cross-references CIV §51 — verify §51 text in CA_Civil_Rights_Litigator corpus",
+    "§12955(p)(1) references 42 USC §1437f (Section 8) — federal cross-reference"
+  ],
+  "built_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "built_at_utc": "2026-04-13T00:00:00Z"
+}

@@ -1,0 +1,8 @@
+{
+  "source": "leginfo.legislature.ca.gov",
+  "fetch_tool": "mcp__claude_ai_VernenLegal__california_get_section",
+  "fetch_date": "2026-04-13",
+  "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=5350.&lawCode=WIC",
+  "verified": true,
+  "retrieval_steward": "Michael Hartmann"
+}

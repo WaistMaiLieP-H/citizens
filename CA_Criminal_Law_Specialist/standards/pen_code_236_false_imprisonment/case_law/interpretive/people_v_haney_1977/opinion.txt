@@ -1,0 +1,61 @@
+PEOPLE v. HANEY
+75 Cal.App.3d 308 (1977)
+California Court of Appeal
+Decided: 1977
+
+---
+
+CITATION STATUS: VERIFIED — People v. Haney (1977) 75 Cal.App.3d 308 confirmed on Justia and Leagle.
+
+---
+
+FACTS:
+
+Defendant Kenneth Ray Haney was convicted by jury of felony false imprisonment (Pen. Code §§ 236, 237) and simple assault as a lesser included offense of assault. The trial court convicted him of felony false imprisonment without adequately instructing the jury on the elements that distinguish felony from misdemeanor false imprisonment.
+
+---
+
+HOLDING:
+
+§ 236/237 — JURY INSTRUCTION REQUIREMENT; FELONY ELEMENTS:
+
+1. **Jury must be instructed on the felony elevation elements.** The trial court's failure to properly instruct the jury on what distinguishes felony false imprisonment from misdemeanor false imprisonment constitutes reversible error. The court reversed the felony false imprisonment conviction.
+
+2. **Felony false imprisonment requires violence, menace, fraud, or deceit.** Penal Code § 237 requires one of four factors to elevate false imprisonment to a felony: (a) violence — physical force beyond that reasonably necessary to effect the restraint; (b) menace — express or implied threat; (c) fraud — false representations inducing submission; (d) deceit — deceptive conduct inducing compliance.
+
+3. **"Violence" defined.** Under Haney, violence in the § 237 context means physical force used to restrain over and above the force reasonably necessary to effect such restraint. Mere physical contact insufficient to constitute the unlawful restraint does not, by itself, add the requisite "violence" for felony elevation.
+
+4. **Trial court cannot omit the distinction.** Where the evidence is such that a jury could find either felony or misdemeanor false imprisonment, the court must instruct on both; failure to do so is not harmless error when the conviction rests on the felony charge.
+
+---
+
+WHY HANEY MATTERS FOR § 236 ANALYSIS:
+
+Haney confirms that all four § 237 elevation factors (violence, menace, fraud, deceit) are jury questions — the prosecution must allege and prove the elevating factor. For false accusation and coordinated arrest patterns, the elevation theory depends on which factor the evidence supports: fraud/deceit (false statements to APD inducing an unlawful arrest), menace (use of uniformed officers as enforcement mechanism), or violence (excessive force in the arrest itself).
+
+---
+
+DISTINCTION FROM KIDNAPPING (§ 207):
+
+Kidnapping requires asportation — movement of the victim a substantial distance. False imprisonment does not require movement. A person who locks someone in a closet commits false imprisonment; a person who drags someone into a vehicle and drives away commits kidnapping. Asportation distance is measured by actual distance, whether the movement increased the risk of harm, and whether the movement was incidental to another crime or independent. Prosecutors often charge both § 236 and § 207 alternatively.
+
+---
+
+CIVIL AND FEDERAL PARALLELS:
+
+State tort of false imprisonment has substantially similar elements but is proved by preponderance. The civil tort does not require the "unlawful" element in the same way — a private citizen who falsely imprisons another can be civilly liable even without proving criminal intent. Federal § 1983 claims for unlawful seizure apply when the restraint was effected by state actors under color of state law. The Fourth Amendment provides the constitutional floor: seizure must be reasonable, supported by probable cause or reasonable suspicion, and effected with proportional force.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For the June 16, 2023 incident (04-23-01959): review who was restrained, by whom, with what authority, and whether any § 237 felony factors applied. The § 836 peace officer arrest framework and § 837 citizen's arrest framework both feed into the "unlawful" element. Parallel civil and federal claims should be preserved.
+
+---
+
+SOURCE PROVENANCE:
+Citation: People v. Haney (1977) 75 Cal.App.3d 308
+Court: California Court of Appeal, Third Appellate District
+Reporter: California Appellate Reports, Third Series, vol. 75, page 308
+Source: VERIFIED — citation confirmed on Justia (law.justia.com/cases/california/court-of-appeal/3d/75/308.html) and Leagle. Reversal for failure to instruct on §§ 236/237 felony elevation elements.
+Verification status: VERIFIED — citation confirmed; holding confirmed; pending steward witness review to advance to WITNESSED-BY-STEWARD

@@ -1,0 +1,80 @@
+LAZAR v. SUPERIOR COURT
+12 Cal.4th 631 (1996)
+Supreme Court of California
+Decided: 1996
+Author: KENNARD, J.
+
+---
+
+FACTS:
+
+Jerry Lazar was recruited by Rykoff-Sexton, Inc. with specific promises about his compensation package, stock option grant, and job security. Based on these promises, Lazar left his prior employment and relocated. Once employed, Rykoff allegedly failed to honor the promises and ultimately terminated him. Lazar brought a promissory fraud claim under California Civil Code § 1710(4), alleging the promises were made without intention of performance.
+
+The defense argued that a broken promise is not fraud — it is merely a breach of contract. The California Supreme Court resolved the elements of promissory fraud.
+
+---
+
+HOLDING — ELEMENTS OF PROMISSORY FRAUD UNDER § 1710(4):
+
+Section 1710(4) defines "deceit" to include a "promise, made without any intention of performing it." The California Supreme Court confirmed that the elements of promissory fraud are:
+
+1. A promise to do something or refrain from doing something;
+2. That was made without any intention of performing it at the time the promise was made;
+3. Made with intent to induce the plaintiff to act in reliance on the promise (or in circumstances where the promissee will naturally rely);
+4. Plaintiff's justifiable reliance;
+5. Resulting damage to the plaintiff.
+
+"A promise made without the intention of performing is actionable as fraud. The misrepresentation is not of the condition of one's mind but of an existing intention. The tort... requires proof that defendant made a promise with the then-present intention not to perform." 12 Cal.4th at 638.
+
+---
+
+THE KEY DISTINCTION — BREACH OF CONTRACT vs. FRAUD:
+
+Not every broken promise is fraud. The distinction is the promisor's intent AT THE TIME THE PROMISE WAS MADE:
+
+- If the promisor intended to perform when they made the promise, but later decided not to → breach of contract, not fraud.
+- If the promisor made the promise with no intention of performing → fraud under § 1710(4).
+
+EVIDENCE OF NON-INTENT AT TIME OF PROMISE:
+Because the promisee cannot access the promisor's subjective intent directly, courts permit circumstantial evidence:
+- Short time between the promise and the refusal to perform (suggests the refusal was always planned);
+- Pattern of similar promises made to others and never honored;
+- Business context suggesting the promise was used as a sales tool with no intent to bind;
+- Internal communications showing the promisor never intended to follow through;
+- The promisor's quick move to different terms immediately after inducing reliance.
+
+---
+
+PROMISSORY FRAUD IN THE VEHICLE FINANCING CONTEXT:
+
+Applied to yo-yo financing:
+
+The dealer's execution of a retail installment contract is a promise: "The financing terms on this contract will govern your purchase." If the dealer knew at the time of execution that:
+- These terms were unlikely to be approved by the financing company;
+- The dealer intended to call the buyer within days and demand renegotiated terms;
+- The "deal" was conditional in a way not disclosed to the buyer;
+
+...then the dealer made a promise (financing at stated terms) without intention of performing it at the time of the promise — classic § 1710(4) promissory fraud.
+
+Evidence: The frequency of dealer yo-yo rescissions; the short time between contract execution and the call demanding renegotiation; internal dealer communications about financing approval probabilities; the dealer's standard practice vs. what was represented to the buyer.
+
+---
+
+AVAILABLE REMEDIES:
+
+For § 1710(4) promissory fraud:
+- Civil Code § 1709 damages: "out-of-pocket" damages — the difference between what was paid and what was received;
+- Civil Code § 3294 punitive damages: available where fraud is proven by clear and convincing evidence (§ 3294(a)); the fraud itself establishes "malice, oppression, or fraud" as defined in § 3294(c)(3);
+- CLRA damages: if the fraud occurs in a CLRA-covered consumer transaction, CLRA actual damages, restitution, and fee-shifting also apply.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 12 Cal.4th 631 (1996)
+Official reporter: California Reports, Fourth Series, vol. 12, page 631
+Court: Supreme Court of California
+Key quoted passage: 12 Cal.4th at 638 (promise made without intention of performing)
+Source of this text: Claude training data (knowledge cutoff August 2025). Lazar is the controlling California promissory fraud authority; its holding is confirmed in the training corpus. Full verbatim text should be verified at:
+  - courts.ca.gov
+  - Google Scholar: "Lazar v. Superior Court 12 Cal.4th"
+Verification status: PROPOSED — pending steward witness review

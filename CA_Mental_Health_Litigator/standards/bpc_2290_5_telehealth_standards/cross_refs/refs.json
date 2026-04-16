@@ -1,0 +1,37 @@
+{
+  "standard_id": "bpc_2290_5_telehealth_standards",
+  "citizen": "CA_Mental_Health_Litigator",
+  "layer": "cross_refs",
+  "generated": "2026-04-12",
+  "internal_refs": [
+    {
+      "id": "pen_1369_competency_hearing",
+      "path": "${citizens}/CA_Mental_Health_Litigator/standards/pen_1369_competency_hearing",
+      "relationship": "\u00a72290.5(g) preserves all \u00a71369 professional standards in telehealth context \u2014 no relaxation for remote forensic evaluations"
+    },
+    {
+      "id": "evid_1016_psychotherapist_privilege",
+      "path": "${citizens}/CA_Mental_Health_Litigator/standards/evid_1016_psychotherapist_privilege",
+      "relationship": "\u00a72290.5(f) expressly applies all confidentiality laws including psychotherapist-patient privilege to telehealth interactions"
+    }
+  ],
+  "external_refs": [
+    {
+      "id": "CA_Medical_Privacy_Officer",
+      "path": "${citizens}/CA_Medical_Privacy_Officer",
+      "relationship": "\u00a72290.5(f) CMIA and HIPAA apply to telehealth \u2014 Medical Privacy Citizen owns those standards; cross-reference for full confidentiality analysis of Dr. Wiita records"
+    },
+    {
+      "id": "Medical Board of California",
+      "path": "External \u2014 medbd.ca.gov",
+      "relationship": "BPC \u00a72290.5(d) unprofessional conduct is reportable to Medical Board; CA license verification tool is at search.dca.ca.gov"
+    }
+  ],
+  "case_law": [
+    {
+      "citation": "BPC \u00a72052 \u2014 California Medical Practice Act",
+      "holding": "Unlawful to practice medicine in California without a California license; applies regardless of where the physician is physically located",
+      "significance": "The licensure wall that \u00a72290.5(e) preserves; no telehealth exception"
+    }
+  ]
+}

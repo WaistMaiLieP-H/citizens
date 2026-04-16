@@ -1,0 +1,101 @@
+18 U.S.C. § 2511. Interception and disclosure of wire, oral, or electronic communications prohibited
+
+(1) Except as otherwise specifically provided in this chapter any person who—
+
+(a) intentionally intercepts, endeavors to intercept, or procures any other person to intercept or endeavor to intercept, any wire, oral, or electronic communication;
+
+(b) intentionally uses, endeavors to use, or procures any other person to use or endeavor to use any electronic, mechanical, or other device to intercept any oral communication when—
+
+(i) such device is affixed to, or otherwise transmits a signal through, a wire, cable, or other like connection used in wire communication; or
+
+(ii) such device transmits communications by radio, or interferes with the transmission of such communication; or
+
+(iii) such person knows, or has reason to know, that such device or any component thereof has been sent through the mail or transported in interstate or foreign commerce; or
+
+(iv) such use or endeavor to use (A) takes place on the premises of any business or other commercial establishment the operations of which affect interstate or foreign commerce; or (B) obtains or is for the purpose of obtaining information relating to the operations of any business or other commercial establishment the operations of which affect interstate or foreign commerce; or
+
+(v) such person acts in the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States;
+
+(c) intentionally discloses, or endeavors to disclose, to any other person the contents of any wire, oral, or electronic communication, knowing or having reason to know that the information was obtained through the interception of a wire, oral, or electronic communication in violation of this subsection;
+
+(d) intentionally uses, or endeavors to use, the contents of any wire, oral, or electronic communication, knowing or having reason to know that the information was obtained through the interception of a wire, oral, or electronic communication in violation of this subsection; or
+
+(e)(i) intentionally discloses, or endeavors to disclose, to any other person the contents of any wire, oral, or electronic communication, intercepted by means authorized by sections 2511(2)(a)(ii), 2511(2)(b)–(c), 2511(2)(e), 2516, and 2518 of this chapter, (ii) knowing or having reason to know that the information was obtained through the interception of such a communication in connection with a criminal investigation, (iii) having obtained or received the information in connection with a criminal investigation, and (iv) with intent to improperly obstruct, impede, or interfere with a duly authorized criminal investigation,
+
+shall be punished as provided in subsection (4) or shall be subject to suit as provided in subsection (5).
+
+---
+
+18 U.S.C. § 2520. Recovery of civil damages authorized
+
+(a) In General.—Except as provided in section 2511(2)(a)(ii), any person whose wire, oral, or electronic communication is intercepted, disclosed, or intentionally used in violation of this chapter may in a civil action recover from the person or entity, other than the United States, which engaged in that violation such relief as may be appropriate.
+
+(b) Relief.—In an action under this section, appropriate relief includes—
+
+(1) such preliminary and other equitable or declaratory relief as may be appropriate;
+
+(2) damages under subsection (c) and punitive damages in appropriate cases; and
+
+(3) a reasonable attorney's fee and other litigation costs reasonably incurred.
+
+(c) Computation of Damages.—(1) In an action under this section, if the conduct in violation of this chapter is the private viewing of a private satellite video communication that is not scrambled or encrypted or if the communication is a radio communication that is transmitted on frequencies allocated under subpart D of part 74 of the rules of the Federal Communications Commission that is not scrambled or encrypted and the conduct is not for a tortious or illegal purpose or for purposes of direct or indirect commercial advantage or private commercial gain, then the court shall assess damages as follows:
+
+(A) If the person who engaged in that conduct has not previously been enjoined under section 2511(5) and has not been found liable in a prior civil action under this section, the court shall assess the greater of the sum of actual damages suffered by the plaintiff, or statutory damages of not less than $50 and not more than $500.
+
+(B) If, on one prior occasion, the person who engaged in that conduct has been enjoined under section 2511(5) or has been found liability in a prior civil action under this section, the court shall assess the greater of the sum of actual damages suffered by the plaintiff, or statutory damages of not less than $100 and not more than $1000.
+
+(2) In any other action under this section, the court may assess as damages whichever is the greater of—
+
+(A) the sum of the actual damages suffered by the plaintiff and any profits made by the violator as a result of the violation; or
+
+(B) statutory damages of whichever is the greater of $100 a day for each day of violation or $10,000.
+
+(d) Defense.—A good faith reliance on—
+
+(1) a court warrant or order, a grand jury subpoena, a legislative authorization, or a statutory authorization;
+
+(2) a request of an investigative or law enforcement officer under section 2518(7) of this title; or
+
+(3) a good faith determination that section 2511(3), 2511(2)(i), or 2511(2)(j) of this title permitted the conduct complained of;
+
+is a complete defense against any civil or criminal action brought under this chapter or any other law.
+
+(e) Limitation.—A civil action under this section may not be commenced later than two years after the date upon which the claimant first has a reasonable opportunity to discover the violation.
+
+(f) Administrative Discipline.—If a court or appropriate department or agency determines that the United States or any of its departments or agencies has violated any provision of this chapter, and the court or appropriate department or agency finds that the circumstances surrounding the violation raise serious questions about whether or not an officer or employee of the United States acted willfully or intentionally with respect to the violation, the department or agency shall, upon receipt of a true and correct copy of the decision and findings of the court or appropriate department or agency promptly initiate a proceeding to determine whether disciplinary action against the officer or employee is warranted. If the head of the department or agency involved determines that disciplinary action is not warranted, he or she shall notify the Inspector General with jurisdiction over the department or agency concerned and shall provide the Inspector General with the reasons for such determination.
+
+(g) Improper Disclosure Is Violation.—Any willful disclosure or use by an investigative or law enforcement officer or governmental entity of information beyond the extent permitted by section 2517 is a violation of this chapter for purposes of section 2520(a).
+
+---
+
+18 U.S.C. § 2511(2) — Exceptions and Exemptions (confirmed from Cornell LII 2026-04-12):
+
+(2)(a)(i) — Intercept not unlawful where communication service provider intercepts in the normal course of employment while engaged in activities necessary to provide the service, or to protect provider's rights or property.
+
+(2)(a)(ii) — Provider may divulge contents of communication to a law enforcement officer where provider reasonably believes an emergency involving danger of death or serious physical injury requires disclosure without delay.
+
+(2)(b) — It shall not be unlawful for an officer, employee, or agent of the FCC to intercept a wire or electronic communication while engaged in necessary monitoring activities.
+
+(2)(c) — It shall not be unlawful for a person acting under color of law to intercept a wire, oral, or electronic communication, where such person is a party to the communication OR where one of the parties to the communication has given prior consent to such interception — UNLESS interception is for the purpose of committing any criminal or tortious act in violation of the Constitution or laws of the United States or of any State.
+
+(2)(d) — It shall not be unlawful under this chapter for a person NOT acting under color of law to intercept a wire, oral, or electronic communication where such person is a party to the communication OR where one of the parties to the communication has given prior consent to such interception — UNLESS such communication is intercepted for the purpose of committing any criminal or tortious act in violation of the Constitution or laws of the United States or of any State.
+
+CRITICAL — CRIMINAL PURPOSE EXCEPTION: The consent exceptions in (2)(c) and (2)(d) do NOT apply when interception is for the purpose of committing a criminal or tortious act. SIM swap perpetrators who intercept communications to commit identity theft, fraud, or stalking cannot claim consent-party exception — the interception itself serves a criminal/tortious purpose.
+
+(2)(e) — No liability for FISA-authorized electronic surveillance.
+
+(2)(f) — No liability for interception of readily accessible radio communications.
+
+(2)(g) — No liability for a person who is authorized by law to conduct electronic surveillance.
+
+(2)(h) — No liability for interception with the authorization of a communications service provider to protect computer system from unauthorized use.
+
+(2)(i) — Pen registers/trap-and-trace devices excluded from chapter.
+
+SOURCE: Cornell LII retrieval 2026-04-12 — https://www.law.cornell.edu/uscode/text/18/2511
+FLAG RESOLVED — 2026-04-12. For verbatim quotation in filed documents, confirm from uscode.house.gov.
+SOURCE: Office of the Law Revision Counsel — uscode.house.gov
+URLs:
+  §2511: https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2511&num=0&edition=prelim
+  §2520: https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2520&num=0&edition=prelim
+FETCHED: 2026-04-11

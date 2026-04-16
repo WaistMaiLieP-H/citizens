@@ -1,0 +1,16 @@
+# Mental Competency — Judicial Doubt — Statutory Text
+
+**Source:** Cal. Pen. Code § 1368
+**Retrieved:** 2026-04-12
+**URL:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1368.&lawCode=PEN
+**Verified:** true (VernenLegal MCP california_get_section)
+
+## Text
+
+(a) If, during the pendency of an action and prior to judgment, or during revocation proceedings for a violation of probation, mandatory supervision, postrelease community supervision, or parole, a doubt arises in the mind of the judge as to the mental competence of the defendant, the judge shall state that doubt in the record and inquire of the attorney for the defendant whether, in the opinion of the attorney, the defendant is mentally competent. If the defendant is not represented by counsel, the court shall appoint counsel. At the request of the defendant or defendant's counsel or upon its own motion, the court shall recess the proceedings for as long as may be reasonably necessary to permit counsel to confer with the defendant and to form an opinion as to the mental competence of the defendant at that point in time.
+
+(b) If counsel informs the court that they believe the defendant is or may be mentally incompetent, the court shall order that the question of the defendant's mental competence is to be determined pursuant to Sections 1368.1 and 1369. If counsel informs the court that they believe the defendant is mentally competent, the court may nevertheless order a determination by the court of the defendant's mental competence.
+
+(c) Except as provided in Section 1368.1, when an inquiry into the present mental competence of the defendant has been commenced by the court all proceedings in the criminal prosecution shall be suspended until the question of the present mental competence of the defendant has been determined.
+
+If a jury has been impaneled and sworn to try the defendant, the jury shall be discharged only if it appears to the court that undue hardship to the jurors would result if the jury is retained on call. If the defendant is declared mentally incompetent, the jury shall be discharged.

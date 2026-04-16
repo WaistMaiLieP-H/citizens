@@ -1,0 +1,13 @@
+{
+  "stage": "01_origin_1967",
+  "label": "California Invasion of Privacy Act — Original Enactment",
+  "source": "Stats. 1967, Ch. 1509",
+  "effective_date": "1967",
+  "provisions_enacted": [
+    "Cal. Penal Code §630 — legislative findings",
+    "Cal. Penal Code §631 — wiretapping prohibition",
+    "Cal. Penal Code §632 — confidential communications recording prohibition",
+    "Cal. Penal Code §637.2 — civil remedy"
+  ],
+  "verbatim_capture_status": "PENDING"
+}

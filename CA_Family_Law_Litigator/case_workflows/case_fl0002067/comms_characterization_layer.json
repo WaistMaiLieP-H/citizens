@@ -1,0 +1,107 @@
+{
+  "document_id": "COMMS_CHARACTERIZATION_LAYER_FL0002067",
+  "case_number": "FL0002067",
+  "lane_owner": "HERALD (Comms & Blockchain Liaison)",
+  "authored_at_utc": "2026-04-15T12:15:11Z",
+  "triggering_escalation": "ESC-FL0002067-C (from ADAM via network_forensic_findings.json finding NF-FL0002067-005)",
+  "scope_discipline": "Content characterization + cross-case witness only. Chain-of-custody is ADAM's seal; statutory characterization is EVE's. HERALD does not re-open integrity gating.",
+  "primary_artifacts_cross_referenced": {
+    "ryan_mcclaran_telegram": {
+      "path": "${nonfamilylaw}/Digital_Forensics/Ryan_McClaran_Telegram/",
+      "pages": 2,
+      "adam_seal": {
+        "telegram_threats_page1.jpg": "a8a3733dc1b6c248466a5338705ff0aabef20ddff66512e9c99e11a9e6421222"
+      },
+      "content_characterization": {
+        "actor": "Ryan McClaran",
+        "actor_profile_ref": "project_ryan_mcclaran_it \u2014 IT operator; SIM swaps; proxy communications network",
+        "medium": "Telegram (off-carrier, pseudonymous-capable messenger)",
+        "tone": "threat corpus (per received-artifact labeling 'telegram_threats_page*')",
+        "authenticity_posture": "Hash-sealed by ADAM at endpoint chain-of-custody; native export evidentiary weight pending MD-5/device-forensics deep pull (not HERALD-blocking)",
+        "pattern_signal": "Off-carrier channel use aligns with SIM-swap + proxy-comms modus operandi; consistent with \u00a7 6320(c) third-party-orchestration counter-theory without HERALD rendering that statutory call"
+      }
+    },
+    "phone_records_2023_06_10": {
+      "path": "${nonfamilylaw}/Digital_Forensics/Phone_Records/",
+      "adam_seal": {
+        "calls-20230610222218.xml": "461caa5e2710cb949417d4476f9a4cf63f0b158676ce7820abf28e74713cb0c9",
+        "sms-20230610222218.xml": "2d411dadb508fbaf633f3433301f1c302431d1fad06e46e55fc46699c6917be7"
+      },
+      "export_timestamp_utc": "2023-06-10T22:22:18Z",
+      "content_characterization": {
+        "corpus_type": "Native device export \u2014 calls + SMS (XML)",
+        "temporal_band": "June 2023 \u2014 Alameda-period endpoint",
+        "witness_value": "Endpoint residency/telemetry corroborant for Alameda home-county trace referenced in theory_01_uccjea_venue (EVE-owned legal conclusion)",
+        "authenticity_posture": "Native XML export; hash-sealed at receipt; chain-of-custody unbroken"
+      }
+    }
+  },
+  "cross_case_witness_targets": [
+    {
+      "case": "FL0002067",
+      "linkage": "primary (this case)"
+    },
+    {
+      "case": "case #30-33 (SIM swap cluster \u2014 per CA_Telecom_Privacy_Litigator)",
+      "linkage": "pattern \u2014 off-carrier + SIM swap modus operandi"
+    },
+    {
+      "case": "June 16 2023 setup reconstruction (project_june16_2023_timeline)",
+      "linkage": "temporal \u2014 2023 phone record band overlaps setup window"
+    },
+    {
+      "case": "Homeward Bound Marin placement (theory_homeward_bound_marin_pretext)",
+      "linkage": "contextual \u2014 shelter-period comms environment"
+    }
+  ],
+  "cross_witness_roster": {
+    "HERALD": "author (comms liaison)",
+    "CA_Telecom_Privacy_Litigator": "SIM-swap statutory overlay (out-of-lane for HERALD)",
+    "EVE": "\u00a7 6320(c) third-party-orchestration statutory hook (out-of-lane for HERALD)",
+    "ADAM": "endpoint chain-of-custody seal (source)"
+  },
+  "publication_posture": "INTERNAL LEDGER ONLY. No external publication of comms content without presiding steward go-signal; verifiability doctrine applies to hashes, not to victim/third-party private content.",
+  "merkle_root_at_characterization": "ca00aec3dde651f17c52c93a4d4063f5dc71ebcd7494c09ef82374c2d40425bf",
+  "escalation_overlays": {
+    "ESC-B_clets_1983": {
+      "source_artifact": "ESC-B_CLETS_1983_CHARACTERIZATION.md",
+      "source_artifact_sha256": "eb48fa62160703d600552a17813d714f42de32d20244fc9ad5018e7e8221c53a",
+      "lane_posture": "HERALD folds ONLY the comms-relevant facets; statutory \u00a7 1983 call belongs to EVE-DEPUTY (CHARACTERIZATION-ISSUED, awaiting EVE-PRIMARY countersign).",
+      "herald_lane_angles": {
+        "first_amendment_chilling": "CLETS/NCIC entry operates as state-authored reputational label. Public-database stigma chills protected petitioning speech by the restrained party and chills counter-narrative publication \u2014 a comms-content characterization in HERALD's lane per Nieves / Capp framing surfaced by EVE-DEPUTY. HERALD witnesses the chill as a comms-liaison observation; EVE owns the legal conclusion.",
+        "database_footprint_as_comms_channel": "CLETS is itself a state-operated telecommunications channel (CA Penal Code \u00a7\u00a7 13100-13104 per EVE-DEPUTY). Every query is a comms event. Absent access logs (8 CLETS-001 audit findings on DV-130), the comms channel lacks audit trail \u2014 comms-integrity failure visible in HERALD's lane.",
+        "cross_case_witness_linkage": "Ties to CA_Telecom_Privacy_Litigator pattern (SIM swap / proxy-comms), to HERALD declaration corpus across 39+ cases, and to project_christina_pattern.md counter-filing playbook."
+      },
+      "out_of_lane_for_herald": [
+        "\u00a7 1983 element mapping",
+        "stigma-plus doctrinal application",
+        "922(g)(8) firearm-disability characterization",
+        "\u00a7 1988 fee analysis"
+      ]
+    },
+    "ESC-D_tor_continuing_deprivation": {
+      "source_artifact": "ESC-D_TOR_CONTINUING_DEPRIVATION.md",
+      "source_artifact_sha256": "cb0cec549b42f77c08835a3336227dc28fe7a1845d7b21ce641fc3389ac85a7f",
+      "lane_posture": "Anonymous-speech / selective-channel-denial is squarely a comms-characterization matter; HERALD records the comms pattern. EVE-DEPUTY owns the \u00a7 1983 continuing-deprivation call.",
+      "herald_lane_angles": {
+        "anonymous_speech_channel_status": "Tor is the anonymity layer for internet speech (McIntyre protected interest per EVE-DEPUTY). Selective denial of this channel from a specific endpoint \u2014 while baseline connectivity passes system tests \u2014 is a comms-channel-denial pattern HERALD records as cross-case witness.",
+        "comms_pattern_alignment": "Ties directly into the SIM-swap / proxy-comms pattern (NF-005 / Ryan McClaran corpus) already folded in this layer. Same modus operandi: selective disablement of specific comms modes (off-carrier messenger access, anonymous routing, certain phone numbers) rather than blanket outage.",
+        "per_incident_accrual_witness": "HERALD's role: record each discrete anonymous-channel denial event with timestamp + telemetry hash so each incident's own \u00a7 1983 clock (per Morgan / Pouncil, per EVE-DEPUTY) has a HERALD-witnessed anchor. This is ledger work, not legal work.",
+        "publication_posture_note": "Anonymous-speech chilling of HERALD's own publications is a self-referential observation: the restrained party's ability to publish anonymously is the exact right at issue. HERALD flags this for presiding awareness \u2014 the verifiability doctrine 'everyone verifies' presupposes the channel is not selectively denied."
+      },
+      "out_of_lane_for_herald": [
+        "continuing-violation doctrine application",
+        "state-action nexus tests",
+        "Packingham / Reno scrutiny framework",
+        "\u00a7 335.1 limitations analysis"
+      ],
+      "required_herald_future_action": "On each confirmed anonymous-channel-denial event, log discrete entry to case_fl0002067 comms ledger with timestamp + ANALYSIS.md sha256 + environment fingerprint, supporting per-incident accrual pleading."
+    }
+  },
+  "last_updated_utc": "2026-04-15T12:52:02Z",
+  "last_escalation_fold_in": [
+    "ESC-B",
+    "ESC-D"
+  ],
+  "self_sha256_at_save": "0f5f0050591db587f52ae576b832a02cecf232d104b3d6589c17e1ba93e6217b"
+}

@@ -1,0 +1,47 @@
+{
+  "standard_id": "pen_1368_mental_competency",
+  "title": "Pen. Code \u00a7 1368 \u2014 Mental Competency: Judicial Doubt Trigger",
+  "citizen": "CA_Mental_Health_Litigator",
+  "statute_reference": "Cal. Pen. Code \u00a7 1368",
+  "primary_cases": [
+    "Case #7 / Dr. Wiita \u2014 \u00a71368 referral audit: genuine doubt? documented in record?",
+    "WIC \u00a75150 holds \u2014 \u00a71368 as parallel pretextual-referral mechanism"
+  ],
+  "layers_present": [
+    "current/rule.md",
+    "current/reasoning.md",
+    "current/statute_text.md",
+    "historical_chain/01_origin_1872/context.md",
+    "historical_chain/01_origin_1872/provenance.json",
+    "historical_chain/witness_record.md",
+    "cross_refs/refs.json"
+  ],
+  "status": "PUBLISHED",
+  "build_session": "2026-04-12",
+  "terminal": "Terminal B",
+  "verified": true,
+  "content_hash": "f2c1dd21",
+  "two_witness_status": {
+    "herald_witness": "WITNESSED-BY-HERALD \u2014 2026-04-12",
+    "adam_witness": {
+      "governing_guidelines": "PASS",
+      "standards_of_creation": "PASS",
+      "soc": "PASS",
+      "signal": "APPROVE",
+      "hash": "f2c1dd21",
+      "date": "2026-04-12"
+    },
+    "eve_witness": {
+      "layer_1_rule": "PASS",
+      "layer_2_reasoning": "PASS",
+      "layer_3_historical_loss": "PASS",
+      "layer_4_cross_references": "PASS",
+      "layer_5_verifiable_provenance": "PASS",
+      "triple_constraint": "PASS",
+      "signal": "COUNTERSIGN",
+      "hash_recomputed": "f2c1dd21",
+      "date": "2026-04-12"
+    },
+    "publication_status": "PUBLISHED \u2014 ADAM APPROVE + EVE COUNTERSIGN \u2014 2026-04-12"
+  }
+}

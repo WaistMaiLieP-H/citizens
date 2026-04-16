@@ -1,0 +1,25 @@
+{
+  "standard_id": "ins_790_03_unfair_claims_settlement",
+  "cross_refs": [
+    {
+      "ref_id": "ins_790_09_cdi_order_no_shield",
+      "path": "${citizens}/CA_Insurance_Compliance_Litigator/standards/ins_790_09_cdi_order_no_shield",
+      "relationship": "companion \u2014 CDI order is additive, not exclusive; \u00a7790.09 confirms multi-track system"
+    },
+    {
+      "ref_id": "ins_bad_faith_brandt_gruenberg",
+      "path": "${citizens}/CA_Insurance_Compliance_Litigator/standards/ins_bad_faith_brandt_gruenberg",
+      "relationship": "Moradi-Shalal wall \u2014 \u00a7790.03 CDI-only; private plaintiff uses bad faith tort track"
+    },
+    {
+      "ref_id": "ins_10123_135_prior_auth",
+      "path": "${citizens}/CA_Healthcare_Fraud_Litigator/standards/ins_10123_135_prior_auth",
+      "relationship": "cross-citizen \u2014 prior auth denial as unfair claims practice (\u00a7790.03(h)(2)(3)(4)(13) also implicated)"
+    },
+    {
+      "ref_id": "ucl_17200_unfair_business_practices",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/ucl_17200_unfair_business_practices",
+      "relationship": "UCL \u00a717200 'unlawful' prong reaches insurer conduct that violates \u00a7790.03"
+    }
+  ]
+}

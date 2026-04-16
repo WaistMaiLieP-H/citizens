@@ -1,0 +1,41 @@
+{
+  "standard_id": "USC_18_1343_WIRE_FRAUD",
+  "cross_references": [
+    {
+      "anchor": "usc_18_1028_identity_theft",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_18_1028_identity_theft/",
+      "relationship": "companion_criminal_statute",
+      "note": "§1028 criminalizes the identity theft that generates the wire fraud predicate: using stolen identity to open financial accounts involves both §1028 (identity theft) and §1343 (wire communications used to open accounts/transfer funds). Flores-Figueroa knowledge element applies to §1028 component. Dubin 'at-the-crux' test distinguishes misuse of identity from incidental identity use."
+    },
+    {
+      "anchor": "usc_18_1028a_aggravated",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_18_1028a_aggravated/",
+      "relationship": "enhancement",
+      "note": "§1028A (aggravated identity theft) adds mandatory consecutive 2-year sentence when §1028 is committed in connection with §1343 wire fraud. A wire fraud prosecution + §1028 + §1028A stacks the exposure: base §1343 sentence + mandatory 2-year consecutive §1028A."
+    },
+    {
+      "anchor": "civil_rico_1961_1968",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/civil_rico_1961_1968/",
+      "relationship": "predicate_act",
+      "note": "§1343 wire fraud is a listed RICO predicate under §1961(1)(B). Two or more §1343 acts in a pattern = RICO predicate pattern. Multiple wire communications across multiple financial fraud schemes (Treasury, crypto, ChexSystems, Hillberg) satisfy the pattern + continuity requirements. Civil RICO under §1964(c) allows treble damages + attorney fees."
+    },
+    {
+      "anchor": "usc_15_1681_fcra",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_15_1681_fcra/",
+      "relationship": "downstream_statutory_violation",
+      "note": "Wire fraud scheme produces fraudulent tradelines → FCRA violations. The same facts that establish §1343 wire fraud (electronic account openings, electronic fund transfers) also trigger FCRA accuracy and blocking duties when CRAs report the fraudulent accounts."
+    },
+    {
+      "anchor": "treasury_securities_case",
+      "path": "${nonfamilylaw}/Treasury_Securities/",
+      "relationship": "case_binding_primary",
+      "note": "Treasury's four contradictory responses to Michael's bond inquiry are evidence of a scheme to deprive Michael of property (his bonds) using wire communications (Treasury electronic account systems, correspondence channels). §1343 referral target."
+    },
+    {
+      "anchor": "crypto_fraud_case",
+      "path": "${nonfamilylaw}/Crypto_Fraud/",
+      "relationship": "case_binding_primary",
+      "note": "Unauthorized cryptocurrency transfers are paradigmatic wire fraud: property (crypto), transmitted via wire (blockchain + internet), in interstate commerce. Clean §1343 facts."
+    }
+  ]
+}

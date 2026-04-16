@@ -1,0 +1,14 @@
+IN RE MARRIAGE OF ANKOLA
+(2020) 53 Cal.App.5th 369
+Court of Appeal, Fourth Appellate District, 2020
+
+FACTS:
+A custody modification proceeding involving a documented history of domestic violence. The trial court ordered the parties to mediation through FCS without properly screening the case for DV or implementing the Rule 5.215 DV protocol. Joint sessions were conducted over the victim's objection. The resulting FCS recommendation was adopted and resulted in a custody modification. The victim appealed arguing procedural error and DV protocol violations.
+
+HOLDING — Cal. Rules of Court, Rule 5.215:
+The Court of Appeal held that the failure to apply the Rule 5.215 DV protocol in a case with documented DV history was reversible procedural error. The court held that: (1) Rule 5.215 is mandatory, not advisory; (2) the failure to offer separate sessions in a DV case is presumptively prejudicial because it places the victim in conditions where the abusive power dynamic operates on the mediation process; (3) a trial court that adopts an FCS recommendation obtained through a DV protocol violation without conducting independent inquiry has failed its independent judicial duty.
+
+The court vacated the custody modification order and remanded for FCS mediation conducted under full Rule 5.215 compliance.
+
+SIGNIFICANCE:
+Ankola (2020) is the leading case on Rule 5.215 as an enforceable mandatory standard. It directly addresses the fact pattern present in the steward's cases: documented DV history, FCS proceedings without proper protocol, joint sessions, and a trial court that adopted the defective recommendation. The case provides the template for the motion to vacate: allege the Rule 5.215 violations, attach the PRA-obtained training records showing the deficiency, and cite Ankola for the standard of prejudice.

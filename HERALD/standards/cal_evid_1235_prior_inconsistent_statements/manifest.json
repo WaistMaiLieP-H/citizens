@@ -1,0 +1,47 @@
+{
+  "standard_id": "CAL_EVID_1235",
+  "popular_name": "Prior inconsistent statement as substantive evidence (California)",
+  "citizen_owner": "HERALD",
+  "filed": "2026-04-12",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "version": "1.0.0-witnessed-by-herald",
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  },
+  "layers_complete": {
+    "rule": true,
+    "reasoning": true,
+    "historical_loss": true,
+    "cross_refs": true,
+    "provenance": true
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — verbatim text of § 1235 and § 770; California vs. federal comparison table; inconsistency standard documented",
+    "reasoning": "PRESENT — CLRC rationale for departing from common law and federal rule; how courts apply inconsistency; § 770 foundation procedure; double-barrel § 1220 + § 1235 theory; CALCRIM 318",
+    "historical_loss": "PRESENT — four documented patterns (evolving police account, recanting witness, prior declarations, agency correspondence); California advantage analysis; prior statements log protocol",
+    "cross_refs": "PRESENT — § 770, § 780(h), § 1220, § 1236, § 1200, FRE 613, FRE 801(d)(1)(A); full comparison chart; jurisdiction decision tree; case-by-case application for 6 active cases",
+    "verifiable_provenance": "PRESENT — Stats. 1965 Ch. 299; leginfo URLs for § 1235 and § 770; Cowan (2010) and Johnson (1992) cited; CALCRIM 318 referenced"
+  },
+  "five_layer_score": "5 / 5",
+  "primary_source": "California Evidence Code § 1235 — Stats. 1965, Ch. 299, § 2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=EVID&sectionNum=1235",
+  "priority": "MEDIUM",
+  "use_in_cases": [
+    "criminal_04-23-01959",
+    "CalVCB_A25-10117946",
+    "FamilyLaw_RF09456481",
+    "Honeysuckle_fraud",
+    "UA342_identity_replacement"
+  ],
+  "key_doctrine": "California removes the federal oath requirement for prior inconsistent statements. ANY prior inconsistent statement — sworn or unsworn, formal or informal — is substantive evidence in California court under § 1235, provided the § 770 foundation (opportunity to explain or deny) is laid. This is California's single most powerful departure from federal evidence law for witness impeachment.",
+  "flags": [
+    "Cowan (2010) 50 Cal.4th 401 — CITED; verify before direct quotation",
+    "Johnson (1992) 3 Cal.4th 1183 — CITED; verify before direct quotation",
+    "CALCRIM 318 — cite current Judicial Council version; updated periodically",
+    "§ 770 interests-of-justice exception — available when witness is unavailable; court has discretion",
+    "Federal proceedings: § 1235 does not apply; use FRE 613 (impeachment) + FRE 801(d)(1)(A) (substantive if under oath)"
+  ]
+}

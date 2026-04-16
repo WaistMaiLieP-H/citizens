@@ -1,0 +1,49 @@
+{
+  "actor_id": "wiita_patrick",
+  "canonical_name": "Patrick Wiita, Dr.",
+  "aliases": [
+    "Dr. Wiita",
+    "Dr. Patrick Wiita"
+  ],
+  "role": "Competency Evaluator (Contra Costa County, criminal/competency case 04-23-01959)",
+  "professional_identity": {
+    "specialty": "TBD \u2014 to be confirmed",
+    "case_involvement_summary": "Authored a competency evaluation for case 04-23-01959 that the case_audit_2026-03-17 describes as 'self-contradicting, template boilerplate, evaluated while high'"
+  },
+  "credential_verification": {
+    "verification_status": "OUTSTANDING \u2014 needs MBC license lookup if MD; needs Board of Psychology lookup if Ph.D./PsyD",
+    "next_step": "Direct license verification at mbc.ca.gov or psychology.ca.gov depending on specialty"
+  },
+  "case_involvement": [
+    {
+      "case_number": "04-23-01959",
+      "date": "TBD",
+      "action": "Authored competency evaluation",
+      "outcome": "ADVERSE \u2014 evaluation was self-contradicting, template boilerplate, and per the steward, evaluated while the steward was under the influence",
+      "outcome_classification": "ADVERSE"
+    }
+  ],
+  "risk_level": "HIGH",
+  "risk_basis": "Per case_audit_2026-03-17: self-contradicting, template boilerplate, evaluated while high. Specialty appropriateness for competency evaluation TBD.",
+  "outstanding_investigations": [
+    {
+      "id": "wiita_specialty",
+      "question": "What is Dr. Wiita's actual specialty? Is competency evaluation within his scope of practice?",
+      "unblock": "License lookup at mbc.ca.gov"
+    },
+    {
+      "id": "wiita_evaluation_circumstances",
+      "question": "What were the circumstances of the evaluation? When was it performed? Was the steward under medical or substance influence at the time?",
+      "unblock": "Review the full Wiita evaluation report"
+    },
+    {
+      "id": "wiita_template_audit",
+      "question": "Is the template-boilerplate concern verifiable by comparing the Wiita report to other Wiita evaluations?",
+      "unblock": "Compare against other Wiita evaluations if available"
+    }
+  ],
+  "source_citations": [
+    "/home/vernenlegal/.claude/projects/-home-vernenlegal/memory/project_familylaw_audit.md (forensic finding #10: 'Dr. Wiita competency evaluation audit (self-contradicting, template boilerplate, evaluated while high)')"
+  ],
+  "filed_at_utc": "2026-04-08T18:05:00Z"
+}

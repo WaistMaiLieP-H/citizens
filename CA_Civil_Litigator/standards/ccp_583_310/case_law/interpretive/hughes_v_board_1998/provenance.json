@@ -1,0 +1,27 @@
+{
+  "case_name": "Hughes v. Board of Architectural Examiners",
+  "citation": "17 Cal.4th 763 (1998)",
+  "parallel_citations": ["72 Cal.Rptr.2d 624", "952 P.2d 641"],
+  "court": "Supreme Court of California",
+  "date_decided": "1998-03-26",
+  "docket_number": "S058167",
+  "jurisdiction": "California",
+  "standard_interpreted": "CCP 583.310 (five-year mandatory dismissal)",
+  "key_doctrine": "Five-year period is mandatory and jurisdictional -- court loses power to try the case; no waiver, no discretion, no good cause exception",
+  "sources": [
+    {
+      "name": "Casetext",
+      "url": "https://casetext.com/case/hughes-v-board-of-architectural-examiners"
+    },
+    {
+      "name": "Google Scholar",
+      "url": "https://scholar.google.com/scholar_case?case=hughes+board+architectural+17+cal+4th+763"
+    },
+    {
+      "name": "Westlaw",
+      "url": "https://www.westlaw.com/ (subscription required)"
+    }
+  ],
+  "created_utc": "2026-04-08",
+  "created_by": "Claude (assistant) under steward direction -- Michael Hartmann, Vernen Legal Compliance"
+}

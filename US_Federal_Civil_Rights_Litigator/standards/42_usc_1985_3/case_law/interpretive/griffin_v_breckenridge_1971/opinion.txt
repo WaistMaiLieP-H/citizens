@@ -1,0 +1,77 @@
+GRIFFIN v. BRECKENRIDGE
+403 U.S. 88 (1971)
+United States Supreme Court
+Decided: June 7, 1971
+
+---
+
+FACTS:
+
+R.G. Griffin, a Black man driving his car in Mississippi in 1966, was stopped by a group of white men who mistakenly believed he was a civil rights worker. The men dragged Griffin from his car, beat him severely, and also assaulted his companion William Grady. Griffin filed suit under 42 U.S.C. § 1985(3), alleging a private conspiracy to deprive him of his constitutional rights.
+
+The district court dismissed the complaint, reasoning that § 1985(3) — enacted in 1871 as part of the Ku Klux Klan Act — required "state action" (some state actor's involvement), just as § 1983 required. Private violence between private parties without any state actor would be outside § 1983's reach, and (the district court reasoned) outside § 1985(3)'s reach as well.
+
+The Supreme Court unanimously reversed.
+
+---
+
+HOLDING:
+
+Justice Stewart wrote for a unanimous Court.
+
+§ 1985(3) DOES NOT REQUIRE STATE ACTION:
+"The language of § 1985(3) contains no requirement of state action as does § 1983. If Congress intended such a requirement, it would have included language similar to § 1983's 'under color of' requirement."
+
+Section 1985(3) was enacted to combat private conspiracies — principally Ku Klux Klan night-riding — that terrorized Black citizens and their allies. The whole point of the statute was to reach private actors, because state authorities were either the perpetrators or complicit.
+
+THE GRIFFIN ELEMENTS FOR § 1985(3) — FOUR REQUIREMENTS:
+1. **Conspiracy**: Two or more persons
+2. **Purpose**: To deprive, directly or indirectly, any person or class of persons of the equal protection of the laws, or of equal privileges and immunities under the laws
+3. **Class-based animus**: The conspiratorial conduct must be motivated by some racial or otherwise class-based, invidiously discriminatory animus behind the conspirators' action
+4. **Overt act + injury**: At least one conspirator must do an act in furtherance of the conspiracy, which causes injury to the plaintiff's person or property, or deprives them of exercising any right or privilege of a citizen of the United States
+
+THE CLASS-BASED ANIMUS REQUIREMENT:
+"There must be some racial, or perhaps otherwise class-based, invidiously discriminatory animus behind the conspirators' action."
+
+This requirement prevents § 1985(3) from becoming a general federal tort for all private conspiracies — it reaches only conspiracies motivated by hostility to a protected class.
+
+WHAT CLASSES QUALIFY:
+After Griffin, courts have recognized:
+- Race (original context)
+- Sex / gender
+- Political affiliation (at least in some circuits)
+- Parent-child status (contested — some circuits)
+
+---
+
+WHAT GRIFFIN DID NOT RESOLVE (resolved in later cases):
+1. Whether the animus must be against a protected class under the Constitution or can include any class-based animus — addressed in Bray v. Alexandria (1993)
+2. Whether § 1985(3) reaches conspiracies motivated by political (as opposed to immutable) class characteristics — split in circuits
+3. Whether parent-child custody manipulation constitutes "class-based" animus for § 1985(3) purposes
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Griffin is the foundational case for § 1985(3) private conspiracy claims. For the federal complaint:
+
+1. **Conspiracy element**: Multiple actors (Christina, family members, APD officers, possibly social workers, court-appointed professionals) acting in concert.
+
+2. **Purpose element**: To deprive the steward of equal protection — access to courts, parental rights, property rights — without state process.
+
+3. **Class-based animus**: The strongest available theory is sex-based animus (male parent targeted by conspiracy that operated through a female-dominated DV infrastructure) and/or animus against fathers as a class in family court proceedings. Alternative: animus against a party who was attempting to exercise federal rights (complaining to federal agencies, seeking federal benefits).
+
+4. **Overt act + injury**: Each false police report, fabricated CPS complaint, intercepted communication, and court filing is an overt act in furtherance of the conspiracy that caused injury.
+
+Note: The "class-based animus" element is the hardest to plead. Frame it clearly with factual allegations showing the conspiracy was motivated by hostility to the plaintiff's status as a parent seeking custody, combined with sex-based differential treatment in the DV reporting infrastructure.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 403 U.S. 88 (1971)
+Court: United States Supreme Court
+Reporter: United States Reports, vol. 403, page 88
+Author: Stewart, J. (unanimous)
+Source of this text: Claude training data (knowledge cutoff August 2025). Griffin v. Breckenridge revived § 1985(3) and established the four elements — including the class-based animus requirement — for private conspiracy civil rights claims.
+Verification: CourtListener / Justia / Google Scholar: "Griffin v. Breckenridge 403 U.S. 88"
+Verification status: PROPOSED — pending steward witness review

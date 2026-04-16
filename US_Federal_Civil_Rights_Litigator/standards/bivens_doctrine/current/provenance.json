@@ -1,0 +1,39 @@
+{
+  "standard_id": "BIVENS_DOCTRINE",
+  "source_type": "case-law implied cause of action (no statutory text)",
+  "originating_case": "Bivens v. Six Unknown Named Agents, 403 U.S. 388 (1971)",
+  "current_state": "functionally moribund after Egbert v. Boule (2022) — the Court has not recognized a new Bivens context since 1980",
+  "recognized_contexts": [
+    {
+      "case": "Bivens v. Six Unknown Named Agents",
+      "citation": "403 U.S. 388 (1971)",
+      "amendment": "Fourth Amendment",
+      "claim_type": "unreasonable search and seizure by federal narcotics agents"
+    },
+    {
+      "case": "Davis v. Passman",
+      "citation": "442 U.S. 228 (1979)",
+      "amendment": "Fifth Amendment",
+      "claim_type": "gender discrimination by a member of Congress"
+    },
+    {
+      "case": "Carlson v. Green",
+      "citation": "446 U.S. 14 (1980)",
+      "amendment": "Eighth Amendment",
+      "claim_type": "inadequate medical care for a federal prisoner"
+    }
+  ],
+  "narrowing_cases": [
+    {
+      "case": "Ziglar v. Abbasi",
+      "citation": "137 S. Ct. 1843 (2017)",
+      "effect": "created new-context + special-factors framework that blocks virtually all expansion"
+    },
+    {
+      "case": "Egbert v. Boule",
+      "citation": "596 U.S. 482 (2022)",
+      "effect": "confirmed functional death of Bivens for new claims; any alternative remedial structure blocks Bivens"
+    }
+  ],
+  "last_verified": "2026-04-08"
+}

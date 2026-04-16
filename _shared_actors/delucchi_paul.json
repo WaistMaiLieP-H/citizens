@@ -1,0 +1,29 @@
+{
+  "shared_id": "delucchi_paul",
+  "canonical_name": "Paul A. Delucchi",
+  "aliases": [
+    "Hon. Paul A. Delucchi",
+    "Judge Paul A. Delucchi",
+    "Paul Delucchi"
+  ],
+  "identity_notes": "Alameda County Superior Court judge. Assigned to RF09456481 in 2010, replacing Judge Thompson without documented reason. Adopted Sala Ajaniku's mediation recommendation without verifying credentials.",
+
+  "citizen_appearances": {
+    "CA_Family_Law_Litigator": {
+      "role": "Judge who adopted Ajaniku recommendation without credential verification; reversed protective DVRO; granted Christina unsupervised visitation",
+      "risk_level": "HIGH",
+      "local_record": "${citizens}/CA_Family_Law_Litigator/actors/delucchi_paul_judge.json"
+    },
+    "US_Federal_Civil_Rights_Litigator": {
+      "role": "§1983 defendant — judicial immunity applies for acts in judicial capacity, but 1996 FRIA amendment (42 USC §1983 as amended) limits injunctive relief immunity; the question is whether adopting a recommendation from an unqualified person is an act 'in judicial capacity' or an administrative failure",
+      "risk_level": "MEDIUM",
+      "local_record": "${citizens}/US_Federal_Civil_Rights_Litigator/actors/delucchi_paul.json",
+      "applicable_standards": ["42_USC_1983"],
+      "immunity_analysis": "Judicial immunity protects judges acting in their judicial capacity even if wrong. However: (1) the 1996 amendment permits injunctive/declaratory relief against judges; (2) if reliance on an unqualified mediator is an administrative rather than judicial act, immunity may not attach; (3) Pulliam v. Allen, 466 U.S. 522 (1984) and its progeny govern the analysis"
+    }
+  },
+
+  "cross_domain_risk": "MEDIUM — protected by judicial immunity for most damages claims, but injunctive relief remains available under the 1996 amendment; the stronger route is naming him for declaratory/injunctive relief while focusing damages claims on the non-immune actors (Ajaniku, Hillberg, Cerretani, APD)",
+
+  "filed_at_utc": "2026-04-08T22:00:00Z"
+}

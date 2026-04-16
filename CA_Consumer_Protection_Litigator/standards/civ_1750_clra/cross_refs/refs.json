@@ -1,0 +1,36 @@
+{
+  "_schema": "five-layer cross-reference block",
+  "_about": "Every ref points to another standard's manifest by anchor. Broken anchors fail the build.",
+  "references": [
+    {
+      "target": "${citizens}/CA_Consumer_Protection_Litigator/standards/bpc_17200_ucl/manifest.json",
+      "relationship": "Sister statute. CLRA and UCL are routinely pled together. CLRA reaches deceptive acts in transactions intended to result in sale of goods or services; UCL reaches any unlawful/unfair/fraudulent business act or practice. The UCL's 'unlawful' prong borrows violations of any other statute (including CLRA) as predicates. The statutes complement each other: CLRA provides private damages; UCL provides restitution and injunctive relief with a 4-year SOL.",
+      "build_status": "QUEUED"
+    },
+    {
+      "target": "${citizens}/CA_Consumer_Protection_Litigator/standards/civ_2981_rees_levering/manifest.json",
+      "relationship": "Auto-sales-specific companion. Rees-Levering violations are per-se CLRA §1770(a)(14) violations (representing that a transaction confers rights it does not have). Pled together in auto-sales cases, with Rees-Levering providing the forfeiture remedy and CLRA providing damages + fees.",
+      "build_status": "QUEUED"
+    },
+    {
+      "target": "${citizens}/CA_Consumer_Protection_Litigator/standards/civ_1788_rosenthal/manifest.json",
+      "relationship": "Downstream companion. When deceptive sale leads to deceptive collection, Rosenthal attaches to the collection side and CLRA attaches to the sale side. Both have private rights of action and fee shifts.",
+      "build_status": "QUEUED"
+    },
+    {
+      "target": "${citizens}/CA_Consumer_Protection_Litigator/standards/civ_1709_deceit/manifest.json",
+      "relationship": "Common-law substrate. CLRA does not displace common-law deceit; it supplements. Plaintiffs routinely plead CLRA and common-law fraud together. Deceit provides punitive damages under the common-law standard (clear and convincing evidence of malice/fraud/oppression, Civ. Code §3294) without the CLRA's §1782 notice prerequisite.",
+      "build_status": "QUEUED"
+    },
+    {
+      "target": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_15_1681_fcra/manifest.json",
+      "relationship": "Federal parallel for credit-reporting matters. The 2024 ChexSystems case likely pleads CLRA (state) and FCRA (federal) together. FCRA §1681c-2 identity-theft block operates in parallel to CLRA §1770 deception claims. Different forums, different elements, different damages structures.",
+      "build_status": "QUEUED"
+    },
+    {
+      "target": "${citizens}/CA_Civil_Litigator/standards/ccp_1021_5/manifest.json",
+      "relationship": "Fee-shift backup. Where CLRA's §1780(e) fee provision is unavailable (e.g., UCL-only claim), CCP §1021.5 private attorney general fees may apply. CCP §1021.5 canonical build lives in CA_Civil_Litigator.",
+      "build_status": "PROPOSED-WITNESSED"
+    }
+  ]
+}

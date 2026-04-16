@@ -1,0 +1,9 @@
+California Civil Code § 3294 — Current text (2026)
+
+Current text is identical to the 1987 amended version PLUS subdivision (d) added by Stats. 1988, ch. 938, § 1. No substantive changes since 1988. See evolution/04_current/diff_from_prior.md for the cumulative diff from 1872.
+
+[Full current text is in ../../current/text.txt — the single source of truth for the active statute.]
+
+---
+
+Stability since 1988: 38 years of stable text. The section is now one of the more stable California statutes in active litigation use. Every § 3294 claim from 1988 onward applies the same statutory language and the same leading cases (*College Hospital*, *Adams v. Murakami*, *White v. Ultramar*, *Simon v. San Paolo*).

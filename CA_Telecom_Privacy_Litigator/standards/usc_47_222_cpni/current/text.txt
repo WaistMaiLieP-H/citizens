@@ -1,0 +1,26 @@
+47 U.S.C. § 222 — Privacy of Customer Information
+
+(a) In general.
+Every telecommunications carrier has a duty to protect the confidentiality of proprietary network information of, and relating to, other telecommunication carriers, equipment manufacturers, and customers, including telecommunication carriers reselling telecommunications services provided by a telecommunications carrier.
+
+(b) Confidentiality of carrier information.
+A telecommunications carrier that receives or obtains proprietary information from another carrier for purposes of providing any telecommunications service shall use such information only for such purpose, and shall not use such information for its own marketing efforts.
+
+(c) Confidentiality of customer proprietary network information.
+(1) Privacy requirements for telecommunications carriers. Except as required by law or with the approval of the customer, a telecommunications carrier that receives or obtains customer proprietary network information by virtue of its provision of a telecommunications service shall only use, disclose, or permit access to individually identifiable customer proprietary network information in its provision of (A) the telecommunications service from which such information is derived, or (B) services necessary to, or used in, the provision of such telecommunications service, including the publishing of directories.
+
+(2) Disclosure on request by customers. A telecommunications carrier shall disclose customer proprietary network information, upon affirmative written request by the customer, to any person designated by the customer.
+
+(3) Aggregate customer information. A telecommunications carrier that receives or obtains customer proprietary network information by virtue of its provision of a telecommunications service may use, disclose, or permit access to aggregate customer information other than for the purposes described in paragraph (1). A telecommunications carrier shall not disclose customer proprietary network information for purposes of marketing related products and services to the customer unless—
+(A) the carrier provides the customer with an opportunity to prohibit or limit such use or disclosure; and
+(B) the carrier has clearly and conspicuously notified the customer of the customer's right to prohibit or limit such use or disclosure.
+
+(d) Definition of customer proprietary network information.
+As used in this section:
+(1) The term "customer proprietary network information" means—
+(A) information that relates to the quantity, technical configuration, type, destination, location, and amount of use of a telecommunications service subscribed to by any customer of a telecommunications carrier, and that is made available to the carrier by the customer solely by virtue of the carrier-customer relationship; and
+(B) information contained in the bills pertaining to telephone exchange service or telephone toll service received by a customer of a carrier.
+
+(2) The term "aggregate customer information" means collective data that relates to a group or category of services or customers, from which individual customer identities and characteristics have been removed.
+
+(3) The term "customer" means, in the case of a telecommunications service, the person identified in the account of the carrier to whose address or number the telecommunications service is provided.

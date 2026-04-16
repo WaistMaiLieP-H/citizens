@@ -1,0 +1,47 @@
+{
+  "standard": "usc_29_1113_erisa_sol",
+  "cross_references": [
+    {
+      "cite": "29 U.S.C. § 1104",
+      "label": "ERISA Fiduciary Duties — The Underlying Breach",
+      "relationship": "breach_predicate",
+      "note": "§1113 governs the limitations period for claims arising from §1104 fiduciary duty violations. The breach of the prudent expert standard and exclusive benefit rule are the substantive claims; §1113 governs when they must be filed."
+    },
+    {
+      "cite": "29 U.S.C. § 1109",
+      "label": "ERISA Fiduciary Personal Liability — The Remedy",
+      "relationship": "remedy_clock",
+      "note": "§1109 claims (make plan whole; disgorge profits) are subject to §1113. The limitations period for recovering plan losses caused by the unauthorized retirement election runs under §1113."
+    },
+    {
+      "cite": "29 U.S.C. § 1132(a)(2)",
+      "label": "ERISA Civil Enforcement — Plan Recovery",
+      "relationship": "enforcement_vehicle",
+      "note": "§1132(a)(2) suits to recover plan losses under §1109 must be filed within §1113's limitations period. The two-track structure applies to all §1132(a)(2) fiduciary breach actions."
+    },
+    {
+      "cite": "29 U.S.C. § 1132(a)(1)(B)",
+      "label": "ERISA Benefit Recovery — Separate Limitations Period",
+      "relationship": "parallel_track",
+      "note": "§1132(a)(1)(B) benefit recovery claims (to receive benefits wrongly withheld) may have a different limitations period — courts apply ERISA's analogous state limitations periods. §1113 applies to fiduciary breach claims, not necessarily to pure benefit recovery claims."
+    },
+    {
+      "cite": "Tibble v. Edison International, 575 U.S. 523 (2015)",
+      "label": "Ongoing Breach Doctrine — SOL Clock Anchor",
+      "relationship": "case_law_doctrine",
+      "note": "Each failure to review and correct a plan status is a new breach under Tibble. The 6-year long-stop runs from the last such failure, not the initial unauthorized election. Any administrative act treating the fraudulent status as valid restarts the clock."
+    },
+    {
+      "cite": "Intel Corp. v. Sulyma, 589 U.S. ___ (2020)",
+      "label": "Actual Knowledge Standard — Discovery Rule",
+      "relationship": "case_law_doctrine",
+      "note": "Actual knowledge means the plaintiff actually knew of the breach — constructive notice is not enough. A participant who received documents but was never told that an unauthorized retirement election was processed does not have actual knowledge from the documents alone."
+    },
+    {
+      "cite": "29 U.S.C. § 1053",
+      "label": "ERISA Minimum Vesting — Nonforfeitable Rights",
+      "relationship": "rights_context",
+      "note": "§1053 rights are nonforfeitable — an unauthorized election cannot extinguish vested benefits. A plan's ongoing refusal to correct the fraudulent status may constitute an ongoing breach of both §1104 and §1053 simultaneously, with the §1113 clock running from the most recent refusal."
+    }
+  ]
+}

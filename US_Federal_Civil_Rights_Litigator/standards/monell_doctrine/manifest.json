@@ -1,0 +1,64 @@
+{
+  "standard_id": "MONELL_DOCTRINE",
+  "version": "0.3.0-published",
+  "filed_at_utc": "2026-04-09T04:00:00Z",
+  "status": "PUBLISHED — ADAM + EVE DUAL WITNESS — 2026-04-12",
+  "type": "case-law doctrine (no statutory text)",
+  "primary_citation": "Monell v. Dept of Social Services, 436 U.S. 658 (1978)",
+  "five_layer_bar_status": {
+    "rule": "PRESENT — doctrine summary with the no-respondeat-superior rule and five theories of liability",
+    "reasoning": "PRESENT — explains why entity liability matters (officers can't pay judgments)",
+    "historical_loss": "PRESENT — Monroe barred entity liability for 17 years; plaintiffs could win but not collect",
+    "cross_references": "PRESENT — §1983, §815.2, §1988",
+    "verifiable_provenance": "PRESENT — all cases cited with full citations"
+  },
+  "case_law_documented": [
+    {
+      "case": "City of Canton v. Harris",
+      "citation": "489 U.S. 378 (1989)",
+      "role": "failure-to-train requires deliberate indifference"
+    },
+    {
+      "case": "Connick v. Thompson",
+      "citation": "563 U.S. 51 (2011)",
+      "role": "single-incident failure-to-train insufficient for prosecutors; pattern required"
+    }
+  ],
+  "case_law_outstanding": [
+    "Board of County Commissioners v. Brown, 520 U.S. 397 (1997) — single hiring decision liability requires deliberate indifference",
+    "Pembaur v. City of Cincinnati, 475 U.S. 469 (1986) — single decision by final policymaker can constitute municipal policy"
+  ],
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction (Michael Hartmann), 2026-04-09",
+    "herald_witness": {
+      "witness": "HERALD (Steward successor — designated 2026-04-12)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "verification_scope": "Structure, five-layer bar completeness.",
+      "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12."
+    },
+    "adam_witness": {
+      "witness": "ADAM (Seed Citizen — Builder role)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "triple_constraint": "PASS/PASS/PASS (provenance via reported citations; current/provenance.json absent — acceptable for judicial doctrine)",
+      "actions_taken": "No structural fixes needed. Cross_refs confirmed all BUILT. Historical chain verified — no-respondeat-superior rule and §815.2 distinction confirmed correct.",
+      "content_hash_verified": "e673f14e1aca1bf6ea117d9e90a033d2510f869a50a796a108f3b3fecf9252a1",
+      "signal": "APPROVE"
+    },
+    "eve_witness": {
+      "witness": "EVE (Seed Citizen — Witness role)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "five_layer_verification": "PASS/PASS/PASS/PASS/PASS",
+      "triple_constraint": "PASS/PASS/PASS",
+      "hash_independently_recomputed": "e673f14e1aca1bf6ea117d9e90a033d2510f869a50a796a108f3b3fecf9252a1 — CONFIRMED MATCHING",
+      "signal": "COUNTERSIGN"
+    },
+    "publishable_to_corpus": true,
+    "status": "PUBLISHED — ADAM + EVE DUAL WITNESS"
+  },
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "standard_id": "gov_12965_feha_civil_procedure",
+  "title": "Gov. Code \u00a7 12965 \u2014 FEHA Civil Action Procedure / Right-to-Sue",
+  "citizen": "CA_Labor_Employment_Litigator",
+  "citation": "Cal. Gov. Code \u00a7 12965",
+  "jurisdiction": "California",
+  "version": "As amended through 2023 (includes AB 9 3-year extension)",
+  "build_date": "2026-04-13",
+  "upgraded_date": "2026-04-15",
+  "build_state": "PUBLISHED",
+  "primary_cases": [
+    "#37 UA342 identity replacement (3-year CRD clock on continuing-violation pattern)",
+    "#2 Bilateral ankles (§ 12940(m)/(n) accommodation clock)",
+    "#20 SIRVA (FEHA + ADA Title I concurrent administrative filing)"
+  ],
+  "layers_present": [
+    "current/rule.md",
+    "current/reasoning.md",
+    "current/statute_text.md",
+    "current/provenance.json",
+    "historical_chain/01_origin/context.md",
+    "historical_chain/witness_record.md",
+    "case_law/downs_v_dept_water_power/holding.md",
+    "cross_refs/cross_refs.md"
+  ],
+  "layers": {
+    "rule": "COMPLETE",
+    "reasoning": "COMPLETE",
+    "statute_text": "COMPLETE",
+    "historical_chain": "COMPLETE",
+    "case_law": "COMPLETE",
+    "cross_refs": "COMPLETE"
+  },
+  "status": "PUBLISHED",
+  "supersedes": "gov_12965_feha_civil_action (older-cohort sibling; retained for provenance)",
+  "provenance": {
+    "source": "leginfo.legislature.ca.gov",
+    "tool": "mcp__claude_ai_VernenLegal__california_get_section",
+    "fetch_date": "2026-04-13",
+    "verified": true,
+    "statute_sha256": "ecab965b4dd16ec11282105b4d645f631f1aab86b064b81f36ca6d3e1bdf1033"
+  },
+  "verified": true,
+  "content_hash": "49e8f807",
+  "two_witness_status": {
+    "herald_witness": "WITNESSED-BY-HERALD \u2014 2026-04-15",
+    "adam_witness": {
+      "governing_guidelines": "PASS",
+      "standards_of_creation": "PASS",
+      "soc": "PASS",
+      "signal": "APPROVE",
+      "hash": "49e8f807",
+      "date": "2026-04-15"
+    },
+    "eve_witness": {
+      "layer_1_rule": "PASS",
+      "layer_2_reasoning": "PASS",
+      "layer_3_historical_loss": "PASS",
+      "layer_4_cross_references": "PASS",
+      "layer_5_verifiable_provenance": "PASS",
+      "triple_constraint": "PASS",
+      "signal": "COUNTERSIGN",
+      "hash_recomputed": "49e8f807",
+      "date": "2026-04-15"
+    },
+    "publication_status": "PUBLISHED \u2014 ADAM APPROVE + EVE COUNTERSIGN + HERALD WITNESS \u2014 2026-04-15"
+  },
+  "witness": { "ADAM": "APPROVE", "EVE": "COUNTERSIGN", "HERALD": "WITNESSED" }
+}

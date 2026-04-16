@@ -1,0 +1,40 @@
+{
+  "investigation_id": "benicia_pd_call_recordings",
+  "title": "Obtain Benicia PD call recording for the 2025-07-14 to 2025-07-17 calls Michael made when Cole was missing",
+  "question": "Are there preserved recordings of the Benicia PD calls Michael made between 7/14 and 7/17, 2025 trying to report Cole missing? What do the recordings show about how the calls were handled?",
+  "context": "Per project_familylaw_audit.md and project_familylaw_orchestration.md, Michael called Benicia PD for 4 days starting 7/14/2025. No officers responded and no reports were taken. On 7/17/2025 Benicia PD finally arrived — to serve the Marin restraining order on Michael, not to take his missing-Cole report. Per project_familylaw_orchestration.md: 'Benicia PD recording: not yet scanned/uploaded.'",
+  "unblock_path": "Public Records Act request to Benicia PD for: (1) all 911 and dispatch call recordings involving Michael Hartmann between 7/14/2025 and 7/17/2025; (2) all dispatch logs for those dates referencing him or Cole; (3) any officer notes or report drafts from the period. Note: 911 call recordings typically have 6-12 month retention; if not preserved by now, they may already be destroyed.",
+  "who_can_answer": "Benicia Police Department records custodian",
+  "related_actors": [],
+  "related_cases": [
+    "FL0002067"
+  ],
+  "related_standards": [
+    "CA_VEH_2800_OBEY_PEACE_OFFICER"
+  ],
+  "priority": "HIGH_TIME_SENSITIVE",
+  "status": "READY_TO_SEND",
+  "filed_at_utc": "2026-04-08T19:25:00Z",
+  "prepared_on": "2026-04-15",
+  "deliverables": [
+    {
+      "type": "outgoing_letter_cpra_plus_preservation_demand",
+      "path": "outstanding_investigations/benicia_pd_call_recordings/deliverables/outgoing_letter_or_subpoena.md"
+    },
+    {
+      "type": "recipient_routing",
+      "path": "outstanding_investigations/benicia_pd_call_recordings/deliverables/recipient_routing.md"
+    },
+    {
+      "type": "response_tracker",
+      "path": "outstanding_investigations/benicia_pd_call_recordings/deliverables/response_tracker.md"
+    }
+  ],
+  "delivery_mode": "email_plus_usps_certified_plus_city_attorney_cc",
+  "urgency_note": "Events occurred 7/14-17/2025. As of 2026-04-15 this is ~9 months — within or near the typical 6-12 month 911 retention window. Send on or before 2026-04-22. Preservation demand embedded in the letter body.",
+  "parallel_filings_recommended": [
+    "Solano County Sheriff dispatch (if BPD routes through Solano dispatch)",
+    "Marin County Sheriff (originating agency for 7/17/2025 restraining-order service)"
+  ],
+  "mailing_execution_status": "READY_TO_PRINT"
+}

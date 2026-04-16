@@ -1,0 +1,22 @@
+FLORES-FIGUEROA v. UNITED STATES
+556 U.S. 646 (2009)
+
+[Cross-reference: Full opinion text at US_Federal_Financial_Fraud_Litigator/standards/usc_18_1028a_aggravated_id_theft/case_law/interpretive/flores_figueroa_v_united_states_1028a/opinion.txt]
+
+This case appears in two standard folders:
+- usc_18_1028a_aggravated_id_theft (§1028A mandatory consecutive sentence) — canonical location
+- usc_18_1028_identity_theft (§1028 predicate offense context) — this cross-reference
+
+The case's primary impact is on § 1028A's scienter requirement. For § 1028 (the underlying identity theft statute from which § 1028A is derived), the holding confirms that knowingly using another real person's identifying information is required for the compound offense.
+
+CORE HOLDING FOR § 1028 CONTEXT:
+Congress required a mens rea of knowledge — the defendant must know the identifying information belongs to a real person — when criminalizing identity theft under the statutory scheme of § 1028 and § 1028A together.
+
+SECTION 1028 PREDICATE ANALYSIS:
+Section 1028A requires that the defendant commit a predicate felony enumerated in § 1028A(c). Section 1028(a)(7) — the use of another person's means of identification without lawful authority to commit a federal or state felony — is one of those predicates. Flores-Figueroa addressed the § 1028A overlay, but the intent standard (knowing use of real person's identity) applies to § 1028(a)(7) as well.
+
+For the steward's cases: SIM swap fraud and synthetic identity theft operations that use real Social Security numbers, real phone numbers, and real account credentials to impersonate the victim fully satisfy the Flores-Figueroa knowledge requirement — the attacker demonstrably knows the credentials belong to a real person. That is the mechanism of the attack.
+
+SOURCE PROVENANCE:
+See canonical opinion.txt at: usc_18_1028a_aggravated_id_theft/case_law/interpretive/flores_figueroa_v_united_states_1028a/opinion.txt
+Verification status: PROPOSED — cross-reference record

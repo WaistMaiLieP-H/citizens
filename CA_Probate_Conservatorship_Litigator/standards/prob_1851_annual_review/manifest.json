@@ -1,0 +1,17 @@
+{
+  "citizen": "CA_Probate_Conservatorship_Litigator",
+  "standard_id": "prob_1851_annual_review",
+  "citation": "Cal. Prob. Code § 1851",
+  "popular_name": "Court Investigator Annual Review",
+  "jurisdiction": "California",
+  "code": "PROB",
+  "section": "1851",
+  "build_state": "PUBLISHED",
+  "verified": true,
+  "fetch_method": "mcp__claude_ai_VernenLegal__california_get_section",
+  "fetch_date": "2026-04-13",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1851.&lawCode=PROB",
+  "build_date": "2026-04-13",
+  "steward": "Michael Hartmann",
+  "witness": "ADAM+EVE"
+}

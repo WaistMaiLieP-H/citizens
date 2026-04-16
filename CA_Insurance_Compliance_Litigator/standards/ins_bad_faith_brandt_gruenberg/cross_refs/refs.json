@@ -1,0 +1,25 @@
+{
+  "standard_id": "ins_bad_faith_brandt_gruenberg",
+  "cross_refs": [
+    {
+      "ref_id": "ins_790_03_unfair_claims_settlement",
+      "path": "${citizens}/CA_Insurance_Compliance_Litigator/standards/ins_790_03_unfair_claims_settlement",
+      "relationship": "Moradi-Shalal wall \u2014 \u00a7790.03 is CDI-only; this tort track is the private plaintiff alternative"
+    },
+    {
+      "ref_id": "ins_790_09_cdi_order_no_shield",
+      "path": "${citizens}/CA_Insurance_Compliance_Litigator/standards/ins_790_09_cdi_order_no_shield",
+      "relationship": "\u00a7790.09 confirms bad faith tort runs independently of CDI administrative track"
+    },
+    {
+      "ref_id": "civ_3294_punitive_damages",
+      "path": "${citizens}/CA_Civil_Litigator/standards/civ_3294_punitive_damages",
+      "relationship": "\u00a73294 governs punitive damages tier \u2014 requires malice/oppression/fraud beyond the Gruenberg 'unreasonable' standard"
+    },
+    {
+      "ref_id": "hsc_1374_30_independent_medical_review",
+      "path": "${citizens}/CA_Healthcare_Fraud_Litigator/standards/hsc_1374_30_independent_medical_review",
+      "relationship": "IMR exhaustion may be prerequisite before bad faith tort for health plan denials"
+    }
+  ]
+}

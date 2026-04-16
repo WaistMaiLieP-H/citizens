@@ -1,0 +1,12 @@
+{
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?division=3.&chapter=2.b.&lawCode=CIV",
+  "statute_citation": "Cal. Civ. Code §§2981-2984.4 (Rees-Levering Motor Vehicle Sales and Finance Act)",
+  "fetch_method": "Logical-Delta framework summary; verbatim text available at leginfo.legislature.ca.gov",
+  "fetch_timestamp_utc": "2026-04-10T00:00:00Z",
+  "retrieval_steward": "Claude (assistant) under direction of Michael Hartmann",
+  "fetch_method": "VernenLegal MCP — california_get_section (leginfo.legislature.ca.gov official source)",
+  "fetch_timestamp_utc": "2026-04-11T00:00:00Z",
+  "retrieval_steward": "Claude (assistant) under direction of Michael Hartmann",
+  "verbatim_capture_status": "COMPLETE — civ_2981_leginfo.txt contains verbatim text of §2981 (definitions)",
+  "txt_sha256": "3183904f661754e4a2f897ae349f1adc95ac1e630a7266f3e9ae17e6a6869c57"
+}

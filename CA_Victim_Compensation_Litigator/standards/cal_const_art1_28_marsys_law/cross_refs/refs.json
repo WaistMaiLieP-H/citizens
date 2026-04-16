@@ -1,0 +1,13 @@
+{
+  "standard": "cal_const_art1_28_marsys_law",
+  "refs": [
+    {"type": "statutory_implementation", "target": "Gov. Code §§ 13950-13969 (CalVCB framework)", "relationship": "CalVCB is a statutory implementation of the § 28(b)(13) constitutional restitution right (partial)"},
+    {"type": "statutory_implementation", "target": "Pen. Code §§ 679 et seq. (victim rights implementation statutes)", "relationship": "Implementing legislation for § 28 in the criminal process context"},
+    {"type": "federal_parallel", "target": "Crime Victims' Rights Act, 18 USC § 3771", "relationship": "Federal analog to Marsy's Law; applies in federal criminal proceedings"},
+    {"type": "cross_citizen", "target": "CA_Criminal_Law_Specialist", "relationship": "Criminal Law Specialist carries the criminal-process implementation of § 28; Victim Compensation Litigator carries the compensation-process overlay", "anchor": "${citizens}/CA_Criminal_Law_Specialist"},
+    {"type": "cross_citizen", "target": "US_Federal_Civil_Rights_Litigator", "relationship": "Federal procedural due process claims (42 USC § 1983) can parallel Marsy's Law violations when state actors fail to honor victim rights", "anchor": "${citizens}/US_Federal_Civil_Rights_Litigator/standards/42_usc_1983"},
+    {"type": "enforcement_mechanism", "target": "Cal. Const. Art. I § 28(c)", "relationship": "§ 28(c) explicitly makes § 28(b) rights enforceable by the victim in trial or appellate courts"},
+    {"type": "appeal_path", "target": "CCP § 1094.5 (writ of mandate)", "relationship": "Marsy's Law violations in CalVCB proceedings are reviewable on writ of mandate to superior court", "anchor": "${citizens}/CA_Civil_Litigator/standards/ccp_1094_5"}
+  ],
+  "generated_at_utc": "2026-04-11T00:00:00Z"
+}

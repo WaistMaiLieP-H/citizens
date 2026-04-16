@@ -1,0 +1,30 @@
+NAKAMURA v. PARKER
+156 Cal.App.4th 327
+California Court of Appeal, 2007
+
+FACTS:
+Hiromi Nakamura sought a domestic violence restraining order against Anthony Parker,
+seeking exclusion from their shared dwelling. The trial court issued the exclusion
+order. Parker appealed, arguing that the evidence was insufficient to meet the
+§ 6321 standard and that his due process rights were violated by the ex parte
+exclusion without adequate notice.
+
+HOLDING — CAL. FAM. CODE § 6321:
+The Court of Appeal addressed the sufficiency of evidence standard for § 6321
+exclusion orders. The court confirmed that an exclusion order under § 6321 requires
+specific evidence satisfying both prongs of the conjunctive test: (1) physical or
+emotional harm would otherwise result, and (2) the party to be excluded has assaulted
+or made credible threats. Conclusory allegations of fear, without specific conduct
+meeting the statutory definition, are insufficient. The court further confirmed that
+§ 6321(b)'s protection of property rights means the exclusion order cannot be used
+as a vehicle to determine ownership or possessory rights.
+
+SIGNIFICANCE:
+Nakamura is the primary California appellate authority establishing that § 6321
+exclusion orders are subject to rigorous evidentiary review. The court's requirement
+of specific conduct evidence — not just generalized fear — provides the framework
+for challenging fabricated exclusion orders. In the steward's case, any § 6321
+order obtained on the basis of Christina's counter-filing pattern (unsupported
+allegations, fabricated police reports) should be challenged under the Nakamura
+specificity standard. The court's articulation of § 6321(b)'s property protection
+is also relevant to the 2958 Honeysuckle equity claim.

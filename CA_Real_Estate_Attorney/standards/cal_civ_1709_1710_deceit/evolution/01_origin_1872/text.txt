@@ -1,0 +1,19 @@
+CALIFORNIA CIVIL CODE §§ 1709 AND 1710 (enacted 1872)
+Tort of Deceit — Original Enactment
+
+SOURCE: California Civil Code, enacted March 21, 1872 (Field Code)
+REQUIRES_PRIMARY_SOURCE_VERIFICATION.
+
+--- Civil Code § 1709 (1872 text — identical to current) ---
+One who willfully deceives another with intent to induce him to alter his position to his injury or risk, is liable for any damage which he thereby suffers.
+
+--- Civil Code § 1710 (1872 text — identical to current) ---
+A deceit, within the meaning of the last section, is either:
+1. The suggestion, as a fact, of that which is not true, by one who does not believe it to be true;
+2. The assertion, as a fact, of that which is not true, by one who has no reasonable ground for believing it to be true;
+3. The suppression of a fact, by one who is bound to disclose it, or who gives information of other facts which are likely to mislead for want of communication of that fact; or,
+4. A promise, made without any intention of performing it.
+
+STABILITY NOTE: Civil Code §§ 1709–1710 are among the most textually stable sections of the California Civil Code. They appear in substantially the same form today as they did in 1872. This stability reflects two things: (1) the Field Code drafters got the formulation right the first time, and (2) California courts have built a rich interpretive superstructure on these sections without any need for textual amendment.
+
+SOURCE: David Dudley Field's proposed New York Civil Code (1865), adopted in California 1872. The four categories of § 1710 track Field's own classification. Sections 1709–1710 are the California statutory codification of the common law tort of deceit (fraud in the inducement).

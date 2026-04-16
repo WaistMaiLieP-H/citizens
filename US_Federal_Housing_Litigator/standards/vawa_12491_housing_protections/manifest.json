@@ -1,0 +1,68 @@
+{
+  "standard_id": "VAWA_34_USC_12491_HOUSING_PROTECTIONS",
+  "citizen": "US_Federal_Housing_Litigator",
+  "label": "34 U.S.C. § 12491 — Violence Against Women Act Housing Protections for Survivors",
+  "status": "PUBLISHED — ADAM + EVE DUAL WITNESS — 2026-04-13",
+  "terminal": "B",
+  "build_date": "2026-04-13",
+  "built_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "verified": false,
+  "verified_note": "statute_text.md FETCH_REQUIRED — USC tool blocked for Title 34 at build time; retrieve from uscode.house.gov before filing",
+  "layers": {
+    "current": {
+      "status": "COMPLETE — FETCH_REQUIRED",
+      "files": [
+        "current/statute_text.md",
+        "current/rule.md",
+        "current/reasoning.md",
+        "current/provenance.json"
+      ],
+      "verified": false,
+      "fetch_method": "FETCH_REQUIRED — uscode.house.gov",
+      "note": "rule.md and reasoning.md drawn from training knowledge of VAWA 2005/2013/2022 text; confirm against live statute before filing"
+    },
+    "evolution": {
+      "status": "COMPLETE",
+      "stages": [
+        "evolution/01_origin_2005 — VAWA 2005 first housing provisions (public housing + Section 8 only)",
+        "evolution/02_vawa_2013_expansion — VAWA 2013 all HUD programs + emergency transfer + lease bifurcation + self-certification",
+        "evolution/03_current — VAWA 2022 LGBTQ+ inclusion + mandatory transfer plans + strengthened confidentiality"
+      ]
+    },
+    "case_law": {
+      "status": "NOTE",
+      "note": "No binding 9th Circuit authority on private right of action under § 12491 at build time. Sandy v. Boecker (D. Or. 2021) recognized private right in some district courts. Enforcement theory for this corpus: False Claims Act (31 U.S.C. § 3729) qui tam + § 1983 against government actors. Steward must verify 9th Circuit posture before filing standalone § 12491 claim."
+    },
+    "cross_refs": {
+      "status": "COMPLETE",
+      "file": "cross_refs/refs.json",
+      "ref_count": 5
+    },
+    "historical_chain": {
+      "status": "COMPLETE",
+      "file": "historical_chain/wound.md",
+      "chronicle_flag": false
+    }
+  },
+  "inversion_flag": "CRITICAL — the operative case pattern presents the INVERTED VAWA scenario: Christina occupies statutory victim role through fabricated DVRO; § 12491 was potentially used to access federally funded housing (Homeward Bound Marin) through false self-certification. False Claims Act theory requires confirmation of federal funding basis for Homeward Bound Marin.",
+  "cases_covered": [
+    "VAWA housing — Butsaya displacement (fabricated DVRO → Homeward Bound Marin placement)",
+    "FHA § 3604 companion — concurrent DV victim status + protected class claim",
+    "False Claims Act predicate — false HUD Form 5382 self-certification for federally funded housing access"
+  ],
+  "steward_verify_queue": [
+    "Full 34 U.S.C. § 12491 text — uscode.house.gov Title 34 → Chapter 121 → Subchapter III → § 12491",
+    "§ 12491(a)(3) covered housing programs list — confirm Homeward Bound Marin falls within list",
+    "Homeward Bound Marin federal funding source — CoC Program, ESG, or HUD McKinney-Vento",
+    "9th Circuit private right of action under § 12491 — current posture",
+    "False Claims Act relator standing — confirm Michael's standing as person harmed by fraudulent § 12491 claim",
+    "VAWA 2022 (Pub. L. 117-103) — confirm specific text of LGBTQ+ and mandatory transfer plan provisions"
+  ],
+  "adam_eve_status": "PUBLISHED",
+  "witness_record": {
+    "adam": "APPROVED — 2026-04-13",
+    "eve": "COUNTERSIGNED — 2026-04-13",
+    "status": "PUBLISHED",
+    "corpus_entry": "CONFIRMED"
+  }
+}

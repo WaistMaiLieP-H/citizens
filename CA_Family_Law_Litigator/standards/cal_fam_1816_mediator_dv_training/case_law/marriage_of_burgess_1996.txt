@@ -1,0 +1,12 @@
+In re Marriage of Burgess
+13 Cal.4th 25 (1996)
+California Supreme Court, 1996
+
+FACTS:
+Dissolution and custody matter involving a move-away request. The case required the court to evaluate a custody evaluator's recommendation. The Supreme Court addressed the standards for custody evaluation and the weight courts should give evaluator reports in contested custody proceedings, including cases with DV history.
+
+HOLDING — Family Code § 1816:
+The California Supreme Court confirmed that courts have broad discretion in evaluating and weighing child custody expert recommendations, but that such recommendations carry weight only to the extent the evaluator applied appropriate methodology — including proper investigation of DV history where relevant. The court's analysis supports the principle that evaluator qualifications (including DV training) directly affect the evidentiary weight of the evaluator's report. An evaluator's failure to investigate or account for DV dynamics in the family undermines the reliability of any custody recommendation.
+
+SIGNIFICANCE:
+Foundational case on the weight of custody evaluator recommendations. Under Burgess, a court is not bound by an evaluator's recommendation — and an evaluator's failure to comply with statutory training requirements (§ 1816) or statutory investigation requirements (§ 1816(d)(5)(I) collateral sources) is relevant to whether the recommendation should be credited. Pro se litigants challenging an untrained evaluator's recommendations can cite Burgess for the proposition that the court should scrutinize the methodology, not just defer to the title.

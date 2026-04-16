@@ -1,0 +1,12 @@
+{
+  "event": "Original CMIA enactment — § 56.36 civil remedies and criminal penalties established",
+  "citation": "Stats. 1981, Ch. 782, Sec. 2",
+  "bill": "AB 3439 (Keene)",
+  "year": 1981,
+  "source": "California State Archives / California Legislative Information",
+  "url": "PENDING — fetch original bill text from California State Archives or California Legislative Information historical records",
+  "sha256": "PENDING",
+  "key_amendment_citation": "Stats. 2013, Ch. 444, Sec. 5 (AB 658) — added $1,000 nominal damages, financial-gain penalty track, HIPAA affirmative defense",
+  "key_amendment_url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201320140AB658",
+  "notes": "The 2013 amendment is the critical structural change: it added the $1,000 nominal damages floor (removing the actual-harm barrier) and the $250,000 + disgorgement track for financial-gain violations. The 1981 original text is outstanding work."
+}

@@ -1,0 +1,15 @@
+{
+  "statute": "18 USC §1028A",
+  "popular_name": "Aggravated Identity Theft",
+  "enacted": "Pub. L. 108-275, Identity Theft Penalty Enhancement Act (ITPEA), July 15, 2004",
+  "effective": "2004-07-15",
+  "source_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1028A&num=0&edition=prelim",
+  "fetch_method": "WebFetch — uscode.house.gov Office of the Law Revision Counsel",
+  "fetch_timestamp_utc": "2026-04-11T00:00:00Z",
+  "retrieval_steward": "Claude (assistant) under direction of Michael Hartmann",
+  "verbatim_capture_status": "COMPLETE — usc_18_1028a_leginfo.txt contains verbatim text from uscode.house.gov",
+  "txt_sha256": "e6de86fcb54e3a070b735569b5bfd283a9f48fb326ff204321d236a49c69dc5f",
+  "key_amendment": "None — statute is as enacted; Dubin v. United States (2023) narrowed judicial interpretation of 'uses' but did not amend the text",
+  "codification_note": "18 USC is positive law title",
+  "build_date": "2026-04-11"
+}

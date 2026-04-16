@@ -1,0 +1,80 @@
+ROBERTSON v. FLEETWOOD TRAVEL TRAILERS OF CALIFORNIA, INC.
+144 Cal.App.4th 785 (2006)
+California Court of Appeal, Second Appellate District
+Decided: 2006
+
+---
+
+FACTS:
+
+The Robertsons purchased a new recreational vehicle manufactured by Fleetwood. The vehicle experienced numerous defects with the chassis, engine, roof, and interior that could not be repaired after multiple repair attempts. The Robertsons made a formal Song-Beverly repurchase demand. Fleetwood refused, and the Robertsons sued. The jury awarded actual damages, a civil penalty, and attorney's fees.
+
+The appeal raised issues about: (1) what damages are properly included in the Song-Beverly actual damages calculation; (2) the civil penalty standard; and (3) attorney's fee entitlement.
+
+---
+
+HOLDING — SONG-BEVERLY DAMAGES:
+
+ACTUAL DAMAGES UNDER § 1793.2(d)(2)(B):
+The repurchase amount includes the "actual purchase price paid or payable" — which includes:
+- Down payment (cash or trade-in value);
+- All monthly payments made;
+- All finance charges paid;
+- Sales tax;
+- License and registration fees;
+- Any other collateral charges (dealer-installed options, extended warranties, etc.);
+
+MINUS the mileage offset.
+
+COLLATERAL CHARGES AND INCIDENTAL DAMAGES:
+Civil Code § 1794(a)-(b): In addition to the repurchase amount, the buyer is entitled to:
+- Out-of-pocket expenses for repairs during the warranty period;
+- Transportation and rental car costs reasonably incurred due to the defect;
+- Any other consequential damages from the nonconformity.
+
+FINANCE CHARGES:
+The court confirmed that finance charges paid during the period the consumer owned the vehicle are part of "actual purchase price paid" and are included in the repurchase amount. The consumer should not bear the cost of financing a defective vehicle.
+
+---
+
+HOLDING — CIVIL PENALTY:
+
+The civil penalty under § 1794(c) (up to 2× actual damages) is triggered by the manufacturer's willful failure to comply with the repurchase obligation. Robertson reaffirmed that "willful" means the manufacturer knew of the obligation and chose not to comply — this is established when a formal written demand has been made and ignored, and no good-faith investigation was conducted.
+
+A form letter denial, without investigation, can support a finding of willfulness.
+
+---
+
+HOLDING — ATTORNEY'S FEES:
+
+The mandatory fee award (§ 1794(d)) includes fees for:
+- Pre-litigation demand work;
+- All litigation tasks;
+- The fee motion itself;
+- Any appellate work on the fee award.
+
+The court emphasized that courts should not apply a "proportionality" reduction that ties attorney's fees to the size of the damages award. Song-Beverly's one-way fee shifting exists precisely to make modest-damage consumer cases economically viable.
+
+---
+
+APPLICATION TO VEHICLE DEFECT CLAIMS:
+
+Robertson establishes the full scope of recoverable damages in Song-Beverly cases:
+1. Full repurchase calculation including all collateral charges and finance costs;
+2. Out-of-pocket repair and transportation costs;
+3. Civil penalty for willful non-compliance after demand;
+4. Full attorney's fees without proportionality reduction.
+
+For a consumer who financed a defective vehicle: the total recovery can substantially exceed the loan balance, because the repurchase amount (less mileage offset) is returned gross — not net of the outstanding loan. The lender is paid from the repurchase proceeds; the consumer receives the full benefit of the repurchase formula.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 144 Cal.App.4th 785 (2006)
+Official reporter: California Appellate Reports, Fourth Series, vol. 144, page 785
+Court: California Court of Appeal, Second Appellate District
+Key holdings: Full scope of Song-Beverly damages including finance charges; civil penalty willfulness standard; attorney's fees without proportionality reduction
+Source of this text: Claude training data (knowledge cutoff August 2025). Robertson v. Fleetwood is a leading Song-Beverly damages case. Full verbatim text should be verified at:
+  - courts.ca.gov
+  - Google Scholar: "Robertson v. Fleetwood Travel Trailers 144 Cal.App.4th"
+Verification status: PROPOSED — pending steward witness review

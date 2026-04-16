@@ -1,0 +1,21 @@
+{
+  "event": "HIPAA enacted; HHS directed to promulgate Privacy Rule",
+  "citation": "Health Insurance Portability and Accountability Act of 1996, Pub. L. 104-191 (August 21, 1996)",
+  "bill": "H.R. 3103 (111th Congress)",
+  "year": 1996,
+  "source": "Congress.gov / Federal Register",
+  "url": "https://www.congress.gov/bill/104th-congress/house-bill/3103",
+  "privacy_rule_promulgation": {
+    "citation": "65 Fed. Reg. 82462 (December 28, 2000)",
+    "effective_date": "April 14, 2001",
+    "compliance_date": "April 14, 2003",
+    "url": "https://www.federalregister.gov/d/00-32672"
+  },
+  "hitech_amendment": {
+    "citation": "American Recovery and Reinvestment Act of 2009 (HITECH Act), Pub. L. 111-5, Title XIII (February 17, 2009)",
+    "key_changes": "Direct business associate liability; enhanced civil monetary penalties; breach notification requirement; state AG enforcement authority",
+    "url": "https://www.congress.gov/bill/111th-congress/house-bill/1"
+  },
+  "sha256": "PENDING — compute sha256 of original HIPAA statutory text when fetched",
+  "notes": "Section 164.502 was promulgated pursuant to HIPAA § 264(a). The regulation's current form reflects both the 2000 Privacy Rule and the 2013 Omnibus Rule implementing HITECH. eCFR URL is the authoritative current text."
+}

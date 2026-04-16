@@ -1,0 +1,12 @@
+{
+  "stage": "02_amendment_1985_electronic",
+  "label": "1985 Amendment — Cordless and Cellular Telephone Coverage Added",
+  "source": "Stats. 1985, Ch. 1360",
+  "effective_date": "1986-01-01",
+  "provisions_added": [
+    "Cal. Penal Code §632.5 — cordless telephone interception prohibited",
+    "Cal. Penal Code §632.6 — cellular telephone interception prohibited"
+  ],
+  "verbatim_capture_status": "PENDING",
+  "superseded_by": "Stats. 1992, Ch. 298 added §632.7 which combined and clarified coverage — §§632.5 and 632.6 remain in code but §632.7 is the primary current provision for cellular/cordless"
+}

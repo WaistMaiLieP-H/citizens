@@ -1,0 +1,15 @@
+{
+  "standard_id": "wic_15657_elder_abuse_enhanced_remedies",
+  "layer": "historical_chain",
+  "subdirectory": "01_origin_1991",
+  "primary_source": "Cal. Welf. & Inst. Code \u00a7 15657",
+  "enactment": "Stats. 1991, Ch. 774 (Elder Abuse and Dependent Adult Civil Protection Act)",
+  "last_amended": "Stats. 2004, Ch. 823",
+  "current_form_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=15657.&lawCode=WIC",
+  "verified": true,
+  "fetch_method": "VernenLegal MCP california_get_section",
+  "fetch_date": "2026-04-12",
+  "key_case": "Delaney v. Baker, 20 Cal.4th 23 (1999)",
+  "chronicle_flag": false,
+  "chronicle_reason": "Statute is remedial; historical record documents elder abuse but is not itself discriminatory or offensive"
+}

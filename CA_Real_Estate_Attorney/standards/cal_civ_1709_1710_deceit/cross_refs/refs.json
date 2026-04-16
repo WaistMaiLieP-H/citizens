@@ -1,0 +1,19 @@
+{
+  "standard": "cal_civ_1709_1710_deceit",
+  "refs": [
+    {"type": "contract_fraud_parallel", "target": "Civ. Code § 1572 (actual fraud)", "relationship": "§ 1572 is contract fraud; §§ 1709-1710 is tort deceit. Often pleaded together.", "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_civ_1572_fraud"},
+    {"type": "damages_statute", "target": "Civ. Code § 3343 (real property fraud damages)", "relationship": "Out-of-pocket damages measure for deceit claims arising from real property transactions", "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_civ_3343_real_property_damages"},
+    {"type": "punitive_statute", "target": "Civ. Code § 3294", "relationship": "Punitive damages available for intentional deceit under § 3294(c)(3) fraud track", "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_civ_3294_punitive"},
+    {"type": "disclosure_statute", "target": "Civ. Code § 1102 et seq. (TDS)", "relationship": "Statutory disclosure duty under § 1102 creates the 'bound to disclose' prerequisite for § 1710(3) suppression", "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_civ_1102_disclosure"},
+    {"type": "economic_loss_rule_exception", "target": "Robinson Helicopter Co. v. Dana Corp. (2004) 34 Cal.4th 979", "relationship": "Intentional fraud claims under § 1709-1710 survive the economic loss rule even when the parties are in contract"},
+    {"type": "sol_rule", "target": "CCP § 338(d)", "relationship": "3-year SOL for fraud/deceit with discovery rule tolling"}
+  ],
+  "cases_to_add": [
+    "Seeger v. Odell (1941) 18 Cal.2d 409",
+    "Lazar v. Superior Court (1996) 12 Cal.4th 631",
+    "Tenzer v. Superscope (1985) 39 Cal.3d 18",
+    "Robinson Helicopter Co. v. Dana Corp. (2004) 34 Cal.4th 979",
+    "Linear Technology Corp. v. Applied Materials, Inc. (2007) 152 Cal.App.4th 115"
+  ],
+  "generated_at_utc": "2026-04-11T05:15:00Z"
+}

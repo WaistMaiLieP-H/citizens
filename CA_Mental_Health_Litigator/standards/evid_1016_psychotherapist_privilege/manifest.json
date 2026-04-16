@@ -1,0 +1,48 @@
+{
+  "standard_id": "evid_1016_psychotherapist_privilege",
+  "title": "Evid. Code \u00a7 1016 \u2014 Psychotherapist-Patient Privilege Exception",
+  "citizen": "CA_Mental_Health_Litigator",
+  "statute_reference": "Cal. Evid. Code \u00a7 1016",
+  "primary_cases": [
+    "Mental health records in discovery \u2014 patient-tender analysis",
+    "Dr. Wiita evaluation records \u2014 \u00a71016 vs. \u00a71023 distinction",
+    "False \u00a75150 hold evaluation records in civil proceedings"
+  ],
+  "layers_present": [
+    "current/rule.md",
+    "current/reasoning.md",
+    "current/statute_text.md",
+    "historical_chain/01_origin_1965/context.md",
+    "historical_chain/01_origin_1965/provenance.json",
+    "historical_chain/witness_record.md",
+    "cross_refs/refs.json"
+  ],
+  "status": "PUBLISHED",
+  "build_session": "2026-04-12",
+  "terminal": "Terminal B",
+  "verified": true,
+  "content_hash": "59b6d2ae",
+  "two_witness_status": {
+    "herald_witness": "WITNESSED-BY-HERALD \u2014 2026-04-12",
+    "adam_witness": {
+      "governing_guidelines": "PASS",
+      "standards_of_creation": "PASS",
+      "soc": "PASS",
+      "signal": "APPROVE",
+      "hash": "59b6d2ae",
+      "date": "2026-04-12"
+    },
+    "eve_witness": {
+      "layer_1_rule": "PASS",
+      "layer_2_reasoning": "PASS",
+      "layer_3_historical_loss": "PASS",
+      "layer_4_cross_references": "PASS",
+      "layer_5_verifiable_provenance": "PASS",
+      "triple_constraint": "PASS",
+      "signal": "COUNTERSIGN",
+      "hash_recomputed": "59b6d2ae",
+      "date": "2026-04-12"
+    },
+    "publication_status": "PUBLISHED \u2014 ADAM APPROVE + EVE COUNTERSIGN \u2014 2026-04-12"
+  }
+}

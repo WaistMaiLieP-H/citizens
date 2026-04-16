@@ -1,0 +1,15 @@
+{
+  "document": "California Civil Code §3333.1",
+  "source_type": "california_statute",
+  "primary_source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=3333.1.",
+  "current_as_of": "2026-04-11",
+  "original_enactment": "Stats. 1975, 2d Ex. Sess., Ch. 2, §1 (MICRA package)",
+  "effective": "1975-12-12",
+  "amendment_history": "Substantially unchanged since enactment; AB 35 (2022) did NOT amend §3333.1 (only §3333.2 was changed)",
+  "capture_method": "WebFetch — leginfo.legislature.ca.gov official source",
+  "fetch_timestamp_utc": "2026-04-11T00:00:00Z",
+  "retrieval_steward": "Claude (assistant) under direction of Michael Hartmann",
+  "verbatim_capture_status": "COMPLETE — civ_3333_1_leginfo.txt contains verbatim text from leginfo",
+  "txt_sha256": "9fe297d1c8a0a89e76dbd9a86e35003365cbed54ef882d7304483effee128ca5",
+  "build_date": "2026-04-11"
+}

@@ -1,0 +1,53 @@
+{
+  "standard_id": "CAL_CIV_CODE_52",
+  "cross_references": [
+    {
+      "citation": "Cal. Civ. Code § 51",
+      "popular_name": "Unruh Civil Rights Act",
+      "relationship": "Section 52(a) provides the remedies for violations of Section 51. Section 51 creates the right; Section 52 provides the teeth.",
+      "jurisdiction": "California"
+    },
+    {
+      "citation": "Cal. Civ. Code § 51.5",
+      "popular_name": "Discrimination based on association",
+      "relationship": "Section 52(a) provides remedies for violations of Section 51.5.",
+      "jurisdiction": "California"
+    },
+    {
+      "citation": "Cal. Civ. Code § 51.6",
+      "popular_name": "Pricing discrimination",
+      "relationship": "Section 52(a) provides remedies for violations of Section 51.6.",
+      "jurisdiction": "California"
+    },
+    {
+      "citation": "Cal. Civ. Code § 51.7",
+      "popular_name": "Ralph Civil Rights Act",
+      "relationship": "Section 52(b) provides remedies for violations of Section 51.7, including exemplary damages and $25,000 civil penalty.",
+      "jurisdiction": "California"
+    },
+    {
+      "citation": "Cal. Civ. Code § 51.9",
+      "popular_name": "Sexual harassment in professional relationships",
+      "relationship": "Section 52(b) provides remedies for violations of Section 51.9.",
+      "jurisdiction": "California"
+    },
+    {
+      "citation": "Cal. Civ. Code § 52.1",
+      "popular_name": "Tom Bane Civil Rights Act (Bane Act)",
+      "relationship": "IMPORTANT: The Bane Act has its OWN remedies provision built into Section 52.1 itself. Bane Act claims are NOT remedied through Section 52. Section 52.1 provides treble damages, attorney's fees, and a civil penalty independently. Do not confuse them.",
+      "jurisdiction": "California"
+    },
+    {
+      "citation": "Gov. Code § 12948",
+      "popular_name": "Civil Rights Department administrative complaints",
+      "relationship": "Section 52(f) provides that aggrieved persons may file administrative complaints with the Civil Rights Department under this section as an alternative to court action.",
+      "jurisdiction": "California"
+    },
+    {
+      "citation": "42 USC § 1988",
+      "popular_name": "Federal civil rights attorney's fees",
+      "relationship": "Federal counterpart — Section 1988 provides attorney's fees for federal civil rights claims the same way Section 52 provides them for state civil rights claims. Both serve the same function: making civil rights cases economically viable for attorneys to take.",
+      "jurisdiction": "United States (federal)"
+    }
+  ]
+}

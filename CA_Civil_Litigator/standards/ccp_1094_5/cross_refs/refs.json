@@ -1,0 +1,29 @@
+{
+  "standard_id": "CCP_1094_5",
+  "cross_references": [
+    {
+      "target_standard": "CCP_1085",
+      "relationship": "sibling \u2014 traditional mandamus for ministerial duties. \u00a71085 compels an official to do what the law requires. \u00a71094.5 reviews whether an agency abused its discretion in a decision after a hearing. Different tools for different problems.",
+      "target_citizen": "CA_Civil_Litigator",
+      "build_status": "BUILT \u2014 WITNESSED-BY-HERALD 2026-04-12"
+    },
+    {
+      "target_standard": "GOV_CODE_11500",
+      "relationship": "procedural foundation \u2014 the Administrative Procedure Act (Gov. Code \u00a7\u00a711500+) governs the hearings that produce the administrative decisions reviewed under \u00a71094.5. The APA sets the hearing rules; \u00a71094.5 sets the judicial review rules.",
+      "build_status": "NOT BUILT AS STANDALONE STANDARD \u2014 Cal. APA (Gov. Code \u00a7\u00a711500+) procedural context documented within ccp_1094_5 reasoning layer."
+    },
+    {
+      "target_standard": "GOV_CODE_810",
+      "relationship": "framework sibling \u2014 Government Claims Act. When an administrative agency decision causes harm, the question of whether the entity is liable in tort is governed by the Claims Act (\u00a7\u00a7810-996.6). \u00a71094.5 reviews the decision; the Claims Act governs liability for damages.",
+      "target_citizen": "CA_Civil_Litigator",
+      "build_status": "BUILT (this session)"
+    },
+    {
+      "target_standard": "42_USC_1983",
+      "relationship": "federal alternative \u2014 when a state agency decision violates federal constitutional rights, \u00a71983 provides a federal cause of action. The exhaustion of state remedies (including \u00a71094.5) is NOT required before filing a \u00a71983 claim (Patsy v. Board of Regents, 457 U.S. 496 (1982)).",
+      "target_citizen": "US_Federal_Civil_Rights_Litigator",
+      "build_status": "BUILT"
+    }
+  ],
+  "refs_updated": "2026-04-12 \u2014 ADAM review pass; build_status fields updated to reflect current corpus state"
+}

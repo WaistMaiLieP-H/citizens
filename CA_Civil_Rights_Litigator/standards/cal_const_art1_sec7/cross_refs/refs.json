@@ -1,0 +1,26 @@
+{
+  "standard_id": "CAL_CONST_ART1_SEC7",
+  "cross_references": [
+    {
+      "ref_id": "US_CONST_AMEND_XIV",
+      "citation": "U.S. Const. amend. XIV",
+      "title": "Fourteenth Amendment — Due Process and Equal Protection",
+      "relationship": "federal_counterpart",
+      "note": "Section 7(a) tracks the Fourteenth Amendment's due process and equal protection guarantees but is independently enforceable and can be interpreted more broadly by California courts."
+    },
+    {
+      "ref_id": "CAL_CONST_ART1_SEC1",
+      "citation": "Cal. Const. art. I, § 1",
+      "title": "Inalienable Rights",
+      "relationship": "complementary",
+      "note": "Section 1 declares inalienable rights including liberty and privacy. Section 7 provides the procedural and equal protection framework that enforces those rights against government deprivation."
+    },
+    {
+      "ref_id": "42_USC_1983",
+      "citation": "42 U.S.C. § 1983",
+      "title": "Civil Action for Deprivation of Rights",
+      "relationship": "enforcement_mechanism",
+      "note": "Section 1983 provides a federal cause of action for Fourteenth Amendment violations by state actors. State § 7 claims run in parallel — the federal claim under the Fourteenth Amendment via § 1983, the state claim directly under § 7."
+    }
+  ]
+}

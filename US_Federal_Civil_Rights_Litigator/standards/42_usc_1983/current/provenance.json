@@ -1,0 +1,12 @@
+{
+  "standard_id": "42_USC_1983",
+  "source_url_primary": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1983&num=0&edition=prelim",
+  "source_url_secondary": "https://www.law.cornell.edu/uscode/text/42/1983",
+  "fetch_timestamp_utc": "2026-04-08T23:50:00Z",
+  "fetch_tool": "WebFetch (Claude Code)",
+  "retrieval_steward": "Claude (assistant) under steward direction — Michael Hartmann",
+  "text_file": "42_usc_1983_text.txt",
+  "text_sha256": "9a59435409c144e00b31f44877b663871e323194a80226428cb5c0c43b928aea",
+  "edition": "prelim (current as of 2026-04-08)",
+  "notes": "Text confirmed identical across both sources. Includes 1979 DC amendment (Pub. L. 96-170) and 1996 judicial immunity amendment (Pub. L. 104-317)."
+}

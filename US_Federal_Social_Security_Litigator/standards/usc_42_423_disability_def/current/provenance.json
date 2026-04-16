@@ -1,0 +1,56 @@
+{
+  "standard_id": "USC_42_423_DISABILITY_DEFINITION",
+  "provenance_layer": "current",
+  "primary_source": {
+    "citation": "42 U.S.C. § 423",
+    "title": "Social Security Act, Title II — Federal Old-Age, Survivors, and Disability Insurance Benefits",
+    "publisher": "United States House Office of the Law Revision Counsel",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section423",
+    "verified": false,
+    "verification_note": "USC tool returned 'not found' for this section. statute_text.md reflects authoritative knowledge of 42 U.S.C. § 423(d) — verify text against uscode.house.gov before formal publication.",
+    "retrieval_date": "2026-04-12"
+  },
+  "supporting_authorities": [
+    {
+      "citation": "42 U.S.C. § 405(g)",
+      "description": "Judicial review provision — federal district court jurisdiction to review final SSA decisions; substantial evidence standard",
+      "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section405",
+      "verified": false
+    },
+    {
+      "citation": "42 U.S.C. § 416(i)",
+      "description": "Disability definition for DIB purposes; disability freeze provisions",
+      "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section416",
+      "verified": false
+    },
+    {
+      "citation": "20 C.F.R. § 404.1505",
+      "description": "Basic definition of disability — regulatory implementation of § 423(d)",
+      "url": "https://www.ecfr.gov/current/title-20/chapter-III/part-404/subpart-P/section-404.1505",
+      "verified": false
+    }
+  ],
+  "key_cases": [
+    {
+      "citation": "Richardson v. Perales, 402 U.S. 389 (1971)",
+      "holding": "Supreme Court: substantial evidence standard applies to SSA disability determinations under § 405(g); hearsay medical reports may constitute substantial evidence"
+    },
+    {
+      "citation": "Mathews v. Eldridge, 424 U.S. 319 (1976)",
+      "holding": "Due process minimum for disability benefit termination established; three-factor balancing test for procedural requirements"
+    },
+    {
+      "citation": "Cleveland v. Policy Mgmt. Sys. Corp., 526 U.S. 795 (1999)",
+      "holding": "SSDI claim for inability to work not judicially estopped from ADA claim; different definitional frameworks"
+    }
+  ],
+  "legislative_history": {
+    "origin": "Social Security Amendments of 1956 (Pub. L. 84-880) — initial disability insurance program",
+    "disability_definition_added": "Social Security Amendments of 1967 (Pub. L. 90-248) — tightened definition; added 'any other work in national economy' language at § 423(d)(2)(A)",
+    "durational_requirement": "12-month duration requirement codified in 1967 amendments",
+    "note": "Prior to 1967, disability could be established under a more permissive standard; the 1967 narrowing created the definition that still governs today"
+  },
+  "witness": "ADAM+EVE — see reviews",
+  "status": "PROPOSED",
+  "build_session": "2026-04-12"
+}

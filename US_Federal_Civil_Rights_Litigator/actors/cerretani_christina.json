@@ -1,0 +1,11 @@
+{
+  "actor_id": "cerretani_christina",
+  "shared_record": "${citizens}/_shared_actors/cerretani_christina.json",
+  "domain": "US_Federal_Civil_Rights_Litigator",
+  "role": "§1983 defendant (individual) — participated in conspiracy to deprive steward of due process and custody rights; §1985 co-conspirator with Ann Hillberg and state actors",
+  "risk_level": "HIGH",
+  "applicable_standards": ["42_USC_1983", "42_USC_1985"],
+  "theory_of_liability": "Private party who acted in concert with state actors (APD officers, court-connected mediator Ajaniku) to deprive steward of custody. The 16-year counter-filing playbook is evidence of willful participation in the conspiracy. Under Dennis v. Sparks, 449 U.S. 24 (1980), private parties who conspire with state actors to deprive constitutional rights are liable under §1983.",
+  "immunity_analysis": "None. Private parties have no qualified or absolute immunity under §1983.",
+  "filed_at_utc": "2026-04-08T22:00:00Z"
+}

@@ -1,0 +1,73 @@
+GROSS NEGLIGENCE STANDARD UNDER BUSINESS & PROFESSIONS CODE § 2234(b)
+(Medical Board of California Disciplinary Standards — Case Law Interpretive)
+
+NOTE: This folder documents the California Medical Board's disciplinary standard for "gross negligence" under Business & Professions Code § 2234(b) through the relevant case law. This is an administrative/disciplinary standard, and the primary authority consists of Medical Board decisions, OAH decisions, and California court decisions reviewing those determinations.
+
+---
+
+BUSINESS & PROFESSIONS CODE § 2234(b) — GROSS NEGLIGENCE:
+
+Section 2234 provides for disciplinary action against a physician's and surgeon's certificate holder for:
+"(b) Gross negligence."
+
+STATUTORY DEFINITION — GROSS NEGLIGENCE IN CALIFORNIA MEDICAL BOARD CONTEXT:
+California courts and the Medical Board have defined "gross negligence" in the § 2234(b) context as:
+
+An extreme departure from the standard of care which, under similar circumstances, would have been recognized by a reasonable medical practitioner as creating an unreasonable risk of harm to the patient. Gross negligence differs from ordinary negligence in that it involves a more extreme, reckless disregard for the patient's well-being.
+
+The standard is higher than ordinary negligence (§ 2234(c)) but does not require intentional conduct.
+
+---
+
+KEY ELEMENTS OF GROSS NEGLIGENCE UNDER § 2234(b):
+
+1. EXTREME DEPARTURE: The departure from the standard of care must be extreme, not merely substandard. A medical error alone does not constitute gross negligence.
+
+2. OBJECTIVELY RECOGNIZABLE RISK: A reasonable medical practitioner in the same specialty, under similar circumstances, would have recognized the departure as creating an unreasonable risk of harm.
+
+3. SINGLE INCIDENT: Unlike § 2234(c) (repeated negligent acts, which requires a pattern), gross negligence can be established by a single egregious incident.
+
+4. CAUSATION IS NOT REQUIRED FOR DISCIPLINE: For disciplinary purposes under § 2234(b), the Medical Board need not prove that the gross negligence caused actual patient harm. The extreme departure from the standard of care is itself the basis for discipline.
+
+---
+
+EXAMPLES OF CONDUCT HELD TO CONSTITUTE GROSS NEGLIGENCE:
+
+California OAH decisions and Medical Board cases have found gross negligence where:
+- A surgeon operated on the wrong site or wrong patient;
+- A physician discharged a patient in acute distress without adequate evaluation;
+- A prescribing physician provided controlled substances without examination or monitoring;
+- A physician falsified or failed to maintain required medical records during an ongoing treatment relationship;
+- Post-operative complications were ignored despite clear warning signs.
+
+---
+
+RELATIONSHIP TO CIVIL MALPRACTICE STANDARD:
+
+The Medical Board's § 2234(b) gross negligence standard is not identical to civil malpractice:
+- Civil malpractice: ordinary negligence (departure from the standard of care causing injury);
+- § 2234(b) discipline: extreme departure from the standard of care (gross negligence);
+- The conduct that constitutes § 2234(b) gross negligence is typically also civil malpractice, but the reverse is not always true.
+
+Medical Board findings of gross negligence (even if the physician is not criminally charged) are admissible in civil proceedings and can support civil malpractice claims based on the same conduct.
+
+---
+
+APPLICATION TO MEDICAL FRAUD / SURGICAL MALPRACTICE:
+
+For a case involving surgery performed without adequate patient assessment, on a patient who lacked informed consent, or with clear disregard for post-surgical complications:
+1. If the conduct constitutes an extreme departure from the standard of care, § 2234(b) provides a disciplinary pathway;
+2. The Medical Board's investigation and findings are separate from the civil case but can provide corroborating evidence;
+3. A § 2234(b) finding that the conduct was grossly negligent supports punitive damages in civil litigation (Civil Code § 3294(c)(2) — despicable conduct with conscious disregard for safety).
+
+FOR SIRVA CASES: A botched vaccine injection (incorrect site, incorrect depth, failure to follow vaccination protocol) by a trained healthcare provider who knew or should have known the correct technique is an extreme departure from the standard of care — potentially gross negligence under § 2234(b).
+
+---
+
+SOURCE PROVENANCE:
+Authority: Bus. & Prof. Code § 2234(b); California OAH decisions; California Court of Appeal decisions reviewing Medical Board actions.
+Source of this text: Claude training data (knowledge cutoff August 2025). Specific Medical Board gross negligence decisions should be verified at:
+  - California Medical Board disciplinary actions: mbc.ca.gov
+  - California OAH: oah.ca.gov
+  - Courts: "gross negligence 2234" in California courts
+Verification status: PROPOSED — pending steward witness review

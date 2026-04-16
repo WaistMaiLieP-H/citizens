@@ -1,0 +1,18 @@
+California Penal Code § 502 — Comprehensive Computer Data Access and Fraud Act (selected operative provisions)
+
+(a) It is the intent of the Legislature in enacting this section to expand the degree of protection afforded to individuals, businesses, and governmental agencies from tampering, interference, damage, and unauthorized access to lawfully created computer data and computer systems. The Legislature finds and declares that the proliferation of computer technology has resulted in a concomitant proliferation of computer crime and other forms of unauthorized access to computers, computer systems, and computer data.
+
+(b) For the purposes of this section, the following terms have the following meanings:
+(1) "Access" means to gain entry to, instruct, cause input to, cause output from, cause data processing with, or communicate with, the logical, arithmetical, or memory function resources of a computer, computer system, or computer network.
+(2) "Computer network" means any system that provides communications between one or more computer systems and input/output devices, including, but not limited to, display terminals, remote systems, and printers connected by telecommunication facilities.
+(3) "Computer system" means a machine or collection of machines, one or more of which contain computer programs and information, that performs functions including, but not limited to, logic, arithmetic, information storage and retrieval, communications, and control.
+
+(c) Except as provided in subdivision (h), any person who commits any of the following acts is guilty of a public offense:
+(1) Knowingly accesses and without permission alters, damages, deletes, destroys, or otherwise uses any data, computer, computer system, or computer network in order to either (A) devise or execute any scheme or artifice to defraud, deceive, or extort, or (B) wrongfully control or obtain money, property, or data.
+(2) Knowingly accesses and without permission takes, copies, or makes use of any data from a computer, computer system, or computer network, or takes or copies any supporting documentation, whether existing or residing internal or external to a computer, computer system, or computer network.
+(3) Knowingly and without permission uses or causes to be used computer services.
+(7) Knowingly and without permission accesses or causes to be accessed any computer, computer system, or computer network.
+
+(e)(1) In addition to any other civil remedy available, the owner or lessee of the computer, computer system, computer network, computer program, or data who suffers damage or loss by reason of a violation of subdivision (c) may bring a civil action against the violator for compensatory damages and injunctive relief or other equitable relief. Compensatory damages shall include any expenditure reasonably and necessarily incurred by the owner or lessee to verify that a computer system, computer network, computer program, or data was or was not altered, damaged, or deleted by the access. For the purposes of actions authorized by this subdivision, the negligent access and alteration, damage, deletion, destruction, or other use of any data, computer, computer system, or computer network shall be sufficient to support a civil action.
+
+(g) This section shall not be construed to preclude the applicability of any other provision of the criminal law of this state which applies or may apply to any transaction, nor shall it preclude recovery on other civil theories.

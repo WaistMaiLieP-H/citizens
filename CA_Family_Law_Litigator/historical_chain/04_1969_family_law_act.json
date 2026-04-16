@@ -1,0 +1,75 @@
+{
+  "sequence": 4,
+  "year": 1969,
+  "name": "California Family Law Act of 1969 (Stats. 1969 Ch. 1608) — no-fault divorce",
+  "popular_name": "Family Law Act of 1969",
+  "status": "PRIMARY-SOURCE-VERIFIED 2026-04-15",
+  "filed_at_utc": "2026-04-08T19:10:00Z",
+  "deepened_at_utc": "2026-04-15T00:00:00Z",
+  "deepened_by": "EVE (Legal/Statutory Auditor) under steward direction",
+
+  "primary_source_artifacts": {
+    "vol2_chapters_pdf": {
+      "path": "${citizens}/_shared_statutes_archive/1969_Vol2_Chapters.pdf",
+      "size_bytes": 153070717,
+      "sha256": "b51e04f1ba31c53adbff590dfd2151bb7728d6992ee8aa29f3c7ef1fde52a1ec",
+      "pages": 2412,
+      "scope": "Chapters 1175–1619 of the 1969 Regular Session",
+      "creator_software": "PDFlib+PDI 6.0.3 (COM/Win32)",
+      "pdf_creation_date": "2021-09-30T16:34:39-07:00",
+      "title_metadata": "1969 Statutes & Resolutions, Volume 2",
+      "source_url": "https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1969/69Vol2_Chapters.pdf",
+      "source_authority": "California State Assembly, Office of the Chief Clerk",
+      "fetched_at_utc": "2026-04-15T05:22:00Z",
+      "fetched_by": "EVE via curl with resume (-C -); 10-attempt retry loop; connection-reset issues on server required resume"
+    },
+    "text_extract": {
+      "path": "${citizens}/CA_Family_Law_Litigator/historical_chain/04_1969_chapter_1608_pages/ch1608_head_text_extract.txt",
+      "sha256": "4404da1912578909705b5a474e3267f053f8c9baa341b2ba2e92f20936dcf74f",
+      "content": "pdftotext -layout extract of Ch. 1608 opening sections SEC. 1 through SEC. 14 (printed pages 3313–3320 of the 1969 Vol 2). Used for verbatim text capture of operative provisions. Generated 2026-04-15 from full PDF.",
+      "ch1608_location_in_vol2_text": "line 54829 of pdftotext extract; Ch. 1608 title page at printed page 3313."
+    }
+  },
+
+  "official_enactment_recitals_verbatim": {
+    "long_title": "An act to amend Sections 25, 25.6, and 196a of, to add Section 195 to, and to add Part 5 (commencing with Section 4000) to Division 4 of, and to repeal Title 1 (commencing with Section 55) of Part 3 of Division 1 of, and to repeal Sections 199 and 214 of, the Civil Code, and to amend Sections 285.1, 395, 396a, 397, 426a, 426c, 1761, 1769, 1770, 1771, and 1772 of, and to repeal Sections 125, 426o and 1019 of, the Code of Civil Procedure, and to amend Section 26859 of the Government Code, and to amend Sections 10360, 10361, 10362, 10363, 10364, 10366, 10368, 10369, and 10371 of, and to repeal Sections 10365 and 10370 of, the Health and Safety Code, and to repeal Section 740.1 of the Welfare and Institutions Code, relating to domestic relations.",
+    "approval_line": "Approved by Governor September 4, 1969. Filed with Secretary of State September 6, 1969.",
+    "approval_note": "EVE 2026-04-15: Prior stub cited 'signed by Governor Ronald Reagan on September 5, 1969' — PRIMARY-SOURCE CORRECTION: the chaptered text reads 'September 4, 1969' (approval) and 'September 6, 1969' (filing with Secretary of State). Author (Assemblyman James A. Hayes) and substantive Reagan signature are confirmed from this era but September 5 was an error. Captured as 2026-04-15 EVE finding.",
+    "enacting_clause": "The people of the State of California do enact as follows:"
+  },
+
+  "load_bearing_provisions_verbatim": {
+    "civ_code_4506": {
+      "verbatim": "4506. A court may decree a dissolution of the marriage or legal separation on either of the following grounds, which shall be pleaded generally: (1) Irreconcilable differences, which have caused the irremediable breakdown of the marriage. (2) Incurable insanity.",
+      "source_page": "printed page 3324 (pdftotext line ~55453)",
+      "significance": "The no-fault ground statute. This is the single provision that made the Family Law Act of 1969 the first no-fault divorce law in the United States. It replaced the prior fault grounds (adultery, extreme cruelty, willful desertion, willful neglect, habitual intemperance, conviction of felony, incurable insanity) with two grounds, only one of which (irreconcilable differences) is discretionary."
+    },
+    "civ_code_4507": {
+      "verbatim": "4507. Irreconcilable differences are those grounds which are determined by the court to be substantial reasons for not continuing the marriage and which make it appear that the marriage should be dissolved.",
+      "source_page": "printed page 3324",
+      "significance": "Defines the 'irreconcilable differences' standard. Deliberately non-specific — the Legislature refused to list enumerated grounds, leaving the determination to the court on the totality of circumstances."
+    },
+    "civ_code_4508_a": {
+      "verbatim": "4508. (a) If from the evidence at the hearing and contained in the confidential questionnaire, the court finds that there are irreconcilable differences, which have caused the irremediable breakdown of the marriage, it shall order the dissolution of the marriage or a legal separation. If it appears that there is a reasonable possibility of reconciliation, the court shall continue the proceeding for a period not to exceed 30 days.",
+      "source_page": "printed page 3324–3325",
+      "significance": "The mandatory-dissolution rule: if the court finds irreconcilable differences, it 'shall' order dissolution. Only the 30-day reconciliation continuance preserves any judicial discretion."
+    }
+  },
+
+  "context": "Authored by Assemblyman James A. Hayes (chairman of the Assembly Judiciary Committee) and signed by Governor Ronald Reagan on September 4, 1969 (prior stub cited September 5 — superseded). Effective January 1, 1970. The Family Law Act of 1969 was the first no-fault divorce law in the United States. It abolished the prior fault-based grounds for divorce in California (adultery, extreme cruelty, willful desertion, willful neglect, habitual intemperance, conviction of felony, incurable insanity) and replaced them with two grounds: irreconcilable differences (new) and incurable insanity (retained). The Act also renamed 'divorce' to 'dissolution of marriage' and 'alimony' to 'spousal support.' The operative codification vehicle was the addition of Part 5 (commencing with Civil Code § 4000) to Division 4 of the Civil Code — all of which was later carried forward into the 1992 Family Code consolidation.",
+
+  "doctrinal_significance": "The 1969 Family Law Act is the most significant single change in California family law since 1872. It eliminated fault as a substantive issue in dissolution proceedings, transforming the litigation from an adversarial inquiry into marital wrongdoing into a more administrative determination of property division, support, and custody. The Act also restructured the procedural framework, replacing the prior 'divorce action' with the modern dissolution proceeding under FL-100 (Petition for Dissolution). California's no-fault model was rapidly adopted by other states throughout the 1970s. The 1969 Act is the doctrinal predecessor of every dissolution action filed in California today, including the steward's RF09470833 (2009) and Christina's RF10508853 (2010) dissolutions.",
+
+  "witness_chain": {
+    "filed_by": "Claude (assistant) at first-mouth level 2026-04-08 (stub)",
+    "deepened_by": "EVE 2026-04-15 from primary-source PDF pull",
+    "eve_witness": {
+      "witnessed_at_utc": "2026-04-15T00:00:00Z",
+      "scope": "Legal witness — verbatim capture of long title, approval line, §§ 4506/4507/4508(a) against the Assembly Chief Clerk PDF; September 4 approval date corrected."
+    },
+    "adam_witness": {
+      "witnessed_at_utc": "2026-04-15T00:00:00Z",
+      "scope": "Structural witness — PDF sha256 hash verified (b51e04f1...); text extract hash verified; source authority = Cal. Assembly Chief Clerk matches 1993 Stats chain-of-custody pattern."
+    }
+  }
+}

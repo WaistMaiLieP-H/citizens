@@ -1,0 +1,59 @@
+KOREA SUPPLY CO. v. LOCKHEED MARTIN CORP.
+29 Cal.4th 1134 (2003)
+Supreme Court of California
+Decided: July 7, 2003
+Author: MORENO, J.
+
+---
+
+FACTS:
+
+Korea Supply Co. was an exclusive sales representative of Cubic Defense Systems. Lockheed Martin allegedly bribed South Korean government officials to ensure that its competing bid (rather than Cubic's, represented by Korea Supply) was selected for a major defense contract. Korea Supply brought a UCL claim for non-restitutionary disgorgement of the profits Lockheed made from the bribery scheme.
+
+The central question: Does the UCL authorize non-restitutionary disgorgement — requiring the defendant to give up profits derived from its unfair competition, even profits not directly taken from the plaintiff?
+
+---
+
+HOLDING:
+
+NO. The UCL's equitable remedy provisions are limited to:
+1. Injunctive relief under § 17203; and
+2. Restitution — returning to the plaintiff money or property wrongfully obtained FROM the plaintiff by the defendant's unfair or unlawful conduct.
+
+Non-restitutionary disgorgement — compelling the defendant to surrender profits derived from third parties or from transactions not involving the plaintiff — is NOT an available remedy for a private UCL plaintiff.
+
+"A disgorgement remedy is available only where such remedy is restitutionary in nature. And a remedy is restitutionary only where it restores to the plaintiff money that was taken from the plaintiff." 29 Cal.4th at 1148.
+
+Korea Supply could not recover the profits Lockheed made from the South Korean defense contract because Korea Supply did not pay those profits to Lockheed — they came from the Korean government. Korea Supply's own financial injury (the commission it would have earned) is the appropriate measure of its claim.
+
+---
+
+THE RESTITUTION vs. DISGORGEMENT DISTINCTION:
+
+RESTITUTION (available): Defendant obtained money FROM the plaintiff through an unfair or unlawful practice. Defendant must return that money. Example: a consumer paid $10,000 for a fraudulently represented vehicle → restitution = return the $10,000.
+
+NON-RESTITUTIONARY DISGORGEMENT (NOT available): Defendant earned profits from unfair conduct that did not come from the plaintiff. Example: a dealer who defrauded 1,000 consumers of $1,000 each — a class plaintiff cannot recover the $999,000 paid by all the other consumers under UCL alone (though class-wide restitution may be available if all class members establish they paid money to the defendant based on the same unfair practice).
+
+---
+
+PRACTICAL IMPLICATIONS FOR UCL CLASS ACTIONS:
+
+For consumer class actions under the UCL (e.g., auto fraud affecting all buyers of a certain dealer), Korea Supply means:
+
+1. Each class member's UCL claim is limited to what that member paid to the defendant — the class may recover aggregate restitution of amounts paid by all class members, but this is properly characterized as restitution to each class member, not disgorgement of total profits.
+
+2. UCL restitution is a ceiling at what each plaintiff paid — the defendant cannot be required to pay more than each plaintiff paid in.
+
+3. For a UCL-only case against a dealer who profited greatly from fraud (by also selling the trade-in at a premium, for example), the profit from the trade-in sale is not recoverable as UCL disgorgement — it must be recovered through other theories (Civ §1709 deceit, CLRA actual damages, Civ §3343 real property damages if applicable).
+
+---
+
+SOURCE PROVENANCE:
+Citation: 29 Cal.4th 1134 (2003)
+Official reporter: California Reports, Fourth Series, vol. 29, page 1134
+Court: Supreme Court of California
+Key quoted passage: 29 Cal.4th at 1148 (restitution limitation)
+Source of this text: Claude training data (knowledge cutoff August 2025). Korea Supply is the controlling authority on UCL monetary remedy limitations. Full verbatim text should be verified at:
+  - courts.ca.gov
+  - Google Scholar: "Korea Supply v. Lockheed Martin"
+Verification status: PROPOSED — pending steward witness review

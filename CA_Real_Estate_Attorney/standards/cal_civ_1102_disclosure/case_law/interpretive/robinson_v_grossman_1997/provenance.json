@@ -1,0 +1,12 @@
+{
+  "case_name": "Robinson v. Grossman",
+  "citation": "57 Cal.App.4th 634 (1997)",
+  "court": "California Court of Appeal, Third Appellate District",
+  "year": 1997,
+  "source": "Claude training data (knowledge cutoff August 2025)",
+  "verification_status": "PROPOSED — citation requires verification; recommend Casetext / Google Scholar: 'Robinson v. Grossman 57 Cal.App.4th 634' before citing in filed document",
+  "key_holding": "TDS disclosure obligation extends to known historical conditions even if remediated; seller's belief that defect was 'fixed' does not eliminate disclosure duty; prior material defects are disclosable under § 1102 and actionable under § 1102.4 strict liability and § 1572 fraud",
+  "standard_cited": "cal_civ_1102_disclosure",
+  "built_by": "HERALD (acting witness Citizen) — Michael Hartmann steward",
+  "built_at_utc": "2026-04-12T00:00:00Z"
+}

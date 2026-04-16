@@ -1,0 +1,89 @@
+{
+  "standard": "cal_civ_1572_fraud",
+  "description": "Statutes and rules that interact with Civil Code § 1572 in California real estate fraud litigation.",
+  "refs": [
+    {
+      "type": "companion_statute",
+      "target": "California Civil Code § 1567 (consent not free when obtained by fraud)",
+      "relationship": "§ 1567 is the consent-invalidating statute; § 1572 is the definition of the fraud that invalidates consent. Both must be pleaded together when the plaintiff seeks rescission.",
+      "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_civ_1567_consent (to be built)"
+    },
+    {
+      "type": "companion_statute",
+      "target": "California Civil Code § 1573 (constructive fraud)",
+      "relationship": "Separate from § 1572 actual fraud. § 1573 applies when there is a fiduciary relationship and a breach of duty without the specific intent element required by § 1572. A plaintiff may plead both in the alternative.",
+      "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_civ_1573_constructive_fraud (to be built)"
+    },
+    {
+      "type": "companion_statute",
+      "target": "California Civil Code §§ 1709-1710 (deceit)",
+      "relationship": "§ 1709 creates the tort of deceit; § 1710 defines the four kinds of deceit (substantially parallel to § 1572). The combination of § 1572 (contract fraud) and §§ 1709-1710 (tort deceit) allows plaintiffs to plead both contract rescission and tort damages.",
+      "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_civ_1709_deceit (to be built)"
+    },
+    {
+      "type": "damages_statute",
+      "target": "California Civil Code § 3294 (punitive damages)",
+      "relationship": "Fraud under § 1572 is a triggering basis for punitive damages under § 3294 (clear-and-convincing-evidence standard). Every § 1572 complaint should also plead § 3294 to preserve punitive relief.",
+      "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_civ_3294_punitive"
+    },
+    {
+      "type": "damages_statute",
+      "target": "California Civil Code § 3343 (real property fraud damages)",
+      "relationship": "§ 3343 provides the out-of-pocket measure of damages for real property fraud. For § 1572 claims arising from real estate transactions, § 3343 controls the damages calculation (difference between price paid and actual value received), augmented by consequential damages.",
+      "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_civ_3343_real_property_fraud_damages (to be built)"
+    },
+    {
+      "type": "disclosure_duty_statute",
+      "target": "California Civil Code § 1102 et seq. (Transfer Disclosure Statement)",
+      "relationship": "§ 1102 creates an affirmative statutory duty to disclose in residential real property transactions. Failure to comply with § 1102 can constitute suppression under § 1572(3) without any additional proof of duty.",
+      "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_civ_1102_disclosure"
+    },
+    {
+      "type": "community_property_statute",
+      "target": "California Family Code § 1100 (community property management)",
+      "relationship": "§ 1100 governs which spouse has authority to dispose of community real property. A misrepresentation of authority to transfer community property is a § 1572(2) reckless assertion. § 1100(e) imposes fiduciary duty with affirmative disclosure obligation — parallel to § 1572(3).",
+      "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_fam_1100_community_property"
+    },
+    {
+      "type": "broker_duty_statute",
+      "target": "California Business & Professions Code § 10176 (real estate broker prohibited conduct)",
+      "relationship": "§ 10176 enumerates misconduct grounds for broker license discipline, including fraud, substantial misrepresentation, false promise, and concealment. Every § 10176 violation is also a § 1572 civil claim.",
+      "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_bp_10176_broker (to be built)"
+    },
+    {
+      "type": "procedural_statute",
+      "target": "California Code of Civil Procedure § 338(d) (3-year statute of limitations for fraud)",
+      "relationship": "§ 338(d) sets the SOL for fraud actions at three years from discovery of the facts constituting fraud. Discovery rule is critical — the 3-year clock runs from when plaintiff discovers or should have discovered the fraud, not from the date of the fraudulent act.",
+      "anchor": "${citizens}/CA_Civil_Litigator/standards/ccp_338_d (to be cross-referenced from CA_Civil_Litigator)"
+    },
+    {
+      "type": "pleading_rule",
+      "target": "Committee on Children's Television v. General Foods Corp. (1983) 35 Cal.3d 197",
+      "relationship": "Particularity-in-pleading rule for fraud claims. Every element of § 1572 must be pleaded with specificity (who, what, when, where, how). Conclusory fraud pleadings are subject to demurrer.",
+      "anchor": "case_law/interpretive/committee_v_general_foods_1983 (pending)"
+    },
+    {
+      "type": "cross_citizen_ref",
+      "target": "US_Federal_Civil_Rights_Litigator §1983",
+      "relationship": "If the fraud is committed under color of state law (e.g., a court-supervised escrow or conservatorship transaction), the § 1572 claim may also support a § 1983 claim. Cross-reference to US Federal Civil Rights Litigator for the federal track.",
+      "anchor": "${citizens}/US_Federal_Civil_Rights_Litigator/standards/42_usc_1983"
+    },
+    {
+      "type": "primary_case_chain",
+      "cases_in_this_standard": [
+        "lazar_v_superior_court_1996",
+        "tenzer_v_superscope_1985",
+        "engalla_v_permanente_1997",
+        "lovejoy_v_att_2004"
+      ],
+      "cases_to_add": [
+        "seeger_v_odell_1941",
+        "warner_construction_v_city_of_la_1970",
+        "committee_on_childrens_tv_v_general_foods_1983",
+        "robinson_helicopter_v_dana_2004"
+      ]
+    }
+  ],
+  "generated_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "generated_at_utc": "2026-04-10T19:25:00Z"
+}

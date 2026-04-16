@@ -1,0 +1,24 @@
+Cal. Penal Code § 422 — Electronic Communications Amendment (2004 era)
+
+Key amendment adding electronic communications:
+
+§ 422(a) amended to add:
+"...the statement, made verbally, in writing, or by means of an electronic communication device, is to be taken as a threat..."
+
+§ 422(c)(2) added (definitions):
+"'Electronic communication device' includes, but is not limited to, telephones, cellular telephones, computers, video recorders, fax machines, or pagers. 'Electronic communication' has the same meaning as the term defined in subdivision (a) of Section 2510(12) of Title 18 of the United States Code."
+
+Why added: By 2000, email and text message threats were becoming prevalent, but the original § 422 specified "written" communications as distinct from verbal. Courts were divided on whether email was "written" under the original statute. The legislature clarified that all electronic communications qualify.
+
+Practical effect: § 422 now covers:
+- Face-to-face verbal threats
+- Written threats (letter, note)
+- Telephone threats (original coverage)
+- Email threats
+- Text message threats
+- Social media threats
+- Voicemail threats
+
+The four-part test (unequivocal, unconditional, immediate, specific) applies regardless of the communication medium.
+
+Source: Chapter ____, Statutes of approximately 2004 (exact bill pending primary-source verification).

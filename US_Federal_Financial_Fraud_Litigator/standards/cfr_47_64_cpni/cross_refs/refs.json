@@ -1,0 +1,33 @@
+{
+  "standard_id": "CFR_47_64_CPNI",
+  "cross_references": [
+    {
+      "ref_id": "USC_18_2511_WIRETAP",
+      "short_title": "18 U.S.C. §2511 — Federal Wiretap Act",
+      "relationship": "downstream_harm",
+      "description": "CPNI/AT&T liability is the gateway; Wiretap Act §2511 captures the downstream harm. AT&T's CPNI failure enabled the SIM swap; the SIM swap enabled the interception of Michael's communications in transit. AT&T's negligence is the but-for cause of the §2511 violations by McClaran. AT&T may be liable as a facilitator of those violations ($10,000/event + mandatory fees).",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_18_2511_wiretap"
+    },
+    {
+      "ref_id": "USC_18_2701_SCA",
+      "short_title": "18 U.S.C. §§2701-2712 — Stored Communications Act",
+      "relationship": "downstream_harm",
+      "description": "AT&T's CPNI failure → SIM swap → stored communications accessed. AT&T's negligence caused the SCA violations by enabling the account takeover that accessed stored emails, voicemails, and account records.",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_18_2701_sca"
+    },
+    {
+      "ref_id": "UCL_17200",
+      "short_title": "Bus. & Prof. Code §17200 — UCL Unfair Business Practices",
+      "relationship": "civil_remedy_path",
+      "description": "Because 47 U.S.C. §222 has no private right of action, UCL §17200's 'unlawful' prong is the primary California civil remedy path for AT&T's CPNI violations. AT&T's violation of 47 C.F.R. §64.2010 = unlawful business practice; UCL adds injunction + restitution to the negligence damages.",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/bpc_17200_ucl"
+    },
+    {
+      "ref_id": "PEN_630_CIPA",
+      "short_title": "Cal. Penal Code §§630-638 — California Invasion of Privacy Act",
+      "relationship": "downstream_harm_state",
+      "description": "AT&T's CPNI failure → SIM swap → CIPA §632.7 violations (cellular interception). AT&T is the but-for cause of the CIPA violations as the carrier that processed the fraudulent port.",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/pen_630_cipa"
+    }
+  ]
+}

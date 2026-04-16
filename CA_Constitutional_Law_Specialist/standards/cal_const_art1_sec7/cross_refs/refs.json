@@ -1,0 +1,7 @@
+[
+  {"target":"${citizens}/CA_Constitutional_Law_Specialist/standards/cal_const_art1_sec1/manifest.json","relationship":"Section 1 enumerates life, liberty, property as inalienable rights; Section 7 provides the procedural protection (due process) for those rights"},
+  {"target":"${citizens}/CA_Constitutional_Law_Specialist/standards/cal_const_art1_sec24/manifest.json","relationship":"Section 24 establishes independent state grounds; Section 7 due process is not dependent on the 14th Amendment in civil cases"},
+  {"target":"${citizens}/CA_Conservator_Investigator/standards/cal_prob_811/manifest.json","relationship":"Conservatorship capacity determination must satisfy Section 7 due process requirements"},
+  {"target":"${citizens}/US_Federal_Civil_Rights_Litigator/standards/42_usc_1983/manifest.json","relationship":"Section 7 is the California parallel to 14th Amendment due process; both are implicated when state actors deprive persons of life, liberty, or property"},
+  {"target":"${citizens}/CA_Civil_Rights_Litigator/standards/bane_act_civ_52_1/manifest.json","relationship":"Bane Act §52.1 provides statutory damages for violations of constitutional rights including Section 7"}
+]

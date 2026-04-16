@@ -1,0 +1,11 @@
+{
+  "source": "U.S. Code, Title 47, § 222 — uscode.house.gov",
+  "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section222&num=0&edition=prelim",
+  "version_captured": "2026 (current, post-2024 FCC SIM swap rules)",
+  "fetch_note": "Text in text.txt is operative provisions selected for SIM swap context. Full statute verbatim capture pending at primary-source verification session. FCC regulations at ecfr.gov § 64.2001-64.2011.",
+  "html_sha256": "PENDING_PRIMARY_SOURCE_CAPTURE",
+  "fetch_tool": "WebFetch",
+  "retrieval_steward": "PENDING",
+  "positive_law": true,
+  "note": "Title 47 IS positive law. uscode.house.gov is authoritative."
+}

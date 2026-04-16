@@ -1,0 +1,38 @@
+{
+  "investigation_id": "cmia_disclosure_log_subpoenas",
+  "title": "Subpoena CMIA § 56.10(c)(12) disclosure logs from every medical provider that has held the steward's records",
+  "question": "Has any medical provider that held the steward's records ever made a § 56.10(c)(12) disclosure to a probate court investigator, probation officer, or domestic relations investigator? If yes, when, to whom, in connection with what proceeding?",
+  "context": "CMIA § 56.10(c)(12) explicitly authorizes disclosure of medical information to a probate court investigator in a conservatorship proceeding under Probate Code § 1400, OR to a probate court investigator, probation officer, or domestic relations investigator engaged in determining initial or continuing guardianship. This is the lawful mechanism by which a covert conservatorship investigation could obtain the steward's medical records without his consent. Each (c)(12) disclosure should have generated a paper trail at the disclosing provider — a written request from the investigator and a logged disclosure entry. The steward's CMIA standard manifest (cross-tethered to this Citizen) flags this as a CRITICAL audit item.",
+  "unblock_path": "Identify every medical provider, health plan, hospital, clinic, lab, and pharmacy that has held the steward's medical records since (approximately) 2009. For each, prepare and serve a subpoena duces tecum requesting CMIA disclosure logs and any (c)(12) disclosure records to a probate court investigator, probation officer, or domestic relations investigator.",
+  "who_can_answer": "Each medical provider's privacy officer / records custodian",
+  "related_actors": [
+    "wiita_patrick"
+  ],
+  "related_cases": [],
+  "related_standards": [
+    "CA_CIV_56_10_CMIA",
+    "CA_PROB_1801_CONSERVATORSHIP_APPOINTMENT"
+  ],
+  "priority": "CRITICAL",
+  "status": "READY_TO_SEND",
+  "filed_at_utc": "2026-04-08T19:25:00Z",
+  "prepared_on": "2026-04-15",
+  "deliverables": [
+    {
+      "type": "subpoena_template_master",
+      "path": "outstanding_investigations/cmia_disclosure_log_subpoenas/deliverables/outgoing_letter_or_subpoena.md"
+    },
+    {
+      "type": "recipient_routing",
+      "path": "outstanding_investigations/cmia_disclosure_log_subpoenas/deliverables/recipient_routing.md"
+    },
+    {
+      "type": "response_tracker",
+      "path": "outstanding_investigations/cmia_disclosure_log_subpoenas/deliverables/response_tracker.md"
+    }
+  ],
+  "delivery_mode": "subpoena_duces_tecum_per_provider",
+  "vehicle": "SUBP-010 (state) or Fed. R. Civ. P. 45 (federal once § 1983 complaint filed)",
+  "gating": "Requires a live case for subpoena power. Steward action: finalize provider roster (template lists 10 candidates) and issue per-provider subpoenas as soon as vehicle opens. Phase A targets: Dr. Wiita, UA Local 342 health plan, Walgreens Brentwood, SSA/DDS contract medical.",
+  "mailing_execution_status": "READY_TO_PRINT"
+}

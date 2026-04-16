@@ -1,0 +1,16 @@
+{
+  "stage": "01_origin_1977",
+  "citation": "Pub. L. 95-109, 91 Stat. 874 (Sept. 20, 1977)",
+  "effective_date": "1978-03-20",
+  "codified_at": "15 USC §§1692–1692o",
+  "legislative_history": {
+    "senate_bill": "S. 918 (95th Cong.)",
+    "house_bill": "H.R. 5294",
+    "senate_report": "S. Rep. 95-382",
+    "sponsors": "Sen. William Proxmire (D-WI) + Rep. Frank Annunzio (D-IL)"
+  },
+  "source_url": "https://uscode.house.gov/statutes/pl/95/109.pdf",
+  "capture_method": "LOGIC.md — structural knowledge base",
+  "verbatim_capture_status": "PENDING",
+  "build_date": "2026-04-11"
+}

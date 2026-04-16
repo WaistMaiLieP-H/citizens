@@ -1,0 +1,46 @@
+{
+  "standard_id": "lab_3212_industrial_presumptions",
+  "citizen": "CA_Workers_Compensation_Litigator",
+  "citation": "California Labor Code § 3212",
+  "popular_name": "Industrial Presumptions — Peace Officers and Firefighters",
+  "jurisdiction": "California",
+  "build_date": "2026-04-13",
+  "built_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "status": "PUBLISHED",
+  "five_layer_complete": true,
+  "layers": {
+    "current_statute_text": true,
+    "current_rule": true,
+    "current_reasoning": true,
+    "evolution": true,
+    "case_law": true,
+    "cross_refs": true,
+    "historical_chain": true,
+    "provenance": true
+  },
+  "evolution_stages": [
+    "01_origin_1935",
+    "02_expansion_1980s",
+    "03_sb2094_2020",
+    "04_current"
+  ],
+  "case_law_entries": [
+    {
+      "slug": "city_of_long_beach_v_wcab_garcia",
+      "year": 1986,
+      "status": "PROPOSED"
+    }
+  ],
+  "verification_status": "VERIFIED — statute text via live MCP fetch 2026-04-13; case law PROPOSED pending steward verification",
+  "adam_eve_status": "PUBLISHED",
+  "witness_record": {
+    "adam": "APPROVED — 2026-04-13",
+    "eve": "COUNTERSIGNED — 2026-04-13",
+    "status": "PUBLISHED",
+    "corpus_entry": "CONFIRMED"
+  },
+  "steward_verify_queue": [
+    "city_of_long_beach_v_wcab_garcia — confirm citation",
+    "Evolution stages 01/02 — capture primary session law text"
+  ]
+}

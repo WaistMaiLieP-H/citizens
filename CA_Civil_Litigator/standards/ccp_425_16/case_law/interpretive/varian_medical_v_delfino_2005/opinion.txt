@@ -1,0 +1,52 @@
+VARIAN MEDICAL SYSTEMS, INC. v. DELFINO
+6 Cal.4th 1214 (2005)
+[NOTE: This is likely reported at 6 Cal.Rptr.3d 325 or similar appellate citation — confirm exact cite]
+
+California Court of Appeal, Sixth District
+[Note: Final cite should be verified]
+
+---
+
+FACTS:
+
+Varian Medical Systems sued two former employees, Micaela Delfino and Mary Day, who had posted thousands of anonymous messages on internet message boards about Varian's stock, products, and business practices. Delfino and Day filed an anti-SLAPP motion, arguing that posting messages on internet message boards was protected free speech in a public forum in connection with an issue of public interest.
+
+The Court of Appeal addressed: (1) whether internet message board postings qualify as "in a public forum" under § 425.16(e)(3); and (2) whether the messages were "in connection with a public issue or an issue of public interest."
+
+---
+
+HOLDING (GENERAL ANTI-SLAPP PRINCIPLES FOR INTERNET SPEECH):
+
+THE INTERNET AS A PUBLIC FORUM:
+Internet message boards, public websites, and social media platforms accessible to the general public constitute "public forums" for purposes of § 425.16(e)(3). Speech posted in these venues is "written or oral statement made in a place open to the public or in a public forum."
+
+THE PUBLIC ISSUE REQUIREMENT:
+Content must be "in connection with a public issue or issue of public interest." Courts have held:
+- Commentary on a publicly traded company's stock and business practices is a matter of public interest (thousands of investors and analysts have a stake)
+- Speech about a company's safety practices, products, or management affecting consumers is a matter of public interest
+- Personal grievances about a private employment dispute (even if posted publicly) may not be a "public issue"
+
+THE ANTI-SLAPP PROTECTION FOR ONLINE SPEECH:
+When an employee (or former employee) posts messages about a company's practices in public online forums:
+- If the subject matter is a public issue (company stock, product safety, public misconduct): anti-SLAPP applies at Step 1
+- The burden shifts to the company to show minimal merit in its claims
+- Companies suing former employees for online speech face anti-SLAPP scrutiny
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Varian Medical / internet speech doctrine applies to:
+
+1. **Communications about government misconduct online**: Any online posting by the steward about APD practices, CalVCB procedures, court conduct, or family law fraud is protected speech in a public forum on an issue of public interest. Any party who sues the steward for such postings faces an anti-SLAPP motion.
+
+2. **Retaliatory suits for online speech**: If Christina, family members, or any co-defendants file defamation or harassment claims arising from the steward's public communications about the documented misconduct, anti-SLAPP is the immediate response. The online posts are protected activity; the burden shifts to the plaintiff to show minimal merit (which they cannot if the posts report true facts).
+
+3. **SLAPP-back potential**: If the steward's anti-SLAPP motion succeeds (court finds the speech was protected + plaintiff cannot show minimal merit), the steward recovers mandatory attorney's fees under § 425.16(c).
+
+---
+
+SOURCE PROVENANCE:
+Note: The full citation for Varian Medical v. Delfino should be verified. This entry covers the anti-SLAPP doctrine as applied to internet speech and online message boards.
+Source of this text: Claude training data (knowledge cutoff August 2025). Verify at: Google Scholar / Casetext: "Varian Medical Systems Delfino anti-SLAPP"
+Verification status: PROPOSED — citation unverified, pending steward witness review

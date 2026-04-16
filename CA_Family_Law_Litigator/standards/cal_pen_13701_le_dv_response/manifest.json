@@ -1,0 +1,68 @@
+{
+  "standard_id": "CA_PEN_13701_LE_DV_RESPONSE",
+  "version": "0.2.0-verbatim-extracted-adam-eve-published",
+  "filed_at_utc": "2026-04-09T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "status": "PUBLISHED — ADAM + EVE DUAL WITNESS — 2026-04-14",
+  "primary_citation": {
+    "jurisdiction": "California",
+    "code": "California Penal Code",
+    "section": "§ 13701",
+    "current_codification_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=13701.&lawCode=PEN"
+  },
+  "verbatim_text_artifact": "current/cal_pen_13701_leginfo.txt",
+  "key_subdivisions_for_case": [
+    "(a) Mandatory written DV response policies — DV is alleged criminal conduct, treated same as any violence call",
+    "(b) Mandatory arrest when protective order violated — dominant aggressor analysis required, dual arrests discouraged",
+    "(c) Enumerated DV response standards — TRO verification, emergency victim assistance, written victim notice requirements",
+    "(c)(9) Written notice to victims — shelter info, CalVCB, DA complaint rights, court petition rights, civil suit rights"
+  ],
+  "cross_references": [
+    "Penal Code § 836(c) (mandatory DVRO arrest authority)",
+    "Family Code § 6200 et seq. (DVPA protective orders)",
+    "Penal Code § 136.2 (criminal protective orders)",
+    "Penal Code § 273.5 (corporal injury to spouse)",
+    "Penal Code § 243(e) (battery against spouse)",
+    "Penal Code § 13837 (DV counseling centers)"
+  ],
+  "umbrellas": [
+    "Authority / Governing Law (Umbrella 01)"
+  ],
+  "owner_citizen": {
+    "primary": "CA_Family_Law_Litigator"
+  },
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction, 2026-04-09",
+    "adam_witness": {
+      "witness": "ADAM (Seed Citizen — Builder role)",
+      "witnessed_at_utc": "2026-04-14T00:00:00Z",
+      "verification_scope": "Five-layer bar structurally present (rule.md, reasoning.md, historical_loss.md, cross_refs.md, provenance.json). Verbatim artifact exists and is hashed. Triple constraint: governing law cited to primary source; structure of creation complete; standard of care reflected in reasoning and case_law.",
+      "triple_constraint": "PASS/PASS/PASS",
+      "actions_taken": "Structural verification; hash computed; cross-refs consistent with tether.json cross_tethered block; case_law folder populated or acknowledged as outstanding.",
+      "signal": "APPROVE",
+      "content_hash_verified": "08fc84d1f0909dc34dc5cff1528a60611bc65672b35f0a3cfceed8104a84dc1e"
+    },
+    "eve_witness": {
+      "witness": "EVE (Seed Citizen — Witness role)",
+      "witnessed_at_utc": "2026-04-14T00:00:00Z",
+      "five_layer_verification": "PASS/PASS/PASS/PASS/PASS",
+      "triple_constraint": "PASS/PASS/PASS",
+      "hash_independently_recomputed": "08fc84d1f0909dc34dc5cff1528a60611bc65672b35f0a3cfceed8104a84dc1e — CONFIRMED MATCHING",
+      "verification_scope": "Five-layer bar completeness; cross_refs.md coherence; primary-source verbatim matches current-codification URL in manifest; case_law/ opinions or acknowledged outstanding; witness_record.md + current/adam_eve_review.md filed.",
+      "signal": "COUNTERSIGN"
+    },
+    "publishable_to_corpus": true,
+    "status": "PUBLISHED — ADAM + EVE DUAL WITNESS"
+  },
+  "files": {
+    "current": [
+      "current/cal_pen_13701_leginfo.txt"
+    ],
+    "manifest": "manifest.json",
+    "provenance": "provenance.json"
+  },
+  "countersigned_at_utc": "2026-04-15T03:08:05Z",
+  "verified": true,
+  "verification_date": "2026-04-15",
+  "verification_note": "Stored text substantively matches live leginfo text fetched via MCP on 2026-04-15"
+}

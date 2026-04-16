@@ -1,0 +1,16 @@
+IN RE MARRIAGE OF SEAMAN AND MENJOU
+(2002) 100 Cal.App.4th 1
+Court of Appeal, Second Appellate District, 2002
+
+FACTS:
+The parties went through court-connected mediation during a custody dispute. After mediation, the wife sought to introduce the mediator's notes and statements made during mediation into the custody hearing. The husband objected on mediation confidentiality grounds. The court also addressed what procedural rights parties have during the mediation process itself.
+
+HOLDING — Cal. Rules of Court, Rule 5.210 / Fam. Code § 3177:
+The court addressed the interaction between mediation confidentiality rules and parties' right to a meaningful mediation process. The court held that while mediation communications are generally confidential, the confidentiality provisions do not excuse a mediator from complying with the procedural requirements of Rule 5.210. A party's right to separate sessions, to have the mediator maintain impartiality, and to have the mediator evaluate all parties exists independently of what happens with confidential communications.
+
+The court also addressed the right to have a Support Person present during mediation under Family Code § 3177, finding this right is not waived by proceeding with mediation generally.
+
+SIGNIFICANCE:
+For the steward's cases, Seaman/Menjou establishes that the procedural rights under Rule 5.210 (separate sessions, impartiality, evaluation of all parties) are not swallowed by mediation confidentiality. A party who was denied proper Rule 5.210 process can raise that denial even though the mediation communications themselves remain confidential. The case also confirms the § 3177 support person right — relevant if Michael was denied a support person during any mediation session.
+
+NOTE: Verify exact citation; confirm this case has not been superseded on the confidentiality holding by Evidence Code § 1115 et seq. amendments.

@@ -1,0 +1,13 @@
+{
+  "standard_id": "prob_1827_jury_trial_right",
+  "authority": "Cal. Prob. Code \u00a71827; WIC \u00a75350(d)",
+  "status": "PUBLISHED",
+  "content_hash": "160c60d3",
+  "build_date": "2026-04-13",
+  "terminal": "Terminal B",
+  "citizen": "CA_Probate_Conservatorship_Litigator",
+  "verified": true,
+  "adam_signal": "APPROVE",
+  "eve_signal": "COUNTERSIGN",
+  "witness_date": "2026-04-13"
+}

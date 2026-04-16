@@ -1,0 +1,29 @@
+Business and Professions Code Section 2234
+
+The board shall take action against any licensee who is charged with unprofessional conduct. In addition to other provisions of this article, unprofessional conduct includes, but is not limited to, the following:
+
+(a) Violating or attempting to violate, directly or indirectly, assisting in or abetting the violation of, or conspiring to violate any provision of this chapter.
+
+(b) Gross negligence.
+
+(c) Repeated negligent acts. To be repeated, there must be two or more negligent acts or omissions.
+
+(d) Incompetence.
+
+(e) The commission of any act involving dishonesty or corruption that is substantially related to the qualifications, functions, or duties of a physician and surgeon.
+
+(f) Any action or conduct that would have warranted the denial of a certificate.
+
+(g) The failure by a certificate holder, in the absence of good cause, to attend and participate in an interview by the board no later than 30 calendar days after being notified by the board.
+
+(h) Any action of the licensee, or another person acting on behalf of the licensee, intended to cause their patient or their patient's authorized representative to rescind consent to release the patient's medical records to the board or the Department of Consumer Affairs, Health Quality Investigation Unit.
+
+(i) Dissuading, intimidating, or tampering with a patient, witness, or any person in an attempt to prevent them from reporting or testifying about a licensee.
+
+(Amended by Stats. 2023, Ch. 294, Sec. 17 (SB 815). Effective January 1, 2024.)
+
+---
+NOTE ON §2234(b) AND (c): The current statute text lists "Gross negligence" and "Repeated negligent acts" as category headings. The operative definitions ("extreme departure from the applicable standard of care" for (b); "two or more negligent acts or omissions" for (c)) are built into the subsection text as definitional clauses. Full statutory anchor entries for these definitions are maintained in the case_law/interpretive/ folders for this standard.
+SOURCE: California Legislative Information — leginfo.legislature.ca.gov
+URL: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2234.&lawCode=BPC
+FETCHED: 2026-04-11

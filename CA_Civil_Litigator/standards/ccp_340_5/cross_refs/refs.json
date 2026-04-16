@@ -1,0 +1,27 @@
+{
+  "standard_id": "CCP_340_5",
+  "cross_references": [
+    {
+      "target_standard": "CCP_335_1",
+      "relationship": "general counterpart \u2014 CCP \u00a7335.1 is the general personal injury statute of limitations (two years from discovery). \u00a7340.5 is the specialized medical malpractice limitation (three years from injury OR one year from discovery, whichever is FIRST). \u00a7340.5 is shorter and less favorable to plaintiffs than \u00a7335.1.",
+      "build_status": "NOT BUILT AS STANDALONE STANDARD \u2014 general personal injury SOL (2 yr); comparison documented within ccp_340_5 reasoning layer."
+    },
+    {
+      "target_standard": "CIV_CODE_3333_2",
+      "relationship": "MICRA companion \u2014 noneconomic damages cap. \u00a73333.2 caps noneconomic damages in medical malpractice cases. Together with \u00a7340.5 (limitations) and B&P \u00a76146 (fee limits), these three provisions form the core MICRA restrictions on medical malpractice litigation.",
+      "build_status": "NOT BUILT AS STANDALONE STANDARD \u2014 MICRA noneconomic damages cap; companion statute relationship documented within ccp_340_5 reasoning layer."
+    },
+    {
+      "target_standard": "BPC_6146",
+      "relationship": "MICRA companion \u2014 attorney fee limits. B&P \u00a76146 limits contingency fees in medical malpractice cases to a sliding scale. Together with \u00a7340.5 and Civ. Code \u00a73333.2, this provision shapes the economics of medical malpractice litigation.",
+      "build_status": "NOT BUILT AS STANDALONE STANDARD \u2014 MICRA fee limits; companion statute relationship documented within ccp_340_5 reasoning layer."
+    },
+    {
+      "target_standard": "CCP_583_310",
+      "relationship": "procedural deadline sibling \u2014 \u00a7583.310 requires trial within five years of filing. \u00a7340.5 determines when the case must be FILED. Together they define the outer boundary: the patient must discover, file, and try the case within the combined limitations + five-year window.",
+      "target_citizen": "CA_Civil_Litigator",
+      "build_status": "BUILT (this session)"
+    }
+  ],
+  "refs_updated": "2026-04-12 \u2014 ADAM review pass; build_status fields updated to reflect current corpus state"
+}

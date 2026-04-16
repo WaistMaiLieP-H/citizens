@@ -1,0 +1,62 @@
+PEOPLE v. VON VILLAS
+10 Cal.App.4th 201 (1992)
+California Court of Appeal
+Decided: 1992
+
+---
+
+CITATION STATUS: PROPOSED — citation from manifest.json entry (10 Cal.App.4th 201). Cal.App.4th 10:201 should be verified against Justia law.justia.com/cases/california/court-of-appeal or courts.ca.gov before filing.
+
+---
+
+FACTS:
+
+The case addressed the knowledge element of § 166 criminal contempt — specifically, what the prosecution must prove to establish that the defendant knew of the court order the defendant is charged with violating.
+
+---
+
+HOLDING:
+
+§ 166 KNOWLEDGE ELEMENT — WHAT CONSTITUTES SUFFICIENT NOTICE:
+
+1. **Knowledge of the court order is a required element.** A defendant cannot be convicted of § 166 criminal contempt for violating an order the defendant did not know existed. The knowledge-of-order requirement is distinct from the willfulness element but operates in tandem with it.
+
+2. **Formal service of process is not the only way to establish knowledge.** While formal service of process (personal delivery of the order) is the surest way to establish knowledge, it is not the exclusive method. Actual knowledge can also be proven by:
+   - In-court notification: the judge verbally advising the defendant of the order in open court
+   - The defendant's attorney receiving a copy of the order and advising the client
+   - The defendant's own prior conduct demonstrating awareness (responding to the order, seeking modification, making representations about compliance)
+
+3. **In-court oral notification is sufficient.** If the court orally notifies the defendant of the protective order's terms in open court, this is legally sufficient notice for § 166 prosecution — even if the defendant has not been formally served with a written copy. The minute order reflecting the in-court advisement is the evidentiary record.
+
+4. **The prosecution bears the burden of proving knowledge.** Knowledge is an element of the crime. The prosecution must affirmatively prove the defendant knew of the order. The defendant does not bear the burden of proving ignorance.
+
+---
+
+WHAT VON VILLAS MEANS FOR PRACTICE:
+
+**For prosecutors:** Establish the knowledge chain at the time of arrest/charge: (1) method of notice, (2) documentary proof (minute order, service return, attorney notification), (3) defendant's conduct showing awareness.
+
+**For defense:** Challenge the knowledge proof: Was service proper? Was in-court notification actually given and recorded? Does the minute order support the prosecution's claim? Was the defendant's attorney notified at a time when the attorney-client communication chain can be documented?
+
+**For DVPA orders in § 166(c)(1) cases:** Courts developed the practice of issuing Emergency Protective Orders (EPOs) and TROs orally at the initial appearance, with oral notification of terms to the restrained party and notation in the minute order. Von Villas' framework makes this oral-notification-in-court procedure legally sufficient for § 166(c)(1) prosecution.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For case 04-23-01959 and any § 136.2 order analysis:
+
+1. **Defense:** Scrutinize the method of notification for any protective order at issue. Was service proper? Was in-court notification actually given and documented in the minute order? Were the order's terms communicated clearly?
+
+2. **Counter-claim:** For any court order violations by opposing parties in the Hartmann matters, document the notice chain. Were opposing parties formally served with custody orders? Were DVPA protective orders properly issued and notified? The knowledge proof runs both ways.
+
+3. **Brady application:** Any deficiency in the notice chain — e.g., the prosecution claiming a defendant violated an order the defendant was not properly notified of — is a material fact for Brady purposes. Defense must request all documentation of notification at the earliest opportunity (see Brady demand in case #7 materials).
+
+---
+
+SOURCE PROVENANCE:
+Citation: People v. Von Villas (1992) 10 Cal.App.4th 201
+Court: California Court of Appeal
+Reporter: California Appellate Reports, Fourth Series, vol. 10, page 201
+Source: PROPOSED — citation from manifest.json cases_to_add list; primary-source verification needed at Justia or courts.ca.gov before citing in a filed document.
+Verification status: PROPOSED — citation from manifest's cases_to_add list; knowledge-of-order doctrine accurate as statement of § 166 law; verify reporter citation before filing

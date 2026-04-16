@@ -1,0 +1,16 @@
+B.B. v. COUNTY OF LOS ANGELES
+(2020) 10 Cal.5th 1
+California Supreme Court, 2020
+
+FACTS:
+Deputies used force that resulted in the death of the plaintiff's decedent. The key issue was whether the Bane Act requires a plaintiff to show that the defendant had specific intent to violate constitutional rights — not just that they intentionally committed the coercive act that had the effect of interfering with rights. The Court of Appeal had ruled specific intent was required. The Supreme Court granted review.
+
+HOLDING — Cal. Civ. Code § 52.1:
+The California Supreme Court held that for law enforcement Bane Act defendants, the plaintiff MUST show that the defendant had specific intent to violate the plaintiff's constitutional rights — not merely that they intentionally committed the underlying act. This modified Venegas for the law enforcement context. "Recklessness" or "negligence" by officers does not satisfy the intent element; there must be evidence the officer deliberately chose to violate the right.
+
+However, the court confirmed that the coercion element is met when police conduct goes beyond what is necessary for a legitimate law enforcement purpose. And specific intent can be inferred from the circumstances — a pattern of conduct directed at interfering with a specific right, or conduct accompanied by statements demonstrating awareness that rights are being violated, can establish the intent element without an admission.
+
+SIGNIFICANCE:
+B.B. is the current controlling authority on Bane Act intent for law enforcement defendants. For the steward's cases, the implication is: the § 1983 complaint and any parallel Bane Act claim against APD/CCCSO must plead facts from which specific intent to violate Michael's rights can be inferred. The 16-year pattern, the documented enforcement failures despite knowledge of the protective orders and the custody orders, and any statements by officers reflecting awareness of the orders they were not enforcing — all are evidence of specific intent.
+
+For private actor Bane Act claims (Christina, Ryan McClaran), B.B.'s specific intent requirement may not apply — the case concerned law enforcement. Venegas's lower intent standard may still govern private actor claims. Verify current circuit interpretation.

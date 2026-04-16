@@ -1,0 +1,83 @@
+{
+  "standard_id": "CIV_1788_ROSENTHAL",
+  "citizen": "CA_Consumer_Protection_Litigator",
+  "version": "0.1.0-proposed",
+  "filed_at_utc": "2026-04-11T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "PROPOSED",
+  "build_method": "Logical Delta (LOGIC.md at each evolution stage)",
+  "primary_citation": {
+    "code": "Cal. Civ. Code",
+    "sections": "§§1788–1788.33",
+    "popular_name": "Rosenthal Fair Debt Collection Practices Act",
+    "jurisdiction": "California",
+    "original_enactment": "Stats. 1977, Ch. 907 (AB 2109, Assemblyman Barry Rosenthal)",
+    "effective": "1978-01-01",
+    "key_amendments": [
+      "Stats. 1999, Ch. 319 — medical debt expressly covered",
+      "Stats. 2015, Ch. 418 (AB 1521) — §1788.100 medical debt collector requirements"
+    ],
+    "key_federal_link": "§1788.17 incorporates 15 USC §§1692b–1692j (federal FDCPA substantive prohibitions) by reference"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current/LOGIC.md documents critical distinction from federal FDCPA (original creditor coverage via §1788.2(c)), 6 prohibition categories via §1788.17 incorporation, California-specific prohibitions (§§1788.10–1788.16), and punitive damages pathway (§1788.30(b) + §3294)",
+    "reasoning": "PRESENT — LOGIC.md at each evolution stage documents the California-specific wound (federal FDCPA's original-creditor gap) and the piggyback-plus-expansion logical structure",
+    "historical_loss": "PRESENT — historical_chain.md documents pre-1977 original-creditor gap, 1977 California fill, 1991 Fleet bank confirmation, 1999/2015 medical debt extensions",
+    "cross_references": "PRESENT — refs.json links to federal FDCPA (compound claim structure), Rees-Levering (auto fraud compound), CLRA (companion), FCRA (reporting compound), Debt_Collections case binding",
+    "verifiable_provenance": "PARTIAL — provenance.json files at each stage; primary-source capture PENDING"
+  },
+  "evolution_chain": [
+    {"stage": "01_origin_1977", "folder": "evolution/01_origin_1977/", "status": "LOGIC_BUILT"},
+    {"stage": "02_medical_debt_1999_2015", "folder": "evolution/02_medical_debt_1999_2015/", "status": "LOGIC_BUILT"},
+    {"stage": "03_current", "folder": "current/", "status": "LOGIC_BUILT"}
+  ],
+  "case_law": {
+    "uphold": [],
+    "strike": [],
+    "interpretive": [
+      {
+        "slug": "fleet_v_bank_of_america",
+        "cite": "229 Cal.App.3d 894 (1991)",
+        "rule": "Original creditors (banks collecting own debts) are 'debt collectors' under §1788.2(c) — foundational case establishing California's expansion beyond federal FDCPA",
+        "files": ["holding.md", "provenance.json", "statute_version_cited.md"],
+        "status": "BUILT"
+      },
+      {
+        "slug": "mccollough_v_johnson_rodenburg",
+        "cite": "637 F.3d 939 (9th Cir. 2011)",
+        "rule": "Collection litigation misconduct (filing without documentation, false pleadings) violates §1692e incorporated via §1788.17; emotional distress damages recoverable",
+        "files": ["holding.md", "provenance.json", "statute_version_cited.md"],
+        "status": "BUILT"
+      },
+      {
+        "slug": "gutierrez_v_barclays_group",
+        "cite": "2011 WL 579238 (S.D. Cal. 2011)",
+        "rule": "§1788.30(b) includes punitive damages under §3294 for egregious collection conduct — Rosenthal's primary damages advantage over federal FDCPA",
+        "files": ["holding.md", "provenance.json", "statute_version_cited.md"],
+        "status": "BUILT"
+      }
+    ]
+  },
+  "cross_refs_path": "cross_refs/refs.json",
+  "historical_chain_path": "historical_chain.md",
+  "operational_notes_for_steward_cases": {
+    "forum_selection": "California state court preferred for Rosenthal claims when: (1) collector is original creditor (avoids FDCPA's third-party limitation), (2) concrete-injury showing for Article III standing would be weaker (avoids Spokeo/TransUnion), (3) punitive damages are viable (§1788.30(b) + §3294 available in state court).",
+    "auto_fraud_checklist": [
+      "Identify every collection communication from each auto dealer or assignee finance company",
+      "Was the collection notice the first communication? Did it include mini-Miranda (§1692e(11) via §1788.17)?",
+      "Was a validation notice sent within 5 days (§1692g via §1788.17)?",
+      "Did any communication falsely represent the contract was legally enforceable? (It was voidable under Rees-Levering §2981.9 — false representation of legal status = §1692e(2)(A) via §1788.17)",
+      "Did collection continue after written dispute? (§1692g violation via §1788.17)",
+      "Was any collection threat made that could not legally be carried out? (§1788.15)"
+    ],
+    "punitive_damages_theory": "For auto dealer defendants: if the dealer's standard practice was to use Rees-Levering-non-compliant multi-document contracts AND then collect on them (knowing the contracts were voidable), that pattern is malicious/oppressive conduct supporting §3294 punitive damages via §1788.30(b). Discovery into the dealer's standard form contracts and collection practices is the vehicle for punitive evidence.",
+    "sol": "1 year from date of violation. California Civ. Code §1788.30(f). Each collection communication is a new violation with its own 1-year clock."
+  },
+  "outstanding_work": [
+    "Primary-source opinion text for Fleet, McCollough, Gutierrez",
+    "Add case: Komarova v. National Credit Acceptance (2009) 175 Cal.App.4th 324 — Rosenthal Act general standards and original creditor collection",
+    "Second-mouth witness review",
+    "Review Debt_Collections folder for specific Rosenthal violations"
+  ],
+  "witness_status": "AWAITING_STEWARD_WITNESS"
+}

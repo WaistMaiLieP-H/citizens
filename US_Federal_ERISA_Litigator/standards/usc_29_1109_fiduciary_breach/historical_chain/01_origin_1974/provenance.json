@@ -1,0 +1,14 @@
+{
+  "layer": "historical_chain",
+  "stage": "01_origin_1974",
+  "standard_id": "USC_29_1109_FIDUCIARY_BREACH",
+  "enacting_law": "Pub. L. 93-406 (ERISA), § 409, 88 Stat. 886 (Sept. 2, 1974)",
+  "signed_by": "President Gerald R. Ford",
+  "signed_date": "1974-09-02",
+  "effective_date": "1974-09-02",
+  "official_source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1109",
+  "verified": false,
+  "verified_note": "USC tool blocked for Title 29; text from training knowledge. Verify at uscode.house.gov.",
+  "companion_provision": "29 U.S.C. § 1105 — co-fiduciary liability extends §1109 to trustees who enable, conceal, or fail to remedy breach",
+  "ongoing_breach_authority": "Tibble v. Edison International, 575 U.S. 523 (2015) — continuing duty to monitor; each failure is a new act of breach"
+}

@@ -1,0 +1,33 @@
+{
+  "standard_id": "PEN_502_COMPUTER_CRIME",
+  "cross_references": [
+    {
+      "ref_id": "USC_18_1030_CFAA",
+      "short_title": "18 U.S.C. §1030 — Computer Fraud and Abuse Act",
+      "relationship": "federal_parallel",
+      "description": "Cal. P.C. §502 and 18 U.S.C. §1030 (CFAA) are state and federal parallels covering unauthorized computer access. Both are pleaded simultaneously in California federal court civil computer crime litigation (Power Ventures; WhatsApp). Key differences: CFAA requires $5,000 aggregate loss for civil action; §502 has no loss threshold. CFAA requires interstate commerce nexus ('protected computer'); §502 applies to any California computer. 'Without permission' (§502) = 'without authorization' (CFAA) for no-initial-permission scenarios.",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_18_1030_cfaa"
+    },
+    {
+      "ref_id": "PEN_630_CIPA",
+      "short_title": "Cal. Penal Code §§630-638 — California Invasion of Privacy Act",
+      "relationship": "complementary_state",
+      "description": "CIPA and §502 together provide comprehensive California state-law coverage of SIM swap attacks. §502 covers the computer access component (email, financial accounts, SSA portal). CIPA §632.7 covers the cellular communication interception component. Both are California Penal Code provisions; both provide civil remedies under §502(e) and §637.2 respectively. Both claims are pled in California state or federal court alongside the federal claims.",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/pen_630_cipa"
+    },
+    {
+      "ref_id": "USC_18_2701_SCA",
+      "short_title": "18 U.S.C. §§2701-2712 — Stored Communications Act",
+      "relationship": "complementary",
+      "description": "SCA covers stored communications access; §502 covers unauthorized computer access generally. Both apply to the same SIM swap account takeover conduct: SCA focuses on the stored communications (emails, voicemails, messages accessed); §502 focuses on the unauthorized computer access to the systems containing them. The two claims address overlapping but distinct aspects of the account compromise.",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_18_2701_sca"
+    },
+    {
+      "ref_id": "UCL_17200",
+      "short_title": "Bus. & Prof. Code §17200 — UCL Unfair Business Practices",
+      "relationship": "ucl_predicate",
+      "description": "§502 violations are 'unlawful' acts under UCL's unlawful prong. A business (AT&T) that facilitates unauthorized computer access through negligent SIM porting procedures commits both §502 violations (if it can be characterized as access) and UCL unlawful practices. UCL adds equitable relief (injunction, restitution) to the §502 damages framework and can reach AT&T's carrier conduct.",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/bpc_17200_ucl"
+    }
+  ]
+}

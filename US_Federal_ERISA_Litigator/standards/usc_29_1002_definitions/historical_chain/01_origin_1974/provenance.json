@@ -1,0 +1,11 @@
+{
+  "layer": "historical_chain",
+  "node": "01_origin_1974",
+  "event": "ERISA enacted — Title I § 3 (Definitions) — Pub. L. 93-406",
+  "date": "1974-09-02",
+  "source": "Pub. L. 93-406, 88 Stat. 829 — available at GovInfo.gov",
+  "govinfo_url": "https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg829.pdf",
+  "verified": false,
+  "verified_note": "Historical context from training knowledge; statutory text not retrieved. Steward: confirm Pub. L. 93-406 § 3 at GovInfo or law.cornell.edu.",
+  "legislative_record_note": "Senate Report No. 93-127 (1973) and H.R. Rep. No. 93-533 (1973) contain committee discussion of definition choices — available through Congress.gov. The fiduciary definition debate is documented in the conference report (H.R. Conf. Rep. No. 93-1280) which is the definitive legislative history source for §1002(21)."
+}

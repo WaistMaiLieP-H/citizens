@@ -1,0 +1,32 @@
+TOWN OF CASTLE ROCK v. GONZALES
+545 U.S. 748
+United States Supreme Court, 2005
+
+FACTS:
+Jessica Gonzales had a restraining order against her estranged husband. He abducted
+their three daughters. She called police repeatedly; officers did not enforce the
+order. The husband ultimately killed all three children. Gonzales sued under § 1983,
+arguing the restraining order created a constitutionally protected property interest
+that the town violated by failing to enforce it.
+
+HOLDING — 42 U.S.C. § 1983 / DUE PROCESS:
+"We therefore conclude that respondent did not, for purposes of the Due Process Clause,
+have a property interest in police enforcement of the restraining order against her
+husband." A restraining order, even one containing mandatory arrest language, does not
+create a constitutionally protected entitlement to police enforcement enforceable
+through § 1983's due process clause.
+
+SIGNIFICANCE:
+Castle Rock is the primary trap in DV enforcement § 1983 litigation. A claim framed
+solely as "police failed to enforce my restraining order → due process violation" WILL
+be dismissed. After Castle Rock, the viable theories are:
+(1) Equal protection — selective non-enforcement based on class (DV victims as a group);
+(2) State-created danger — police affirmative actions that placed victim in greater danger;
+(3) Special relationship — rare, requires custodial or similar relationship.
+
+In the steward's case, the § 1983 theory must be anchored to equal protection
+(APD's systematic non-compliance with § 13701, treating DV differently from other
+violent crime) and state-created danger (APD's acceptance of a pre-positioned
+citizen's arrest that actively placed the steward in greater jeopardy). Do NOT
+frame the claim as enforcement of the Marin DVRO FL0002067 alone — that framing
+fails under Castle Rock.

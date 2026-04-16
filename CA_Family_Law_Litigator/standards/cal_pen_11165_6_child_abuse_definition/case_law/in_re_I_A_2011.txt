@@ -1,0 +1,12 @@
+In re I.A.
+201 Cal.App.4th 1484 (2011)
+California Court of Appeal, Fourth Appellate District, 2011
+
+FACTS:
+Dependency proceeding in which the juvenile court addressed whether a child's exposure to domestic violence between the parents, without direct physical abuse of the child, constituted "child abuse or neglect" under CANRA/§ 11165.6. The case addressed the relationship between the CANRA definition and the dependency court's jurisdiction under Welfare & Institutions Code § 300.
+
+HOLDING — Penal Code § 11165.6:
+The Court of Appeal held that a child's exposure to domestic violence can constitute "child abuse" within the meaning of CANRA's framework. A child who witnesses DV is directly harmed — not merely collaterally affected — because the exposure constitutes emotional abuse and psychological trauma that meets the CANRA threshold. The court noted that § 11165.6's reference to "child abuse or neglect" incorporates § 11165.3's definition of "the willful harming or injuring of a child or the endangering of the person or health of a child."
+
+SIGNIFICANCE:
+Establishes that DV in the household — the same finding § 3020(a) makes at the policy level — constitutes reportable child abuse under CANRA. A child who witnesses domestic violence is an abuse victim, not merely a bystander. This is critical for connecting family court DV findings to CANRA mandatory reporting obligations and for establishing that the presence of DV in the household creates an independent basis for child protective intervention.

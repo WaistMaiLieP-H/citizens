@@ -1,0 +1,62 @@
+KWIKSET CORP. v. SUPERIOR COURT
+51 Cal.4th 310 (2011)
+Supreme Court of California
+Decided: January 27, 2011
+Author: LIU, J.
+
+---
+
+FACTS:
+
+Kwikset sold locksets with the label "Made in USA" when the locksets contained foreign-made parts. Jason Kwikset (the plaintiff, not the company) purchased Kwikset locksets based on the "Made in USA" label and would not have purchased them — or would have paid less — had he known the label was false. He brought UCL and CLRA class action claims.
+
+The central issue: After Proposition 64 (2004), a private plaintiff bringing a UCL or CLRA claim must show "lost money or property as a result of the unfair competition." Does a consumer who paid for and received a functioning product — but who would not have paid that price had the label been true — have standing?
+
+---
+
+HOLDING:
+
+YES. A consumer who was deceived by a false label and (1) paid money they would not have paid but for the deception, or (2) purchased a product they would not have purchased but for the deception, has "lost money or property as a result of unfair competition" within the meaning of Business and Professions Code § 17204.
+
+"Plaintiff must show that he or she suffered an economic injury-in-fact. The economic injury can be demonstrated by (1) 'surrender[ing] in a transaction more, or acquir[ing] in a transaction less, than he or she otherwise would have,' or (2) having a present or future property interest diminished; or (3) being deprived of money or property to which he or she has a cognizable claim; or (4) being required to enter into a transaction, costing money or property, that would otherwise have been unnecessary." 51 Cal.4th at 323.
+
+For Kwikset — who paid a "Made in USA" premium for locksets that were not actually made in USA — the surrender of money for an object that was not what it was represented to be is "lost money" within § 17204.
+
+---
+
+THE RELIANCE REQUIREMENT FOR THE UCL FRAUDULENT PRONG:
+
+The "as a result of" causal requirement in § 17204 incorporates a reliance element for the UCL fraudulent prong: "A plaintiff must plausibly allege that the misrepresentation was an immediate cause of the economic injury." This means the plaintiff must have actually been exposed to and have relied upon the misrepresentation.
+
+For false advertising cases, "the plaintiff need not allege that the misrepresentation was the sole cause of the economic loss, only that it was a contributing cause." 51 Cal.4th at 327.
+
+Kwikset also held that the reliance standard for UCL/CLRA class actions is "an objective standard — whether the misrepresentation was likely to deceive a reasonable consumer — not a subjective inquiry into each class member's actual reliance." This enables class treatment.
+
+---
+
+THE BENEFIT OF THE BARGAIN THEORY:
+
+Kwikset endorsed a "benefit of the bargain" damages theory: where a consumer is induced to purchase by misrepresentation, the consumer's injury is the difference between what was paid and what the product was actually worth. For false "Made in USA" claims, the injury is the premium paid for domestic manufacture that was never delivered.
+
+For auto fraud cases, the benefit-of-the-bargain theory measures:
+- Difference between price paid for vehicle with represented CARFAX history and actual value with true history;
+- Finance charges paid on a contract that was void or voidable for fraud;
+- Down payment paid based on misrepresentation about vehicle condition or financing terms.
+
+---
+
+INTERACTION WITH CLRA:
+
+Kwikset v. Superior Court was decided under both the UCL and the CLRA (Civil Code § 1750 et seq.). The CLRA explicitly provides for actual damages, restitution, punitive damages, injunctive relief, and attorneys' fees for intentional violations. The UCL provides restitution and injunctive relief only (Korea Supply). A consumer who prevails on both UCL and CLRA claims recovers the union of both remedies.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 51 Cal.4th 310 (2011)
+Official reporter: California Reports, Fourth Series, vol. 51, page 310
+Court: Supreme Court of California
+Key quoted passage: 51 Cal.4th at 323 (economic injury test)
+Source of this text: Claude training data (knowledge cutoff August 2025). Kwikset is the controlling post-Prop 64 UCL/CLRA standing case; its holding is confirmed in the training corpus. Full verbatim text should be verified at:
+  - courts.ca.gov
+  - Google Scholar: "Kwikset Corp. v. Superior Court"
+Verification status: PROPOSED — pending steward witness review

@@ -1,0 +1,80 @@
+{
+  "citizen_id": "CA_Disability_Rights_Litigator",
+  "version": "1.0",
+  "status": "OPERATIONAL",
+  "build_date": "2026-04-13",
+  "steward": "Michael Hartmann",
+
+  "path_anchors": {
+    "citizens": "/home/vernenlegal/citizens",
+    "familylaw": "/home/vernenlegal/FamilyLaw",
+    "nonfamilylaw": "/home/vernenlegal/NonFamilyLaw"
+  },
+
+  "blueprints_inherited": ["ADAM", "EVE"],
+  "triple_constraint": {
+    "governing_guidelines": "42 USC §§12101/12112/12131-12132 (ADA Title I/II); 29 USC §794 (Rehabilitation Act §504); Cal. Civ. Code §§51/54/54.3 (Unruh Civil Rights Act; Disabled Persons Act); Cal. Gov. Code §§12926/12940(m)/(n) (FEHA disability accommodation and interactive process)",
+    "standards_of_creation": "Five-layer bar; no stubs; ADAM+EVE dual witness; verified live-fetched CA statutes; federal statutes from training knowledge verified=false",
+    "standard_of_care": "Disabled persons navigating employment, courts, and medical systems often cannot identify when their disability-based exclusion is a legal violation. The law creates rights that require professional identification to activate."
+  },
+
+  "bound_standards": [
+    "feha_disability_accommodation",
+    "civ_51_unruh_civil_rights_act",
+    "ada_12112_title_i_employment",
+    "ada_12131_title_ii_public_services",
+    "rehab_act_504_no_exclusion"
+  ],
+
+  "cases_covered": [
+    "bilateral_ankles_ada_accommodation",
+    "identity_replacement_retired_at_44",
+    "sirva_disability_coverage",
+    "wiita_competency_court_access",
+    "conservatorship_ada_title_ii"
+  ],
+
+  "critical_disability_findings": {
+    "aja_per_se": "CIV §51(f) and §54(c): ADA violation = per se Unruh/DPA violation; CA statutory damages ($4,000/§52; $1,000/§54.3) attach automatically",
+    "interactive_process_mandatory": "GOV §12940(n): employer MUST engage in interactive process; failure to engage = independent FEHA violation regardless of accommodation outcome",
+    "record_of_disability": "GOV §12926(j): discrimination based on RECORD of disability (e.g., credit report showing 'retired' after industrial injury) is covered — employer cannot use past disability record against employee",
+    "no_exhaustion_for_unruh": "CIV §51/§54 claims: NO administrative exhaustion required; direct Superior Court filing; strategically valuable for immediate relief",
+    "title_ii_courts": "42 USC §12131: ADA Title II requires state courts to accommodate disabled persons; court proceedings are public services; failure = ADA + CIV §51 per se"
+  },
+
+  "boundary_rules": {
+    "labor_employment_owns": "LAB §132a retaliation; LAB §1102.5 whistleblower; GOV §12940 employment discrimination track; FEHA CRD procedure",
+    "workers_comp_owns": "WCAB proceedings; medical treatment entitlement; apportionment; indemnity",
+    "this_citizen_owns": "ADA Title I employment doctrine; ADA Title II court access; ADA Title III public accommodations; §504 Rehab Act; Unruh Civil Rights Act (CIV §51); Disabled Persons Act (CIV §54/54.3); disability rights doctrine layer"
+  },
+
+  "cross_citizen_refs": {
+    "CA_Labor_Employment_Litigator": "FEHA employment track; GOV §12940(a)/(h)/(m)/(n); CRD procedure",
+    "CA_Workers_Compensation_Litigator": "Work injury → disability; LAB §4600 medical treatment; apportionment",
+    "CA_Probate_Conservatorship_Litigator": "ADA Title II court access in conservatorship proceedings; Olmstead obligation",
+    "CA_Mental_Health_Litigator": "ADA coverage of mental disability; §1368 competency proceedings as disability discrimination"
+  },
+
+  "standard_hashes": {
+    "feha_disability_accommodation": "6f7e306d",
+    "civ_51_unruh_civil_rights_act": "2e6cd015",
+    "ada_12112_title_i_employment": "c0df478b",
+    "ada_12131_title_ii_public_services": "493aa1ea",
+    "rehab_act_504_no_exclusion": "36b511ba"
+  },
+
+  "steward_verify_queue": [
+    "42 USC §12112 — uscode.house.gov → Title 42 → Chapter 126 → §12112 (ada_12112_title_i_employment; verified=false)",
+    "42 USC §§12131–12132 — uscode.house.gov → Title 42 → Subchapter II (ada_12131_title_ii_public_services; verified=false)",
+    "29 USC §794 — uscode.house.gov → Title 29 → §794 (rehab_act_504_no_exclusion; verified=false)",
+    "Tennessee v. Lane (2004) 541 U.S. 509 (ada_12131_title_ii_public_services)",
+    "Olmstead v. L.C. (1999) 527 U.S. 581 (ada_12131_title_ii_public_services)",
+    "Jensen v. Wells Fargo Bank (2000) 85 Cal.App.4th 245 (feha_disability_accommodation)",
+    "Scotch v. Art Institute of California (2009) 173 Cal.App.4th 986 (feha_disability_accommodation)",
+    "Grove City College v. Bell (1984) 465 U.S. 555 (rehab_act_504_no_exclusion)"
+  ],
+
+  "terminal": "B",
+  "all_standards_published": true,
+  "chronicle_flags": []
+}

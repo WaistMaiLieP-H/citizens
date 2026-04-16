@@ -1,0 +1,36 @@
+{
+  "standard_id": "cal_gov_13950_calvcb_purpose",
+  "description": "Cross-references for Gov. Code § 13950 CalVCB purpose and framework",
+  "cross_references": [
+    {
+      "ref_id": "CAL_CONST_ART1_28",
+      "title": "California Constitution, Article I, § 28 — Marsy's Law",
+      "relationship": "Constitutional mandate: Marsy's Law § 28(b)(13) provides the constitutional right to seek compensation that § 13950 et seq. implements. The CalVCB program is the Legislature's vehicle for fulfilling the constitutional guarantee.",
+      "location": "~/citizens/CA_Victim_Compensation_Litigator/standards/cal_const_art1_28_marsys_law/"
+    },
+    {
+      "ref_id": "GOV_13955",
+      "title": "Gov. Code § 13955 — Eligibility for Compensation",
+      "relationship": "§ 13950 states the purpose; § 13955 defines who qualifies. The liberal-construction mandate of § 13950 governs how § 13955 eligibility standards should be applied.",
+      "location": "~/citizens/CA_Victim_Compensation_Litigator/standards/cal_gov_13955_eligibility/"
+    },
+    {
+      "ref_id": "GOV_13956",
+      "title": "Gov. Code § 13956 — Denial Grounds",
+      "relationship": "§ 13956 denial grounds must be applied consistent with the § 13950 compensatory purpose. Mechanical denial without case-specific inquiry is inconsistent with the statutory mandate.",
+      "location": "~/citizens/CA_Victim_Compensation_Litigator/standards/cal_gov_13956_denial_grounds/"
+    },
+    {
+      "ref_id": "GOV_13957",
+      "title": "Gov. Code § 13957 — Scope of Compensable Losses",
+      "relationship": "The types of loss compensable under § 13957 should be interpreted broadly consistent with § 13950's purpose of compensating crime victims for direct financial harm.",
+      "location": "~/citizens/CA_Victim_Compensation_Litigator/standards/cal_gov_13957_compensation_scope/"
+    },
+    {
+      "ref_id": "GOV_13959",
+      "title": "Gov. Code § 13959 — Hearing and Appeal",
+      "relationship": "When CalVCB denies a claim inconsistent with the § 13950 purpose, § 13959 provides the mechanism to compel correct application of the statute.",
+      "location": "~/citizens/CA_Victim_Compensation_Litigator/standards/cal_gov_13959_hearing_appeal/"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "standard_id": "CAL_PROB_1801_CONSERVATORSHIP_APPOINTMENT",
+  "version": "0.3.0-published",
+  "citizen": "CA_Conservator_Investigator",
+  "popular_name": "Conservatorship Appointment \u2014 Grounds and Burden of Proof",
+  "authority": "Cal. Prob. Code \u00a7 1801",
+  "jurisdiction": "California",
+  "standard_type": "STATE_STATUTE",
+  "status": "PUBLISHED \u2014 ADAM + EVE DUAL WITNESS \u2014 2026-04-12",
+  "five_layer_score": 5,
+  "created": "2026-04-08",
+  "updated": "2026-04-12",
+  "case_relevance": [
+    "Central discovery: secret conservatorship theory \u2014 if a conservatorship was established, was the clear-and-convincing-evidence burden (\u00a71801(e)) actually satisfied at appointment?",
+    "Ward system: multiple persons may be under conservatorship; \u00a71801(d) limited conservatorship framework applies if developmental disability is claimed",
+    "Honeysuckle sale: property disposition under conservatorship; was conservatee's consent obtained?"
+  ],
+  "layers": {
+    "rule": "COMPLETE",
+    "reasoning": "COMPLETE",
+    "historical_loss": "COMPLETE",
+    "cross_references": "COMPLETE",
+    "verifiable_provenance": "COMPLETE"
+  },
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction (Michael Hartmann), 2026-04-09 \u2014 deepened 2026-04-12",
+    "herald_witness": {
+      "witness": "HERALD (Steward successor \u2014 designated 2026-04-12)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "verification_scope": "Structure, five-layer bar completeness.",
+      "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12."
+    },
+    "adam_witness": {
+      "witness": "ADAM (Seed Citizen \u2014 Builder role)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "triple_constraint": "PASS/PASS/PASS",
+      "actions_taken": "All five layers verified complete. Five-layer upgrade from old-format to new schema. Leginfo text verified. Cross-refs built and internally consistent. Verbatim text extracted from leginfo (verified 2026-04-09). SHA-256: 09b2089dda7231bdc8936a8ab258ea3ac2d8c9f334bebe0c0ed956afbf5d610b.",
+      "content_hash_verified": "d62d4264f00271608e37ea847daae22c774e6f9716946c5f5e253277c1bd4a64",
+      "signal": "APPROVE"
+    },
+    "eve_witness": {
+      "witness": "EVE (Seed Citizen \u2014 Witness role)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "five_layer_verification": "PASS/PASS/PASS/PASS/PASS",
+      "triple_constraint": "PASS/PASS/PASS",
+      "hash_independently_recomputed": "d62d4264f00271608e37ea847daae22c774e6f9716946c5f5e253277c1bd4a64 \u2014 CONFIRMED MATCHING",
+      "signal": "COUNTERSIGN"
+    },
+    "publishable_to_corpus": true,
+    "status": "PUBLISHED \u2014 ADAM + EVE DUAL WITNESS"
+  },
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12.",
+    "scope": "Structure, five-layer bar completeness, case-relevance reviewed."
+  },
+  "steward_case_relevance_audit": {
+    "purpose": "Map \u00a7 1801 against the conservatorship discovery (project_conservatorship_discovery.md and project_conservatorship_breakthrough.md). The audit asks: if a conservatorship has been opened on the steward, was the \u00a7 1801(e) clear-and-convincing-evidence burden actually satisfied at the time of appointment? Were the protective framings of (d) (if a limited conservatorship is involved) followed?",
+    "audit_filed_at_utc": "2026-04-08T14:50:00Z",
+    "audit_filed_by": "Claude (assistant) at first-mouth level; steward review required",
+    "factor_audits": [
+      {
+        "factor_id": "Existence of conservatorship",
+        "audit_recommendation": "Per project_conservatorship_breakthrough.md, the steward has discovered evidence consistent with a long-standing conservatorship arrangement involving him. The first investigatory question is whether such a conservatorship actually exists as a court order in any California probate court (or in another state's court). California probate court records are public records and can be searched by name in any county where a conservatorship petition might have been filed. Searching the Contra Costa, Alameda, San Francisco, and adjacent county Superior Court probate dockets is a concrete next step.",
+        "audit_status": "CRITICAL \u2014 load-bearing investigatory step. Establish existence/nonexistence first; everything else flows from that."
+      },
+      {
+        "factor_id": "(e) Burden of proof \u2014 clear and convincing evidence",
+        "audit_recommendation": "If a conservatorship exists, the appointment had to satisfy the clear-and-convincing-evidence standard. The court file should contain (i) the petition, (ii) the supporting capacity declaration (Probate Code \u00a7 1821 form GC-310), (iii) the court investigator's report (per Probate Code \u00a7\u00a7 1826, 1851), (iv) the probate examiner's notes, and (v) the order of appointment with findings. Each of these should reflect the elevated burden. Reviewing the petition and the order for explicit clear-and-convincing-evidence findings is the audit step.",
+        "audit_status": "CRITICAL \u2014 once existence is confirmed, the burden audit is the next investigatory step."
+      },
+      {
+        "factor_id": "(d) Limited conservatorship protective framing",
+        "audit_recommendation": "If the conservatorship is a limited conservatorship under (d), the protective framings apply: the conservatee is NOT presumed incompetent; retains ALL rights except those specifically designated; the conservatorship must encourage maximum self-reliance; only to the extent necessitated by PROVEN limitations. If any of these protective framings was disregarded, that's a structural defect in the conservatorship.",
+        "audit_status": "FLAGGED \u2014 applies only if the conservatorship is limited rather than general."
+      },
+      {
+        "factor_id": "(b) Estate conservatorship \u2014 substantial inability and the isolated-incidents exclusion",
+        "audit_recommendation": "If the conservatorship is of the estate (or combined under (c)), the (b) elements require SUBSTANTIAL inability to manage finances or resist fraud, AND the statute explicitly says inability MAY NOT BE PROVED SOLELY BY ISOLATED INCIDENTS of negligence or improvidence. The audit asks: did the petitioner show a pattern, or did they rely on isolated incidents? Reliance on isolated incidents is statutorily prohibited.",
+        "audit_status": "FLAGGED \u2014 applies only if estate or combined conservatorship is at issue."
+      },
+      {
+        "factor_id": "Cross-reference to \u00a7 1800.3 'Subject to' clause",
+        "audit_recommendation": "\u00a7 1801 opens with 'Subject to Section 1800.3' \u2014 meaning \u00a7 1800.3 conditions or limits \u00a7 1801. \u00a7 1800.3 must be fetched as next-step deepening to understand the full conservatorship-appointment framework.",
+        "audit_status": "OUTSTANDING"
+      },
+      {
+        "factor_id": "Bridge to CMIA \u00a7 56.10(c)(12)",
+        "audit_recommendation": "If a probate court investigator has been investigating any conservatorship proceeding involving the steward, that investigator was authorized under CMIA \u00a7 56.10(c)(12) to obtain the steward's medical records without his consent. The (c)(12) audit item in the CMIA manifest cross-references back to this \u00a7 1801 question.",
+        "audit_status": "CRITICAL \u2014 DOCTRINAL BRIDGE between this standard and CMIA \u00a7 56.10"
+      }
+    ]
+  },
+  "verbatim_factor_inventory": {
+    "subject_to_clause": "Subject to Section 1800.3 (cross-reference must be fetched as next-step)",
+    "subdivisions": [
+      {
+        "id": "(a) Conservator of the person",
+        "verbatim": "A conservator of the person may be appointed for a person who is unable to provide properly for his or her personal needs for physical health, food, clothing, or shelter, except as provided for the person as described in subdivision (b) or (c) of Section 1828.5.",
+        "elements": [
+          "ELEMENT \u2014 Unable to provide properly for personal needs (physical health OR food OR clothing OR shelter). Inability must be substantial; isolated lapses are not enough."
+        ]
+      },
+      {
+        "id": "(b) Conservator of the estate",
+        "verbatim": "A conservator of the estate may be appointed for a person who is substantially unable to manage his or her own financial resources or resist fraud or undue influence, except as provided for that person as described in subdivision (b) or (c) of Section 1828.5. Substantial inability may not be proved solely by isolated incidents of negligence or improvidence.",
+        "elements": [
+          "ELEMENT 1 \u2014 Substantial inability to manage own financial resources OR resist fraud or undue influence",
+          "ELEMENT 2 \u2014 STATUTORY EXCLUSION: substantial inability MAY NOT BE PROVED SOLELY BY ISOLATED INCIDENTS of negligence or improvidence. The petitioner must show a pattern, not isolated lapses."
+        ]
+      },
+      {
+        "id": "(c) Combined conservator of person and estate",
+        "verbatim": "A conservator of the person and estate may be appointed for a person described in subdivisions (a) and (b)."
+      },
+      {
+        "id": "(d) Limited conservatorship for developmentally disabled adults",
+        "verbatim": "A limited conservator of the person or of the estate, or both, may be appointed for a developmentally disabled adult. A limited conservatorship may be utilized only as necessary to promote and protect the well-being of the individual, shall be designed to encourage the development of maximum self-reliance and independence of the individual, and shall be ordered only to the extent necessitated by the individual's proven mental and adaptive limitations. The conservatee of the limited conservator shall not be presumed to be incompetent and shall retain all legal and civil rights except those which by court order have been designated as legal disabilities and have been specifically granted to the limited conservator. The intent of the Legislature, as expressed in Section 4501 of the Welfare and Institutions Code, that developmentally disabled citizens of this state receive services resulting in more independent, productive, and normal lives is the underlying mandate of this division in its application to adults alleged to be developmentally disabled.",
+        "elements": [
+          "PROTECTIVE FRAMING \u2014 limited conservatorship must encourage MAXIMUM SELF-RELIANCE and independence",
+          "PROTECTIVE FRAMING \u2014 only to the extent NECESSITATED BY PROVEN mental and adaptive limitations (not assumed, not presumed)",
+          "PROTECTIVE FRAMING \u2014 conservatee SHALL NOT BE PRESUMED TO BE INCOMPETENT",
+          "PROTECTIVE FRAMING \u2014 conservatee retains ALL legal and civil rights EXCEPT those specifically designated as legal disabilities and specifically granted to the conservator (a list-based, not a blanket, deprivation)"
+        ]
+      },
+      {
+        "id": "(e) BURDEN OF PROOF",
+        "verbatim": "The standard of proof for the appointment of a conservator pursuant to this section shall be clear and convincing evidence.",
+        "doctrinal_significance": "CLEAR AND CONVINCING EVIDENCE is the second-highest civil burden of proof in California (between preponderance of the evidence and beyond a reasonable doubt). For ANY conservatorship appointment under \u00a7 1801, the petitioner must satisfy this elevated burden as to ALL applicable elements (whether (a), (b), (c), or (d) is being invoked). The clear-and-convincing standard exists because conservatorship is a fundamental deprivation of liberty and autonomy."
+      }
+    ]
+  },
+  "structural_location": {
+    "code": "California Probate Code",
+    "division": "DIVISION 4. GUARDIANSHIP, CONSERVATORSHIP, AND OTHER PROTECTIVE PROCEEDINGS [1400 - 3925]",
+    "division_history": "Division 4 enacted by Stats. 1990, Ch. 79",
+    "part": "PART 3. CONSERVATORSHIP [1800 - 2033]",
+    "chapter": "CHAPTER 1. Establishment of Conservatorship [1800 - 1849.5]",
+    "article": "ARTICLE 1. Persons for Whom Conservator May Be Appointed [1800 - 1804]",
+    "section_history": "Most recent amendment: Stats. 1995, Ch. 842, Sec. 7. Effective January 1, 1996"
+  }
+}

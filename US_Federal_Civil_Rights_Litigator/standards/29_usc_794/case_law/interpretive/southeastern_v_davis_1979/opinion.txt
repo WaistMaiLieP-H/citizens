@@ -1,0 +1,71 @@
+SOUTHEASTERN COMMUNITY COLLEGE v. DAVIS
+442 U.S. 397 (1979)
+United States Supreme Court
+Decided: June 11, 1979
+
+---
+
+FACTS:
+
+Frances Davis, a licensed practical nurse with severe hearing disability, applied for admission to Southeastern Community College's clinical nursing program in North Carolina. The college was a recipient of federal financial assistance subject to § 504 of the Rehabilitation Act of 1973, 29 U.S.C. § 794.
+
+Davis could not understand speech without lipreading and could not safely perform clinical nursing duties that required understanding patients in situations where lipreading was impossible (masked surgeons, patients whose faces she could not see, emergencies requiring auditory cues). Southeastern denied her admission on the basis that her hearing disability disqualified her from safe and effective nursing practice.
+
+Davis sued, arguing that § 504 required the college to make reasonable accommodations — including program modifications — to allow her to participate. The Fourth Circuit held for Davis. The Supreme Court reversed.
+
+---
+
+HOLDING:
+
+Chief Justice Burger wrote for a unanimous Court.
+
+DEFINING "OTHERWISE QUALIFIED":
+
+"An otherwise qualified handicapped individual is one who is able to meet all of a program's requirements in spite of his handicap." (Emphasis added.)
+
+Section 504 does not require a covered entity to lower or modify its essential program requirements to accommodate a disabled applicant. The phrase "solely by reason of his handicap" in § 504 means that if the disability itself renders the person unable to meet essential standards even with reasonable accommodations, exclusion is not "solely by reason of" handicap — it is by reason of inability to perform.
+
+NO OBLIGATION TO FUNDAMENTALLY ALTER THE PROGRAM:
+
+"Nothing in the language or history of § 504 reflects an intention to limit the freedom of an educational institution to require reasonable physical qualifications for participation in a clinical training program."
+
+"Section 504 imposes no requirement upon an educational institution to lower or to effect substantial modifications of standards to accommodate a handicapped person."
+
+THE DAVIS STANDARD (Two-Part Test):
+1. Is the individual "otherwise qualified" — meaning can they meet the essential requirements of the program WITH reasonable accommodation?
+2. Would the accommodation require a fundamental alteration of the program, or impose an undue burden on the institution?
+
+If a fundamental alteration is required, § 504 does not mandate it.
+
+---
+
+WHAT DAVIS DOES NOT HOLD:
+
+Davis does NOT hold that § 504 imposes no accommodation obligation whatsoever. It holds only that fundamental program modifications are not required. Minor, reasonable accommodations that do not alter essential program requirements may still be required.
+
+The accommodation/modification distinction:
+- Reasonable accommodation: adjusting how requirements are met (ramps, accessible formats, modified schedules)
+- Fundamental modification: changing what requirements are applied (lowering the standard itself)
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For disability discrimination claims under § 504 / § 1983:
+1. Identify the essential functions or requirements of the program/service
+2. Ask whether the plaintiff could meet them with reasonable (non-fundamental) accommodation
+3. If yes, and the entity refused accommodation, § 504 is violated
+4. If the accommodation required would fundamentally alter the program, the entity may deny
+
+For SSA/DDS medical determination cases: The "otherwise qualified" framework applies. If SSA's process systematically excludes claimants by failing to accommodate communication disabilities (SIM swap blocking phone contact), that may constitute § 504 violation if the claimant is otherwise eligible.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 442 U.S. 397 (1979)
+Court: United States Supreme Court
+Reporter: United States Reports, vol. 442, page 397
+Author: Burger, C.J. (unanimous)
+Source of this text: Claude training data (knowledge cutoff August 2025). Southeastern Community College v. Davis is the foundational § 504 case establishing "otherwise qualified" and the reasonable accommodation vs. fundamental modification distinction.
+Verification: CourtListener / Justia / Google Scholar: "Southeastern Community College v. Davis 442 U.S. 397"
+Verification status: PROPOSED — pending steward witness review

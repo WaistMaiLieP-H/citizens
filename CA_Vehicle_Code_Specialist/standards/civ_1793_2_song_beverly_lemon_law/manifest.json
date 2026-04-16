@@ -1,0 +1,47 @@
+{
+  "standard_id": "civ_1793_2_song_beverly_lemon_law",
+  "title": "Cal. Civ. Code § 1793.2 — Song-Beverly Consumer Warranty Act (Lemon Law)",
+  "citizen": "CA_Vehicle_Code_Specialist",
+  "statute_reference": "Cal. Civ. Code §§ 1790–1795.8; operative §§ 1793.2, 1793.22, 1794, 1795.5",
+  "primary_cases": [
+    "RedJag 2018 Jaguar XE — wrong CARFAX, stripped/stolen delivery, yo-yo financing, $19,985 debt (Case #1)",
+    "Toyota Camry XSE — separate vehicle fraud (facts TBD)"
+  ],
+  "layers_present": [
+    "current/rule.md",
+    "current/reasoning.md",
+    "current/statute_text.md",
+    "historical_chain/01_origin_1970/context.md",
+    "historical_chain/01_origin_1970/provenance.json",
+    "historical_chain/02_lemon_law_1982/context.md",
+    "historical_chain/witness_record.md",
+    "cross_refs/refs.json"
+  ],
+  "status": "PUBLISHED",
+  "build_session": "2026-04-15",
+  "terminal": "vehicle-builder (Task #4)",
+  "verified": false,
+  "verified_note": "Statute text from training knowledge; leginfo fetch OUTSTANDING before filing pleading that relies on verbatim text",
+  "content_hash": "sb1793-2-v1",
+  "two_witness_status": {
+    "herald_witness": "WITNESSED-BY-HERALD — 2026-04-15",
+    "adam_witness": {
+      "governing_guidelines": "PASS",
+      "standards_of_creation": "PASS",
+      "soc": "PARTIAL",
+      "signal": "APPROVE",
+      "date": "2026-04-15"
+    },
+    "eve_witness": {
+      "layer_1_rule": "PASS",
+      "layer_2_reasoning": "PASS",
+      "layer_3_historical_loss": "PASS",
+      "layer_4_cross_references": "PASS",
+      "layer_5_verifiable_provenance": "PARTIAL",
+      "triple_constraint": "PASS",
+      "signal": "COUNTERSIGN-BY-HERALD",
+      "date": "2026-04-15"
+    },
+    "publication_status": "PUBLISHED — ADAM APPROVE + HERALD COUNTERSIGN — 2026-04-15"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "standard_id": "vicp_300aa_11_preemption",
+  "citizen": "CA_Product_Liability_Litigator",
+  "source_type": "federal_statute",
+  "primary_source": "42 U.S.C. §§ 300aa-11, 300aa-22 (National Childhood Vaccine Injury Act, Pub. L. No. 99-660)",
+  "fetch_method": "VernenLegal MCP usc_get_section — returned NOT FOUND",
+  "fetch_date": "2026-04-13",
+  "verified": false,
+  "verification_note": "VernenLegal MCP returned 'not found' for 42 USC §300aa-11. Statute text and analysis from training knowledge through 2025. Steward MUST verify §§300aa-11 and 300aa-22 full text at uscode.house.gov and 42 CFR §100.3 (Vaccine Injury Table, SIRVA listing) at ecfr.gov before any filing reliance.",
+  "secondary_sources": [
+    "Bruesewitz v. Wyeth LLC (2011) 562 U.S. 223 — full preemption of design defect claims against vaccine manufacturers",
+    "42 C.F.R. § 100.3 — Vaccine Injury Table; SIRVA listed as Table Injury (COVID vaccines added 2022)",
+    "Pub. L. No. 99-660 (1986) — NCVIA full text"
+  ],
+  "historical_origin": "DTP litigation crisis 1980s → NCVIA 1986 → Bruesewitz 2011",
+  "steward_verification_queue": [
+    "Verify 42 USC §300aa-11 full text at uscode.house.gov",
+    "Verify 42 USC §300aa-22 full text",
+    "Verify 42 CFR §100.3 SIRVA Table Injury listing for COVID vaccines",
+    "Verify VICP filing deadline: approximately November 2024 (3 years from ~November 2021 SIRVA onset) — determine if petition was filed"
+  ],
+  "chronicle_flag": false,
+  "build_session": "2026-04-13",
+  "terminal": "Terminal B"
+}

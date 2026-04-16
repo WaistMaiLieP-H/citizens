@@ -1,0 +1,129 @@
+{
+  "sequence": 6,
+  "year": 1993,
+  "name": "California Family Code Technical Recodification (Stats. 1993 Ch. 219, AB 1500 Speier)",
+  "popular_name": "1993 Technical Recodification / Speier AB 1500 / Family Code Cleanup Act",
+  "status": "PRIMARY-SOURCE-VERIFIED 2026-04-08",
+  "filed_at_utc": "2026-04-08T19:10:00Z",
+  "deepened_at_utc": "2026-04-08T19:10:00Z",
+
+  "primary_source_artifacts": {
+    "vol1_chapters_pdf": {
+      "path": "${citizens}/_shared_statutes_archive/1993_Stats_vol1.pdf",
+      "size_bytes": 121977897,
+      "sha256": "63d43aa13ad923c95bed3475f515cdba1dcc81e5f4b935c344262d6a550c2f3b",
+      "pages": 2206,
+      "scope": "Chapters 1-272 of the 1993 Regular Session",
+      "creator_software": "DigiPath",
+      "source_url": "https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1993/1993_Stats_vol1.pdf",
+      "source_authority": "California State Assembly, Office of the Chief Clerk",
+      "fetched_at_utc": "2026-04-08T18:57:00Z"
+    },
+    "vol5_summary_digest_pdf": {
+      "path": "${citizens}/_shared_statutes_archive/1993_Stats_vol5.pdf",
+      "size_bytes": 83683641,
+      "sha256": "d3b1ac3692a65e92039fce1fc31cd66fbbe4a6868778b8bb9f9ebd61f0a5e4ce",
+      "pages": 1485,
+      "scope": "Summary Digest of Statutes Enacted and Resolutions Adopted in 1993, plus 1989-1993 Statutory Record",
+      "compiled_by": "Bion M. Gregory, Legislative Counsel",
+      "creator_software": "DigiPath",
+      "source_url": "https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1993/1993_Stats_vol5.pdf",
+      "source_authority": "California State Assembly, Office of the Chief Clerk; compiled by Office of Legislative Counsel of California",
+      "fetched_at_utc": "2026-04-08T18:57:00Z"
+    },
+    "page_renders": [
+      {"path": "06_1993_chapter_219_pages/vol5_p83_digest_entry_ch219.png", "sha256": "3418b1e661beb422aa9668db13de00396e2bd1fc16c6b8a65b057641edda95ac", "content": "Vol 5 PDF page 88 = printed page 83. Official Legislative Counsel digest entry for Ch. 219 (AB 1500) Speier. Family Code. Verbatim digest text transcribed below."},
+      {"path": "06_1993_chapter_219_pages/vol1_p1576_ch219_header_section_index_start.png", "sha256": "de16764fcdd9cfaaa1ec0b2558d570db84c8ba654dbe721215131fbf6a552832", "content": "Vol 1 PDF page 1844 = printed page 1576. Conclusion of Ch. 218 plus the START of CHAPTER 219 with the comprehensive section index opening."},
+      {"path": "06_1993_chapter_219_pages/vol1_p1577_ch219_section_index_continuation.png", "sha256": "1279d1b0b82a82e92134f11e1178bab98f8daf84de1aa30af1578ba17f10700f", "content": "Vol 1 PDF page 1845 = printed page 1577. Continuation of Ch. 219 section index — visible Family Code sections include 3020, 3023, 3026, 3027, 3028, 3060, 3061, 3080, 3081, 3085, 3088."},
+      {"path": "06_1993_chapter_219_pages/vol1_p1578_ch219_section_index_continuation_2.png", "sha256": "d5104ca7deb7835e40a91540b8dace081800124794d6c905d84842bd7ec57f4f", "content": "Vol 1 PDF page 1846 = printed page 1578. Continued section index."},
+      {"path": "06_1993_chapter_219_pages/vol1_p1579_ch219_section_index_continuation_3.png", "sha256": "a61dfea462a924b52c92b1b0b3a3adff8d36cfc90f74999d31ded0e60f92f7b7", "content": "Vol 1 PDF page 1847 = printed page 1579. Continued section index."},
+      {"path": "06_1993_chapter_219_pages/vol1_p1580_ch219_section_index_continuation_4.png", "sha256": "969f9f33e059829f4918859bca88ced3bfbd7f8ecbbb9da73d66b8207cc0ed7c", "content": "Vol 1 PDF page 1848 = printed page 1580. Continued section index."},
+      {"path": "06_1993_chapter_219_pages/vol1_p1581_ch219_section_index_continuation_5.png", "sha256": "d7cd11b1a2055698806c180f3ce4fc348e8952aeb1e514312e9ac95aa84b056c", "content": "Vol 1 PDF page 1849 = printed page 1581. End of section index, beginning of operative provisions."},
+      {"path": "06_1993_chapter_219_pages/vol1_p1582_ch219_ccp527_ex_parte_injunction.png", "sha256": "c5ce8146fd9b17d1854e873ec6bf282d094d4396e77de22f409949580f1e6675", "content": "Vol 1 PDF page 1850 = printed page 1582. CCP § 527 amendment within Ch. 219 — ex parte temporary restraining order procedures, with subdivisions (c)-(h) covering 15-day return, hearing on petition for injunction, evidence standards, the 'three-month minimum injunction duration' rule, and the bar against the supporting party being represented by an attorney in close proximity to the alleged DV victim. DIRECTLY RELEVANT to the Christina case TROs and DVROs because this is the procedural framework that has governed every California TRO since 1994."},
+      {"path": "06_1993_chapter_219_pages/vol1_p1889_ch219_sec_115_5_adds_fc_3011.png", "sha256": "453026ffd97c2c5503acc10c8c3fa5a99d39bf39d907dd8b6eaabe6773cc3034", "content": "Vol 1 PDF page 1889 = printed page 1621. Contains SEC. 115 (repealing the prior Chapter 2 commencing with Section 3010 of Part 1 of Division 8) AND SEC. 115.5 (adding the new Chapter 2, including the verbatim original enactment of Family Code §§ 3010 and 3011). § 3011 as enacted lists (a) health/safety/welfare, (b) history of abuse with substantial-independent-corroboration prerequisite cross-referencing Penal Code § 11165.6 and Family Code § 6203, and (c) nature/amount of contact with both parents. This is the load-bearing original enactment of the Best Interest of the Child statute that governs the Christina case."},
+      {"path": "06_1993_chapter_219_pages/vol1_p1889_ocr.txt", "sha256": "abd408ad9685edb4d21c45764924188f6e05736a547f389565b855754b3483bd", "content": "Tesseract OCR text of vol1 PDF page 1889"},
+      {"path": "06_1993_chapter_219_pages/vol1_p1896_ch219_sec_116_87_starts_adds_fc_3160.png", "sha256": "525f6bb7c18e1dc898bb3ef1ab886e8d6f74fcbb29b830b58f382d31943295f0", "content": "Vol 1 PDF page 1896 = printed page 1628. Contains SEC. 116.86 (repealing the prior Chapter 11 commencing with Section 3155) AND the start of SEC. 116.87, which adds the new Chapter 11 (Mediation of Custody and Visitation Issues) commencing with Section 3160. § 3160 as enacted: 'Each superior court shall make a mediator available.'"},
+      {"path": "06_1993_chapter_219_pages/vol1_p1896_ocr.txt", "sha256": "b669c9cbc92501b18fd4544bba95b1987bf4fc615d96c31f305e40e2798081d9", "content": "Tesseract OCR text of vol1 PDF page 1896"},
+      {"path": "06_1993_chapter_219_pages/vol1_p1897_ch219_sec_116_87_continues_fc_3164.png", "sha256": "e7db98bb9a81b047960673d964b63334c282baf6542e13092a70b802c2cd1a01", "content": "Vol 1 PDF page 1897 = printed page 1629. Continuation of SEC. 116.87, including the verbatim original enactment of Family Code §§ 3161, 3162, 3163, AND § 3164 — the mediator-qualifications statute. § 3164(a): 'The mediator may be a member of the professional staff of a family conciliation court, probation department, or mental health services agency, or may be any other person or agency designated by the court.' § 3164(b): 'The mediator shall meet the minimum qualifications required of a counselor of conciliation as provided in Section 1815.' This is the verbatim primary-source root of the Sala Ajaniku PRA letter's central legal claim — the 'shall meet § 1815' requirement has been the law of California since this 1993 enactment, effective January 1, 1994."},
+      {"path": "06_1993_chapter_219_pages/vol1_p1897_ocr.txt", "sha256": "25fbf603b9efad7fd8e9126dd4349bbee09e09cfc80afc6150372ef9c39b41ed", "content": "Tesseract OCR text of vol1 PDF page 1897"}
+    ]
+  },
+
+  "official_digest_entry_verbatim": {
+    "source": "Vol 5 PDF page 88 (printed page 83), Summary Digest compiled by Legislative Counsel Bion M. Gregory",
+    "verbatim": "Ch. 219 (AB 1500) Speier. Family Code. Chapter 162 of the Statutes of 1992 enacted the Family Code, operative January 1, 1994. This bill would revise and recast provisions of the Business and Professions Code, Civil Code, Code of Civil Procedure, Education Code, Evidence Code, Government Code, Health and Safety Code, Penal Code, Probate Code, Revenue and Taxation Code, and Welfare and Institutions Code, that were amended or added to 1992, to conform those provisions to the Family Code, revise and recast provisions of the Family Code, and make other conforming, technical changes. This bill would, among other things, make all of the following changes to existing law: (1) authorize a court to order the division of accumulated community property contributions and service credit in a retirement plan, on dissolution or nullification of a marriage or legal separation, as provided in the Judges' Retirement Law; (2) specifically include certain eligible adult children in provisions relating to child support; (3) with regard to child custody: (a) specify that procedures relating to custody of children apply to the determination of custody and visitation under the Uniform Parentage Act and the Domestic Violence Prevention Act, (b) restore certain functions of domestic relations case investigators deleted by Chapter 162, and denominate the persons making custody investigations as 'court-appointed investigators,' and (c) consolidate the requirements and procedures for the mediation of disputes involving stepparent and grandparent visitation and cases where custody or visitation is contested; (4) with regard to domestic violence: (a) define 'domestic violence' to include violence against children, thereby expanding the application of some domestic violence provisions in this regard, and thereby requiring an increased level of service by local officials with regard to the registration and enforcement of domestic violence protective orders and for that reason imposing a state-mandated local program, (b) generally require ex parte restraining orders issued pursuant to the Family Code to be returnable within 20 days from the date of the order, instead of 15 days as required under existing law for injunctions generally, and (c) authorize the court to issue an ex parte order for visitation under the Domestic Violence Prevention Act whether or not the parties are married; and (5) specifically require the Judicial Council to conduct research on the effectiveness of current family law for the purpose of shaping future public policy. The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement, including the creation of a State Mandates Claims Fund to pay the costs of mandates which do not exceed $1,000,000 statewide and other procedures for claims whose statewide costs exceed $1,000,000. This bill would provide that, if the Commission on State Mandates determines that this bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to those statutory procedures and, if the statewide cost does not exceed $1,000,000, shall be made from the State Mandates Claims Fund."
+  },
+
+  "key_provisions_relevant_to_christina_case": [
+    {
+      "category": "Custody procedure unification (digest §3(a))",
+      "verbatim": "specify that procedures relating to custody of children apply to the determination of custody and visitation under the Uniform Parentage Act and the Domestic Violence Prevention Act",
+      "significance": "This 1993 amendment is what makes Family Code § 3011 (Best Interest of Child) APPLY to DVPA proceedings. The Marin DVRO FL0002067 and the 2025 Alameda DVRO filings are governed by § 3011 because of this 1993 cross-reference. Before 1993, custody analysis under DVPA proceedings might have been treated separately."
+    },
+    {
+      "category": "Domestic relations investigators / court-appointed investigators (digest §3(b))",
+      "verbatim": "restore certain functions of domestic relations case investigators deleted by Chapter 162, and denominate the persons making custody investigations as 'court-appointed investigators'",
+      "significance": "The 1993 chapter restored investigator functions that the 1992 consolidation had deleted. The term 'court-appointed investigators' is the modern term for the role that Olga Paredes (2009) and Sala Ajaniku (2010) performed under § 3164. This is the doctrinal connection between the 1993 restoration and the 2009/2010 mediator activity in RF09456481."
+    },
+    {
+      "category": "Mediation consolidation (digest §3(c))",
+      "verbatim": "consolidate the requirements and procedures for the mediation of disputes involving stepparent and grandparent visitation and cases where custody or visitation is contested",
+      "significance": "The 1993 chapter consolidates mediation requirements. § 3164 (mediator qualifications) is part of this consolidation. The Sec. 116.87 of Ch. 219 that adds § 3164 is the operative addition."
+    },
+    {
+      "category": "Domestic violence definition expansion (digest §4(a))",
+      "verbatim": "define 'domestic violence' to include violence against children, thereby expanding the application of some domestic violence provisions in this regard",
+      "significance": "The expanded definition is the textual root of Family Code § 6203's modern broad scope. Before 1993, 'domestic violence' under DVPA had a narrower definition. The 1993 expansion is why Christina's filings invoking child-related allegations as 'abuse' under § 6203 even reach the statute at all."
+    },
+    {
+      "category": "20-day return on ex parte restraining orders (digest §4(b))",
+      "verbatim": "generally require ex parte restraining orders issued pursuant to the Family Code to be returnable within 20 days from the date of the order, instead of 15 days as required under existing law for injunctions generally",
+      "significance": "The 20-day return rule is what governs every Family Code ex parte TRO since 1994 — including Christina's filings. The 20-day return is more lenient than the prior 15-day rule for general injunctions; this creates a procedural window in which an ex parte order remains in effect without an evidentiary hearing. Relevant to the Marin FL0002067 timeline."
+    },
+    {
+      "category": "Ex parte visitation orders for unmarried parties (digest §4(c))",
+      "verbatim": "authorize the court to issue an ex parte order for visitation under the Domestic Violence Prevention Act whether or not the parties are married"
+    },
+    {
+      "category": "Judicial Council research mandate (digest §5)",
+      "verbatim": "specifically require the Judicial Council to conduct research on the effectiveness of current family law for the purpose of shaping future public policy",
+      "significance": "The Judicial Council research mandate is the institutional check on family-law effectiveness. Whether the Judicial Council has actually conducted (or published) the research mandated by § 5 of Ch. 219 is itself an outstanding research question."
+    }
+  ],
+
+  "section_15_5_adding_family_code_3011": {
+    "status": "PRIMARY-SOURCE-VERIFIED 2026-04-08",
+    "located_at": "1993_Stats_vol1.pdf PDF page 1889 = printed page 1621",
+    "verbatim_enactment": "SEC. 115.5. Chapter 2 (commencing with Section 3010) is added to Part 1 of Division 8 of the Family Code, to read: CHAPTER 2. GENERAL PROVISIONS. 3010. (a) The mother of an unemancipated minor child and the father, if presumed to be the father under Section 7611, are equally entitled to the custody of the child. (b) If one parent is dead, is unable or refuses to take custody, or has abandoned the child, the other parent is entitled to custody of the child. 3011. In making a determination of the best interest of the child in a proceeding described in Section 3021, the court shall, among any other factors it finds relevant, consider all of the following: (a) The health, safety, and welfare of the child. (b) Any history of abuse by one parent against the child or against the other parent. As a prerequisite to the consideration of allegations of abuse, the court may require substantial independent corroboration, including, but not limited to, written reports by law enforcement agencies, child protective services or other social welfare agencies, courts, medical facilities, or other public agencies or private nonprofit organizations providing services to victims of sexual assault or domestic violence. As used in this subdivision, 'abuse against the child' means 'child abuse' as defined in Section 11165.6 of the Penal Code and 'abuse against the other parent' means 'abuse' as defined in Section 6203 of this code. (c) The nature and amount of contact with both parents.",
+    "artifact_png": "06_1993_chapter_219_pages/vol1_p1889_ch219_sec_115_5_adds_fc_3011.png",
+    "artifact_png_sha256": "453026ffd97c2c5503acc10c8c3fa5a99d39bf39d907dd8b6eaabe6773cc3034",
+    "artifact_ocr_txt": "06_1993_chapter_219_pages/vol1_p1889_ocr.txt",
+    "artifact_ocr_txt_sha256": "abd408ad9685edb4d21c45764924188f6e05736a547f389565b855754b3483bd",
+    "doctrinal_significance": "This is the verbatim original enactment of Family Code § 3011 (Best Interest of the Child) by Stats. 1993 Ch. 219 Sec. 115.5, effective January 1, 1994. The 1993 enactment already included (1) the substantial-independent-corroboration requirement for abuse allegations, (2) the explicit cross-reference to Penal Code § 11165.6 for child abuse, and (3) the explicit cross-reference to Family Code § 6203 for abuse against the other parent. Every Christina-case-related § 3011 best-interest analysis traces back to this enactment."
+  },
+
+  "section_116_87_adding_family_code_3164": {
+    "status": "PRIMARY-SOURCE-VERIFIED 2026-04-08",
+    "located_at": "1993_Stats_vol1.pdf PDF pages 1896-1897 = printed pages 1628-1629",
+    "verbatim_enactment": "SEC. 116.87. Chapter 11 (commencing with Section 3160) is added to Part 2 of Division 8 of the Family Code, to read: CHAPTER 11. MEDIATION OF CUSTODY AND VISITATION ISSUES. Article 1. General Provisions. 3160. Each superior court shall make a mediator available. The court is not required to institute a family conciliation court in order to provide mediation services. ... 3164. (a) The mediator may be a member of the professional staff of a family conciliation court, probation department, or mental health services agency, or may be any other person or agency designated by the court. (b) The mediator shall meet the minimum qualifications required of a counselor of conciliation as provided in Section 1815.",
+    "artifact_png_start": "06_1993_chapter_219_pages/vol1_p1896_ch219_sec_116_87_starts_adds_fc_3160.png",
+    "artifact_png_start_sha256": "525f6bb7c18e1dc898bb3ef1ab886e8d6f74fcbb29b830b58f382d31943295f0",
+    "artifact_png_continuation": "06_1993_chapter_219_pages/vol1_p1897_ch219_sec_116_87_continues_fc_3164.png",
+    "artifact_png_continuation_sha256": "e7db98bb9a81b047960673d964b63334c282baf6542e13092a70b802c2cd1a01",
+    "artifact_ocr_txt_start": "06_1993_chapter_219_pages/vol1_p1896_ocr.txt",
+    "artifact_ocr_txt_start_sha256": "b669c9cbc92501b18fd4544bba95b1987bf4fc615d96c31f305e40e2798081d9",
+    "artifact_ocr_txt_continuation": "06_1993_chapter_219_pages/vol1_p1897_ocr.txt",
+    "artifact_ocr_txt_continuation_sha256": "25fbf603b9efad7fd8e9126dd4349bbee09e09cfc80afc6150372ef9c39b41ed",
+    "doctrinal_significance": "This is the verbatim original enactment of Family Code § 3164 (Mediator Qualifications) by Stats. 1993 Ch. 219 Sec. 116.87, effective January 1, 1994. § 3164(b)'s 'shall meet the minimum qualifications required of a counselor of conciliation as provided in Section 1815' is the load-bearing requirement underlying the Sala Ajaniku PRA letter. The mandatory 'shall' has been continuously in effect since 1994 — there is no plausible argument that the requirement was new, untested, or ambiguous when Ajaniku was assigned to RF09456481 in September 2010, more than 16 years after the requirement took effect."
+  },
+
+  "context": "The 1993 Family Code Technical Recodification (AB 1500, Speier) is the comprehensive cleanup chapter that followed Stats. 1992 Ch. 162 (the original Family Code consolidation). The 1992 chapter created the Family Code by moving provisions from prior locations (primarily Civil Code Title II and Title III) into a unified framework. The 1993 chapter then revised and recast all the cross-references and conforming provisions across the other 11 California codes (Bus & Prof, Civil, CCP, Education, Evidence, Government, Health & Safety, Penal, Probate, Revenue & Taxation, Welfare & Institutions) to make the new Family Code work properly with the rest of California law. The chapter is enormous because the 1992 consolidation touched so many cross-referenced provisions across so many codes.",
+
+  "doctrinal_significance": "Stats. 1993 Ch. 219 is the immediate enacting authority for several foundational Family Code sections in the corpus. § 3011 (Best Interest of the Child) was 'repealed and added' by Sec. 115.5. § 3164 (Mediator Qualifications) was added by Sec. 116.87. The fact that the 1993 chapter was a comprehensive technical recodification rather than a substantive change is critical: when a court interprets § 3011 or § 3164 today, it looks back through the 1993 chapter to the underlying doctrines that the chapter formalized. The 'shall meet § 1815' language in § 3164(b) is therefore not a 1993 invention but a codification of pre-existing requirements that were already part of the family-law framework before the consolidation. This means the qualifications floor was firmly established by the time of Sala Ajaniku's September 2010 mediator appointment in RF09456481 — there is no plausible argument that the requirement was new, untested, or ambiguous.",
+
+  "next_pass_outstanding_work": [
+    "Find the END of Ch. 219 in Vol 1 (where Ch. 220 begins) to fully bound the chapter",
+    "Cross-reference the Ch. 219 (AB 1500) bill history through the California Legislative Information system if available for pre-1993 bill records",
+    "Determine if the Judicial Council ever published the research mandated by Ch. 219 § 5 on family law effectiveness — this is itself a research question that may produce institutional records"
+  ]
+}

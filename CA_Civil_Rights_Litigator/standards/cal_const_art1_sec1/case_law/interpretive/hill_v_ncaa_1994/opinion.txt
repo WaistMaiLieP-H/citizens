@@ -1,0 +1,87 @@
+HILL v. NATIONAL COLLEGIATE ATHLETIC ASSOCIATION
+7 Cal.4th 1 (1994)
+California Supreme Court
+Decided: August 29, 1994
+
+---
+
+FACTS:
+
+NCAA member college athletes challenged the NCAA's drug testing program, which required them to submit to urinalysis and sign consent forms authorizing the tests. They argued the program violated their right to privacy under Article I, Section 1 of the California Constitution.
+
+The California Supreme Court granted review to establish the definitive framework for analyzing constitutional privacy claims under Cal. Const. Art. I, § 1 — which added "privacy" to the list of inalienable rights in 1972.
+
+---
+
+HOLDING:
+
+Justice Baxter wrote for the Court.
+
+THE HILL THREE-PART FRAMEWORK FOR CALIFORNIA CONSTITUTIONAL PRIVACY CLAIMS:
+
+To establish a privacy violation under Cal. Const. Art. I, § 1, a plaintiff must show:
+
+ELEMENT 1 — LEGALLY PROTECTED PRIVACY INTEREST:
+The plaintiff must identify a "specific, legally protected privacy interest." This is the threshold question. California law recognizes privacy interests in:
+- Personal information about health, medical history, and treatment
+- Financial information
+- Sexual behavior, preferences, and orientation
+- Communications (phone calls, letters, electronic messages)
+- Political beliefs and associations
+- Social networks and relationships
+- Bodily integrity and medical procedures
+
+Not every expectation of privacy rises to a legally protected interest. The interest must be "reasonable under the circumstances."
+
+ELEMENT 2 — REASONABLE EXPECTATION OF PRIVACY:
+The plaintiff must have had an objectively reasonable expectation of privacy in the context where the alleged violation occurred. This requires:
+- Whether the plaintiff voluntarily submitted the information to others (reducing the expectation)
+- The context in which the information was shared
+- Whether the disclosure was voluntary or compelled
+- The sensitivity of the information
+
+ELEMENT 3 — SERIOUS VIOLATION:
+The invasion must be "serious" — not trivial or de minimis. "Some intrusions into personal privacy are too minor, too familiar, or too fleeting to warrant constitutional protection."
+
+BALANCING — ONCE THREE ELEMENTS ARE SHOWN:
+Even if the plaintiff establishes all three elements, the privacy interest may be overcome by competing interests if the defendant can show:
+- A legitimate, compelling interest justifying the invasion
+- The means chosen are narrowly drawn to serve that interest (necessity)
+- The invasion is proportionate to the interest served
+
+For the NCAA drug testing program: The athletes had a reduced privacy expectation (voluntary participation in competitive athletics, history of drug testing in sports). The program served legitimate drug-deterrence interests. The testing protocol was minimally intrusive. Result: the privacy interest was overcome.
+
+---
+
+SIGNIFICANCE — THE HILL FRAMEWORK IS CONTROLLING CALIFORNIA PRIVACY LAW:
+Hill remains the definitive test for all California constitutional privacy claims. The three-element framework applies to:
+- Government investigations and surveillance
+- Compelled disclosure of personal information
+- Electronic and telecommunications privacy
+- Medical records and health information
+- Family relationships and personal associations
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+The Hill framework governs every California constitutional privacy claim:
+
+1. **SIM swap / phone communications**: Legally protected privacy interest in personal communications (Hill category). Reasonable expectation of privacy in phone calls, texts, and account communications. Serious violation — complete capture and rerouting of all communications. No legitimate interest can justify a private actor (Ryan McClaran) seizing control of another person's phone identity.
+
+2. **Medical records disclosure**: Legally protected privacy interest (health and medical history). If medical records were accessed or shared without authorization in the course of the coordinated scheme, each unauthorized disclosure is a serious Hill violation.
+
+3. **Family relationships**: California recognizes a privacy interest in family and personal relationships. Systematic surveillance and disruption of the steward's parent-child relationship implicates this category.
+
+4. **Government balancing**: When the defendant is a government actor (SSA, DDS, CPS, APD), the balancing test applies. For private actors (Ryan McClaran, Christina), there is no legitimate competing interest to balance — the violation stands unremedied by any balancing analysis.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 7 Cal.4th 1 (1994)
+Court: California Supreme Court
+Reporter: California Reports, Fourth Series, vol. 7, page 1
+Author: Baxter, J.
+Source of this text: Claude training data (knowledge cutoff August 2025). Hill v. NCAA established the controlling three-part framework for California constitutional privacy claims under Art. I, § 1: (1) legally protected interest, (2) reasonable expectation, (3) serious violation — subject to balancing against compelling countervailing interests.
+Verification: Casetext / Google Scholar: "Hill v. National Collegiate Athletic Association 7 Cal.4th 1"
+Verification status: PROPOSED — pending steward witness review

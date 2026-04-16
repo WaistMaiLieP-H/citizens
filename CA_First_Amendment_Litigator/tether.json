@@ -1,0 +1,35 @@
+{
+  "path_anchors": {
+    "familylaw": "/home/vernenlegal/FamilyLaw",
+    "nonfamilylaw": "/home/vernenlegal/NonFamilyLaw",
+    "citizens": "/home/vernenlegal/citizens"
+  },
+  "citizen": "CA_First_Amendment_Litigator",
+  "tether_version": "0.1.0-initial",
+  "filed_at_utc": "2026-04-09T05:30:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "purpose": "The CA_First_Amendment_Litigator defends and enforces the right to speak, petition, and access public information in California courts. This Citizen carries the procedural and substantive tools that protect a person who speaks publicly about government misconduct, files pro se litigation, submits PRA requests, or publishes audits of public agencies. This Citizen exists because the steward is a pro se litigant who publishes compliance audits, files public records requests, and makes public statements about documented government failures — all acts that anti-SLAPP, reporter's privilege, public records law, and petition-clause doctrine exist to protect.",
+
+  "blueprints_inherited": {
+    "from": ["${citizens}/ADAM/dossier.md", "${citizens}/ADAM/skills.md", "${citizens}/EVE/dossier.md", "${citizens}/EVE/skills.md"],
+    "blueprints": ["Triple Constraint", "Five-Layer Bar", "Two-Witness Rule", "Hash Chain + Anchor"]
+  },
+
+  "standards": {
+    "bound_directly": [
+      {"standard_id": "CA_CCP_425_16_ANTI_SLAPP", "popular_name": "Anti-SLAPP — special motion to strike retaliatory lawsuits", "manifest_path": "standards/cal_ccp_425_16_anti_slapp/manifest.json", "status": "PROPOSED-DEEPENED — verbatim text, substance audit complete"},
+      {"standard_id": "CA_CCP_425_17", "popular_name": "Anti-SLAPP exemptions — commercial speech, public interest suits", "status": "PROPOSED"},
+      {"standard_id": "CA_CCP_425_18", "popular_name": "SLAPPback — malicious use of anti-SLAPP motion", "status": "PROPOSED"},
+      {"standard_id": "CA_GOV_7921", "popular_name": "California Public Records Act — right of access to government records", "status": "PROPOSED"},
+      {"standard_id": "CA_GOV_7923_600", "popular_name": "PRA exemptions — law enforcement records", "status": "PROPOSED"},
+      {"standard_id": "CA_EVID_1070", "popular_name": "Shield Law — reporter/publisher privilege against compelled disclosure", "status": "PROPOSED"},
+      {"standard_id": "CA_PEN_422_6", "popular_name": "Interference with civil rights by force or threat — speech-related hate crimes", "status": "PROPOSED"}
+    ]
+  },
+
+  "domain": {
+    "jurisdiction": "California",
+    "subject_matter": "First Amendment litigation in California courts: anti-SLAPP (CCP §425.16-425.18), California Public Records Act (Gov. Code §§7920-7931), reporter's privilege (Evid. Code §1070), petition clause protection, prior restraint doctrine, public forum doctrine, retaliatory litigation defense",
+    "exclusions": ["Federal First Amendment doctrine — US_Federal_Civil_Rights_Litigator", "Constitutional text ownership — CA_Constitutional_Law_Specialist (Art I §§2-3 owned there, cross-referenced here)", "General civil rights — CA_Civil_Rights_Litigator"]
+  }
+}

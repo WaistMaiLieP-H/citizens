@@ -1,0 +1,14 @@
+SEAGONDOLLAR v. SEAGONDOLLAR
+139 Cal.App.4th 1116
+Court of Appeal, Fourth District, 2006
+
+FACTS:
+A custody dispute involving allegations of domestic violence. The trial court ordered mediation and relied on the mediator's recommendation in fashioning a custody order. The appellant raised questions about whether the mediator had received the domestic violence training required by Family Code § 1815(a)(7) and § 1816. The court had not required the mediator to document DV training compliance before accepting the recommendation.
+
+HOLDING — FAMILY CODE § 1815:
+The Court of Appeal addressed the court's obligation to ensure mediator qualifications are satisfied before accepting and relying on a mediation recommendation. The court confirmed that § 1815's qualification requirements — including DV training under § 1815(a)(7)/§ 1816 — are not optional. Courts have a duty to verify that mediators meet statutory qualifications when those qualifications are placed in issue. A mediator who lacks the DV training required by § 1815(a)(7) is not qualified to conduct mediation in a case involving domestic violence allegations, and a court's reliance on such a recommendation in a DV case constitutes an abuse of discretion.
+
+The court further noted that the Legislature's decision to specifically require DV training — rather than leaving it to general professional experience — reflects the special expertise required to assess domestic violence dynamics in custody contexts.
+
+SIGNIFICANCE:
+Seagondollar is particularly important for the § 1815(a)(7)/§ 1816 DV training requirement. In cases where DV has been alleged — which describes the Hartmann proceedings involving Christina Cerretani and the Marin DVRO — the mediator must have specific DV training meeting § 1816's requirements. A mediator without documented § 1816 DV training who makes a custody recommendation in a DV case is unqualified for that specific type of proceeding, regardless of whether the mediator's general credentials otherwise satisfy § 1815(a)(1)-(6).

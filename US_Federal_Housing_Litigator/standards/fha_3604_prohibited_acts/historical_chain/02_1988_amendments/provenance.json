@@ -1,0 +1,29 @@
+{
+  "layer": "historical_chain",
+  "sublayer": "02_1988_amendments",
+  "title": "Fair Housing Amendments Act of 1988 — Pub. L. 100-430 — Disability and Familial Status Added",
+  "enacted": "1988-09-13",
+  "president": "Ronald Reagan",
+  "enacting_law": "Pub. L. 100-430, 102 Stat. 1619",
+  "primary_additions": [
+    "Handicap (disability) as protected class — § 3604(f)(1)-(3)",
+    "Familial status as protected class — § 3604(a)-(e) amended",
+    "Reasonable modification right — § 3604(f)(3)(A)",
+    "Reasonable accommodation right — § 3604(f)(3)(B)",
+    "HUD administrative enforcement with civil penalties",
+    "ALJ proceedings as alternative dispute resolution track"
+  ],
+  "disability_definition_source": "42 U.S.C. § 3602(h) — mirrors Rehabilitation Act of 1973 § 504 definition",
+  "familial_status_definition_source": "42 U.S.C. § 3602(k)",
+  "senate_vote": "94-3",
+  "house_vote": "376-23",
+  "primary_sponsors": [
+    "Rep. James Sensenbrenner (R-WI)",
+    "Sen. Edward Kennedy (D-MA)"
+  ],
+  "companion_case": "City of Cleburne v. Cleburne Living Center, 473 U.S. 432 (1985) — invalidated zoning exclusion of group home for intellectually disabled under rational basis review; created momentum for FHAA disability protections",
+  "hud_implementing_regulation": "24 C.F.R. Part 100, Subpart D (Disability) — effective March 12, 1989",
+  "verified": false,
+  "verified_note": "Legislative history from training knowledge. Pub. L. 100-430 text and City of Cleburne citation are verifiable. Vote counts are as widely reported in legislative history sources.",
+  "retrieval_date": "2026-04-13"
+}

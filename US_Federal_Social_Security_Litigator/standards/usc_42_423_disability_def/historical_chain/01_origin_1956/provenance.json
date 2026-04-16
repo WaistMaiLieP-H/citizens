@@ -1,0 +1,26 @@
+{
+  "layer": "historical_chain",
+  "layer_index": 1,
+  "label": "origin_1956_amended_1967",
+  "event": "SSDI program created (1956); disability definition tightened (1967)",
+  "date_initial": "1956-08-01",
+  "date_critical_amendment": "1968-01-02",
+  "sources": [
+    {
+      "citation": "Pub. L. 84-880 (Social Security Amendments of 1956)",
+      "description": "Created the SSDI program; initial disability definition",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-70/pdf/STATUTE-70-Pg807.pdf",
+      "verified": false,
+      "note": "URL from authoritative knowledge — verify at govinfo.gov"
+    },
+    {
+      "citation": "Pub. L. 90-248 (Social Security Amendments of 1967)",
+      "description": "Added 12-month durational requirement; added 'any work in national economy' language at § 423(d)(2)(A)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-81/pdf/STATUTE-81-Pg821.pdf",
+      "verified": false,
+      "note": "URL from authoritative knowledge — verify at govinfo.gov"
+    }
+  ],
+  "significance": "The 1967 amendment fixed the disability definition that still governs today. The 12-month durational requirement and the national economy scope are both 1967 additions. The core § 423(d)(1)(A) text has been unchanged for 58 years.",
+  "build_session": "2026-04-12"
+}

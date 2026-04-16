@@ -1,0 +1,14 @@
+Jensen v. Wells Fargo Bank
+85 Cal.App.4th 245 (2000)
+
+SUMMARY (from training knowledge — see verification status)
+
+The California Court of Appeal held that an employer's failure to engage in the interactive process under FEHA is an independent violation of GOV §12940(n), actionable separately from the failure to provide a reasonable accommodation.
+
+Key holdings:
+- The interactive process obligation is mandatory, not discretionary
+- An employer who simply refuses to discuss accommodation or fails to respond to an accommodation request has violated §12940(n) regardless of whether a reasonable accommodation ultimately exists
+- The employer cannot defeat a §12940(n) claim by showing that no reasonable accommodation was possible — the duty to engage is independent
+- Delays in engaging also constitute failure; the process must be timely
+
+Court noted: The interactive process is a "good faith" requirement — both sides must participate genuinely and promptly.

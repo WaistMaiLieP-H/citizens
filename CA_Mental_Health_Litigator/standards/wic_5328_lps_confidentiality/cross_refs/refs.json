@@ -1,0 +1,21 @@
+{
+  "standard_id": "wic_5328_lps_confidentiality",
+  "cross_refs": [
+    {"type": "scope", "citation": "Cal. WIC Divisions 4, 4.1, 4.5, 5, 6, 7"},
+    {"type": "companion", "citation": "Cal. WIC § 5330", "relation": "Civil remedy for unauthorized disclosure"},
+    {"type": "companion", "citation": "Cal. Evid. Code § 1010", "relation": "Defines 'psychotherapist' for §5328(a)(18) Tarasoff-style disclosure"},
+    {"type": "companion", "citation": "Cal. Evid. Code § 1014", "relation": "Psychotherapist-patient privilege — different but parallel protection"},
+    {"type": "companion", "citation": "45 C.F.R. § 164.512(e)", "relation": "HIPAA qualified protective order — condition on §5328(a)(27)"},
+    {"type": "companion", "citation": "45 C.F.R. Parts 160, 164", "relation": "HIPAA overlay referenced in §5328(a)(25)"},
+    {"type": "federal_parallel", "citation": "42 U.S.C. § 290dd-2", "standard": "usc_42_290dd_2_substance_abuse_confidentiality", "relation": "Federal substance-abuse confidentiality; stricter than §5328 for covered programs"},
+    {"type": "federal_parallel", "citation": "42 C.F.R. Part 2", "relation": "Implements 42 USC §290dd-2"},
+    {"type": "attaches_at", "citation": "Cal. WIC § 5150", "standard": "wic_5150_involuntary_hold"},
+    {"type": "attaches_at", "citation": "Cal. WIC § 5250", "standard": "wic_5250_14_day_certification"},
+    {"type": "attaches_at", "citation": "Cal. WIC § 5270.15", "standard": "wic_5270_15_additional_30_day"},
+    {"type": "patient_rights_companion", "citation": "Cal. WIC § 5325", "standard": "wic_5325_patients_rights"},
+    {"type": "citizen_external", "citizen": "CA_Medical_Privacy_Officer", "relation": "CMIA interaction; dual-regime analysis required"},
+    {"type": "citizen_external", "citizen": "CA_Family_Law_Litigator", "relation": "LPS record admissibility gate in custody/DVRO proceedings"},
+    {"type": "citizen_external", "citizen": "CA_Forensic_Document_Specialist", "relation": "Dr. Wiita record disclosure chain audit"},
+    {"type": "citizen_external", "citizen": "US_Federal_Civil_Rights_Litigator", "relation": "§1983 predicate for state-actor unauthorized disclosure"}
+  ]
+}

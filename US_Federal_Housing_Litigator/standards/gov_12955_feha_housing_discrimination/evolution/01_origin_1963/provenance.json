@@ -1,0 +1,13 @@
+{
+  "stage": "01_origin_1963",
+  "authority": "Stats. 1963 (Rumford Fair Housing Act); Cal. Health & Safety Code §§35700 et seq. (pre-recodification)",
+  "key_cases": [
+    "Reitman v. Mulkey (1967) 64 Cal.2d 529 (Cal. Sup. Ct.) — Prop 14 struck down as Equal Protection violation",
+    "Reitman v. Mulkey (1967) 387 U.S. 369 (U.S. Sup. Ct.) — affirmed"
+  ],
+  "chronicle_flag": true,
+  "chronicle_note": "Proposition 14 (1964) constitutionally protected racial discrimination in housing. This content is offensive and discriminatory but must be documented in full under the CHRONICLE standard — the wound is the reason the statute exists.",
+  "status": "PROPOSED",
+  "built_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "built_at_utc": "2026-04-13T00:00:00Z"
+}

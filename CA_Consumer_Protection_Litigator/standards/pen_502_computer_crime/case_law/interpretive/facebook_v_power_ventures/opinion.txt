@@ -1,0 +1,75 @@
+FACEBOOK, INC. v. POWER VENTURES, INC.
+844 F.3d 1058 (9th Cir. 2016)
+United States Court of Appeals for the Ninth Circuit
+Decided: December 9, 2016
+
+---
+
+FACTS:
+
+Power Ventures operated a social media aggregation service that allowed users to view all their social media accounts in one place. Power Ventures accessed Facebook's servers to scrape user data after users gave Power Ventures their Facebook login credentials. Facebook sent a cease-and-desist letter and sent technical blocking measures. Power Ventures continued to access Facebook's systems by circumventing the technical blocks.
+
+Facebook sued Power Ventures under the Computer Fraud and Abuse Act (CFAA, 18 U.S.C. § 1030), the CAN-SPAM Act, and California Penal Code § 502 (the California Comprehensive Computer Data Access and Fraud Act). The district court granted summary judgment for Facebook; the Ninth Circuit affirmed in part.
+
+---
+
+HOLDING — CALIFORNIA PENAL CODE § 502:
+
+SECTION 502(c)(1) — UNAUTHORIZED ACCESS:
+"Any person who knowingly accesses and without permission alters, damages, deletes, destroys, or otherwise uses any data, computer, computer system, or computer network in order to either: (A) devise or execute any scheme or artifice to defraud, deceive, or extort, or (B) wrongfully control or obtain money, property, or data" is guilty of a public offense.
+
+SECTION 502(c)(2) — KNOWINGLY ACCESS WITHOUT PERMISSION:
+Knowingly accessing and without permission taking, copying, or making use of any data from a computer is covered.
+
+THE CEASE-AND-DESIST LETTER = REVOCATION OF PERMISSION:
+After Facebook sent a cease-and-desist letter and implemented IP blocks, Power Ventures had no permission to access Facebook's systems. Continued access after revocation of permission is "without permission" under § 502.
+
+"Initial authorization does not cure subsequent unauthorized access. Once the account holder's permission is effectively revoked — whether by the platform's terms of service enforcement or by a cease-and-desist letter — continued access is without permission under § 502." (Paraphrase of holding.)
+
+---
+
+THE "WITHOUT PERMISSION" STANDARD:
+
+Access is "without permission" under § 502 when:
+1. The account owner or system operator revokes permission to access;
+2. The access violates the system operator's terms of service in a material way that goes beyond mere breach of contract;
+3. Technical circumvention measures have been deployed to block access.
+
+Note: The California § 502 "without permission" standard may be interpreted more broadly than the CFAA "exceeds authorized access" standard. California courts have not adopted the narrow Van Buren CFAA reading for § 502 purposes — the scope of § 502 remains an open question for cases beyond direct technical circumvention.
+
+---
+
+CIVIL REMEDIES UNDER § 502(e):
+
+Any person injured by a violation of § 502 may bring a civil action for:
+- Compensatory damages (actual damages);
+- Injunctive relief;
+- Reasonable attorney's fees and costs.
+
+§ 502(e)(1): The owner or lessee of a computer or computer system that is damaged may maintain an action for compensatory damages.
+
+---
+
+APPLICATION TO UNAUTHORIZED COMPUTER ACCESS CASES:
+
+For cases involving unauthorized access to an individual's computer, phone, accounts, or data:
+
+1. If access to accounts or devices continues after a cease-and-desist, termination of consent, or technical blocking measures, § 502 is violated;
+2. Circumventing password protection or technical access controls is independently sufficient for "without permission" under § 502;
+3. SIM swap attacks that give the attacker control of a phone number — and thereby access to the victim's accounts — may constitute § 502 access if the attacker uses that access to enter computer systems;
+4. Civil remedies include actual damages and injunctive relief.
+
+FOR SIM SWAP / PHONE-BASED ACCOUNT TAKEOVER:
+Where an attacker uses a SIM swap to intercept SMS authentication codes and access the victim's accounts, each unauthorized account access is a separate § 502 violation.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 844 F.3d 1058 (9th Cir. 2016)
+Official reporter: Federal Reporter, Third Series, vol. 844, page 1058
+Court: Ninth Circuit — binding in California federal courts; persuasive in California state courts
+Key holding: § 502 "without permission" — revocation by C&D letter + IP blocking; civil remedies
+Source of this text: Claude training data (knowledge cutoff August 2025). Facebook v. Power Ventures is the leading Ninth Circuit case on California § 502 scope. Full verbatim text should be verified at:
+  - CourtListener / PACER
+  - Google Scholar: "Facebook v. Power Ventures 844 F.3d"
+Verification status: PROPOSED — pending steward witness review

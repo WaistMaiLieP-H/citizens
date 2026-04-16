@@ -1,0 +1,10 @@
+# Peace Officer Standards and Training — Cross-References
+
+| Standard | Relationship | Notes |
+|----------|-------------|-------|
+| PEN_832_7_PEACE_OFFICER_RECORDS | CROSS_REFERENCE | § 1031 background investigation records and POST certification records are peace officer personnel records subject to § 832.7(a) confidentiality — but POST certification status (whether an officer is certified) is public record; revocation of POST certification for misconduct is a public accountability mechanism |
+| PEN_835A_USE_OF_FORCE | SUPPLEMENTS | POST Basic Training includes use-of-force law and tactics; § 835a defines the legal standard for lawful force; POST standards define the minimum training that must occur before an officer exercises that authority — compliance failure (no POST training) is relevant to negligent deployment analysis |
+| GOV_12525_2_RACIAL_PROFILING | CROSS_REFERENCE | POST training standards include anti-bias and racial profiling curriculum; § 12525.2 RIPA data provides aggregate measurement of whether that training is producing non-discriminatory outcomes — training standard (POST) + outcome measurement (RIPA) form the accountability framework |
+| PEN_836_ARREST_AUTHORITY | SUPPLEMENTS | POST Basic Training covers arrest law including § 836 probable cause standards and mandatory DV arrest obligations; an officer who does not understand § 836's mandatory arrest provisions has a POST training compliance failure that predates the misconduct |
+| PEN_832_18_BODY_CAMERAS | CROSS_REFERENCE | POST training includes BWC policies — officers must be trained on § 832.18 data management requirements and agency BWC policies as part of basic and in-service training; training failure on BWC requirements is relevant when footage is improperly deleted or handled |
+| PEN_13701_DV_RESPONSE | SUPPLEMENTS | § 13701 requires agency DV response policies; POST training standards include DV response curriculum; the POST-trained officer who fails to follow § 836(c) mandatory arrest on DV protective order violations has both a statutory compliance failure (§ 836) and a POST training application failure |

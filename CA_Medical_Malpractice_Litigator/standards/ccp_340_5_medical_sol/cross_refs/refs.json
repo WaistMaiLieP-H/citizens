@@ -1,0 +1,31 @@
+{
+  "standard_id": "CCP_340_5_MEDICAL_SOL",
+  "cross_references": [
+    {
+      "id": "CCP_364_PRESSUIT_NOTICE",
+      "path": "${citizens}/CA_Medical_Malpractice_Litigator/standards/ccp_364_presuit_notice/",
+      "relationship": "INTERACTION — §364 pre-suit notice requirement and §340.5 SOL interact: if the §340.5 period is about to expire, serving §364 notice tolls the SOL for 90 days (§364(d)). Notice must be served BEFORE the SOL expires; serving after the SOL has run does not revive the claim. The 90-day toll is a safety valve only when notice is timely.",
+      "direction": "interaction"
+    },
+    {
+      "id": "CCP_425_13_PUNITIVE_GATE",
+      "path": "${citizens}/CA_Medical_Malpractice_Litigator/standards/ccp_425_13_punitive_gate/",
+      "relationship": "LATTICE — §340.5 SOL is the first gate (can we file at all?); §425.13 punitive gate is the second gate (can we add punitive damages?). Both must be cleared in professional negligence cases. Hrimnak escape removes §425.13 gate; it may also shift the applicable SOL from §340.5 (1/3 year) to CCP §335.1/§338(d) (2-3 year).",
+      "direction": "lattice"
+    },
+    {
+      "id": "CIV_3333_2_MICRA_CAP",
+      "path": "${citizens}/CA_Medical_Malpractice_Litigator/standards/civ_3333_2/",
+      "relationship": "MICRA LATTICE — §340.5 and §3333.2 are both MICRA provisions enacted in the same 1975 legislation. They apply together on every professional negligence case against a health care provider. §340.5 determines whether the claim can be filed; §3333.2 caps what the plaintiff recovers on the noneconomic side.",
+      "direction": "lattice"
+    },
+    {
+      "id": "SIRVA_DOCTRINE",
+      "path": "${citizens}/CA_Medical_Malpractice_Litigator/standards/sirva_doctrine/",
+      "relationship": "APPLICATION — SIRVA discovery rule analysis is a critical §340.5 question: when did the SIRVA patient have 'reason to suspect' the injury was caused by negligent injection technique rather than vaccine reaction? Discovery may be significantly delayed by initial medical attribution to vaccine side effects. SIRVA discovery analysis documented in §340.5 LOGIC.md.",
+      "direction": "application"
+    }
+  ],
+  "path_anchor": "${citizens}",
+  "build_date": "2026-04-11"
+}

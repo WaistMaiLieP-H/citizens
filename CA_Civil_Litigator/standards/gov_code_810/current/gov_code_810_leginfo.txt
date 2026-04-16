@@ -1,0 +1,22 @@
+California Government Code § 810 — Government Claims Act (Gateway Section)
+
+(a) Unless the provision or context otherwise requires, the definitions contained in this part govern the construction of this division.
+
+(b) This division may be referred to as the Government Claims Act.
+
+[Source: leginfo.legislature.ca.gov via VernenLegal MCP tool, fetched 2026-04-08]
+
+---
+
+NOTE ON SCOPE: §810 is the gateway section to the Government Claims Act (Gov. Code §§810-996.6). The full framework includes:
+
+- §§810-814.2: Definitions
+- §815: Public entity liability only where statute provides
+- §815.2: Vicarious liability through employee acts
+- §§818-825.6: Specific immunities
+- §§900-915.4: Claim presentation requirement (government tort claim must be filed BEFORE lawsuit)
+- §§940-949: Actions against public entities
+- §§950-951: Actions against public employees
+- §§995-996.6: Defense and indemnification of public employees
+
+The statute that governs is the DIVISION (§§810-996.6). §810 is the entry point that names it and establishes that its definitions govern the entire framework.

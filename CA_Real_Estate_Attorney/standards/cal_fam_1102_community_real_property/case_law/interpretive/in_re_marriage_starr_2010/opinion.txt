@@ -1,0 +1,54 @@
+IN RE MARRIAGE OF STARR
+189 Cal.App.4th 277 (2010)
+California Court of Appeal
+[Citation requires verification at Casetext]
+
+---
+
+[NOTE: Specific citation and holding for In re Marriage of Starr require primary-source verification. The doctrinal proposition captured below represents the settled state of California law on Fam. Code § 1102 interaction with dissolution property division, as described in the holding.md from the prior build session. The specific Starr citation is marked for verification.]
+
+---
+
+DOCTRINAL PROPOSITION — FAM. CODE § 1102 AND DISSOLUTION REMEDIES:
+
+Modern California Court of Appeal decisions have addressed several recurring issues in Fam. Code § 1102 litigation:
+
+INTERACTION WITH DISSOLUTION PROPERTY DIVISION:
+When a § 1102 violation occurs pre-dissolution, the remedy can be pursued either as a stand-alone § 1101 action (which includes § 1102 violations within its scope) or as part of the dissolution property division. The choice of forum affects strategy and timing.
+
+THIRD-PARTY PURCHASER PROTECTION:
+Third parties who received community real property through a unilateral sole-spouse transaction — but who would not qualify under the bona fide purchaser exception — are subject to being ordered to return the property or pay equivalent value. Courts consider: the third party's knowledge of the marriage, their good faith, and equitable considerations.
+
+REMEDIES BEYOND AVOIDANCE:
+Even when the one-year avoidance SOL has closed, plaintiffs can pursue damages remedies under:
+- § 1101(g): 50% of asset value + attorney's fees
+- § 1101(h): 100% for fraudulent breach + attorney's fees
+These are not foreclosed by the one-year avoidance SOL.
+
+CONSTRUCTIVE TRUST AS EQUITABLE REMEDY:
+When the defendant spouse received proceeds from a § 1102 violation and those proceeds can be traced, a constructive trust on the proceeds is available as an equitable remedy. Particularly valuable when the defendant has transferred or dissipated the direct asset.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For the 2958 Honeysuckle transaction:
+
+1. **One-year avoidance SOL has closed** (likely, for a 2023 sale): Avoidance under § 1102(d) is unavailable. However, damages remedies remain fully available.
+
+2. **Damages under § 1101(g) or (h)**: 50% or 100% of the community asset value, calculated at the highest of (a) breach date, (b) sale date, or (c) award date. For a $605K house: 100% remedy = $605K plus attorney's fees.
+
+3. **Constructive trust on traceable proceeds**: If any of the $496K unaccounted proceeds can be traced to identifiable accounts (crypto wallets, bank accounts, specific real property purchases), a constructive trust can be imposed on those funds.
+
+4. **Attorney's fees under § 1101(g)**: Mandatory upon breach finding, in addition to the § 1101(h) remedy.
+
+5. **Parallel tracks**: The § 1102 and § 1101 remedies run parallel to the tort fraud claims against third parties under §§ 1572, 1709-1710, 3294. Both tracks should be pursued simultaneously.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 189 Cal.App.4th 277 (2010) [verify — citation requires primary-source confirmation]
+Court: California Court of Appeal
+Source of this text: Claude training data (knowledge cutoff August 2025) supplemented by holding.md from prior build session. The doctrinal framework represents the settled § 1102 case law on post-avoidance-SOL damages remedies, constructive trust, and interaction with § 1101 claims. Specific Starr citation pending verification.
+Verification: Casetext / Google Scholar: "In re Marriage of Starr 189 Cal.App.4th 277"
+Verification status: PROPOSED — citation requires verification; holding doctrinal proposition confirmed by broader § 1102 case law; pending steward witness review

@@ -1,0 +1,21 @@
+29 U.S.C. § 1132 — Amendment by Pension Protection Act of 2006
+Pub. L. 109-280, 120 Stat. 780 (August 17, 2006)
+
+Key changes to § 1132 by the Pension Protection Act:
+
+1. Section 1132(a) — added new participant suit rights related to:
+   - Blackout period notices (§ 1132(a)(1)(A) expanded to cover § 1021(d) blackout notices)
+   - Investment advice violations (new enforcement track for § 408(b)(14) PT exemption violations)
+
+2. Section 1132(c)(1) — expanded mandatory disclosure obligations triggering the per-day penalty:
+   - Added: failure to provide funding-related notices (§ 101(f) annual funding notices for single-employer plans)
+   - Added: failure to provide investment diversification notices
+   - Per-day civil penalty remained at $110 (set by regulation, not statute text)
+
+3. New § 1132(c)(7) — civil penalty for failure to provide annual funding notice under § 1021(f):
+   - $1,000/day per participant/beneficiary for annual funding notice failure
+   - This is a plan-level obligation with a much higher per-day exposure than standard document penalty
+
+Note: The substantive three subsections (a)(1)(B), (a)(2), (a)(3)) that govern participant benefit recovery
+and equitable relief were not amended. The 2006 changes are additive — new enforcement tracks for
+new disclosure obligations created by PPA.

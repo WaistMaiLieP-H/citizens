@@ -1,0 +1,47 @@
+{
+  "standard": "usc_29_1053_vesting",
+  "cross_references": [
+    {
+      "cite": "29 U.S.C. § 1054",
+      "label": "ERISA Benefit Accrual Standards",
+      "relationship": "companion_statute",
+      "note": "§1053 governs when accrued benefits vest (become nonforfeitable); §1054 governs the rate at which benefits accrue. Vesting applies to whatever has been accrued under §1054. Both standards are necessary to establish what Michael is entitled to."
+    },
+    {
+      "cite": "29 U.S.C. § 1002(19)",
+      "label": "ERISA Definition — Nonforfeitable",
+      "relationship": "definitional_predicate",
+      "note": "§1002(19) defines 'nonforfeitable' as a right to an accrued benefit that is unconditional and legally enforceable against the plan. Once §1053 vesting is satisfied, the benefit is nonforfeitable within the meaning of §1002(19) — no administrative act can extinguish it."
+    },
+    {
+      "cite": "29 U.S.C. § 1104",
+      "label": "ERISA Fiduciary Duties",
+      "relationship": "breach_consequence",
+      "note": "A fiduciary who processes an unauthorized retirement election that suppresses a participant's access to vested nonforfeitable benefits violates both §1104 (fiduciary duties) and §1053 (nonforfeitable rights) simultaneously."
+    },
+    {
+      "cite": "29 U.S.C. § 1132(a)(1)(B)",
+      "label": "ERISA Civil Enforcement — Benefit Recovery",
+      "relationship": "enforcement_vehicle",
+      "note": "§1132(a)(1)(B) is the primary vehicle for a participant to recover vested benefits wrongly withheld. A plan's refusal to pay vested nonforfeitable benefits — including a freeze caused by fraudulent status — is actionable under §1132(a)(1)(B)."
+    },
+    {
+      "cite": "29 U.S.C. § 1109",
+      "label": "ERISA Fiduciary Breach — Personal Liability",
+      "relationship": "supplemental_remedy",
+      "note": "Where a fiduciary breach caused the loss of access to vested benefits, §1109 allows recovery against the fiduciary personally in addition to §1132(a)(1)(B) benefit recovery from the plan."
+    },
+    {
+      "cite": "29 U.S.C. § 1113",
+      "label": "ERISA Statute of Limitations",
+      "relationship": "time_constraint",
+      "note": "§1113 governs the limitations period for fiduciary breach claims. For benefit recovery under §1132(a)(1)(B), courts typically apply an analogous state limitations period. The nonforfeitable nature of §1053 rights may support tolling arguments."
+    },
+    {
+      "cite": "26 U.S.C. § 411",
+      "label": "IRC Minimum Vesting — Tax Qualification",
+      "relationship": "parallel_requirement",
+      "note": "§411 (IRC) imposes the same vesting requirements as §1053 as a condition of qualified plan tax status. A plan that forfeits vested benefits may lose its tax-qualified status — a significant enforcement lever in addition to ERISA civil claims."
+    }
+  ]
+}

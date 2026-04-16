@@ -1,0 +1,12 @@
+{
+  "standard": "cal_gov_13956_denial_grounds",
+  "refs": [
+    {"type": "eligibility_companion", "target": "Gov. Code § 13955", "relationship": "§ 13956 functions as affirmative defense to § 13955 eligibility; both must be addressed in appeal", "anchor": "${citizens}/CA_Victim_Compensation_Litigator/standards/cal_gov_13955_eligibility"},
+    {"type": "procedural_companion", "target": "Gov. Code § 13959 (hearing and appeal)", "relationship": "Denials under § 13956 are appealed under § 13959", "anchor": "${citizens}/CA_Victim_Compensation_Litigator/standards/cal_gov_13959_hearing_appeal"},
+    {"type": "constitutional_overlay", "target": "Cal. Const. Art. I § 28 (Marsy's Law)", "relationship": "Constitutional victim rights provide floor beneath denial provisions; a denial that violates Marsy's Law procedural rights is unconstitutional", "anchor": "${citizens}/CA_Victim_Compensation_Litigator/standards/cal_const_art1_28_marsys_law"},
+    {"type": "penal_code_crosslinks", "target": "Penal Code §§ 236.1 (human trafficking), 261, 273.5 (DV), 290 (sex offender registration), 667.5(c) (violent felony list)", "relationship": "§ 13956 cross-references these PC sections extensively", "anchor": "external (Penal Code)"},
+    {"type": "evidence_alternatives", "target": "Evidence Code §§ 1035.2 (sexual assault counselor), 1038.2 (human trafficking caseworker)", "relationship": "§ 13956(b)(4)(B) cross-references EC § 1038.2 for human trafficking caseworker attestation", "anchor": "external (Evidence Code)"},
+    {"type": "regulatory_overlay", "target": "2 CCR § 649 et seq.", "relationship": "CalVCB regulations implement § 13956 — regulatory compliance is an independent appeal ground", "anchor": "${citizens}/CA_Victim_Compensation_Litigator/standards/ccr_title_2_649 (to be built)"}
+  ],
+  "generated_at_utc": "2026-04-10T23:15:00Z"
+}

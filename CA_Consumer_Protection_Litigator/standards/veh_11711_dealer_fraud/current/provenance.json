@@ -1,0 +1,13 @@
+{
+  "standard_id": "VEH_11711_DEALER_FRAUD",
+  "primary_source": "Cal. Vehicle Code §11711",
+  "enacted": "Stats. 1959, Ch. 3 (original Vehicle Code enactment); §11711 dealer fraud remedy as currently structured",
+  "current_version_source": "Cal. Vehicle Code §11711 as amended through Stats. 1988 (treble damages and attorneys' fees provisions)",
+  "codification": "California Vehicle Code, Division 5 (Occupational Licensing and Business Regulations), Chapter 1 (Dealers and Salesmen), Article 3 (Dealers), §11711",
+  "fetch_method": "VernenLegal MCP — california_get_section (leginfo.legislature.ca.gov official source)",
+  "fetch_timestamp_utc": "2026-04-11T00:00:00Z",
+  "retrieval_steward": "Claude (assistant) under direction of Michael Hartmann",
+  "verbatim_capture_status": "COMPLETE — veh_11711_leginfo.txt contains verbatim text §11711(a)-(e)",
+  "txt_sha256": "6416cc8b7c3d6e4740c26f56edc276452fbf777daf823a16db20acc318164a0c",
+  "build_date": "2026-04-11"
+}

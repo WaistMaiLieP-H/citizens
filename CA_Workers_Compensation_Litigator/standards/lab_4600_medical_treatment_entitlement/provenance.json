@@ -1,0 +1,24 @@
+{
+  "standard_id": "lab_4600_medical_treatment_entitlement",
+  "citizen": "CA_Workers_Compensation_Litigator",
+  "build_date": "2026-04-13",
+  "primary_source": {
+    "statute": "California Labor Code § 4600",
+    "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=4600.&lawCode=LAB",
+    "fetch_method": "mcp__claude_ai_VernenLegal__california_get_section",
+    "verified": true,
+    "fetch_date": "2026-04-13",
+    "verification_note": "Live fetch via VernenLegal MCP — text confirmed against leginfo.legislature.ca.gov"
+  },
+  "supporting_sources": [
+    {
+      "citation": "SB 899 (2004) — Workers Compensation Reform",
+      "type": "legislative_history",
+      "verified": "training_knowledge",
+      "steward_verify": false,
+      "note": "MTUS established as 'reasonably required' standard; apportionment reformed"
+    }
+  ],
+  "chain_of_custody": "LAB §4600 fetched live via VernenLegal MCP → statute_text.md written → rule.md drafted (three-part framework; physician selection hierarchy; attack points for denial) → reasoning.md drafted (1913 grand bargain; MTUS reform; employer-controlled first 30 days) → historical_chain built → cross_refs built with ${citizens} anchors → provenance.json written → manifest.json pending",
+  "steward_verification_queue": []
+}

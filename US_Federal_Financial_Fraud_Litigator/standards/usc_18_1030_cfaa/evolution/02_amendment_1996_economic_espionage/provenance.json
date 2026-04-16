@@ -1,0 +1,9 @@
+{
+  "stage": "02_amendment_1996_economic_espionage",
+  "source": "National Information Infrastructure Protection Act of 1996, Pub. L. 104-294, §201, 110 Stat. 3488",
+  "signed": "1996-10-11",
+  "wound_addressed": "1984 Act's narrow scope left commercial internet computers unprotected; no civil remedy for victims",
+  "design": "Expanded 'protected computer' to any computer affecting interstate commerce (universal); added §1030(g) civil cause of action with $5,000 loss threshold",
+  "verbatim_capture_status": "PENDING",
+  "build_date": "2026-04-11"
+}

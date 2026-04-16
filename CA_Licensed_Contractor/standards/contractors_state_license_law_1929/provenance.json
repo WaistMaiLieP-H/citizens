@@ -1,0 +1,548 @@
+{
+  "standard_id": "CA_CONTRACTORS_STATE_LICENSE_LAW_1929",
+  "provenance_record_filed_at_utc": "2026-04-08T07:00:00Z",
+  "fetcher_software": "curl/wget/pdftoppm/sha256sum",
+  "fetcher_operator": "Claude (assistant) under steward direction (Michael Hartmann)",
+  "fetches": [
+    {
+      "artifact_local_path": "origin/1929_Vol1_Chapters.pdf",
+      "source_url": "https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1929/29Vol1_29Chapters.pdf",
+      "discovered_via": "https://clerk.assembly.ca.gov/historical-information/archive-list/statutes-and-amendments-codes-1929",
+      "source_authority": "California State Assembly, Office of the Chief Clerk \u2014 official archive of California session laws",
+      "source_authority_type": "primary (state legislative body)",
+      "fetched_at_utc": "2026-04-08T06:47:59Z",
+      "fetch_method": "wget --tries=20 --timeout=60 --continue (background; completed cleanly without restart)",
+      "file_size_bytes": 123210955,
+      "sha256": "a456d3c2ac408b86267b170039bf6b426bf3a168366ed145628ec85fe1992d97",
+      "pdf_internal_metadata": {
+        "title_metadata": "Amendments929.PDF",
+        "creator_software": "PixEdit",
+        "producer_software": "Acrobat PDFWriter 3.02 for Windows",
+        "creation_date": "1999-08-05 08:16:01",
+        "pages": 2276,
+        "pdf_version": "1.2"
+      },
+      "content_description": "Complete scanned PDF of Volume 1 of Statutes and Amendments to the Codes, Forty-Eighth Session of the California Legislature, 1929 Regular Session. Contains all chapters of the regular session including Chapter 791 (the Contractors State License Law) at printed pages 1591\u20131595 (PDF pages 1593\u20131597). Image-based PDF with no OCR text layer."
+    },
+    {
+      "artifact_local_path": "origin/1929_Vol1_Index.pdf",
+      "source_url": "https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1929/29Vol1_Index.pdf",
+      "source_authority": "California State Assembly, Office of the Chief Clerk",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-08T06:47:30Z",
+      "file_size_bytes": 5260326,
+      "sha256": "f4cf2288f62f87a11103435f275cc24a367d0397c0045718cedc346c6d131c51",
+      "pdf_pages": 38,
+      "content_description": "Index volume covering printed pages ~2279 onward. Contains the CONTRACTORS entry pointing to printed page 1591 ('licensing, registration and regulation of') which is where Chapter 791 begins."
+    },
+    {
+      "artifact_local_path": "origin/chapter_pages/ch791_p1591_title_sections_1-2.png",
+      "derived_from_artifact": "origin/1929_Vol1_Chapters.pdf",
+      "derived_from_artifact_sha256": "a456d3c2ac408b86267b170039bf6b426bf3a168366ed145628ec85fe1992d97",
+      "derivation_method": "pdftoppm -f 1593 -l 1593 -r 150 -png",
+      "derivation_at_utc": "2026-04-07T23:52:00Z",
+      "sha256": "17f049572030208f81e693a113db5e967fa072dfb6c2418efdfc1655ea99847f",
+      "file_size_bytes": 122498,
+      "content_description": "First page of Chapter 791. Shows: 'CHAPTER 791.', the full title verbatim, the approval line '[Approved by the Governor June 13, 1929. In effect August 14, 1929.]', the formula 'The people of the State of California do enact as follows:', Section 1 (license-required clause), and the beginning of Section 2 (exemptions list)."
+    },
+    {
+      "artifact_local_path": "origin/chapter_pages/ch791_p1592_sections_2-5.png",
+      "derived_from_artifact": "origin/1929_Vol1_Chapters.pdf",
+      "derived_from_artifact_sha256": "a456d3c2ac408b86267b170039bf6b426bf3a168366ed145628ec85fe1992d97",
+      "derivation_method": "pdftoppm -f 1594 -l 1594 -r 150 -png",
+      "derivation_at_utc": "2026-04-07T23:52:00Z",
+      "sha256": "982feabc21311d5b354ae6f1944ff6478b0e403c719199527a3bf4826e0b51f6",
+      "file_size_bytes": 135531,
+      "content_description": "Second page of Chapter 791. Shows: Section 2 continued (exemptions (b)-(f)), Section 3 (contractor defined \u2014 including the inclusion of subcontractors and the exclusion of mere materials suppliers), Section 4 (Director of Department of Professional and Vocational Standards constituted as Registrar), Section 5 (application for license, fee, license fund creation)."
+    },
+    {
+      "artifact_local_path": "origin/chapter_pages/ch791_p1593_sections_5-8.png",
+      "derived_from_artifact": "origin/1929_Vol1_Chapters.pdf",
+      "derived_from_artifact_sha256": "a456d3c2ac408b86267b170039bf6b426bf3a168366ed145628ec85fe1992d97",
+      "derivation_method": "pdftoppm -f 1595 -l 1595 -r 150 -png",
+      "derivation_at_utc": "2026-04-07T23:52:00Z",
+      "sha256": "207790f808958938ca13f9a56d14790d660f3e7ffa2485512fbb8b778f3ddb19",
+      "file_size_bytes": 127608,
+      "content_description": "Third page of Chapter 791. Shows: Section 5 conclusion, Section 6 (issuance of license \u2014 10-day duty), Section 7 (expiration June 30 each year, renewal procedure), Section 8 (registrar's records, public inspection, certified copies)."
+    },
+    {
+      "artifact_local_path": "origin/chapter_pages/ch791_p1594_sections_8-10.png",
+      "derived_from_artifact": "origin/1929_Vol1_Chapters.pdf",
+      "derived_from_artifact_sha256": "a456d3c2ac408b86267b170039bf6b426bf3a168366ed145628ec85fe1992d97",
+      "derivation_method": "pdftoppm -f 1596 -l 1596 -r 150 -png",
+      "derivation_at_utc": "2026-04-07T23:52:00Z",
+      "sha256": "e95d954a7f47371c1198b8f217a813fc8195f9043eccb0fd702ecef2c30b3989",
+      "file_size_bytes": 142093,
+      "content_description": "Fourth page of Chapter 791. Shows: Section 8 conclusion, Section 9 (complaints and grounds for filing \u2014 abandonment, diversion of funds, fraudulent departure from plans, wilful injurious acts), Section 10 (investigation and rehearing procedure)."
+    },
+    {
+      "artifact_local_path": "origin/chapter_pages/ch791_p1595_sections_11-14_repealer.png",
+      "derived_from_artifact": "origin/1929_Vol1_Chapters.pdf",
+      "derived_from_artifact_sha256": "a456d3c2ac408b86267b170039bf6b426bf3a168366ed145628ec85fe1992d97",
+      "derivation_method": "pdftoppm -f 1597 -l 1597 -r 150 -png",
+      "derivation_at_utc": "2026-04-07T23:52:00Z",
+      "sha256": "af59a025d09aed96bad8f81057157a7ebd20ee7ee3512474edec8a752bed8876",
+      "file_size_bytes": 120909,
+      "content_description": "Fifth and final page of Chapter 791. Shows: Section 11 (renewal after suspension), Section 12 (penalties \u2014 up to $500 fine and/or six months imprisonment), Section 13 (constitutionality severance), Section 14 (general repealer). Chapter 792 begins immediately after on the next page, providing a clean boundary marker."
+    }
+  ],
+  "session_appendices": [
+    {
+      "session_at_utc": "2026-04-08T08:30:00Z",
+      "session_note": "Evolution-layer + current-layer build. Added 1931 Ch.578, 1933 Ch.573, and 1935 Ch.816 as evolution artifacts (the full amendment chain from original 1929 enactment to creation of CSLB), plus current-form leginfo URLs for B&P Code \u00a7\u00a7 7000+ as the modern codified location.",
+      "fetches": [
+        {
+          "artifact_local_path": "evolution/1931_ch578_amendment/1931_Vol1_Chapters.pdf",
+          "actual_storage": "../../../_shared_statutes_archive/1931_Vol1_Chapters.pdf (symlinked)",
+          "source_url": "https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1931/31vol1_Chapters.pdf",
+          "discovered_via": "https://clerk.assembly.ca.gov/historical-information/archive-list/statutes-and-amendments-codes-1931",
+          "source_authority": "California State Assembly, Office of the Chief Clerk",
+          "source_authority_type": "primary (state legislative body)",
+          "fetched_at_utc": "2026-04-08T08:30:00Z",
+          "fetch_method": "wget --tries=20 --timeout=120 --continue (corrected lowercase 'vol' filename after initial 404 with uppercase 'Vol')",
+          "file_size_bytes": 165426340,
+          "sha256": "367aaf44a75a7962098e24475b43b88087311bc23e0aa6f93f4c24f78146ac1c",
+          "content_description": "Complete scanned PDF of Volume 1 of Statutes and Amendments to the Codes, Forty-Ninth Session of the California Legislature, 1931. Contains Chapter 578 (the first amendment to the 1929 CSLL) at printed pages 1255\u20131263 (PDF pages 1256\u20131264). Image-based PDF.",
+          "pdf_pages": 3163
+        },
+        {
+          "artifact_local_path": "evolution/1931_ch578_amendment/1931_Vol1_Index.pdf",
+          "actual_storage": "../../../_shared_statutes_archive/1931_Vol1_Index.pdf (symlinked)",
+          "source_url": "https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1931/31vol1_Index.pdf",
+          "fetched_at_utc": "2026-04-08T08:30:00Z",
+          "file_size_bytes": 5855579,
+          "sha256": "dfe66e3e7862d620537f60af99d848f53c51522349a63d5899571edb89d1816c",
+          "source_authority": "California State Assembly, Office of the Chief Clerk",
+          "source_authority_type": "primary",
+          "content_description": "Index for 1931 Statutes Vol. 1, used to locate the Contractors entry pointing to Ch. 578 at printed page 1255."
+        },
+        {
+          "artifact_local_path": "evolution/1931_ch578_amendment/chapter_pages/ch578_p1255-1256.png",
+          "derived_from_artifact": "evolution/1931_ch578_amendment/1931_Vol1_Chapters.pdf",
+          "derived_from_artifact_sha256": "367aaf44a75a7962098e24475b43b88087311bc23e0aa6f93f4c24f78146ac1c",
+          "derivation_method": "pdftoppm -f N -l N -r 150 -png (where N = PDF page suffix in filename)",
+          "derivation_at_utc": "2026-04-08T08:30:00Z",
+          "sha256": "0e515bb7f6509e7e18f6ce57f04348dd42ec2507acb61935b42b2bc1063bd517",
+          "file_size_bytes": 111885,
+          "content_description": "Rendered page of 1931 Ch.578 (CSLL first amendment) from source PDF, 150 DPI grayscale PNG. Filename pattern: ch<NN>_p<printed>-<pdf>.png."
+        },
+        {
+          "artifact_local_path": "evolution/1931_ch578_amendment/chapter_pages/ch578_p1256-1257.png",
+          "derived_from_artifact": "evolution/1931_ch578_amendment/1931_Vol1_Chapters.pdf",
+          "derived_from_artifact_sha256": "367aaf44a75a7962098e24475b43b88087311bc23e0aa6f93f4c24f78146ac1c",
+          "derivation_method": "pdftoppm -f N -l N -r 150 -png (where N = PDF page suffix in filename)",
+          "derivation_at_utc": "2026-04-08T08:30:00Z",
+          "sha256": "1079e83766c4ff8a5a3e13e4c91b81c2d4857997c8405cf02187b95e6a6094cd",
+          "file_size_bytes": 122116,
+          "content_description": "Rendered page of 1931 Ch.578 (CSLL first amendment) from source PDF, 150 DPI grayscale PNG. Filename pattern: ch<NN>_p<printed>-<pdf>.png."
+        },
+        {
+          "artifact_local_path": "evolution/1931_ch578_amendment/chapter_pages/ch578_p1257-1258.png",
+          "derived_from_artifact": "evolution/1931_ch578_amendment/1931_Vol1_Chapters.pdf",
+          "derived_from_artifact_sha256": "367aaf44a75a7962098e24475b43b88087311bc23e0aa6f93f4c24f78146ac1c",
+          "derivation_method": "pdftoppm -f N -l N -r 150 -png (where N = PDF page suffix in filename)",
+          "derivation_at_utc": "2026-04-08T08:30:00Z",
+          "sha256": "50c2c0cdc3296749a94d44a2c86f05104d95121b78616d7f062647f8d1566335",
+          "file_size_bytes": 129047,
+          "content_description": "Rendered page of 1931 Ch.578 (CSLL first amendment) from source PDF, 150 DPI grayscale PNG. Filename pattern: ch<NN>_p<printed>-<pdf>.png."
+        },
+        {
+          "artifact_local_path": "evolution/1931_ch578_amendment/chapter_pages/ch578_p1258-1259.png",
+          "derived_from_artifact": "evolution/1931_ch578_amendment/1931_Vol1_Chapters.pdf",
+          "derived_from_artifact_sha256": "367aaf44a75a7962098e24475b43b88087311bc23e0aa6f93f4c24f78146ac1c",
+          "derivation_method": "pdftoppm -f N -l N -r 150 -png (where N = PDF page suffix in filename)",
+          "derivation_at_utc": "2026-04-08T08:30:00Z",
+          "sha256": "0eb8f858f650238c561e1d20b559d5679d82dc1bcb539dd08a1d2f346fac71bd",
+          "file_size_bytes": 136440,
+          "content_description": "Rendered page of 1931 Ch.578 (CSLL first amendment) from source PDF, 150 DPI grayscale PNG. Filename pattern: ch<NN>_p<printed>-<pdf>.png."
+        },
+        {
+          "artifact_local_path": "evolution/1931_ch578_amendment/chapter_pages/ch578_p1259-1260.png",
+          "derived_from_artifact": "evolution/1931_ch578_amendment/1931_Vol1_Chapters.pdf",
+          "derived_from_artifact_sha256": "367aaf44a75a7962098e24475b43b88087311bc23e0aa6f93f4c24f78146ac1c",
+          "derivation_method": "pdftoppm -f N -l N -r 150 -png (where N = PDF page suffix in filename)",
+          "derivation_at_utc": "2026-04-08T08:30:00Z",
+          "sha256": "01a744483f13a649412cda6a757528b653d03a8c6c6e4908a60d7551e062a544",
+          "file_size_bytes": 129887,
+          "content_description": "Rendered page of 1931 Ch.578 (CSLL first amendment) from source PDF, 150 DPI grayscale PNG. Filename pattern: ch<NN>_p<printed>-<pdf>.png."
+        },
+        {
+          "artifact_local_path": "evolution/1931_ch578_amendment/chapter_pages/ch578_p1260-1261.png",
+          "derived_from_artifact": "evolution/1931_ch578_amendment/1931_Vol1_Chapters.pdf",
+          "derived_from_artifact_sha256": "367aaf44a75a7962098e24475b43b88087311bc23e0aa6f93f4c24f78146ac1c",
+          "derivation_method": "pdftoppm -f N -l N -r 150 -png (where N = PDF page suffix in filename)",
+          "derivation_at_utc": "2026-04-08T08:30:00Z",
+          "sha256": "097930308f8c4ba2b9b28392e55d958cb674832786c3873bc8530901c22314d5",
+          "file_size_bytes": 133629,
+          "content_description": "Rendered page of 1931 Ch.578 (CSLL first amendment) from source PDF, 150 DPI grayscale PNG. Filename pattern: ch<NN>_p<printed>-<pdf>.png."
+        },
+        {
+          "artifact_local_path": "evolution/1931_ch578_amendment/chapter_pages/ch578_p1261-1262.png",
+          "derived_from_artifact": "evolution/1931_ch578_amendment/1931_Vol1_Chapters.pdf",
+          "derived_from_artifact_sha256": "367aaf44a75a7962098e24475b43b88087311bc23e0aa6f93f4c24f78146ac1c",
+          "derivation_method": "pdftoppm -f N -l N -r 150 -png (where N = PDF page suffix in filename)",
+          "derivation_at_utc": "2026-04-08T08:30:00Z",
+          "sha256": "ae70089b7558f6e089e02f5afe04135da17316f732a77592c895680ff05f444d",
+          "file_size_bytes": 135167,
+          "content_description": "Rendered page of 1931 Ch.578 (CSLL first amendment) from source PDF, 150 DPI grayscale PNG. Filename pattern: ch<NN>_p<printed>-<pdf>.png."
+        },
+        {
+          "artifact_local_path": "evolution/1931_ch578_amendment/chapter_pages/ch578_p1262-1263.png",
+          "derived_from_artifact": "evolution/1931_ch578_amendment/1931_Vol1_Chapters.pdf",
+          "derived_from_artifact_sha256": "367aaf44a75a7962098e24475b43b88087311bc23e0aa6f93f4c24f78146ac1c",
+          "derivation_method": "pdftoppm -f N -l N -r 150 -png (where N = PDF page suffix in filename)",
+          "derivation_at_utc": "2026-04-08T08:30:00Z",
+          "sha256": "e32a4d4ddd52ca7a7bc4b5dd72a19a77cc6a22ee1471614214d056747d74a2c9",
+          "file_size_bytes": 133370,
+          "content_description": "Rendered page of 1931 Ch.578 (CSLL first amendment) from source PDF, 150 DPI grayscale PNG. Filename pattern: ch<NN>_p<printed>-<pdf>.png."
+        },
+        {
+          "artifact_local_path": "evolution/1931_ch578_amendment/chapter_pages/ch578_p1263-1264.png",
+          "derived_from_artifact": "evolution/1931_ch578_amendment/1931_Vol1_Chapters.pdf",
+          "derived_from_artifact_sha256": "367aaf44a75a7962098e24475b43b88087311bc23e0aa6f93f4c24f78146ac1c",
+          "derivation_method": "pdftoppm -f N -l N -r 150 -png (where N = PDF page suffix in filename)",
+          "derivation_at_utc": "2026-04-08T08:30:00Z",
+          "sha256": "508ba5f12808d6325c8b7d1cec69a45e26b126c2d997061248c46b1452993ad4",
+          "file_size_bytes": 108519,
+          "content_description": "Rendered page of 1931 Ch.578 (CSLL first amendment) from source PDF, 150 DPI grayscale PNG. Filename pattern: ch<NN>_p<printed>-<pdf>.png."
+        },
+        {
+          "artifact_local_path": "evolution/1933_ch573_amendment/chapter_pages/ch573_p1483-1484.png",
+          "derived_from_artifact": "../../../../CA_Structural_Engineer/standards/field_act_1933/origin/1933_Vol1_Chapters.pdf",
+          "derived_from_artifact_sha256": "c6b006953f20a5ddbdf2d57228d44fef5b29b7a12064b1bdba26a516a9a9576b",
+          "derivation_method": "pdftoppm -f N -l N -r 150 -png (where N = PDF page suffix in filename)",
+          "derivation_at_utc": "2026-04-08T08:30:00Z",
+          "sha256": "36f1b8bf77bac5f23d5c80b664beb4fc898cd0cffbfb18b793b21507501442ab",
+          "file_size_bytes": 119483,
+          "content_description": "Rendered page of 1933 Ch.573 (CSLL second amendment, names the law 'Contractors' License Law') from source PDF, 150 DPI grayscale PNG. Filename pattern: ch<NN>_p<printed>-<pdf>.png."
+        },
+        {
+          "artifact_local_path": "evolution/1933_ch573_amendment/chapter_pages/ch573_p1484-1485.png",
+          "derived_from_artifact": "../../../../CA_Structural_Engineer/standards/field_act_1933/origin/1933_Vol1_Chapters.pdf",
+          "derived_from_artifact_sha256": "c6b006953f20a5ddbdf2d57228d44fef5b29b7a12064b1bdba26a516a9a9576b",
+          "derivation_method": "pdftoppm -f N -l N -r 150 -png (where N = PDF page suffix in filename)",
+          "derivation_at_utc": "2026-04-08T08:30:00Z",
+          "sha256": "f096a3ed2ce489e4f704125b8cdd50d722d9c353af475259d5de12b464f0cdfd",
+          "file_size_bytes": 133195,
+          "content_description": "Rendered page of 1933 Ch.573 (CSLL second amendment, names the law 'Contractors' License Law') from source PDF, 150 DPI grayscale PNG. Filename pattern: ch<NN>_p<printed>-<pdf>.png."
+        },
+        {
+          "artifact_local_path": "evolution/1933_ch573_amendment/chapter_pages/ch573_p1485-1486.png",
+          "derived_from_artifact": "../../../../CA_Structural_Engineer/standards/field_act_1933/origin/1933_Vol1_Chapters.pdf",
+          "derived_from_artifact_sha256": "c6b006953f20a5ddbdf2d57228d44fef5b29b7a12064b1bdba26a516a9a9576b",
+          "derivation_method": "pdftoppm -f N -l N -r 150 -png (where N = PDF page suffix in filename)",
+          "derivation_at_utc": "2026-04-08T08:30:00Z",
+          "sha256": "f1557ed7f4e3968e988a02f5e6c930920b4e5332faf742a1bd7f21d435197ee4",
+          "file_size_bytes": 138390,
+          "content_description": "Rendered page of 1933 Ch.573 (CSLL second amendment, names the law 'Contractors' License Law') from source PDF, 150 DPI grayscale PNG. Filename pattern: ch<NN>_p<printed>-<pdf>.png."
+        },
+        {
+          "artifact_local_path": "evolution/1933_ch573_amendment/chapter_pages/ch573_p1486-1487.png",
+          "derived_from_artifact": "../../../../CA_Structural_Engineer/standards/field_act_1933/origin/1933_Vol1_Chapters.pdf",
+          "derived_from_artifact_sha256": "c6b006953f20a5ddbdf2d57228d44fef5b29b7a12064b1bdba26a516a9a9576b",
+          "derivation_method": "pdftoppm -f N -l N -r 150 -png (where N = PDF page suffix in filename)",
+          "derivation_at_utc": "2026-04-08T08:30:00Z",
+          "sha256": "aada17051634761511ea5b7cae52e0b8e2fd7996e17b2d62d961653308e63696",
+          "file_size_bytes": 137490,
+          "content_description": "Rendered page of 1933 Ch.573 (CSLL second amendment, names the law 'Contractors' License Law') from source PDF, 150 DPI grayscale PNG. Filename pattern: ch<NN>_p<printed>-<pdf>.png."
+        },
+        {
+          "artifact_local_path": "evolution/1933_ch573_amendment/chapter_pages/ch573_p1487-1488.png",
+          "derived_from_artifact": "../../../../CA_Structural_Engineer/standards/field_act_1933/origin/1933_Vol1_Chapters.pdf",
+          "derived_from_artifact_sha256": "c6b006953f20a5ddbdf2d57228d44fef5b29b7a12064b1bdba26a516a9a9576b",
+          "derivation_method": "pdftoppm -f N -l N -r 150 -png (where N = PDF page suffix in filename)",
+          "derivation_at_utc": "2026-04-08T08:30:00Z",
+          "sha256": "8a18a9cb72a15afb6b6d2e313f63788504ef9288e354a1cbfe3accc090bd043c",
+          "file_size_bytes": 134310,
+          "content_description": "Rendered page of 1933 Ch.573 (CSLL second amendment, names the law 'Contractors' License Law') from source PDF, 150 DPI grayscale PNG. Filename pattern: ch<NN>_p<printed>-<pdf>.png."
+        },
+        {
+          "artifact_local_path": "evolution/1933_ch573_amendment/chapter_pages/ch573_p1488-1489.png",
+          "derived_from_artifact": "../../../../CA_Structural_Engineer/standards/field_act_1933/origin/1933_Vol1_Chapters.pdf",
+          "derived_from_artifact_sha256": "c6b006953f20a5ddbdf2d57228d44fef5b29b7a12064b1bdba26a516a9a9576b",
+          "derivation_method": "pdftoppm -f N -l N -r 150 -png (where N = PDF page suffix in filename)",
+          "derivation_at_utc": "2026-04-08T08:30:00Z",
+          "sha256": "4572aa9d22bdcce7fc7965c8194adb5033322a512a06a928615afbfbb508e948",
+          "file_size_bytes": 131853,
+          "content_description": "Rendered page of 1933 Ch.573 (CSLL second amendment, names the law 'Contractors' License Law') from source PDF, 150 DPI grayscale PNG. Filename pattern: ch<NN>_p<printed>-<pdf>.png."
+        },
+        {
+          "artifact_local_path": "evolution/1933_ch573_amendment/chapter_pages/ch573_p1489-1490.png",
+          "derived_from_artifact": "../../../../CA_Structural_Engineer/standards/field_act_1933/origin/1933_Vol1_Chapters.pdf",
+          "derived_from_artifact_sha256": "c6b006953f20a5ddbdf2d57228d44fef5b29b7a12064b1bdba26a516a9a9576b",
+          "derivation_method": "pdftoppm -f N -l N -r 150 -png (where N = PDF page suffix in filename)",
+          "derivation_at_utc": "2026-04-08T08:30:00Z",
+          "sha256": "b1a4374bd0ece260822a5e5d67e96d2c498efcf38b910468931b815f0528e316",
+          "file_size_bytes": 139185,
+          "content_description": "Rendered page of 1933 Ch.573 (CSLL second amendment, names the law 'Contractors' License Law') from source PDF, 150 DPI grayscale PNG. Filename pattern: ch<NN>_p<printed>-<pdf>.png."
+        },
+        {
+          "artifact_local_path": "evolution/1933_ch573_amendment/chapter_pages/ch573_p1490-1491.png",
+          "derived_from_artifact": "../../../../CA_Structural_Engineer/standards/field_act_1933/origin/1933_Vol1_Chapters.pdf",
+          "derived_from_artifact_sha256": "c6b006953f20a5ddbdf2d57228d44fef5b29b7a12064b1bdba26a516a9a9576b",
+          "derivation_method": "pdftoppm -f N -l N -r 150 -png (where N = PDF page suffix in filename)",
+          "derivation_at_utc": "2026-04-08T08:30:00Z",
+          "sha256": "d39230ec3101efc72e789c6b36ab74a3e127c1383500fa183f7749948c585e20",
+          "file_size_bytes": 137159,
+          "content_description": "Rendered page of 1933 Ch.573 (CSLL second amendment, names the law 'Contractors' License Law') from source PDF, 150 DPI grayscale PNG. Filename pattern: ch<NN>_p<printed>-<pdf>.png."
+        },
+        {
+          "artifact_local_path": "evolution/1933_ch573_amendment/chapter_pages/ch573_p1491-1492.png",
+          "derived_from_artifact": "../../../../CA_Structural_Engineer/standards/field_act_1933/origin/1933_Vol1_Chapters.pdf",
+          "derived_from_artifact_sha256": "c6b006953f20a5ddbdf2d57228d44fef5b29b7a12064b1bdba26a516a9a9576b",
+          "derivation_method": "pdftoppm -f N -l N -r 150 -png (where N = PDF page suffix in filename)",
+          "derivation_at_utc": "2026-04-08T08:30:00Z",
+          "sha256": "8cde1685b6094393b56fe71937de2c69dfb2c5e46def6430cbcbf21abca80add",
+          "file_size_bytes": 133263,
+          "content_description": "Rendered page of 1933 Ch.573 (CSLL second amendment, names the law 'Contractors' License Law') from source PDF, 150 DPI grayscale PNG. Filename pattern: ch<NN>_p<printed>-<pdf>.png."
+        },
+        {
+          "artifact_local_path": "evolution/1933_ch573_amendment/chapter_pages/ch573_p1492-1493.png",
+          "derived_from_artifact": "../../../../CA_Structural_Engineer/standards/field_act_1933/origin/1933_Vol1_Chapters.pdf",
+          "derived_from_artifact_sha256": "c6b006953f20a5ddbdf2d57228d44fef5b29b7a12064b1bdba26a516a9a9576b",
+          "derivation_method": "pdftoppm -f N -l N -r 150 -png (where N = PDF page suffix in filename)",
+          "derivation_at_utc": "2026-04-08T08:30:00Z",
+          "sha256": "deabbc6e88d87c559fd159a9979318a4a8140c37df2fe317ae268b9ac537eaab",
+          "file_size_bytes": 108853,
+          "content_description": "Rendered page of 1933 Ch.573 (CSLL second amendment, names the law 'Contractors' License Law') from source PDF, 150 DPI grayscale PNG. Filename pattern: ch<NN>_p<printed>-<pdf>.png."
+        },
+        {
+          "artifact_local_path": "evolution/1935_ch816_cslb_creation/1935_Vol1_Chapters.pdf",
+          "actual_storage": "../../../_shared_statutes_archive/1935_Vol1_Chapters.pdf (symlinked)",
+          "source_url": "https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1935/35Vol1_Chapters.pdf",
+          "discovered_via": "https://clerk.assembly.ca.gov/historical-information/archive-list/statutes-and-amendments-codes-1935",
+          "fetched_at_utc": "2026-04-08T08:30:00Z",
+          "fetch_method": "wget --tries=20 --timeout=120 --continue",
+          "file_size_bytes": 140431972,
+          "sha256": "0b12ee9b7ab50bb2ee4e272855660f9504b469544d9f70d1142f64db758377fb",
+          "source_authority": "California State Assembly, Office of the Chief Clerk",
+          "source_authority_type": "primary (state legislative body)",
+          "content_description": "Complete scanned PDF of Volume 1 of Statutes and Amendments to the Codes, Fifty-First Session of the California Legislature, 1935. Contains Chapter 816 (the act creating the Contractors' State License Board) at printed pages 2215\u20132224 (PDF pages 2170\u20132179, with a +45 internal offset between PDF pages and printed pages). Image-based PDF.",
+          "pdf_pages": 2679,
+          "page_offset_note": "1935 Vol1 PDF has a -45 offset (PDF page = printed page - 45) due to extensive frontmatter. Verified by rendering PDF page 100 = printed page 145."
+        },
+        {
+          "artifact_local_path": "evolution/1935_ch816_cslb_creation/1935_Vol1_Index.pdf",
+          "actual_storage": "../../../_shared_statutes_archive/1935_Vol1_Index.pdf (symlinked)",
+          "source_url": "https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1935/35Vol1_Index.pdf",
+          "fetched_at_utc": "2026-04-08T08:30:00Z",
+          "file_size_bytes": 4672970,
+          "sha256": "36868de73f972b5d41161191e3e86a0a033d5105fa44e399a1582310e366589b",
+          "source_authority": "California State Assembly, Office of the Chief Clerk",
+          "source_authority_type": "primary",
+          "content_description": "Index for 1935 Statutes Vol. 1. OCR'd via tesseract to locate the 'contractors' state license board' entry pointing to printed page 2218 and the 'EARTHQUAKES building construction to resist' entries at printed pages 402, 1003, and 1204."
+        },
+        {
+          "artifact_local_path": "evolution/1935_ch816_cslb_creation/chapter_pages/ch816_p2215-2170.png",
+          "derived_from_artifact": "evolution/1935_ch816_cslb_creation/1935_Vol1_Chapters.pdf",
+          "derived_from_artifact_sha256": "0b12ee9b7ab50bb2ee4e272855660f9504b469544d9f70d1142f64db758377fb",
+          "derivation_method": "pdftoppm -f N -l N -r 150 -png (where N = PDF page suffix in filename)",
+          "derivation_at_utc": "2026-04-08T08:30:00Z",
+          "sha256": "82f23dda2f3f126395310ce650e020d56f6c6e0f6f39b12508528dec6656fc54",
+          "file_size_bytes": 118505,
+          "content_description": "Rendered page of 1935 Ch.816 (CSLL fourth amendment, creates Contractors' State License Board / CSLB) from source PDF, 150 DPI grayscale PNG. Filename pattern: ch<NN>_p<printed>-<pdf>.png."
+        },
+        {
+          "artifact_local_path": "evolution/1935_ch816_cslb_creation/chapter_pages/ch816_p2216-2171.png",
+          "derived_from_artifact": "evolution/1935_ch816_cslb_creation/1935_Vol1_Chapters.pdf",
+          "derived_from_artifact_sha256": "0b12ee9b7ab50bb2ee4e272855660f9504b469544d9f70d1142f64db758377fb",
+          "derivation_method": "pdftoppm -f N -l N -r 150 -png (where N = PDF page suffix in filename)",
+          "derivation_at_utc": "2026-04-08T08:30:00Z",
+          "sha256": "e82f177535a2ef952e30b701ff9e08bc43fe98d6d79b02543691a97bb67862fd",
+          "file_size_bytes": 131258,
+          "content_description": "Rendered page of 1935 Ch.816 (CSLL fourth amendment, creates Contractors' State License Board / CSLB) from source PDF, 150 DPI grayscale PNG. Filename pattern: ch<NN>_p<printed>-<pdf>.png."
+        },
+        {
+          "artifact_local_path": "evolution/1935_ch816_cslb_creation/chapter_pages/ch816_p2217-2172.png",
+          "derived_from_artifact": "evolution/1935_ch816_cslb_creation/1935_Vol1_Chapters.pdf",
+          "derived_from_artifact_sha256": "0b12ee9b7ab50bb2ee4e272855660f9504b469544d9f70d1142f64db758377fb",
+          "derivation_method": "pdftoppm -f N -l N -r 150 -png (where N = PDF page suffix in filename)",
+          "derivation_at_utc": "2026-04-08T08:30:00Z",
+          "sha256": "d2b1b6bab7c33fa73e1b6ad37a319ff26677db05190451bf9f7e7a7c4d4911e4",
+          "file_size_bytes": 137088,
+          "content_description": "Rendered page of 1935 Ch.816 (CSLL fourth amendment, creates Contractors' State License Board / CSLB) from source PDF, 150 DPI grayscale PNG. Filename pattern: ch<NN>_p<printed>-<pdf>.png."
+        },
+        {
+          "artifact_local_path": "evolution/1935_ch816_cslb_creation/chapter_pages/ch816_p2218-2173.png",
+          "derived_from_artifact": "evolution/1935_ch816_cslb_creation/1935_Vol1_Chapters.pdf",
+          "derived_from_artifact_sha256": "0b12ee9b7ab50bb2ee4e272855660f9504b469544d9f70d1142f64db758377fb",
+          "derivation_method": "pdftoppm -f N -l N -r 150 -png (where N = PDF page suffix in filename)",
+          "derivation_at_utc": "2026-04-08T08:30:00Z",
+          "sha256": "76769c0892bf9b6c746adcd406d2bb1cd786e640b60af35f2fa8ca7c9e1f1492",
+          "file_size_bytes": 133851,
+          "content_description": "Rendered page of 1935 Ch.816 (CSLL fourth amendment, creates Contractors' State License Board / CSLB) from source PDF, 150 DPI grayscale PNG. Filename pattern: ch<NN>_p<printed>-<pdf>.png."
+        },
+        {
+          "artifact_local_path": "evolution/1935_ch816_cslb_creation/chapter_pages/ch816_p2219-2174.png",
+          "derived_from_artifact": "evolution/1935_ch816_cslb_creation/1935_Vol1_Chapters.pdf",
+          "derived_from_artifact_sha256": "0b12ee9b7ab50bb2ee4e272855660f9504b469544d9f70d1142f64db758377fb",
+          "derivation_method": "pdftoppm -f N -l N -r 150 -png (where N = PDF page suffix in filename)",
+          "derivation_at_utc": "2026-04-08T08:30:00Z",
+          "sha256": "272787a84c3944c95f443bb354a2fa0b23732cc0d478a27beffe19ad080ee3ff",
+          "file_size_bytes": 134617,
+          "content_description": "Rendered page of 1935 Ch.816 (CSLL fourth amendment, creates Contractors' State License Board / CSLB) from source PDF, 150 DPI grayscale PNG. Filename pattern: ch<NN>_p<printed>-<pdf>.png."
+        },
+        {
+          "artifact_local_path": "evolution/1935_ch816_cslb_creation/chapter_pages/ch816_p2220-2175.png",
+          "derived_from_artifact": "evolution/1935_ch816_cslb_creation/1935_Vol1_Chapters.pdf",
+          "derived_from_artifact_sha256": "0b12ee9b7ab50bb2ee4e272855660f9504b469544d9f70d1142f64db758377fb",
+          "derivation_method": "pdftoppm -f N -l N -r 150 -png (where N = PDF page suffix in filename)",
+          "derivation_at_utc": "2026-04-08T08:30:00Z",
+          "sha256": "705a3e187c1de9e7d52147df65541f8b84935892877405282e30ca2e91fd0d2f",
+          "file_size_bytes": 141136,
+          "content_description": "Rendered page of 1935 Ch.816 (CSLL fourth amendment, creates Contractors' State License Board / CSLB) from source PDF, 150 DPI grayscale PNG. Filename pattern: ch<NN>_p<printed>-<pdf>.png."
+        },
+        {
+          "artifact_local_path": "evolution/1935_ch816_cslb_creation/chapter_pages/ch816_p2221-2176.png",
+          "derived_from_artifact": "evolution/1935_ch816_cslb_creation/1935_Vol1_Chapters.pdf",
+          "derived_from_artifact_sha256": "0b12ee9b7ab50bb2ee4e272855660f9504b469544d9f70d1142f64db758377fb",
+          "derivation_method": "pdftoppm -f N -l N -r 150 -png (where N = PDF page suffix in filename)",
+          "derivation_at_utc": "2026-04-08T08:30:00Z",
+          "sha256": "d1adee78eb3ce568919e6171ab1c49b1ae5ec0b66a9565303223fd5a4d084a4b",
+          "file_size_bytes": 143868,
+          "content_description": "Rendered page of 1935 Ch.816 (CSLL fourth amendment, creates Contractors' State License Board / CSLB) from source PDF, 150 DPI grayscale PNG. Filename pattern: ch<NN>_p<printed>-<pdf>.png."
+        },
+        {
+          "artifact_local_path": "evolution/1935_ch816_cslb_creation/chapter_pages/ch816_p2222-2177.png",
+          "derived_from_artifact": "evolution/1935_ch816_cslb_creation/1935_Vol1_Chapters.pdf",
+          "derived_from_artifact_sha256": "0b12ee9b7ab50bb2ee4e272855660f9504b469544d9f70d1142f64db758377fb",
+          "derivation_method": "pdftoppm -f N -l N -r 150 -png (where N = PDF page suffix in filename)",
+          "derivation_at_utc": "2026-04-08T08:30:00Z",
+          "sha256": "114fbd53698f6f1504853578a936b3efab27278a33d271bb320a4c36e211aaf4",
+          "file_size_bytes": 148809,
+          "content_description": "Rendered page of 1935 Ch.816 (CSLL fourth amendment, creates Contractors' State License Board / CSLB) from source PDF, 150 DPI grayscale PNG. Filename pattern: ch<NN>_p<printed>-<pdf>.png."
+        },
+        {
+          "artifact_local_path": "evolution/1935_ch816_cslb_creation/chapter_pages/ch816_p2223-2178.png",
+          "derived_from_artifact": "evolution/1935_ch816_cslb_creation/1935_Vol1_Chapters.pdf",
+          "derived_from_artifact_sha256": "0b12ee9b7ab50bb2ee4e272855660f9504b469544d9f70d1142f64db758377fb",
+          "derivation_method": "pdftoppm -f N -l N -r 150 -png (where N = PDF page suffix in filename)",
+          "derivation_at_utc": "2026-04-08T08:30:00Z",
+          "sha256": "f6b57bfb7f59e8a67ddf9f4fca3206667508cad5a5e50088d4e37e0b3cacf22d",
+          "file_size_bytes": 136984,
+          "content_description": "Rendered page of 1935 Ch.816 (CSLL fourth amendment, creates Contractors' State License Board / CSLB) from source PDF, 150 DPI grayscale PNG. Filename pattern: ch<NN>_p<printed>-<pdf>.png."
+        },
+        {
+          "artifact_local_path": "evolution/1935_ch816_cslb_creation/chapter_pages/ch816_p2224-2179.png",
+          "derived_from_artifact": "evolution/1935_ch816_cslb_creation/1935_Vol1_Chapters.pdf",
+          "derived_from_artifact_sha256": "0b12ee9b7ab50bb2ee4e272855660f9504b469544d9f70d1142f64db758377fb",
+          "derivation_method": "pdftoppm -f N -l N -r 150 -png (where N = PDF page suffix in filename)",
+          "derivation_at_utc": "2026-04-08T08:30:00Z",
+          "sha256": "27944cb79d1318babce91055947b232383e63de67abcd9b48b515ec97f34fb83",
+          "file_size_bytes": 121857,
+          "content_description": "Rendered page of 1935 Ch.816 (CSLL fourth amendment, creates Contractors' State License Board / CSLB) from source PDF, 150 DPI grayscale PNG. Filename pattern: ch<NN>_p<printed>-<pdf>.png."
+        },
+        {
+          "artifact_local_path": "current/bpc_7000_leginfo.html",
+          "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=7000&lawCode=BPC",
+          "source_authority": "California Legislative Information (leginfo.legislature.ca.gov), Office of Legislative Counsel",
+          "source_authority_type": "primary (state legislative branch official text repository)",
+          "fetched_at_utc": "2026-04-08T08:30:00Z",
+          "fetch_method": "curl with provenance UA; HTML shell only \u2014 JS-rendered content; verbatim section text captured separately via WebFetch and stored in manifest current_codification block",
+          "file_size_bytes": 162531,
+          "sha256": "fa9c6e9616cadf2a5d0746cec9cd6026b3c866ffd99d7297af78078285d8d746",
+          "content_description": "Current text URL marker for California Business and Professions Code section 7000 (Contractors State License Law modern codification at BPC \u00a7\u00a7 7000+)."
+        },
+        {
+          "artifact_local_path": "current/bpc_7008_leginfo.html",
+          "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=7008&lawCode=BPC",
+          "source_authority": "California Legislative Information (leginfo.legislature.ca.gov), Office of Legislative Counsel",
+          "source_authority_type": "primary (state legislative branch official text repository)",
+          "fetched_at_utc": "2026-04-08T08:30:00Z",
+          "fetch_method": "curl with provenance UA; HTML shell only \u2014 JS-rendered content; verbatim section text captured separately via WebFetch and stored in manifest current_codification block",
+          "file_size_bytes": 162315,
+          "sha256": "4795e2d7c4667f4cf2cfd811913382a0e5d9263624c54df590bf077e9f92a5f8",
+          "content_description": "Current text URL marker for California Business and Professions Code section 7008 (Contractors State License Law modern codification at BPC \u00a7\u00a7 7000+)."
+        },
+        {
+          "artifact_local_path": "current/bpc_7011_leginfo.html",
+          "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=7011&lawCode=BPC",
+          "source_authority": "California Legislative Information (leginfo.legislature.ca.gov), Office of Legislative Counsel",
+          "source_authority_type": "primary (state legislative branch official text repository)",
+          "fetched_at_utc": "2026-04-08T08:30:00Z",
+          "fetch_method": "curl with provenance UA; HTML shell only \u2014 JS-rendered content; verbatim section text captured separately via WebFetch and stored in manifest current_codification block",
+          "file_size_bytes": 163053,
+          "sha256": "5c790547cf3749583f5daa415d3442399470410e16bc2a01b5d475b5f99df3b1",
+          "content_description": "Current text URL marker for California Business and Professions Code section 7011 (Contractors State License Law modern codification at BPC \u00a7\u00a7 7000+)."
+        },
+        {
+          "artifact_local_path": "current/bpc_7026_leginfo.html",
+          "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=7026&lawCode=BPC",
+          "source_authority": "California Legislative Information (leginfo.legislature.ca.gov), Office of Legislative Counsel",
+          "source_authority_type": "primary (state legislative branch official text repository)",
+          "fetched_at_utc": "2026-04-08T08:30:00Z",
+          "fetch_method": "curl with provenance UA; HTML shell only \u2014 JS-rendered content; verbatim section text captured separately via WebFetch and stored in manifest current_codification block",
+          "file_size_bytes": 163421,
+          "sha256": "dffc62d8a3a22cf446347178608137b0ba5f8e9cc3b76920483367ecc9f34058",
+          "content_description": "Current text URL marker for California Business and Professions Code section 7026 (Contractors State License Law modern codification at BPC \u00a7\u00a7 7000+)."
+        },
+        {
+          "artifact_local_path": "current/bpc_7027_leginfo.html",
+          "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=7027&lawCode=BPC",
+          "source_authority": "California Legislative Information (leginfo.legislature.ca.gov), Office of Legislative Counsel",
+          "source_authority_type": "primary (state legislative branch official text repository)",
+          "fetched_at_utc": "2026-04-08T08:30:00Z",
+          "fetch_method": "curl with provenance UA; HTML shell only \u2014 JS-rendered content; verbatim section text captured separately via WebFetch and stored in manifest current_codification block",
+          "file_size_bytes": 162553,
+          "sha256": "05a4ac195b0e61e366ebfd74c11212a3f414ca3351f4f2839cddddec661d7461",
+          "content_description": "Current text URL marker for California Business and Professions Code section 7027 (Contractors State License Law modern codification at BPC \u00a7\u00a7 7000+)."
+        },
+        {
+          "artifact_local_path": "current/bpc_7028_leginfo.html",
+          "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=7028&lawCode=BPC",
+          "source_authority": "California Legislative Information (leginfo.legislature.ca.gov), Office of Legislative Counsel",
+          "source_authority_type": "primary (state legislative branch official text repository)",
+          "fetched_at_utc": "2026-04-08T08:30:00Z",
+          "fetch_method": "curl with provenance UA; HTML shell only \u2014 JS-rendered content; verbatim section text captured separately via WebFetch and stored in manifest current_codification block",
+          "file_size_bytes": 167392,
+          "sha256": "132476e81a287ad33bf868ab0f9d278c41b3ef316a2ea7305a47d579ffeceb19",
+          "content_description": "Current text URL marker for California Business and Professions Code section 7028 (Contractors State License Law modern codification at BPC \u00a7\u00a7 7000+)."
+        },
+        {
+          "artifact_local_path": "current/bpc_7065_leginfo.html",
+          "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=7065&lawCode=BPC",
+          "source_authority": "California Legislative Information (leginfo.legislature.ca.gov), Office of Legislative Counsel",
+          "source_authority_type": "primary (state legislative branch official text repository)",
+          "fetched_at_utc": "2026-04-08T08:30:00Z",
+          "fetch_method": "curl with provenance UA; HTML shell only \u2014 JS-rendered content; verbatim section text captured separately via WebFetch and stored in manifest current_codification block",
+          "file_size_bytes": 166774,
+          "sha256": "eecfa455be2c6b808eb5ce8ce128c7a7ce3f5e112d9aecb9986ccb9e2890957b",
+          "content_description": "Current text URL marker for California Business and Professions Code section 7065 (Contractors State License Law modern codification at BPC \u00a7\u00a7 7000+)."
+        },
+        {
+          "artifact_local_path": "current/bpc_7068_leginfo.html",
+          "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=7068&lawCode=BPC",
+          "source_authority": "California Legislative Information (leginfo.legislature.ca.gov), Office of Legislative Counsel",
+          "source_authority_type": "primary (state legislative branch official text repository)",
+          "fetched_at_utc": "2026-04-08T08:30:00Z",
+          "fetch_method": "curl with provenance UA; HTML shell only \u2014 JS-rendered content; verbatim section text captured separately via WebFetch and stored in manifest current_codification block",
+          "file_size_bytes": 166926,
+          "sha256": "5b6ede22cd1f6d18ae3aacff8989d4f25f238405d714477ab60b6cd3a37c9382",
+          "content_description": "Current text URL marker for California Business and Professions Code section 7068 (Contractors State License Law modern codification at BPC \u00a7\u00a7 7000+)."
+        },
+        {
+          "artifact_local_path": "current/bpc_7113_leginfo.html",
+          "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=7113&lawCode=BPC",
+          "source_authority": "California Legislative Information (leginfo.legislature.ca.gov), Office of Legislative Counsel",
+          "source_authority_type": "primary (state legislative branch official text repository)",
+          "fetched_at_utc": "2026-04-08T08:30:00Z",
+          "fetch_method": "curl with provenance UA; HTML shell only \u2014 JS-rendered content; verbatim section text captured separately via WebFetch and stored in manifest current_codification block",
+          "file_size_bytes": 162987,
+          "sha256": "7281940197645e81d6ea32ba309f0fbd7a2c9c138fb55c0a9fb758a25abb1875",
+          "content_description": "Current text URL marker for California Business and Professions Code section 7113 (Contractors State License Law modern codification at BPC \u00a7\u00a7 7000+)."
+        },
+        {
+          "artifact_local_path": "current/bpc_7160_leginfo.html",
+          "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=7160&lawCode=BPC",
+          "source_authority": "California Legislative Information (leginfo.legislature.ca.gov), Office of Legislative Counsel",
+          "source_authority_type": "primary (state legislative branch official text repository)",
+          "fetched_at_utc": "2026-04-08T08:30:00Z",
+          "fetch_method": "curl with provenance UA; HTML shell only \u2014 JS-rendered content; verbatim section text captured separately via WebFetch and stored in manifest current_codification block",
+          "file_size_bytes": 162909,
+          "sha256": "e25fc5e079bcbb348dcc3691b9a4224577ae9b59ad3b46c10ef89986c875bb88",
+          "content_description": "Current text URL marker for California Business and Professions Code section 7160 (Contractors State License Law modern codification at BPC \u00a7\u00a7 7000+)."
+        }
+      ]
+    }
+  ]
+}

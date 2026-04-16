@@ -1,0 +1,12 @@
+DUPLICATE FOLDER — SEE CANONICAL RECORD
+
+This folder (christiansburg_garment_1978) is a parallel-session duplicate of:
+  case_law/interpretive/christiansburg_garment_v_eeoc_1978/
+
+The canonical opinion.txt, holding.md, provenance.json, and statute_version_cited.md are in:
+  christiansburg_garment_v_eeoc_1978/
+
+CASE: Christiansburg Garment Co. v. EEOC, 434 U.S. 412 (1978)
+HOLDING: Prevailing defendants under § 1988 recover fees only if plaintiff's case was frivolous, unreasonable, or without foundation — not merely because defendant prevailed.
+
+Please see the canonical folder for the full opinion.txt.

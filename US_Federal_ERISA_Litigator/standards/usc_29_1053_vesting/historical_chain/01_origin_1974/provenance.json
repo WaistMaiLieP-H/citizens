@@ -1,0 +1,18 @@
+{
+  "layer": "historical_chain",
+  "stage": "01_origin_1974",
+  "standard_id": "USC_29_1053_MINIMUM_VESTING",
+  "enacting_law": "Pub. L. 93-406 (ERISA), § 203, 88 Stat. 850 (Sept. 2, 1974)",
+  "signed_by": "President Gerald R. Ford",
+  "signed_date": "1974-09-02",
+  "effective_date": "1974-09-02",
+  "official_source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1053",
+  "verified": false,
+  "verified_note": "USC tool blocked for Title 29; text from training knowledge. Verify at uscode.house.gov.",
+  "key_amendments": [
+    "Pub. L. 99-514 (Tax Reform Act 1986) — accelerated to 5-year cliff / 3-7-year graded",
+    "Pub. L. 107-16 (EGTRRA 2001) — matching contribution acceleration: 3-year cliff / 2-6-year graded",
+    "Pub. L. 116-94 (SECURE Act 2019) — long-term part-time worker vesting"
+  ],
+  "case_37_relevance": "UA342 journeyman with 16+ years = fully vested under any schedule; nonforfeitable as matter of law"
+}

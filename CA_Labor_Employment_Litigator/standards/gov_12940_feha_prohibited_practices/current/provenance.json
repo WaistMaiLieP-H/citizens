@@ -1,0 +1,8 @@
+{
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=GOV&sectionNum=12940",
+  "fetch_tool": "mcp__claude_ai_VernenLegal__california_get_section",
+  "fetch_date": "2026-04-13",
+  "verified": true,
+  "statute_sha256": "bb1d9bb72d99b8f622d8957cf15bedc6dc8106642a999a90558bc909e1d982f0",
+  "notes": "Full text fetched. statute_text.md contains key operative subdivisions with bracketed notes for voluminous subsections. Full text on file."
+}

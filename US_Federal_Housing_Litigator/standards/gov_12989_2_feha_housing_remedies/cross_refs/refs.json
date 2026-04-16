@@ -1,0 +1,30 @@
+{
+  "standard": "gov_12989_2_feha_housing_remedies",
+  "citizen": "US_Federal_Housing_Litigator",
+  "refs": [
+    {
+      "id": "gov_12955_feha_housing_discrimination",
+      "path": "${citizens}/US_Federal_Housing_Litigator/standards/gov_12955_feha_housing_discrimination",
+      "relationship": "prerequisite",
+      "note": "GOV §12955 establishes the substantive violation; §§12989.1/12989.2 are the procedural + remedial mechanism; no §12989.2 remedy without a §12955 (or §12981) violation"
+    },
+    {
+      "id": "fha_3604_prohibited_acts",
+      "path": "${citizens}/US_Federal_Housing_Litigator/standards/fha_3604_prohibited_acts",
+      "relationship": "parallel",
+      "note": "Federal FHA (42 USC §3613) provides parallel civil action with actual/punitive damages + fees; §12989.2 and §3613 remedies are additive where both claims exist"
+    },
+    {
+      "id": "civ_51_unruh_civil_rights_act",
+      "path": "${citizens}/CA_Disability_Rights_Litigator/standards/civ_51_unruh_civil_rights_act",
+      "relationship": "concurrent",
+      "note": "GOV §12955(d): §12955 violations also trigger Unruh Act via §51(f); §12989.2 actual/punitive damages + §52 $4,000/offense statutory damages are additive — different remedial bases for the same underlying discriminatory act"
+    },
+    {
+      "id": "WIC_15657",
+      "path": "${citizens}/CA_Elder_Law_Litigator/standards/WIC_15657",
+      "relationship": "parallel",
+      "note": "If housing discrimination was also elder financial abuse, WIC §15657 provides treble damages + attorney fees; §12989.2 and WIC §15657 remedies are additive — each premised on different violations"
+    }
+  ]
+}

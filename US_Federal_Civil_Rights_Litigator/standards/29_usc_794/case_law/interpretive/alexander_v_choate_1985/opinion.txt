@@ -1,0 +1,67 @@
+ALEXANDER v. CHOATE
+469 U.S. 287 (1985)
+United States Supreme Court
+Decided: January 9, 1985
+
+---
+
+FACTS:
+
+Tennessee reduced the number of inpatient hospital days covered under its Medicaid program from 20 to 14 days per year. Tennessee received federal Medicaid funding and was subject to § 504 of the Rehabilitation Act, 29 U.S.C. § 794. Handicapped Medicaid recipients (respondents) challenged the reduction, arguing that the 14-day cap would have a disproportionate adverse impact on disabled recipients, who on average required more than 14 inpatient days per year, while non-disabled recipients typically needed fewer.
+
+The question was whether § 504 prohibited facially neutral program rules that had a disparate impact on disabled persons, even when there was no discriminatory intent.
+
+---
+
+HOLDING:
+
+Justice Marshall wrote for a unanimous Court.
+
+THE CHOATE HOLDING — TWO PRINCIPLES:
+
+PRINCIPLE ONE — MEANINGFUL ACCESS:
+Section 504 requires that recipients of federal funds provide "meaningful access" to their programs for disabled persons. A facially neutral rule that effectively denies disabled persons meaningful access to a program violates § 504, even without discriminatory intent.
+
+"To assure meaningful access, reasonable accommodations in the grantee's program or benefit may have to be made."
+
+"The benefit itself, of course, cannot be defined in a way that effectively denies otherwise qualified handicapped individuals the meaningful access to which they are entitled."
+
+PRINCIPLE TWO — DISPARATE IMPACT vs. REASONABLE ACCOMMODATION:
+The Court declined to hold that § 504 categorically prohibits all rules with disparate impact on disabled persons. But it held that some degree of disparate impact analysis is appropriate:
+
+"[S]ome line short of a ban on all conduct with a disparate effect on the handicapped is required."
+
+The Tennessee 14-day cap survived because:
+1. It applied equally to all Medicaid recipients (neutral on its face)
+2. It did not deny the benefit entirely — disabled persons still received 14 days
+3. The State had not defined the benefit in a way that would exclude disabled persons categorically
+
+However, if the State had defined the benefit in a way that effectively excluded disabled persons (e.g., "inpatient care excluding any condition requiring more than 14 days"), § 504 would be violated.
+
+THE MEANINGFUL ACCESS STANDARD:
+A program does not provide meaningful access if:
+1. Its neutral rules effectively exclude disabled persons from program benefits they would otherwise receive
+2. The definition of the benefit itself operates to deny access based on the disability
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Alexander v. Choate establishes the "meaningful access" doctrine that applies to:
+
+1. **SSA/DDS disability determination process**: If the agency's telephone-only contact protocol effectively excludes claimants whose phones have been compromised by SIM swap (cutting them off from contact entirely), that may deny meaningful access in violation of § 504.
+
+2. **CalVCB application process**: If CalVCB's procedural requirements (tight deadlines, written-only submission requirements) operate to deny meaningful access to applicants whose ability to communicate has been impaired by the very crime they are reporting, § 504 may be implicated.
+
+3. **Medical program access**: Systematic exclusion of disabled individuals from procedures available to non-disabled patients, absent medical necessity, may violate the meaningful-access standard.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 469 U.S. 287 (1985)
+Court: United States Supreme Court
+Reporter: United States Reports, vol. 469, page 287
+Author: Marshall, J. (unanimous)
+Source of this text: Claude training data (knowledge cutoff August 2025). Alexander v. Choate is the foundational § 504 case establishing the "meaningful access" doctrine and the relationship between disparate impact and accommodation obligations.
+Verification: CourtListener / Justia / Google Scholar: "Alexander v. Choate 469 U.S. 287"
+Verification status: PROPOSED — pending steward witness review

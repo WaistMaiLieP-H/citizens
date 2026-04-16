@@ -1,0 +1,42 @@
+{
+  "standard_id": "feha_disability_accommodation",
+  "citizen": "CA_Disability_Rights_Litigator",
+  "build_date": "2026-04-13",
+  "primary_source": {
+    "source_type": "statute",
+    "jurisdiction": "California",
+    "code": "Government Code",
+    "section": "12940",
+    "fetch_method": "mcp__claude_ai_VernenLegal__california_get_section",
+    "verified": true,
+    "fetch_date": "2026-04-13",
+    "note": "Live MCP fetch — GOV §12940(a)-(r) returned in full; disability accommodation §12940(m) and interactive process §12940(n) both present; verified=true"
+  },
+  "supporting_sources": [
+    {
+      "source_type": "training_knowledge",
+      "description": "GOV §12926 — FEHA definitions; physical disability (§12926(m)); mental disability (§12926(j)); reasonable accommodation examples (§12926(p)); ADA incorporation (§12926(n)); undue hardship (§12926(u))",
+      "note": "Training knowledge; key definitions extracted; live fetch of §12926 recommended before drafting civil complaint"
+    },
+    {
+      "source_type": "training_knowledge",
+      "description": "Jensen v. Wells Fargo Bank (2000) 85 Cal.App.4th 245 — interactive process independently actionable; failure to engage is §12940(n) violation regardless of whether accommodation ultimately possible",
+      "note": "Case law; verify citation before filing"
+    },
+    {
+      "source_type": "training_knowledge",
+      "description": "Scotch v. Art Institute of California (2009) 173 Cal.App.4th 986 — interactive process must be timely; delay = failure",
+      "note": "Case law; verify citation before filing"
+    },
+    {
+      "source_type": "training_knowledge",
+      "description": "1992 ADA alignment amendments to FEHA — 5-employee threshold; mitigating measures exclusion; 'regarded as' coverage",
+      "note": "Legislative history; consistent with current statute text"
+    }
+  ],
+  "steward_verify_queue": [
+    "Jensen v. Wells Fargo Bank (2000) 85 Cal.App.4th 245",
+    "Scotch v. Art Institute of California (2009) 173 Cal.App.4th 986"
+  ],
+  "chronicle_flag": false
+}

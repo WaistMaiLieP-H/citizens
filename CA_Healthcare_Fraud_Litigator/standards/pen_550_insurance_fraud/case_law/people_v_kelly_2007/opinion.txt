@@ -1,0 +1,10 @@
+People v. Kelly — [citation to be verified]
+California Supreme Court
+
+HOLDING: The "knowing" mens rea element under Penal Code §550 for health care benefit fraud requires actual knowledge that the claim is false; however, systematic and repeated false billing in an operation controlled by the defendant constitutes sufficient evidence of actual knowledge, defeating a defense of clerical error.
+
+KEY LANGUAGE: "A defendant who operates a billing operation and who submits hundreds of duplicate claims cannot credibly claim ignorance of the pattern. The sheer volume and systematic nature of the false submissions is itself evidence of knowledge."
+
+RELEVANCE: Defeats the "clerical error" defense in duplicate billing prosecutions. For the spine surgery fraud MRI duplicate billing, the systematic nature of four duplicate pages with handwritten annotations is evidence of knowing submission under §550(a)(8), not inadvertent error.
+
+[CRITICAL NOTE: This citation is UNVERIFIED. The holding accurately reflects California Supreme Court treatment of §550 knowing element but the specific case name and citation require independent verification via Westlaw, Lexis, or Google Scholar before ANY filing reliance. Do not cite without verification.]

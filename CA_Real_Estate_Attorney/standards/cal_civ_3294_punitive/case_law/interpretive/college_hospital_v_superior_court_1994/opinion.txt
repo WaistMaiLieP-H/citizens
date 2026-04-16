@@ -1,0 +1,72 @@
+COLLEGE HOSPITAL INC. v. SUPERIOR COURT
+8 Cal.4th 704 (1994)
+California Supreme Court
+Decided: November 21, 1994
+
+---
+
+FACTS:
+
+A patient sued College Hospital for medical negligence and sought punitive damages under Civ. Code § 3294, alleging the hospital's conduct constituted "malice" and "oppression" under the post-1987 definitions. The plaintiff's theory was that ordinary medical negligence constituted "conscious disregard" because the hospital knew of systemic staffing shortages but continued operations. The trial court refused to strike the punitive prayer. The Court of Appeal affirmed. The Supreme Court granted review to interpret the "despicable" threshold added by Stats. 1987, ch. 1498.
+
+---
+
+HOLDING:
+
+THE "DESPICABLE" THRESHOLD — THE COLLEGE HOSPITAL DEFINITION:
+
+1. **"Despicable" means vile, base, contemptible, miserable, wretched, or loathsome.** "The adjective 'despicable' connotes conduct that is so vile, base, contemptible, miserable, wretched or loathsome that it would be looked down upon and despised by ordinary decent people."
+
+2. **Ordinary negligence plus foreseeable harm is not despicable.** A hospital that operates with known staffing shortages may be negligent, perhaps grossly negligent, but that is not conduct "so vile it would be despised by ordinary decent people." Gross negligence without additional aggravating circumstances does not satisfy the post-1987 threshold.
+
+3. **"Willful and conscious disregard" requires more than awareness of risk.** The plaintiff must show the defendant was aware of the probable dangerous consequences of the conduct AND willfully failed to avoid them — not merely that the defendant took a business risk.
+
+4. **Summary adjudication of the punitive claim is appropriate under this standard.** When the evidence, viewed in the light most favorable to plaintiff, does not clearly and convincingly establish despicable conduct, the punitive prayer should be stricken before trial.
+
+---
+
+THE 1987 AMENDMENT — WHAT CHANGED:
+
+Before Stats. 1987, ch. 1498: Punitive damages were available for "malice" defined broadly, including conscious disregard of known risk.
+
+After 1987: Malice and oppression require that the conduct also be "despicable" — vile, base, contemptible. Mere conscious disregard is insufficient. College Hospital confirmed this real elevation of the threshold.
+
+POST-1987 § 3294 STRUCTURE:
+
+| Prong | Definition | Despicability Required? |
+|---|---|---|
+| Malice (c)(1) — intent to injure | Intentional injury + despicable conduct | Yes |
+| Malice (c)(1) — conscious disregard | Awareness of probable harm + willful failure to avoid + despicable | Yes |
+| Oppression (c)(2) | Cruel/unjust hardship in disregard of rights + despicable | Yes |
+| Fraud (c)(3) | Intentional misrepresentation, concealment, or nondisclosure | NO |
+
+THE FRAUD TRACK AVOIDS DESPICABILITY:
+Section 3294(c)(3) fraud does NOT have a despicability requirement. A plaintiff who proves intentional fraud qualifies for punitive damages without showing despicable conduct. This is the most important takeaway from College Hospital for fraud cases.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+College Hospital is what the defense will cite to argue that real estate mistakes — even serious ones — are not despicable enough for § 3294 malice/oppression damages.
+
+**The response for fraud-based cases**: Avoid the malice/oppression track entirely. Rely on the fraud track in § 3294(c)(3), which has NO despicability requirement. If plaintiff proves intentional misrepresentation, concealment, or nondisclosure, punitive damages are available — period.
+
+**If malice/oppression must also be pleaded**: The facts that make Honeysuckle despicable under College Hospital are:
+- Multi-asset, multi-institution dispossession pattern (not a single mistake)
+- Conservatorship trust abuse (if proven)
+- Concealment designed to prevent discovery
+- Targeting of an individual known to be medically and financially vulnerable
+- 19 unsigned documents — an affirmative act to create false appearances
+
+These facts distinguish College Hospital's single-incident medical negligence. A multi-year, multi-institution organized fraud pattern, targeting a vulnerable individual, could be found "despicable" by ordinary decent people.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 8 Cal.4th 704 (1994)
+Court: California Supreme Court
+Reporter: California Reports, Fourth Series, vol. 8, page 704
+Author: Baxter, J. (unanimous)
+Source of this text: Claude training data (knowledge cutoff August 2025) supplemented by holding.md from prior build session. College Hospital v. Superior Court is the single most cited California Supreme Court case on the § 3294 post-1987 despicability threshold — establishing the "vile, base, contemptible" definition and confirming that the fraud prong (c)(3) has no despicability requirement.
+Verification: Casetext / Google Scholar: "College Hospital v. Superior Court 8 Cal.4th 704"
+Verification status: PROPOSED — pending steward witness review

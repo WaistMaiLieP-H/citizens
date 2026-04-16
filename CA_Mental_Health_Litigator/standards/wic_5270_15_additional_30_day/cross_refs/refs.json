@@ -1,0 +1,15 @@
+{
+  "standard_id": "wic_5270_15_additional_30_day",
+  "cross_refs": [
+    {"type": "predicate", "citation": "Cal. WIC § 5250", "standard": "wic_5250_14_day_certification"},
+    {"type": "predicate", "citation": "Cal. WIC § 5150", "standard": "wic_5150_involuntary_hold"},
+    {"type": "escalation", "citation": "Cal. WIC § 5350", "standard": "EXTERNAL — CA_Probate_Conservatorship_Litigator/wic_5350_lps"},
+    {"type": "parallel_pathway", "citation": "Cal. WIC § 5300", "relation": "Dangerousness 180-day extension — alternate staircase"},
+    {"type": "procedural", "citation": "Cal. WIC § 5256", "relation": "Certification review hearing"},
+    {"type": "procedural", "citation": "Cal. WIC § 5275 et seq.", "relation": "Judicial review alternative"},
+    {"type": "rights_attachment", "citation": "Cal. WIC § 5325", "standard": "wic_5325_patients_rights"},
+    {"type": "confidentiality", "citation": "Cal. WIC § 5328", "standard": "wic_5328_lps_confidentiality"},
+    {"type": "citizen_external", "citizen": "CA_Probate_Conservatorship_Litigator"},
+    {"type": "citizen_external", "citizen": "US_Federal_Civil_Rights_Litigator"}
+  ]
+}

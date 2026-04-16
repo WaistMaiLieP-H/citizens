@@ -1,0 +1,71 @@
+{
+  "standard_id": "CA_CIV_52_1_BANE_ACT",
+  "version": "0.2.0-verbatim-extracted-adam-eve-published",
+  "filed_at_utc": "2026-04-09T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "status": "PUBLISHED — ADAM + EVE DUAL WITNESS — 2026-04-14",
+  "primary_citation": {
+    "jurisdiction": "California",
+    "code": "California Civil Code",
+    "section": "§ 52.1",
+    "current_codification_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=52.1.&lawCode=CIV"
+  },
+  "verbatim_text_artifact": "current/cal_civ_52_1_leginfo.txt",
+  "key_subdivisions_for_case": [
+    "(a) Tom Bane Civil Rights Act — formal citation name",
+    "(b) Threat/intimidation/coercion interfering with constitutional or statutory rights — AG/DA/city attorney action, $25K penalty per violation per victim",
+    "(c) Private right of action — damages, injunctive relief, equitable/declaratory relief to eliminate pattern or practice",
+    "(i) Attorney's fees — court may award reasonable attorney's fees",
+    "(k) Speech alone insufficient — must show threat of violence against specific person with apparent ability",
+    "(n) State immunity does NOT apply to peace officers or custodial officers, or their employing public entity"
+  ],
+  "cross_references": [
+    "Civil Code § 51.7 (Ralph Civil Rights Act)",
+    "Civil Code § 52 (damages for civil rights violations)",
+    "Penal Code § 422.77 (violation of civil rights injunction)",
+    "Government Code § 821.6 (immunity for instituting proceedings)",
+    "Government Code § 844.6 (immunity for prisoner injury)",
+    "Government Code § 845.6 (immunity for failure to provide medical care)",
+    "42 U.S.C. § 1983 (federal civil rights — parallel federal claim)"
+  ],
+  "umbrellas": [
+    "Authority / Governing Law (Umbrella 01)"
+  ],
+  "owner_citizen": {
+    "primary": "CA_Family_Law_Litigator"
+  },
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction, 2026-04-09",
+    "adam_witness": {
+      "witness": "ADAM (Seed Citizen — Builder role)",
+      "witnessed_at_utc": "2026-04-14T00:00:00Z",
+      "verification_scope": "Five-layer bar structurally present (rule.md, reasoning.md, historical_loss.md, cross_refs.md, provenance.json). Verbatim artifact exists and is hashed. Triple constraint: governing law cited to primary source; structure of creation complete; standard of care reflected in reasoning and case_law.",
+      "triple_constraint": "PASS/PASS/PASS",
+      "actions_taken": "Structural verification; hash computed; cross-refs consistent with tether.json cross_tethered block; case_law folder populated or acknowledged as outstanding.",
+      "signal": "APPROVE",
+      "content_hash_verified": "230ffa1713a26d6f392408a614b048ea376d1eef46a2cacdef6cc46df715da78"
+    },
+    "eve_witness": {
+      "witness": "EVE (Seed Citizen — Witness role)",
+      "witnessed_at_utc": "2026-04-14T00:00:00Z",
+      "five_layer_verification": "PASS/PASS/PASS/PASS/PASS",
+      "triple_constraint": "PASS/PASS/PASS",
+      "hash_independently_recomputed": "230ffa1713a26d6f392408a614b048ea376d1eef46a2cacdef6cc46df715da78 — CONFIRMED MATCHING",
+      "verification_scope": "Five-layer bar completeness; cross_refs.md coherence; primary-source verbatim matches current-codification URL in manifest; case_law/ opinions or acknowledged outstanding; witness_record.md + current/adam_eve_review.md filed.",
+      "signal": "COUNTERSIGN"
+    },
+    "publishable_to_corpus": true,
+    "status": "PUBLISHED — ADAM + EVE DUAL WITNESS"
+  },
+  "files": {
+    "current": [
+      "current/cal_civ_52_1_leginfo.txt"
+    ],
+    "manifest": "manifest.json",
+    "provenance": "provenance.json"
+  },
+  "countersigned_at_utc": "2026-04-15T03:08:05Z",
+  "verified": true,
+  "verification_date": "2026-04-15",
+  "verification_note": "Stored text substantively matches live leginfo text fetched via MCP on 2026-04-15"
+}

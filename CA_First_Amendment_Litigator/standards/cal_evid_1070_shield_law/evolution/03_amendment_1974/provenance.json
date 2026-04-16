@@ -1,0 +1,16 @@
+{
+  "standard_id": "CA_EVID_1070",
+  "evolution_stage": "03_amendment_1974",
+  "enacted_as": "Amendment to Evidence Code §1070 (Stats. 1974, Ch. 1323)",
+  "source_description": "Text is believed identical to current text since §1070 has not been amended after 1974. Context based on Wikipedia California Shield Law article, RCFP Compendium, and Branzburg v. Hayes (1972) doctrinal context.",
+  "sources_consulted": [
+    {"url": "https://en.wikipedia.org/wiki/California_Shield_Law", "description": "Shield law history including 1974 amendment significance"},
+    {"url": "https://www.rcfp.org/privilege-compendium/california/", "description": "RCFP analysis of California privilege"}
+  ],
+  "primary_source_outstanding": "Statutes of California 1974, Chapter 1323 — enrolled bill text. Would confirm that current text = 1974 text.",
+  "branzburg_citation": "Branzburg v. Hayes, 408 U.S. 665 (1972) — the federal case that made state shield laws the primary protection",
+  "text_file": "text.txt",
+  "context_file": "context.md",
+  "fetch_timestamp_utc": "2026-04-09T06:50:00Z",
+  "retrieval_steward": "Claude (assistant) under steward direction — Michael Hartmann"
+}

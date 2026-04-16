@@ -1,0 +1,12 @@
+Varity Corp. v. Howe
+516 U.S. 489 (1996)
+United States Supreme Court, 1996
+
+FACTS:
+Varity Corp. transferred employees and their benefit plan to a newly created subsidiary (Massey Combines) that was financially unsound. Varity misled employees about the security of their benefits to induce them to accept the transfer. After Massey Combines failed, the employees lost their benefits. They sued under § 1132(a)(3) for equitable relief.
+
+HOLDING — 29 U.S.C. § 1109 / § 1132(a)(3):
+The Supreme Court held that Varity Corp., acting as plan administrator, breached its § 1104 fiduciary duties by deliberately misleading plan participants about their benefits. The Court allowed individual equitable relief under § 1132(a)(3) — reinstatement of benefits — because the breach was against individual participants and no other adequate ERISA remedy was available. This was the first case allowing individual relief (not just plan-level recovery) for a § 1104 fiduciary breach.
+
+SIGNIFICANCE:
+Establishes the availability of individual equitable relief under § 1132(a)(3) when fiduciaries breach their duties by deceiving participants. Bridges § 1109 (fiduciary accountability) with § 1132(a)(3) (individual equitable remedy). Where a plan administrator misrepresents benefit status, denies information, or misleads a participant to their detriment, Varity supports individual relief including reinstatement, surcharge, and plan reformation.

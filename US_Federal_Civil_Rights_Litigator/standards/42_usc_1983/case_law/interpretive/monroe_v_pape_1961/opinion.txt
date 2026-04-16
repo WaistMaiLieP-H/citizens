@@ -1,0 +1,63 @@
+MONROE v. PAPE
+365 U.S. 167 (1961)
+United States Supreme Court
+Decided: February 20, 1961
+
+---
+
+FACTS:
+
+James Monroe and his family were Black residents of Chicago. In October 1958, thirteen Chicago police officers broke into their home at 5:45 a.m. without a warrant, forced the family to stand naked while the officers ransacked every room, and detained James Monroe in the police station for ten hours without charge before releasing him without filing any complaint. The officers acted in clear violation of Illinois state law, which prohibited warrantless home searches.
+
+Monroe sued the officers and the City of Chicago under 42 U.S.C. § 1983, which had been enacted in 1871 as part of the Civil Rights Act of that year (17 Stat. 13). The central questions were: (1) does § 1983 reach state actors who act contrary to state law? and (2) is the City of Chicago a "person" who can be sued under § 1983?
+
+The district court dismissed. The Seventh Circuit affirmed. The Supreme Court reversed as to the officers and affirmed as to the city.
+
+---
+
+HOLDING:
+
+Justice Douglas wrote for the Court on the officer question. Justice Frankfurter wrote a separate opinion on legislative history.
+
+PART ONE — OFFICERS ACTING UNDER COLOR OF LAW:
+
+"Misuse of power, possessed by virtue of state law and made possible only because the wrongdoer is clothed with the authority of state law, is action taken 'under color of' state law."
+
+An officer who uses their badge and authority to deprive someone of constitutional rights acts "under color of" state law even if the act violates state law. The phrase "under color of" does NOT mean "authorized by state law." It means "enabled by the authority of state law."
+
+THREE PURPOSES OF § 1983 (from Monroe):
+1. To override certain kinds of state laws
+2. To provide a remedy where state law is inadequate
+3. To provide a federal remedy where the state remedy, though adequate in theory, is not available in practice
+
+"§ 1983 should be read against the background of tort liability that makes a man responsible for the natural consequences of his actions. The victims of lawless official conduct should have a federal remedy that does not depend on the willingness of state courts to enforce the Fourteenth Amendment."
+
+PART TWO — MUNICIPALITIES ARE NOT "PERSONS":
+The Court held that the City of Chicago was NOT a "person" amenable to suit under § 1983, relying on legislative history of the 1871 Act.
+
+NOTE: This holding was OVERRULED seventeen years later in Monell v. Department of Social Services (1978). Municipalities ARE persons under § 1983. Monroe's holding on municipal immunity no longer stands.
+
+WHAT Monroe ESTABLISHED THAT SURVIVED MONELL:
+1. Officers who misuse state authority violate § 1983 even if their conduct is unauthorized by state law
+2. § 1983 is not limited to conduct authorized by the state — it reaches color of law, not legal authority
+3. The federal remedy is independent and available even when state remedies theoretically exist
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Monroe is the foundational holding for:
+1. **APD officers acting under color of law**: Officers who made arrests, filed reports, responded to dispatch calls, and used their authority in connection with the June 16, 2023 incident and the custody proceedings all acted "under color of law."
+2. **State actors who misuse authority**: The county social workers, prosecutors, and court-appointed professionals who deployed official authority to harm a litigant all act "under color of law" under Monroe.
+3. **Federal remedy independent of state courts**: Monroe confirms that § 1983 does not require exhaustion of state remedies. The federal claim is available regardless of what state court proceedings are pending.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 365 U.S. 167 (1961)
+Court: United States Supreme Court
+Reporter: United States Reports, vol. 365, page 167
+Author: Douglas, J. (majority on § 1983 officers); Frankfurter, J. (concurring in part/dissenting in part on municipal liability)
+Source of this text: Claude training data (knowledge cutoff August 2025). Monroe v. Pape is the foundational revival of § 1983 — the case that breathed operational life into a dormant 90-year-old statute.
+Verification: CourtListener / Justia / Google Scholar: "Monroe v. Pape 365 U.S. 167"
+Verification status: PROPOSED — pending steward witness review

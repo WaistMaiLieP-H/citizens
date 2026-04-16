@@ -1,0 +1,31 @@
+{
+  "standard_id": "USC_18_2511_WIRETAP",
+  "cross_references": [
+    {
+      "id": "USC_18_1030_CFAA",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_18_1030_cfaa/",
+      "relationship": "COMPLEMENTARY — Wiretap Act covers real-time interception of communications in transit; CFAA covers unauthorized access to stored data on computers. SIM swap implicates both: ported calls/SMS intercepted in real-time (§2511) + stored accounts accessed via hijacked number (§1030). Same underlying attack, two separate statutory frameworks running simultaneously. $10,000 minimum (§2520) + $5,000 loss threshold (§1030(g)) both satisfied.",
+      "direction": "complementary"
+    },
+    {
+      "id": "USC_18_1961_RICO",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_18_1961_rico/",
+      "relationship": "RICO PREDICATE — §2511 violation is NOT a RICO predicate act under §1961(1)(B) — the statute is not listed in §1961's predicate act catalog. However, the underlying wire fraud (§1343) that used the intercepted communications IS a predicate. The §2511 civil action runs independently of RICO; the wire fraud civil recovery runs through RICO §1964(c). Both proceed against the same defendant.",
+      "direction": "limitation"
+    },
+    {
+      "id": "CAL_PENAL_632_CIPA",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/cal_penal_632_cipa/",
+      "relationship": "STATE PARALLEL — California CIPA (Cal. Penal Code §§630-638) is California's all-party consent wiretap statute. Federal Wiretap Act is one-party consent; CIPA requires all parties to consent. For communications intercepted in California, both federal and state standards apply; CIPA's all-party consent standard is stricter. §637.2 civil remedy: $5,000/violation or 3× actual. Stack with federal $10,000/violation for maximum civil recovery.",
+      "direction": "state_parallel"
+    },
+    {
+      "id": "USC_18_2701_SCA",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_18_2701_sca/",
+      "relationship": "SEQUENTIAL — Wiretap Act covers interception during transmission; SCA (18 U.S.C. §2701) covers unauthorized access to stored communications after storage. The same SIM swap attack implicates both in sequence: call intercepted in transit (§2511) → voicemail stored on server → accessed later (§2701 + §1030). Each statutory layer has its own civil remedy running on the same underlying conduct.",
+      "direction": "sequential"
+    }
+  ],
+  "path_anchor": "${citizens}",
+  "build_date": "2026-04-11"
+}

@@ -1,0 +1,17 @@
+{
+  "standard_id": "CA_PEN_11165_6_CHILD_ABUSE_DEFINITION",
+  "provenance_record_filed_at_utc": "2026-04-09T00:00:00Z",
+  "fetcher_software": "VernenLegal MCP API (california_get_section)",
+  "fetcher_operator": "Claude (assistant) under steward direction (Michael Hartmann)",
+  "fetches": [
+    {
+      "artifact_local_path": "current/cal_pen_11165_6_leginfo.txt",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=11165.6.&lawCode=PEN",
+      "source_authority": "California Legislative Information (leginfo.legislature.ca.gov) via VernenLegal MCP",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-09T00:00:00Z",
+      "fetch_method": "VernenLegal MCP california_get_section",
+      "content_description": "Cal. Penal Code § 11165.6 — Definition of 'child abuse or neglect' as cross-referenced by Family Code § 3011(b)"
+    }
+  ]
+}

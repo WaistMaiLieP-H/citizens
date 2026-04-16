@@ -1,0 +1,15 @@
+{
+  "standard_id": "wic_15657_5_financial_abuse_remedies",
+  "layer": "historical_chain",
+  "subdirectory": "01_origin_1991",
+  "primary_source": "Cal. Welf. & Inst. Code \u00a7 15657.5",
+  "enactment": "Stats. 1991, Ch. 774",
+  "key_amendments": [
+    "Stats. 2008, Ch. 475 (undue influence pathway added; judgment labeling clarified)"
+  ],
+  "current_form_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=15657.5.&lawCode=WIC",
+  "verified": true,
+  "fetch_method": "VernenLegal MCP california_get_section",
+  "fetch_date": "2026-04-12",
+  "chronicle_flag": false
+}

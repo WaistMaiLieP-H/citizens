@@ -1,0 +1,20 @@
+{
+  "standard_id": "CA_BPC_12001_WEIGHTS_AND_MEASURES",
+  "provenance_record_filed_at_utc": "2026-04-08T09:23:00Z",
+  "fetcher_software": "curl with sha256sum (one-shot batch fetch as part of 2026-04-08 breadth-first umbrella seeding pass)",
+  "fetcher_operator": "Claude (assistant) under steward direction (Michael Hartmann)",
+  "verification_principle": "Current-form HTML is the primary artifact for sections whose canonical text lives at the named source authority. The HTML snapshot is hashed at fetch time so a future verifier can confirm it matches what the source served on this date.",
+  "fetches": [
+    {
+      "artifact_local_path": "current/cal_bpc_12001_leginfo.html",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=12001.&lawCode=BPC",
+      "source_authority": "California Legislative Information (leginfo.legislature.ca.gov)",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-08T09:23:00Z",
+      "fetch_method": "curl -sSL --max-time 60 with Vernen-Provenance user-agent (one-shot batch fetch)",
+      "file_size_bytes": 161905,
+      "sha256": "558eadeb5ebcd36c6bc700f35762924711c517dfa4b38b49cd4fb371dbf74549",
+      "content_description": "California Weights and Measures Law \u2014 Foundational Section"
+    }
+  ]
+}

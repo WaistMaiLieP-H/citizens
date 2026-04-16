@@ -1,0 +1,33 @@
+People v. James (1977) 19 Cal.3d 99 — Defective Declaration Branch
+
+CITATION: 19 Cal.3d 99, 561 P.2d 1135, 137 Cal.Rptr. 447
+COURT: Supreme Court of California
+DATE DECIDED: March 31, 1977
+
+HOLDING (defective declaration branch):
+A declaration that fails to comply with the formal requirements of CCP § 2015.5 — including the perjury recitation under California law and the declarant's signature — is not a "sworn" document and cannot support a judicial finding premised on sworn testimony. A defective declaration is legally equivalent to no declaration at all; the finding based on it must be set aside.
+
+KEY FACTS (relevant branch):
+In the course of the criminal prosecution the defense challenged the sufficiency of supporting declarations submitted by the People. One declaration omitted the required perjury language; another was unsigned. The trial court relied on both. The Supreme Court held that the trial court's reliance was error.
+
+REASONING:
+CCP § 2015.5 is strictly construed because it substitutes unsworn paper for sworn oral testimony. The purpose — to expose the declarant to perjury liability — is defeated if any element of the statutory formula is omitted. The Court rejected the argument that "substantial compliance" is sufficient. Nothing less than the full formula binds the declarant to perjury liability. Therefore:
+1. Missing perjury recitation = no perjury exposure = not sworn = not evidence.
+2. Missing "laws of the State of California" phrase (when executed outside CA) = same result.
+3. Missing signature = same result.
+4. Dated declaration without signature = same result.
+
+APPLICATION TO § 2015.5:
+This is the foundational case for the strict-compliance rule that Kulshrestha (2004) later reaffirmed. Any facial defect in the § 2015.5 formula is fatal and non-waivable by non-objection at the trial level.
+
+APPLICATION TO VERNEN CASES:
+— Case #1 (Christina ex parte DVRO declarations, 2009 onward): Every declaration in the DVRO/custody chain must be audited against the full § 2015.5 formula. Any missing element = reversible evidentiary error.
+— Case #2 (Dr. Wiita MC-350 absence): If the ordering declaration itself is defective, the resulting § 1368 competency determination is void. Compound defect: no MC-350 + defective underlying declaration = collapse.
+— Pattern: In a 16-year document trail with 19 unsigned documents already catalogued (Honeysuckle), similar defects are likely across family law filings. § 2015.5 strict-compliance attack is a systematic tool.
+
+CROSS-REFERENCES:
+— CCP § 2015.5 (declaration formula)
+— Kulshrestha v. First Union (2004) 33 Cal.4th 601 (out-of-state declarations)
+— Sweetwater USD v. Gilbane (2019) 6 Cal.5th 931 (content admissibility)
+— Penal Code § 118 (perjury)
+— Palma v. U.S. Industrial Fasteners (1984) 36 Cal.3d 171 (procedural strictness)

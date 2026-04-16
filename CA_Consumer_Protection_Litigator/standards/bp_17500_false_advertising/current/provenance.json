@@ -1,0 +1,14 @@
+{
+  "standard_id": "BP_17500_FALSE_ADVERTISING",
+  "primary_source": "Cal. Bus. & Prof. Code §17500",
+  "enacted": "Stats. 1941, Ch. 807 (original enactment of false advertising prohibition)",
+  "current_version_amended": "Amended 1998 to add 'including over the Internet'; Prop 64 (2004) amended §17535 to add standing requirement",
+  "codification": "California Business and Professions Code, Division 7 (General Business Regulations), Part 3 (Representations to the Public), Chapter 1 (False Advertising), §§17500-17509",
+  "civil_action_section": "§17535 (private action: injunction + restitution); §17536 (civil penalties — AG/DA only)",
+  "fetch_method": "VernenLegal MCP — california_get_section (leginfo.legislature.ca.gov official source)",
+  "fetch_timestamp_utc": "2026-04-11T00:00:00Z",
+  "retrieval_steward": "Claude (assistant) under direction of Michael Hartmann",
+  "verbatim_capture_status": "COMPLETE — bp_17500_leginfo.txt contains verbatim text of §17500",
+  "txt_sha256": "7beaa6baa854f99a825de5594a12d79a3fa361aeb5baf3615855cef87f469610",
+  "build_date": "2026-04-11"
+}

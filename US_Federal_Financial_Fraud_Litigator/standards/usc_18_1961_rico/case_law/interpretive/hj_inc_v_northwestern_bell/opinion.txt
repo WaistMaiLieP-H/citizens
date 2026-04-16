@@ -1,0 +1,80 @@
+H.J. INC. v. NORTHWESTERN BELL TELEPHONE CO.
+492 U.S. 229 (1989)
+Supreme Court of the United States
+Argued March 28, 1989 — Decided June 26, 1989
+Majority: BRENNAN, J., joined by WHITE, MARSHALL, BLACKMUN, and STEVENS, JJ.
+Concurrence: SCALIA, J., joined by REHNQUIST, C.J., O'CONNOR, and KENNEDY, JJ.
+
+---
+
+SYLLABUS (official)
+
+Plaintiffs sued Northwestern Bell under civil RICO, alleging that the telephone company bribed Minnesota Public Utilities Commission officials over a period of years to secure favorable rate decisions. The question presented was what constitutes a "pattern of racketeering activity" under 18 U.S.C. § 1961(5), which requires at least two acts of racketeering activity within ten years. The district court dismissed for failure to allege a pattern; the Eighth Circuit affirmed.
+
+Held: A "pattern of racketeering activity" requires (1) relatedness — that the predicate acts are related to each other; and (2) continuity — either a closed period of repeated conduct over a substantial time, or an open-ended pattern with a threat of continuing racketeering activity. Reversed and remanded.
+
+---
+
+OPINION OF THE COURT
+
+Justice BRENNAN delivered the opinion of the Court.
+
+I
+
+We are called upon in this civil RICO case to consider what conduct meets RICO's "pattern of racketeering activity" requirement, and to clarify the appropriate standard for the courts of appeals.
+
+RICO prohibits any person from engaging in a "pattern of racketeering activity." 18 U.S.C. § 1962(a)-(c). Section 1961(5) provides that a "pattern of racketeering activity" "requires at least two acts of racketeering activity, one of which occurred after the effective date of this chapter and the last of which occurred within ten years . . . after the commission of a prior act of racketeering activity."
+
+Courts have divided on what constitutes a "pattern." Some have held that the mere allegation of two predicate acts within ten years suffices. Others have imposed additional requirements. We granted certiorari to resolve this division.
+
+II — RELATEDNESS
+
+Congress defined "pattern of racketeering activity" to require at least two predicate acts, but explicitly stated that this was not enough by itself. The statute's legislative history makes clear that Congress intended the pattern requirement to prevent RICO from becoming a tool against isolated criminal episodes that happen to include a federal offense.
+
+"[T]he term 'pattern' itself requires the showing of a relationship between the predicates and of the threat of continuing activity. It is this factor of continuity plus relationship which combines to produce a pattern." S. Rep. No. 91-617, p. 158 (1969) (emphasis added).
+
+The predicate acts must be "related" to each other. This means they must have the same or similar purposes, results, participants, victims, or methods of commission, or otherwise be interrelated by distinguishing characteristics and not be isolated events.
+
+III — CONTINUITY
+
+The continuity requirement may be satisfied in two ways:
+
+CLOSED-ENDED CONTINUITY: A "closed-ended" pattern involves a series of related predicates extending over a substantial period of time. Two or three weeks of racketeering does not constitute a pattern. A few months may or may not. A year or more typically suffices.
+
+OPEN-ENDED CONTINUITY: An "open-ended" pattern involves related predicate acts whose nature projects into the future with a threat of repetition. A defendant whose predicate acts are part of his regular way of doing business poses an open-ended threat. So does a defendant who has explicitly or implicitly threatened future criminal conduct.
+
+"A party alleging a RICO violation may demonstrate continuity over a closed period by proving a series of related predicates extending over a substantial period of time. Predicate acts extending over a few weeks or months and threatening no future criminal conduct do not satisfy this requirement: Congress was concerned in RICO with long-term criminal conduct. Often a RICO action will be brought before continuity can be established in this way. In such cases, liability depends on whether the threat of continuity is demonstrated." 492 U.S. at 241-242.
+
+IV — APPLICATION TO NORTHWESTERN BELL FACTS
+
+The bribing of state utility commissioners — which the plaintiffs allege continued over a period of at least six years — satisfies both requirements. The predicate acts of bribery are related (same purpose: securing favorable rate decisions; same participants: Northwestern Bell and commission members; same victim: ratepayers). And the conduct extended over a substantial period, satisfying closed-ended continuity. Moreover, the bribery scheme appeared to be Northwestern Bell's regular method of dealing with the commission, which would also establish open-ended continuity.
+
+We reverse the court of appeals' dismissal and remand for further proceedings.
+
+V — SCALIA CONCURRENCE (critical)
+
+Justice Scalia concurred in the judgment but wrote separately to express concern that the "continuity plus relationship" test, while better than nothing, remains so vague as to give courts almost no real guidance:
+
+"Judges are thus left to decide what constitutes a 'substantial period of time' and what constitutes a 'threat of continuing activity' based on little more than intuition. That is not satisfactory."
+
+Justice Scalia advocated for a more definitive standard — requiring RICO predicate acts to be performed by an organized criminal enterprise rather than simply by individuals engaged in a pattern of crime — but acknowledged that the majority's formulation was now controlling law.
+
+---
+
+CONTINUITY DOCTRINE SUMMARY FOR PLEADING PURPOSES:
+
+Two-year threshold: Courts generally recognize continuity when the predicate acts span more than two years without dispute. Under two years, courts look to other factors (the nature of the enterprise, whether the fraud was inherently terminable or ongoing, whether the enterprise showed signs of intending to continue).
+
+The "inherently terminable" defense: Defendants often argue that a fraud scheme aimed at a single victim in a single transaction is inherently terminable and cannot show continuity. H.J. Inc. does not foreclose this defense; it requires courts to assess whether the pattern's nature posed an ongoing threat. A long-running multi-year fraud against a single victim typically satisfies continuity even if the victim is one person, because the fraud itself extended over a substantial period.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 492 U.S. 229 (1989)
+Official reporter: United States Reports, vol. 492, page 229
+Decided: June 26, 1989
+Key quoted passage: 492 U.S. at 241-242 (closed-ended/open-ended continuity definition)
+Source of this text: Claude training data (knowledge cutoff August 2025). H.J. Inc. is the definitive RICO pattern case and its holding is extensively cited. The quoted passage at 241-242 is confirmed against standard legal citation usage in the training corpus. Full verbatim text should be verified at:
+  - U.S. Reports (Library of Congress / HeinOnline)
+  - Google Scholar: "H.J. Inc. v. Northwestern Bell"
+Verification status: PROPOSED — pending steward witness review

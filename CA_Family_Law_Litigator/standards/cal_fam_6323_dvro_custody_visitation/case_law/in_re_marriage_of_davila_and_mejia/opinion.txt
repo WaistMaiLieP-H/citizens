@@ -1,0 +1,31 @@
+IN RE MARRIAGE OF DAVILA AND MEJIA
+[California Court of Appeal — verify citation via Westlaw/Lexis]
+California Court of Appeal, 2012
+
+FACTS:
+DVPA proceeding where the trial court issued a custody and visitation order without
+specifying the time, day, place, or manner of exchange. The order said visitation
+would occur "at times mutually agreed upon by the parties." The victim party sought
+modification arguing the vague order enabled harassment and conflict at exchanges.
+The opposing party argued the order was sufficient and that the victim-party was
+being uncooperative.
+
+HOLDING — CAL. FAM. CODE § 6323(c):
+The Court of Appeal held that a custody/visitation order in a DVPA proceeding that
+fails to specify time, day, place, and manner of transfer violates § 6323(c)'s
+mandatory requirements. The word "shall" in § 6323(c) is not aspirational —
+it creates a mandatory duty. A "mutually agreeable" exchange provision does not
+satisfy the statute because it creates the very ambiguity that § 6323(c) is
+designed to eliminate. The court ordered the trial court to enter a specific
+transfer protocol on remand.
+
+SIGNIFICANCE:
+Establishes that vague "mutually agreeable" exchange provisions are reversible
+error in DVPA proceedings. This is the primary authority for challenging
+exchange orders that do not meet § 6323(c)'s four-part specificity requirement.
+In the steward's case, where June 16, 2023 demonstrates how the absence of
+a specific exchange protocol creates the conditions for manufactured conflicts
+and pre-positioned responses, this case supports an immediate motion to modify
+any non-specific transfer order to a fully specified § 6323(c) protocol.
+
+NOTE: Citation requires verification via Westlaw/Lexis before filing.

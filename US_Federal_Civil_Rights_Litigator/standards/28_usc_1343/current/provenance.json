@@ -1,0 +1,11 @@
+{
+  "standard_id": "28_USC_1343",
+  "source_url_primary": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1343&num=0&edition=prelim",
+  "fetch_timestamp_utc": "2026-04-09T00:30:00Z",
+  "fetch_tool": "WebFetch (Claude Code)",
+  "retrieval_steward": "Claude (assistant) under steward direction — Michael Hartmann",
+  "text_file": "28_usc_1343_text.txt",
+  "text_sha256": "84352af52d3415cc7648dcde8d5c5c1a1a76be957e4344873962ba932def5168",
+  "edition": "prelim (current as of 2026-04-09)",
+  "notes": "Title 28 HAS been enacted into positive law (1948). This text IS the law, not merely evidence of it. Last amendment: Pub. L. 96-170 (1979, same act that amended §1983 for DC coverage)."
+}

@@ -1,0 +1,17 @@
+{
+  "stage": "01_origin_1982",
+  "enactment": "False Identification Crime Control Act of 1982",
+  "public_law": "Pub. L. 97-398",
+  "statutes_at_large": "96 Stat. 2009",
+  "effective_date": "1982-12-31",
+  "signing_president": "Ronald Reagan",
+  "legislative_session": "97th Congress",
+  "primary_source_citations": [
+    "Pub. L. 97-398 (1982)",
+    "96 Stat. 2009",
+    "18 USC §1028 (original enactment)"
+  ],
+  "doctrinal_framework": "Document-centric: protected identification documents defined by governmental issuer; prohibited producing, transferring, and possessing with intent",
+  "verification_status": "PENDING primary-source PDF capture from uscode.house.gov and govinfo.gov",
+  "retrieval_steward": "Claude (assistant) under direction of Michael Hartmann"
+}

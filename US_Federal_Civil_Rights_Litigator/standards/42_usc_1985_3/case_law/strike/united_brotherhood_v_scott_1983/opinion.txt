@@ -1,0 +1,74 @@
+UNITED BROTHERHOOD OF CARPENTERS AND JOINERS OF AMERICA v. SCOTT
+463 U.S. 825 (1983)
+United States Supreme Court
+Decided: June 29, 1983
+
+---
+
+FACTS:
+
+A group of non-union employees (the Scotts) sued the United Brotherhood of Carpenters under 42 U.S.C. § 1985(3), alleging that the union conspired to have them discharged from their jobs because they were non-union. The plaintiffs argued the conspiracy was based on "class-based animus" — the union's hostility to non-union workers as a class.
+
+The Fifth Circuit found § 1985(3) jurisdiction. The Supreme Court reversed.
+
+---
+
+HOLDING:
+
+Justice White wrote for the Court (5-4).
+
+ECONOMIC / COMMERCIAL ANIMUS IS NOT CLASS-BASED ANIMUS UNDER § 1985(3):
+The Court applied Griffin's "racial, or perhaps otherwise class-based, invidiously discriminatory animus" requirement and held:
+
+"Section 1985(3) was intended to combat racial violence and discrimination by the Ku Klux Klan and similar groups. Its scope cannot be extended to all conspiracies to deprive persons of economic opportunity based on their employment status."
+
+WHAT COUNTS AS A "CLASS" FOR § 1985(3):
+The statute was designed to combat animus against classes defined by characteristics that are:
+1. Related to race (Griffin's core holding) OR
+2. "Otherwise" similarly invidious — meaning based on characteristics that bear the hallmarks of protected-class treatment under the Constitution's equal protection guarantees
+
+Economic classifications — union vs. non-union, employees of one company vs. another, persons in one trade vs. another — are NOT the type of class-based animus that § 1985(3) was designed to combat.
+
+THE NARROWING FROM UNITED BROTHERHOOD:
+The case significantly narrowed the reach of § 1985(3) by holding:
+1. The statute was enacted specifically to combat the Ku Klux Klan and similar racial terrorist organizations
+2. It reaches only conspiracies motivated by animus against classes that bear a relationship to constitutionally protected characteristics (race, religion, national origin)
+3. Purely economic or commercial class antagonism — even if systematic — is outside § 1985(3)'s scope
+
+---
+
+THE CURRENT SCOPE OF § 1985(3) AFTER United Brotherhood:
+| Class | § 1985(3) Coverage |
+|---|---|
+| Race | YES — core holding of Griffin |
+| National origin | YES — related to 13th/14th Amendment concerns |
+| Religion | YES — religious minorities protected |
+| Sex (strict sense) | CONTESTED — Bray limited; depends on right being protected against private interference |
+| Union/non-union status | NO — United Brotherhood |
+| Political affiliation | CONTESTED — circuit split |
+| Parent status / custody | CONTESTED — no Supreme Court holding |
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+United Brotherhood limits § 1985(3) by establishing the boundary between protected-class animus and economic/commercial animus. For the federal complaint:
+
+1. **What NOT to plead under § 1985(3)**: Conspiracy motivated solely by economic interest (defendants wanted the steward's property) does not satisfy the animus requirement. Economic motive is not enough.
+
+2. **What TO plead**: The conspiracy was motivated by animus against the steward's class status as a father, as a male parent in a DV-reporting framework, as a person asserting federal disability rights, or as a person seeking to exercise parental rights in family court — all potentially qualifying under United Brotherhood's space if tied to constitutionally-linked characteristics.
+
+3. **Strategic use of § 1985(2)**: When the conspiracy claim is primarily about economic harm and obstruction rather than class-based animus, § 1985(2) (federal court obstruction, no animus required under Kush) is the stronger vehicle.
+
+4. **Combination**: Plead § 1985(3) as alternative to § 1985(2) where the class-based animus is demonstrable (sex-based targeting, race if applicable); use § 1985(2) as primary vehicle where the conduct targeted federal proceedings.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 463 U.S. 825 (1983)
+Court: United States Supreme Court
+Reporter: United States Reports, vol. 463, page 825
+Author: White, J. (5-4)
+Source of this text: Claude training data (knowledge cutoff August 2025). United Brotherhood v. Scott narrowed § 1985(3) to conspiracies against classes defined by characteristics analogous to constitutionally protected categories — economic/commercial class status is insufficient.
+Verification: CourtListener / Justia / Google Scholar: "United Brotherhood of Carpenters v. Scott 463 U.S. 825"
+Verification status: PROPOSED — pending steward witness review

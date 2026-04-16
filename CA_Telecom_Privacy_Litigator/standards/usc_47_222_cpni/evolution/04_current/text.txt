@@ -1,0 +1,19 @@
+Pointer to current/ directory.
+
+The current text of 47 U.S.C. § 222 is in:
+../../../current/text.txt
+
+The regulatory implementation (47 C.F.R. Part 64, Subpart U) is current as of 2024 FCC Second R&O.
+
+The chain closes here:
+1996 (general CPNI duty, Telecom Act) → 2007 (FCC authentication rules for CPNI disclosure) → 2024 (explicit SIM swap authentication rules) → current.
+
+Current operative framework for SIM swap litigation:
+- § 222(a): general duty to protect CPNI confidentiality
+- § 222(c)(1): prohibition on use/disclosure/access to CPNI without customer approval
+- § 222(c)(2): customer's right to access their own CPNI on request
+- 47 C.F.R. § 64.2010: authentication requirements (2007 rules + 2024 SIM swap additions)
+- 47 C.F.R. § 64.2011: notification requirements (including 2024 pre-SIM-swap notification requirement)
+- FCC enforcement: § 208 complaint (to FCC) prerequisite to § 207 civil action in federal district court
+
+Private right of action: 47 U.S.C. § 207 — any person claiming violation of FCC rules may bring suit in federal district court for damages and injunctive relief. FCC complaint first required under § 208.

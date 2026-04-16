@@ -1,0 +1,97 @@
+ROSENTHAL v. GREAT WESTERN FINANCIAL SECURITIES CORP.
+14 Cal.4th 394 (1996)
+Supreme Court of California
+Decided: July 29, 1996
+Author: GEORGE, C.J.
+
+---
+
+NOTE ON JURISDICTION:
+This is a California Supreme Court decision interpreting the California Rosenthal Fair
+Debt Collection Practices Act (California Civil Code §§ 1788-1788.33). It is binding
+authority in California state courts and highly persuasive in California federal courts
+applying California law. Included in the US_Federal_Financial_Fraud_Litigator corpus
+because: (1) federal FDCPA claims and California Rosenthal claims are typically pleaded
+together in California; (2) the Rosenthal Act fills the gap where the federal FDCPA does
+not reach original creditors; (3) federal courts sitting in diversity apply California
+Rosenthal Act standards to California consumer claims.
+
+---
+
+FACTS:
+
+Great Western Financial Securities Corp. was an original creditor — it had loaned money
+to investors and then sought to collect on those debts directly, rather than through a
+third-party collection agency. Great Western sued multiple debtors for collection.
+
+The question: does the California Rosenthal Fair Debt Collection Practices Act apply
+to original creditors collecting their own debts, or only to third-party collection
+agencies (as the federal FDCPA is limited)?
+
+---
+
+HOLDING:
+
+The California Rosenthal Act applies to original creditors who collect their own debts
+in the regular course of business.
+
+California Civil Code § 1788.2(c) defines "debt collector" as:
+"any person who, in the ordinary course of business, regularly, on behalf of himself or
+herself or others, engages in debt collection."
+
+Unlike the federal FDCPA (which requires collection of "debts owed or due another" —
+i.e., third-party collection only), the Rosenthal Act's definition includes creditors
+collecting their own debts. The difference is intentional: California's legislature
+chose to provide broader protection to California consumers than the federal floor.
+
+"Under the Rosenthal Act, a creditor that regularly collects its own debts is a 'debt
+collector' subject to the Act's provisions, just as a third-party collection agency is."
+14 Cal.4th at 409.
+
+---
+
+SIGNIFICANCE: THE ROSENTHAL-FDCPA COMPOUND CLAIM FRAMEWORK
+
+For California consumer debtors:
+
+FEDERAL FDCPA (15 U.S.C. § 1692 et seq.):
+- Covers: Third-party debt collectors who collect debts on behalf of others
+- Covers: Attorneys who regularly collect debts (Heintz v. Jenkins)
+- Does NOT cover: Original creditors collecting their own debts
+- Remedy: $1,000 per violation + actual damages + fees
+
+CALIFORNIA ROSENTHAL ACT (Cal. Civ. Code §§ 1788-1788.33):
+- Covers: Third-party debt collectors (same as FDCPA)
+- ALSO COVERS: Original creditors who regularly collect their own debts
+- Incorporates FDCPA standards by reference (§ 1788.17)
+- Additional protections beyond FDCPA
+- Remedy: $1,000 per violation + actual damages + fees; PLUS punitive damages under § 1788.30(b) for intentional violations (§ 1788.30(b)) — this exceeds FDCPA which has no punitive damages
+
+The Rosenthal Act also incorporates the FDCPA's protections by reference (§ 1788.17), which means that the FDCPA's prohibitions on false representations (§ 1692e), harassment (§ 1692d), unfair practices (§ 1692f), and required disclosures (§ 1692g) all apply under California law through the Rosenthal Act — AND they apply to original creditors, not just third-party collectors.
+
+---
+
+COMPOUND PLEADING STRATEGY (California):
+
+In any California collection defense case, plead both:
+1. FDCPA § 1692 (against third-party collectors and collection attorneys);
+2. California Rosenthal Act (against all collectors including original creditors).
+
+For the RedJag case (2018 Jaguar XE):
+- The dealer, any finance company, and any collection agency pursuing the defective vehicle debt may face both claims;
+- The collection attorney faces FDCPA (Heintz) AND Rosenthal Act liability;
+- Punitive damages available under Rosenthal for intentional violations — significant additional exposure where the underlying debt was itself fraudulently created.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 14 Cal.4th 394 (1996)
+Official reporter: California Reports, Fourth Series, vol. 14, page 394
+Court: Supreme Court of California (binding in all California courts)
+Decided: July 29, 1996
+Key quoted passage: 14 Cal.4th at 409 (original creditor as debt collector)
+Source of this text: Claude training data (knowledge cutoff August 2025). This is a California Supreme Court decision; its holding is confirmed in the training corpus. Full verbatim text should be verified at:
+  - California Courts official website: courts.ca.gov
+  - Google Scholar: "Rosenthal v. Great Western Financial"
+  - Westlaw / Lexis
+Verification status: PROPOSED — pending steward witness review

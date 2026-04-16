@@ -1,0 +1,31 @@
+{
+  "standard_id": "CCP_425_13_PUNITIVE_GATE",
+  "cross_references": [
+    {
+      "id": "CIV_3333_2_MICRA_CAP",
+      "path": "${citizens}/CA_Medical_Malpractice_Litigator/standards/civ_3333_2/",
+      "relationship": "MICRA_LATTICE — §3333.2 caps noneconomic damages but does NOT cap punitive damages. A plaintiff who clears §425.13 and proves §3294 malice/oppression/fraud can recover punitive damages on top of the capped noneconomic award. The Hrimnak escape removes both the §3333.2 cap AND the §425.13 gate simultaneously for true intentional tort claims.",
+      "direction": "lattice"
+    },
+    {
+      "id": "BP_2234_MEDICAL_BOARD",
+      "path": "${citizens}/CA_Medical_Malpractice_Litigator/standards/bp_2234_medical_board/",
+      "relationship": "PARALLEL_TRACK — Prior Medical Board discipline or pending Board complaint is evidence supporting the §425.13 motion (pattern of conscious disregard). File Board complaint early to generate discoverable record.",
+      "direction": "evidence_source"
+    },
+    {
+      "id": "CIV_3333_1_COLLATERAL_SOURCE",
+      "path": "${citizens}/CA_Medical_Malpractice_Litigator/standards/civ_3333_1/",
+      "relationship": "LATTICE — §3333.1 collateral source rule and §425.13 punitive gate both affect the damages calculation. Punitive damages are separate from compensatory damages; §3333.1 affects the compensatory side, not punitive.",
+      "direction": "lattice"
+    },
+    {
+      "id": "SIRVA_DOCTRINE",
+      "path": "${citizens}/CA_Medical_Malpractice_Litigator/standards/sirva_doctrine/",
+      "relationship": "APPLICATION — SIRVA case: §425.13 applies if claim is professional negligence framing. Evidence for motion: Walgreens' training records + prior SIRVA complaints at that location + injector's technique documentation.",
+      "direction": "application"
+    }
+  ],
+  "path_anchor": "${citizens}",
+  "build_date": "2026-04-11"
+}

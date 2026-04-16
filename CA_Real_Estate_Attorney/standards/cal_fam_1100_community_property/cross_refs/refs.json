@@ -1,0 +1,70 @@
+{
+  "standard": "cal_fam_1100_community_property",
+  "description": "Statutes, rules, and cases that interact with Family Code § 1100 in community property and real estate disputes.",
+  "domain_note": "Fam. Code § 1100 is a community-property management statute. Its primary home is CA_Real_Estate_Attorney (for real-estate community-property litigation). CA_Family_Law_Litigator does NOT currently build this statute (its build queue is focused on DVPA and custody statutes: Fam. §§ 6203, 6320, 6321, 6323, 3011, 3020, 3046, 3164). If CA_Family_Law_Litigator later wants to build § 1100, it should cross-reference to this canonical location.",
+  "refs": [
+    {
+      "type": "companion_statute",
+      "target": "California Family Code § 721 (spousal fiduciary duty general rule)",
+      "relationship": "§ 721 establishes the general spousal fiduciary duty, which § 1100(e) invokes by reference. The two must be read together.",
+      "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_fam_721 (to be built)"
+    },
+    {
+      "type": "paired_remedy_statute",
+      "target": "California Family Code § 1101 (spousal claim for breach of fiduciary duty)",
+      "relationship": "§ 1101 provides the remedy structure for § 1100(e) breaches: (g) 50% of value + attorney's fees for ordinary breach; (h) 100% of value for breaches constituting fraud/oppression/malice under Civ. Code § 3294. Every § 1100(e) claim must be paired with § 1101.",
+      "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_fam_1101 (to be built)"
+    },
+    {
+      "type": "companion_statute",
+      "target": "California Family Code § 1102 (community real property)",
+      "relationship": "§ 1100 governs community PERSONAL property. § 1102 governs community REAL property and requires BOTH spouses' written consent for any conveyance or encumbrance. For a house-sale case, § 1102 is the first statute to check; § 1100 applies to household furnishings and other personalty.",
+      "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_fam_1102 (to be built)"
+    },
+    {
+      "type": "characterization_statute",
+      "target": "California Family Code § 760 (community property presumption)",
+      "relationship": "§ 760 establishes the presumption that property acquired during marriage is community property. This presumption is the first step in any § 1100 analysis — characterize the property, then apply the management rules.",
+      "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_fam_760 (to be built)"
+    },
+    {
+      "type": "characterization_statute",
+      "target": "California Family Code § 2581 (joint title presumption at dissolution)",
+      "relationship": "§ 2581 codifies the Lucas rule: jointly-titled property is presumed community, rebuttable only by written agreement. Relevant at dissolution for property division.",
+      "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_fam_2581 (to be built)"
+    },
+    {
+      "type": "reimbursement_statute",
+      "target": "California Family Code § 2640 (reimbursement for separate property contributions)",
+      "relationship": "§ 2640 provides reimbursement (not ownership) for separate property contributions to community property. Codifies the Lucas rule.",
+      "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_fam_2640 (to be built)"
+    },
+    {
+      "type": "punitive_damages_bridge",
+      "target": "California Civil Code § 3294 (punitive damages)",
+      "relationship": "§ 1101(h) explicitly incorporates Civ. Code § 3294's fraud/oppression/malice definitions. A breach of § 1100(e) that meets § 3294(c)(3) fraud gets the 100% remedy under § 1101(h).",
+      "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_civ_3294_punitive"
+    },
+    {
+      "type": "tort_fraud_bridge",
+      "target": "California Civil Code § 1572 (actual fraud)",
+      "relationship": "A spouse who concealed material facts about a community property transaction is liable under § 1100(e) (spousal claim) AND under § 1572 (tort claim). Third parties who participated in the concealment are liable under § 1572 only. Both statutes should be pleaded.",
+      "anchor": "${citizens}/CA_Real_Estate_Attorney/standards/cal_civ_1572_fraud"
+    },
+    {
+      "type": "primary_case_chain",
+      "cases_in_this_standard": [
+        "in_re_marriage_lucas_1980",
+        "in_re_marriage_rossin_2009",
+        "in_re_marriage_walker_2012"
+      ],
+      "cases_to_add": [
+        "vai_v_bank_of_america_1961",
+        "in_re_marriage_feldman_2007",
+        "in_re_marriage_margulis_2011"
+      ]
+    }
+  ],
+  "generated_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "generated_at_utc": "2026-04-10T21:45:00Z"
+}

@@ -1,0 +1,12 @@
+IN RE MARRIAGE OF EVILSIZOR AND SWEENEY
+(2015) 237 Cal.App.4th 1416
+Court of Appeal, First Appellate District, 2015
+
+FACTS:
+Contested custody proceedings in which one party used electronically obtained private communications to support a DVRO and custody claim. The court addressed the intersection of DV protective order law and the custody mediation process, including what obligations FCS has when a DV case is before it.
+
+HOLDING — Cal. Rules of Court, Rule 5.215 / DVPA:
+While the primary holding in Evilsizor concerned admissibility of unlawfully obtained communications, the court's DV framework analysis reinforced that the DV protocols governing court-connected mediation are mandatory and that the DVPA's protective purposes cannot be circumvented by using the mediation process as a pressure mechanism. The court held that DV protective order proceedings and custody mediation proceedings must be maintained as separate tracks — protective order terms are for the court to set, not for FCS to negotiate or informally adjust.
+
+SIGNIFICANCE:
+In the Rule 5.215 context, Evilsizor is cited for the proposition that FCS proceedings cannot be used to informally modify or erode protective orders. The case reinforces Rule 5.215(d)(4)'s prohibition on negotiating restraining order terms. In the steward's cases, any FCS session in which the terms of an existing protective order were discussed as part of "working things out" is a Rule 5.215 violation under the Evilsizor framework. The First Appellate District jurisdiction covers Contra Costa and Alameda counties — directly applicable to the proceedings in the steward's case.

@@ -1,0 +1,47 @@
+{
+  "standard_id": "gov_12965_feha_civil_action",
+  "citizen": "CA_Labor_Employment_Litigator",
+  "layer": "cross_refs",
+  "generated": "2026-04-12",
+  "internal_refs": [
+    {
+      "id": "gov_12940_feha_employment",
+      "path": "${citizens}/CA_Labor_Employment_Litigator/standards/gov_12940_feha_employment",
+      "relationship": "\u00a712940 provides the substantive FEHA violations; \u00a712965 provides the exclusive procedural pathway to litigate them"
+    },
+    {
+      "id": "lab_132a_workers_comp_retaliation",
+      "path": "${citizens}/CA_Labor_Employment_Litigator/standards/lab_132a_workers_comp_retaliation",
+      "relationship": "\u00a7132a has independent 1-year WCAB SOL \u2014 runs concurrently with FEHA \u00a712965 pathway; must be monitored separately"
+    },
+    {
+      "id": "lab_1102_5_whistleblower",
+      "path": "${citizens}/CA_Labor_Employment_Litigator/standards/lab_1102_5_whistleblower",
+      "relationship": "\u00a71102.5 whistleblower has 3-year Superior Court SOL; no CRD exhaustion required \u2014 unlike FEHA \u00a712965"
+    }
+  ],
+  "external_refs": [
+    {
+      "id": "US_Federal_Civil_Rights_EEOC",
+      "path": "${citizens}/US_Federal_Civil_Rights_Litigator",
+      "relationship": "Concurrent EEOC filing under ADA/Title VII triggers \u00a712965(e)+(f) tolling of FEHA SOL \u2014 coordinate federal and state tracks"
+    },
+    {
+      "id": "CA_Civil_Litigator",
+      "path": "${citizens}/CA_Civil_Litigator",
+      "relationship": "FEHA civil action in Superior Court \u2014 discovery, pleading, summary judgment standards governed by CCP; coordinate with civil litigation framework"
+    }
+  ],
+  "case_law": [
+    {
+      "citation": "City of Moorpark v. Superior Court, 18 Cal.4th 1143 (1998)",
+      "holding": "FEHA civil actions may recover full back pay, front pay, emotional distress, and punitive damages; not limited to contract damages",
+      "significance": "Confirmed full damages available in \u00a712965 civil actions"
+    },
+    {
+      "citation": "Romano v. Rockwell International, Inc., 14 Cal.4th 479 (1996)",
+      "holding": "\u00a712965 right-to-sue SOL is subject to equitable tolling; discovery rule applies where discriminatory act was concealed",
+      "significance": "Established equitable tolling for concealed discrimination \u2014 critical for identity replacement cases where false designation was not disclosed to worker"
+    }
+  ]
+}

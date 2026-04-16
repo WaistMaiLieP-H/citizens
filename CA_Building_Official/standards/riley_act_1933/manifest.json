@@ -1,0 +1,166 @@
+{
+  "standard_id": "CA_RILEY_ACT_1933",
+  "version": "0.2.0-proposed-evolution-bridged",
+  "filed_at_utc": "2026-04-08T06:55:00Z",
+  "evolution_bridged_at_utc": "2026-04-08T08:30:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "PROPOSED-EVOLUTION-BRIDGED — first-mouth complete; awaiting second-mouth countersignature. As of 2026-04-08T08:30Z, the FIRST TWO amendments to the Riley Act are now primary-source-captured: 1935 Ch. 65 (agricultural building exemption — adds the agricultural exclusion that secondary sources reference) and 1935 Ch. 343 (refines the wind-load formula by building height: 20 psf above 60 ft, 15 psf at or below 60 ft). The 1935-to-current Cal. Building Code chain remains unmapped.",
+
+  "primary_citation": {
+    "jurisdiction": "California",
+    "session": "Fiftieth Session, California Legislature (1933)",
+    "chapter": 601,
+    "official_title_verbatim_from_chaptered_text": "An act to regulate the construction of buildings in the State of California, in respect to resistance to horizontal forces, providing penalties for the violation thereof and providing that this act become effective immediately.",
+    "popular_name": "Riley Act",
+    "approval_date": "1933-05-26",
+    "approval_governor": "James 'Sunny Jim' Rolph",
+    "in_effect": "immediately upon approval (urgency act)",
+    "primary_source_text_location": "origin/1933_Vol1_Chapters.pdf (Statutes of California 1933, printed pages 1531–1533; PDF pages 1532–1534) — file is symlinked to the same shared 1933 Statutes Volume 1 Chapters PDF used by the Field Act standard"
+  },
+
+  "relationship_to_field_act": {
+    "ordering": "SUCCESSOR (not predecessor) — the Riley Act was approved May 26, 1933; the Field Act was approved April 10, 1933. The Riley Act is six weeks LATER than the Field Act.",
+    "shared_triggering_event": "1933 Long Beach earthquake (March 10, 1933)",
+    "complementary_scopes": "The Field Act (Chapter 59) was the urgency response covering public school buildings only, passed within one month of the earthquake. The Riley Act (Chapter 601) was the broader follow-up covering ALL buildings statewide, passed approximately 11 weeks after the earthquake.",
+    "correction_note": "An earlier draft of the Field Act manifest incorrectly listed the Riley Act as a 'predecessor' to the Field Act. This was an unverified claim drawn from a secondary-source paraphrase. Primary-source examination of the chapter approval dates corrects the ordering: Field Act first (April 10), Riley Act second (May 26)."
+  },
+
+  "bill_origin": {
+    "bill_number": "TBD — not yet located in primary source; AB number must be confirmed against California State Archives or contemporaneous legislative record",
+    "namesake": "Harry B. Riley — per secondary sources, a lithographer (publication printer) who lived on Elm Street in Long Beach. His exact legislative role (sponsor, author, beneficiary of namesake) requires primary-source confirmation.",
+    "approved_by_governor": "1933-05-26",
+    "elapsed_time_from_triggering_event_to_enactment": "77 days (vs. Field Act's 31 days)"
+  },
+
+  "structure_of_original_act": {
+    "section_count": 8,
+    "page_count_in_original_statute": 3,
+    "section_outline": [
+      "Section 1 — Building requirements / Resistance to horizontal forces: Every building of any character constructed anywhere in the State of California (with limited exceptions) shall be designed and constructed to resist horizontal forces from any direction of not less than EITHER (a) two (2) per cent of the total vertical design load, OR (b) twenty (20) pounds per square foot wind pressure on the vertical projection of the exposed surface, whichever produces the greater stresses.",
+      "Section 2 — Computed stresses defined: For computing resistance, computed stresses shall not exceed one and one-third (1⅓) times the allowable working stresses defined in Section 3.",
+      "Section 3 — Allowable working stresses: Allowable working stresses shall be those specified in the ordinances governing the erection and construction of buildings in the city and county where the work is to be done, and if the work is in unincorporated territory then those of the county in which the work is done. If no ordinance is in effect at the place where the work is done, then those allowable working stresses specified by the Division of Architecture of the State Department of Public Works.",
+      "Section 4 — Buildings exempted: (a) Any building not intended primarily for occupancy by human beings and no part of which is located within the limits of an incorporated city or county; (b) Any building that does not exceed two families in size and is located within the limits of an incorporated city or county; (c) Any building on which work has actually been commenced prior to the effective date of this act.",
+      "Section 5 — Penalty: Any person who constructs a building not meeting the requirements of Section 1 of this act, and not exempted under Section 4, is guilty of a misdemeanor.",
+      "Section 6 — Enforcement / 'Building department' defined: The duty of enforcement vests in the building department of every incorporated city, incorporated city and county, and incorporated city or county. In every county that does not have a building department, the act vests enforcement in any officer or officers charged with the enforcement of laws or ordinances regulating the erection, construction, or alteration of buildings. 'Building department' is defined to mean any department, bureau, or officer charged with these duties.",
+      "Section 7 — No limitation on additional requirements: Nothing in this act shall be construed as a limitation on the powers of incorporated cities and counties to establish by ordinance further standards for the construction of buildings beyond the requirements of this act.",
+      "Section 8 — Urgency: This act is hereby declared to be an urgency measure necessary for the immediate preservation of the public peace, health, and safety within the meaning of Article IV § 1 of the Constitution and shall therefore go into immediate effect. The facts constituting the necessity recite the southern California earthquake series, the loss of life and damage to property, the seriously damaged buildings, and the need for replacement buildings to be properly constructed."
+    ],
+    "fidelity_note": "Many secondary sources describe the Section 1 requirement as '0.02g horizontal acceleration.' The actual statutory text uses force/load language: 'two (2) per cent of the total vertical design load' OR 'twenty (20) pounds per square foot wind pressure.' These are mathematically related but not the same phrasing. The corpus preserves the original statutory language as the authoritative form."
+  },
+
+  "agency_at_enactment": {
+    "primary_enforcement": "Local building departments (every incorporated city, county, and city-and-county); county officers in jurisdictions without a building department",
+    "technical_authority_default": "Division of Architecture, State Department of Public Works (used as the default-stress source when no local ordinance exists)",
+    "evolutionary_note": "The Riley Act delegated primary enforcement to LOCAL bodies, which is structurally different from the Field Act's STATE-level enforcement (Field Act vested authority directly in the Division of Architecture). This difference between state-level and local-level enforcement is itself a doctrine lesson worth recording."
+  },
+
+  "umbrellas": [
+    "Safety (Umbrella 5)",
+    "Substance / Specification (Umbrella 3)",
+    "Authority / Governing Law (Umbrella 1)"
+  ],
+
+  "owner_citizen": {
+    "primary": "California Certified Building Official (placeholder owner — canonical persona definition lives in citizens/catalog/manufacturing_construction_space_personas.md, persona section B3-001)",
+    "ownership_note": "Standard is filed under CA_Building_Official/ as the local-level enforcement officer who must apply this act. The Riley Act is structurally a building-official's standard, not a structural engineer's, because Section 6 vests enforcement in the building department rather than in the design professional."
+  },
+
+  "current_codification": {
+    "status": "PARTIALLY DOCUMENTED (improved 2026-04-08)",
+    "primary_modern_framework": "California Building Standards Code (CBSC), Title 24 of the California Code of Regulations, Parts 1-12. The CBSC's statutory authority lives in California Health & Safety Code §§ 18900 et seq., which establishes the California Building Standards Commission and gives it authority to adopt building standards including seismic resistance requirements that descend in lineage from the Riley Act.",
+    "key_modern_HSC_sections_fetched": {
+      "18901": "current/hsc_18901_leginfo.html",
+      "18902": "current/hsc_18902_leginfo.html",
+      "18909": "current/hsc_18909_leginfo.html",
+      "18935": "current/hsc_18935_leginfo.html",
+      "18941": "current/hsc_18941_leginfo.html",
+      "19100": "current/hsc_19100_leginfo.html",
+      "19161": "current/hsc_19161_leginfo.html"
+    },
+    "regulatory_implementation": "Title 24 California Code of Regulations Part 2 (California Building Code, CBC) — adopts and supplements the International Building Code with California-specific seismic provisions; Part 10 California Existing Building Code; Part 12 California Reference Standards Code. The CBC's seismic chapter (currently CBC Chapter 16) is the operational descendant of Riley Act § 1's horizontal-force requirements.",
+    "codification_chain_status": "PARTIAL — the 1935 Ch. 65 (ag building exemption) and 1935 Ch. 343 (wind-load formula refinement) amendments are primary-source captured. The 1935-to-CBSC (1953/1969 — multiple candidate transition years) chapter sequence is not yet primary-source-mapped. Statutory framework via H&S Code §§ 18900+ identified and key sections fetched as URL markers. The full chapter-by-chapter trace from 1935 Ch. 343 to current CBC Chapter 16 is outstanding work.",
+    "note": "The Riley Act was substantially absorbed over time by the California Building Standards Code (CBSC, current Title 24) and by local building codes adopting modern seismic standards. The CBSC was created by Stats. 1953 Ch. 1722 (creating the California State Building Standards Commission), which is itself outstanding work to primary-source-capture."
+  },
+
+  "triple_constraint_test_results": {
+    "governing_guidelines": {
+      "passes": true,
+      "evidence": "Statutes of California 1933 Chapter 601 located in primary source (California State Assembly Chief Clerk archive). Binding state authority confirmed."
+    },
+    "standards_of_creation": {
+      "passes": true,
+      "evidence": "Original act has 8 enumerated sections, internally consistent, properly chaptered, properly approved by Governor with date of effect, properly invokes urgency-act constitutional procedure."
+    },
+    "standard_of_care": {
+      "passes": "PARTIAL",
+      "origin_layer": "VERIFIED — primary source PDF (sha256: c6b006953f20a5ddbdf2d57228d44fef5b29b7a12064b1bdba26a516a9a9576b, shared with Field Act standard via symlink) locally accessible; per-page PNG renders of Chapter 601 (3 pages, individually hashed)",
+      "evolution_layer": "PARTIAL (improved 2026-04-08) — first two amendments primary-source captured: 1935 Ch. 65 (April 18, 1935 — agricultural building exemption added to Sec. 4) and 1935 Ch. 343 (June 13, 1935 — Sec. 1 horizontal force formula refined by building height: 20 psf above 60 ft, 15 psf at or below 60 ft). The 1935-to-CBSC chapter chain is not yet primary-source-mapped.",
+      "current_layer": "PARTIAL — California Building Standards Commission statutory framework at H&S Code §§ 18900+ identified; 7 key section URL markers fetched as integrity-tracked HTML; current CBC Title 24 Part 2 not yet fetched (Title 24 is administered by CBSC and not freely available on leginfo)"
+    }
+  },
+
+  "five_layer_bar_status": {
+    "rule": "PRESENT — verbatim from primary source page renders, all 8 sections of original 1933 Ch. 601 located, plus all amending sections of 1935 Ch. 65 and 1935 Ch. 343",
+    "reasoning": "PRESENT — Section 8 (urgency clause) of the original act contains the legislative reasoning verbatim. The two 1935 amendments do not have urgency clauses; their reasoning is implicit in the structural change: Ch. 65 acknowledges that agricultural buildings (livestock sheds, hay barns, grain storage, farm machinery housing) are not high-occupancy and warrant exemption; Ch. 343 acknowledges that wind-load varies meaningfully by building height and refines the formula.",
+    "historical_loss": "PRESENT — same 1933 Long Beach earthquake as Field Act; full event records held in shared context with the Field Act folder",
+    "cross_references": "EXPANDED 2026-04-08 — siblings now include: (1) CA_FIELD_ACT_1933 (Ch. 59, the prior earthquake-response statute from the same legislative session); (2) CA_1933_CHAPTER_602 / Public Buildings Reconstruction Fund (Ch. 602, same approval date as Riley Act, federal RFC funding for replacement of buildings destroyed by 1933 earthquakes — primary-source captured under related/1933_ch602_reconstruction_fund/); (3) intra-standard amendment evolution to 1935 Ch. 65 and 1935 Ch. 343",
+    "verifiable_provenance": "VERIFIED — origin primary source plus two evolution-layer primary sources locally stored or symlinked; 12 PNG renders + 7 leginfo HTML markers individually hashed"
+  },
+
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction (Michael Hartmann), 2026-04-07/08",
+    "second_mouth_witness": "NONE — not yet countersigned",
+    "publishable_to_corpus": false,
+    "status": "PROPOSED"
+  },
+
+  "files": {
+    "origin": [
+      "origin/1933_Vol1_Chapters.pdf (symlink to ../../../../CA_Structural_Engineer/standards/field_act_1933/origin/1933_Vol1_Chapters.pdf)",
+      "origin/chapter_pages/ch601_p1531_title_section_1.png",
+      "origin/chapter_pages/ch601_p1532_sections_2-6.png",
+      "origin/chapter_pages/ch601_p1533_sections_7-8_urgency.png"
+    ],
+    "evolution": [
+      "evolution/1935_ch65_agricultural_exemption/1935_Vol1_Chapters.pdf (symlink to shared 1935 Vol1 archive)",
+      "evolution/1935_ch65_agricultural_exemption/chapter_pages/ch65_p402-0357.png",
+      "evolution/1935_ch343_horizontal_force_refinement/chapter_pages/ch343_p1204-1159.png"
+    ],
+    "current": [
+      "current/hsc_18901_leginfo.html",
+      "current/hsc_18902_leginfo.html",
+      "current/hsc_18909_leginfo.html",
+      "current/hsc_18935_leginfo.html",
+      "current/hsc_18941_leginfo.html",
+      "current/hsc_19100_leginfo.html",
+      "current/hsc_19161_leginfo.html"
+    ],
+    "related": [
+      "related/1933_ch602_reconstruction_fund/chapter_pages/ch602_p1533-1534.png",
+      "related/1933_ch602_reconstruction_fund/chapter_pages/ch602_p1534-1535.png",
+      "related/1933_ch602_reconstruction_fund/chapter_pages/ch602_p1535-1536.png",
+      "related/1933_ch602_reconstruction_fund/chapter_pages/ch602_p1536-1537.png",
+      "related/1933_ch602_reconstruction_fund/chapter_pages/ch602_p1537-1538.png"
+    ],
+    "context": [],
+    "manifest": "manifest.json",
+    "provenance": "provenance.json"
+  },
+
+  "outstanding_work": [
+    "Confirm Harry B. Riley's actual legislative role and authorship via primary-source legislative record",
+    "Locate AB bill number for the Riley Act",
+    "Trace the chapter-by-chapter chain from 1935 Ch. 343 forward through (likely) Stats. 1953 Ch. 1722 (creation of CBSC) into modern Title 24 administration — large research task",
+    "Fetch and primary-source-render Stats. 1953 Ch. 1722 (the chapter creating the California Building Standards Commission) once located",
+    "Capture current CBC Title 24 Part 2 Chapter 16 (modern seismic provisions) as current/ artifact — note Title 24 is administered by CBSC and not freely available on leginfo, requires alternative source",
+    "Build cross-references to successor seismic-safety standards as the corpus grows",
+    "Obtain second-mouth countersignature before publication"
+  ],
+
+  "completed_in_2026_04_08_session": [
+    "Primary-source captured 1935 Ch. 65 (April 18, 1935) — adds the agricultural building exemption to Sec. 4 of the Riley Act. The full statutory text resolves the secondary-source claim about the agricultural exemption: subsection (d) of amended Sec. 4 reads 'Any building not intended primarily for occupancy by human beings and of which is located within the limits of an incorporated city or incorporated city and county, when such building is designed and constructed primarily for use in housing poultry, live stock, hay, grain or farming machinery and supplies.' Single-page chapter rendered.",
+    "Primary-source captured 1935 Ch. 343 (June 13, 1935) — refines the Sec. 1 horizontal-force formula by building height: '20 pounds per square foot on every portion thereof more than sixty (60) feet in height; fifteen (15) pounds per square foot on every portion thereof not more than sixty (60) feet in height.' Single-page chapter rendered.",
+    "Primary-source captured 1933 Ch. 602 (the third 1933 earthquake-related act about Public Buildings Reconstruction Fund using federal RFC money) — 5 pages rendered, 13 sections, filed under related/1933_ch602_reconstruction_fund/",
+    "Identified the modern California Building Standards Code statutory framework at H&S Code §§ 18900+ and fetched 7 key section URL markers as integrity-tracked artifacts"
+  ]
+}

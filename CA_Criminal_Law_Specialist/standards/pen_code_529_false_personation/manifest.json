@@ -1,0 +1,50 @@
+{
+  "standard_id": "PEN_529",
+  "version": "0.3.0-case-law-updated",
+  "filed_at_utc": "2026-04-11T01:15:00Z",
+  "filed_by": "Claude (assistant) under steward direction \u2014 Michael Hartmann",
+  "status": "WITNESSED-BY-HERALD \u2014 2026-04-12",
+  "primary_citation": {
+    "code": "California Penal Code",
+    "section": "\u00a7 529",
+    "popular_name": "False personation",
+    "jurisdiction": "California (state criminal)",
+    "location_in_code": "Penal Code, Part 1, Title 13, Chapter 8",
+    "original_enactment": "1872 Penal Code \u2014 one of the oldest still-operative PC sections; substantially stable since original enactment"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT \u2014 current text via MCP",
+    "reasoning": "PRESENT \u2014 three-category structure (bail, instruments, catchall) documented; relationship to \u00a7 530.5 explained",
+    "historical_loss": "PRESENT \u2014 1872 origin in 19th-century courtroom impersonation concerns; catchall as future-proofing",
+    "cross_references": "PRESENT \u2014 cross_refs/refs.json links to \u00a7\u00a7 530.5, 528, 532, 470-477, 118, civil parallels, cross-Citizens",
+    "verifiable_provenance": "PARTIAL \u2014 current text via MCP; 1872 original text pending"
+  },
+  "case_law": [
+    {
+      "slug": "people_v_cole_1994",
+      "citation": "People v. Cole (1994) 23 Cal.App.4th 1672",
+      "holding_summary": "CRITICAL: \u00a7 529(a)(3) catchall REVERSED for contemporaneous statements (reduced to \u00a7 148.9); contemporaneous false ID to police = \u00a7 148.9 misdemeanor, NOT \u00a7 529 felony",
+      "type": "interpretive",
+      "status": "VERIFIED",
+      "folder": "case_law/interpretive/people_v_cole_1994",
+      "verification_note": "CRITICAL CORRECTION confirmed in verification pass: Cole (1994) holds \u00a7 529(a)(3) does NOT cover contemporaneous false statements to police; \u00a7 148.9 applies instead."
+    },
+    {
+      "slug": "people_v_rathert_2000",
+      "citation": "People v. Rathert (2000) (citation in verification)",
+      "holding_summary": "\u00a7 529 elements; assuming another person's identity with intent to benefit or injure",
+      "type": "interpretive",
+      "status": "PROPOSED",
+      "folder": "case_law/interpretive/people_v_rathert_2000"
+    }
+  ],
+  "cases_to_add": [],
+  "citizen_relevance": "Relevant to synthetic identity investigation and UA342 employment identity replacement. Charge alongside \u00a7 530.5 when facts permit.",
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  },
+  "five_layer_score": "4 / 5"
+}

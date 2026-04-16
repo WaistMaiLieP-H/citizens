@@ -1,0 +1,30 @@
+Ingersoll-Rand Co. v. McClendon
+498 U.S. 133 (1990)
+United States Supreme Court
+
+JUSTICE O'CONNOR delivered the opinion of the Court.
+
+Respondent McClendon was employed by Ingersoll-Rand. He was terminated. He brought
+suit in Texas state court under a Texas common law tort theory — wrongful discharge
+to prevent vesting of pension benefits. The Texas Supreme Court affirmed a judgment
+for McClendon under state tort law.
+
+Ingersoll-Rand appealed, arguing ERISA §514 preempted the Texas tort claim because
+it "related to" an employee benefit plan.
+
+HELD: ERISA preempts the Texas common law wrongful discharge cause of action because:
+
+1. ERISA §514(a) preempts "any and all State laws insofar as they may now or hereafter
+   relate to any employee benefit plan"
+2. Texas's wrongful discharge tort theory specifically concerned the relationship
+   between the employer's conduct and the employee benefit plan
+3. ERISA §502(a) provides a comprehensive federal enforcement scheme that displaces
+   the state cause of action
+
+The Court further held that ERISA §502(a) itself creates a cause of action covering
+McClendon's claim — an employee may bring a federal claim under §502(a)(1)(B)
+or §502(a)(3) for interference with pension rights, even where state law is preempted.
+
+The preemption ruling is the primary ERISA §514 precedent: if a state law claim
+"relates to" an ERISA plan — even if the state created the claim specifically to fill
+a gap ERISA left — it is preempted. ERISA's federal scheme is exclusive.

@@ -1,0 +1,25 @@
+{
+  "standard_id": "USC_18_1347_FEDERAL_HEALTHCARE_FRAUD",
+  "refs_updated": "2026-04-12",
+  "cross_references": [
+    {
+      "target_standard": "PEN_550_INSURANCE_FRAUD",
+      "relationship": "state parallel \u2014 \u00a7550 applies to all CA-regulated insurers without interstate commerce requirement; \u00a71347 applies to health care benefit programs affecting commerce. Both apply to Blue Shield. Can be charged concurrently. Federal prosecution carries heavier penalties; state prosecution is faster and more accessible.",
+      "target_citizen": "CA_Healthcare_Fraud_Litigator",
+      "target_manifest": "${citizens}/CA_Healthcare_Fraud_Litigator/standards/pen_550_insurance_fraud/manifest.json",
+      "build_status": "BUILT \u2014 same Citizen"
+    },
+    {
+      "target_standard": "42_USC_1983",
+      "relationship": "civil rights companion \u2014 if Blue Shield is a Medicare Advantage contractor acting under color of federal program authority, and denial of benefits causes constitutional injury (e.g., denial of necessary care implicating liberty/property interest), \u00a71983 may reach the denial. Courts split on whether private Medicare Advantage contractors act 'under color of law.' This is a contingent cross-reference.",
+      "target_citizen": "US_Federal_Civil_Rights_Litigator",
+      "target_manifest": "${citizens}/US_Federal_Civil_Rights_Litigator/standards/42_usc_1983/manifest.json",
+      "build_status": "PUBLISHED \u2014 ADAM + EVE DUAL WITNESS 2026-04-12"
+    },
+    {
+      "target_standard": "USC_31_3729_FALSE_CLAIMS_ACT",
+      "relationship": "qui tam companion \u2014 if Blue Shield submitted false claims to CMS for Medicare Advantage capitation while denying covered services, FCA qui tam (31 U.S.C. \u00a73729) provides treble damages + relator share. Not yet built as standalone standard.",
+      "build_status": "NOT BUILT AS STANDALONE STANDARD \u2014 FCA not yet in corpus; cross-trigger documented here"
+    }
+  ]
+}

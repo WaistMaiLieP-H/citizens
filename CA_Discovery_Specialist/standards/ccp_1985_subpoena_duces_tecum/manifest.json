@@ -1,0 +1,33 @@
+{
+  "standard_id": "CA_CCP_1985_SDT",
+  "version": "1.0.0-proposed",
+  "filed_at_utc": "2026-04-12T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "status": "PROPOSED",
+  "primary_citation": {
+    "code": "California Code of Civil Procedure",
+    "section": "§ 1985 (and §§ 1985.3, 1985.6, 2020.410)",
+    "popular_name": "Subpoena Duces Tecum — Non-Party Records Production",
+    "jurisdiction": "California (state)",
+    "positive_law_status": "In force; §1985.3/1985.6 consumer/employee notice provisions operative"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current/text.txt contains §1985 and related sections",
+    "reasoning": "PRESENT — current/context.md documents SDT mechanics, consumer notice requirements, CMIA interaction, pension trust targeting",
+    "historical_loss": "PRESENT — historical_chain.md documents pre-notice consumer records problem, §§1985.3/1985.6 consumer protection response",
+    "cross_references": "PRESENT — cross_refs/refs.json links to §1985.3, §2020.410, CMIA §56.10",
+    "verifiable_provenance": "PARTIAL — current statutory text; 1985 origins pending"
+  },
+  "key_procedural_rules": {
+    "consumer_notice": "10 days advance notice to consumer before compliance date (§1985.3)",
+    "employee_notice": "10 days advance notice to employee before compliance date (§1985.6)",
+    "business_records_pathway": "§2020.410 deposition subpoena — custodian declaration without live testimony",
+    "cmia_interaction": "Medical records SDTs must also satisfy CMIA §56.10(b) compelled disclosure requirements"
+  },
+  "citizen_relevance": "Primary mechanism for obtaining OPD report logs, CMIA disclosure logs, pension Trust authorization records, and financial transaction histories without party cooperation. SDTs to medical providers for CMIA disclosure logs will reveal all third-party records accesses including any §56.10(c)(12) probate court investigator disclosures. SDTs to pension Trust will compel retirement election application and authorization records.",
+  "two_witness_status": {
+    "status": "PROPOSED",
+    "first_mouth": "Claude (assistant)",
+    "second_mouth": "PENDING — steward review required"
+  }
+}

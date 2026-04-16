@@ -1,0 +1,70 @@
+{
+  "path_anchors": {
+    "${citizens}": "~/citizens",
+    "${familylaw}": "~/FamilyLaw",
+    "${nonfamilylaw}": "~/NonFamilyLaw"
+  },
+  "citizen": "CA_Telecom_Privacy_Litigator",
+  "version": "1.0.0",
+  "filed_at_utc": "2026-04-11T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "purpose": "This citizen carries telecommunications privacy law, SIM swap fraud, unauthorized account takeover, and digital surveillance law for California and federal claims. It evaluates SIM swap fraud (AT&T, Verizon, T-Mobile), unauthorized device control, call interception, and related criminal and civil liability. Every assessment is bilateral — crimes committed against the steward and potential exposure of the steward.",
+  "blueprints_inherited": [
+    "Triple Constraint",
+    "Five-Layer Bar",
+    "Two-Witness Rule",
+    "Hash Chain + Anchor"
+  ],
+  "domain": "Telecommunications privacy, SIM swap fraud, CPNI, computer fraud, California privacy law",
+  "standards": [
+    "usc_47_222_cpni",
+    "cal_pen_502_computer_fraud",
+    "usc_18_1030_cfaa",
+    "cal_civ_1798_80_sim_swap"
+  ],
+  "case_bindings": [
+    {
+      "case_id": "Case_30",
+      "description": "SIM swap / clone — AT&T, Verizon, T-Mobile records",
+      "direction": "complainant",
+      "primary_standards": ["usc_47_222_cpni", "cal_civ_1798_80_sim_swap", "usc_18_1030_cfaa"]
+    },
+    {
+      "case_id": "Case_31",
+      "description": "Ryan McClaran — IT operator, digital surveillance",
+      "direction": "complainant",
+      "primary_standards": ["usc_18_1030_cfaa", "cal_pen_502_computer_fraud", "usc_47_222_cpni"]
+    },
+    {
+      "case_id": "Case_32",
+      "description": "Sextortion scam (Jan 2023)",
+      "direction": "complainant",
+      "primary_standards": ["usc_18_1030_cfaa", "cal_pen_502_computer_fraud"]
+    },
+    {
+      "case_id": "Case_33",
+      "description": "Device admin control / digital forensics",
+      "direction": "complainant",
+      "primary_standards": ["usc_18_1030_cfaa", "cal_pen_502_computer_fraud", "usc_47_222_cpni"]
+    }
+  ],
+  "cross_citizen_connections": [
+    {
+      "citizen": "CA_Criminal_Law_Specialist",
+      "connection": "§ 530.5 identity theft and § 529 false personation overlap with SIM swap fraud; SIM swap is a method of identity theft"
+    },
+    {
+      "citizen": "US_Federal_Financial_Fraud_Litigator",
+      "connection": "§ 1028 federal identity theft; § 1028A enhancement; CFAA civil RICO predicates for digital fraud"
+    },
+    {
+      "citizen": "US_Federal_Civil_Rights_Litigator",
+      "connection": "§ 1983 if state actor facilitated or enabled digital surveillance; First Amendment chilling effects from surveillance"
+    }
+  ],
+  "exclusions": [
+    "General cybersecurity law beyond telecom/SIM fraud scope — separate domain",
+    "California CCPA (consumer data privacy for businesses) — separate citizen",
+    "HIPAA telecommunications overlay — medical citizen handles"
+  ]
+}

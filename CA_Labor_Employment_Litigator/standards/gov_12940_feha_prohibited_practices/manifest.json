@@ -1,0 +1,70 @@
+{
+  "standard_id": "gov_12940_feha_prohibited_practices",
+  "title": "Gov. Code \u00a7 12940 \u2014 FEHA: Prohibited Employment Practices",
+  "citizen": "CA_Labor_Employment_Litigator",
+  "citation": "Cal. Gov. Code \u00a7 12940",
+  "jurisdiction": "California",
+  "version": "As amended through 2023",
+  "build_date": "2026-04-13",
+  "upgraded_date": "2026-04-15",
+  "build_state": "PUBLISHED",
+  "primary_cases": [
+    "#37 UA342 identity replacement (FEHA accommodation + discriminatory discharge + retaliation)",
+    "#2 Bilateral ankles (physical disability accommodation)",
+    "#20 SIRVA (medical condition accommodation)",
+    "ua342_apprenticeship_advancement_fraud (discriminatory advancement / refusal to promote disabled apprentice)"
+  ],
+  "layers_present": [
+    "current/rule.md",
+    "current/reasoning.md",
+    "current/statute_text.md",
+    "current/provenance.json",
+    "historical_chain/01_origin/context.md",
+    "historical_chain/witness_record.md",
+    "case_law/harris_v_forklift_systems_1993/holding.md",
+    "cross_refs/cross_refs.md"
+  ],
+  "layers": {
+    "rule": "COMPLETE",
+    "reasoning": "COMPLETE",
+    "statute_text": "COMPLETE",
+    "historical_chain": "COMPLETE",
+    "case_law": "COMPLETE",
+    "cross_refs": "COMPLETE"
+  },
+  "status": "PUBLISHED",
+  "supersedes": "gov_12940_feha_employment (older-cohort sibling; retained for provenance)",
+  "provenance": {
+    "source": "leginfo.legislature.ca.gov",
+    "tool": "mcp__claude_ai_VernenLegal__california_get_section",
+    "fetch_date": "2026-04-13",
+    "verified": true,
+    "statute_sha256": "bb1d9bb72d99b8f622d8957cf15bedc6dc8106642a999a90558bc909e1d982f0"
+  },
+  "verified": true,
+  "content_hash": "bcff5379",
+  "two_witness_status": {
+    "herald_witness": "WITNESSED-BY-HERALD \u2014 2026-04-15",
+    "adam_witness": {
+      "governing_guidelines": "PASS",
+      "standards_of_creation": "PASS",
+      "soc": "PASS",
+      "signal": "APPROVE",
+      "hash": "bcff5379",
+      "date": "2026-04-15"
+    },
+    "eve_witness": {
+      "layer_1_rule": "PASS",
+      "layer_2_reasoning": "PASS",
+      "layer_3_historical_loss": "PASS",
+      "layer_4_cross_references": "PASS",
+      "layer_5_verifiable_provenance": "PASS",
+      "triple_constraint": "PASS",
+      "signal": "COUNTERSIGN",
+      "hash_recomputed": "bcff5379",
+      "date": "2026-04-15"
+    },
+    "publication_status": "PUBLISHED \u2014 ADAM APPROVE + EVE COUNTERSIGN + HERALD WITNESS \u2014 2026-04-15"
+  },
+  "witness": { "ADAM": "APPROVE", "EVE": "COUNTERSIGN", "HERALD": "WITNESSED" }
+}

@@ -1,0 +1,15 @@
+{
+  "stage": "01_origin_1975",
+  "enactment": "Stats. 1975, 2d Extraordinary Session, Ch. 1, §25.4",
+  "bill": "AB 1XX (Keene)",
+  "effective_date": "1975-12-12",
+  "signing_governor": "Jerry Brown",
+  "legislative_session": "1975-1976 Second Extraordinary Session",
+  "session_called_by": "Governor Jerry Brown, December 1975, in response to medical malpractice insurance crisis",
+  "primary_source_citations": [
+    "Cal. Stats. 1975, 2d Ex. Sess., Ch. 1, pp. 3949-4007 (entire MICRA enactment)",
+    "Cal. Civ. Code §3333.2 (original)"
+  ],
+  "verification_status": "PENDING primary source session-law PDF capture",
+  "retrieval_steward": "Claude (assistant)"
+}

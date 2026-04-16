@@ -1,0 +1,16 @@
+{
+  "standard_id": "CIV_1798_IPA",
+  "primary_source": "Cal. Civil Code §§1798-1798.78",
+  "enacted": "Information Practices Act of 1977, Stats. 1977, Ch. 709 (SB 1983)",
+  "effective_date": "1978-07-01",
+  "current_version_amended": "Multiple amendments through 2002; superseded in part by CCPA (Civil Code §§1798.100-1798.199) for private-sector data, but IPA continues to govern state agency records",
+  "codification": "California Civil Code, Division 3 (Obligations), Part 4 (Obligations Arising from Particular Transactions), Title 1.8 (Personal Data), Chapter 1 (Information Practices Act of 1977), §§1798-1798.78",
+  "civil_action_sections": "§1798.45 (civil action against agency), §1798.47 (injunction), §1798.53 (individual employee liability)",
+  "note": "Do not confuse with CCPA (California Consumer Privacy Act, Civil Code §§1798.100 et seq.) — CCPA applies to private businesses; IPA applies to California state agencies",
+  "fetch_method": "VernenLegal MCP — california_get_section (leginfo.legislature.ca.gov official source)",
+  "fetch_timestamp_utc": "2026-04-11T00:00:00Z",
+  "retrieval_steward": "Claude (assistant) under direction of Michael Hartmann",
+  "verbatim_capture_status": "COMPLETE — civ_1798_leginfo.txt contains verbatim text of §§1798, 1798.45, 1798.53",
+  "txt_sha256": "c572f503a1c7543be8dc088dd27d5edcc3e6167d2c5e97cdc0a634514837d51b",
+  "build_date": "2026-04-11"
+}

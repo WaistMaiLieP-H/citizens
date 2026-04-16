@@ -1,0 +1,59 @@
+CEL-TECH COMMUNICATIONS, INC. v. LOS ANGELES CELLULAR TELEPHONE CO.
+20 Cal.4th 163 (1999)
+Supreme Court of California
+Decided: May 3, 1999
+Author: GEORGE, C.J.
+
+---
+
+FACTS:
+
+Cel-Tech, a reseller of cellular telephone service, sued Los Angeles Cellular Telephone Co. (LACTC) under the UCL, alleging that LACTC (the licensed duopoly carrier) had sold service to resellers at prices below cost, allowing them to resell at artificially low prices to squeeze Cel-Tech and other resellers out of the market. LACTC had regulatory approval for its pricing but allegedly abused its dominant position.
+
+---
+
+HOLDING — THE "UNFAIR" PRONG FOR COMPETITOR CASES:
+
+"A business practice is 'unfair' within the meaning of the UCL if it threatens an incipient violation of an antitrust law, or violates the policy or spirit of one of those laws because its effects are comparable to or the same as a violation of the law, or otherwise significantly threatens or harms competition." 20 Cal.4th at 187.
+
+This is the "tethering" requirement for competitor UCL cases: the unfair practice must be tethered to an antitrust law or its policy or spirit. Courts may not use the "unfair" prong to police vigorous but otherwise lawful competition.
+
+The Court rejected a more flexible "balancing test" for competitor cases, explaining that an open-ended balancing approach gives judges too much power to second-guess business competition.
+
+---
+
+HOLDING — THE "UNLAWFUL" PRONG AND INDEPENDENT OPERATION:
+
+The UCL's "unlawful" prong borrows violations of other statutes and makes them independently actionable under the UCL. The UCL is not preempted by other statutes that address the same conduct; it operates in parallel. A UCL "unlawful" claim based on a predicate statute survives even if the predicate statute's claim fails on its own independent elements (such as standing, class certification, or individual damages proof), as long as the UCL's own elements are met.
+
+"The UCL is a broad, remedial statute that is to be construed liberally. 'Unfair competition' is defined broadly to include 'any unlawful, unfair or fraudulent business act or practice.'" 20 Cal.4th at 180.
+
+---
+
+THE CONSUMER CASE "UNFAIR" STANDARD — OPEN QUESTION:
+
+Cel-Tech's tethering requirement was explicitly applied to competitor (business-to-business) UCL cases. For consumer UCL cases, California courts have not uniformly adopted the Cel-Tech tethering test. Many courts apply the FTC's three-part test: the practice (1) causes substantial harm to consumers; (2) which is not reasonably avoidable by consumers; and (3) is not outweighed by countervailing benefits.
+
+The California Supreme Court has not definitively resolved whether Cel-Tech's tethering requirement or the FTC three-part test governs consumer UCL "unfair" claims. Practitioners in California consumer UCL cases typically plead both standards in the alternative.
+
+---
+
+THE UCL'S THREE PRONGS — PRACTICAL OPERATION:
+
+UNLAWFUL: Borrows violation of any law, statute, or regulation; every violation of every consumer protection law is a UCL violation. This is the broadest prong.
+
+UNFAIR: In consumer cases — harm to consumers / not reasonably avoidable / not outweighed by benefits (FTC test) or alternatively substantial injury to competition or legislative policy violation (Cel-Tech test).
+
+FRAUDULENT: Likely to deceive a reasonable consumer. Does not require actual fraud elements (scienter, reliance by each plaintiff); requires only that a reasonable person would likely be deceived.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 20 Cal.4th 163 (1999)
+Official reporter: California Reports, Fourth Series, vol. 20, page 163
+Court: Supreme Court of California
+Key quoted passage: 20 Cal.4th at 187 (unfair standard for competitor cases)
+Source of this text: Claude training data (knowledge cutoff August 2025). Cel-Tech is the leading UCL unfair-prong case and is cited in virtually every California UCL action. Full verbatim text should be verified at:
+  - courts.ca.gov (California official judicial opinions)
+  - Google Scholar: "Cel-Tech Communications v. Los Angeles Cellular"
+Verification status: PROPOSED — pending steward witness review

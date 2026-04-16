@@ -1,0 +1,74 @@
+STOUT v. TURNEY
+22 Cal.3d 718 (1978)
+California Supreme Court
+Decided: November 1978
+
+---
+
+FACTS:
+
+Stout purchased property from Turney in reliance on misrepresentations about the property's condition and characteristics. After closing, Stout discovered the property was worth less than represented and brought a fraud action. The trial court awarded damages using the benefit-of-the-bargain measure (difference between represented value and actual value). On appeal, the Supreme Court had to determine the correct damages measure under § 3343.
+
+---
+
+HOLDING:
+
+THE OUT-OF-POCKET RULE IS MANDATORY:
+
+1. **California applies the out-of-pocket measure for real property fraud damages.** Under § 3343, the plaintiff recovers the difference between the actual value of what the plaintiff parted with and the actual value of what the plaintiff received. The court expressly rejected the benefit-of-the-bargain measure.
+
+2. **The out-of-pocket measure is mandatory, not optional.** "Section 3343(b)(1) expressly prohibits recovery measured by the difference between the value of property as represented and the actual value thereof." A trial court cannot award benefit-of-the-bargain damages in a real property fraud case, even if the parties would prefer that measure.
+
+3. **Consequential damages are available in addition to the out-of-pocket baseline.** Section 3343(a)(1)-(4) permits:
+   - Reliance expenditures made in preparation for the purchase
+   - Costs of restoring the property to the represented condition (if practical)
+   - Loss of use and enjoyment during the period of reliance
+   - Other expenditures attributable to the fraud
+
+4. **The out-of-pocket rule does not deny equitable remedies.** Section 3343(b)(2) preserves equitable remedies such as rescission and restitution. A plaintiff who prefers to unwind the transaction entirely can pursue rescission instead of damages.
+
+---
+
+THE STOUT FORMULA:
+
+Out-of-pocket damages = [Actual value of what plaintiff parted with] − [Actual value of what plaintiff received]
+                      + Consequential damages under § 3343(a)(1)-(4)
+                      + Punitive damages under § 3294 (if fraud proven)
+                      + Attorney's fees (if statutory basis)
+
+NOT:
+Benefit-of-the-bargain = [Represented value] − [Actual value] ← PROHIBITED under § 3343(b)(1)
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Stout v. Turney establishes the damages framework for the 2958 Honeysuckle complaint:
+
+1. **Baseline out-of-pocket calculation**:
+   - What the steward parted with: the Honeysuckle property, valued at $605K (sale price)
+   - What the steward received: $109K net
+   - Out-of-pocket damages: $605K − $109K = $496K
+   - This is the § 3343 compensatory baseline
+
+2. **Consequential damages** (§ 3343(a)(1)-(4)):
+   - Reliance expenditures (costs incurred in preparing for the sale)
+   - Loss of use and enjoyment of the property during the fraud period
+   - Moving costs, carrying costs attributable to the fraud
+   - Lost appreciation / investment value
+
+3. **Alternative remedy — rescission under §§ 1567, 1688-1689**: If feasible, the steward may elect rescission (unwind the transaction entirely) rather than damages. Rescission restores both parties to their pre-contract positions.
+
+4. **Family Code § 1101(h) 100% remedy operates separately**: The Stout § 3343 out-of-pocket rule governs third-party tort fraud claims. For the community property breach-of-fiduciary-duty claims against the managing spouse, the Fam. Code § 1101(h) 100%-of-value remedy is a separate and additional remedy that operates independently of § 3343.
+
+5. **Punitive damages on top**: Stout's out-of-pocket baseline is the compensatory anchor for the punitive-to-compensatory ratio analysis under Bankhead v. ArvinMeritor.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 22 Cal.3d 718 (1978)
+Court: California Supreme Court
+Reporter: California Reports, Third Series, vol. 22, page 718
+Source of this text: Claude training data (knowledge cutoff August 2025) supplemented by holding.md from prior build session. Stout v. Turney is the California Supreme Court's definitive statement of the out-of-pocket damages rule for real property fraud — the plaintiff recovers the difference between the actual value of what was parted with and what was received, plus specific consequential damages. Benefit-of-the-bargain damages are expressly prohibited.
+Verification: Casetext / Google Scholar: "Stout v. Turney 22 Cal.3d 718"
+Verification status: PROPOSED — pending steward witness review

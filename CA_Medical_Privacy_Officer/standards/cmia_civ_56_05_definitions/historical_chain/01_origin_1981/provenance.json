@@ -1,0 +1,24 @@
+{
+  "event": "Original CMIA enactment — § 56.05 definitions established",
+  "citation": "Stats. 1981, Ch. 782, Sec. 2",
+  "bill": "AB 3439 (Keene)",
+  "year": 1981,
+  "source": "California State Archives / California Legislative Information",
+  "url": "PENDING — fetch original bill text from California State Archives",
+  "sha256": "PENDING",
+  "key_amendments": [
+    {
+      "citation": "Stats. 2000, Ch. 1066, Sec. 2 (AB 2903)",
+      "change": "Added pharmaceutical company to covered entities; refined medical information definition"
+    },
+    {
+      "citation": "Stats. 2013, Ch. 444, Sec. 1 (AB 658)",
+      "change": "Added confidential communications request definition"
+    },
+    {
+      "citation": "Stats. 2020, Ch. 190, Sec. 1 (AB 713)",
+      "change": "Added mental health application information and reproductive/sexual health application information; de-identification safe harbor"
+    }
+  ],
+  "notes": "Definitions section has expanded substantially since 1981 to cover digital health applications and new categories of sensitive information. Original 1981 text is outstanding work."
+}

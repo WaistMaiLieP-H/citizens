@@ -1,0 +1,17 @@
+{
+  "stage_id": "04_amendment_1993_dvpa_enhancement",
+  "enacted": "1993 legislative session (multiple bills; primary: AB 2741 and SB 1143, Stats. 1993)",
+  "effective": "1994-01-01 (primary effective date for subd. (c)(3)/(c)(4) amendments)",
+  "citation": "Cal. Stat. 1993 (specific chapter number requires primary-source verification at leginfo.ca.gov)",
+  "popular_name": "DVPA Recidivist Enhancement + § 136.2 Criminal Proceeding Order Coverage",
+  "key_changes": [
+    "Added § 166(c)(4) — violation of § 136.2 criminal proceeding protective order is criminal misdemeanor",
+    "Added felony wobbler provision (§ 166(c)(3)) — two prior DV convictions + current violence = potential felony",
+    "Enhanced mandatory minimum for second DVPA violation within 7 years"
+  ],
+  "source": "California Statutes 1993 (primary source). Cross-reference: Penal Code § 136.2 (criminal proceeding protective orders); Family Code § 6218 (DVPA order types). Primary bill number requires verification at leginfo.ca.gov (1993-94 legislative session).",
+  "verification_status": "PROPOSED — structural content confirmed from § 166 current text (subd. (c)(3)/(c)(4) annotations) and secondary legislative history sources; bill numbers require primary-source verification before filing",
+  "provenance_level": "context_verified_by_secondary_sources",
+  "built_by": "Claude (CA_Criminal_Law_Specialist) under steward direction — Michael Hartmann",
+  "built_at_utc": "2026-04-12T00:00:00Z"
+}

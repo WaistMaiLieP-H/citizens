@@ -1,0 +1,65 @@
+GRAHAM v. DAIMLERCHRYSLER CORP.
+34 Cal.4th 553 (2004)
+California Supreme Court
+Decided: November 1, 2004
+
+---
+
+FACTS:
+
+Plaintiffs brought a consumer protection class action against DaimlerChrysler relating to vehicle defects. After the defendant made partial remedial changes during litigation, the case was settled without a court judgment. Plaintiffs sought attorney's fees under CCP § 1021.5 based on the catalyst theory — their lawsuit caused the defendant to provide remedial relief.
+
+DaimlerChrysler argued that after the U.S. Supreme Court's decision in Buckhannon (which rejected the federal catalyst theory for § 1988 fees), California should adopt the same rule for § 1021.5.
+
+---
+
+HOLDING:
+
+Chief Justice George wrote for the Court.
+
+CALIFORNIA REJECTS BUCKHANNON FOR § 1021.5 — THE CATALYST DOCTRINE SURVIVES:
+"We conclude that the catalyst theory remains a valid basis for fee awards under § 1021.5 and that California courts need not follow Buckhannon in this regard."
+
+The Court held that Buckhannon interpreted federal fee-shifting statutes (§ 1988) and was driven by federal separation-of-powers concerns about Congress's intent regarding fee awards. Those concerns do not apply to California's § 1021.5, which was enacted by the California Legislature with different textual, historical, and policy considerations.
+
+THE CALIFORNIA CATALYST TEST (GRAHAM STANDARD):
+A plaintiff may recover § 1021.5 fees under the catalyst theory if:
+1. The lawsuit was a substantial factor causing the defendant to provide the relief obtained;
+2. The relief obtained was worth more than a nominal amount; AND
+3. The plaintiff had a reasonable basis to bring the lawsuit — the action was not frivolous.
+
+"The test is objective and focused on causation: did the lawsuit, in fact, cause the defendant to act? Courts consider circumstantial evidence including the timing of the defendant's actions relative to the filing of the suit."
+
+EVIDENCE OF CATALYST CAUSATION:
+- Defendant made changes after the lawsuit was filed
+- Defendant expressed awareness of the lawsuit in communications
+- Changes made corresponded to the relief specifically sought in the complaint
+- No other convincing explanation for the change
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Graham v. DaimlerChrysler is directly controlling for California § 1021.5 fee claims:
+
+1. **No court judgment required**: The steward can recover § 1021.5 fees in California state court even if:
+   - The government defendants settle without a judgment
+   - The case is mooted by policy changes
+   - The federal § 1983 case settles without a court order
+
+2. **Catalyst causation evidence**: If APD, Contra Costa County, or CalVCB make policy or procedural changes after the litigation is filed, that change is evidence of catalyst causation supporting § 1021.5 fees.
+
+3. **Objectively reasonable basis**: The steward's claims — supported by 16 years of documented conduct and a detailed factual record — are far from frivolous. The "reasonable basis" element is easily satisfied.
+
+4. **Strategic use**: Filing state court claims in parallel with the federal § 1983 complaint preserves the § 1021.5 catalyst-theory fee claim that is unavailable under the federal § 1988 / Buckhannon framework.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 34 Cal.4th 553 (2004)
+Court: California Supreme Court
+Reporter: California Reports, Fourth Series, vol. 34, page 553
+Author: George, C.J.
+Source of this text: Claude training data (knowledge cutoff August 2025). Graham v. DaimlerChrysler Corp. confirmed that California's § 1021.5 preserves the catalyst theory that Buckhannon rejected for federal fee statutes — fees are available when the lawsuit was a substantial causal factor in producing the relief obtained, even without a court judgment.
+Verification: Casetext / Google Scholar: "Graham v. DaimlerChrysler Corp. 34 Cal.4th 553"
+Verification status: PROPOSED — pending steward witness review

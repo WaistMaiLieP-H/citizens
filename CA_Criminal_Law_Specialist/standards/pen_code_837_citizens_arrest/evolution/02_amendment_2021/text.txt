@@ -1,0 +1,23 @@
+Cal. Penal Code § 837 — AB 1775 Amendment (2021)
+Assembly Bill 1775 (Chapter 392, Statutes of 2021)
+Enacted: September 23, 2021 (effective January 1, 2022)
+
+The 2021 amendment was a direct legislative response to the February 23, 2020 murder of Ahmaud Arbery in Georgia — an unarmed Black man shot while jogging by private citizens claiming to make a citizen's arrest. California legislators recognized that the doctrine, if unconstrained, enabled racially motivated vigilantism.
+
+Key changes made by AB 1775:
+
+§ 837 amended to add restriction on circumstances for citizen's arrest:
+The felony arrest authority (§ 837(2) and (3)) was significantly narrowed. A private person may now arrest for a felony only if:
+(a) The felony was committed or attempted IN THE PRIVATE PERSON'S PRESENCE, OR
+(b) The person has reasonable cause to believe the person arrested committed a felony AND the private person was the immediate victim or witnessed the immediate aftermath of the felony, OR
+(c) The private person is a peace officer off-duty acting pursuant to their official authority.
+
+The pre-2021 version allowed arrest for any felony that "has been in fact committed" based on reasonable cause to believe the arrested person committed it — without requiring the arresting person to have any direct connection to or observation of the crime.
+
+§ 837.1 added: "Prohibition on unlawful detention."
+"(a) A private person may only detain another person under this chapter in a manner consistent with the limitations set forth in this section."
+Added specific prohibition on detentions based on race, ethnicity, or national origin.
+
+Force limitations formalized: existing common-law limitations on force in citizen's arrests were codified — reasonable force only, no lethal force except in self-defense.
+
+Source: AB 1775, Chapter 392, Statutes of 2021.

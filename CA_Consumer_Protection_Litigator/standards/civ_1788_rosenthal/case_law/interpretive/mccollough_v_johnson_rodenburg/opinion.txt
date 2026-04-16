@@ -1,0 +1,58 @@
+McCOLLOUGH v. JOHNSON, RODENBURG & LAUINGER, LLC
+637 F.3d 939 (9th Cir. 2011)
+United States Court of Appeals for the Ninth Circuit
+Decided: March 25, 2011
+
+---
+
+FACTS:
+
+McCollough was sued by a debt collection law firm (Johnson, Rodenburg & Lauinger) to collect on a credit card debt. The law firm filed suit without meaningfully reviewing the account file — a practice known as "sewer service" or "robo-suing." McCollough brought FDCPA claims for false representations in the collection lawsuit. The district court awarded actual damages, statutory damages, and attorney's fees, and the Ninth Circuit affirmed.
+
+---
+
+HOLDING — FDCPA VIOLATIONS IN COLLECTION LITIGATION:
+
+A debt collection law firm that files collection lawsuits without meaningful attorney review of the underlying account violates the FDCPA because:
+1. The attorney's signature on a complaint constitutes a representation to the debtor and the court that the attorney reviewed the file and has a basis for the claim — this is a "representation" under § 1692e;
+2. Where no such review occurred, the representation is false;
+3. The "least sophisticated consumer" standard applies — the FDCPA protects even unsophisticated debtors from deceptive litigation practices.
+
+"An attorney who signs a collection complaint represents to the defendant that he reviewed the account and found a lawful basis for the claim." 637 F.3d at 950 (paraphrase of holding).
+
+ATTORNEY'S FEES AWARD:
+The Ninth Circuit affirmed the mandatory attorney's fees award under § 1692k(a)(3). The FDCPA mandates fees for successful plaintiffs — this is a one-way fee-shifting statute. The court emphasized that fee awards must be reasonable but should not be reduced simply because the statutory damages are small.
+
+---
+
+IMPORTANCE FOR ROSENTHAL ACT CLAIMS:
+
+McCollough is persuasive authority for Rosenthal Act claims in California because:
+1. The Rosenthal Act's prohibitions on false representations (§ 1788.13) parallel FDCPA § 1692e;
+2. The Rosenthal Act's private right of action (§ 1788.30) includes mandatory attorney's fees for prevailing plaintiffs, just as the FDCPA does;
+3. California courts apply FDCPA interpretive case law to parallel Rosenthal provisions.
+
+THE DEBT COLLECTION LAWSUIT AS A COLLECTION ACT:
+McCollough stands for the proposition that filing a lawsuit to collect a debt is itself a "debt collection" act subject to the FDCPA (and by extension, Rosenthal). A false or unsupported collection complaint violates the false representation prohibitions.
+
+---
+
+APPLICATION TO AUTO FRAUD DEFICIENCY COLLECTION:
+
+When a dealer or finance company files suit to collect a deficiency balance following repossession of a vehicle sold under void or rescinded financing:
+1. The complaint itself is a "debt collection communication" subject to Rosenthal and FDCPA;
+2. Suing for a deficiency on a rescinded or unlawful contract is a false representation about the debt's legal status;
+3. The filing attorney is responsible for meaningful review — if the underlying contract was void due to yo-yo fraud or dealer misrepresentation, the collection lawsuit may violate § 1788.13;
+4. Mandatory attorney's fees under § 1788.30 incentivize consumer attorneys to take Rosenthal cases even where damages are modest.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 637 F.3d 939 (9th Cir. 2011)
+Official reporter: Federal Reporter, Third Series, vol. 637, page 939
+Court: Ninth Circuit — binding in California federal courts; persuasive in California state courts
+Key holding: Collection lawsuit = debt collection act; attorney signature = representation of review; mandatory fee award affirmed
+Source of this text: Claude training data (knowledge cutoff August 2025). McCollough is a Ninth Circuit FDCPA litigation-practice case. Full verbatim text should be verified at:
+  - CourtListener / PACER
+  - Google Scholar: "McCollough v. Johnson Rodenburg 637 F.3d"
+Verification status: PROPOSED — pending steward witness review

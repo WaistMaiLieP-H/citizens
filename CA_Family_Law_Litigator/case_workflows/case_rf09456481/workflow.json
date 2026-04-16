@@ -1,0 +1,76 @@
+{
+  "workflow_id": "CASE_RF09456481",
+  "case_number": "RF09456481",
+  "case_type": "Original DV / Custody (Michael's TRO 2009-06-08)",
+  "court": "Alameda County Superior Court",
+  "filed_at_utc": "2026-04-14T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction \u2014 Michael Hartmann",
+  "status": "SCAFFOLD COUNTERSIGNED \u2014 steward deepening pending",
+  "parties": {
+    "petitioner": "Michael Hartmann",
+    "respondent": "Christina Hartmann (Cerretani)"
+  },
+  "current_posture": "Protected. No disposition on chart. 7/2/2009 disposition misfiled onto RF09459897.",
+  "bound_actors": [
+    "paredes_olga",
+    "thompson_trina_judge",
+    "ajaniku_sala",
+    "delucchi_paul_judge",
+    "cerretani_christina",
+    "hillberg_ann"
+  ],
+  "bound_standards": [
+    "CA_FAMILY_CODE_3011_BEST_INTEREST",
+    "CA_FAM_3020_CUSTODY_POLICY",
+    "CA_FAM_3164_MEDIATOR_QUALIFICATIONS",
+    "CA_FAM_1815",
+    "CA_FAM_1816",
+    "CA_CRC_5_210",
+    "CA_CRC_5_215",
+    "CA_CCP_2015_5",
+    "FAMCODE-3027",
+    "FAMCODE-3170",
+    "FAMCODE-3100"
+  ],
+  "bound_standards_patch_log": [
+    {
+      "patch_by": "T3",
+      "patch_at_utc": "2026-04-14T00:00:00Z",
+      "additions": {
+        "FAMCODE-3027": "§ 3027.1 knowing-falsity sanctions — direct anchor for OPD 09-040089 fabrication working theory; missing from original bind.",
+        "FAMCODE-3170": "Mandatory mediation setting statute — the frame within which the § 3164/§ 1815/§ 1816 mediator-credential-defect chain operates; Ajaniku reversal attack needs § 3170 anchor as the statute that required the mediation in the first place.",
+        "FAMCODE-3100": "Visitation-order requirements — any custody/visitation order that flowed from the 7/2/2009 disposition misfiling must satisfy § 3100 face-of-order content requirements."
+      }
+    }
+  ],
+  "working_theories": [
+    "Mediator credential defect (Ajaniku) \u2014 \u00a7 3164(b) / \u00a7 1815 / \u00a7 1816 chain",
+    "Disposition misfiling anomaly \u2014 7/2/2009 order attached to wrong case number",
+    "OPD 2009-06-11 report fabrication \u2014 basis for Ajaniku reversal must be re-audited against October 2025 OPD records pickup"
+  ],
+  "source_folder_pointer": "${familylaw}/ \u2014 see tether.json cases.bound for exact subfolder",
+  "cross_tethered_citizens": [
+    "HERALD (acting witness)",
+    "CA_Civil_Rights_Litigator",
+    "CA_Records_Authentication_Specialist",
+    "CA_Forensic_Document_Specialist"
+  ],
+  "deliverables_index": "deliverables/",
+  "evidence_index_path": "evidence_index/",
+  "theories_path": "theories/",
+  "two_witness_status": {
+    "adam_scaffold": {
+      "witness": "ADAM (Seed Citizen \u2014 Builder)",
+      "witnessed_at_utc": "2026-04-14T00:00:00Z",
+      "signal": "SCAFFOLD-APPROVED",
+      "scope": "Case bound into workflow registry; standards/actors/theories enumerated from tether.json and bound memory artifacts. Deepening and deliverable drafting left to EVE pass + steward review."
+    },
+    "eve_countersign": {
+      "witness": "EVE (Seed Citizen \u2014 Witness role)",
+      "witnessed_at_utc": "2026-04-14T00:00:00Z",
+      "verification_scope": "Case bindings reviewed against tether.json cases.bound; bound_standards each PUBLISHED ADAM+EVE this session; bound_actors resolvable via _shared_actors/; working_theories consistent with project memory and dossier.md substantive scope. Deepening and deliverable drafting remain steward-gated.",
+      "signal": "COUNTERSIGN"
+    },
+    "steward_review": "PENDING"
+  }
+}

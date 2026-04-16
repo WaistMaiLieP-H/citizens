@@ -1,0 +1,18 @@
+People v. Whitehurst (1992) 9 Cal.App.4th 1045, 11 Cal.Rptr.2d 743
+California Court of Appeal, First Appellate District
+1992
+
+[PROPOSED — primary-source text not yet captured. Opinion available at:
+- Google Scholar: search "People v. Whitehurst" 9 Cal.App.4th 1045
+- Westlaw: 1992 WL (Westlaw citation pending)
+- California Courts: courts.ca.gov opinions
+
+Key holdings to verify against primary source:
+1. Parental discipline defense is available to § 273a charges
+2. Objective reasonableness standard governs (not subjective belief of parent)
+3. Trial court must instruct on defense when evidence supports it
+4. Proportionality: punishment must bear reasonable relationship to child's conduct
+5. Prosecution must disprove reasonable discipline beyond a reasonable doubt once defense is raised
+
+This opinion.txt is a placeholder pending primary-source text capture.
+Doctrinal analysis in holding.md is PROPOSED status pending verification.]

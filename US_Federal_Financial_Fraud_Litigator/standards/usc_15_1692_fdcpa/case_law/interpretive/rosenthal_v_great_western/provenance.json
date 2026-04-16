@@ -1,0 +1,12 @@
+{
+  "case_slug": "rosenthal_v_great_western",
+  "full_citation": "Rosenthal v. Great Western Financial Securities Corp., 14 Cal.4th 394 (1996)",
+  "court": "California Supreme Court",
+  "decided": "1996-07-29",
+  "statutes_interpreted": ["California Civil Code §§1788–1788.33 (Rosenthal FDCPA)", "15 USC §1692 et seq. (FDCPA, by contrast/comparison)"],
+  "holding_category": "interpretive — California Rosenthal Act covers original creditors; compound federal/state claim structure",
+  "doctrinal_link": "Establishes the California analog framework that complements federal FDCPA for Michael's debt collection cases; see CA_Consumer_Protection_Litigator/civ_1788_rosenthal for full standard",
+  "source_url": "https://law.justia.com/cases/california/supreme-court/4th/14/394.html",
+  "verbatim_capture_status": "PENDING",
+  "build_date": "2026-04-11"
+}

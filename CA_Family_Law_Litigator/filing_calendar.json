@@ -1,0 +1,443 @@
+[
+  {
+    "date": "2026-04-16",
+    "action": "SEND Benicia PD CPRA + preservation demand",
+    "investigation_id": "09_benicia_pd_call_recordings",
+    "authority": "Gov. Code 7922.530",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-04-16",
+    "action": "SEND Benicia PD preservation acknowledgment request (Day 2 ack requested)",
+    "investigation_id": "09_benicia_pd_call_recordings",
+    "authority": "Gov. Code 7922.530",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-04-18",
+    "action": "SEND AT&T 2703(f) preservation letter",
+    "investigation_id": "11_carrier_communications_device_proximity",
+    "authority": "18 U.S.C. 2703(f)",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-04-18",
+    "action": "SEND Verizon 2703(f) preservation letter",
+    "investigation_id": "11_carrier_communications_device_proximity",
+    "authority": "18 U.S.C. 2703(f)",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-04-18",
+    "action": "SEND T-Mobile 2703(f) preservation letter",
+    "investigation_id": "11_carrier_communications_device_proximity",
+    "authority": "18 U.S.C. 2703(f)",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-04-18",
+    "action": "SEND Apple LE preservation letter",
+    "investigation_id": "11_carrier_communications_device_proximity",
+    "authority": "18 U.S.C. 2703(f)",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-04-18",
+    "action": "SEND Google LIS preservation letter",
+    "investigation_id": "11_carrier_communications_device_proximity",
+    "authority": "18 U.S.C. 2703(f)",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-04-18",
+    "action": "SEND Microsoft DCU preservation letter",
+    "investigation_id": "11_carrier_communications_device_proximity",
+    "authority": "18 U.S.C. 2703(f)",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-04-18",
+    "action": "SEND Samsung Legal preservation letter",
+    "investigation_id": "11_carrier_communications_device_proximity",
+    "authority": "18 U.S.C. 2703(f)",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-04-18",
+    "action": "Benicia PD preservation acknowledgment follow-up (Day 2)",
+    "investigation_id": "09_benicia_pd_call_recordings",
+    "authority": "Gov. Code 7922.530",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-04-20",
+    "action": "CRC 3.52(a) 5-court-day fee waiver ruling deadline — assert deemed-granted if silent",
+    "investigation_id": "08_alameda_solano_fee_waiver_filing_error",
+    "authority": "CRC 3.52(a) / Gov. Code 68634(e)",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-04-21",
+    "action": "SEND OPD desk audit — begin internal matrix build",
+    "investigation_id": "01_opd_records_pickup_audit",
+    "authority": "Internal audit",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-04-21",
+    "action": "SEND Ajaniku CPRA request",
+    "investigation_id": "02_ajaniku_pra_request",
+    "authority": "Gov. Code 7922.530 / CRC 10.500(e)(4)",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-04-21",
+    "action": "SEND Paredes license verification (DCA/Board of Psych/CAMFT/Wright Institute)",
+    "investigation_id": "03_paredes_license_verification",
+    "authority": "Bus. & Prof. 2903 / Gov. Code 7922.535",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-04-21",
+    "action": "SEND CMIA 56.10(c)(12) subpoena batch (9+ providers)",
+    "investigation_id": "05_cmia_disclosure_log_subpoenas",
+    "authority": "CMIA 56.10(c)(12) / CCP 2020.410",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-04-21",
+    "action": "SEND mediator-switch PRA to Alameda FCS",
+    "investigation_id": "06_mediator_switch_reason",
+    "authority": "Gov. Code 7922.535",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-04-21",
+    "action": "SEND Marin 8/5/2025 records request + reporter transcript order + preservation demand",
+    "investigation_id": "07_marin_august_2025_hearing",
+    "authority": "Gov. Code 68150 / CRC 2.400",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-04-21",
+    "action": "SEND Alameda + Solano records requests + fee waiver correction",
+    "investigation_id": "08_alameda_solano_fee_waiver_filing_error",
+    "authority": "CRC 3.52(a) / Gov. Code 70618",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-04-21",
+    "action": "SEND conservatorship existence search — 6 CA counties + Judicial Council + DOJ + DSH + DDS",
+    "investigation_id": "04_conservatorship_existence_search",
+    "authority": "Prob. Code 1801(e) / Gov. Code 7922.535",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-04-21",
+    "action": "SEND conservatorship existence search — 3 FL recipients",
+    "investigation_id": "04_conservatorship_existence_search",
+    "authority": "Fla. Stat. 119.07 / ch. 744",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-04-21",
+    "action": "SEND dual-filing status records request + clerk inquiry (Alameda + Marin)",
+    "investigation_id": "10_michael_dual_filing_status",
+    "authority": "CRC 5.63 / Gov. Code 7922.530",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-04-22",
+    "action": "OPD desk audit midpoint status check (Day 5)",
+    "investigation_id": "01_opd_records_pickup_audit",
+    "authority": "Internal",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-04-22",
+    "action": "HARD DEADLINE: Benicia PD 911 retention risk (~9 months from 7/14/2025)",
+    "investigation_id": "09_benicia_pd_call_recordings",
+    "authority": "Retention policy",
+    "status": "CRITICAL"
+  },
+  {
+    "date": "2026-04-25",
+    "action": "Marin records follow-up call (Day +10)",
+    "investigation_id": "07_marin_august_2025_hearing",
+    "authority": "Gov. Code 68150",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-04-25",
+    "action": "Alameda records + fee waiver follow-up call (Day +10)",
+    "investigation_id": "08_alameda_solano_fee_waiver_filing_error",
+    "authority": "CRC 3.52(a)",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-04-25",
+    "action": "Alameda dual-filing follow-up call (Day +10)",
+    "investigation_id": "10_michael_dual_filing_status",
+    "authority": "Internal",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-04-26",
+    "action": "Benicia PD CPRA 10-day determination due",
+    "investigation_id": "09_benicia_pd_call_recordings",
+    "authority": "Gov. Code 7922.535(a)",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-04-27",
+    "action": "Ajaniku CPRA receipt confirmation (Day 5)",
+    "investigation_id": "02_ajaniku_pra_request",
+    "authority": "Internal",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-04-28",
+    "action": "Carrier preservation follow-up (Day +10) if no acknowledgment",
+    "investigation_id": "11_carrier_communications_device_proximity",
+    "authority": "18 U.S.C. 2703(f)",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-04-29",
+    "action": "OPD desk audit must be complete (Day 10)",
+    "investigation_id": "01_opd_records_pickup_audit",
+    "authority": "Internal",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-04-29",
+    "action": "Marin transcript escalation to Court Executive Officer (Day +14)",
+    "investigation_id": "07_marin_august_2025_hearing",
+    "authority": "Gov. Code 68150 / CRC 2.400",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-04-29",
+    "action": "Alameda fee waiver formal noticed motion if no correction (Day +14)",
+    "investigation_id": "08_alameda_solano_fee_waiver_filing_error",
+    "authority": "CRC 3.52(a) / 3.56(d)",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-04-29",
+    "action": "Alameda dual-filing escalation to CEO Chad Finke (Day +14)",
+    "investigation_id": "10_michael_dual_filing_status",
+    "authority": "Internal",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-04-30",
+    "action": "Benicia PD reminder email if silent (Day 14)",
+    "investigation_id": "09_benicia_pd_call_recordings",
+    "authority": "Gov. Code 7922.535",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-05-01",
+    "action": "CPRA 10-day determination due: Ajaniku",
+    "investigation_id": "02_ajaniku_pra_request",
+    "authority": "Gov. Code 7922.535(a)",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-05-01",
+    "action": "CPRA 10-day determination due: mediator-switch PRA",
+    "investigation_id": "06_mediator_switch_reason",
+    "authority": "Gov. Code 7922.535(a)",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-05-01",
+    "action": "CPRA 10-day determination due: conservatorship CA recipients",
+    "investigation_id": "04_conservatorship_existence_search",
+    "authority": "Gov. Code 7922.535(a)",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-05-01",
+    "action": "Paredes Board of Psych 10-day acknowledgment due",
+    "investigation_id": "03_paredes_license_verification",
+    "authority": "Gov. Code 7922.535",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-05-06",
+    "action": "Paredes Board of Psych Day-15 follow-up",
+    "investigation_id": "03_paredes_license_verification",
+    "authority": "Gov. Code 7922.535",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-05-06",
+    "action": "Solano CPRA request if silent on fee waiver (Day +21)",
+    "investigation_id": "08_alameda_solano_fee_waiver_filing_error",
+    "authority": "Gov. Code 7922.530",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-05-06",
+    "action": "Dual-filing noticed motion if still unresolved (Day +21)",
+    "investigation_id": "10_michael_dual_filing_status",
+    "authority": "CRC 5.63",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-05-06",
+    "action": "Marin CPRA on admin records (Day +21)",
+    "investigation_id": "07_marin_august_2025_hearing",
+    "authority": "Gov. Code 7922.530",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-05-06",
+    "action": "FL conservatorship second request (Day +15)",
+    "investigation_id": "04_conservatorship_existence_search",
+    "authority": "Fla. Stat. 119.07(1)(c)",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-05-10",
+    "action": "Benicia PD extension deadline (Day 24)",
+    "investigation_id": "09_benicia_pd_call_recordings",
+    "authority": "Gov. Code 7922.535(b)",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-05-11",
+    "action": "CMIA subpoena production due (~20 days from service)",
+    "investigation_id": "05_cmia_disclosure_log_subpoenas",
+    "authority": "CCP 2020.410(c)",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-05-15",
+    "action": "Ajaniku CPRA extension deadline (Day 24)",
+    "investigation_id": "02_ajaniku_pra_request",
+    "authority": "Gov. Code 7922.535(b)",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-05-15",
+    "action": "Mediator-switch PRA extension deadline (Day 24)",
+    "investigation_id": "06_mediator_switch_reason",
+    "authority": "Gov. Code 7922.535(b)",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-05-15",
+    "action": "Paredes Board of Psych full production due (Day 24)",
+    "investigation_id": "03_paredes_license_verification",
+    "authority": "Gov. Code 7922.535(b)",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-05-15",
+    "action": "Conservatorship CA extension deadline (Day 24)",
+    "investigation_id": "04_conservatorship_existence_search",
+    "authority": "Gov. Code 7922.535(b)",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-05-15",
+    "action": "Marin transcript hard deadline for UCCJEA challenge (Day +30)",
+    "investigation_id": "07_marin_august_2025_hearing",
+    "authority": "UCCJEA / Fam. Code 3421",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-05-15",
+    "action": "Fee waiver / dual-filing findings integration into federal complaint + UCCJEA motion (Day +30)",
+    "investigation_id": "08_alameda_solano_fee_waiver_filing_error",
+    "authority": "42 U.S.C. 1983 / UCCJEA",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-05-16",
+    "action": "Benicia PD writ of mandate drafting if no response (Day 30)",
+    "investigation_id": "09_benicia_pd_call_recordings",
+    "authority": "Gov. Code 7923.000 / CCP 1085",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-05-18",
+    "action": "Carrier subpoenas issue (Day +30 from preservation)",
+    "investigation_id": "11_carrier_communications_device_proximity",
+    "authority": "CCP 1985 / 18 U.S.C. 2703(d)",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-05-21",
+    "action": "Ajaniku CPRA writ prep if no response (Day 30)",
+    "investigation_id": "02_ajaniku_pra_request",
+    "authority": "Gov. Code 7923.000 / CCP 1085",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-05-21",
+    "action": "Mediator-switch PRA mandamus-ready (Day 30+)",
+    "investigation_id": "06_mediator_switch_reason",
+    "authority": "Gov. Code 7923.000",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-05-21",
+    "action": "Conservatorship CA writ of mandate if unresponsive (Day +20)",
+    "investigation_id": "04_conservatorship_existence_search",
+    "authority": "CCP 1085 / Gov. Code 7923.000",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-06-05",
+    "action": "Paredes CAMFT second request (Day 45 if silent)",
+    "investigation_id": "03_paredes_license_verification",
+    "authority": "Internal",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-06-05",
+    "action": "FL conservatorship Fla. Stat. 119.11 action if unresponsive (Day +30)",
+    "investigation_id": "04_conservatorship_existence_search",
+    "authority": "Fla. Stat. 119.11",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-06-17",
+    "action": "Carrier subpoena production due (~30 days from issue)",
+    "investigation_id": "11_carrier_communications_device_proximity",
+    "authority": "CCP 1985.3 / Rule 45",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-06-20",
+    "action": "Marin transcript order fulfillment (~60 days from order)",
+    "investigation_id": "07_marin_august_2025_hearing",
+    "authority": "Court reporter",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-07-07",
+    "action": "2703(f) Day+80 — SEND renewal letters to all carriers/platforms",
+    "investigation_id": "11_carrier_communications_device_proximity",
+    "authority": "18 U.S.C. 2703(f)",
+    "status": "PENDING"
+  },
+  {
+    "date": "2026-07-17",
+    "action": "2703(f) 90-day preservation expiry (from 4/18 send)",
+    "investigation_id": "11_carrier_communications_device_proximity",
+    "authority": "18 U.S.C. 2703(f)",
+    "status": "CRITICAL"
+  },
+  {
+    "date": "2026-08-19",
+    "action": "DV-130 EXPIRY — FL0002067",
+    "investigation_id": "06_mediator_switch_reason",
+    "authority": "Fam. Code 6345",
+    "status": "CRITICAL"
+  }
+]

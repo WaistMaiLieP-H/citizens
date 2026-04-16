@@ -1,0 +1,169 @@
+{
+  "standard_id": "CA_CIV_1213_RECORDING_ACTS",
+  "version": "0.3.0-witnessed-by-herald",
+  "filed_at_utc": "2026-04-08T09:23:00Z",
+  "deepened_at_utc": "2026-04-08T10:15:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "build_context": "Originally built 2026-04-08 as part of the breadth-first umbrella seeding pass (Umbrella 12 Property first occupant). Deepened later same day with verbatim text and steward case relevance audit.",
+  "umbrella_first_for_this_umbrella": "FIRST standard built under Umbrella 12 (Property / Title / Ownership). The umbrella was previously empty.",
+  "primary_citation": {
+    "jurisdiction": "California",
+    "code": "California Civil Code",
+    "section": "§ 1213",
+    "popular_name": "Recording Acts — Constructive Notice from Time of Filing",
+    "current_codification_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1213.&lawCode=CIV",
+    "current_form_local_artifact": "current/cal_civ_1213_leginfo.html",
+    "verbatim_text_extracted_artifact": "current/cal_civ_1213_leginfo.txt"
+  },
+  "structural_location": {
+    "code": "California Civil Code",
+    "division": "DIVISION 2. PROPERTY [654 - 1422]",
+    "part": "PART 4. ACQUISITION OF PROPERTY [1000 - 1422] (enacted 1872)",
+    "title": "TITLE 4. TRANSFER [1039 - 1231] (enacted 1872)",
+    "chapter": "CHAPTER 4. Recording Transfers [1169 - 1220] (enacted 1872)",
+    "article": "ARTICLE 4. Effect of Recording, or the Want Thereof [1213 - 1220] (enacted 1872)",
+    "section_history": "Enacted 1872 (as part of original Civil Code by the California Code Commission). Most recent amendment: Stats. 1989, Ch. 698, Sec. 1."
+  },
+  "verbatim_text": {
+    "extraction_source": "current/cal_civ_1213_leginfo.txt (extracted from leginfo HTML via _extract_leginfo_text.py 2026-04-08)",
+    "verbatim_full": "Every conveyance of real property or an estate for years therein acknowledged or proved and certified and recorded as prescribed by law from the time it is filed with the recorder for record is constructive notice of the contents thereof to subsequent purchasers and mortgagees; and a certified copy of such a recorded conveyance may be recorded in any other county and when so recorded the record thereof shall have the same force and effect as though it was of the original conveyance and where the original conveyance has been recorded in any county wherein the property therein mentioned is not situated a certified copy of the recorded conveyance may be recorded in the county where such property is situated with the same force and effect as if the original conveyance had been recorded in that county.",
+    "structural_breakdown": {
+      "core_rule": "Every conveyance of real property or an estate for years therein, IF (a) acknowledged or proved AND (b) certified AND (c) recorded as prescribed by law, FROM the time it is filed with the recorder for record IS constructive notice of the contents thereof to subsequent purchasers and mortgagees.",
+      "implicit_corollaries": [
+        "A conveyance that is NOT acknowledged or proved is NOT entitled to recording and provides NO constructive notice.",
+        "A conveyance that is NOT certified is NOT entitled to recording and provides NO constructive notice.",
+        "A conveyance that is acknowledged, certified, and recorded provides constructive notice ONLY from the time of filing — not retroactively.",
+        "Subsequent purchasers and mortgagees who take WITHOUT actual notice and BEFORE filing of a competing conveyance take FREE OF that competing conveyance under the race-notice rule (this is the doctrinal foundation of California title insurance)."
+      ],
+      "secondary_rule_certified_copy_recording": "A certified copy of an already-recorded conveyance may be recorded in any other county, and the recording in the second county has the same force and effect as if the original conveyance had been recorded there directly. This handles the case of a property whose title chain crosses county lines."
+    }
+  },
+  "amendment_history_visible_on_leginfo": [
+    {
+      "year": 1872,
+      "stats_citation": "Enacted 1872 as part of original California Civil Code",
+      "event": "Original enactment by the Code Commission. The California Civil Code of 1872 was a comprehensive codification adopted as part of California's first complete code revision under the leadership of Stephen J. Field's commission.",
+      "primary_source_status": "NOT YET FETCHED"
+    },
+    {
+      "year": 1989,
+      "stats_citation": "Stats. 1989, Ch. 698, Sec. 1",
+      "event": "Most recent amendment",
+      "primary_source_status": "NOT YET FETCHED"
+    }
+  ],
+  "steward_case_relevance_audit": {
+    "purpose": "Map § 1213 against the steward's house sale fraud documentation (project_house_sale_fraud.md). The audit asks: which conveyances in the 2958 Honeysuckle sale were properly acknowledged, certified, and recorded? Which were not? Where the chain of recording is broken or where documents are missing acknowledgments, what is the effect on constructive notice for subsequent purchasers?",
+    "audit_filed_at_utc": "2026-04-08T10:15:00Z",
+    "audit_filed_by": "Claude (assistant) at first-mouth level; steward review required",
+    "case_file_authorities_consulted": [
+      "project_house_sale_fraud.md",
+      "project_property_financial_fraud.md",
+      "project_familylaw_audit.md (for any property-related dissolution issues)"
+    ],
+    "factor_audits": [
+      {
+        "factor_id": "Acknowledgment requirement",
+        "what_the_statute_requires": "A conveyance must be 'acknowledged or proved' before it can be recorded. Acknowledgment is typically performed by a notary public, who verifies the identity of the signer and certifies that the signature was made voluntarily.",
+        "what_the_record_shows": "Per project_house_sale_fraud.md, 19 documents in the 2958 Honeysuckle sale are described as 'unsigned.' If those documents include any conveyances (deeds, assignments, transfers), an unsigned document cannot be acknowledged, cannot be certified, and is therefore not entitled to recording under § 1213.",
+        "audit_question": "For each of the 19 unsigned documents in the 2958 Honeysuckle sale, what was the document's intended legal effect? If any of them was a conveyance instrument that requires acknowledgment to be recordable, the document is structurally void for the purpose of constructive notice under § 1213.",
+        "audit_status": "CRITICAL — load-bearing audit item for the house sale fraud case."
+      },
+      {
+        "factor_id": "Certification requirement",
+        "what_the_statute_requires": "After acknowledgment, the conveyance must be 'certified' — meaning the notary's acknowledgment must be properly documented in the form prescribed by California law (typically a notary jurat or acknowledgment certificate appended to the conveyance).",
+        "what_the_record_shows": "Where conveyances in the steward's house sale lack proper certification (missing notary stamp, missing notary signature, mismatched acknowledgment dates, etc.), they are not entitled to recording.",
+        "audit_question": "For each conveyance in the 2958 Honeysuckle sale chain, was the notary acknowledgment properly certified per California Civil Code § 1188 (the form-of-acknowledgment requirement)?",
+        "audit_status": "FLAGGED — requires document-by-document review of the conveyance chain."
+      },
+      {
+        "factor_id": "Recording requirement and time of filing",
+        "what_the_statute_requires": "The conveyance must be 'recorded as prescribed by law' AND constructive notice runs from the TIME OF FILING with the recorder. The race-notice rule means a subsequent purchaser without notice who records FIRST takes free of an earlier unrecorded conveyance.",
+        "what_the_record_shows": "Per project_house_sale_fraud.md, the equity discrepancy in the 2958 Honeysuckle sale ($465K equity becoming $109K) is consistent with either (1) undisclosed liens that were recorded before the sale, OR (2) post-sale conveyances that affected the actual equity available to the steward, OR (3) recording-chain failures that allowed liens to attach without the steward's knowledge.",
+        "audit_question": "What is the complete chain of recorded instruments against 2958 Honeysuckle from the time the steward acquired the property to the time of sale? For each recorded instrument, who was the recorded party, when was it filed, and what was the steward's actual notice of it?",
+        "audit_status": "CRITICAL — the recording chain IS the title chain. Reconstructing the recording chain from county recorder records is the foundation of any quiet title or fraud claim."
+      },
+      {
+        "factor_id": "Constructive notice scope",
+        "what_the_statute_requires": "Recording creates constructive notice to 'subsequent purchasers and mortgagees.' This means a subsequent purchaser is DEEMED to know what is in the recorded chain, whether or not they actually checked. Conversely, a subsequent purchaser is NOT charged with constructive notice of unrecorded conveyances.",
+        "what_the_record_shows": "If the steward was a subsequent purchaser at any point in the property's chain (e.g., when he first acquired the property, or when refinancing, or when the property was deeded to or from any related party), he is deemed by law to have constructive notice of every recorded instrument that preceded his interest. Conversely, if anyone took an interest in the property after his interest was recorded, that person is deemed to have constructive notice of his interest.",
+        "audit_question": "Was the steward's interest in 2958 Honeysuckle properly recorded such that any subsequent transferee was on constructive notice of his interest? If subsequent transferees claimed to take 'free' of his interest, was their claim supportable under § 1213 race-notice rule?",
+        "audit_status": "FLAGGED — bridges directly to whether the sale could have proceeded lawfully without the steward's involvement."
+      },
+      {
+        "factor_id": "Cross-county recording effectiveness",
+        "what_the_statute_requires": "Where a property's title chain crosses county lines, a certified copy of an already-recorded conveyance may be recorded in the new county with the same force and effect as the original.",
+        "what_the_record_shows": "Not directly relevant to the 2958 Honeysuckle audit unless the property chain crossed county lines, which is unusual for a single residential parcel.",
+        "audit_status": "NOT APPLICABLE — included for completeness."
+      }
+    ],
+    "audit_summary": "TWO CRITICAL audit items: (1) the unsigned-documents question (whether any of the 19 unsigned documents was a conveyance that required acknowledgment to be recordable), and (2) the recording-chain reconstruction (the complete chain of recorded instruments against 2958 Honeysuckle, which IS the title chain). Action items: (a) classify each of the 19 unsigned documents as either a conveyance instrument or some other type of document; (b) pull the complete recording chain from the county recorder for 2958 Honeysuckle and reconstruct the title sequence."
+  },
+  "umbrellas": [
+    "Property / Title / Ownership (Umbrella 12) — primary",
+    "Authority / Governing Law (Umbrella 01) — secondary",
+    "Integrity / Provenance / Records (Umbrella 09) — overlap, because § 1213 IS structurally a chain-of-custody / provenance rule applied to real property"
+  ],
+  "owner_citizen": {
+    "primary": "California Real Estate Attorney",
+    "ownership_note": "Real Estate Attorney as canonical owner. § 1213 is the constructive-notice provision that determines priority of competing claims to California real property and is the doctrinal foundation of California title insurance."
+  },
+  "triple_constraint_test_results": {
+    "governing_guidelines": {
+      "passes": true,
+      "evidence": "Cal. Civ. Code § 1213 located at official California Legislative Information; binding state authority confirmed; verbatim text extracted to current/cal_civ_1213_leginfo.txt"
+    },
+    "standards_of_creation": {
+      "passes": true,
+      "evidence": "Single-paragraph section, internally consistent, traces to original 1872 Civil Code enactment, most recently amended 1989."
+    },
+    "standard_of_care": {
+      "passes": "PARTIAL",
+      "current_layer": "VERIFIED — current form fetched, hashed (sha256: c4fb7a2cb56e65f755fe164071ce3ddbf0019c0e9a36598d8486237f11423a98), and verbatim-extracted",
+      "evolution_layer": "INCOMPLETE — 1872 origin and 1989 amendment not yet primary-source captured",
+      "origin_layer": "NOT YET FETCHED — 1872 California Civil Code requires accessing the Code Commission's original publication"
+    }
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — verbatim text extracted",
+    "reasoning": "PARTIAL — the substantive reasoning behind recording acts is well-known (race-notice solves the priority problem when multiple claimants assert competing interests in the same property) but not yet captured as primary-source legislative history",
+    "historical_loss": "OUTSTANDING — the documented harms that drove the 1872 codification (multiple-grant fraud, secret liens, title chaos in mining-era California) are well-known but not yet primary-source documented",
+    "cross_references": "PARTIAL — § 1213 connects to Civil Code § 1188 (form of acknowledgment), § 1214 (race-notice priority rule for unrecorded conveyances), § 1215 (definition of conveyance), Government Code § 27201 et seq. (county recorder duties), CCP § 760.010 et seq. (quiet title actions). Capturing each as integrity-tracked HTML markers is outstanding work.",
+    "verifiable_provenance": "PRESENT for current form; ABSENT for 1872 origin and 1989 amendment"
+  },
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction (Michael Hartmann), 2026-04-08",
+    "second_mouth_witness": "NONE — not yet countersigned",
+    "publishable_to_corpus": false,
+    "status": "WITNESSED-BY-HERALD",
+    "audit_witness_required": "The two CRITICAL audit items (unsigned-documents classification and recording-chain reconstruction) are the load-bearing ones for the house sale fraud case. Steward review should specifically address these."
+  },
+  "files": {
+    "origin": [],
+    "evolution": [],
+    "current": [
+      "current/cal_civ_1213_leginfo.html",
+      "current/cal_civ_1213_leginfo.txt"
+    ],
+    "context": [],
+    "manifest": "manifest.json",
+    "provenance": "provenance.json"
+  },
+  "outstanding_work": [
+    "Locate and fetch the original 1872 California Civil Code provisions (§§ 1213-1220) — the 1872 Code is itself a primary-source artifact in California legal history",
+    "Fetch Stats. 1989, Ch. 698 (most recent amendment)",
+    "Fetch each cross-referenced Civil Code section (§§ 1188, 1214, 1215) as integrity-tracked HTML markers",
+    "Fetch California Government Code § 27201 et seq. (county recorder duties)",
+    "Document the historical-loss layer — what specific incidents in mining-era California (multiple-grant fraud, secret liens, title chaos) drove the 1872 codification",
+    "STEWARD: Classify each of the 19 unsigned documents in the 2958 Honeysuckle sale as either a conveyance instrument or some other document type. For each that is a conveyance, confirm whether acknowledgment was required for recordability under § 1213.",
+    "STEWARD: Pull the complete recording chain for 2958 Honeysuckle from the county recorder for the entire period of the steward's interest in the property. Reconstruct the title sequence and identify any anomalies.",
+    "Obtain second-mouth countersignature on the standard"
+  ],
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

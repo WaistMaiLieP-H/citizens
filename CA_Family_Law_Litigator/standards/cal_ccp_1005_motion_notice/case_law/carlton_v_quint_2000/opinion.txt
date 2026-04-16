@@ -1,0 +1,12 @@
+Carlton v. Quint
+77 Cal.App.4th 690 (2000)
+California Court of Appeal, Third Appellate District, 2000
+
+FACTS:
+Civil action in which the moving party filed a motion and served the opposing party by mail within California. The moving party calculated the notice period using 16 calendar days rather than 16 court days and did not add the 5-calendar-day mail extension. The opposing party received papers fewer than 16 court days + 5 calendar days before the hearing and objected to insufficient notice.
+
+HOLDING — CCP § 1005:
+The Court of Appeal confirmed that § 1005(b) requires: (1) 16 COURT days minimum (not calendar days); AND (2) the applicable service extension added on top. For California mail service, the total required advance notice before the hearing is 16 court days plus 5 calendar days. Failure to provide the full notice period renders the motion procedurally defective and provides grounds for continuance or denial.
+
+SIGNIFICANCE:
+The leading case for the rule that court days and calendar days are not interchangeable under § 1005. Every practitioner (and pro se litigant) calculating a motion notice period must: (1) use court days, not calendar days; (2) add the service extension on top. A party who receives insufficient notice under this formula has a right to object and the court has discretion to continue or deny.

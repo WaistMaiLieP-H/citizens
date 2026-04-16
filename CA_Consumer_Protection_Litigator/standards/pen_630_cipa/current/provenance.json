@@ -1,0 +1,17 @@
+{
+  "standard_id": "PEN_630_CIPA",
+  "primary_citation": "Cal. Penal Code §§630-638 (California Invasion of Privacy Act)",
+  "original_enactment": "Stats. 1967, Ch. 1509 (enacted as Cal. Penal Code §630 et seq.)",
+  "current_version": "Cal. Penal Code §632.7 (last substantively amended by Stats. 2016, Ch. 541)",
+  "key_civil_remedy_provision": "Cal. Penal Code §637.2",
+  "amendments": [
+    "Stats. 1985, Ch. 1360 — added §§632.5 and 632.6 (cordless and cellular telephone interception)",
+    "Stats. 1992, Ch. 298 — added §632.7 (combined cellular/cordless; eliminated confidentiality requirement for cellular)",
+    "Stats. 2016, Ch. 541 — expanded §632.7 to cover communications transmitted to or from cellular radio or cordless telephone (modernized)"
+  ],
+  "fetch_method": "VernenLegal MCP — california_get_section (leginfo.legislature.ca.gov official source)",
+  "fetch_timestamp_utc": "2026-04-11T00:00:00Z",
+  "retrieval_steward": "Claude (assistant) under direction of Michael Hartmann",
+  "verbatim_capture_status": "COMPLETE — pen_630_leginfo.txt contains verbatim text of §§630, 631, 632, 632.7, 637.2",
+  "txt_sha256": "93da8de6d270a9b6d748deef9f8dd19c3d30704cc8ba2c423807e056e3aedb3f"
+}

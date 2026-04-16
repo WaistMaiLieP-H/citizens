@@ -1,0 +1,13 @@
+{
+  "case_name": "Massachusetts Mutual Life Insurance Co. v. Russell",
+  "year": 1985,
+  "reporter_citation": "473 U.S. 134",
+  "parallel_citations": ["105 S.Ct. 3085", "87 L.Ed.2d 96"],
+  "court": "United States Supreme Court",
+  "decided": "1985-06-27",
+  "author": "Stevens, J.",
+  "vote": "6-3",
+  "statute_interpreted": "29 U.S.C. §§ 1001, 1109, 1132(a)(2)",
+  "verification_status": "VERIFIED — SCOTUS opinion; published in United States Reports",
+  "significance": "SCOTUS — § 1132(a)(2) / § 1109 authorizes plan-level relief only; individual extracontractual/punitive damages not available; individual recovery flows through (a)(1)(B) and (a)(3)"
+}

@@ -1,0 +1,20 @@
+{
+  "standard_id": "CA_PUC_399_11_RPS",
+  "provenance_record_filed_at_utc": "2026-04-08T09:23:00Z",
+  "fetcher_software": "curl with sha256sum (one-shot batch fetch as part of 2026-04-08 breadth-first umbrella seeding pass)",
+  "fetcher_operator": "Claude (assistant) under steward direction (Michael Hartmann)",
+  "verification_principle": "Current-form HTML is the primary artifact for sections whose canonical text lives at the named source authority. The HTML snapshot is hashed at fetch time so a future verifier can confirm it matches what the source served on this date.",
+  "fetches": [
+    {
+      "artifact_local_path": "current/cal_puc_399_11_leginfo.html",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=399.11.&lawCode=PUC",
+      "source_authority": "California Legislative Information (leginfo.legislature.ca.gov)",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-08T09:23:00Z",
+      "fetch_method": "curl -sSL --max-time 60 with Vernen-Provenance user-agent (one-shot batch fetch)",
+      "file_size_bytes": 167372,
+      "sha256": "b87326aeab366aa71777e92498f3d9648b57c6343a6d40caaae704ac0d1daff4",
+      "content_description": "California Renewables Portfolio Standard (RPS) \u2014 Legislative Findings"
+    }
+  ]
+}

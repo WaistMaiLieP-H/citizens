@@ -1,0 +1,34 @@
+California Probate Code § 811 — Capacity Determination: Mental Function Deficits
+
+(a) A determination that a person is of unsound mind or lacks the capacity to make a decision or do a certain act shall be supported by EVIDENCE OF A DEFICIT IN AT LEAST ONE of the following mental functions, AND evidence of a CORRELATION between the deficit and the decision or acts in question:
+
+(1) Alertness and attention:
+  (A) Level of arousal or consciousness
+  (B) Orientation to time, place, person, and situation
+  (C) Ability to attend and concentrate
+
+(2) Information processing:
+  (A) Short- and long-term memory, including immediate recall
+  (B) Ability to understand or communicate with others
+  (C) Recognition of familiar objects and familiar persons
+  (D) Ability to understand and appreciate quantities
+  (E) Ability to reason using abstract concepts
+  (F) Ability to plan, organize, and carry out actions in one's own rational self-interest
+  (G) Ability to reason logically
+
+(3) Thought processes (deficits demonstrated by):
+  (A) Severely disorganized thinking
+  (B) Hallucinations
+  (C) Delusions
+  (D) Uncontrollable, repetitive, or intrusive thoughts
+
+(4) Ability to modulate mood and affect (deficits demonstrated by):
+  Pervasive and persistent or recurrent state of euphoria, anger, anxiety, fear, panic, depression, hopelessness, helplessness, apathy, or indifference — INAPPROPRIATE IN DEGREE to the individual's circumstances.
+
+(b) A deficit may be considered ONLY IF IT SIGNIFICANTLY IMPAIRS the person's ability to understand and appreciate the consequences of their actions with regard to the type of act or decision in question.
+
+(c) The court may consider the frequency, severity, and duration of periods of impairment.
+
+(d) THE MERE DIAGNOSIS OF A MENTAL OR PHYSICAL DISORDER SHALL NOT BE SUFFICIENT IN AND OF ITSELF to support a determination that a person is of unsound mind or lacks capacity.
+
+[Source: leginfo.legislature.ca.gov via VernenLegal MCP tool, fetched 2026-04-09]

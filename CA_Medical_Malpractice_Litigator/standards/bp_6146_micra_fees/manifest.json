@@ -1,0 +1,72 @@
+{
+  "standard_id": "BP_6146_MICRA_FEES",
+  "citizen": "CA_Medical_Malpractice_Litigator",
+  "version": "0.1.0-proposed",
+  "filed_at_utc": "2026-04-11T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "PROPOSED",
+  "build_method": "Logical Delta (LOGIC.md at each evolution stage)",
+  "primary_citation": {
+    "code": "Cal. Bus. & Prof. Code",
+    "section": "§6146",
+    "popular_name": "MICRA Attorney Fee Sliding Scale",
+    "jurisdiction": "California",
+    "original_enactment": "Stats. 1975, 2d Ex. Sess., Ch. 2 (MICRA package)",
+    "effective": "1975-12-12",
+    "key_amendment": "AB 35 (Stats. 2022, Ch. 395) — thresholds raised 5×; effective January 1, 2023"
+  },
+  "current_fee_schedule": {
+    "tier1": "40% of first $250,000",
+    "tier2": "33.33% of next $250,000 ($250K–$500K)",
+    "tier3": "25% of next $500,000 ($500K–$1M)",
+    "tier4": "15% of any amount over $1,000,000",
+    "effective_date": "2023-01-01",
+    "note": "Applies to all contingency fee agreements in medical malpractice cases; mandatory; non-waivable by client"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current/LOGIC.md documents current sliding scale (post-AB 35 thresholds), disclosure requirement, voidability consequence, interaction with §3333.2 and §3333.1, pro se exception, and pre-Hrimnak escape calculation showing attorney fee economics for SIRVA and spine surgery cases",
+    "reasoning": "PRESENT — LOGIC.md at each evolution stage documents the MICRA framing and the sliding scale structure",
+    "historical_loss": "PRESENT — historical_chain.md documents 1975 original thresholds, 47-year non-adjustment, access-to-justice consequences, AB 35 modernization",
+    "cross_references": "PRESENT — refs.json links to §3333.2 (AB 35 sibling), §3333.1 (MICRA compound), §364 (notice deadline), SIRVA case binding",
+    "verifiable_provenance": "PARTIAL — provenance.json files; primary-source capture PENDING"
+  },
+  "evolution_chain": [
+    {"stage": "01_origin_1975", "folder": "evolution/01_origin_1975/", "status": "LOGIC_BUILT"},
+    {"stage": "02_ab35_2022_updated_thresholds", "folder": "evolution/02_ab35_2022_updated_thresholds/", "status": "LOGIC_BUILT"},
+    {"stage": "03_current", "folder": "current/", "status": "LOGIC_BUILT"}
+  ],
+  "case_law": {
+    "uphold": [
+      {
+        "slug": "california_attorney_v_superior_court",
+        "cite": "Roa v. Lodi Medical Group, Inc., 37 Cal.3d 920 (1985)",
+        "rule": "§6146 constitutional; fee agreements exceeding §6146 are voidable by client regardless of written agreement",
+        "files": ["holding.md", "provenance.json", "statute_version_cited.md"],
+        "status": "BUILT"
+      }
+    ],
+    "interpretive": []
+  },
+  "cross_refs_path": "cross_refs/refs.json",
+  "historical_chain_path": "historical_chain.md",
+  "operational_notes_for_steward_cases": {
+    "sirva_fee_calculation": {
+      "expected_recovery_baseline": "$470K noneconomic (2026 rate) + medical/economic damages (estimated $150K–$200K)",
+      "total_estimated_recovery": "$620K–$670K",
+      "estimated_attorney_fee": "~$218K–$226K (approximately 33%–34% of total recovery)",
+      "note": "This is an attractive case for plaintiff's malpractice firms under the AB 35 fee schedule."
+    },
+    "spine_surgery_intentional_tort": {
+      "hrimnak_escape": "Framing as fraud/battery removes the case from MICRA's professional negligence scope — §6146 does NOT apply to intentional tort claims. Standard contingency rules govern. Attorney may negotiate 33%–40% standard contingency.",
+      "note": "The §6146 limitation is MICRA-specific. Intentional tort claims are not 'medical malpractice' for fee-cap purposes."
+    },
+    "pro_se_note": "§6146 governs attorney-client contingency fee agreements. Michael acting pro se has no attorney fee to calculate — he retains 100% of any recovery. §6146 only becomes relevant when engaging malpractice counsel.",
+    "disclosure_checklist": "When retaining malpractice attorney: (1) Receive written §6146 fee schedule disclosure; (2) Verify fee agreement does not exceed statutory maximums; (3) Clarify whether attorney will advance litigation costs (affects net vs. gross recovery calculation for fee base); (4) Obtain written confirmation that the Hrimnak/intentional tort framing is being pursued for spine surgery case (takes case outside §6146)"
+  },
+  "outstanding_work": [
+    "Primary-source opinion text for Roa v. Lodi Medical Group",
+    "Second-mouth witness review",
+    "Obtain current §6146 written disclosure form from State Bar of California to understand precise disclosure requirements"
+  ],
+  "witness_status": "AWAITING_STEWARD_WITNESS"
+}

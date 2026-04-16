@@ -1,0 +1,97 @@
+{
+  "standard_id": "USC_15_1681_FCRA",
+  "citizen": "US_Federal_Financial_Fraud_Litigator",
+  "version": "0.1.0-proposed",
+  "filed_at_utc": "2026-04-10T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "PROPOSED",
+  "build_method": "Logical Delta (LOGIC.md at each evolution stage)",
+  "prior_attempt_note": "An earlier attempt to build this standard was rolled back 2026-04-10 (session budget limit, no-stubs rule). This is the fresh build per that rollback decision.",
+  "primary_citation": {
+    "code": "15 USC",
+    "sections": "§§1681–1681x",
+    "popular_name": "Fair Credit Reporting Act (FCRA)",
+    "jurisdiction": "Federal",
+    "original_enactment": "Pub. L. 91-508, 84 Stat. 1128 (Oct. 26, 1970)",
+    "effective": "1971-04-25",
+    "key_amendments": [
+      "Consumer Credit Reporting Reform Act of 1996, Pub. L. 104-208 (added §1681s-2(b) furnisher duty; 30-day reinvestigation clock)",
+      "FACTA 2003, Pub. L. 108-159 (added §1681c-2 identity theft block; §1681c-1 fraud alerts; §1681j(a) free annual report)",
+      "Dodd-Frank 2010, Pub. L. 111-203 (transferred enforcement authority to CFPB)"
+    ]
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current/LOGIC.md documents 4 structural duties (§1681e(b) accuracy, §1681i reinvestigation, §1681s-2(b) furnisher, §1681c-2 identity theft block) + damages architecture (§1681n willful / §1681o negligent) + Spokeo/TransUnion standing requirements",
+    "reasoning": "PRESENT — LOGIC.md at each evolution stage documents the wound answered (1970: black-box opacity; 2003: identity-thief tradeline loop) and the structural response",
+    "historical_loss": "PRESENT — historical_chain.md documents the pre-1970 opacity wound, the 1970 promise, the 1996 furnisher-duty addition, the 2003 FACTA sharpening, and the 2016-2021 standing evolution",
+    "cross_references": "PRESENT — refs.json links to §1028 (criminal parallel), FDCPA (companion statute), wire fraud (predicate), civil RICO (enterprise theory), ChexSystems case binding, Treasury case binding, FTC identity theft report (procedural prerequisite)",
+    "verifiable_provenance": "PARTIAL — provenance.json files at each stage; primary-source capture PENDING"
+  },
+  "evolution_chain": [
+    {"stage": "01_origin_1970", "folder": "evolution/01_origin_1970/", "status": "LOGIC_BUILT"},
+    {"stage": "02_facta_2003", "folder": "evolution/02_facta_2003/", "status": "LOGIC_BUILT"},
+    {"stage": "03_current", "folder": "current/", "status": "LOGIC_BUILT"}
+  ],
+  "case_law": {
+    "uphold": [],
+    "strike": [],
+    "interpretive": [
+      {
+        "slug": "safeco_v_burr",
+        "cite": "551 US 47 (2007)",
+        "rule": "Willful under §1681n = objectively unreasonable interpretation of statute (reckless disregard); opens institutional-policy willfulness theory + punitive damages",
+        "files": ["holding.md", "provenance.json", "statute_version_cited.md"],
+        "status": "BUILT"
+      },
+      {
+        "slug": "spokeo_v_robins",
+        "cite": "578 US 330 (2016)",
+        "rule": "Bare procedural FCRA violation without concrete harm ≠ Article III standing; must show real harm or realistic risk of harm from inaccuracy",
+        "files": ["holding.md", "provenance.json", "statute_version_cited.md"],
+        "status": "BUILT"
+      },
+      {
+        "slug": "transunion_v_ramirez",
+        "cite": "594 US 413 (2021)",
+        "rule": "Concrete injury requires downstream disclosure to third party; inaccuracy in file never disclosed = no standing; defamation-by-publication analogy",
+        "files": ["holding.md", "provenance.json", "statute_version_cited.md"],
+        "status": "BUILT"
+      }
+    ]
+  },
+  "cross_refs_path": "cross_refs/refs.json",
+  "historical_chain_path": "historical_chain.md",
+  "operational_notes_for_steward_cases": {
+    "chexsystems_action_plan": {
+      "step_1": "Request full ChexSystems file + complete disclosure log under §1681g. Identify every subscriber pull and date.",
+      "step_2": "Identify each inaccurate entry. Document which bank denial corresponds to which entry (standing anchor per TransUnion).",
+      "step_3": "If any entry resulted from identity theft (SSN theft, fraudulent account): file FTC identity theft report at IdentityTheft.gov FIRST.",
+      "step_4": "Submit §1681c-2 blocking request to ChexSystems with FTC report + proof of identity + identification of entries to block. ChexSystems must block within 4 business days.",
+      "step_5": "If ChexSystems fails to block within 4 days OR wrongfully rescinds the block: §1681n willful violation (Safeco recklessness standard). Statutory $100-$1,000 per violation + punitive."
+    },
+    "treasury_downstream_plan": {
+      "note": "If Treasury identity theft resulted in any CRA reporting (Equifax, Experian, TransUnion, ChexSystems, LexisNexis), apply same §1681c-2 blocking procedure. The FTC identity theft report covers all downstream CRA reporting from a single theft event."
+    },
+    "standing_documentation_checklist": [
+      "Date of each ChexSystems or CRA inquiry (subscriber pulls from disclosure log)",
+      "Identity of subscriber (bank name or creditor name)",
+      "Adverse action taken (account denial letter, credit denial, employment denial)",
+      "Dollar amount of harm if quantifiable (account fees avoided, higher interest rate, etc.)",
+      "Emotional distress harm if documented (medical records, contemporaneous notes)"
+    ],
+    "sol": {
+      "rule": "2 years from date plaintiff discovered violation, or 5 years from date violation occurred, whichever is earlier. §1681p.",
+      "ongoing_reporting_note": "Each new disclosure of an inaccurate report to a third party is a new violation with a new SOL clock. A ChexSystems entry that was disclosed to a bank in 2024 AND in 2026 produces two separate violations, each with its own 2-year discovery clock."
+    }
+  },
+  "outstanding_work": [
+    "File FTC identity theft report to trigger §1681c-2 blocking rights (steward action, not build work)",
+    "Request ChexSystems full file + disclosure log under §1681g",
+    "Request all three nationwide CRAs' full files + disclosure logs",
+    "Primary-source opinion text capture for Safeco, Spokeo, TransUnion",
+    "Add case law: Nelson v. Samsung Elecs. Am. (9th Cir. 2023) re: ongoing violation SOL",
+    "Add case law: Sessa v. Trans Union (E.D. Pa. 2021) re: §1681i reinvestigation sufficiency",
+    "Second-mouth witness review"
+  ],
+  "witness_status": "AWAITING_STEWARD_WITNESS"
+}

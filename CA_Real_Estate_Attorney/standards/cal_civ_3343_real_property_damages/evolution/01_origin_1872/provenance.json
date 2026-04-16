@@ -1,0 +1,15 @@
+{
+  "evolution_stage": "01_origin_1872",
+  "standard_id": "CAL_CIV_3343",
+  "description": "1872 California Civil Code § 3343 — original out-of-pocket fraud damage measure",
+  "enacted": "1872-03-21",
+  "source": "California Civil Code, enacted 1872",
+  "primary_source_url": "https://www.legislature.ca.gov/",
+  "retrieval_method": "Historical legal research — requires primary source verification against 1872 California Civil Code (Deering's)",
+  "verification_status": "REQUIRES_PRIMARY_SOURCE_VERIFICATION",
+  "verification_note": "Consult 1872 California Civil Code at California State Archives or HathiTrust. Note: current subdivisions (a)(1)-(4) were added by subsequent amendment; verify original 1872 text did not contain these subcategories.",
+  "html_sha256": null,
+  "fetch_timestamp": "2026-04-11T00:00:00Z",
+  "fetch_tool": "historical research",
+  "retrieval_steward": "Claude (assistant) under steward direction — Michael Hartmann"
+}

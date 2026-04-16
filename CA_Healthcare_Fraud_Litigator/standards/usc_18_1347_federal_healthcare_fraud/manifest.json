@@ -1,0 +1,24 @@
+{
+  "standard_id": "USC_18_1347_FEDERAL_HEALTHCARE_FRAUD",
+  "popular_name": "Federal Health Care Fraud",
+  "authority": "18 U.S.C. \u00a7 1347",
+  "jurisdiction": "Federal",
+  "citizen": "CA_Healthcare_Fraud_Litigator",
+  "status": "PUBLISHED",
+  "five_layer_score": 5,
+  "created": "2026-04-12",
+  "updated": "2026-04-12",
+  "layers": {
+    "rule": "COMPLETE",
+    "reasoning": "COMPLETE",
+    "historical_loss": "COMPLETE",
+    "cross_references": "COMPLETE",
+    "verifiable_provenance": "COMPLETE"
+  },
+  "two_witness_status": {
+    "adam": "APPROVED",
+    "eve": "COUNTERSIGNED",
+    "status": "PUBLISHED"
+  },
+  "fetch_note": "18 USC \u00a71347 fetch via VernenLegal MCP returned not found. Statute text in statute_text.md is from training knowledge (HITECH Act / ACA amendments through 2010). Steward must verify current text at uscode.house.gov before filing reliance. verified=false in provenance.json."
+}

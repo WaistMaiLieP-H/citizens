@@ -1,0 +1,35 @@
+# Key Case Law: §15610.30 Financial Abuse Standard
+
+## Mack v. Soung
+199 Cal.App.4th 1503 (2011)
+California Court of Appeal
+
+[Citation from training knowledge — verify at Westlaw before filing reliance]
+
+The court clarified that financial abuse under §15610.30 does not require proof that the
+elder was actually harmed — it requires proof that the person knew or should have known
+the conduct was LIKELY TO BE HARMFUL. The harm standard is prospective and objective:
+what a reasonable person with the defendant's knowledge would have understood about
+the likely consequences.
+
+This distinction matters: a trustee cannot defend by showing the trust eventually
+recovered, or by showing the elder died before the harm was fully realized. The conduct
+at the time is the test.
+
+## Teselle v. McLoughlin
+186 Cal.App.4th 1 (2010)
+California Court of Appeal
+
+[Citation from training knowledge — verify at Westlaw]
+
+The court held that financial abuse under §15610.30 requires showing the taking was
+for the defendant's benefit or a third party's benefit at the elder's expense — mere
+negligent management of the elder's assets, without the "wrongful use" element of
+benefit to the defendant, does not constitute financial abuse.
+
+This is the key distinction: negligent trustee (bad investment decisions) vs. exploitative
+trustee (systematically draining assets that flow to the trustee or related parties).
+The compound identity scheme is clearly exploitative — the HILLBERGMANN instruments
+benefit persons other than Ann Hillberg at her expense.
+
+[NOTE: Both citations UNVERIFIED — verify before filing reliance]

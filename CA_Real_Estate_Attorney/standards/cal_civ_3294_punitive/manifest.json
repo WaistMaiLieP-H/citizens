@@ -1,0 +1,116 @@
+{
+  "standard_id": "CAL_CIV_3294",
+  "version": "0.2.0-witnessed-by-herald",
+  "filed_at_utc": "2026-04-10T20:40:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "primary_citation": {
+    "code": "California Civil Code",
+    "section": "§ 3294",
+    "popular_name": "Punitive (exemplary) damages",
+    "jurisdiction": "California (state)",
+    "location_in_code": "Division 4 (General Provisions), Part 1 (Relief), Title 2 (Compensatory Relief), Chapter 1 (Damages in General)",
+    "original_enactment": "California Civil Code of 1872 (operative 1873-01-01)",
+    "amendment_history": "Stats. 1980, ch. 1242 (added subd. (b) employer vicarious liability); Stats. 1987, ch. 1498 (added subd. (c) definitions, subd. (e) effective date, deleted 'express or implied' from (a)); Stats. 1988, ch. 938 (added subd. (d) homicide-based wrongful death).",
+    "positive_law_status": "In force. Stable since 1988."
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — verbatim current text captured via VernenLegal MCP from leginfo.legislature.ca.gov on 2026-04-10",
+    "reasoning": "PRESENT — the 1872 context (pre-codification common-law exemplary damages and venue-shopping fraud multiplier), the 1980 amendment context (business-led vicarious liability restriction), the 1987 amendment context (tort reform movement and 'despicable' threshold), and the 1988 addition (wrongful death homicide exception) are all documented in the evolution folders",
+    "historical_loss": "PRESENT — the wound is pre-1872 California's uneven exemplary-damages doctrine that turned venue into a fraud multiplier, and the 1872 promise of uniform statewide punitive availability. Documented in historical_chain.md and evolution/01_origin_1872/context.md",
+    "cross_references": "PRESENT — cross_refs/refs.json links to § 1572, §§ 1709-1710, CCP §§ 3295 and 377.34, § 3343, federal constitutional cases (Gore, State Farm, Simon), CACI instructions, and the four case law entries",
+    "verifiable_provenance": "PARTIAL — current text via MCP; 1872/1980/1987/1988 amendment histories via Deering's and West's annotation histories. Outstanding: direct PDF capture of the Stats. chapters for each amendment (1980 ch. 1242; 1987 ch. 1498; 1988 ch. 938)."
+  },
+  "triple_constraint_test_results": {
+    "governing_guidelines": {
+      "passes": true,
+      "evidence": "Civ. Code § 3294 is binding California statute, continuously in force since 1872, with textual amendments traced to specific Stats. chapter citations"
+    },
+    "standards_of_creation": {
+      "passes": true,
+      "evidence": "Full evolution chain: 01_origin_1872 → 02_amendment_1980 → 03_amendment_1987 → 04_current (which incorporates the 1988 addition of (d)). Each stage has text, context, diff_from_prior, and provenance where applicable."
+    },
+    "standard_of_care": {
+      "passes": "PARTIAL",
+      "origin_layer": "VERIFIED — 1872 original text verified against codification histories",
+      "evolution_layer": "VERIFIED — four stages documented with diff analysis",
+      "current_layer": "VERIFIED — current text from MCP",
+      "case_law_layer": "PARTIAL — four leading cases documented (Taylor, College Hospital, Adams, Bankhead) with full holding.md + provenance.json + statute_version_cited.md. Additional cases pending (White v. Ultramar, Simon, Fletcher, Neal)."
+    }
+  },
+  "evolution_chain": [
+    {
+      "stage": "01_origin_1872",
+      "date": "1872-03-21",
+      "description": "Original 1872 Civil Code enactment; single paragraph; common-law codification",
+      "folder": "evolution/01_origin_1872/"
+    },
+    {
+      "stage": "02_amendment_1980",
+      "date": "1980 (Stats. ch. 1242)",
+      "description": "Added subdivision (b) employer vicarious liability rule",
+      "folder": "evolution/02_amendment_1980/"
+    },
+    {
+      "stage": "03_amendment_1987",
+      "date": "1987 (Stats. ch. 1498)",
+      "description": "Added subdivision (c) statutory definitions with 'despicable' threshold; deleted 'express or implied' from (a); added subdivision (e)",
+      "folder": "evolution/03_amendment_1987/"
+    },
+    {
+      "stage": "04_current",
+      "date": "1988 (Stats. ch. 938) through 2026",
+      "description": "Added subdivision (d) homicide-based wrongful death. No amendments 1988-2026.",
+      "folder": "evolution/04_current/"
+    }
+  ],
+  "case_law": [
+    {
+      "case_id": "taylor_v_superior_court_1979",
+      "citation": "Taylor v. Superior Court (1979) 24 Cal.3d 890",
+      "holding_summary": "Conscious disregard of known risks can constitute § 3294 malice without specific intent to injure. Categorical treatment of drunk driving; narrowed post-1988 but core doctrinal holding survives.",
+      "folder": "case_law/interpretive/taylor_v_superior_court_1979/"
+    },
+    {
+      "case_id": "adams_v_murakami_1991",
+      "citation": "Adams v. Murakami (1991) 54 Cal.3d 105",
+      "holding_summary": "Plaintiff must introduce evidence of defendant's financial condition at the punitive phase; without such evidence, any punitive award is reversed on appeal.",
+      "folder": "case_law/interpretive/adams_v_murakami_1991/"
+    },
+    {
+      "case_id": "college_hospital_v_superior_court_1994",
+      "citation": "College Hospital Inc. v. Superior Court (1994) 8 Cal.4th 704",
+      "holding_summary": "'Despicable' means vile, base, contemptible, miserable, wretched, or loathsome; ordinary negligence plus foreseeable harm is insufficient post-1988.",
+      "folder": "case_law/interpretive/college_hospital_v_superior_court_1994/"
+    },
+    {
+      "case_id": "bankhead_v_arvinmeritor_2012",
+      "citation": "Bankhead v. ArvinMeritor, Inc. (2012) 205 Cal.App.4th 68",
+      "holding_summary": "Modern synthesis of BMW/State Farm federal due process guideposts; reprehensibility is the most important factor; ratios above 9:1 permitted for extraordinary reprehensibility; potential-harm anchoring.",
+      "folder": "case_law/interpretive/bankhead_v_arvinmeritor_2012/"
+    }
+  ],
+  "cases_to_add": [
+    "white_v_ultramar_1999",
+    "simon_v_san_paolo_2005",
+    "fletcher_v_western_national_1970",
+    "neal_v_farmers_insurance_1978"
+  ],
+  "citizen_relevance": {
+    "target_case": "2958 Honeysuckle house sale (multi-year dispossession pattern, intentional fraud, vulnerable victim)",
+    "punitive_track": "FRAUD track under § 3294(c)(3) — avoids despicability threshold; OPPRESSION track as alternative based on multi-asset dispossession pattern",
+    "ratio_analysis": "Reprehensibility profile (intentional, multi-year, vulnerable victim, financial motive) supports ratio above 9:1 under Bankhead/Simon framework; potential-harm anchoring across the full dispossession pattern permits larger absolute award",
+    "trial_practice_flags": [
+      "Pre-trial CCP § 3295(c) motion for financial-condition discovery",
+      "Forensic accountant expert for Adams v. Murakami compliance",
+      "Managing-agent identification in discovery for any corporate defendants",
+      "Separate punitive-phase verdict form"
+    ]
+  },
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

@@ -1,0 +1,13 @@
+Tibble v. Edison International (monitoring duty)
+575 U.S. 523 (2015)
+United States Supreme Court, 2015
+
+FACTS:
+(See also case_law entry for § 1113 — same case, different holding emphasized here.)
+Plan fiduciaries maintained imprudent investment options for years without reviewing them for continued appropriateness. The specific question before the Supreme Court was whether fiduciaries have an ongoing duty to monitor plan investments — not just a one-time duty when investments are selected.
+
+HOLDING — 29 U.S.C. § 1104:
+The Supreme Court held that ERISA's prudence duty (§ 1104(a)(1)(B)) includes an ongoing duty to monitor plan investments and remove imprudent options. Fiduciaries must periodically review their investment selections and take corrective action when an investment becomes imprudent. This ongoing monitoring duty is a continuing obligation — it does not end when the investment is first selected.
+
+SIGNIFICANCE:
+Establishes that § 1104 imposes continuing, not one-time, duties. Applied beyond investments: plan administrators have an ongoing duty to monitor and maintain accurate participant records, to review benefit calculations for accuracy, and to correct errors when discovered. A plan administrator who learns that a participant's benefit has been miscalculated and does nothing to correct it has breached the § 1104 ongoing monitoring duty. The duty to monitor and correct is as important as the duty not to make the error in the first place.

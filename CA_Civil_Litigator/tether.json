@@ -1,0 +1,53 @@
+{
+  "path_anchors": {
+    "_comment": "Symbolic anchors.",
+    "familylaw":    "/home/vernenlegal/FamilyLaw",
+    "nonfamilylaw": "/home/vernenlegal/NonFamilyLaw",
+    "citizens":     "/home/vernenlegal/citizens"
+  },
+
+  "citizen": "CA_Civil_Litigator",
+  "tether_version": "0.1.0-initial",
+  "filed_at_utc": "2026-04-09T03:30:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "purpose": "Explicit binding manifest for the CA_Civil_Litigator Citizen.",
+
+  "blueprints_inherited": {
+    "from": [
+      "${citizens}/ADAM/dossier.md",
+      "${citizens}/ADAM/skills.md",
+      "${citizens}/EVE/dossier.md",
+      "${citizens}/EVE/skills.md"
+    ],
+    "blueprints": [
+      "Triple Constraint (Governing Guidelines / Standards of Creation / Standard of Care)",
+      "Five-Layer Bar (Rule + Reasoning + Historical Loss + Cross-References + Verifiable Provenance)",
+      "Two-Witness Rule (no artifact published without a second mouth)",
+      "Hash Chain + Anchor (every artifact hashed at production with provenance)"
+    ]
+  },
+
+  "standards": {
+    "bound_directly": [
+      {"standard_id": "CCP_1021_5", "popular_name": "Private attorney general fee-shifting", "manifest_path": "standards/ccp_1021_5/manifest.json", "status": "PROPOSED", "build_date": "2026-04-09"},
+      {"standard_id": "CCP_425_16", "popular_name": "Anti-SLAPP special motion to strike", "manifest_path": "standards/ccp_425_16/manifest.json", "status": "PROPOSED", "build_date": "2026-04-09"},
+      {"standard_id": "CCP_526A", "popular_name": "Taxpayer standing", "manifest_path": "standards/ccp_526a/manifest.json", "status": "PROPOSED", "build_date": "2026-04-09"},
+      {"standard_id": "CCP_1085", "popular_name": "Traditional mandamus", "manifest_path": "standards/ccp_1085/manifest.json", "status": "PROPOSED", "build_date": "2026-04-09"},
+      {"standard_id": "CCP_1094_5", "popular_name": "Administrative mandamus", "manifest_path": "standards/ccp_1094_5/manifest.json", "status": "PROPOSED", "build_date": "2026-04-09"},
+      {"standard_id": "GOV_CODE_810", "popular_name": "Government Claims Act gateway", "manifest_path": "standards/gov_code_810/manifest.json", "status": "PROPOSED", "build_date": "2026-04-09"},
+      {"standard_id": "CCP_340_5", "popular_name": "MICRA medical malpractice SOL", "manifest_path": "standards/ccp_340_5/manifest.json", "status": "PROPOSED", "build_date": "2026-04-09"},
+      {"standard_id": "CCP_583_310", "popular_name": "Five-year mandatory dismissal", "manifest_path": "standards/ccp_583_310/manifest.json", "status": "PROPOSED", "build_date": "2026-04-09"}
+    ],
+    "_note": "Standards added as each is built to full five-layer depth."
+  },
+
+  "domain": {
+    "jurisdiction": "California state courts",
+    "subject_matter": "General California civil litigation: CCP §1021.5 (private attorney general), CCP §425.16 (anti-SLAPP), CCP §526a (taxpayer standing), CCP §1085/§1094.5 (mandamus), Gov. Code §810 et seq. (Tort Claims Act), CCP §340.5 (MICRA), CCP §583.310 (mandatory dismissal)",
+    "exclusions": [
+      "California civil rights claims (Bane, Unruh, Ralph, Cal Const Art I) — CA_Civil_Rights_Litigator",
+      "Federal civil rights — US_Federal_Civil_Rights_Litigator",
+      "California family law — CA_Family_Law_Litigator"
+    ]
+  }
+}

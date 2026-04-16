@@ -1,0 +1,23 @@
+{
+  "case_number": "04-23-01959",
+  "court": "Contra Costa County Superior Court",
+  "type": "Criminal / Competency",
+  "current_status": "Active investigation per project_familylaw_audit.md",
+  "key_dates": [],
+  "source_folder": "TBD \u2014 to be located",
+  "related_actors": [
+    "wiita_patrick"
+  ],
+  "related_standards": [],
+  "related_cases": [],
+  "known_anomalies": [
+    "Dr. Patrick Wiita competency evaluation is described in the case audit as 'self-contradicting, template boilerplate, evaluated while high'",
+    "Connection to family-court matters is via the criminal/competency overlay on the family-court actor's posture"
+  ],
+  "outstanding_investigations": [
+    "Locate the source folder for this case",
+    "Obtain the full Wiita evaluation",
+    "Identify the underlying criminal charges and their disposition"
+  ],
+  "filed_at_utc": "2026-04-08T18:05:00Z"
+}

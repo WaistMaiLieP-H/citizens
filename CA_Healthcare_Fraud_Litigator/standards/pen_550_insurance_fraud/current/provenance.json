@@ -1,0 +1,10 @@
+{
+  "source": "California Legislative Information",
+  "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=550.&lawCode=PEN",
+  "retrieved": "2026-04-12",
+  "retrieval_tool": "VernenLegal MCP — california_get_section",
+  "sha256": "6317143ccc0fd6fc91e283594e880a1223c771195788978fec80fde86a35ad8c",
+  "bill_origin": "AB 3120 (1989) — original consolidation; health care provisions expanded through subsequent amendments",
+  "effective_date": "1989 (original); subsequent amendments through 2021",
+  "verified": true
+}

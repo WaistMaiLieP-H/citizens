@@ -1,0 +1,55 @@
+LAZAR v. SUPERIOR COURT (RYKOFF-SEXTON, INC.)
+12 Cal.4th 631 (1996)
+California Supreme Court
+Decided: February 29, 1996
+
+---
+
+FACTS:
+
+Andrew Lazar was a New York restaurant manager who sold his business and relocated his family to Los Angeles to take an executive position at Rykoff-Sexton, Inc. Before the move, Rykoff's agents told Lazar: (1) the company was in strong financial condition; (2) his position was secure with long-term prospects; (3) he could expect significant annual raises; and (4) Rykoff would support him as a "long-term member of the Rykoff family." Lazar resigned his New York job, sold his apartment, moved his family across the country, and took the job.
+
+Within two years Rykoff terminated him. Lazar alleged the representations were false when made: Rykoff knew at the time of hiring that it was in financial trouble, had no intention of providing the promised job security or raises, and recruited him precisely because his experience was needed for a restructuring that would eliminate his position.
+
+---
+
+HOLDING:
+
+THREE FOUNDATIONAL PROPOSITIONS ON PROMISSORY FRAUD:
+
+1. **Promissory fraud is actionable in tort.** "A promise made without present intent to perform is not merely a breach of contract — it is a fraudulent misrepresentation of the promisor's state of mind, and the promisor may be sued for the tort of deceit." (§§ 1572, 1709, 1710.)
+
+2. **The state-of-mind fact is the misrepresentation.** "When a person promises to do something while secretly intending not to perform, the misrepresentation is not about a future fact — it is about a present fact (the promisor's then-existing state of mind)."
+
+3. **Fraud pleading must be specific but reasonable inferences suffice on demurrer.** A complaint that: (a) alleges a specific promise; (b) alleges the promisor's contrary intent at the time of the promise; and (c) alleges circumstances from which that contrary intent can be inferred — survives demurrer. Rykoff's internal financial knowledge at time of hiring + simultaneous restructuring plans + pattern of recruitment-then-termination = sufficient to survive demurrer.
+
+THE LAZAR RULE:
+After Lazar, a defendant cannot defeat a promissory fraud claim at demurrer by saying "that's just a broken contract, not fraud." A complaint that alleges a specific promise, contrary intent at the time of the promise, and circumstances permitting that inference states a viable § 1572(4) cause of action. The plaintiff then gets discovery, and state of mind can be proved by circumstantial evidence.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Lazar applies directly to the 2958 Honeysuckle closing:
+
+1. **Promises in the closing documents**: Promises were embedded in the closing documents about where proceeds would go. Under Lazar, if the promisor had no intent to honor those promises at the time they were made, the claim is promissory fraud in tort — not merely breach of contract.
+
+2. **Pleading the contrary intent**: The complaint need only allege that at the time those promises were made the promisor had no intent to perform, and plead circumstances permitting that inference:
+   - Existence of unsigned documents concealing the true destination of funds
+   - Disposition to crypto and surgery accounts that could not have been surprise post-closing decisions
+   - Pre-planned diversion patterns
+
+3. **Tort remedies, not just contract**: Because Lazar allows the claim in tort, the plaintiff is entitled to fraud damages including punitive damages under § 3294 — not just expectation damages under contract.
+
+4. **Surviving demurrer**: Under Lazar, a demurrer to the promissory fraud count fails if the complaint alleges a specific promise + contrary intent + circumstances permitting the inference. The Honeysuckle facts supply all three elements.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 12 Cal.4th 631 (1996)
+Court: California Supreme Court
+Reporter: California Reports, Fourth Series, vol. 12, page 631
+Author: Arabian, J. (unanimous)
+Source of this text: Claude training data (knowledge cutoff August 2025) supplemented by holding.md from prior build session. Lazar v. Superior Court is the California Supreme Court's most-cited modern articulation of promissory fraud — a promise made without intent to perform is a tort, not merely a breach of contract, and the plaintiff must only plead circumstances from which contrary intent can be inferred.
+Verification: Casetext / Google Scholar: "Lazar v. Superior Court 12 Cal.4th 631"
+Verification status: PROPOSED — pending steward witness review

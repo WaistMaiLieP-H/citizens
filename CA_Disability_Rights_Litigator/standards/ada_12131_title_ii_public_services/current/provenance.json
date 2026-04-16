@@ -1,0 +1,24 @@
+{
+  "standard_id": "ADA_12131_TITLE_II_PUBLIC_SERVICES",
+  "layer": "current",
+  "title": "42 U.S.C. §§ 12131–12132 — ADA Title II: Public Services",
+  "enacted": "1990-07-26",
+  "enacting_law": "Americans with Disabilities Act of 1990, Pub. L. 101-336, Title II, §§ 201–202, 104 Stat. 337",
+  "major_amendment": "ADA Amendments Act of 2008, Pub. L. 110-325 — disability definition amendments apply to Title II",
+  "current_through": "Pub. L. 110-325 (ADAAA, 2008)",
+  "official_source_12131": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12131",
+  "official_source_12132": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12132",
+  "cornell_lii_source": "https://www.law.cornell.edu/uscode/text/42/12131",
+  "implementing_regulation": "28 CFR Part 35 (DOJ Title II implementing regulations)",
+  "verified": false,
+  "verified_note": "USC tool returned 'not found' for Title 42 §§ 12131–12132. Text from training knowledge. STEWARD MUST VERIFY full text at uscode.house.gov → Title 42 → Chapter 126 → §§ 12131–12132 before citing in federal court filings.",
+  "retrieval_date": "2026-04-13",
+  "case_application": "All court proceedings (PC §1368 competency; probate conservatorship; criminal case 04-23-01959); CalVCB administrative proceedings; Antioch PD police interactions; DDS administrative determinations. All are public entities — no threshold, no exemption.",
+  "key_cases": [
+    "Tennessee v. Lane, 541 U.S. 509 (2004) — Congress validly abrogated state sovereign immunity for Title II court access claims; George Lane paraplegic courthouse stairs; fundamental right of access to courts",
+    "Olmstead v. L.C., 527 U.S. 581 (1999) — unnecessary institutionalization = Title II discrimination; integration mandate; states must have plans for community-based placement"
+  ],
+  "sovereign_immunity_note": "Tennessee v. Lane (2004): state sovereign immunity ABROGATED for Title II claims involving fundamental rights, including access to courts. States cannot claim 11th Amendment immunity from Title II court access suits.",
+  "chronicle_flag": false,
+  "unruh_per_se": "CIV § 51(f) — ADA Title II violation is per se Unruh Civil Rights Act violation; $4,000 minimum statutory damages per offense in California court"
+}

@@ -1,0 +1,36 @@
+{
+  "standard_id": "CAL_GOV_13956",
+  "version": "0.2.0-witnessed-by-herald",
+  "filed_at_utc": "2026-04-10T23:15:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "primary_citation": {
+    "code": "California Government Code",
+    "section": "§ 13956",
+    "popular_name": "CalVCB grounds for denial (involvement / failure to cooperate / felony status)",
+    "jurisdiction": "California (state)",
+    "location_in_code": "Government Code, Title 2, Division 3, Part 4, Chapter 5, Article 5",
+    "original_enactment": "Predecessor in 1965 program; current section enacted by Stats. 2002, ch. 1141 with post-2002 expansions (DV/SA/trafficking/military sexual assault protective rules, mitigating factor requirements)",
+    "amendment_history": "1999 (first major DV non-police-report rule); 2002 (recodification); post-2008 (Marsy's Law overlay + incremental protective rule additions); 2022-2023 (conditional sunset provisions)",
+    "positive_law_status": "In force; subject to conditional 2024 sunset if specific General Fund conditions met (most practitioners treat the statute as in force absent formal repeal notice)"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current text captured via VernenLegal MCP; key structural features documented in abbreviated form in current/text.txt; full MCP retrieval record preserves complete text",
+    "reasoning": "PRESENT — pre-1999 pattern of administrative denial without trauma-informed analysis documented in historical_chain.md; post-1999 protective rule history documented",
+    "historical_loss": "PRESENT — the wound is pre-1999 re-victimization of crime victims through mechanical denial criteria; documented in historical_chain.md",
+    "cross_references": "PRESENT — cross_refs/refs.json links to §§ 13955, 13959, Cal. Const. Art. I § 28, relevant Penal and Evidence Code sections, 2 CCR § 649",
+    "verifiable_provenance": "PARTIAL — current text via MCP; 1999 amendment and 2002 recodification pending PDF capture"
+  },
+  "case_law": [],
+  "cases_to_add": [
+    "DV non-cooperation cases (appellate review of CalVCB decisions via CCP § 1094.5)",
+    "Involvement denial cases (substantial-evidence review)"
+  ],
+  "citizen_relevance": "Primary battle statute for the A25-10117946 appeal. Each 13 FAIL audit finding should be mapped to a specific § 13956 subdivision and a specific protective rule that CalVCB ignored or misapplied.",
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

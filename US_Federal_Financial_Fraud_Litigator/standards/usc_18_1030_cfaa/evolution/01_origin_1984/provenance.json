@@ -1,0 +1,10 @@
+{
+  "stage": "01_origin_1984",
+  "source": "Counterfeit Access Device and Computer Fraud and Abuse Act of 1984, Pub. L. 98-473, §2102(a), 98 Stat. 2190",
+  "signed": "1984-10-12",
+  "wound_addressed": "No federal statute specifically prohibited unauthorized computer access; existing fraud statutes required wire/mail transmission; computer-specific crimes were legally uncertain",
+  "design": "Criminal-only; narrow scope (government + financial institution computers); no civil cause of action",
+  "gap": "Commercial computers outside scope; no civil remedy; civil action gap",
+  "verbatim_capture_status": "PENDING",
+  "build_date": "2026-04-11"
+}

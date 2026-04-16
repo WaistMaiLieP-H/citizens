@@ -1,0 +1,16 @@
+{
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=LAB&sectionNum=226",
+  "fetch_tool": "mcp__claude_ai_VernenLegal__california_get_section",
+  "fetch_date": null,
+  "verified": false,
+  "verification_note": "Statute text composed from current-edition Labor Code and DLSE opinion letters; MCP live-fetch required before filing. Standard published PROPOSED with steward verify queue in statute_text.md.",
+  "statute_sha256": null,
+  "related_statutes": [
+    "Cal. Lab. Code \u00a7 226.2 (piece-rate compensation)",
+    "Cal. Lab. Code \u00a7 226.3 (civil penalty)",
+    "Cal. Lab. Code \u00a7 226.7 (meal/rest-period premium)",
+    "Cal. Lab. Code \u00a7 1776 (prevailing-wage recordkeeping on public works)",
+    "Cal. Lab. Code \u00a7 2699 (PAGA)",
+    "8 CCR \u00a7\u00a7 205-230 (Apprenticeship standards)"
+  ]
+}

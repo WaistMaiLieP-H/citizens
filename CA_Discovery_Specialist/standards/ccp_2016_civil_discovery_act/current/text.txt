@@ -1,0 +1,43 @@
+California Code of Civil Procedure § 2016.010 et seq. — Civil Discovery Act
+
+§ 2016.010. SHORT TITLE
+This chapter shall be known and may be cited as the "Civil Discovery Act."
+
+§ 2016.020. DEFINITIONS
+As used in this title:
+(a) "Action" includes a civil action and a special proceeding.
+(b) "Conduct" includes all of the following:
+(1) Oral testimony.
+(2) Signing a written response or supplemental response to discovery.
+(3) Providing electronically stored information.
+(c) "Discovery" means any of the following:
+(1) Oral and written depositions.
+(2) Interrogatories to a party.
+(3) Inspections of documents, things, and places.
+(4) Physical and mental examinations of persons.
+(5) Requests for admissions.
+(6) Simultaneous exchanges of expert trial witness information.
+
+§ 2016.040. MEET AND CONFER REQUIREMENT
+A meet and confer declaration in support of a motion shall state facts showing a reasonable and good faith attempt at an informal resolution of each issue presented by the motion.
+
+§ 2017.010. SCOPE OF DISCOVERY
+Unless otherwise limited by order of the court in accordance with this title, any party may obtain discovery regarding any matter, not privileged, that is relevant to the subject matter involved in the pending action or to the determination of any motion made in that action, if the matter either is itself admissible in evidence or appears reasonably calculated to lead to the discovery of admissible evidence. Discovery may relate to the claim or defense of the party seeking discovery or of any other party to the action. Discovery may be obtained of the identity and location of persons having knowledge of any discoverable matter, as well as of the existence, description, nature, custody, condition, and location of any document, electronically stored information, tangible thing, or land or other property.
+
+§ 2017.020. COURT AUTHORITY TO LIMIT DISCOVERY
+(a) The court shall limit the scope of discovery if it determines that the burden, expense, or intrusiveness of that discovery clearly outweighs the likelihood that the information sought will lead to the discovery of admissible evidence.
+
+§ 2031.010. INSPECTION, COPYING, TESTING, SAMPLING
+Any party may obtain discovery within the scope delimited by Chapter 2 (commencing with Section 2017.010), and subject to the restrictions set forth in Chapter 5 (commencing with Section 2019.010), by inspecting, copying, testing, or sampling documents, tangible things, land or other property, and electronically stored information in the possession, custody, or control of any other party to the action.
+
+§ 2030.010. WRITTEN INTERROGATORIES
+Any party may propound to any other party to the action written interrogatories, not exceeding 35 specially prepared interrogatories that are relevant to the subject matter of the pending action. No party shall, as a matter of right, propound to any other party more than 35 specially prepared interrogatories. If the proposed number of specially prepared interrogatories exceeds 35, the party propounding them shall attach a supporting declaration.
+
+§ 2025.010. ORAL DEPOSITIONS
+Any party may obtain discovery by taking in California the oral deposition of any person, including any party to the action. The person deposed may be a natural person, an organization such as a public or private corporation, a partnership, an association, or a governmental agency.
+
+§ 2033.010. REQUESTS FOR ADMISSION
+Any party may obtain discovery by a written request that any other party to the action admit the genuineness of specified documents, or the truth of specified matters of fact, opinion relating to fact, or application of law to fact.
+
+---
+SOURCE: California Code of Civil Procedure §§ 2016.010 et seq. (Civil Discovery Act). Originally enacted Stats. 2004 (recodification from former discovery statutes). Current text at leginfo.legislature.ca.gov.

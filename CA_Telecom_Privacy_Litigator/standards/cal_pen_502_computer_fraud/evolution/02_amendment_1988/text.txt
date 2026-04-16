@@ -1,0 +1,17 @@
+SB 2582 (Chapter 1616, Statutes of 1988) — Major Expansion
+
+The 1988 amendment was a comprehensive rewrite that replaced the narrow original with the modern statutory framework. Key changes:
+
+1. **Added definitions section** (subd. (b)) — for the first time, defined "access," "computer," "computer network," "computer system," "computer services," and "data." These definitions made the statute technology-neutral.
+
+2. **Eliminated the financial fraud requirement** for many subsections. The 1988 version added § 502(c)(7): "Knowingly and without permission accesses or causes to be accessed any computer, computer system, or computer network." This was PURE unauthorized access — no intent to defraud required.
+
+3. **Added civil private right of action** (subd. (e)): The owner or lessee who suffers damage or loss from a violation may bring a civil action for compensatory damages and injunctive relief. This was transformative — it made § 502 simultaneously criminal and civil.
+
+4. **Added "computer services"** as a separate protected category — covering the emerging time-share and network service industry.
+
+5. **Penalty structure** — misdemeanor for first offense, felony for repeat offense or causing substantial loss.
+
+This 1988 version is the structural ancestor of the current statute. The modern § 502(c)(7) (pure unauthorized access) in current law traces directly to this amendment.
+
+Source: Chapter 1616, Statutes of 1988; SB 2582.

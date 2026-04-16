@@ -1,0 +1,17 @@
+{
+  "path_anchors": {"familylaw":"/home/vernenlegal/FamilyLaw","nonfamilylaw":"/home/vernenlegal/NonFamilyLaw","citizens":"/home/vernenlegal/citizens"},
+  "citizen": "CA_Medical_Privacy_Officer",
+  "tether_version": "0.1.0-initial",
+  "filed_at_utc": "2026-04-09T05:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "purpose": "The CA_Medical_Privacy_Officer carries the Confidentiality of Medical Information Act (CMIA) and related medical privacy standards. This Citizen exists because the steward's case involves systematic unauthorized disclosure and weaponization of medical information — spine surgery fraud, SIRVA, SSA/DDS interactions, and potential conservatorship-based medical control.",
+  "blueprints_inherited": {"blueprints":["Triple Constraint","Five-Layer Bar","Two-Witness Rule","Hash Chain + Anchor"]},
+  "standards": {"bound_directly": [
+    {"standard_id":"CMIA_CIV_56_10","popular_name":"CMIA — authorized disclosures of medical information","status":"PARTIAL — text captured, needs depth"}
+  ]},
+  "domain": {
+    "jurisdiction": "California",
+    "subject_matter": "Medical privacy: CMIA (Civ. Code §56-56.37), HIPAA interaction, medical record access rights, authorized vs unauthorized disclosure, conservatorship medical authority",
+    "exclusions": ["Federal HIPAA enforcement — separate Citizen needed","General civil rights — CA_Civil_Rights_Litigator"]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "case_slug": "fcc_enforcement_history",
+  "citation": "Pattern documentation — multiple FCC enforcement actions 2007-2023",
+  "agency": "Federal Communications Commission, Enforcement Bureau",
+  "category": "enforcement_pattern",
+  "type": "Regulatory enforcement history documentation (not a single case)",
+  "key_actions": [
+    "FCC 07-22 (Feb. 2007) — comprehensive CPNI order; authentication rules",
+    "AT&T $25M consent decree (April 2015) — authentication failures",
+    "FCC 23-67 (2023) — SIM swap declaratory ruling"
+  ],
+  "rule_established": "Industry-wide knowledge of SIM swap / pretexting vulnerability; standard of care for carrier authentication is defined by FCC 07-22 and successor rules; AT&T has actual knowledge of vulnerability since 2015 enforcement action",
+  "verbatim_capture_status": "PENDING — individual FCC order numbers and citations require primary source verification",
+  "verification_note": "Verify all FCC order numbers via fcc.gov/enforcement/actions and FCC eCFR before use in filed documents"
+}

@@ -1,0 +1,20 @@
+{
+  "standard_id": "CA_HSC_113700_CALCODE",
+  "provenance_record_filed_at_utc": "2026-04-08T09:23:00Z",
+  "fetcher_software": "curl with sha256sum (one-shot batch fetch as part of 2026-04-08 breadth-first umbrella seeding pass)",
+  "fetcher_operator": "Claude (assistant) under steward direction (Michael Hartmann)",
+  "verification_principle": "Current-form HTML is the primary artifact for sections whose canonical text lives at the named source authority. The HTML snapshot is hashed at fetch time so a future verifier can confirm it matches what the source served on this date.",
+  "fetches": [
+    {
+      "artifact_local_path": "current/cal_hsc_113700_leginfo.html",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=113700.&lawCode=HSC",
+      "source_authority": "California Legislative Information (leginfo.legislature.ca.gov)",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-08T09:23:00Z",
+      "fetch_method": "curl -sSL --max-time 60 with Vernen-Provenance user-agent (one-shot batch fetch)",
+      "file_size_bytes": 162672,
+      "sha256": "1d1530c9752a7a94d20cd2b948c2828f99c0b72d3b40dcbfbf7b4869d2911ec3",
+      "content_description": "California Retail Food Code (CalCode) \u2014 Short Title and Scope"
+    }
+  ]
+}

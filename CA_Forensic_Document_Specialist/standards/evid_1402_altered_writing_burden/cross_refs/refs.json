@@ -1,0 +1,55 @@
+{
+  "standard_id": "evid_1402_altered_writing_burden",
+  "citizen": "CA_Forensic_Document_Specialist",
+  "build_date": "2026-04-13",
+  "cross_references": [
+    {
+      "ref_id": "XREF-1402-001",
+      "target_citizen": "CA_Forensic_Document_Specialist",
+      "target_standard": "evid_1400_authentication_definition",
+      "path": "${citizens}/CA_Forensic_Document_Specialist/standards/evid_1400_authentication_definition/",
+      "relationship": "prerequisite",
+      "note": "§1401 authentication is required before admission (layer 1 gate). §1402 altered document burden is layer 2 gate. Both must be cleared for admission. §1400 defines what authentication means."
+    },
+    {
+      "ref_id": "XREF-1402-002",
+      "target_citizen": "CA_Forensic_Document_Specialist",
+      "target_standard": "evid_1271_business_records_hearsay_exception",
+      "path": "${citizens}/CA_Forensic_Document_Specialist/standards/evid_1271_business_records_hearsay_exception/",
+      "relationship": "concurrent",
+      "note": "Business records that appear altered fail §1402 AND §1271(d) (trustworthiness). Both arguments run concurrently against suspect business records like the wrong CARFAX."
+    },
+    {
+      "ref_id": "XREF-1402-003",
+      "target_citizen": "CA_Mental_Health_Litigator",
+      "target_standard": "pen_1368_mental_competency",
+      "path": "${citizens}/CA_Mental_Health_Litigator/standards/pen_1368_mental_competency/",
+      "relationship": "application",
+      "note": "MC-350 form absence: the PC §1368 court-ordered evaluation produced without mandatory Judicial Council form triggers §1402 burden. The proponent of the informal evaluation must account for the deviation from the mandatory form."
+    },
+    {
+      "ref_id": "XREF-1402-004",
+      "target_citizen": "CA_Real_Estate_Attorney",
+      "target_standard": "civ_1572_actual_fraud",
+      "path": "${citizens}/CA_Real_Estate_Attorney/standards/civ_1572_actual_fraud/",
+      "relationship": "concurrent",
+      "note": "Honeysuckle 19 unsigned documents: §1402 operates on each document that appears incomplete or altered. CIV §1572 actual fraud operates on the transaction as a whole. Both run concurrently."
+    },
+    {
+      "ref_id": "XREF-1402-005",
+      "target_citizen": "CA_Criminal_Law_Specialist",
+      "target_standard": "pen_166_criminal_contempt",
+      "path": "${citizens}/CA_Criminal_Law_Specialist/standards/pen_166_criminal_contempt/",
+      "relationship": "parallel",
+      "note": "OPD missing report: §1402 applies to any OPD records that appear altered to remove references to 6/2/2009 report. PC §134 (preparing false evidence) applies to the actor who removed/altered the records."
+    },
+    {
+      "ref_id": "XREF-1402-006",
+      "target_citizen": "CA_Vehicle_Code_Specialist",
+      "target_standard": "veh_11713_dealer_prohibited_acts",
+      "path": "${citizens}/CA_Vehicle_Code_Specialist/standards/veh_11713_dealer_prohibited_acts/",
+      "relationship": "concurrent",
+      "note": "RedJag wrong CARFAX: §1402 burden on the dealer to account for producing a vehicle history belonging to a different vehicle. VEH §11713 dealer fraud is the independent substantive claim."
+    }
+  ]
+}

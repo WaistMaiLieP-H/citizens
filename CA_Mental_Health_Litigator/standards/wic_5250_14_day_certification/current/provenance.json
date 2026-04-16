@@ -1,0 +1,10 @@
+{
+  "standard_id": "wic_5250_14_day_certification",
+  "fetched_at": "2026-04-15",
+  "source": "leginfo.legislature.ca.gov",
+  "tool": "mcp__claude_ai_VernenLegal__california_get_section",
+  "code": "WIC",
+  "section": "5250",
+  "verified": true,
+  "notes": "Live fetch 2026-04-15. Statute text copied verbatim to statute_text.md."
+}

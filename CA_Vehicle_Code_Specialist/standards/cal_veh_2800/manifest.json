@@ -1,0 +1,186 @@
+{
+  "standard_id": "CA_VEH_2800_OBEY_PEACE_OFFICER",
+  "version": "0.2.0-verbatim-and-steward-audited",
+  "filed_at_utc": "2026-04-08T09:23:00Z",
+  "deepened_at_utc": "2026-04-08T10:20:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "PROPOSED-DEEPENED — verbatim text extracted, steward case relevance audit completed against the June 16, 2023 incident timeline. Awaiting second-mouth countersignature.",
+  "build_context": "Originally built 2026-04-08 as part of the breadth-first umbrella seeding pass (Umbrella 16 Travel/Movement first occupant). Deepened later same day with verbatim text and steward case relevance audit specifically targeted to the June 16, 2023 incident.",
+
+  "umbrella_first_for_this_umbrella": "FIRST standard built under Umbrella 16 (Travel / Movement / Immigration). The umbrella was previously empty.",
+
+  "primary_citation": {
+    "jurisdiction": "California",
+    "code": "California Vehicle Code",
+    "section": "§ 2800",
+    "popular_name": "Failure to Obey a Peace Officer's Lawful Order",
+    "current_codification_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2800.&lawCode=VEH",
+    "current_form_local_artifact": "current/cal_veh_2800_leginfo.html",
+    "verbatim_text_extracted_artifact": "current/cal_veh_2800_leginfo.txt"
+  },
+
+  "structural_location": {
+    "code": "California Vehicle Code",
+    "division": "DIVISION 2. ADMINISTRATION [1500 - 3093]",
+    "division_history": "Division 2 enacted by Stats. 1959, Ch. 3",
+    "chapter": "CHAPTER 4. Administration and Enforcement [2800 - 2818]",
+    "chapter_history": "Chapter 4 enacted by Stats. 1959, Ch. 3",
+    "article": "ARTICLE 1. Lawful Orders and Inspections [2800 - 2818]",
+    "article_history": "Article 1 enacted by Stats. 1959, Ch. 3",
+    "section_history": "Most recent amendment: Stats. 2022, Ch. 295, Sec. 3 (AB 2956) Effective January 1, 2023"
+  },
+
+  "verbatim_factor_inventory": {
+    "extraction_source": "current/cal_veh_2800_leginfo.txt (extracted from leginfo HTML via _extract_leginfo_text.py 2026-04-08)",
+    "subsections": {
+      "(a)_lawful_order_of_uniformed_peace_officer": {
+        "verbatim": "It is unlawful to willfully fail or refuse to comply with a lawful order, signal, or direction of a peace officer, as defined in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2 of the Penal Code, when that peace officer is in uniform and is performing duties pursuant to any of the provisions of this code, or to refuse to submit to a lawful inspection pursuant to this code.",
+        "elements_of_offense": [
+          "ELEMENT 1 — WILLFULLY: The failure or refusal must be willful. Inadvertent or accidental non-compliance does not satisfy this element.",
+          "ELEMENT 2 — FAIL OR REFUSE TO COMPLY: There must be actual non-compliance with the order or signal or direction. (Or, in the inspection variant, refusal to submit to a lawful inspection.)",
+          "ELEMENT 3 — LAWFUL ORDER, SIGNAL, OR DIRECTION: The order, signal, or direction must itself be lawful. An UNLAWFUL order is not within the scope of § 2800(a). The lawfulness of the order is the threshold legal question and is the most-litigated element.",
+          "ELEMENT 4 — PEACE OFFICER AS DEFINED IN PENAL CODE § 830 et seq.: The person giving the order must qualify as a 'peace officer' under Penal Code § 830 et seq. Not every uniformed person is a peace officer; the Penal Code's definition is statutory and enumerated.",
+          "ELEMENT 5 — IN UNIFORM: The peace officer must be IN UNIFORM at the time of giving the order. A plainclothes officer's order does not trigger § 2800(a) — though other Vehicle Code or Penal Code provisions may apply.",
+          "ELEMENT 6 — PERFORMING DUTIES PURSUANT TO ANY OF THE PROVISIONS OF THIS CODE: The peace officer must be performing Vehicle Code duties at the time of giving the order. An order pursuant to some other code (Penal Code, Health & Safety Code, etc.) does not trigger § 2800(a)."
+        ],
+        "doctrinal_significance": "All six elements must be satisfied for § 2800(a) to apply. Failure on ANY element means § 2800(a) does not apply. The Vehicle Code duties requirement is structurally important: not every interaction with a uniformed peace officer falls under § 2800(a) — only those connected to Vehicle Code enforcement."
+      },
+      "(b)_out_of_service_orders": {
+        "verbatim_summary": "Subsection (b) makes it unlawful to fail or refuse to comply with a lawful out-of-service order issued by an authorized CHP employee or other authorized enforcement officer. Special provisions apply to drivers of hazardous materials vehicles requiring placards under § 27903 and to drivers of passenger vehicles designed to transport 16+ passengers including the driver.",
+        "applies_to": "Commercial vehicle operations, particularly hazardous materials and passenger transport"
+      },
+      "(c)_federal_dot_out_of_service_orders": {
+        "verbatim": "It is unlawful to fail or refuse to comply with a lawful out-of-service order issued by the United States Secretary of the Department of Transportation.",
+        "applies_to": "Federal interstate commerce vehicles"
+      },
+      "(d)_out_of_service_order_definition": {
+        "verbatim": "'Out-of-Service order' means a declaration by an authorized enforcement officer of a federal, state, Canadian, Mexican, or local jurisdiction that a driver, a commercial motor vehicle, or a motor carrier operation is out-of-service pursuant to Section 386.72, 392.5, 392.9a, 395.13, or 396.9 of Title 49 of the Code of Federal Regulations, state law, or the North American Standard Out-of-Service Criteria."
+      },
+      "(e)_commercial_vehicle_inspection_compliance": {
+        "verbatim": "It is unlawful for a driver of a commercial vehicle subject to inspection under this code to fail to comply with any vehicle inspection testing and associated procedures as required by an authorized member of the California Highway Patrol."
+      }
+    }
+  },
+
+  "amendment_history_visible_on_leginfo": [
+    {"year": 1959, "stats_citation": "Stats. 1959, Ch. 3", "event": "Original enactment as part of the entire Vehicle Code recodification of 1959", "primary_source_status": "NOT YET FETCHED"},
+    {"year": 2022, "stats_citation": "Stats. 2022, Ch. 295, Sec. 3 (AB 2956)", "event": "Most recent amendment, effective January 1, 2023", "primary_source_status": "NOT YET FETCHED"}
+  ],
+
+  "steward_case_relevance_audit": {
+    "purpose": "Map § 2800 against the steward's June 16, 2023 incident analysis (project_june16_2023_timeline.md and project_familylaw_orchestration.md). The audit asks: was § 2800(a) actually applicable to the events of that day? Were all six elements of the (a) offense satisfied? If any element was not satisfied, § 2800(a) does not apply and any consequence flowing from a § 2800(a) charge is structurally defective.",
+    "audit_filed_at_utc": "2026-04-08T10:20:00Z",
+    "audit_filed_by": "Claude (assistant) at first-mouth level; steward review required",
+    "case_file_authorities_consulted": [
+      "project_june16_2023_timeline.md",
+      "project_familylaw_orchestration.md",
+      "project_christina_pattern.md",
+      "project_mother_legal_strategy.md"
+    ],
+    "factor_audits": [
+      {
+        "factor_id": "ELEMENT 1 — Willfulness",
+        "what_the_statute_requires": "The failure or refusal to comply must be WILLFUL — done knowingly and intentionally, not by accident, mistake, or confusion.",
+        "audit_question": "On June 16, 2023, was the steward's response to the officers' presence willful non-compliance with a specific order, OR was it a response to confusion, surprise, or the absence of a clearly stated order?",
+        "audit_status": "FLAGGED — requires steward review of the actual sequence of events to determine whether 'willful non-compliance' is the right characterization."
+      },
+      {
+        "factor_id": "ELEMENT 2 — Actual fail/refuse to comply",
+        "what_the_statute_requires": "There must be a specific order, signal, or direction that the steward actually failed or refused to comply with.",
+        "audit_question": "On June 16, 2023, what specific orders, signals, or directions were given by the officers, and which one(s) is the alleged § 2800 violation based on?",
+        "audit_status": "FLAGGED — the specificity of the alleged order matters. Vague or implicit 'orders' are harder to prosecute under § 2800."
+      },
+      {
+        "factor_id": "ELEMENT 3 — Lawfulness of the order (THE THRESHOLD ELEMENT)",
+        "what_the_statute_requires": "The order, signal, or direction must itself be LAWFUL. An order that exceeds the officer's lawful authority is not within § 2800(a). Lawfulness is judged against the officer's statutory authority, the Fourth Amendment / Cal. Const. Art. I § 13 (search and seizure), and the lawful scope of any underlying detention.",
+        "what_the_record_shows": "Per project_june16_2023_timeline.md and project_familylaw_orchestration.md, the June 16, 2023 incident involved a coordinated setup with Christina pre-positioned, mother directing APD, a car purchase pretext, an ice cream pretext, and a 20-minute officer arrival. The question of whether the officers had any lawful basis for the contact at all — and therefore whether any orders given during the contact were 'lawful' under § 2800 — is the threshold question.",
+        "audit_question": "Was there any lawful basis for the officers' presence and contact with the steward on June 16, 2023? If the contact was not supported by a lawful basis (no probable cause, no reasonable suspicion, no warrant, no consent), then any orders given during the contact were NOT lawful within the meaning of § 2800(a), and § 2800(a) cannot have been violated.",
+        "audit_status": "CRITICAL — load-bearing audit item. The lawfulness-of-the-order element is the threshold legal question for any § 2800(a) charge. If the underlying contact was not lawful, the orders given during the contact were not lawful, and § 2800(a) does not apply regardless of the steward's response."
+      },
+      {
+        "factor_id": "ELEMENT 4 — Peace officer status under Penal Code § 830 et seq.",
+        "what_the_statute_requires": "The person giving the order must be a 'peace officer' as defined in Penal Code Chapter 4.5 (commencing with § 830). The Penal Code enumerates specific categories of peace officers; not every uniformed person qualifies.",
+        "what_the_record_shows": "The June 16, 2023 incident involved Antioch Police Department officers per project_june16_2023_timeline.md. APD officers are peace officers under Penal Code § 830.1 (city police officers).",
+        "audit_status": "PASSES — APD officers are peace officers under Penal Code § 830.1. This element is not the load-bearing one for the steward's case."
+      },
+      {
+        "factor_id": "ELEMENT 5 — In uniform",
+        "what_the_statute_requires": "The peace officer must be IN UNIFORM at the time of giving the order.",
+        "what_the_record_shows": "Per the case file, the responding APD officers on June 16, 2023 were in uniform.",
+        "audit_status": "PASSES — uniform requirement satisfied. Not the load-bearing element."
+      },
+      {
+        "factor_id": "ELEMENT 6 — Performing duties pursuant to the Vehicle Code",
+        "what_the_statute_requires": "The peace officer must be performing duties PURSUANT TO ANY OF THE PROVISIONS OF THIS CODE — meaning the Vehicle Code. An order issued in connection with some other type of investigation (e.g., a welfare check, a domestic disturbance, an arrest under the Penal Code) does NOT trigger § 2800(a) even if all other elements are satisfied. § 2800 lives in the Vehicle Code's Administration and Enforcement chapter and is structurally about traffic and vehicle inspection enforcement.",
+        "what_the_record_shows": "The June 16, 2023 incident was, per the case file, NOT a traffic stop or vehicle inspection. It was a contact at a residence following a fabricated pretext. The officers were not performing Vehicle Code duties; they were responding to a non-Vehicle-Code call.",
+        "audit_question": "Were the APD officers on June 16, 2023 performing Vehicle Code duties, or were they performing duties under some other code (most likely Penal Code or Welfare & Institutions Code)?",
+        "audit_status": "CRITICAL — load-bearing audit item. If the officers were not performing Vehicle Code duties, § 2800(a) does not apply at all — regardless of any other element. § 2800 is the wrong statute for non-Vehicle-Code interactions. Any charge or consequence based on § 2800(a) would have to be re-characterized under whichever statute actually applied (e.g., Penal Code § 148 — resisting/delaying/obstructing a peace officer in the discharge of any duty)."
+      }
+    ],
+    "audit_summary": "TWO CRITICAL audit items: (1) ELEMENT 3 — was there any lawful basis for the officers' contact at all? (2) ELEMENT 6 — were the officers performing Vehicle Code duties, or were they performing duties under some other code? Both elements have to be satisfied for § 2800(a) to apply. If element 6 fails, § 2800 is the wrong statute regardless of any other consideration. If element 3 fails, the orders given during the contact were not lawful and § 2800 cannot have been violated. The case-file analysis of June 16, 2023 strongly suggests neither element 3 nor element 6 was satisfied, which would make any § 2800(a)-based consequence structurally defective. Steward review should specifically resolve both elements against the actual sequence of events that day."
+  },
+
+  "umbrellas": [
+    "Travel / Movement / Immigration (Umbrella 16) — primary",
+    "Authority / Governing Law (Umbrella 01) — secondary"
+  ],
+
+  "owner_citizen": {
+    "primary": "California Vehicle Code Specialist",
+    "ownership_note": "Vehicle Code Specialist as canonical owner. § 2800 lives in the Vehicle Code's Administration and Enforcement chapter and is one of the most-cited Vehicle Code sections in California criminal practice."
+  },
+
+  "triple_constraint_test_results": {
+    "governing_guidelines": {
+      "passes": true,
+      "evidence": "Cal. Veh. Code § 2800 located at official California Legislative Information; binding state authority confirmed; verbatim text extracted to current/cal_veh_2800_leginfo.txt"
+    },
+    "standards_of_creation": {
+      "passes": true,
+      "evidence": "Section is well-formed with subsections (a)-(e), traces to original 1959 Vehicle Code enactment, most recently amended 2022 by AB 2956."
+    },
+    "standard_of_care": {
+      "passes": "PARTIAL",
+      "current_layer": "VERIFIED — current form fetched, hashed (sha256: 99ee632c64c6c8659cc5269c32c61534a83fd977fdb076859615eababf46f5ee), and verbatim-extracted",
+      "evolution_layer": "INCOMPLETE — 1959 origin and intermediate amendments not yet primary-source captured",
+      "origin_layer": "NOT YET FETCHED — Stats. 1959 Ch. 3 (the Vehicle Code recodification) not yet downloaded"
+    }
+  },
+
+  "five_layer_bar_status": {
+    "rule": "PRESENT — verbatim text extracted with full element-by-element structural breakdown",
+    "reasoning": "PARTIAL — the substantive reasoning behind § 2800 (officer safety, traffic enforcement compliance) is implicit in the section's location within the Vehicle Code Administration and Enforcement chapter; not yet captured as primary-source legislative history",
+    "historical_loss": "OUTSTANDING",
+    "cross_references": "PARTIAL — § 2800 cross-references Penal Code § 830 et seq. (peace officer definition) and § 24004 (out-of-service order exception). Capturing each as integrity-tracked HTML markers is outstanding work.",
+    "verifiable_provenance": "PRESENT for current form; ABSENT for 1959 origin"
+  },
+
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction (Michael Hartmann), 2026-04-08",
+    "second_mouth_witness": "NONE — not yet countersigned",
+    "publishable_to_corpus": false,
+    "status": "PROPOSED-DEEPENED",
+    "audit_witness_required": "The two CRITICAL audit items (ELEMENT 3 lawfulness of contact, ELEMENT 6 Vehicle Code duties scope) are the load-bearing legal questions for any § 2800(a) consequence the steward may have faced or may face from the June 16, 2023 incident."
+  },
+
+  "files": {
+    "origin": [],
+    "evolution": [],
+    "current": ["current/cal_veh_2800_leginfo.html", "current/cal_veh_2800_leginfo.txt"],
+    "context": [],
+    "manifest": "manifest.json",
+    "provenance": "provenance.json"
+  },
+
+  "outstanding_work": [
+    "Locate and fetch Stats. 1959, Ch. 3 (the Vehicle Code recodification of 1959)",
+    "Fetch Stats. 2022, Ch. 295 (AB 2956, most recent amendment)",
+    "Fetch Penal Code § 830.1 (city police peace officer definition) and the broader § 830 et seq. as integrity-tracked HTML markers",
+    "Document the historical-loss layer — what specific incidents drove the 1959 Vehicle Code recodification and the inclusion of § 2800",
+    "Fetch case law applying § 2800(a) — particularly cases on the 'lawfulness of the order' element and the 'Vehicle Code duties' element",
+    "STEWARD: Resolve ELEMENT 3 (lawfulness of contact) for the June 16, 2023 incident — was there any lawful basis for the APD officers' contact at the residence that day?",
+    "STEWARD: Resolve ELEMENT 6 (Vehicle Code duties scope) for the June 16, 2023 incident — were the APD officers performing Vehicle Code duties, or were they performing duties under another code?",
+    "STEWARD: If either CRITICAL element fails, identify whether the situation was characterized at the time as a § 2800 matter or as some other statute's matter (e.g., Penal Code § 148 resisting/delaying)",
+    "Obtain second-mouth countersignature on the standard"
+  ]
+}

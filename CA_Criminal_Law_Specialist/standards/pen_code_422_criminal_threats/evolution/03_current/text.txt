@@ -1,0 +1,16 @@
+Pointer to current/ directory.
+
+The current text of Cal. Penal Code § 422 is in:
+../../../current/text.txt
+
+The chain closes here: Original enactment 1988 (verbal, written threats) → Electronic expansion (2000s, all electronic communications added) → current.
+
+Key elements for criminal defense analysis (wobbler — misdemeanor or felony):
+1. Willful threat to commit crime resulting in death or GBI
+2. Specific intent that statement be taken as a threat
+3. Communication medium: verbal, written, or electronic (all covered)
+4. Four-part textual test: unequivocal + unconditional + immediate + specific
+5. Sustained fear of victim (ongoing, not transient)
+6. Reasonableness of fear under circumstances
+
+CALCRIM 1300 is the jury instruction. Defense theory: (1) statement was puffery/hyperbole not meeting the four-part test; (2) no specific intent to threaten; (3) victim's fear was not sustained; (4) circumstances negate the threat's apparent gravity.

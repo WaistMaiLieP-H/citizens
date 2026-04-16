@@ -1,0 +1,43 @@
+{
+  "standard": "gov_12989_feha_housing_remedies",
+  "cross_references": [
+    {
+      "id": "gov_12955",
+      "label": "GOV Code §12955 (FEHA housing discrimination — substantive prohibition)",
+      "relationship": "parent substantive provision",
+      "description": "§12989.2 provides the remedies for §12955 violations. The two provisions always operate together — §12955 defines the violation, §12989.2 defines what the court can award.",
+      "direction": "outbound",
+      "citizen": "US_Federal_Housing_Litigator",
+      "standard_path": "standards/gov_12955_feha_housing_discrimination"
+    },
+    {
+      "id": "civ_52",
+      "label": "Civ. Code §52 (Unruh Act remedies)",
+      "relationship": "concurrent — per se Unruh damages",
+      "description": "§12955 violations by persons subject to §51 = per se §51 violation → §52 mandatory $4,000/offense statutory damages + actual damages + attorney's fees. The §52 track runs concurrently with §12989.2. The plaintiff takes the higher remedy or both where they don't overlap.",
+      "direction": "outbound",
+      "citizen": "CA_Civil_Rights_Litigator"
+    },
+    {
+      "id": "civ_3294",
+      "label": "Civ. Code §3294 (punitive damages)",
+      "relationship": "contrast — different malice standard",
+      "description": "§3294 requires malice, fraud, or oppression showing for punitive damages. §12989.2 does not require this separate showing — a finding of discriminatory housing practice is sufficient. The distinction matters when pleading both §12955 claims and tort claims arising from the same transaction.",
+      "direction": "outbound",
+      "citizen": "CA_Real_Estate_Attorney"
+    },
+    {
+      "id": "fha_3613",
+      "label": "42 USC §3613 (FHA civil enforcement)",
+      "relationship": "federal parallel remedies",
+      "description": "Federal FHA civil action (§3613) runs parallel to FEHA §12989.1. FHA provides 2-year SOL, actual and punitive damages, attorney's fees. Both FEHA and FHA claims can be brought simultaneously in federal court. FETCH_REQUIRED for federal standard.",
+      "direction": "outbound",
+      "citizen": "US_Federal_Housing_Litigator",
+      "standard_path": "standards/fha_3604_prohibited_acts",
+      "note": "FETCH_REQUIRED — uscode.house.gov → Title 42 → §3613"
+    }
+  ],
+  "built_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "built_at_utc": "2026-04-13T00:00:00Z",
+  "status": "PROPOSED"
+}

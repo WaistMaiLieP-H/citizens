@@ -1,0 +1,20 @@
+{
+  "standard_id": "CA_HSC_109925_SHERMAN_LAW",
+  "provenance_record_filed_at_utc": "2026-04-08T09:23:00Z",
+  "fetcher_software": "curl with sha256sum (one-shot batch fetch as part of 2026-04-08 breadth-first umbrella seeding pass)",
+  "fetcher_operator": "Claude (assistant) under steward direction (Michael Hartmann)",
+  "verification_principle": "Current-form HTML is the primary artifact for sections whose canonical text lives at the named source authority. The HTML snapshot is hashed at fetch time so a future verifier can confirm it matches what the source served on this date.",
+  "fetches": [
+    {
+      "artifact_local_path": "current/cal_hsc_109925_leginfo.html",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=109925.&lawCode=HSC",
+      "source_authority": "California Legislative Information (leginfo.legislature.ca.gov)",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-08T09:23:00Z",
+      "fetch_method": "curl -sSL --max-time 60 with Vernen-Provenance user-agent (one-shot batch fetch)",
+      "file_size_bytes": 163769,
+      "sha256": "f83dbe9faddecdffb3a876d7e514e62de54e254719f9a74514a91134f8df9621",
+      "content_description": "Sherman Food, Drug, and Cosmetic Law \u2014 Adoption of Federal Standards"
+    }
+  ]
+}

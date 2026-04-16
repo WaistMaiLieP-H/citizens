@@ -1,0 +1,14 @@
+{
+  "case": "Van Buren v. United States",
+  "reporter_citation": "593 U.S. 374",
+  "parallel_citations": ["141 S.Ct. 1648", "210 L.Ed.2d 26"],
+  "decided": "June 3, 2021",
+  "court": "United States Supreme Court",
+  "statutes_construed": ["18 U.S.C. § 1030(a)(2)"],
+  "status": "SCOTUS controlling authority. Narrows 'exceeds authorized access' to gate-related concept; does not limit 'without authorization' prong. Pure unauthorized access by outsiders (SIM swap attackers) remains fully within CFAA.",
+  "opinion_text_source": "Publicly available — supremecourt.gov",
+  "confidence": "VERIFIED HIGH — Supreme Court decision, widely cited",
+  "verification_note": "Citation confirmed: 593 U.S. 374 (2021). Opinion by Barrett J. Available at supremecourt.gov.",
+  "captured_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "captured_at_utc": "2026-04-11T00:00:00Z"
+}

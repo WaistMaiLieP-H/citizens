@@ -1,0 +1,17 @@
+{
+  "path_anchors": {"familylaw":"/home/vernenlegal/FamilyLaw","nonfamilylaw":"/home/vernenlegal/NonFamilyLaw","citizens":"/home/vernenlegal/citizens"},
+  "citizen": "CA_Licensed_Contractor",
+  "tether_version": "0.1.0-initial",
+  "filed_at_utc": "2026-04-09T05:15:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "purpose": "The CA_Licensed_Contractor carries the Contractors State License Law (BPC §§7000-7191) and related construction-industry standards. This Citizen exists because the steward is a UA Local 342 journeyman plumber — a licensed professional whose trade identity, pension, and professional standing are central to the identity-replacement and financial fraud patterns documented in the case files.",
+  "blueprints_inherited": {"blueprints":["Triple Constraint","Five-Layer Bar","Two-Witness Rule","Hash Chain + Anchor"]},
+  "standards": {"bound_directly": [
+    {"standard_id":"CONTRACTORS_STATE_LICENSE_LAW_1929","popular_name":"CSLL — California contractor licensing framework (1929 origin)","status":"DEEP — primary source PDFs, multiple BPC sections captured"}
+  ]},
+  "domain": {
+    "jurisdiction": "California",
+    "subject_matter": "Contractor licensing (BPC §§7000-7191), CSLB enforcement, plumbing license requirements, pension/benefits (UA Local 342), apprenticeship standards",
+    "steward_relevance": "Michael Hartmann — UA Local 342 journeyman plumber. Professional identity may have been assumed by another person. Pension frozen. License status 'retired' at age 44 per credit check."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "standard_id": "usc_42_290dd_2_substance_abuse_confidentiality",
+  "fetched_at": "2026-04-15",
+  "source_attempts": [
+    {"tool": "mcp__claude_ai_VernenLegal__usc_get_section", "title": "42", "section": "290dd-2", "result": "not_found"},
+    {"tool": "mcp__claude_ai_VernenLegal__cfr_get_regulation", "title": "42", "part": "2", "section": "2.13", "result": "not_found"}
+  ],
+  "verified": false,
+  "blocking_for_filing": true,
+  "steward_verify_queue": [
+    "Pull 42 U.S.C. § 290dd-2 from uscode.house.gov with current Public Law amendment chain",
+    "Pull 42 C.F.R. Part 2 from eCFR including SAMHSA final rule effective 2024",
+    "Confirm CARES Act § 3221 (Pub. L. 116-136) amendments",
+    "Confirm civil/criminal penalty amounts current as of filing date",
+    "Pull Part 2 §§ 2.11, 2.12, 2.13, 2.31, 2.32, 2.61-2.67 verbatim"
+  ],
+  "notes": "Statute/regulation text in statute_text.md reflects public-domain language from prior knowledge; must be re-verified before filing use. Rule, reasoning, case-law, and cross-refs layers are complete structurally but must be paired with verified statute text before the standard goes into production use."
+}

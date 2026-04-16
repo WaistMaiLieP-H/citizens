@@ -1,0 +1,12 @@
+{
+  "statute": "Cal. Veh. Code \u00a710751",
+  "origin_era": "1959 Vehicle Code; expanded through mid-to-late 20th century anti-chop-shop legislation",
+  "related_criminal_statutes": [
+    "Pen. Code \u00a710801 (chop shop operation)",
+    "Pen. Code \u00a710802 (VIN alteration with intent)",
+    "Pen. Code \u00a7496 (receiving stolen property)"
+  ],
+  "retrieved": "2026-04-12",
+  "verified": true,
+  "source_prep_correction": "Source prep original draft referenced VEH \u00a74160 (address update on registration card) as stolen vehicle statute \u2014 INCORRECT. \u00a710751 is the correct VIN/stolen vehicle statute. Correction documented in source prep file and preserved here."
+}

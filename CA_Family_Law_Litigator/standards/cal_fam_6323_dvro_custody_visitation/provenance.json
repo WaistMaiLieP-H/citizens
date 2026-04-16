@@ -1,0 +1,17 @@
+{
+  "standard_id": "CA_FAM_6323_DVRO_CUSTODY_VISITATION",
+  "provenance_record_filed_at_utc": "2026-04-09T00:00:00Z",
+  "fetcher_software": "VernenLegal MCP API (california_get_section)",
+  "fetcher_operator": "Claude (assistant) under steward direction (Michael Hartmann)",
+  "fetches": [
+    {
+      "artifact_local_path": "current/cal_fam_6323_leginfo.txt",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6323.&lawCode=FAM",
+      "source_authority": "California Legislative Information (leginfo.legislature.ca.gov) via VernenLegal MCP",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-09T00:00:00Z",
+      "fetch_method": "VernenLegal MCP california_get_section",
+      "content_description": "Cal. Family Code § 6323 — DVRO temporary custody and visitation orders, transfer conditions, third-person-present or suspended visitation"
+    }
+  ]
+}

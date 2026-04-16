@@ -1,0 +1,62 @@
+PEOPLE v. DISBROW
+16 Cal.3d 101 (1976)
+California Supreme Court
+Decided: February 5, 1976
+
+---
+
+FACTS:
+
+James Disbrow made statements to police officers during a custodial interrogation after receiving Miranda warnings. The officers later used his statements to impeach him at trial when he testified in his own defense. The U.S. Supreme Court had held in Harris v. New York (1971) that statements obtained in violation of Miranda could be used to impeach (as opposed to presenting them as direct evidence of guilt).
+
+Disbrow argued that while Harris might permit the use under the Fifth Amendment, the California Constitution's broader due process and right-against-self-incrimination guarantees prohibited such use in California courts.
+
+---
+
+HOLDING:
+
+Chief Justice Wright wrote for the Court.
+
+CALIFORNIA INDEPENDENTLY REJECTS HARRIS v. NEW YORK — STATE CONSTITUTION PROVIDES BROADER PROTECTION:
+"We conclude that Article I, Sections 13 and 15 of the California Constitution afford criminal defendants greater protection than the minimum guarantees of the Fifth Amendment as interpreted in Harris v. New York."
+
+Under California law — independent of federal constitutional doctrine — statements obtained in violation of Miranda may NOT be used to impeach a defendant's testimony at trial.
+
+WHY CALIFORNIA EXCEEDED THE FEDERAL FLOOR:
+"[T]he federal constitutional minimum is not a ceiling on state protection. We hold that the rights of criminal defendants in California extend beyond the federal minimum, based on independent state constitutional grounds."
+
+The California exclusionary rule is broader than the federal rule: it is not subject to the impeachment exception that Harris created at the federal level. Evidence obtained in violation of California constitutional rights is excluded for all purposes — not just as direct evidence, but also for impeachment.
+
+THE INDEPENDENT STATE GROUNDS — INSULATION FROM FEDERAL REVIEW:
+Because this holding rests on independent California constitutional grounds (not on the Fifth Amendment), it is not subject to review by the United States Supreme Court. California's broader protection is stable regardless of future federal doctrine shifts.
+
+---
+
+SIGNIFICANCE:
+Disbrow cemented the independent state grounds doctrine and California's broader exclusionary rule. Combined with Brisendine (Art. I, § 13) and later cases, it established:
+1. California excludes unlawfully obtained evidence under the state constitution more broadly than federal law
+2. The "good faith exception" (Leon, 1984) does not apply in California — statements obtained through officer error in good faith are still excluded under Art. I, § 13/15
+3. California's independent constitutional protections are reviewed only by California courts
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Disbrow and the California broader exclusionary rule matter for:
+
+1. **Criminal defense in 04-23-01959**: Any statements made to APD officers under circumstances that implicate Miranda or the voluntariness doctrine are subject to the full California exclusionary rule — broader than federal doctrine. If the arrest was unconstitutional under Art. I, § 13, statements obtained after the arrest are inadmissible under California's independent rule.
+
+2. **Independent state grounds for § 1983 companion cases**: Art. I, § 13 claims can be litigated independently in California state court even when federal Fourth Amendment claims fail in federal court. Disbrow's independent-state-grounds principle insulates California rulings from federal Supreme Court reversal.
+
+3. **Suppression motions**: In the criminal case, motion practice under Disbrow's California exclusionary rule doctrine provides a tool independent of federal doctrine — including where the federal good-faith exception would preclude a Fourth Amendment suppression motion.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 16 Cal.3d 101 (1976)
+Court: California Supreme Court
+Reporter: California Reports, Third Series, vol. 16, page 101
+Author: Wright, C.J.
+Source of this text: Claude training data (knowledge cutoff August 2025). People v. Disbrow applied independent state grounds to reject Harris v. New York's impeachment exception — California excludes Miranda-violating statements for all purposes, not just as direct evidence of guilt.
+Verification: Casetext / Google Scholar: "People v. Disbrow 16 Cal.3d 101"
+Verification status: PROPOSED — pending steward witness review

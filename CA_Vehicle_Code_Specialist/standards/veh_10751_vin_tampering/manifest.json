@@ -1,0 +1,13 @@
+{
+  "standard_id": "veh_10751_vin_tampering",
+  "authority": "Cal. Veh. Code \u00a710751",
+  "status": "PUBLISHED",
+  "content_hash": "7fd3c085",
+  "build_date": "2026-04-12",
+  "terminal": "Terminal B",
+  "citizen": "CA_Vehicle_Code_Specialist",
+  "verified": true,
+  "adam_signal": "APPROVE",
+  "eve_signal": "COUNTERSIGN",
+  "witness_date": "2026-04-12"
+}

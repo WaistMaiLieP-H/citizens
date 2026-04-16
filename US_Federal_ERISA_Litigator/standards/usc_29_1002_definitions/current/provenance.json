@@ -1,0 +1,36 @@
+{
+  "standard_id": "USC_29_1002_ERISA_DEFINITIONS",
+  "layer": "current",
+  "title": "29 U.S.C. § 1002 — ERISA § 3 — Key Definitions",
+  "enacted": "1974-09-02",
+  "enacting_law": "Pub. L. 93-406 (ERISA), § 3, 88 Stat. 833",
+  "current_through": "Pub. L. 117-2 (American Rescue Plan Act, 2021)",
+  "official_source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002",
+  "cornell_lii_source": "https://www.law.cornell.edu/uscode/text/29/1002",
+  "verified": false,
+  "verified_note": "USC tool blocked for Title 29; all definition texts from training knowledge. FETCH_REQUIRED stub placed in rule.md and statute_text.md. Steward must retrieve full §1002 text before filing reliance.",
+  "retrieval_date": "2026-04-13",
+  "priority_subsections": [
+    "§1002(1) — employee welfare benefit plan",
+    "§1002(2) — employee pension benefit plan",
+    "§1002(3) — employee benefit plan",
+    "§1002(7) — participant",
+    "§1002(8) — beneficiary",
+    "§1002(21)(A) — fiduciary (three prongs)",
+    "§1002(23) — normal retirement benefit",
+    "§1002(24) — accrued benefit",
+    "§1002(37)(A) — multiemployer plan"
+  ],
+  "case_37_anchor": "Participant status turns on employment history, not corrupted admin record; fiduciary definition is functional — covers anyone exercising discretionary plan administration authority; accrued benefit is indelible once earned under §1053",
+  "california_cross_reference": "Cal. CIV §56.10(c)(21) — 'employee welfare benefit plan, as defined under Section 3(1) of ERISA (29 U.S.C. Sec. 1002(1))' — confirms §1002(1) address and California judicial reliance on ERISA §3 definitions",
+  "key_cases": [
+    "Firestone Tire & Rubber Co. v. Bruch, 489 U.S. 101 (1989) — plan administrator as fiduciary under §1002(21)(A); de novo review where administrator has conflict of interest",
+    "Pegram v. Herdrich, 530 U.S. 211 (2000) — fiduciary definition functional test; distinguishes settlor function from fiduciary function",
+    "Harris Trust & Savings Bank v. Salomon Smith Barney Inc., 530 U.S. 238 (2000) — §1002(21) functional fiduciary doctrine; party dealing with plan assets can be fiduciary without formal designation"
+  ],
+  "amendments_affecting_definitions": [
+    "MPPAA 1980 (Pub. L. 96-364) — added and modified multiemployer plan definitions §1002(37)",
+    "REA 1984 (Pub. L. 98-397) — modified survivor benefit definitions; affected §1002(23)-(24) accrued benefit calculations",
+    "PPA 2006 (Pub. L. 109-280) — modified vesting schedule definitions; affected §1002(23) normal retirement benefit"
+  ]
+}

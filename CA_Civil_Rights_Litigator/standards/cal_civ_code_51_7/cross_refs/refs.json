@@ -1,0 +1,27 @@
+{
+  "standard_id": "CAL_CIV_CODE_51_7",
+  "refs_updated": "2026-04-12 — ADAM review pass; build_status fields updated to reflect current corpus state",
+  "cross_references": [
+    {
+      "target_standard": "CAL_CIV_CODE_52_1",
+      "relationship": "sibling — Bane Act targets coercive interference with rights; Ralph Act targets violence motivated by identity. Both can apply to the same facts. §52.1(h) declares independence.",
+      "target_citizen": "CA_Civil_Rights_Litigator",
+      "target_manifest": "${citizens}/CA_Civil_Rights_Litigator/standards/cal_civ_code_52_1/manifest.json",
+      "build_status": "BUILT — WITNESSED-BY-HERALD 2026-04-12"
+    },
+    {
+      "target_standard": "CAL_CIV_CODE_51",
+      "relationship": "parent — §51.7(b) incorporates §51's protected characteristics by reference",
+      "target_citizen": "CA_Civil_Rights_Litigator",
+      "target_manifest": "${citizens}/CA_Civil_Rights_Litigator/standards/cal_civ_code_51/manifest.json",
+      "build_status": "BUILT — WITNESSED-BY-HERALD 2026-04-12"
+    },
+    {
+      "target_standard": "CAL_CIV_CODE_52",
+      "relationship": "remedies — §52 provides statutory damages for Ralph Act violations",
+      "target_citizen": "CA_Civil_Rights_Litigator",
+      "target_manifest": "${citizens}/CA_Civil_Rights_Litigator/standards/cal_civ_code_52/manifest.json",
+      "build_status": "BUILT — WITNESSED-BY-HERALD 2026-04-12"
+    }
+  ]
+}

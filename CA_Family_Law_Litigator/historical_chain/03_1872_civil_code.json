@@ -1,0 +1,100 @@
+{
+  "sequence": 3,
+  "year": 1872,
+  "name": "California Civil Code of 1872 — Title II (Husband and Wife) and Title III (Parent and Child)",
+  "popular_name": "1872 Civil Code",
+  "status": "PRIMARY-SOURCE-VERIFIED 2026-04-15 (Deering edition compilation — 1872 enactment with subsequent amendments through ~1909; original 1872 enactment text for unamended sections is verbatim; amended sections carry the amendment pedigree in-line as printed)",
+  "filed_at_utc": "2026-04-08T19:10:00Z",
+  "deepened_at_utc": "2026-04-15T00:00:00Z",
+  "deepened_by": "EVE (Legal/Statutory Auditor) under steward direction",
+
+  "context": "The 1872 Civil Code was California's first comprehensive codification of civil law, drafted by the California Code Commission and modeled on the Field Code that David Dudley Field had drafted for New York. The 1872 Civil Code consolidated the prior 22 years of California statutory family law (including the 1850 Community Property Act) into a unified framework. Title II covered Husband and Wife (the marital relationship, community property, separation, divorce, and dissolution); Title III covered Parent and Child (legitimacy, custody, support, adoption, parental authority). The 1872 Civil Code remained California's operative family-law vehicle — with extensive amendment — until the 1969 Family Law Act added Part 5 to Division 4, and ultimately until the 1992 Family Code consolidation (Stats. 1992 Ch. 162) carried the surviving provisions forward.",
+
+  "doctrinal_significance": "The 1872 Civil Code is the first comprehensive California family-law statute. Many provisions in the modern Family Code descend directly from 1872 Civil Code Title II and Title III provisions, with the 1992 Family Code consolidation being structurally a recodification rather than a substantive change. Reading the 1872 text alongside the modern Family Code reveals which doctrines have been continuous for 154 years. Critically, the phrase 'best interests of the children' appears in 1872 Civil Code § 199 — the direct textual antecedent of modern Family Code § 3011's 'best interest of the child' standard. The community-property framework in 1872 §§ 161–164 carries forward the 1850 Community Property Act and is the direct antecedent of modern Family Code §§ 760 and 770.",
+
+  "primary_source_artifacts": {
+    "deering_compilation_pdf": {
+      "path": "${citizens}/_shared_statutes_archive/1872_Civil_Code.pdf",
+      "size_bytes": 48772501,
+      "sha256": "e9af00163543f6834f0e05f9bf2f4c69203bdc450a742c3f93099c48a9e46192",
+      "pages": 1060,
+      "scope": "The Civil Code of the State of California as enacted in 1872, amended at subsequent sessions, and adapted to the Constitution of 1879; and an appendix of general laws upon the subjects embraced in the Code (Deering / James Henry Deering compilation).",
+      "source_url": "https://ia601605.us.archive.org/21/items/1872civilcodecal00cali/1872civilcodecal00cali.pdf",
+      "source_authority": "Internet Archive digitization of UCLA School of Law Library copy",
+      "fetched_at_utc": "2026-04-15T05:45:00Z",
+      "fetched_by": "EVE via curl -C -",
+      "text_layer_status": "Searchable text layer present (Internet Archive OCR 2024-04-10 via mupdf/pymupdf). pdftotext extraction: 47,425 lines. Full extract at ${citizens}/_shared_statutes_archive/1872_Civil_Code.txt.",
+      "edition_caveat": "The PDF is the Deering compilation that shows each section as currently in force at publication time, with the 1872 enactment text and any subsequent amendments merged and the amendment citation printed in-line. For the UNAMENDED original 1872 text, the printed section text IS the 1872 text. For AMENDED sections, the verbatim below IS the post-amendment text, and the amendment date is printed at the end of the section (captured in each quote)."
+    }
+  },
+
+  "load_bearing_provisions_verbatim": {
+    "civ_155_mutual_obligations": {
+      "verbatim": "§ 155. Husband and wife contract toward each other obligations of mutual respect, fidelity, and support.",
+      "source_line": "1872_Civil_Code.txt line 2274",
+      "pedigree": "1872 original enactment (no amendment notation).",
+      "significance": "The foundational statutory articulation of the marital obligation. Carried forward verbatim in substance to modern Family Code § 720 ('Husband and wife contract toward each other obligations of mutual respect, fidelity, and support.' — identical language, continuous for 154 years)."
+    },
+    "civ_161_how_property_held": {
+      "verbatim": "§ 161. A husband and wife may hold property as joint tenants, tenants in common, or as community property.",
+      "source_line": "1872_Civil_Code.txt line 2328",
+      "pedigree": "1872 original enactment.",
+      "significance": "The foundational statutory statement of the forms of marital property ownership in California. Codifies the 1850 Act's community-property framework within the 1872 Code structure."
+    },
+    "civ_162_wife_separate_property": {
+      "verbatim": "§ 162. All property of the wife, owned by her before marriage, and that acquired afterward by gift, bequest, devise, or descent, with the rents, issues, and profits thereof, is her separate property. The wife may, without the consent of her husband, convey her separate property.",
+      "source_line": "1872_Civil_Code.txt line 2330",
+      "pedigree": "Text carries forward language of 1850 Ch. 103 but with Title II § 162 structure; 'wife may, without the consent of her husband, convey' is the 1872 enactment's enlargement of married-women's capacity relative to 1850.",
+      "significance": "Direct statutory antecedent of modern Family Code § 770(a) (definition of separate property of married person)."
+    },
+    "civ_163_husband_separate_property": {
+      "verbatim": "§ 163. All property owned by the husband before marriage, and that acquired afterward by gift, bequest, devise, or descent, with the rents, issues, and profits thereof, is his separate property.",
+      "source_line": "1872_Civil_Code.txt line 2334",
+      "pedigree": "1872 original enactment.",
+      "significance": "Symmetrical partner to § 162. Direct antecedent of modern Family Code § 770(a) applied to husband."
+    },
+    "civ_164_community_property": {
+      "verbatim": "§ 164. All other property acquired after marriage by either husband or wife, or both, is community property; but whenever any property is conveyed to a married woman by an instrument in writing, the presumption is that the title is thereby vested in her as her separate property. [...continues with presumption rules and 1897 amendment adding bar on husband's recovery of pre-1889 conveyances.]",
+      "source_line": "1872_Civil_Code.txt line 2345",
+      "pedigree": "1872 original enactment; amended 1889, 1893, 1897 — separate-property presumption for conveyances to married women added by later amendment.",
+      "significance": "Direct antecedent of modern Family Code § 760 (general community-property presumption)."
+    },
+    "civ_196_parental_support": {
+      "verbatim": "§ 196. The parent entitled to the custody of a child must give him support and education suitable to his circumstances. If the support and education which the father of a legitimate child is able to give are inadequate, the mother must assist him to the extent of her ability.",
+      "source_line": "1872_Civil_Code.txt line 2596",
+      "pedigree": "1872 original enactment.",
+      "significance": "Foundational parental-support obligation. Descends to modern Family Code § 3900 et seq. (parental support of children)."
+    },
+    "civ_199_custody_best_interests": {
+      "verbatim": "§ 199. Without application for a divorce, the husband or the wife may bring an action for the exclusive control of the children of the marriage; and the court may, during the pendency of such action, or at the final hearing thereof, or afterward, make such order or decree in regard to the support, care, custody, education, and control of the children of the marriage, as may be just, and in accordance with the natural rights of the parents and the best interests of the children, and may at any time thereafter amend, vary, or modify such order or decree, as the natural rights and the interests of the parties, including the children, may require.",
+      "source_line": "1872_Civil_Code.txt line 2643",
+      "pedigree": "1872 original enactment.",
+      "significance": "LOAD-BEARING: This is the 1872 textual origin of the phrase 'best interests of the children' in California statutory law. The modern Family Code § 3011 'best interest of the child' factor list (added 1988 as Civil Code § 4608) descends from this 1872 language. Corpus witness: every § 3011 analysis in the steward's case traces to this section."
+    },
+    "civ_204_when_parental_authority_ceases": {
+      "verbatim": "§ 204. The authority of a parent ceases: 1. Upon the appointment, by a court, of a guardian of the person of a child; 2. Upon the marriage of the child; or, 3. Upon its attaining majority.",
+      "source_line": "1872_Civil_Code.txt line 2705",
+      "pedigree": "1872 original enactment.",
+      "significance": "Statutory termination rule for parental authority. Antecedent of modern Family Code Division 11 provisions on emancipation."
+    }
+  },
+
+  "continuous_doctrine_chain": {
+    "community_property": "1850 Ch. 103 → 1872 Civ. §§ 161-164 → 1969 (no substantive change, but Civil Code Part 5 structural overlay) → 1992 Fam. §§ 760, 770 (Ch. 162 recodification)",
+    "mutual_marital_obligations": "1872 Civ. § 155 → 1992 Fam. § 720 (language identical for 154 years)",
+    "best_interest_of_child": "1872 Civ. § 199 ('best interests of the children') → 1988 Civ. § 4608 (explicit factor list) → 1992 Fam. § 3011 (Ch. 162 recodification) → 1993 Fam. § 3011 (Ch. 219 technical consolidation — PRIMARY-SOURCE-VERIFIED in entry 06)"
+  },
+
+  "witness_chain": {
+    "filed_by": "Claude (assistant) at first-mouth level 2026-04-08 (stub)",
+    "deepened_by": "EVE 2026-04-15 from Internet Archive primary-source PDF (Deering compilation, UCLA School of Law Library copy)",
+    "eve_witness": {
+      "witnessed_at_utc": "2026-04-15T00:00:00Z",
+      "scope": "Legal witness — PDF located, hashed, text-layer verified; verbatim capture of §§ 155, 161, 162, 163, 164, 196, 199, 204 with line citations to ${citizens}/_shared_statutes_archive/1872_Civil_Code.txt; continuous-doctrine chain to 1850 → 1872 → 1992 → modern Fam. Code documented. Deering edition caveat noted (post-1872 amendments merged into displayed text with amendment dates printed in-line). EVE elevates status to PRIMARY-SOURCE-VERIFIED because (a) unamended sections' text IS the 1872 original, and (b) amended sections' text is the operative law as of each amendment, with amendment pedigree visible in the printed source."
+    },
+    "adam_witness": {
+      "witnessed_at_utc": "2026-04-15T00:00:00Z",
+      "scope": "Structural witness — PDF sha256 hash recorded (e9af0016...); chain-of-custody: Internet Archive digitization 2024-04-10 of UCLA School of Law Library physical copy; source URL captured; line-number citations verifiable against local .txt extract."
+    }
+  }
+}

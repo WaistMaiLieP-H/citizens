@@ -1,0 +1,12 @@
+{
+  "stage": "03_amendment_1992",
+  "bill": "SB 1834",
+  "stats_chapter": "Ch. 913, Stats. 1992",
+  "effective": "1993-01-01",
+  "source": "leginfo.legislature.ca.gov",
+  "retrieval_method": "knowledge_base",
+  "retrieval_date": "2026-04-10",
+  "retrieval_steward": "Claude Opus 4.6 (1M context)",
+  "primary_source_verified": false,
+  "notes": "Added ADA-incorporation provision (subdivision f). Federal ADA violation = automatic Unruh violation with Unruh remedies."
+}

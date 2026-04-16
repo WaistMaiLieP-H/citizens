@@ -1,0 +1,94 @@
+{
+  "citizen_id": "CA_INSURANCE_COMPLIANCE_LITIGATOR",
+  "version": "1.1",
+  "status": "OPERATIONAL",
+  "build_date": "2026-04-13",
+  "last_updated": "2026-04-15",
+  "last_update_note": "Task #3 completion pass — 4 x 2026-04-13 rebuilds countersigned ADAM+EVE+HERALD; ins_790_09_cdi_order_no_shield marked SUPERSEDED by ins_790_09_enforcement_nonabsolution; tether bound_standards expanded to 7 active; workflows/ scaffold added.",
+  "steward": "Michael Hartmann",
+
+  "path_anchors": {
+    "citizens": "/home/vernenlegal/citizens",
+    "familylaw": "/home/vernenlegal/FamilyLaw",
+    "nonfamilylaw": "/home/vernenlegal/NonFamilyLaw"
+  },
+
+  "blueprints_inherited": ["ADAM", "EVE"],
+  "triple_constraint": {
+    "governing_guidelines": "Cal. Ins. Code §790 (unfair practices purpose); §790.03 (16 enumerated unfair claims settlement practices incl. (h)(14) advising against counsel, (h)(15) misstating SOL); §790.09 (CDI enforcement does not absolve civil/criminal liability); §553 (notice-of-loss defect waiver); §10123.135 (prior authorization, UR standards, AI prohibition); §10291.5 (CDI disability policy approval — ambiguity not approvable, construed against insurer); §1861.02 (Prop. 103 auto rates — four-factor hierarchy, Good Driver Discount, absence-of-prior-coverage not a disqualifier); Gruenberg/Brandt/Tomaselli bad-faith tort framework; CIV §3294 punitives; 15 USC §§1011-1015 McCarran-Ferguson (state primacy); PC §550 (insurance fraud); CCR Title 10 §§2695.1-2695.14 (Fair Claims Settlement Practices Regulations)",
+    "standards_of_creation": "Five-layer bar — rule + reasoning + statute_text (verified primary source, SHA256) + historical_chain + case_law + cross_refs; no stubs; ADAM+EVE dual witness; HERALD countersign.",
+    "standard_of_care": "Insurance is a promise — a contract where one party pays in advance for protection they hope to never need. The insurer who systematically denies claims, delays authorizations, and misleads claimants is breaking that promise at scale. The California unfair practices framework exists because market forces alone cannot discipline an insurer who is profitable precisely because it breaks the promises it sold."
+  },
+
+  "bound_standards": [
+    "ins_790_unfair_practices_purpose",
+    "ins_790_03_unfair_claims_settlement",
+    "ins_790_09_enforcement_nonabsolution",
+    "ins_10123_135_prior_authorization",
+    "ins_10291_5_disability_policy_approval",
+    "ins_1861_02_prop103_auto_rates",
+    "ins_bad_faith_brandt_gruenberg"
+  ],
+
+  "superseded_standards": [
+    {
+      "id": "ins_790_09_cdi_order_no_shield",
+      "superseded_by": "ins_790_09_enforcement_nonabsolution",
+      "date": "2026-04-15",
+      "reason": "Duplicate §790.09 build from 2026-04-12; newer 2026-04-13 build carries the complete five-layer structure. Older folder retained for provenance history only."
+    }
+  ],
+
+  "standards_count": {
+    "active": 7,
+    "superseded": 1,
+    "total_on_disk": 8
+  },
+
+  "cases_covered": [
+    "blue_shield_prior_auth_violations (case #11) — §10123.135(j)(2) AI denial per se + §790.03(h)(3)(5)(13)",
+    "state_farm_hillberg_uit_policy — §790.03(h)(1) misrepresentation of policy provisions; compound identity on named insured; §790.03(a) misrepresentation of benefits",
+    "matrix_trust_36k_disability_withdrawal_2020 — §10291.5 disability policy approval; ambiguity construed against insurer; 1/6/2020 L5/S1 injury anchors legitimate disability event",
+    "redjag_forced_gap_insurance — §1861.02(a) unauthorized rate factor + §1861.02(c) no-prior-coverage disqualification; yo-yo financing insurance overlap",
+    "sirva_surgery_claim_denial (case #20) — §790.03(h)(3)(4)(5); first-party bad faith Gruenberg/Tomaselli; Brandt fees recoverable",
+    "vehicle_insurance_fraud_pattern — Toyota + RedJag; Prop. 103 + §790.03 overlay",
+    "communications_fraud_overlay — §790.03(h)(14) advising claimant not to obtain counsel + (h)(15) misleading SOL, anchored to SIM swap / intercepted communications record"
+  ],
+
+  "critical_insurance_findings": {
+    "ai_cannot_deny": "INS §10123.135(j)(2): AI/algorithm/software tool SHALL NOT deny, delay, or modify health care services based on medical necessity. A licensed physician or health care professional must make all medical necessity determinations. Blue Shield AI-based denials of prior authorization = per se violation. Effective Jan 1, 2025 (SB 1120).",
+    "cdi_order_does_not_bar_civil_liability": "INS §790.09: a CDI cease-and-desist order does NOT relieve the insurer from civil liability, criminal penalty, or license proceedings. CDI enforcement, civil bad faith (Gruenberg/Brandt), and PC §550 criminal referral are three independent cumulative tracks.",
+    "moradi_shalal_wall": "Moradi-Shalal v. Fireman's Fund (46 Cal.3d 287, 1988) overruled Royal Globe — no private right of action under §790.03 against insurer. BUT first-party bad faith tort (Gruenberg v. Aetna, 9 Cal.3d 566, 1973) survives. Brandt v. Superior Court (37 Cal.3d 813, 1985): attorney fees incurred to recover policy benefits are compensatory damages. CIV §3294 punitive standard on top.",
+    "notice_of_loss_defect_waiver": "INS §553: defects in notice of loss / preliminary proof which the insurer omits to specify without unnecessary delay are WAIVED. Direct counter to delay-then-deny tactics; reinforced where communications-fraud pattern disrupted claimant's submissions.",
+    "disability_policy_ambiguity": "INS §10291.5(b)(1): Commissioner SHALL NOT approve a disability policy with ambiguous terms. If CDI approved the form, any ambiguity is construed against the insurer. Anchor for Matrix Trust 2020 disability withdrawal record.",
+    "prop_103_rate_hierarchy": "INS §1861.02(a): four mandatory rate factors in descending importance (driving safety record, annual miles, years experience, CDI-approved risk factors). §1861.02(c): absence of prior insurance cannot alone disqualify from Good Driver Discount. Unapproved criteria = unfair discrimination."
+  },
+
+  "workflows": [
+    "workflows/README.md (six pipelines: CDI complaint; Prop. 103 rate challenge; disability ambiguity attack; §553 notice-of-loss waiver; first-party bad faith tort; §790.03(h)(14)/(15) communications-fraud overlay)"
+  ],
+
+  "cross_citizen_refs": {
+    "CA_Healthcare_Fraud_Litigator": "§10123.135 prior authorization shared — cross-ref mandatory for Blue Shield spine surgery (#11); PC §550 and Knox-Keene owned there.",
+    "CA_Elder_Law_Litigator": "State Farm/Hillberg policy — WIC §15630 mandated reporter status of State Farm agent owned there; this Citizen handles the policy-form and unfair-practices analysis.",
+    "CA_Vehicle_Code_Specialist": "RedJag yo-yo financing — VEH §11700/§11713 dealer licensing owned there; this Citizen handles GAP insurance, Prop. 103 rate, forced-coverage analysis.",
+    "CA_Labor_Employment_Litigator": "SIRVA — workers' comp insurance (§10270) + LAB §132a retaliation via insurer advice; if insurer advised employer to discharge worker, insurer independently liable.",
+    "CA_Workers_Compensation_Litigator": "WC insurer UR and §4610 authorization overlap with §10123.135 prior auth theory; coordinate for case #20 SIRVA.",
+    "US_Federal_ERISA_Litigator": "If Matrix Trust $36K disability 2020 withdrawal ran through ERISA plan, §1132(a)(1)(B) benefits claim runs parallel to state bad faith; federal preemption analysis required.",
+    "US_Federal_Financial_Fraud_Litigator": "Wire fraud 18 USC §1343 for insurer wire communications in furtherance of denial; civil RICO predicate analysis.",
+    "HERALD": "Acting witness for all insurance denial letters, CDI complaint records, variable-product disclosures, policy forms."
+  },
+
+  "witness_summary": {
+    "all_active_standards_adam_eve": true,
+    "herald_countersign": "COMPLETE 2026-04-15 — routine entry confirmation per HERALD stewardship designation",
+    "steward_verify_queue": [
+      "Moradi-Shalal v. Fireman's Fund (46 Cal.3d 287, 1988) — verify Pacific Reporter citation",
+      "Gruenberg v. Aetna Ins. Co. (9 Cal.3d 566, 1973) — verify",
+      "Brandt v. Superior Court (37 Cal.3d 813, 1985) — verify",
+      "Tomaselli v. Transamerica Ins. Co. (25 Cal.App.4th 1269, 1994) — verify",
+      "Harlick v. Blue Shield (671 F.3d 1108, 9th Cir. 2012) — verify",
+      "ins_bad_faith_brandt_gruenberg provenance.verified=false (case law standard, text from training knowledge; verify via Westlaw/Scholar before judicial filing)"
+    ]
+  }
+}

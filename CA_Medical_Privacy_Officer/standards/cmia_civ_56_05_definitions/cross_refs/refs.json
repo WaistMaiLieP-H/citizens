@@ -1,0 +1,27 @@
+[
+  {
+    "target_standard": "CA_CIV_56_10_CMIA",
+    "relationship": "IMPLEMENTS",
+    "notes": "Section 56.05 defines every term used in §56.10's disclosure restrictions. Without §56.05, the scope of §56.10 cannot be determined — who is a provider, what is medical information, who is a patient."
+  },
+  {
+    "target_standard": "CA_CIV_56_11_FURTHER_DISCLOSURE",
+    "relationship": "IMPLEMENTS",
+    "notes": "Section 56.05's definition of 'medical information' determines what information is subject to §56.11's further-disclosure prohibition."
+  },
+  {
+    "target_standard": "CA_CIV_56_35_DAMAGES",
+    "relationship": "SUPPLEMENTS",
+    "notes": "Section 56.05 defines what constitutes 'confidential information' whose release triggers §56.35 damages."
+  },
+  {
+    "target_standard": "HIPAA_164_502",
+    "relationship": "SUPPLEMENTS",
+    "notes": "CMIA §56.05(f) 'medical information' is broader than HIPAA's 'protected health information' — CMIA includes pharmaceutical companies and contractors not covered by HIPAA's covered entity definition. CMIA §56.05(b) explicitly references HIPAA 45 CFR §164.522(b) for confidential communications requests."
+  },
+  {
+    "target_standard": "CA_CIV_56_20_PATIENT_ACCESS",
+    "relationship": "IMPLEMENTS",
+    "notes": "Section 56.05's definition of 'patient' and 'provider of health care' determines who has access rights under §56.20."
+  }
+]

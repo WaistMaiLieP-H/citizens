@@ -1,0 +1,112 @@
+{
+  "standard_id": "CA_PRC_21000_CEQA",
+  "version": "0.2.0-verbatim-and-substance-audited",
+  "filed_at_utc": "2026-04-08T09:23:00Z",
+  "deepened_at_utc": "2026-04-08T11:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction \u2014 Michael Hartmann, Vernen Legal Compliance",
+  "status": "PROPOSED-DEEPENED-COMPACT \u2014 verbatim text extracted, brief substance audit completed. Standard is in an umbrella with INDIRECT relevance to the steward's case file; the audit is calibrated accordingly. Awaiting second-mouth countersignature.",
+  "build_context": "Originally built 2026-04-08 as part of the breadth-first umbrella seeding pass (Umbrella 08 Environmental / External Impact first occupant). Deepened later same day with verbatim text and brief substance audit via _deepen_remaining_manifests.py.",
+  "primary_citation": {
+    "jurisdiction": "California",
+    "code": "California Public Resources Code",
+    "section": "\u00a7 21000",
+    "popular_name": "California Environmental Quality Act (CEQA) \u2014 Legislative Findings",
+    "current_codification_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21000.&lawCode=PRC",
+    "current_form_local_artifact": "current/cal_prc_21000_leginfo.html",
+    "verbatim_text_extracted_artifact": "current/cal_prc_21000_leginfo.txt"
+  },
+  "structural_location": {
+    "division": "DIVISION 13. ENVIRONMENTAL QUALITY [21000 - 21189.91]",
+    "division_history": "Division 13 added by Stats. 1970, Ch. 1433 \u2014 this is CEQA's original 1970 enactment",
+    "chapter": "CHAPTER 1. Policy [21000 - 21006]",
+    "section_history": "Amended by Stats. 1979, Ch. 947"
+  },
+  "verbatim_summary": "Legislative findings supporting CEQA. The Legislature finds that: (a) maintenance of a quality environment for the people of this state now and in the future is a matter of statewide concern; (b) it is necessary to provide a high-quality environment that at all times is healthful and pleasing to the senses and intellect of man; (c) there is a need to understand the relationship between high-quality ecological systems and the general welfare; (d) the capacity of the environment is limited and the state must take immediate steps to identify critical thresholds and prevent them from being reached; (e) every citizen has a responsibility to contribute to environmental preservation; (f) environmental management requires systematic public-private effort; (g) it is the intent of the Legislature that all state agencies regulating activities affecting environmental quality shall give major consideration to preventing environmental damage while providing a decent home and satisfying living environment for every Californian.",
+  "amendment_history_visible_on_leginfo": [
+    {
+      "year": 1970,
+      "stats": "Stats. 1970, Ch. 1433",
+      "event": "Original CEQA enactment, modeled on federal NEPA (1969). California Environmental Quality Act became one of the most consequential environmental review statutes in the U.S."
+    },
+    {
+      "year": 1979,
+      "stats": "Stats. 1979, Ch. 947",
+      "event": "Most recent amendment to \u00a7 21000 (the findings section). The substantive CEQA review provisions in \u00a7\u00a7 21001-21189.91 have been amended many times since."
+    }
+  ],
+  "substance_audit": {
+    "purpose": "CEQA is the California environmental review framework. Not directly steward-relevant unless his case touches a project subject to CEQA review. Included for umbrella completeness and as the doctrinal example of 'good intentions outrunning standards at scale.'",
+    "audit_filed_at_utc": "2026-04-08T11:00:00Z",
+    "audit_filed_by": "Claude (assistant) at first-mouth level; steward review required",
+    "audit_items": [
+      {
+        "audit_id": "Statewide concern doctrine (a)",
+        "recommendation": "Establishes environmental quality as a matter of statewide concern, preempting local-government laxity. Doctrinally important but not steward-direct",
+        "audit_status": "DOCTRINAL"
+      },
+      {
+        "audit_id": "Critical-thresholds identification (d)",
+        "recommendation": "Anticipates the precautionary principle \u2014 the state must identify critical thresholds before they are reached. Structurally analogous to the SOC-001 doctrine but applied to environmental harm",
+        "audit_status": "DOCTRINAL"
+      },
+      {
+        "audit_id": "Next-step deepening",
+        "recommendation": "The operative CEQA review provisions are in \u00a7\u00a7 21002-21177 (substantive rules), \u00a7\u00a7 21080-21099 (project review), \u00a7\u00a7 21100-21154 (EIR requirements). Fetching the operative provisions is outstanding work",
+        "audit_status": "OUTSTANDING"
+      }
+    ]
+  },
+  "umbrellas": [
+    "Environmental / External Impact (Umbrella 08) \u2014 primary"
+  ],
+  "owner_citizen": {
+    "primary": "CA_CEQA_Consultant"
+  },
+  "triple_constraint_test_results": {
+    "governing_guidelines": {
+      "passes": true,
+      "evidence": "California Public Resources Code \u00a7 21000 located at official primary source; binding California authority confirmed; verbatim text extracted to current/cal_prc_21000_leginfo.txt"
+    },
+    "standards_of_creation": {
+      "passes": true,
+      "evidence": "Section is well-formed and properly codified."
+    },
+    "standard_of_care": {
+      "passes": "PARTIAL",
+      "current_layer": "VERIFIED \u2014 current form fetched, hashed (sha256: aa9580c278895048c58616ab494e67162ab8db4722fc33b467895a3bfcf70669), and verbatim-extracted",
+      "evolution_layer": "PARTIAL \u2014 amendment history captured at manifest level; primary-source amendment volumes not yet downloaded",
+      "origin_layer": "IDENTIFIED \u2014 original enactment recorded in amendment_history; primary-source not yet fetched"
+    }
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT \u2014 verbatim text extracted",
+    "reasoning": "PARTIAL \u2014 recorded in legislative findings where applicable",
+    "historical_loss": "OUTSTANDING",
+    "cross_references": "PARTIAL",
+    "verifiable_provenance": "PRESENT for current form; ABSENT for evolution and origin layers"
+  },
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction (Michael Hartmann), 2026-04-08",
+    "second_mouth_witness": "NONE \u2014 not yet countersigned",
+    "publishable_to_corpus": false,
+    "status": "PROPOSED-DEEPENED-COMPACT"
+  },
+  "files": {
+    "origin": [],
+    "evolution": [],
+    "current": [
+      "current/cal_prc_21000_leginfo.html",
+      "current/cal_prc_21000_leginfo.txt"
+    ],
+    "context": [],
+    "manifest": "manifest.json",
+    "provenance": "provenance.json"
+  },
+  "outstanding_work": [
+    "Locate and fetch primary-source statute volumes for the original enactment and key amendments",
+    "Document the historical-loss layer \u2014 what specific incidents drove the section's enactment",
+    "Fetch operative downstream sections in the same article/chapter as integrity-tracked HTML markers",
+    "Build cross-references to other Vernen corpus standards where applicable",
+    "Obtain second-mouth countersignature on the standard"
+  ]
+}

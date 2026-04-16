@@ -1,0 +1,60 @@
+VAI v. BANK OF AMERICA
+56 Cal.2d 329 (1961)
+California Supreme Court
+Decided: August 1961
+
+---
+
+FACTS:
+
+The Vai marriage involved substantial community assets managed primarily by the husband. The wife later challenged transactions by which community assets had been transferred or encumbered without her knowledge or consent. The question was whether, under the pre-1975 "husband's management" rule, the husband owed the wife any meaningful fiduciary duty at all. The husband argued that his statutory authority to manage community property was nearly absolute, with only extreme cases (active fraud or bad faith) giving rise to liability.
+
+---
+
+HOLDING:
+
+THE COMMON-LAW FOUNDATION OF SPOUSAL FIDUCIARY DUTY:
+
+1. **Spouses stand in a confidential fiduciary relationship as a matter of common law.** Even before codification, California common law recognized that spouses owe each other duties of loyalty, honesty, and fair dealing. The marital relationship is a "confidential relationship" within the meaning of the common-law fiduciary doctrines.
+
+2. **The confidential relationship imposes a duty of good faith and fair dealing.** A managing spouse cannot take unfair advantage of the non-managing spouse. Transactions that appear to favor the managing spouse's interests over the non-managing spouse's are subject to judicial scrutiny.
+
+3. **Burden shifts to the managing spouse to justify transactions that appear unfair.** When a transaction appears to transfer community property in a way that disadvantages the non-managing spouse, the managing spouse bears the burden of proving that the transaction was fair and that the non-managing spouse was not taken advantage of.
+
+4. **Remedies for breach include rescission, constructive trust, and damages.** Upon finding a breach of the spousal fiduciary duty, courts have broad equitable authority to restore the non-managing spouse's rightful interest.
+
+---
+
+HISTORICAL SIGNIFICANCE — PRE-CODIFICATION FOUNDATION:
+
+Vai was decided in 1961. The California Legislature subsequently enacted:
+- 1975 equal management reform (end of husband's management monopoly)
+- 1986-91 fiduciary duty codifications in former Civ. Code § 5125 (now Fam. Code §§ 721, 1100)
+- 1992 Family Code recodification
+
+All of these codifications were drafted against the background of Vai and its progeny. Modern courts still cite Vai for the proposition that the spousal fiduciary duty is grounded in common-law principles that predate and supplement the statutes.
+
+RELATIONSHIP TO MODERN § 721:
+Fam. Code § 721(b) incorporates the confidential relationship doctrine that Vai articulated. The statutory language "confidential relationship" and "duty of the highest good faith and fair dealing" directly traces to Vai's common-law framework. Section 721's reference to the partnership fiduciary standard (Corp. Code §§ 16403, 16404, 16503) is an additional gloss on the Vai confidential-relationship foundation.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For the 2958 Honeysuckle transaction, Vai provides three doctrinal handles:
+
+1. **Common-law foundation — older but still binding**: The spousal fiduciary duty is not merely a statutory creation; it is a common-law doctrine that existed for decades before codification. This strengthens the doctrinal weight of the § 721 / § 1100(e) claims. A defendant who argues "the statute is new and should be interpreted narrowly" is met with Vai's 65-year-old common-law foundation.
+
+2. **Burden-shifting rule**: When a transaction appears to transfer community property in a way that disadvantages the non-managing spouse, Vai places the burden on the managing spouse to justify the transaction. For Honeysuckle: $605K sale + $109K net + $496K unaccounted = a transaction that appears to disadvantage the non-managing spouse → burden shifts to Christina to justify.
+
+3. **Broad equitable remedies**: Vai's grant of broad equitable authority (rescission, constructive trust, damages) persists in modern § 1101 and § 1102 cases. Courts can impose constructive trusts on proceeds, order rescission, and award full damages. Vai is cited when plaintiffs need to argue for equitable remedies beyond the statutory text.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 56 Cal.2d 329 (1961)
+Court: California Supreme Court
+Reporter: California Reports, Second Series, vol. 56, page 329
+Source of this text: Claude training data (knowledge cutoff August 2025) supplemented by holding.md from prior build session. Vai v. Bank of America is the foundational California Supreme Court case establishing spousal fiduciary duty as a common-law doctrine — predating codification, establishing the confidential relationship, burden-shifting, and broad equitable remedies. Modern Fam. Code §§ 721 and 1100 were drafted against this background.
+Verification: Casetext / Google Scholar: "Vai v. Bank of America 56 Cal.2d 329"
+Verification status: PROPOSED — pending steward witness review

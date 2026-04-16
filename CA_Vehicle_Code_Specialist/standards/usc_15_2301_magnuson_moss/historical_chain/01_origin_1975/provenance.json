@@ -1,0 +1,11 @@
+{
+  "layer": "origin",
+  "year": 1975,
+  "enacting_act": "Pub. L. 93-637, 88 Stat. 2183 (January 4, 1975)",
+  "sponsors": ["Sen. Warren Magnuson (D-WA)", "Rep. John Moss (D-CA)"],
+  "implementing_regulations": "16 C.F.R. Parts 700-703 (FTC, 1975-1976)",
+  "primary_source_fetched": false,
+  "fetch_source": "uscode.house.gov Title 15 Chapter 50; GovInfo Pub. L. 93-637; Senate Commerce Committee Report 93-151",
+  "status": "OUTSTANDING",
+  "flagged_for": ["Steward", "HERALD"]
+}

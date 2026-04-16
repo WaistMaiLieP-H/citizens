@@ -1,0 +1,76 @@
+{
+  "actor_id": "paredes_olga",
+  "canonical_name": "Olga Paredes, Ph.D.",
+  "aliases": [
+    "Olga Paredes",
+    "Olga Paredes, Ph.D.",
+    "Olga Paredes (forensic psychologist, claimed)"
+  ],
+  "role": "Child Custody Mediator (Court-connected, Alameda County)",
+  "professional_identity": {
+    "claimed_title": "Psychotherapist, Forensic Psychologist, Mediator (per LinkedIn)",
+    "education_claimed": "Ph.D. \u2014 The Wright Institute, Berkeley, CA",
+    "credential_concern": "The Wright Institute grants PsyD degrees, not Ph.D. The Ph.D. claim may be a credential misrepresentation (PsyD vs. Ph.D.)",
+    "employer_at_time_of_service": "Alameda County Superior Court, Family Court Services",
+    "current_location": "Richmond, CA",
+    "external_listings": [
+      "WebMD (Psychology, Richmond CA)",
+      "courtlicensedabuse.com (cataloged by family court litigants)"
+    ],
+    "linkedin": "https://www.linkedin.com/in/olga-paredes-ph-d-8402489b/"
+  },
+  "credential_verification": {
+    "ca_board_of_psychology_license_number": "NOT FOUND through web-accessible public search",
+    "dca_license_search_result": "No specific result returned for 'Olga Paredes' through web search queries",
+    "board_of_behavioral_sciences": "Not found",
+    "verification_status": "UNVERIFIED \u2014 direct DCA license search and Board of Psychology contact required",
+    "ca_family_code_3164_compliance_assessment": "PsyD or Ph.D. from Wright Institute would satisfy educational requirement under \u00a7 3164 / \u00a7 1815. License-at-time-of-service is the unresolved question. In California one cannot use the title 'forensic psychologist' without a Board of Psychology license (Bus. & Prof. Code \u00a7 2903)."
+  },
+  "case_involvement": [
+    {
+      "case_number": "RF09456481",
+      "date": "2009-07-02",
+      "action": "Issued mediation recommendation under California Family Code \u00a7\u00a7 3164, 1815",
+      "outcome": "Sole legal/physical custody to Michael Hartmann; Christina Cerretani restricted to SUPERVISED visitation",
+      "outcome_classification": "FAVORABLE to the steward",
+      "judge_who_adopted": "Trina Thompson"
+    }
+  ],
+  "risk_level": "MEDIUM",
+  "risk_basis": "Credentials exist but are unverified; outcome was favorable; Ph.D./PsyD discrepancy needs resolution",
+  "outstanding_investigations": [
+    {
+      "id": "paredes_dca_search",
+      "question": "Does Olga Paredes hold a valid California Board of Psychology license? What is the license number? Was it valid in July 2009?",
+      "unblock": "Direct DCA License Search at search.dca.ca.gov for 'Olga Paredes'",
+      "alternate_unblock": "Phone California Board of Psychology at 916-574-7720 for license verification"
+    },
+    {
+      "id": "paredes_wright_institute",
+      "question": "What degree did Olga Paredes actually earn from the Wright Institute \u2014 Ph.D. or PsyD?",
+      "unblock": "Contact Wright Institute Registrar's office for degree verification"
+    },
+    {
+      "id": "paredes_employment_status",
+      "question": "Was Olga Paredes a court employee or independent contractor in July 2009?",
+      "unblock": "Public Records Act request to Alameda County Superior Court for her employment records and qualifications on file"
+    },
+    {
+      "id": "paredes_courtlicensedabuse",
+      "question": "What is the basis of her listing on courtlicensedabuse.com?",
+      "unblock": "Review the site listing"
+    }
+  ],
+  "standards_governing_this_actor": [
+    "Cal. Family Code \u00a7 3164 (custody mediator qualifications) \u2014 NOT YET BUILT in corpus",
+    "Cal. Family Code \u00a7 1815 (counselor of conciliation qualifications) \u2014 NOT YET BUILT in corpus",
+    "Cal. Family Code \u00a7 1816 (mediator DV training requirement) \u2014 NOT YET BUILT in corpus",
+    "Cal. Rules of Court Rule 5.210 (court-connected mediation procedures) \u2014 NOT YET BUILT in corpus",
+    "Cal. Bus. & Prof. Code \u00a7 2903 (psychologist title restriction) \u2014 NOT YET BUILT in corpus"
+  ],
+  "source_citations": [
+    "${familylaw}/CREDENTIAL-AUDIT-AJANIKU-PAREDES-DITSWORTH-2026-03-23.md",
+    "/home/vernenlegal/.claude/projects/-home-vernenlegal/memory/project_familylaw_audit.md"
+  ],
+  "filed_at_utc": "2026-04-08T18:05:00Z"
+}

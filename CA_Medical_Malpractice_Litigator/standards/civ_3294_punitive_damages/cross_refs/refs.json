@@ -1,0 +1,40 @@
+{
+  "standard_id": "CIV_3294_PUNITIVE_DAMAGES",
+  "cross_references": [
+    {
+      "ref_id": "CCP_425_13_PUNITIVE_GATE",
+      "short_title": "CCP §425.13 — Punitive Damages Pleading Gate (MICRA)",
+      "relationship": "prerequisite",
+      "description": "§425.13 is the mandatory procedural gateway in medical malpractice cases — plaintiff must obtain court authorization before amending to add punitive damages claim against a health care provider. §3294 is the substantive standard applied after §425.13 authorization is granted. The two statutes operate in sequence: §425.13 first, §3294 at trial.",
+      "path": "${citizens}/CA_Medical_Malpractice_Litigator/standards/ccp_425_13_punitive_gate"
+    },
+    {
+      "ref_id": "CCP_340_5_MEDICAL_SOL",
+      "short_title": "CCP §340.5 — MICRA Statute of Limitations",
+      "relationship": "interacting_limitation",
+      "description": "§340.5 controls whether a punitive damages claim can be brought at all — a time-barred underlying malpractice claim cannot support §3294 punitive damages. The Hrimnak escape (genuine intentional tort framing) shifts the claim out of §340.5 scope and into CCP §335.1 (2 years) or §338(d) (3 years), materially affecting the SOL available for intentional conduct that also supports §3294(c)(3) fraud.",
+      "path": "${citizens}/CA_Medical_Malpractice_Litigator/standards/ccp_340_5_medical_sol"
+    },
+    {
+      "ref_id": "BPC_6146_FEE_CAP",
+      "short_title": "B&P §6146 — MICRA Contingency Fee Cap",
+      "relationship": "related_micra_lattice",
+      "description": "B&P §6146 caps contingency fees in medical malpractice cases using a sliding scale. Punitive damages under §3294 are subject to the same fee cap structure as compensatory damages in MICRA cases. The fee cap affects the practical economics of pursuing §425.13/§3294 punitive damages claims.",
+      "path": "${citizens}/CA_Medical_Malpractice_Litigator/standards/bpc_6146_fee_cap"
+    },
+    {
+      "ref_id": "CIV_3333_1_COLLATERAL_SOURCE",
+      "short_title": "Civ. §3333.1 — MICRA Collateral Source Rule Modification",
+      "relationship": "related_micra_lattice",
+      "description": "§3333.1 modifies the collateral source rule in medical malpractice cases — collateral source benefits (insurance, disability payments) may be introduced to reduce compensatory damages. Punitive damages under §3294 are a separate category not directly affected by §3333.1, but the interaction affects the total damages picture.",
+      "path": "${citizens}/CA_Medical_Malpractice_Litigator/standards/civ_3333_1_collateral_source"
+    },
+    {
+      "ref_id": "CIV_3333_2_NONECONOMIC_CAP",
+      "short_title": "Civ. §3333.2 — MICRA $250K Noneconomic Damages Cap",
+      "relationship": "related_micra_lattice",
+      "description": "§3333.2 caps noneconomic damages in medical malpractice at $250K (adjusted to $350K in 2023 and rising). Punitive damages under §3294 are NOT subject to this cap — they are a separate damages category. Punitive damages can therefore exceed the noneconomic cap if the §3294 elements are met.",
+      "path": "${citizens}/CA_Medical_Malpractice_Litigator/standards/civ_3333_2_noneconomic_cap"
+    }
+  ]
+}

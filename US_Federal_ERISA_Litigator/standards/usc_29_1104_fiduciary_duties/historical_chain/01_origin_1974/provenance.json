@@ -1,0 +1,18 @@
+{
+  "layer": "historical_chain",
+  "stage": "01_origin_1974",
+  "standard_id": "USC_29_1104_FIDUCIARY_DUTIES",
+  "enacting_law": "Pub. L. 93-406 (ERISA), § 404, 88 Stat. 874 (Sept. 2, 1974)",
+  "signed_by": "President Gerald R. Ford",
+  "signed_date": "1974-09-02",
+  "effective_date": "1974-09-02",
+  "official_source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1104",
+  "verified": false,
+  "verified_note": "USC tool blocked for Title 29; text from training knowledge. Verify at uscode.house.gov.",
+  "key_regulatory_developments": [
+    "DOL 29 C.F.R. § 2509.75-8 — interpretive bulletin on fiduciary responsibility (1975)",
+    "Pension Protection Act 2006 — investment advice fiduciary expansion",
+    "DOL Cybersecurity Guidance (April 2021) — identity verification standard for account changes"
+  ],
+  "wound_record": "wound_record/ in standard root — pre-ERISA common law permitting plan administrator self-dealing"
+}

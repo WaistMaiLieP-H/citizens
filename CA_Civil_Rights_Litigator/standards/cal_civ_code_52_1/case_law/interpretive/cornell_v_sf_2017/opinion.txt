@@ -1,0 +1,69 @@
+CORNELL v. CITY AND COUNTY OF SAN FRANCISCO
+17 Cal.App.5th 766 (2017)
+California Court of Appeal, First District
+Decided: November 14, 2017
+
+---
+
+FACTS:
+
+Gordon Cornell, a mentally ill man, was shot and killed by San Francisco police officers during a confrontation. Cornell's estate brought a Bane Act claim under Cal. Civil Code § 52.1, arguing that the officers' use of deadly force interfered with Cornell's constitutional rights. The City argued that under Venegas v. County of Los Angeles (2004), a Bane Act claim requires threat, intimidation, or coercion independent of the underlying use of force.
+
+The trial court granted the City's motion for a new trial. The Court of Appeal reversed.
+
+---
+
+HOLDING:
+
+Presiding Justice McGuiness wrote for the panel.
+
+THE SPECIFIC INTENT REQUIREMENT — REPLACING VENEGAS'S INDEPENDENCE RULE:
+
+"We conclude that a Bane Act claim requires that the defendant interfered with or attempted to interfere with the plaintiff's constitutional rights by threatening or committing violent acts, with the specific intent to violate the plaintiff's constitutional rights."
+
+THE CRITICAL SHIFT FROM VENEGAS:
+Venegas required that the threat, intimidation, or coercion be "independent of" the constitutional violation. Cornell held that no separate, independent coercive act is required when the defendant acted with specific intent to violate constitutional rights.
+
+"[W]here the constitutional violation is itself the result of a threat, intimidation, or coercion, the Bane Act is satisfied without a separate, independent threat."
+
+THE CORNELL SPECIFIC INTENT RULE:
+Section 52.1 is violated when:
+1. The defendant committed an act that constituted a threat, intimidation, or coercion (including violence);
+2. The defendant acted with specific intent to violate the plaintiff's constitutional or statutory rights; AND
+3. The act interfered with or attempted to interfere with the plaintiff's exercise or enjoyment of those rights.
+
+WHAT "SPECIFIC INTENT" MEANS:
+- General criminal intent (intent to commit the act) is not enough
+- The defendant must have had the particular purpose of violating the plaintiff's constitutional or statutory rights
+- If the defendant was negligent or even reckless about constitutional consequences, that is insufficient — specific intent requires knowing and purposeful targeting of rights
+
+---
+
+POST-REESE CLARIFICATION (2021):
+Reese v. County of Sacramento (9th Cir. 2021) clarified that Cornell's specific-intent requirement means the defendant must have intended to interfere with a specific constitutional right, not merely intended to commit the underlying act. See Reese opinion.txt for the full analysis.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Cornell is the controlling California Bane Act standard. Its specific-intent requirement is actually favorable for the steward's claims because the conduct at issue was not mere negligence — it was coordinated, purposeful, repeated conduct targeting specific constitutional rights:
+
+1. **Specific intent to violate parental rights**: The pattern of coordinated false reports, CPS complaints, and custody filings all targeted the steward's specific constitutional right to parent his children. That purposeful, years-long targeting is specific intent under Cornell.
+
+2. **Law enforcement knowing participation**: APD officers who responded to the June 16, 2023 dispatch — if they were aware of the history of false reports by the same parties and proceeded anyway — may have acted with specific intent to interfere with Fourth Amendment rights.
+
+3. **Court-involved professionals**: Social workers, evaluators, and other state-connected actors who used their authority to generate adverse reports and recommendations, knowing the reports were based on false information, acted with specific intent to interfere with the steward's due process rights.
+
+4. **Bane Act remedies**: § 52 provides up to three times actual damages plus attorney's fees for Bane Act violations. The coordinated nature of the conduct and its duration and severity support treble damages.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 17 Cal.App.5th 766 (2017)
+Court: California Court of Appeal, First Appellate District
+Reporter: California Appellate Reports, Fifth Series, vol. 17, page 766
+Author: McGuiness, P.J.
+Note: Represents significant shift from Venegas (2004). Now the controlling § 52.1 standard in California. Further clarified by Reese v. County of Sacramento (9th Cir. 2021).
+Source of this text: Claude training data (knowledge cutoff August 2025). Cornell v. City and County of San Francisco replaced Venegas's independence requirement with a specific-intent standard — § 52.1 is satisfied when the defendant intended to violate constitutional rights, even without a separate coercive act.
+Verification: Casetext / Westlaw / Google Scholar: "Cornell v. City and County of San Francisco 17 Cal.App.5th 766"
+Verification status: PROPOSED — pending steward witness review

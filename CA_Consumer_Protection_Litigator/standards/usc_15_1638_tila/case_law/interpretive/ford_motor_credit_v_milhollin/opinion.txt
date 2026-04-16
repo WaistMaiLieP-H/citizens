@@ -1,0 +1,96 @@
+FORD MOTOR CREDIT CO. v. MILHOLLIN
+444 U.S. 555 (1980)
+Supreme Court of the United States
+Decided: January 21, 1980
+Author: MARSHALL, J.
+
+---
+
+FACTS:
+
+The Milhollins purchased a vehicle on credit from a Ford dealer, financed through Ford Motor Credit. They brought a Truth in Lending Act (TILA, 15 U.S.C. § 1638) claim alleging that the credit disclosure documents did not comply with TILA's requirements for disclosure of finance charges and the annual percentage rate (APR).
+
+The case raised fundamental questions about how courts should interpret TILA's disclosure requirements and the role of Federal Reserve Board (now CFPB) Regulation Z in implementing TILA.
+
+---
+
+HOLDING — DEFERENCE TO REGULATION Z:
+
+The Supreme Court held that courts must give substantial deference to the Federal Reserve Board's interpretation of TILA through Regulation Z (now CFPB Reg. Z, 12 C.F.R. § 1026 et seq.).
+
+"Unless demonstrably irrational, Federal Reserve Board staff opinions construing [TILA] should be dispositive for purposes of the Act's civil liability provisions." 444 U.S. at 565.
+
+RATIONALE FOR DEFERENCE:
+1. Congress delegated to the Federal Reserve Board the authority to prescribe regulations "to carry out the purposes of [TILA]";
+2. Technical financial disclosures require agency expertise;
+3. Uniform national standards require consistent interpretation;
+4. Creditors rely on agency guidance to structure their disclosures.
+
+---
+
+HOLDING — TILA STRICT LIABILITY:
+
+TILA imposes strict liability for disclosure violations. A creditor who fails to make a required disclosure — even without fraudulent intent — is liable for TILA's statutory damages.
+
+15 U.S.C. § 1640(a) — Civil Liability:
+A creditor who violates TILA's disclosure requirements is liable to the person to whom credit was extended for:
+- Actual damage sustained;
+- In the case of an individual action, twice the finance charge (not less than $100, not more than $1,000);
+- In the case of a class action, the lesser of $500,000 or 1% of the creditor's net worth;
+- Plus attorney's fees.
+
+THE "MEANINGFUL DISCLOSURE" STANDARD:
+TILA requires disclosure of all material credit terms in a form the consumer can use to compare credit offers. The test is whether the disclosure would enable a reasonable consumer to make an informed decision about the credit transaction.
+
+---
+
+TILA § 1638 — REQUIRED DISCLOSURES FOR CLOSED-END CREDIT:
+
+For vehicle purchase financing (closed-end credit), § 1638 requires disclosure of:
+1. The identity of the creditor;
+2. The "amount financed" (the amount of credit provided);
+3. The "finance charge" (the total dollar cost of credit);
+4. The annual percentage rate (APR);
+5. The total number of payments, the amount of each payment, and the due dates;
+6. The total sale price (sum of cash price plus finance charge);
+7. Prepayment penalties (if any);
+8. Late payment charges;
+9. Security interest description.
+
+---
+
+THE RESCISSION REMEDY — § 1635:
+
+For transactions secured by the consumer's principal dwelling (not vehicle loans), TILA provides a right of rescission within 3 days of consummation. For vehicle loans, there is no § 1635 right of rescission — but § 1640 civil liability applies.
+
+EXTENDED STATUTE OF LIMITATIONS:
+The standard TILA limitations period is 1 year from the violation. Courts have recognized equitable tolling where the creditor's concealment prevented the consumer from discovering the violation.
+
+---
+
+APPLICATION TO AUTO FINANCING FRAUD:
+
+For a vehicle purchase where the dealer or finance company failed to properly disclose:
+- The actual APR (e.g., the yo-yo dealer changes financing terms post-delivery);
+- The total finance charge (hidden fees, dealer-retained kickbacks from the lender);
+- The amount financed (not all fees disclosed);
+
+Under Milhollin and § 1638:
+1. Any material TILA disclosure violation creates strict liability;
+2. Statutory damages of twice the finance charge (up to $1,000) per violation;
+3. Mandatory attorney's fees for prevailing plaintiffs;
+4. Deference to CFPB Regulation Z guidance on what constitutes a disclosure violation.
+
+FOR YO-YO FINANCING: When the financing terms change post-delivery (different rate, different payment), the new RISC may require a new set of TILA disclosures. Delivering a new contract without re-making all required disclosures is a per se TILA violation.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 444 U.S. 555 (1980)
+Official reporter: United States Reports, vol. 444, page 555
+Court: Supreme Court of the United States
+Key holdings: Deference to Reg. Z; TILA strict liability; mandatory attorney's fees; required disclosures for closed-end credit
+Source of this text: Claude training data (knowledge cutoff August 2025). Ford Motor Credit v. Milhollin is the leading SCOTUS TILA interpretation case. Full verbatim text should be verified at:
+  - supremecourt.gov
+  - Google Scholar: "Ford Motor Credit v. Milhollin 444 US"
+Verification status: PROPOSED — pending steward witness review

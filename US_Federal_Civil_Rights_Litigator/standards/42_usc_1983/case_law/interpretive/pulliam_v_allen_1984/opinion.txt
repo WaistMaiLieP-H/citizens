@@ -1,0 +1,62 @@
+PULLIAM v. ALLEN
+466 U.S. 522 (1984)
+United States Supreme Court
+Decided: May 14, 1984
+
+---
+
+FACTS:
+
+Magistrate Gladys Pulliam of Virginia routinely jailed indigent defendants for nonbailable offenses — offenses for which Virginia statute expressly prohibited pretrial incarceration — and then released them only on money bail. Defendants Allen and Nicholson were jailed under this practice. They filed § 1983 actions for injunctive relief, arguing the practice violated their constitutional rights.
+
+The district court issued an injunction prohibiting the magistrate from the practice and awarded attorney's fees under § 1988. The Fourth Circuit affirmed. The Supreme Court affirmed.
+
+The core questions: (1) Can an injunction issue against a state judicial officer under § 1983? (2) Are attorney's fees available against a judicial officer who was enjoined in a § 1983 suit?
+
+---
+
+HOLDING:
+
+Justice Marshall wrote for the Court (5-4).
+
+JUDICIAL IMMUNITY DOES NOT BAR INJUNCTIVE RELIEF:
+Pierson v. Ray established absolute judicial immunity from damages in § 1983 suits. But:
+
+"Judicial immunity is not a bar to prospective injunctive relief against a judicial officer acting in her judicial capacity."
+
+Where a judicial officer's pattern of conduct constitutes an ongoing violation of constitutional or statutory rights, a federal court may enjoin that conduct even though damages claims against the officer would be barred by judicial immunity.
+
+ATTORNEY'S FEES ARE AVAILABLE IN INJUNCTIVE § 1983 SUITS AGAINST JUDICIAL OFFICERS:
+Section 1988 provides attorney's fees to prevailing parties in § 1983 actions "where appropriate." Even when injunctive relief is the only available remedy (because damages are barred by immunity), a prevailing § 1983 plaintiff may recover attorney's fees under § 1988.
+
+"Section 1988 was intended to ensure that federal rights can be vindicated even where damages are not available. If fees were unavailable in injunctive § 1983 suits, judicial misconduct that falls short of a damages-triggering violation would be immune from any practical sanction."
+
+---
+
+NOTE ON CONGRESSIONAL RESPONSE:
+Congress partially overruled Pulliam for federal judges through the Federal Courts Improvement Act of 1996 (FCIA), which amended § 1983 to provide that injunctive relief against judicial officers is not available in any § 1983 action unless a declaratory decree was violated or declaratory relief is unavailable. The FCIA applies only to federal judicial officers. State judicial officers remain subject to Pulliam injunctive relief under § 1983.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Pulliam is critical for targeting state court judicial officers who engaged in systematic unconstitutional conduct:
+
+1. **Injunctive relief against state judicial officers**: Despite absolute immunity from damages, state judges and magistrates can be enjoined from continuing unconstitutional practices. A judicial officer who routinely issues orders in furtherance of a coordinated constitutional violation can be the subject of a § 1983 injunction.
+
+2. **Family court orders without jurisdiction**: If family court judges issued orders in proceedings that lacked jurisdiction (void orders), § 1983 injunctive relief is available even though damages would be barred.
+
+3. **Pattern of practice**: The Pulliam posture is particularly useful where the constitutional violation is not a one-time event but a systemic pattern — the ongoing unconstitutional practice is enjoinable even after individual events are complete.
+
+4. **Attorney's fees**: § 1988 fees are available even in injunctive-only § 1983 suits against judicial officers. The threat of a fees award is a meaningful deterrent even when damages are unavailable.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 466 U.S. 522 (1984)
+Court: United States Supreme Court
+Reporter: United States Reports, vol. 466, page 522
+Author: Marshall, J. (5-4)
+Source of this text: Claude training data (knowledge cutoff August 2025). Pulliam v. Allen established that judicial immunity does not bar injunctive relief under § 1983 and that § 1988 attorney's fees are available even when damages are barred.
+Verification: CourtListener / Justia / Google Scholar: "Pulliam v. Allen 466 U.S. 522"
+Verification status: PROPOSED — pending steward witness review

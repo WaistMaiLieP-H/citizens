@@ -1,0 +1,15 @@
+{
+  "standard_id": "CA_EVID_1070",
+  "evolution_stage": "04_constitutional_elevation_1980",
+  "enacted_as": "California Constitution Article I, Section 2(b) — added by Proposition 5 (June 3, 1980)",
+  "legislative_resolution": "Resolution Chapter 77, 1978",
+  "approved_by_voters": "1980-06-03",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?lawCode=CONS&division=&title=&part=&chapter=&article=I",
+  "source_description": "Text from leginfo Article I full text, confirmed in existing capture at CA_Constitutional_Law_Specialist/standards/cal_const_art1_sec1/current/cal_const_art1_full_leginfo.txt",
+  "text_file": "text.txt",
+  "context_file": "context.md",
+  "fetch_timestamp_utc": "2026-04-09T06:55:00Z",
+  "retrieval_steward": "Claude (assistant) under steward direction — Michael Hartmann",
+  "cross_reference": "${citizens}/CA_Constitutional_Law_Specialist/standards/cal_const_art1_sec2/manifest.json",
+  "note": "This evolution stage documents the shield law's elevation to constitutional status. The text is the constitutional provision, not the statute. The statutory §1070 text is unchanged by this event — the constitutional provision is an independent, parallel protection."
+}

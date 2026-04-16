@@ -1,0 +1,65 @@
+{
+  "standard_id": "USC_18_1028",
+  "citizen": "US_Federal_Financial_Fraud_Litigator",
+  "version": "0.1.0-proposed",
+  "filed_at_utc": "2026-04-10T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "PROPOSED",
+  "primary_citation": {
+    "code": "18 USC",
+    "section": "1028",
+    "popular_name": "Fraud and related activity in connection with identification documents, authentication features, and information (Federal Identity Theft Statute)",
+    "jurisdiction": "Federal (United States)",
+    "original_enactment": "Pub. L. 97-398, False Identification Crime Control Act of 1982",
+    "effective": "1982-12-31",
+    "significant_amendments": [
+      "Pub. L. 105-318 (1998) — ITADA, added 'means of identification' concept and subsection (a)(7)",
+      "Pub. L. 108-275 (2004) — ITPEA, added §1028A aggravated identity theft",
+      "Pub. L. 110-326 (2008) — Identity Theft Enforcement and Restitution Act, restitution expansion"
+    ]
+  },
+  "build_method": "Logical Delta documentation (LOGIC.md at each evolution stage) — structural knowledge base focused on WHY each shift occurred, not verbatim text reproduction. Per steward direction 2026-04-10.",
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current LOGIC.md documents the statute's operational structure (three categorical objects, eight prohibited acts, §1028A enhancement) as a decision framework rather than verbatim text",
+    "reasoning": "PRESENT — LOGIC.md at each evolution stage (01_origin_1982, 02_itada_1998, 03_ithpa_2004) documents the specific wound each amendment answered and the structural logic Congress built in response",
+    "historical_loss": "PRESENT — historical_chain.md documents the four-decade arc from document-centric 1982 logic through 1998 data-centric expansion, 2004 enhancement, 2009 Flores-Figueroa narrowing, and 2023 Dubin narrowing",
+    "cross_references": "PRESENT — refs.json links to wire fraud, FCRA, RICO, §1028A, Privacy Act, CLRA",
+    "verifiable_provenance": "PARTIAL — provenance.json files at each level documenting Pub. L. numbers, effective dates, signing presidents, Statutes at Large citations; primary-source PDF capture from uscode.house.gov and govinfo.gov PENDING"
+  },
+  "evolution_chain": [
+    {"stage": "01_origin_1982", "folder": "evolution/01_origin_1982/", "status": "LOGIC_BUILT"},
+    {"stage": "02_itada_1998", "folder": "evolution/02_itada_1998/", "status": "LOGIC_BUILT"},
+    {"stage": "03_ithpa_2004", "folder": "evolution/03_ithpa_2004/", "status": "LOGIC_BUILT"},
+    {"stage": "04_current", "folder": "evolution/04_current/", "status": "POINTS_TO_CURRENT"}
+  ],
+  "case_law": {
+    "uphold": [],
+    "strike": [],
+    "interpretive": [
+      {"slug": "flores_figueroa_v_us", "cite": "556 U.S. 646 (2009)", "rule": "§1028A requires proof defendant knew the means of identification belonged to a real person", "files": ["holding.md", "provenance.json", "statute_version_cited.md"], "status": "BUILT"},
+      {"slug": "dubin_v_united_states", "cite": "599 U.S. 110 (2023)", "rule": "§1028A requires the identity theft to be 'at the crux' of the underlying fraud, not incidental", "files": ["holding.md", "provenance.json", "statute_version_cited.md"], "status": "BUILT"}
+    ]
+  },
+  "cross_refs_path": "cross_refs/refs.json",
+  "historical_chain_path": "historical_chain.md",
+  "operational_notes_for_steward_cases": {
+    "primary_bindings": [
+      "${nonfamilylaw}/Treasury_Securities",
+      "${nonfamilylaw}/Treasury",
+      "${nonfamilylaw}/2024_Fraud ChexSystems",
+      "${nonfamilylaw}/Hillberg_Ann_Evidence",
+      "${nonfamilylaw}/Crypto"
+    ],
+    "pleading_framework": "Map facts to §1028(a)(7) 'means of identification' prohibition + §1028A predicate felony (wire fraud §1343, bank fraud §1344, false statements §1001, theft of government property §641). Prepare criminal-referral package with §1028A exposure analysis; plead civil RICO under §1961(1)(B)/§1964(c); plead FCRA §1681c-2 identity theft block in parallel.",
+    "federal_nexus": "Satisfied automatically for SSN-based cases via 'issued by the United States' prong of §1028(c)(3)(A); interstate commerce showing not required."
+  },
+  "outstanding_work": [
+    "Primary-source PDF capture of Pub. L. 97-398, Pub. L. 105-318, Pub. L. 108-275",
+    "Primary-source opinion text for Flores-Figueroa and Dubin (supremecourt.gov)",
+    "Build separate 18 USC §1028A standard (currently cross-referenced)",
+    "Add additional case law: Kelly v. United States; Pereira v. United States; United States v. Mitra",
+    "Second-mouth witness review"
+  ],
+  "hash_sha256_current": null,
+  "witness_status": "AWAITING_STEWARD_WITNESS"
+}

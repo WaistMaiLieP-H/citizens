@@ -1,0 +1,20 @@
+{
+  "document": "California Civil Code §§1788–1788.33 (Rosenthal Fair Debt Collection Practices Act)",
+  "source_type": "california_statute",
+  "primary_source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1788.",
+  "current_as_of": "2026-04-11",
+  "original_enactment": "Stats. 1977, Ch. 907 (AB 2109, Rosenthal)",
+  "significant_amendments": [
+    "Stats. 1999, Ch. 319 — medical debt expressly covered",
+    "Stats. 2004 — electronic communications added",
+    "Stats. 2015 — §1788.100 medical debt collector requirements enhanced",
+    "Stats. 2020, Ch. 112 — AB 1020, various consumer protections strengthened"
+  ],
+  "key_federal_incorporation": "§1788.17 incorporates 15 USC §§1692b–1692j by reference",
+  "fetch_method": "VernenLegal MCP — california_get_section (leginfo.legislature.ca.gov official source)",
+  "fetch_timestamp_utc": "2026-04-11T00:00:00Z",
+  "retrieval_steward": "Claude (assistant) under direction of Michael Hartmann",
+  "verbatim_capture_status": "COMPLETE — civ_1788_leginfo.txt contains verbatim text of §§1788, 1788.17, 1788.30",
+  "txt_sha256": "bc62868b5a3e5d50012931fac03b8c9e9d7d56349381289b1b99c347e1f972af",
+  "build_date": "2026-04-11"
+}

@@ -1,0 +1,41 @@
+{
+  "standard_id": "civ_1793_2_song_beverly_lemon_law",
+  "cross_references": [
+    {
+      "target_citizen": "CA_Consumer_Protection_Litigator",
+      "target_standard": "civ_1790_song_beverly (if exists) / Rees-Levering",
+      "relationship": "parallel_and_complementary",
+      "note": "Song-Beverly is the substantive warranty statute; Rees-Levering (Civ §§2981-2984) is the financing-contract statute. They co-apply in every dealer-sold vehicle case but address different conduct. Vehicle Code Specialist OWNS Song-Beverly as the vehicle-warranty anchor; Consumer Protection may also cite."
+    },
+    {
+      "target_citizen": "CA_Vehicle_Code_Specialist",
+      "target_standard": "veh_11713_dealer_prohibited_acts",
+      "relationship": "stackable_claims",
+      "note": "Song-Beverly § 1794(c) 2x civil penalty + VEH §11713 prohibited-act civil penalties stack in the RedJag case; the §1794(c) willfulness showing is strengthened by proof of §11713(a)/(u) misleading advertising at point of sale."
+    },
+    {
+      "target_citizen": "CA_Vehicle_Code_Specialist",
+      "target_standard": "veh_5900_title_transfer_odometer",
+      "relationship": "predicate_for_willfulness",
+      "note": "§5900 odometer/title fraud at delivery is a predicate for §1794(c) willfulness showing. Stripped/stolen RedJag with falsified CARFAX = §5900 violation = per se willful nonconformity under §1793.2."
+    },
+    {
+      "target_citizen": "CA_Vehicle_Code_Specialist",
+      "target_standard": "usc_15_2301_magnuson_moss",
+      "relationship": "federal_parallel",
+      "note": "15 USC §§2301-2312 (Magnuson-Moss) runs parallel to Song-Beverly. Plaintiff may plead both. Magnuson-Moss grants federal jurisdiction at $50K amount-in-controversy and imports state warranty law under §2310(d)."
+    },
+    {
+      "target_citizen": "CA_Vehicle_Code_Specialist",
+      "target_standard": "bpc_9880_automotive_repair_act",
+      "relationship": "repair_attempt_documentation",
+      "note": "BPC §9884.9 written-estimate and work-order requirements generate the paper trail needed to satisfy §1793.22(b) presumption (attempt count, out-of-service days). Missing work orders = missing defense evidence."
+    },
+    {
+      "target_citizen": "CA_Consumer_Protection_Litigator",
+      "target_standard": "civ_2982_rees_levering",
+      "relationship": "coordinated_not_duplicated",
+      "note": "Rees-Levering (financing) and Song-Beverly (warranty) co-apply but do not duplicate. If a yo-yo financing violation also occurred at delivery, pleads stack."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "evolution_stage": "04_partnership_amendment_2001",
+  "standard_id": "CAL_FAM_721",
+  "description": "Partnership amendment — added Corporations Code cross-refs and three specific obligations to § 721(b)",
+  "enacted_by": "REQUIRES_PRIMARY_SOURCE_VERIFICATION — approximate period 1999–2002",
+  "effective_date": "REQUIRES_PRIMARY_SOURCE_VERIFICATION",
+  "source": "California Statutes — exact chapter number requires verification",
+  "primary_source_url": "https://leginfo.legislature.ca.gov/faces/billSearchClient.xhtml",
+  "retrieval_method": "Historical legal research — text confirmed from current leginfo.legislature.ca.gov (MCP fetch 2026-04-10); amendment date requires primary source verification",
+  "verification_status": "TEXT_CONFIRMED — AMENDMENT_DATE_REQUIRES_VERIFICATION",
+  "verification_note": "Text confirmed current as of MCP fetch 2026-04-10. To identify exact amendment: search leginfo.legislature.ca.gov bill history for Fam. Code § 721 amendments, filter for bills amending Family Code § 721 between 1995 and 2005. The Corporations Code §§ 16403/16404/16503 cross-references are part of RUPA adoption in California (Stats. 1996, ch. 1003) — the § 721 amendment likely came shortly after RUPA adoption.",
+  "html_sha256": null,
+  "fetch_timestamp": "2026-04-11T00:00:00Z",
+  "fetch_tool": "historical research + VernenLegal MCP (current text)",
+  "retrieval_steward": "Claude (assistant) under steward direction — Michael Hartmann"
+}

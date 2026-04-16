@@ -1,0 +1,11 @@
+{
+  "standard_id": "pen_1369_competency_determination",
+  "citizen": "CA_Mental_Health_Litigator",
+  "citation": "Cal. Pen. Code § 1369",
+  "jurisdiction": "California",
+  "build_date": "2026-04-13",
+  "build_state": "PUBLISHED",
+  "layers": {"rule": "COMPLETE","statute_text": "COMPLETE","historical_chain": "COMPLETE","case_law": "COMPLETE","cross_refs": "COMPLETE"},
+  "provenance": {"source": "leginfo.legislature.ca.gov","tool": "mcp__claude_ai_VernenLegal__california_get_section","fetch_date": "2026-04-13","verified": true,"statute_sha256": "284af9f6f0970461c5a2be3d0de3223d805fd7e15c2e58c3ac9b14f89752e022"},
+  "witness": {"ADAM": "PENDING","EVE": "PENDING"}
+}

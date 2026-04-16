@@ -1,0 +1,57 @@
+TAYLOR v. SUPERIOR COURT
+24 Cal.3d 890 (1979)
+California Supreme Court
+Decided: August 29, 1979
+
+---
+
+FACTS:
+
+A plaintiff injured in a drunk-driving collision sued the driver for compensatory and punitive damages under § 3294. The driver had a history of alcohol abuse and DUI convictions. The trial court struck the punitive damages prayer on the theory that drunk driving without additional aggravating conduct was at most gross negligence, not "oppression, fraud, or malice" as § 3294 then required. The Court of Appeal issued a writ directing the prayer reinstated. The driver sought Supreme Court review.
+
+---
+
+HOLDING:
+
+THREE ENDURING PROPOSITIONS:
+
+1. **Conscious disregard of a known risk can constitute malice.** Under § 3294, "malice" includes non-intentional conduct carried out with conscious disregard for the rights or safety of others. The court characterized drunk driving by someone with a known alcohol problem as paradigm conscious-disregard conduct.
+
+2. **The intent to injure is not required for malice; intent to do the act with awareness of the probable harmful consequences is sufficient.** This distinguishes § 3294 malice from criminal "express malice" and made punitive damages broadly available in tort cases before the 1987 amendment.
+
+3. **Drunk driving is categorically sufficient for punitive damages** (pre-1987): "The risk of injury to others from ordinary driving while intoxicated is so obvious and the warning signs so notorious that driving while intoxicated, in itself, supports punitive liability as a matter of law."
+
+---
+
+POST-1987 TREATMENT:
+
+Taylor predates the 1987 amendment that added "despicable" to the malice definition (Stats. 1987, ch. 1498; interpreted in College Hospital Inc. v. Superior Court (1994) 8 Cal.4th 704).
+
+Post-1988: Propositions (1) and (2) survive — conscious disregard can still be malice, but the conduct must also be "despicable." Proposition (3) — drunk driving as categorically despicable — has been narrowed. Courts now require something beyond ordinary drunk driving (extreme BAC, multiple prior DUIs, driving with child passengers) to find despicability.
+
+**Taylor's core holdings are still good law**: The inclusion of non-intentional conscious disregard within § 3294 malice (propositions 1 and 2) survives the 1987 amendment intact.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Taylor's framework applies as the foundation for the broader § 3294 malice analysis when the fraud prong (§ 3294(c)(3)) is insufficient or needs to be supplemented:
+
+1. **Conscious disregard theory**: The defendants' conscious disregard of the seller's community property rights — carried out despite known awareness of the harm — parallels the Taylor conscious-disregard framework.
+
+2. **§ 3294 is not limited to intentional torts**: Taylor stands for the proposition that a defendant can be liable for punitives even without an express intent to injure, as long as the conduct reflects conscious disregard of known consequences. This is the doctrinal hook for the broader pattern-based punitive theory.
+
+3. **Fraud prong is preferred**: For the Honeysuckle facts, the § 3294(c)(3) fraud prong (which has no despicability requirement) is the stronger theory. Taylor's conscious-disregard framework is the backup theory for the malice/oppression prong.
+
+4. **Pattern-based punitives**: Taylor supports the proposition that a pattern of risk-taking conduct, carried out with awareness of its harmful nature, supports punitive liability — applicable to a multi-asset, multi-institution dispossession pattern.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 24 Cal.3d 890 (1979)
+Court: California Supreme Court
+Reporter: California Reports, Third Series, vol. 24, page 890
+Author: Richardson, J. (6-1; Mosk, J. dissenting)
+Source of this text: Claude training data (knowledge cutoff August 2025) supplemented by holding.md from prior build session. Taylor v. Superior Court established that conscious disregard of a known risk can constitute § 3294 malice — intent to injure is not required; awareness of probable harmful consequences plus willful failure to avoid them is sufficient.
+Verification: Casetext / Google Scholar: "Taylor v. Superior Court 24 Cal.3d 890"
+Verification status: PROPOSED — pending steward witness review

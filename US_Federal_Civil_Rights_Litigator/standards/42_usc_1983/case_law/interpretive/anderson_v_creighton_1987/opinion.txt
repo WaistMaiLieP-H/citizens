@@ -1,0 +1,75 @@
+ANDERSON v. CREIGHTON
+483 U.S. 635 (1987)
+United States Supreme Court
+Decided: June 25, 1987
+
+---
+
+FACTS:
+
+FBI Special Agent Russell Anderson, acting without a warrant, searched the home of Robert Creighton and his family looking for a bank robbery suspect. The suspect was not found. The Creightons sued Anderson under Bivens for violating their Fourth Amendment rights against unreasonable search and seizure.
+
+Anderson asserted qualified immunity. The Eighth Circuit denied immunity, holding that the constitutional right to be free from a warrantless search of one's home was clearly established, and no reasonable officer could have believed the search was constitutional.
+
+The Supreme Court reversed and remanded for reconsideration of qualified immunity.
+
+---
+
+HOLDING:
+
+Justice Scalia wrote for the Court (6-3).
+
+THE "PARTICULARIZED" CLEARLY ESTABLISHED STANDARD:
+Harlow held that officers are immune unless they violate "clearly established" law. Anderson v. Creighton defined what "clearly established" means for specific conduct:
+
+"[T]he right the official is alleged to have violated must have been 'clearly established' in a more particularized, and hence more relevant, sense: The contours of the right must be sufficiently clear that a reasonable official would understand that what he is doing violates that right."
+
+"[I]t is inevitable that law enforcement officials will in some cases reasonably but mistakenly conclude that probable cause is present, and we have indicated that in such cases those officials — like other officials who act in ways they reasonably believe to be lawful — should not be held personally liable."
+
+THE WARRANTLESS HOME SEARCH RULE:
+The general proposition that warrantless home searches are unconstitutional does not automatically establish that every warrantless search is unconstitutional in a specific fact pattern. The specific circumstances (exigent circumstances, consent, search incident to arrest) may make a particular warrantless search constitutionally permissible.
+
+The officer's entitlement to qualified immunity depends on whether, given the specific facts confronting the officer, a reasonable officer could have believed the search was lawful.
+
+---
+
+THE ANDERSON PARTICULARIZATION REQUIREMENT:
+After Anderson, the clearly established inquiry asks not "was the general constitutional rule established?" but "was the specific application of that rule to these specific facts established?"
+
+For example:
+- General rule established: warrantless home searches are unconstitutional ✓
+- Particularized rule: whether THIS warrantless search, under THESE circumstances, was unconstitutional — that's what must be clearly established
+
+This particularization requirement has become one of the most criticized aspects of qualified immunity doctrine, because it allows courts to always find "this specific combination of facts" has not previously been addressed.
+
+---
+
+IMPACT AND CRITICISM:
+
+Anderson's particularization requirement significantly extended qualified immunity by requiring not just a clearly established legal rule but a prior case that is factually similar enough to the conduct at issue. This requirement has been used to deny immunity only rarely, because there is almost always some factual distinction from prior cases.
+
+Taylor v. Riojas (2020) created a partial exception: when the violation is "obvious," no specific prior case is required.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For the § 1983 complaint, Anderson's particularization requirement means:
+1. Find the most factually specific prior case establishing the right violated
+2. The closer the factual match, the stronger the "clearly established" argument
+3. For the "obvious violation" path (Taylor), show the conduct was so egregious that no prior case is needed
+
+For custody-manipulation-via-official-authority claims:
+- Right clearly established: parents have a constitutional right to the care and custody of their children — Santosky v. Kramer (1982), Troxel v. Granville (2000)
+- Particularized application: using official authority to generate false investigations of a parent to manipulate custody proceedings — this pattern is well-documented in § 1983 case law as a violation of substantive due process
+
+---
+
+SOURCE PROVENANCE:
+Citation: 483 U.S. 635 (1987)
+Court: United States Supreme Court
+Reporter: United States Reports, vol. 483, page 635
+Author: Scalia, J. (6-3)
+Source of this text: Claude training data (knowledge cutoff August 2025). Anderson v. Creighton established the "particularized" clearly established standard — requiring the specific application of the constitutional rule to be established, not just the general rule.
+Verification: CourtListener / Justia / Google Scholar: "Anderson v. Creighton 483 U.S. 635"
+Verification status: PROPOSED — pending steward witness review

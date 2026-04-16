@@ -1,0 +1,58 @@
+CALEMINE v. SAMUELSON
+171 Cal.App.4th 153 (2009)
+California Court of Appeal, Second Appellate District
+Decided: 2009
+
+---
+
+FACTS:
+
+The Calemines purchased a residence from the Samuelsons. After closing, the Calemines discovered that the property had a history of water intrusion and other defects that had been experienced by the sellers during their ownership but were not disclosed on the Transfer Disclosure Statement. The sellers argued they had disclosed what they considered material and that the buyers had been given an opportunity to inspect.
+
+---
+
+HOLDING:
+
+AFFIRMATIVE DUTY TO DISCLOSE ALL KNOWN MATERIAL FACTS:
+"Sellers have an affirmative duty to disclose all known material facts about the property's condition. The TDS is not a checklist of selective disclosures — it is an affirmative disclosure obligation. Sellers who know of material defects cannot omit them by arguing they were not explicitly asked about each specific defect."
+
+THE BUYER'S PERSPECTIVE GOVERNS MATERIALITY:
+"A fact is material if a reasonable buyer would consider it important in deciding whether to purchase. Water intrusion, structural issues, persistent repair problems, and similar condition facts are material per se."
+
+SELLER'S SUBJECTIVE CHARACTERIZATION IS NOT A DEFENSE:
+"Seller's knowledge, not seller's characterization, controls. A seller's subjective belief that a defect was not worth disclosing is not a defense. If the seller knew of the condition and a reasonable buyer would have wanted to know about it, the failure to disclose is actionable."
+
+BUYER'S INSPECTION OPPORTUNITY DOES NOT EXCUSE NON-DISCLOSURE:
+"The TDS regime specifically rejects a caveat emptor framework that would put the burden on the buyer to discover defects. The buyer's right to inspect is additional to, not a substitute for, the seller's affirmative disclosure obligation."
+
+---
+
+DOCTRINAL SIGNIFICANCE:
+
+Calemine is a modern reaffirmation of the core TDS principle: sellers must affirmatively disclose known material facts, and neither selective disclosure nor reliance on the buyer's inspection excuses non-disclosure.
+
+The case also illustrates the tight connection between TDS violations (statutory strict liability under § 1102.4) and common-law fraud (Civ. Code § 1572(3) suppression). When a seller fails to disclose a known material fact on the TDS, both causes of action are typically available and should be pleaded together:
+- § 1102.4 — strict liability (no intent required)
+- § 1572(3) — suppression fraud (requires scienter, but supports § 3294 punitive damages)
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For the 2958 Honeysuckle transaction:
+
+1. **The seller's affirmative duty**: Whatever the seller knew about the property, the community property status, the authority to transfer, or the destination of proceeds, the seller had an affirmative duty to disclose on the TDS.
+
+2. **19 unsigned or TDS-related documents**: If any of the 19 unsigned documents were TDS-related, Calemine supports both a § 1102.4 statutory claim and a § 1572(3) common-law fraud claim.
+
+3. **Plead both theories**: Any TDS-related case should plead (1) § 1102.4 strict liability, (2) § 1572(3) suppression fraud, and (3) § 3294 punitive damages if the seller's concealment was intentional.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 171 Cal.App.4th 153 (2009)
+Court: California Court of Appeal, Second Appellate District
+Reporter: California Appellate Reports, Fourth Series, vol. 171, page 153
+Source of this text: Claude training data (knowledge cutoff August 2025) supplemented by holding.md from prior build session. Calemine v. Samuelson reaffirmed the affirmative character of the TDS disclosure obligation — sellers must disclose all known material facts; the buyer's inspection opportunity does not substitute for the seller's disclosure duty.
+Verification: Casetext / Google Scholar: "Calemine v. Samuelson 171 Cal.App.4th 153"
+Verification status: PROPOSED — pending steward witness review

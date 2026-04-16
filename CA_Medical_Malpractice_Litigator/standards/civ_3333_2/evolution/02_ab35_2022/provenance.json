@@ -1,0 +1,24 @@
+{
+  "stage": "02_ab35_2022",
+  "enactment": "Stats. 2022, Ch. 17, §6",
+  "bill": "AB 35 (Reyes)",
+  "effective_date": "2023-01-01",
+  "signing_governor": "Gavin Newsom",
+  "signing_date": "2022-05-23",
+  "legislative_session": "2021-2022 Regular Session",
+  "vote_history": "AB 35 passed both houses with near-unanimous support following multi-party negotiations",
+  "negotiating_parties": [
+    "Consumer Attorneys of California (CAOC)",
+    "California Medical Association (CMA)",
+    "California Hospital Association (CHA)",
+    "Insurance industry stakeholders"
+  ],
+  "ballot_initiative_context": "FIPA (Fairness for Injured Patients Act) was withdrawn from the November 2022 ballot as consideration for AB 35",
+  "primary_source_citations": [
+    "Cal. Stats. 2022, Ch. 17",
+    "Cal. Civ. Code §3333.2 (as amended)",
+    "Cal. B&P Code §6146 (parallel attorney fee sliding-scale amendment)"
+  ],
+  "verification_status": "PENDING primary source session-law capture",
+  "retrieval_steward": "Claude (assistant)"
+}

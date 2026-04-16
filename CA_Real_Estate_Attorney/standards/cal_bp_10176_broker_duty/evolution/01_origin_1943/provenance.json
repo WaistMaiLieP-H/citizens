@@ -1,0 +1,17 @@
+{
+  "evolution_stage": "01_origin_1943",
+  "standard_id": "CAL_BPC_10176",
+  "description": "1943 Real Estate Act / BPC § 10176 origin — original disciplinary grounds",
+  "enacted_by": "Stats. 1943 (California Real Estate Act reorganization into Business and Professions Code)",
+  "predecessor_statute": "California Real Estate Act (1917), as amended",
+  "effective_date": "1943 (approximate)",
+  "source": "California Business and Professions Code, enacted and organized as part of BPC (1943 et seq.)",
+  "primary_source_url": "https://www.dre.ca.gov/",
+  "retrieval_method": "Historical legal research — requires primary source verification against 1943 California Statutes and original BPC",
+  "verification_status": "REQUIRES_PRIMARY_SOURCE_VERIFICATION",
+  "verification_note": "California DRE history at dre.ca.gov. Original BPC text at California State Archives. The DRE was established by the Real Estate Act of 1917 (Stats. 1917, ch. 755). The 1943 reorganization into the BPC is the modern origin.",
+  "html_sha256": null,
+  "fetch_timestamp": "2026-04-11T00:00:00Z",
+  "fetch_tool": "historical research",
+  "retrieval_steward": "Claude (assistant) under steward direction — Michael Hartmann"
+}

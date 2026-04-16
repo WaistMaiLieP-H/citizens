@@ -1,0 +1,32 @@
+CALIFORNIA CIVIL CODE §3333.2 — MICRA NONECONOMIC DAMAGES LIMIT
+(as amended by AB 35, Stats. 2022, Ch. 17, effective January 1, 2023)
+
+§3333.2. (a) In any action for injury against a health care provider based on professional negligence, the injured plaintiff shall be entitled to recover noneconomic losses to compensate for pain, suffering, inconvenience, physical impairment, disfigurement, and other nonpecuniary damage.
+
+(b) (1) In an action described in subdivision (a) that does not involve the death of the plaintiff, the amount of damages for noneconomic losses shall not exceed the following amounts:
+(A) In an action filed or arbitration demanded before January 1, 2023: Two hundred fifty thousand dollars ($250,000).
+(B) In an action filed or arbitration demanded on or after January 1, 2023: Three hundred fifty thousand dollars ($350,000).
+(C) Beginning January 1, 2024, and each January 1 thereafter until January 1, 2033, the amount specified in subparagraph (B) shall be increased by forty thousand dollars ($40,000) each year.
+(D) Beginning January 1, 2034, and each January 1 thereafter, the amount in effect immediately before that January 1 shall be adjusted for inflation, as measured by the Consumer Price Index for All Urban Consumers (All Items) (CPI-U), as reported by the United States Department of Labor, Bureau of Labor Statistics.
+
+(2) In an action described in subdivision (a) involving the death of the plaintiff, the amount of damages for noneconomic losses shall not exceed the following amounts:
+(A) In an action filed or arbitration demanded before January 1, 2023: Two hundred fifty thousand dollars ($250,000).
+(B) In an action filed or arbitration demanded on or after January 1, 2023: Five hundred thousand dollars ($500,000).
+(C) Beginning January 1, 2024, and each January 1 thereafter until January 1, 2033, the amount specified in subparagraph (B) shall be increased by fifty thousand dollars ($50,000) each year.
+(D) Beginning January 1, 2034, and each January 1 thereafter, the amount in effect immediately before that January 1 shall be adjusted for inflation, as measured by the Consumer Price Index for All Urban Consumers (All Items) (CPI-U), as reported by the United States Department of Labor, Bureau of Labor Statistics.
+
+(c) Notwithstanding subdivision (b), in any action or arbitration against one or more health care providers, the limits on noneconomic damages specified in this section shall be applied as follows:
+(1) Only one limit shall apply to all health care provider defendants that are not one or more health care institutions, regardless of the number of health care providers against whom the action is brought, or the number of claims brought.
+(2) Only one separate limit shall apply to all health care institutions, regardless of the number of health care institutions against whom the action is brought, or the number of claims brought.
+(3) If the conduct against one or more defendants constitutes a separate cause of action for wrongful death, a separate limit shall apply to the wrongful death cause of action that shall be in addition to any limit on noneconomic damages for any other action arising out of the same conduct.
+
+(d) Notwithstanding subdivisions (b) and (c), in any action or arbitration against one or more health care providers in which the conduct against one or more defendants results in both personal injury to the plaintiff and the plaintiff's death, only one limit applicable to the action or arbitration shall apply, which shall be the higher of the two amounts in effect at the time the action was filed or arbitration demanded.
+
+(e) For purposes of this section:
+(1) "Health care institution" means a clinic, health dispensary, or health facility, licensed pursuant to Division 2 (commencing with Section 1200) of the Health and Safety Code.
+(2) "Health care provider" means any person licensed or certified pursuant to Division 2 (commencing with Section 500) of the Business and Professions Code, or licensed pursuant to the Osteopathic Initiative Act, or the Chiropractic Initiative Act, or licensed pursuant to Chapter 2.5 (commencing with Section 1440) of Division 2 of the Health and Safety Code; and any clinic, health dispensary, or health facility, licensed pursuant to Division 2 (commencing with Section 1200) of the Health and Safety Code. "Health care provider" includes the legal representatives of a health care provider.
+(3) "Professional negligence" means a negligent act or omission to act by a health care provider in the rendering of professional services, which act or omission is the proximate cause of a personal injury or wrongful death, provided that the services are within the scope of services for which the provider is licensed and which are not within any restriction imposed by the licensing agency or licensed hospital.
+
+(f) This section shall not impair the right of any plaintiff to any other damages, including, but not limited to, economic damages, punitive damages, prejudgment or post-judgment interest, or attorney's fees.
+
+(SB 308, Stats. 1975, 2d Ex. Sess., Ch. 1, §25.4; as amended by AB 35, Stats. 2022, Ch. 17, §6, effective January 1, 2023.)

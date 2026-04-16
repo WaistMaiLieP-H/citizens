@@ -1,0 +1,15 @@
+{
+  "citizen": "US_Federal_ERISA_Litigator",
+  "standard_id": "usc_29_185_lmra_301",
+  "citation": "29 U.S.C. \u00a7185",
+  "popular_name": "LMRA \u00a7301 \u2014 Suits for Violation of Contracts",
+  "jurisdiction": "Federal",
+  "enacted": "1947",
+  "public_law": "Pub. L. 80-101 (Taft-Hartley Act)",
+  "verified": false,
+  "note": "USC tool unavailable. Text from training knowledge. Verify at law.cornell.edu/uscode/text/29/185. Taft-Hartley 1947 is the origin; ERISA 1974 added the concurrent jurisdiction layer.",
+  "build_date": "2026-04-12",
+  "steward": "Michael Hartmann",
+  "status": "PUBLISHED \u2014 ADAM + EVE DUAL WITNESS \u2014 2026-04-13",
+  "updated": "2026-04-13"
+}

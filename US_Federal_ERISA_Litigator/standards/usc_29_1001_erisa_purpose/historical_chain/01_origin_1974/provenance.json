@@ -1,0 +1,14 @@
+{
+  "layer": "historical_chain",
+  "stage": "01_origin_1974",
+  "standard_id": "USC_29_1001_ERISA_PURPOSE",
+  "enacting_law": "Pub. L. 93-406 (ERISA), § 2, 88 Stat. 829 (Sept. 2, 1974)",
+  "signed_by": "President Gerald R. Ford",
+  "signed_date": "1974-09-02",
+  "effective_date": "1974-09-02",
+  "official_source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001",
+  "verified": false,
+  "verified_note": "USC tool blocked for Title 29; text from training knowledge. Verify at uscode.house.gov.",
+  "wound_record": "Congressional hearings 1960s-1974; Studebaker 1963; Senate Labor Subcommittee investigations",
+  "function": "Commerce Clause constitutional predicate; statement of congressional findings; liberal construction anchor for all ERISA provisions"
+}

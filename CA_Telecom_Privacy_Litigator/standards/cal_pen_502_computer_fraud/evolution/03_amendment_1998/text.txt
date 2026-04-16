@@ -1,0 +1,15 @@
+AB 3916 (Chapter 828, Statutes of 1994) and subsequent refinements (1994–1998)
+
+Key additions post-1988:
+
+1. **Penalty structure refinement** — Distinguished between misdemeanor unauthorized access (simple § 502(c)(7) access, no damage, no financial loss) and felony (damage, substantial loss, or disruption of services).
+
+2. **"Data" expanded** — Definition of "data" expanded to include audio and visual data, not just numeric or text data. Applied to emerging multimedia systems.
+
+3. **Injunctive relief** — § 502(e) civil right of action explicitly added injunctive and other equitable relief as remedies, in addition to compensatory damages. This is important for ongoing surveillance situations — a plaintiff can seek a restraining order against continued unauthorized access.
+
+4. **Government computer systems** — Specific enhancement for unauthorized access to computer systems of government entities (state, local, federal agencies operating in California).
+
+Note: The 1998 amendments were modest refinements of the 1988 framework, not structural changes. The § 502(c)(1)–(c)(14) structure present in current law was substantially established by 1994.
+
+Source: Chapter 828, Statutes of 1994; subsequent technical corrections through 1998.

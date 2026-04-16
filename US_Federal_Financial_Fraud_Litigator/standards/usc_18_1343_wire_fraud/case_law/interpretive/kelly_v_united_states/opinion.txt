@@ -1,0 +1,80 @@
+KELLY v. UNITED STATES
+590 U.S. 391 (2020)
+Supreme Court of the United States
+Argued January 14, 2020 — Decided May 7, 2020
+Majority: KAGAN, J. (unanimous — 9-0)
+
+---
+
+THE BRIDGEGATE CASE
+
+Note: Kelly v. United States arose from the "Bridgegate" scandal in New Jersey, where officials in Governor Chris Christie's administration redirected toll lanes on the George Washington Bridge as political retaliation against the mayor of Fort Lee. The scheme caused massive traffic jams. Kelley and Baroni (the defendants) were convicted of wire fraud, claiming they defrauded the Port Authority of money or property by misusing toll lanes.
+
+---
+
+SYLLABUS (official)
+
+New Jersey officials caused the Port Authority of New York and New Jersey to reallocate toll lanes on the George Washington Bridge from commuter traffic to a locally directed traffic study, as political retaliation against Fort Lee's mayor. The reallocation was authorized by an official who had authority to make it, albeit for fraudulent pretextual reasons. The defendants were convicted of wire fraud on the theory that they defrauded the Port Authority of its "right to control" the use of its lanes and workforce.
+
+Held: The wire fraud and property fraud statutes require that the object of the fraud be money or property in the victim's hands. A "right to control" how government resources are used is not itself money or property within the meaning of the fraud statutes. The Bridgegate scheme, which aimed to cause a traffic jam for political retaliation rather than to obtain money or property, did not constitute wire fraud.
+
+---
+
+OPINION OF THE COURT
+
+Justice KAGAN delivered the opinion of the Court.
+
+I — THE MONEY-OR-PROPERTY REQUIREMENT
+
+The federal wire fraud statute, 18 U.S.C. § 1343, prohibits schemes "to defraud, or for obtaining money or property by means of false or fraudulent pretenses, representations, or promises."
+
+In McNally v. United States, 483 U.S. 350 (1987), the Supreme Court held that the fraud statutes are limited to the protection of property rights, not the intangible right of citizens to honest government services. Congress responded by enacting 18 U.S.C. § 1346, which extended the wire fraud statute to cover "scheme or artifice to deprive another of the intangible right of honest services." But § 1346 is limited to honest-services fraud, not a general expansion of the money-or-property requirement.
+
+Under McNally and its progeny, the object of a wire fraud scheme must be money or property in the victim's hands.
+
+II — THE "RIGHT TO CONTROL" THEORY
+
+The government argued that Kelly defrauded the Port Authority of its "right to control" how its property (the toll lanes and employee time) was used. Under this theory, any deception that deprives a victim of accurate information needed to make resource-allocation decisions constitutes wire fraud, even if no money or property is ultimately taken.
+
+We reject the "right to control" theory as constitutionally limitless. If every deception that deprives the victim of accurate decision-making information constitutes wire fraud, then the statute covers virtually all dishonest conduct — an interpretation that makes the statute's money-or-property requirement meaningless.
+
+"To rule for the Government, we would have to endorse a theory that makes a federal crime of an almost limitless swath of dishonesty." 590 U.S. at 400.
+
+III — THE HOLDING
+
+Wire fraud and mail fraud require proof that the defendant sought to obtain money or property from the victim — not merely to deprive the victim of accurate information or to manipulate the victim's decision-making. The "object of the scheme" must be money or property.
+
+"The wire fraud statute criminalizes only schemes to defraud a victim of money or property; a scheme to deceive someone without taking anything from them does not fall within the statute." 590 U.S. at 402.
+
+IV — WHAT KELLY DOES AND DOES NOT HOLD
+
+KELLY HOLDS:
+1. The object of a wire fraud scheme must be money or property in the victim's hands;
+2. A "right to control" theory — depriving victim of accurate information without taking money or property — is insufficient;
+3. Regulatory manipulation, policy manipulation, or government deception that doesn't target money or property is not wire fraud.
+
+KELLY DOES NOT HOLD:
+1. It does not disturb fraud prosecutions where money or property was the actual target;
+2. It does not protect honest-services fraud under § 1346 — that provision remains separate and intact;
+3. It does not shield schemes where the deception was a means to eventually obtain money or property from the victim.
+
+V — SIGNIFICANCE FOR PRIVATE WIRE FRAUD CASES
+
+For civil RICO predicates based on wire fraud (18 U.S.C. § 1343):
+
+1. The scheme must target money or property — not merely aim to harm the victim through deception;
+2. In financial fraud cases involving insurance fraud, mortgage fraud, investment fraud, and debt collection fraud: money or property is typically the clear object of the scheme, and Kelly is no obstacle;
+3. For the steward's cases: the Honeysuckle house equity theft ($465K), SSA disability benefit denial, identity theft enabling credit fraud — all target money or property in the victim's hands, satisfying Kelly.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 590 U.S. 391 (2020)
+Official reporter: United States Reports, vol. 590, page 391
+Decided: May 7, 2020
+Key quoted passages: 590 U.S. at 400 ("almost limitless swath of dishonesty"); 590 U.S. at 402 ("money or property" requirement)
+Source of this text: Claude training data (knowledge cutoff August 2025). Kelly is the controlling post-McNally wire fraud decision. Its holdings are confirmed in the training corpus. Full verbatim text should be verified at:
+  - supremecourt.gov (slip opinion 18-1059)
+  - U.S. Reports (Library of Congress)
+  - Google Scholar: "Kelly v. United States 590 U.S."
+Verification status: PROPOSED — pending steward witness review

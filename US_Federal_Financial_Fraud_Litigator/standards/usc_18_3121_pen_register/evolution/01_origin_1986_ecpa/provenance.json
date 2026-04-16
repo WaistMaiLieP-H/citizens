@@ -1,0 +1,14 @@
+{
+  "stage": "01_origin_1986_ecpa",
+  "label": "Pen Register Act — ECPA Title III Original Enactment",
+  "source": "Electronic Communications Privacy Act of 1986, Pub. L. 99-508, Title III",
+  "effective_date": "1986-10-21",
+  "provisions_enacted": [
+    "18 U.S.C. §3121 — prohibition on pen register/trap and trace device use without court order",
+    "18 U.S.C. §3122 — government application procedure",
+    "18 U.S.C. §3123 — court order requirements",
+    "18 U.S.C. §3127 — definitions"
+  ],
+  "constitutional_backdrop": "Smith v. Maryland, 442 U.S. 735 (1979) — no Fourth Amendment protection for dialed numbers; ECPA Title III provides statutory (not constitutional) protection",
+  "verbatim_capture_status": "PENDING"
+}

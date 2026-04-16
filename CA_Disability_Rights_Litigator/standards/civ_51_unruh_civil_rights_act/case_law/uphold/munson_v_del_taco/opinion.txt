@@ -1,0 +1,13 @@
+Munson v. Del Taco, Inc.
+46 Cal.4th 661 (2009)
+
+SUMMARY (from training knowledge — see verification status)
+
+The California Supreme Court held that a plaintiff in a disability discrimination case under CIV §51/§54 and the ADA does not need to prove "deterrence" — i.e., does not need to show they personally attempted and were denied access — if the ADA/Unruh violation is established and the plaintiff has a disability that makes the barrier relevant to them.
+
+Key holdings:
+- Standing under CIV §54.3 for ADA/Unruh claims may be established by showing the barrier deters access, not only by proving an actual, completed denial of access
+- A disabled plaintiff who has knowledge of an ADA barrier at a public accommodation has standing to sue for injunctive relief even without attempting access and being denied
+- The legislative intent is to give disabled persons the same access to enforcement that non-disabled persons enjoy
+
+Note: This standing ruling is important for steward cases where denials may have occurred through chilling or deterrence rather than a visible, discrete denial event.

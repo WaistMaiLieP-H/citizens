@@ -1,0 +1,112 @@
+{
+  "standard_id": "CA_GOV_12525_5",
+  "directory_name": "gov_code_12525_2_racial_profiling",
+  "note_on_id": "The directory name uses 12525_2 but the correct California Government Code section is § 12525.5 (Racial and Identity Profiling Act — RIPA). This manifest documents § 12525.5.",
+  "version": "0.1.0-initial",
+  "filed_at_utc": "2026-04-12T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "PROPOSED",
+  "build_context": "Built 2026-04-12 as part of the CA_Law_Enforcement_Procedures_Specialist seven-standard seeding. § 12525.5 is the RIPA data collection mandate — the primary tool for documenting pretextual stop patterns at California law enforcement agencies.",
+
+  "primary_citation": {
+    "jurisdiction": "California",
+    "code": "California Government Code",
+    "section": "§ 12525.5",
+    "popular_name": "Racial and Identity Profiling Act (RIPA) — AB 953 (2015)",
+    "enacting_legislation": "AB 953 (Stats. 2015, Ch. 466), authored by Assemblymember Shirley Weber",
+    "subsequent_amendments": [
+      "AB 2067 (2017) — expanded data categories",
+      "SB 978 (2019) — connected to POST compliance",
+      "AB 175 (2019) — clarified stop definitions"
+    ],
+    "effective_date_data_collection": "July 1, 2018",
+    "current_codification_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=12525.5.&lawCode=GOV",
+    "public_data_portal": "https://openjustice.doj.ca.gov/",
+    "primary_source_status": "OUTSTANDING — leginfo fetch needed"
+  },
+
+  "structural_location": {
+    "code": "California Government Code",
+    "title": "TITLE 2. GOVERNMENT OF THE STATE OF CALIFORNIA",
+    "division": "DIVISION 3. EXECUTIVE DEPARTMENT",
+    "part": "PART 2.5. DEPARTMENT OF JUSTICE",
+    "chapter": "CHAPTER 10. ATTORNEY GENERAL AND DEPARTMENT OF JUSTICE",
+    "companion_section": "§ 12525.6 — RIPA Advisory Board"
+  },
+
+  "citizen_relevance": {
+    "primary_use": "Document pretextual stop patterns at APD; obtain the RIPA stop record for June 16, 2023",
+    "secondary_use": "Pattern evidence for § 1983 federal civil rights claim — agency-level data establishes municipal practice",
+    "case_references": [
+      "Case #04-23-01959 — APD criminal case",
+      "June 16, 2023 encounter — APD stop data should exist in RIPA dataset",
+      "CalVCB Application A25-10117946",
+      "§ 1983 federal complaint (NDCA Oakland) — pattern-or-practice element"
+    ],
+    "priority_action": "PRA request to APD for RIPA stop records for June 16, 2023 (officer badge numbers from police report); also review DOJ public dataset for APD agency-level patterns"
+  },
+
+  "five_layer_bar_status": {
+    "rule": {
+      "status": "PRESENT",
+      "note": "Mandatory data collection on every stop, annual AG reporting, five-year retention, officer identification maintained separately — all captured in current/text.txt"
+    },
+    "reasoning": {
+      "status": "PRESENT",
+      "note": "RIPA addresses institutionalized invisibility of racial profiling: without data, disparate-impact claims could not be proven; mandatory collection converts invisible encounters into auditable records — documented in historical_chain.md and context.md"
+    },
+    "historical_loss": {
+      "status": "PRESENT",
+      "note": "Pre-RIPA: no systematic stop data; officer discretion without accountability; pattern evidence for DV claims against Black/brown communities structurally impossible to compile — documented in historical_chain.md"
+    },
+    "cross_references": {
+      "status": "PRESENT",
+      "note": "refs.json contains 6 cross-references: § 12525.6 (RIPA Board), § 832.18 (body cameras), 42 U.S.C. § 1983 (federal civil rights), Cal. Pen. Code § 13701 (DV reporting), POST standards, Penal Code § 832.7 (officer records)"
+    },
+    "verifiable_provenance": {
+      "status": "PARTIAL",
+      "note": "AB 953 Stats. 2015, Ch. 466 cited; leginfo fetch outstanding for verbatim text; DOJ public data portal confirmed operational"
+    }
+  },
+
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction (Michael Hartmann), 2026-04-12",
+    "second_mouth_witness": "NONE — not yet countersigned",
+    "publishable_to_corpus": false,
+    "status": "PROPOSED"
+  },
+
+  "triple_constraint_test_results": {
+    "governing_guidelines": {
+      "passes": true,
+      "evidence": "Cal. Gov. Code § 12525.5 is binding California statutory authority enacted by AB 953 (2015) and subsequently amended; published at official California Legislative Information"
+    },
+    "standards_of_creation": {
+      "passes": true,
+      "evidence": "Section is well-formed with clear mandatory obligations, definitions, agency identification, reporting chain, and enforcement hook through POST compliance (SB 978)"
+    },
+    "standard_of_care": {
+      "passes": "PARTIAL",
+      "note": "Current-form text captured from knowledge; primary source fetch from leginfo outstanding"
+    }
+  },
+
+  "umbrellas": [
+    "Authority / Governing Law (Umbrella 01) — primary",
+    "Documentation Integrity (Umbrella 02) — secondary",
+    "Professional Competence (Umbrella 04) — tertiary"
+  ],
+
+  "owner_citizen": {
+    "primary": "CA Law Enforcement Procedures Specialist",
+    "ownership_note": "RIPA is a foundational accountability mechanism for all California law enforcement stops. Every encounter between a peace officer and a civilian that meets the 'stop' definition is covered."
+  },
+
+  "outstanding_work": [
+    "Fetch current § 12525.5 text from leginfo",
+    "Fetch AB 953 (Stats. 2015, Ch. 466) bill text from leginfo",
+    "STEWARD: PRA request to APD for RIPA stop records for June 16, 2023",
+    "STEWARD: Review DOJ OpenJustice portal for APD agency-level stop data 2018-2023",
+    "Obtain second-mouth countersignature on the standard"
+  ]
+}

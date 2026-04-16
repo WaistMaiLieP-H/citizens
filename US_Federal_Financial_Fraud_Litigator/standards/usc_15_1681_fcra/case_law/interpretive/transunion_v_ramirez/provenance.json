@@ -1,0 +1,15 @@
+{
+  "case_slug": "transunion_v_ramirez",
+  "full_citation": "TransUnion LLC v. Ramirez, 594 US 413 (2021)",
+  "court": "United States Supreme Court",
+  "decided": "2021-06-25",
+  "docket": "20-297",
+  "opinion_author": "Kavanaugh, J.",
+  "dissent": "Thomas, J. (joined by Breyer, Sotomayor, Kagan, JJ.)",
+  "holding_category": "interpretive — Article III standing / downstream disclosure requirement",
+  "fcra_sections_interpreted": ["15 USC §1681e(b)", "15 USC §1681i", "15 USC §1681n"],
+  "prior_proceedings": "9th Cir. affirmed class certification and judgment; SCOTUS reversed as to non-disclosed class members",
+  "source_url": "https://supreme.justia.com/cases/federal/us/594/20-297/",
+  "verbatim_capture_status": "PENDING",
+  "build_date": "2026-04-10"
+}

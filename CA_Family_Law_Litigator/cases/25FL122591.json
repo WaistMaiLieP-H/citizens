@@ -1,0 +1,36 @@
+{
+  "case_number": "25FL122591",
+  "court": "Alameda County Superior Court",
+  "type": "DVRO (Michael's, 2025)",
+  "petitioner": "Michael Hartmann",
+  "respondent": "Christina Cerretani",
+  "filed_date": "2025-05-15",
+  "current_status": "Denied; dismissed 2025-06-25",
+  "key_dates": [
+    {
+      "date": "2025-05-15",
+      "event": "Michael files DV-100 in Alameda"
+    },
+    {
+      "date": "2025-06-25",
+      "event": "Denied and dismissed; case dismissed but Christina's response (25FL125059) survives the dismissal"
+    }
+  ],
+  "source_folder": "FamilyLaw/2025-05-15/ and 2025-05-16/ (presumed)",
+  "related_actors": [
+    "cerretani_christina"
+  ],
+  "related_standards": [
+    "CA_FAM_6203_DVPA_ABUSE_DEFINITION"
+  ],
+  "related_cases": [
+    "25FL125059",
+    "FL0002067"
+  ],
+  "known_anomalies": [
+    "Dismissal is part of the 2025 jurisdictional trap pattern",
+    "Christina's counter-DVRO (25FL125059) was filed 20 days after Michael's filing \u2014 matches the counter-filing playbook pattern (18-20 day window)",
+    "Both DVROs were dismissed the same day (2025-06-25), but Christina's response 'survives' Michael's dismissal \u2014 this is the structural mechanism by which she preserves her own filing while his goes away"
+  ],
+  "filed_at_utc": "2026-04-08T18:05:00Z"
+}

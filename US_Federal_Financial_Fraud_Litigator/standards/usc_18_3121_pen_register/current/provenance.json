@@ -1,0 +1,13 @@
+{
+  "standard_id": "USC_18_3121_PEN_REGISTER",
+  "primary_citation": "18 U.S.C. §§3121-3127 (Pen Register Act, Title III of ECPA, Pub. L. 99-508 (1986); amended by USA PATRIOT Act, Pub. L. 107-56 (2001))",
+  "key_prohibition": "18 U.S.C. §3121 — prohibition on installing/using pen register or trap and trace device without court order or consent",
+  "no_civil_remedy": "Pen Register Act does NOT create a private civil right of action; enforcement is criminal (up to 1 year + fine under §3121(d)); contrast with §2520 (Wiretap, $10K/violation civil) and §2707 (SCA, $1K/violation civil)",
+  "practical_value": "Evidence preservation and criminal violation characterization for SIM swap; call logs obtained through civil subpoena document per-violation count for §2511/CIPA damages",
+  "fetch_method": "WebFetch — uscode.house.gov official source",
+  "fetch_timestamp_utc": "2026-04-11T00:00:00Z",
+  "retrieval_steward": "Claude (assistant) under direction of Michael Hartmann",
+  "verbatim_capture_status": "COMPLETE — usc_18_3121_leginfo.txt contains verbatim text of §3121(a)-(d)",
+  "txt_sha256": "4cbdd39e03b870cbf73e162fcf2ad214d68cd36edda006fd8988a78f4e56c5b0",
+  "build_date": "2026-04-11"
+}

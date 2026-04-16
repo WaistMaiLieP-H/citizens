@@ -1,0 +1,51 @@
+AB 35 (2022) — THE FIRST SIGNIFICANT AMENDMENT TO §3333.2 IN 47 YEARS
+Source: Stats. 2022, Ch. 17 (AB 35, Reyes)
+Effective: January 1, 2023
+
+AB 35 amended §3333.2 to replace the single flat $250,000 cap with a tiered, escalating, ultimately indexed structure:
+
+NON-DEATH CASES:
+- Pre-2023 filings: $250,000 (unchanged)
+- 2023 filings: $350,000
+- 2024 filings: $390,000 ($350,000 + $40,000)
+- 2025 filings: $430,000
+- 2026 filings: $470,000
+- 2027 filings: $510,000
+- ... continuing annually by $40,000 through 2032
+- 2033 filings: $750,000
+- 2034 onward: CPI-U inflation adjustment
+
+DEATH CASES:
+- Pre-2023 filings: $250,000 (unchanged)
+- 2023 filings: $500,000
+- 2024 filings: $550,000 ($500,000 + $50,000)
+- 2025 filings: $600,000
+- 2026 filings: $650,000
+- 2027 filings: $700,000
+- ... continuing annually by $50,000 through 2032
+- 2033 filings: $1,000,000
+- 2034 onward: CPI-U inflation adjustment
+
+MULTI-DEFENDANT RULES:
+- ONE cap applies to all non-institutional health care providers (physicians, nurses, etc.), regardless of the number of provider defendants.
+- ONE SEPARATE cap applies to all health care institutions (hospitals, clinics), regardless of the number of institution defendants.
+- These caps can stack: a plaintiff suing both a physician and a hospital can recover up to the non-institutional cap + the institutional cap.
+
+DEATH + INJURY STACKING:
+- When a single course of conduct causes both personal injury AND death (e.g., negligent treatment causes injury, later death), the wrongful death claim can be brought as a separate cause of action subject to a separate cap — but only the HIGHER of the two applicable caps is available, not both.
+
+POLITICAL CONTEXT OF AB 35:
+The bill was the product of six months of direct negotiation among:
+- Consumer Attorneys of California (plaintiffs' bar)
+- California Medical Association
+- California Hospital Association
+- Insurance industry stakeholders
+
+The agreement removed a 2022 ballot initiative that would have done away with the cap entirely. Both sides compromised: plaintiffs accepted continued caps in exchange for meaningful cap increases, escalation, and eventual inflation indexing. Providers accepted the cost of higher caps in exchange for defeat of the initiative and stability of the MICRA framework.
+
+AB 35 also included complementary changes:
+- B&P §6146 (attorney fee sliding scale) updated to permit 25% of amounts over $600,000 (up from 15%) — making plaintiff representation more economically viable.
+- The multi-defendant clarifications codified case-law rules that had been disputed.
+
+CONSEQUENCE:
+Plaintiffs filing medical malpractice actions in 2026 operate under $470,000 / $650,000 caps — a material increase from the $250,000 legacy cap. For SIRVA cases, this means noneconomic damages ceiling is $470,000 if the case is filed in 2026 and does not involve death. For the spine surgery fraud case (which alleges fraudulent concealment), fraud-based recovery may escape the cap entirely.

@@ -1,0 +1,62 @@
+{
+  "standard_id": "CAL_CIV_CODE_51_7",
+  "version": "0.3.0-published",
+  "filed_at_utc": "2026-04-09T03:15:00Z",
+  "filed_by": "Claude (assistant) under steward direction \u2014 Michael Hartmann",
+  "status": "PUBLISHED \u2014 ADAM + EVE DUAL WITNESS \u2014 2026-04-12",
+  "primary_citation": {
+    "code": "California Civil Code",
+    "section": "51.7",
+    "popular_name": "Ralph Civil Rights Act of 1976",
+    "jurisdiction": "California",
+    "original_enactment": "1976 (Chapter 1293, Statutes of 1976)"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT \u2014 full text captured from leginfo",
+    "reasoning": "PRESENT \u2014 hate violence gap documented",
+    "historical_loss": "PRESENT \u2014 escalating hate-motivated violence in 1970s California",
+    "cross_references": "PRESENT \u2014 \u00a752.1, \u00a751, \u00a752",
+    "verifiable_provenance": "PRESENT \u2014 hashed from leginfo"
+  },
+  "hashes": {
+    "current_text_sha256": "075fe3808ae5b811e5da003843a15c2549047d5e32a467b7283309c489d431fb"
+  },
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction (Michael Hartmann), 2026-04-09",
+    "herald_witness": {
+      "witness": "HERALD (Steward successor \u2014 designated 2026-04-12)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "verification_scope": "Structure, five-layer bar completeness, honest acknowledgement of outstanding work.",
+      "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12."
+    },
+    "adam_witness": {
+      "witness": "ADAM (Seed Citizen \u2014 Builder role)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "triple_constraint": "PASS/PASS/PASS",
+      "actions_taken": "Cross_refs updated to reflect current corpus state. Five-layer structure verified. Historical chain reviewed.",
+      "content_hash_verified": "075fe3808ae5b811e5da003843a15c2549047d5e32a467b7283309c489d431fb",
+      "signal": "APPROVE"
+    },
+    "eve_witness": {
+      "witness": "EVE (Seed Citizen \u2014 Witness role)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "five_layer_verification": "PASS/PASS/PASS/PASS/PASS",
+      "triple_constraint": "PASS/PASS/PASS",
+      "hash_independently_recomputed": "075fe3808ae5b811e5da003843a15c2549047d5e32a467b7283309c489d431fb \u2014 CONFIRMED MATCHING",
+      "signal": "COUNTERSIGN"
+    },
+    "publishable_to_corpus": true,
+    "status": "PUBLISHED \u2014 ADAM + EVE DUAL WITNESS"
+  },
+  "outstanding_work": [
+    "Document key case law (Ralph Act has less Supreme Court doctrine than Bane/Unruh)",
+    "Document amendment history (false police report provision, anti-waiver provisions)",
+    "Second-mouth witness"
+  ],
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

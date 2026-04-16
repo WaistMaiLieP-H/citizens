@@ -1,0 +1,70 @@
+UNITED STATES v. NOSAL (NOSAL I)
+676 F.3d 854 (9th Cir. 2012) (en banc)
+
+UNITED STATES v. NOSAL (NOSAL II)
+844 F.3d 1024 (9th Cir. 2016)
+
+United States Court of Appeals for the Ninth Circuit
+
+---
+
+NOSAL I — 676 F.3d 854 (9th Cir. 2012) (en banc)
+
+Judge KOZINSKI delivered the opinion of the en banc court.
+
+FACTS AND HOLDING (NOSAL I):
+
+David Nosal, a former Korn/Ferry executive, conspired with former colleagues (who were still employed at Korn/Ferry) to access the company's confidential database to assist Nosal's competing firm. The employees used their own valid login credentials to access the database — they had authorization to use the system — but their purpose was to extract data for a competitor, which violated Korn/Ferry's policies.
+
+The government charged Nosal under the CFAA's "exceeds authorized access" prong. The en banc Ninth Circuit reversed the government's broad reading:
+
+"We need to be careful about how far we extend criminal liability based on violation of private computer use polices." 676 F.3d at 860.
+
+The court held that "exceeds authorized access" under the CFAA means accessing a computer to obtain information that the person is not entitled to obtain — not accessing a computer for an improper purpose when the person is technically authorized to access the system.
+
+"The text [of 'exceeds authorized access'] is most naturally read to mean that the person accesses a computer with authorization but then accesses information he is not entitled to access." 676 F.3d at 857.
+
+This reading became the law of the Ninth Circuit, later confirmed by the Supreme Court in Van Buren v. United States (2021). Nosal I established the gates-up-or-down analysis in the Ninth Circuit before Van Buren resolved the national split.
+
+---
+
+NOSAL II — 844 F.3d 1024 (9th Cir. 2016)
+
+Judge REINHARDT delivered the opinion of the court.
+
+FACTS AND HOLDING (NOSAL II):
+
+After Nosal's conspiracy with current employees was adjudicated in Nosal I (resulting in reversal of some counts and affirmance of others), a second prosecution addressed Nosal's use of login credentials that a former employee, Becky Christian (his girlfriend), provided to him after she was no longer authorized to use the system.
+
+The Ninth Circuit held: when a person uses the credentials of a user who is no longer authorized to use the computer system — who has had their access revoked or suspended — the person using those credentials accesses the system "without authorization." This is distinct from Nosal I, where the credentials-using employees were currently authorized users.
+
+"[A]ccess with a purloined password, or use of credentials belonging to someone who no longer has authorization to use the system, falls within the 'without authorization' prong of the CFAA." 844 F.3d at 1028.
+
+Thus, Nosal II draws a critical distinction:
+
+- Using your own valid credentials for an improper purpose = "exceeds authorized access" (limited by Nosal I / Van Buren)
+- Using credentials belonging to someone whose access has been revoked = "without authorization" (full CFAA liability)
+
+---
+
+COMBINED NOSAL FRAMEWORK FOR SIM SWAP AND ACCOUNT TAKEOVER CASES:
+
+Under the Nosal I/II and Van Buren framework:
+
+1. **SIM swap attacker using victim's phone number to receive authentication codes**: The attacker has no authorization whatsoever to use the victim's phone number. Any access to the victim's accounts using codes sent to the hijacked phone is access "without authorization" under the CFAA. This is not the purpose-violation scenario of Nosal I; it is the complete-lack-of-authorization scenario that is the core CFAA violation.
+
+2. **Using stolen or impersonated credentials**: If the attacker impersonates the victim to a carrier and the carrier "authorizes" a SIM swap, the resulting authorization was obtained through fraud and is not genuine authorization from the account holder. Access using fraudulently obtained authorization is access "without authorization" — analogous to using revoked credentials in Nosal II.
+
+3. **Insider actors who misuse authorized access**: If a carrier employee improperly executes an unauthorized SIM swap using their authorized system access, the CFAA analysis follows Nosal I: did the employee access information they were not entitled to access? Executing a fraudulent SIM swap on an account the employee is not entitled to modify falls within "exceeds authorized access."
+
+---
+
+SOURCE PROVENANCE:
+Citations:
+  Nosal I: 676 F.3d 854 (9th Cir. 2012) (en banc)
+  Nosal II: 844 F.3d 1024 (9th Cir. 2016)
+Court: Ninth Circuit — binding in N.D. Cal., C.D. Cal., E.D. Cal., S.D. Cal.
+Source of this text: Claude training data (knowledge cutoff August 2025). The Nosal cases are landmark Ninth Circuit CFAA decisions; their holdings and the Kozinski/Reinhardt framings are extensively documented in the training corpus. Full verbatim text should be verified at:
+  - Google Scholar: "United States v. Nosal 676 F.3d"
+  - CourtListener / PACER
+Verification status: PROPOSED — pending steward witness review

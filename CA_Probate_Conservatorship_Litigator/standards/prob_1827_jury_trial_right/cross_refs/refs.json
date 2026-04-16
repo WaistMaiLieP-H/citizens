@@ -1,0 +1,25 @@
+{
+  "standard_id": "prob_1827_jury_trial_right",
+  "cross_refs": [
+    {
+      "ref_id": "wic_5350_lps_conservatorship",
+      "path": "${citizens}/CA_Probate_Conservatorship_Litigator/standards/wic_5350_lps_conservatorship",
+      "relationship": "\u00a75350(d) provides LPS-specific jury trial right (5-day demand, 10-day trial, dismissal if late) \u2014 parallel to Prob. \u00a71827"
+    },
+    {
+      "ref_id": "cal_prob_1801_conservatorship_appointment",
+      "path": "${citizens}/CA_Conservator_Investigator/standards/cal_prob_1801_conservatorship_appointment",
+      "relationship": "Jury trial determines whether \u00a71801 clear-and-convincing standard is met \u2014 the factual finding the jury makes"
+    },
+    {
+      "ref_id": "prob_void_for_fraud",
+      "path": "${citizens}/CA_Probate_Conservatorship_Litigator/standards/prob_void_for_fraud",
+      "relationship": "Conservatorship established without communicating jury trial right \u2192 due process defect \u2192 supports void/voidable analysis"
+    },
+    {
+      "ref_id": "us_federal_1983_civil_rights",
+      "path": "${citizens}/US_Federal_Civil_Rights_Litigator/standards/us_federal_1983_civil_rights",
+      "relationship": "State-actor deprivation of jury trial right in conservatorship proceedings without due process = \u00a71983 claim"
+    }
+  ]
+}

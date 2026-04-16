@@ -1,0 +1,125 @@
+{
+  "standard_id": "USC_18_1961_RICO",
+  "citizen": "US_Federal_Financial_Fraud_Litigator",
+  "version": "0.1.0-proposed",
+  "filed_at_utc": "2026-04-11T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "PROPOSED",
+  "build_method": "Logical Delta (LOGIC.md at each evolution stage)",
+  "primary_citation": {
+    "code": "18 USC",
+    "sections": "§§1961-1968",
+    "popular_name": "RICO — Racketeer Influenced and Corrupt Organizations Act",
+    "jurisdiction": "Federal",
+    "enacted": "Pub. L. 91-452, Organized Crime Control Act of 1970, Title IX",
+    "effective": "1970-10-15",
+    "civil_action_section": "§1964(c) — private civil right; treble damages + mandatory attorney fees"
+  },
+  "elements_1962c": [
+    "1. Person (defendant)",
+    "2. Employed by or associated with an enterprise (distinct from the person)",
+    "3. Enterprise engaged in or affecting interstate commerce",
+    "4. Defendant conducted or participated in the conduct of the enterprise's affairs (Reves: operation-or-management)",
+    "5. Through a pattern of racketeering activity",
+    "6. Pattern: at least 2 predicate acts (§1961(1) list), related + continuous (H.J. Inc.)",
+    "7. Plaintiff injured in business or property by reason of the §1962 violation (Holmes: proximate cause)"
+  ],
+  "civil_remedy_1964c": {
+    "standing": "Any person injured in their business or property",
+    "damages": "Treble actual damages (mandatory)",
+    "fees": "Reasonable attorney's fees (mandatory)",
+    "sof_of_limitations": "4 years from discovery (Agency Holding Corp. v. Malley-Duff, 1987)",
+    "securities_exclusion": "Predicates that would be actionable as Exchange Act securities fraud are excluded (1996 RICO Reform)"
+  },
+  "key_predicates_relevant": [
+    "18 USC §1343 (wire fraud) — §1961(1)(B)",
+    "18 USC §1341 (mail fraud) — §1961(1)(B)",
+    "18 USC §1028 (identity theft) — §1961(1)(B), added 2002",
+    "18 USC §1028A (aggravated identity theft) — §1961(1)(B), added 2004",
+    "18 USC §1344 (bank fraud) — §1961(1)(B)"
+  ],
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current/LOGIC.md documents §1964(c) elements, four elements of §1962(c), predicate acts list, H.J. Inc. pattern test, Reves operation-or-management, Holmes proximate cause, treble damages calculation for Michael's cases",
+    "reasoning": "PRESENT — evolution/01_origin_1970/LOGIC.md documents organized crime infiltration wound and Clayton Act antitrust analogy; evolution/02_sedima/LOGIC.md documents commercial overextension wound and broad-right confirmation; evolution/03_hj_inc/LOGIC.md documents pattern chaos wound and relatedness+continuity resolution",
+    "historical_loss": "PRESENT — historical_chain.md documents full arc from organized crime origins through commercial expansion through Sedima/H.J. Inc./Reves judicial framework through identity theft predicate additions",
+    "cross_references": "PRESENT — refs.json links to §1343, §1028, §1028A, FCRA §1681",
+    "verifiable_provenance": "PARTIAL — provenance.json files present; verbatim statute text and opinion text PENDING"
+  },
+  "evolution_chain": [
+    {"stage": "01_origin_1970", "folder": "evolution/01_origin_1970/", "status": "LOGIC_BUILT"},
+    {"stage": "02_sedima_1985_private_right", "folder": "evolution/02_sedima_1985_private_right/", "status": "LOGIC_BUILT"},
+    {"stage": "03_hj_inc_1989_continuity", "folder": "evolution/03_hj_inc_1989_continuity/", "status": "LOGIC_BUILT"}
+  ],
+  "case_law": {
+    "uphold": [],
+    "interpretive": [
+      {
+        "slug": "sedima_sprl_v_imrex",
+        "cite": "Sedima, S.P.R.L. v. Imrex Co., 473 US 479 (1985)",
+        "rule": "No prior criminal conviction required; no racketeering injury required; §1964(c) available for any business/property injury from any RICO violation. Civil RICO is as broad as its text.",
+        "files": ["holding.md", "provenance.json", "statute_version_cited.md"],
+        "status": "BUILT"
+      },
+      {
+        "slug": "hj_inc_v_northwestern_bell",
+        "cite": "H.J. Inc. v. Northwestern Bell Telephone Co., 492 US 229 (1989)",
+        "rule": "Pattern = relatedness + continuity. Two acts necessary but not sufficient. Closed-ended (substantial period) or open-ended (ongoing threat) continuity. Resolves circuit split.",
+        "files": ["holding.md", "provenance.json", "statute_version_cited.md"],
+        "status": "BUILT"
+      },
+      {
+        "slug": "reves_v_ernst_young",
+        "cite": "Reves v. Ernst & Young, 507 US 170 (1993)",
+        "rule": "§1962(c) 'conduct or participate' requires operation-or-management role in directing the enterprise. Outside service providers who facilitate but do not direct are not §1962(c) defendants.",
+        "files": ["holding.md", "provenance.json", "statute_version_cited.md"],
+        "status": "BUILT"
+      }
+    ]
+  },
+  "cross_refs_path": "cross_refs/refs.json",
+  "historical_chain_path": "historical_chain.md",
+  "operational_notes_for_steward_cases": {
+    "pattern_analysis": {
+      "predicate_acts_inventory": [
+        "Each SIM swap initiation: §1343 wire fraud + §1028 identity theft",
+        "Each unauthorized account access using Michael's identity: §1343 + §1028",
+        "Treasury Securities fraudulent claims/account openings: §1343 + §1028",
+        "ChexSystems fraudulent entry blocking banking access: §1343 + §1028A (if at-the-crux)",
+        "Crypto account takeover and transfer: §1343 + §1028"
+      ],
+      "pattern_assessment": "2018 SIM swap onset through 2022 crypto/SIRVA/Treasury = 4-year closed-ended pattern of related predicate acts. Open-ended continuity also supported: ChexSystems denial ongoing, Treasury dispute unresolved.",
+      "h_j_inc_satisfaction": "Related (same victim, method, purpose, participants) + Continuous (4-year closed + ongoing open-ended) = pattern satisfied"
+    },
+    "enterprise_analysis": {
+      "enterprise_type": "Associated-in-fact (Boyle v. United States, 2009: no formal structure required)",
+      "enterprise_members": "Ryan McClaran (digital operations), Christina Cerretani (coordination), family actors (as identified in _shared_actors/)",
+      "reves_satisfaction": "Enterprise directors (McClaran + Cerretani + family actors) conducted the enterprise's affairs — they were not outside service providers. Each had organizational role in the sustained campaign against Michael."
+    },
+    "damages_calculation": {
+      "crypto_loss": "$73,000 actual → $219,000 trebled",
+      "spine_surgery_fraud": "$35,000 actual → $105,000 trebled",
+      "banking_denial_consequential": "TBD — lost income/opportunities from ChexSystems denial",
+      "treasury_securities": "TBD — value of bonds under dispute",
+      "attorney_fees": "Mandatory under §1964(c) — shifts to defendants on success",
+      "note": "House equity loss ($465K) requires separate analysis of whether RICO predicates proximately caused it; if yes, add $1.395M trebled to the total"
+    },
+    "filing_strategy": {
+      "venue": "Northern District of California (Oakland) or Eastern District (Sacramento) — both have jurisdiction",
+      "companion_claims": "Civil RICO §1964(c) + §1343 wire fraud civil predicate + §1028(g) civil identity theft damages + FCRA §1681c-2 blocking failure (ChexSystems) + UCL §17200 (state court alternative for FCRA prong)",
+      "sof_note": "4-year SOL from discovery; Michael's discovery of specific RICO acts — document when each predicate act was discovered or should have been discovered"
+    }
+  },
+  "additional_cases_to_add": [
+    "Holmes v. Securities Investor Protection Corp., 503 US 258 (1992) — proximate cause requirement for RICO standing",
+    "Boyle v. United States, 556 US 938 (2009) — associated-in-fact enterprise needs no formal structure",
+    "Agency Holding Corp. v. Malley-Duff & Associates, 483 US 143 (1987) — 4-year civil RICO SOL"
+  ],
+  "outstanding_work": [
+    "Verbatim capture of §§1961-1964 current text (PENDING)",
+    "Primary-source Sedima, H.J. Inc., Reves opinion text captures",
+    "Build Holmes (proximate cause), Boyle (associated-in-fact enterprise), Agency Holding (SOL) cases",
+    "Verify 2002 and 2004 predicate-list additions against current §1961(1)(B) text",
+    "Second-mouth witness review"
+  ],
+  "witness_status": "AWAITING_STEWARD_WITNESS"
+}

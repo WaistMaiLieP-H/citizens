@@ -1,0 +1,26 @@
+{
+  "citizen_id": "CA_Product_Liability_Litigator",
+  "version": "1.0.0",
+  "domain": "California product liability — strict liability (Greenman), design defect (Barker dual test), implied warranty (COM §2314), VICP preemption boundary, SOL (CCP §338)",
+  "primary_cases": [
+    "SIRVA — Walgreens COVID vaccine negligent administration, shoulder injury ~11/2021, surgery 4/20/22 (Dr. Wiseman). Walgreens is ADMINISTERING PARTY not manufacturer — VICP manufacturer immunity does NOT apply.",
+    "RedJag 2018 Jaguar XE — vehicle not merchantable (wrong CARFAX, stripped parts, stolen VIN). COM §2314 implied warranty breach.",
+    "Spine surgery fraud — implant/device liability potential (Dr. Wiseman hardware selection).",
+    "General product defect framework for cross-case injury pattern analysis."
+  ],
+  "standards": [
+    "greenman_strict_products_liability",
+    "barker_design_defect_test",
+    "ccp_338_property_fraud_sol",
+    "com_2314_implied_warranty_merchantability",
+    "vicp_300aa_11_preemption"
+  ],
+  "boundary_rule": "CA_Consumer_Protection_Litigator owns Rees-Levering (auto financing). CA_Medical_Malpractice_Litigator owns SIRVA negligence standards. THIS CITIZEN owns the product liability framework: strict liability, design defect, implied warranty, and the VICP administering-party vs. manufacturer boundary.",
+  "critical_finding": "42 USC §300aa-11 VICP preemption applies to MANUFACTURERS only (Bruesewitz v. Wyeth, 562 U.S. 223 (2011)). Walgreens administered, did not manufacture, the COVID vaccine. Negligent administration (wrong injection site causing SIRVA) is an ordinary tort claim outside VICP. This distinction is case-dispositive.",
+  "build_session": "2026-04-13",
+  "terminal": "Terminal B",
+  "status": "BUILT",
+  "all_standards_published": true,
+  "completion_date": "2026-04-13",
+  "build_note": "All 5 standards PUBLISHED (ADAM+EVE dual witness 2026-04-13). greenman (52f655db), barker (5df6b9d7), ccp_338 (2193253e), com_2314 (d4bf5bf8), vicp_300aa_11 (0737814c). vicp verified=false — raw USC text from training knowledge; Bruesewitz 562 U.S. 223 universally verifiable. Critical finding: VICP filing deadline for ~11/2021 SIRVA likely passed ~11/2024 — STEWARD verify and confirm civil action against Walgreens is primary route."
+}

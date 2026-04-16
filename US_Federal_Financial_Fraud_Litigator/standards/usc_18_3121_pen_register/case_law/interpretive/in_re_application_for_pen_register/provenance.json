@@ -1,0 +1,14 @@
+{
+  "case_slug": "in_re_application_for_pen_register",
+  "citation": "United States v. Forrester, 512 F.3d 500 (9th Cir. 2008) (leading 9th Circuit case on URL content question); In re Application for Pen Register and Trap/Trace Device with Cell Site Location Authority, 396 F. Supp. 2d 747 (S.D. Tex. 2005)",
+  "court": "United States Court of Appeals for the Ninth Circuit (Forrester); United States District Court, S.D. Texas (Application)",
+  "year_forrester": 2008,
+  "reporter": "Federal Reporter, Third Series (Forrester)",
+  "volume": 512,
+  "page": 500,
+  "category": "interpretive",
+  "statute_version_applicable": "18 U.S.C. §§3121-3127 (post-PATRIOT Act version); compared with 18 U.S.C. §§2511, 2701",
+  "rule_established": "IP addresses and email header routing information = pen register (no content, no §2511/§2701 protection); URL paths potentially content — debate unresolved in 9th Circuit; distinction critical for evidence collection and damages theory in SIM swap account access cases",
+  "verbatim_capture_status": "PENDING",
+  "verification_note": "Verify 512 F.3d 500 citation; research current 9th Circuit position on URL content question before filing; note this is a contested and evolving area"
+}

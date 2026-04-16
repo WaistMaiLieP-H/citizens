@@ -1,0 +1,48 @@
+{
+  "standard_id": "cal_civ_1213_recording_acts",
+  "description": "Cross-references for Civil Code § 1213 recording acts and constructive notice",
+  "cross_references": [
+    {
+      "ref_id": "FAM_1102",
+      "title": "Family Code § 1102 — Community Real Property Joinder",
+      "relationship": "Operational implementation: § 1102 requires both spouses' signatures on community real property conveyances; § 1213 determines constructive notice effect of recorded instruments. A unilateral deed violating § 1102 is voidable under the recording act framework.",
+      "location": "~/citizens/CA_Real_Estate_Attorney/standards/cal_fam_1102_community_real_property/"
+    },
+    {
+      "ref_id": "CCP_405_LIS_PENDENS",
+      "title": "Code of Civil Procedure § 405 — Lis Pendens",
+      "relationship": "A recorded lis pendens (notice of pending action) imparts constructive notice to all subsequent purchasers of the pendency of the litigation and the claimant's interest. Essential tool for preserving real property claims during litigation.",
+      "location": "External — Code of Civil Procedure"
+    },
+    {
+      "ref_id": "CIV_1572",
+      "title": "Civil Code § 1572 — Fraud",
+      "relationship": "When fraud is used to manipulate the recorded chain of title — forged deeds, undisclosed interests, misrepresentations to the recorder — the § 1572 fraud elements overlay the § 1213 recording act analysis. A fraudulent conveyance may be void rather than merely voidable, defeating any BFP defense.",
+      "location": "~/citizens/CA_Real_Estate_Attorney/standards/cal_civ_1572_fraud/"
+    },
+    {
+      "ref_id": "FAM_721",
+      "title": "Family Code § 721 — Spousal Fiduciary Duty",
+      "relationship": "The § 721 fiduciary duty and the § 1213 recording act framework intersect when one spouse uses the recording system to secretly alienate community property. The fiduciary breach does not depend on the recording act, but the injured spouse's constructive notice of the recording is a defense consideration.",
+      "location": "~/citizens/CA_Real_Estate_Attorney/standards/cal_fam_721_spousal_fiduciary/"
+    },
+    {
+      "ref_id": "CIV_3343",
+      "title": "Civil Code § 3343 — Real Property Damages",
+      "relationship": "When a fraudulent conveyance recorded in violation of § 1213 principles causes economic harm, § 3343 provides the damages measure for the injured party.",
+      "location": "~/citizens/CA_Real_Estate_Attorney/standards/cal_civ_3343_real_property_damages/"
+    },
+    {
+      "ref_id": "FAM_1101",
+      "title": "Family Code § 1101 — Remedy for Fiduciary Breach",
+      "relationship": "§ 1101(g) 100% forfeiture remedy applies when one spouse fraudulently records a deed conveying community real property without the other's joinder. The recording act framework determines title priority; § 1101 determines the remedy between the spouses.",
+      "location": "~/citizens/CA_Real_Estate_Attorney/standards/cal_fam_1101_remedy/"
+    },
+    {
+      "ref_id": "CALCRIM_NO",
+      "title": "Evid. Code § 669 — Negligence Per Se (Recording Act Violations)",
+      "relationship": "Failure to comply with recording act requirements may constitute negligence per se where the statute was designed to protect against the harm that occurred.",
+      "location": "External — Evidence Code"
+    }
+  ]
+}

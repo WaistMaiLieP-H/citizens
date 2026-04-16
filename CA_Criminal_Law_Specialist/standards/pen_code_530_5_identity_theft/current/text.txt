@@ -1,0 +1,20 @@
+California Penal Code § 530.5 — Identity theft
+
+(a) Every person who willfully obtains personal identifying information, as defined in subdivision (b) of Section 530.55, of another person, and uses that information for any unlawful purpose, including to obtain, or attempt to obtain, credit, goods, services, real property, or medical information without the consent of that person, is guilty of a public offense, and upon conviction therefor, shall be punished by a fine, by imprisonment in a county jail not to exceed one year, or by both a fine and imprisonment, or by imprisonment pursuant to subdivision (h) of Section 1170.
+
+(b) In any case in which a person willfully obtains personal identifying information of another person, uses that information to commit a crime in addition to a violation of subdivision (a), and is convicted of that crime, the court records shall reflect that the person whose identity was falsely used to commit the crime did not commit the crime.
+
+(c) (1) Intent-to-defraud acquisition/retention — public offense, fine, jail up to 1 year.
+    (2) Second offense — enhanced penalties including potential state prison under § 1170(h).
+    (3) Acquisition/retention of identifying information of 10 or more persons — public offense, fine, jail up to 1 year, or state prison under § 1170(h).
+
+(d) (1) Sale, transfer, conveyance of personal identifying information with intent to defraud — public offense, fine, jail up to 1 year, or state prison.
+    (2) Knowing-use sale/transfer/conveyance — public offense, fine, or state prison.
+
+(e) Mail theft (as defined in 18 USC § 1708) — public offense, fine, jail up to 1 year. Does not preclude other prosecutions.
+
+(f) Interactive computer service / access software provider immunity unless provider acts with intent to defraud.
+
+---
+
+Source: leginfo.legislature.ca.gov via VernenLegal MCP, retrieved 2026-04-10.

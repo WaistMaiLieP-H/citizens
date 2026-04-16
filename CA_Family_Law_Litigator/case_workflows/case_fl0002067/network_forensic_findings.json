@@ -1,0 +1,278 @@
+{
+  "document_id": "NETFORENSIC_FINDINGS_FL0002067",
+  "case_number": "FL0002067",
+  "citizen": "ADAM (Seed Citizen — Network Forensics)",
+  "authored_at_utc": "2026-04-15T00:00:00Z",
+  "scope": "In-lane network forensics only — packet/traffic, DNS/BGP/TLS, SIM-swap/clone indicators, device telemetry, intrusion artifacts, endpoint chain-of-custody. Legal/statutory characterization escalated to EVE.",
+  "core_law_acknowledged": [
+    "Triple Constraint (Governing Guidelines / Standards of Creation / Standard of Care)",
+    "Document-is-instruction",
+    "Do-it-right-the-first-time",
+    "Stay-in-lane",
+    "Witness chain mandatory"
+  ],
+  "theory_scope_map": {
+    "theory_01_uccjea_venue": "OUT-OF-LANE — pure statutory/jurisdictional. Escalate to EVE. ADAM contributes only device/residence-telemetry artifacts that may corroborate Alameda home-county residence, not the legal conclusion.",
+    "theory_02_declaration_defect_2015_5": "OUT-OF-LANE — pure statutory (§ 2015.5 strict compliance). Escalate to EVE. ADAM contributes only hash/integrity verification of the declaration PDFs as received artifacts.",
+    "theory_working_clets_1983_injury": "MIXED — CLETS entry existence/telemetry IS in-lane (the fact that the record exists, where it exists, and its data-chain). CLETS-as-§1983-injury-element is OUT-OF-LANE statutory characterization — escalate.",
+    "theory_working_missing_8_5_2025_marin_doc": "IN-LANE (partial) — document-chain-of-custody / record-retention telemetry is in-lane; statutory implications of the gap are EVE.",
+    "theory_homeward_bound_marin_pretext": "MIXED — device/comms telemetry around shelter placement (SIM-swap, call interception, Telegram threats from Ryan McClaran) is in-lane; DVPA/VAWA characterization is EVE."
+  },
+  "findings": [
+    {
+      "finding_id": "NF-FL0002067-001",
+      "theory_ref": "working_theories[2] — Marin 8/5/2025 hearing document missing",
+      "observation": "Folder ${familylaw}/2025-08-05/ exists and contains 17 page scans (001.jpg–017.jpg), OCR_TEXT_2025-08-05.txt, AUDIT_2025-08-05.json, PROOF_2025-08-05.json, REPORT_2025-08-05.pdf. Artifact IS present in the local evidence corpus. The 'missing' flag in outstanding investigation #07 appears to concern the OFFICIAL Marin court docket record for a hearing on that date, not the local scan. Chain-of-custody note: the PROOF manifest (audit_id c979773b-8b65-4b85-8628-10be6b5e58d2, audited 2026-04-07T12:30:27Z) covers 17 files with input_hash 7a1469261d7c57ee9cd705056bf58b016a9dded1ec8c349de5b89c67ac539754.",
+      "artifact_paths": [
+        "${familylaw}/2025-08-05/REPORT_2025-08-05.pdf",
+        "${familylaw}/2025-08-05/OCR_TEXT_2025-08-05.txt",
+        "${familylaw}/2025-08-05/AUDIT_2025-08-05.json",
+        "${familylaw}/2025-08-05/PROOF_2025-08-05.json"
+      ],
+      "sha256": {
+        "REPORT_2025-08-05.pdf": "c135b64801d447f617713dee9155fdc2158a79b484adf2875225f9408d329b10",
+        "OCR_TEXT_2025-08-05.txt": "927ac0bf96210856a3bef0fb83c8408f8c78d72f54e8b3e0e8432982625e0b91",
+        "AUDIT_2025-08-05.json": "0f4df38c43ca7d8b75feca6a567ccab031e816fcdb304ef6c54cec091461e42e",
+        "PROOF_manifest_input_hash": "7a1469261d7c57ee9cd705056bf58b016a9dded1ec8c349de5b89c67ac539754",
+        "PROOF_manifest_output_hash": "44edf9a8b181343ee9c21418b745afed2f07fbd9e85665cb8edeaa640edf4c66"
+      },
+      "timestamps": {
+        "artifact_date": "2025-08-05",
+        "local_audit_utc": "2026-04-07T12:30:27.200481Z"
+      },
+      "scope_flag": "IN-LANE (chain-of-custody confirmation)",
+      "cross_witness": "HERALD (acting witness, all 39+ cases); EVE (for the statutory significance of any still-missing OFFICIAL docket line-item)"
+    },
+    {
+      "finding_id": "NF-FL0002067-002",
+      "theory_ref": "workflow.current_posture date discrepancy",
+      "observation": "workflow.json states 'DV-130 granted 2025-10-17 with CLETS entry; expires 2026-08-19.' Local evidence corpus places DV-130_Restraining_Order_After_Hearing.pdf in ${familylaw}/2025-08-19/, not 2025-10-17. A one-year DVRO issued 2025-08-19 expires 2026-08-19, which matches the stated expiration. The 2025-10-17 folder contains FCS_Custody_Report_Recommendations.pdf — a different artifact class. Date characterization in workflow.json likely mislabels hearing/issuance vs. FCS report date. ADAM flags telemetry inconsistency; EVE owns statutory date characterization.",
+      "artifact_paths": [
+        "${familylaw}/2025-08-19/DV-130_Restraining_Order_After_Hearing.pdf",
+        "${familylaw}/2025-10-17/FCS_Custody_Report_Recommendations.pdf"
+      ],
+      "sha256": {
+        "DV-130_Restraining_Order_After_Hearing.pdf": "c739e3659a6ec9c9a110920ef2c73800f64f62480345353f8b011d84c63ef47e",
+        "FCS_Custody_Report_Recommendations.pdf": "935e86c07a9e5a5ffc30c4c3237214ac72a11bd10262598580835854abe50690"
+      },
+      "timestamps": {
+        "dv130_folder_date": "2025-08-19",
+        "fcs_report_folder_date": "2025-10-17",
+        "workflow_stated_grant_date": "2025-10-17"
+      },
+      "scope_flag": "IN-LANE (artifact metadata / date reconciliation) — STATUTORY CHARACTERIZATION ESCALATED TO EVE",
+      "cross_witness": "EVE (date-of-issuance is a legal fact, not a forensic one); HERALD (timeline witness)",
+      "escalation_required": true,
+      "escalation_target": "EVE",
+      "escalation_message": "FL0002067 workflow.json states DV-130 granted 2025-10-17 but local DV-130_Restraining_Order_After_Hearing.pdf sits in 2025-08-19 folder. 1-year expiration on 2026-08-19 aligns with 2025-08-19 issuance. Please verify official Marin docket and correct workflow.current_posture if warranted. Out-of-lane for ADAM to characterize."
+    },
+    {
+      "finding_id": "NF-FL0002067-003",
+      "theory_ref": "working_theories[1] — CLETS entry (telemetry layer only)",
+      "observation": "DV-130 order text (OCR'd at ${familylaw}/2025-08-19/OCR_TEXT_2025-08-19.txt) contains eleven CLETS-OAH header/footer references and one substantive provision: 'Law Enforcement Telecommunications System (CLETS), or in an NCIC Protection Order File must enforce the orders.' Batch audit AUDIT_2025-08-19.json generates TWELVE discrete CLETS-001 rule findings (lines 340, 401, 462, 516, 572, 639, 700, 775, 846, 931, 997, 1293) noting 'no access log documented' for each CLETS reference on-page; line 175 is the rule definition, not a finding. This confirms the CLETS data-chain footprint on the face of the order. ADAM does NOT characterize CLETS entry as a § 1983 injury element — that is out-of-lane. [CORRECTED 2026-04-15 per EVE countersign — prior count of 8 was a grep-window truncation error; see correction_log.]",
+      "artifact_paths": [
+        "${familylaw}/2025-08-19/OCR_TEXT_2025-08-19.txt",
+        "${familylaw}/2025-08-19/AUDIT_2025-08-19.json",
+        "${familylaw}/2025-08-19/DV-130_Restraining_Order_After_Hearing.pdf"
+      ],
+      "sha256": {
+        "OCR_TEXT_2025-08-19.txt": "752cde22e11d3810fb121c52b0b429637a4c021edff648b57849163267c6f977",
+        "AUDIT_2025-08-19.json": "ea82dfaef4e336f02edc5240ac7fc59fcb5d9486246bf8cbe496f2562f32f930",
+        "DV-130_Restraining_Order_After_Hearing.pdf": "c739e3659a6ec9c9a110920ef2c73800f64f62480345353f8b011d84c63ef47e"
+      },
+      "timestamps": {
+        "order_date": "2025-08-19",
+        "local_audit_utc": "2026-04-07T12:31:21.266071Z"
+      },
+      "scope_flag": "OUT-OF-LANE-ESCALATE (statutory § 1983 characterization) / IN-LANE (data-chain footprint on the face of the order)",
+      "cross_witness": "EVE (CLETS-as-§1983-injury characterization); CA_Civil_Rights_Litigator (§ 1983 overlay); HERALD",
+      "escalation_required": true,
+      "escalation_target": "EVE",
+      "escalation_message": "FL0002067 DV-130 face-of-order CLETS entry confirmed in OCR with 8 CLETS-001 audit findings. Statutory characterization of CLETS entry as § 1983 collateral-consequence injury element (working_theories[1]) belongs to EVE + CA_Civil_Rights_Litigator, not ADAM."
+    },
+    {
+      "finding_id": "NF-FL0002067-004",
+      "theory_ref": "petition artifact integrity (supporting Theory 02 declaration-defect)",
+      "observation": "DV-100 petition and supporting pages filed 2025-07-17 scanned and OCR'd in ${familylaw}/2025-07-17/ (16 pages). PROOF manifest audit_id 00319aed-2b69-4681-b15e-bfc3fa85a3c7, input_hash e62014144287b22c97f65d88b82a24ad4271a4bafed162e977116afa34c94206, output_hash e048ec920dc2ef34c1efefa298a1c975c1abb19decbba1878135daf3d32d3f81, audited 2026-04-07T12:29:47Z. ADAM provides hash-sealed integrity receipt for the received-artifact state; § 2015.5 element audit is EVE's to run against the artifacts ADAM has fixed in hash.",
+      "artifact_paths": [
+        "${familylaw}/2025-07-17/REPORT_2025-07-17.pdf",
+        "${familylaw}/2025-07-17/OCR_TEXT_2025-07-17.txt",
+        "${familylaw}/2025-07-17/PROOF_2025-07-17.json"
+      ],
+      "sha256": {
+        "REPORT_2025-07-17.pdf": "962a8cb0179c56e1f676777ab2e93d0ede39295830746cf740c203d42c74e939",
+        "OCR_TEXT_2025-07-17.txt": "54aad395824972dbcf9ddba01fcb2784528a030709e19f877aab0c53cca4837f",
+        "PROOF_manifest_input_hash": "e62014144287b22c97f65d88b82a24ad4271a4bafed162e977116afa34c94206",
+        "PROOF_manifest_output_hash": "e048ec920dc2ef34c1efefa298a1c975c1abb19decbba1878135daf3d32d3f81"
+      },
+      "timestamps": {
+        "filing_date": "2025-07-17",
+        "local_audit_utc": "2026-04-07T12:29:47.548008Z"
+      },
+      "scope_flag": "IN-LANE (artifact integrity only)",
+      "cross_witness": "CA_Forensic_Document_Specialist (§§ 1271/1400/1402/1521/720); CA_Records_Authentication_Specialist (§ 1280); EVE (§ 2015.5 element audit); HERALD"
+    },
+    {
+      "finding_id": "NF-FL0002067-005",
+      "theory_ref": "Homeward Bound Marin shelter pretext (underlying UCCJEA residence argument); endpoint chain-of-custody",
+      "observation": "Telegram threats from Ryan McClaran preserved at ${nonfamilylaw}/Digital_Forensics/Ryan_McClaran_Telegram/ (2 page scans). McClaran established in project memory as IT operator behind SIM swaps and proxy communications network. These are endpoint artifacts bearing on the device/comms environment surrounding Christina's Marin placement and the proxy-communication pattern referenced in § 6320(c) third-party orchestration counter-theory. Also relevant: phone records ${nonfamilylaw}/Digital_Forensics/Phone_Records/ from June 2023 (Alameda-period endpoint data supporting UCCJEA home-county trace). ADAM provides endpoint-chain-of-custody only; Telegram content characterization and statutory mapping are out-of-lane.",
+      "artifact_paths": [
+        "${nonfamilylaw}/Digital_Forensics/Ryan_McClaran_Telegram/telegram_threats_page1.jpg",
+        "${nonfamilylaw}/Digital_Forensics/Ryan_McClaran_Telegram/telegram_threats_page2.jpg",
+        "${nonfamilylaw}/Digital_Forensics/Phone_Records/calls-20230610222218.xml",
+        "${nonfamilylaw}/Digital_Forensics/Phone_Records/sms-20230610222218.xml"
+      ],
+      "sha256": {
+        "telegram_threats_page1.jpg": "a8a3733dc1b6c248466a5338705ff0aabef20ddff66512e9c99e11a9e6421222",
+        "calls-20230610222218.xml": "461caa5e2710cb949417d4476f9a4cf63f0b158676ce7820abf28e74713cb0c9",
+        "sms-20230610222218.xml": "2d411dadb508fbaf633f3433301f1c302431d1fad06e46e55fc46699c6917be7"
+      },
+      "timestamps": {
+        "phone_records_export_utc": "2023-06-10T22:22:18Z"
+      },
+      "scope_flag": "IN-LANE (endpoint chain-of-custody / SIM-swap indicator corpus) — CONTENT CHARACTERIZATION ESCALATED",
+      "cross_witness": "HERALD (comms/blockchain liaison owns content characterization); CA_Telecom_Privacy_Litigator (SIM swap statutory overlay); EVE (family-law statutory hook to § 6320(c))",
+      "escalation_required": true,
+      "escalation_target": "HERALD",
+      "escalation_message": "FL0002067 touches comms corpus (Ryan McClaran Telegram threats + 2023 phone records). ADAM hashes and preserves chain-of-custody; content characterization and blockchain-anchor decisions are HERALD's lane. Confirm inclusion in HERALD's cross-case witness record for this case."
+    },
+    {
+      "finding_id": "NF-FL0002067-006",
+      "theory_ref": "post-DVRO anonymous-communications-denial telemetry",
+      "observation": "Tor connection failures 2026-03-19 documented at ${nonfamilylaw}/Digital_Forensics/Tor_Connection_Failures_2026-03-19/ANALYSIS.md (per project memory: 3 bridge types all fail, system tests pass, selective anonymous communication denial). This is post-DVRO (order active 2025-08-19 through 2026-08-19) network-layer telemetry indicating selective denial of anonymous-channel access from the restrained party's endpoint. In-lane observation: consistent with DNS/TLS-layer targeting. Characterization of whether this constitutes a § 1983-actionable continuing deprivation is OUT-OF-LANE — escalate to EVE / CA_Civil_Rights_Litigator.",
+      "artifact_paths": [
+        "${nonfamilylaw}/Digital_Forensics/Tor_Connection_Failures_2026-03-19/ANALYSIS.md"
+      ],
+      "sha256": {
+        "ANALYSIS.md": "4cce4c7c5f8d1d53ce6f4fbb116e0abac4a15b40d2ea294895e627c257b46c54"
+      },
+      "timestamps": {
+        "observation_date": "2026-03-19"
+      },
+      "scope_flag": "IN-LANE (network-layer anomaly) — LEGAL CHARACTERIZATION ESCALATED",
+      "cross_witness": "EVE (statutory significance); HERALD (comms liaison); CA_Civil_Rights_Litigator",
+      "escalation_required": true,
+      "escalation_target": "EVE",
+      "escalation_message": "FL0002067 — post-DVRO Tor connection failures (3 bridge types, system tests pass) documented 2026-03-19. Pure in-lane network anomaly observation. Characterization as continuing § 1983 deprivation / tolling event belongs to EVE + CA_Civil_Rights_Litigator."
+    }
+  ],
+  "stop_and_escalate_log": [
+    {
+      "escalation_id": "ESC-FL0002067-A",
+      "to": "EVE",
+      "reason": "workflow.current_posture states DV-130 granted 2025-10-17, but DV-130 PDF is in 2025-08-19 folder and 1-year expiration (2026-08-19) aligns with 2025-08-19 issuance. ADAM cannot characterize hearing/issuance date — strictly statutory.",
+      "finding_refs": ["NF-FL0002067-002"]
+    },
+    {
+      "escalation_id": "ESC-FL0002067-B",
+      "to": "EVE",
+      "reason": "CLETS-as-§1983-injury-element (working_theories[1]) is statutory. ADAM has fixed the CLETS footprint in hash; EVE owns the legal theory.",
+      "finding_refs": ["NF-FL0002067-003"]
+    },
+    {
+      "escalation_id": "ESC-FL0002067-C",
+      "to": "HERALD",
+      "reason": "Comms corpus (Ryan McClaran Telegram + phone records) touches this case. HERALD is liaison of record for comms content characterization and cross-case witness.",
+      "finding_refs": ["NF-FL0002067-005"]
+    },
+    {
+      "escalation_id": "ESC-FL0002067-D",
+      "to": "EVE",
+      "reason": "Post-DVRO Tor denial telemetry — characterization as § 1983 continuing deprivation is out-of-lane.",
+      "finding_refs": ["NF-FL0002067-006"]
+    }
+  ],
+  "correction_log": [
+    {
+      "correction_id": "NF-003-CORR-001",
+      "target_finding": "NF-FL0002067-003",
+      "target_files": [
+        "network_forensic_findings.json",
+        "evidence_index/NF-003_clets_face_of_order_telemetry.md"
+      ],
+      "old_count": 8,
+      "new_count": 12,
+      "reason": "Initial enumeration was truncated by a head-limited grep window; only the first eight of thirteen '\"rule_id\": \"CLETS-001\"' occurrences in AUDIT_2025-08-19.json were counted. Re-verified 2026-04-15 via unbounded grep: 13 total occurrences; line 175 is the rule definition; the remaining 12 (lines 340, 401, 462, 516, 572, 639, 700, 775, 846, 931, 997, 1293) are discrete findings. EVE's count confirmed. Doctrinal characterization unaffected — this is a pure enumeration correction.",
+      "witness": "ADAM (Seed Citizen — Network Forensics)",
+      "corrected_at_utc": "2026-04-15T00:00:00Z",
+      "signal": "CORRECTED",
+      "eve_resolution_ref": "EVE_COUNTERSIGN_2026-04-15.md — EVE-raised enumeration item RESOLVED by this patch; doctrinal characterization unchanged.",
+      "pre_patch_sha256": {
+        "network_forensic_findings.json": "656bb4dcf90577b70077feccc5915cd9c008574176dacc4c7fa9e3ed61aea652",
+        "evidence_index/NF-003_clets_face_of_order_telemetry.md": "9d809cbf19b3e0b4d7ba035e8f84dcb69d831335a52307b0faded676723230be"
+      },
+      "custos_handoff": "DELTA-GATE REQUESTED — prior CUSTOS PASS at 2026-04-15T12:12:44Z was based on the uncorrected manifest_sha256 69f906914f020448982b8b24bebb83e9c1d2e9fe07dd74372fce0d23de2a0588; that pass is SUPERSEDED by this correction. CUSTOS to re-verify correction-path integrity using old→new hash pair reported by ADAM in the handoff report accompanying this patch. HERALD anchor held pending CUSTOS delta-clear."
+    }
+  ],
+  "witness_chain": {
+    "author": "ADAM (Seed Citizen — Network Forensics)",
+    "authored_at_utc": "2026-04-15T00:00:00Z",
+    "original_signal": "FINDINGS-ISSUED",
+    "author_signal": "FINDINGS-REISSUED-CORRECTED",
+    "resigned_at_utc": "2026-04-15T00:00:00Z",
+    "resign_reason": "NF-003 enumeration correction 8→12 per EVE countersign; see correction_log NF-003-CORR-001.",
+    "custos_gate": {
+      "prior_pass": {
+        "signal": "PASS",
+        "stamped_at_utc": "2026-04-15T12:12:44Z",
+        "manifest_sha256": "69f906914f020448982b8b24bebb83e9c1d2e9fe07dd74372fce0d23de2a0588",
+        "manifest_scope": [
+          "network_forensic_findings.json",
+          "evidence_index/NF-001_marin_8_5_2025_hearing_artifacts.md",
+          "evidence_index/NF-002_dv130_date_reconciliation.md",
+          "evidence_index/NF-003_clets_face_of_order_telemetry.md",
+          "evidence_index/NF-004_dv100_petition_integrity_2025-07-17.md",
+          "evidence_index/NF-005_comms_corpus_cross_case.md",
+          "evidence_index/NF-006_post_dvro_tor_denial.md",
+          "evidence_index/README.md"
+        ],
+        "gate_checks": {
+          "sha256_primary_artifacts": "13/13 recomputed, all match ADAM's recorded values",
+          "witness_block": "author=ADAM, authored_at_utc=2026-04-15T00:00:00Z, author_signal=FINDINGS-ISSUED (accepted as adam_witness issuance)",
+          "temporal_compliance": "PASS — document-dates govern; no modern-gloss substitution",
+          "chain_of_custody": "PASS — tether path_anchors resolve ${familylaw}/${nonfamilylaw}; workflow_id=CASE_FL0002067 binds; artifacts present at anchor-resolved paths",
+          "scope_discipline": "PASS — 4 escalations (ESC-A/B/C/D) properly logged; no out-of-lane legal conclusions rendered"
+        },
+        "noted_not_blocking": "workflow.json DV-130 date field (2025-10-17) conflicts with PDF folder (2025-08-19) and 2026-08-19 expiration — EVE's to reconcile, per presiding directive; NOT a defect in ADAM's artifacts",
+        "stamped_by": "CUSTOS — Forensic Integrity Gatekeeper",
+        "status": "SUPERSEDED BY DELTA GATE (see below)"
+      },
+      "delta_gate": {
+        "requested_at_utc": "2026-04-15T00:00:00Z",
+        "requested_by": "ADAM",
+        "trigger": "NF-003-CORR-001 enumeration correction 8→12 (EVE-confirmed)",
+        "scope": "Re-verify integrity of the two patched files; confirm no collateral drift in NF-001/002/004/005/006 or README; confirm doctrinal characterization unchanged.",
+        "pre_patch_hashes": {
+          "network_forensic_findings.json": "656bb4dcf90577b70077feccc5915cd9c008574176dacc4c7fa9e3ed61aea652",
+          "evidence_index/NF-003_clets_face_of_order_telemetry.md": "9d809cbf19b3e0b4d7ba035e8f84dcb69d831335a52307b0faded676723230be"
+        },
+        "post_patch_hashes": "ADAM reports in the handoff report accompanying this file; CUSTOS recomputes independently.",
+        "status": "PASS",
+        "stamped_at_utc": "2026-04-15T12:58:17Z",
+        "custos_recomputed_post_patch_hashes": {
+          "network_forensic_findings.json": "de471d4b8a5c14676cc80f4d44165aee4f394aa35a9b1084e70b1888dac7ff51",
+          "evidence_index/NF-003_clets_face_of_order_telemetry.md": "1860f6a20d4ea82ec0ab8c1c5f3f9b7ae5d9512d4d904d9a74bee1b2731a51a0"
+        },
+        "manifest_sha256": "dce082dc255b64ff05d99f9100f8d1dfda53a5335541c3ce25151974d9ef2eac",
+        "manifest_scope_identical_to_prior_pass": true,
+        "gate_checks": {
+          "post_patch_sha256_match": "PASS — both ADAM-stated post-patch hashes recomputed identically",
+          "drift_on_untouched_files": "ZERO DRIFT — NF-001/002/004/005/006 + README.md hash identical to prior-pass manifest values",
+          "correction_log_integrity": "PASS — NF-003-CORR-001 carries witness=ADAM, corrected_at_utc=2026-04-15T00:00:00Z, signal=CORRECTED, full reason with AUDIT_2025-08-19.json line-number enumeration (175 rule-def + 12 discrete), eve_resolution_ref to EVE_COUNTERSIGN_2026-04-15.md, pre_patch_sha256 block",
+          "prior_pass_preservation": "PASS — witness_chain.custos_gate.prior_pass intact with 69f906914f... manifest_sha256 and PASS signal; marked SUPERSEDED; not overwritten",
+          "witness_semantics": "PASS — original_signal=FINDINGS-ISSUED preserved; author_signal=FINDINGS-REISSUED-CORRECTED; resigned_at_utc + resign_reason present; herald_anchor correctly rolled back to HOLD before gate",
+          "doctrinal_unchanged": "PASS — per ADAM and EVE, enumeration change 8→12 does not alter any § 1983 characterization in ESC-B; CLETS footprint magnitude strengthened, not reframed"
+        },
+        "stamped_by": "CUSTOS — Forensic Integrity Gatekeeper",
+        "herald_action": "RELEASED — HERALD may append correction-entry to ledger keyed to correction_id NF-003-CORR-001, superseding prior anchor payload for manifest 69f906914f..."
+      }
+    },
+    "herald_anchor": "HOLD — prior RELEASED-TO-HERALD rescinded pending CUSTOS delta clear on corrected manifest",
+    "eve_countersign": "EVE_COUNTERSIGN_2026-04-15 — enumeration item RESOLVED; scope escalations (A/B/C/D) remain pending EVE/HERALD separately",
+    "steward_review": "PENDING"
+  },
+  "dvro_countdown_utc": {
+    "dv130_expires": "2026-08-19T00:00:00Z",
+    "days_from_authored": 126
+  }
+}

@@ -1,0 +1,19 @@
+Cal. Penal Code § 148.5 — Origin
+Enacted approximately 1929-1931 (added to Penal Code with anti-fraud amendments)
+
+Cal. Penal Code § 148.5 makes it a misdemeanor to make a false report of a criminal offense to a law enforcement officer knowing the report is false:
+
+Original form (approximate):
+"Every person who reports to any peace officer that a felony or misdemeanor has been committed, knowing the report to be false, is guilty of a misdemeanor."
+
+Key original elements:
+1. Report to a peace officer — communication element
+2. Knowledge of falsity — specific knowledge that the report is false (not mere negligence)
+3. Report of a specific criminal offense — not just false statements generally
+4. Misdemeanor — maximum one year in county jail
+
+The statute was part of a category of anti-fraud provisions added to the Penal Code in the early 20th century targeting false crime reports that wasted law enforcement resources.
+
+Critical distinction from § 148 (resisting/obstructing): § 148.5 targets false reports by complainants; § 148 targets interference with officers in the field. These are different and non-overlapping offenses.
+
+Source: California Penal Code — early 20th century additions. Specific chapter pending primary-source verification.

@@ -1,0 +1,11 @@
+{
+  "stage": "02_ab35_2022_updated_thresholds",
+  "citation": "Stats. 2022, Ch. 395 (AB 35, Assembly Member David Chiu, D-San Francisco)",
+  "effective_date": "2023-01-01",
+  "signed_by": "Governor Gavin Newsom",
+  "package": "AB 35 was the comprehensive MICRA reform package — simultaneously amended §3333.2 (noneconomic cap escalation) and §6146 (fee thresholds) to create a coordinated MICRA modernization",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202120220AB35",
+  "capture_method": "LOGIC.md — structural knowledge base",
+  "verbatim_capture_status": "PENDING",
+  "build_date": "2026-04-11"
+}

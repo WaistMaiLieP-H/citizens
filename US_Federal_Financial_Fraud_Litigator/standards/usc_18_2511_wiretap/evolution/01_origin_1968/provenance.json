@@ -1,0 +1,10 @@
+{
+  "stage": "01_origin_1968",
+  "source": "Title III of the Omnibus Crime Control and Safe Streets Act of 1968, Pub. L. 90-351, 82 Stat. 197",
+  "signed": "1968-06-19",
+  "wound_addressed": "Private party wiretapping was a commercial industry with no effective federal prohibition; FCA §605 was narrow; no civil remedy for victims",
+  "design": "Prohibition on intentional interception of wire/oral communications; law enforcement exception with court order; consent exception; civil remedy §2520",
+  "gap": "Electronic communications (email, fax, computer data) not covered — not yet in existence",
+  "verbatim_capture_status": "PENDING",
+  "build_date": "2026-04-11"
+}

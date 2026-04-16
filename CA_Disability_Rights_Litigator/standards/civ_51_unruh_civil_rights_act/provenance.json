@@ -1,0 +1,50 @@
+{
+  "standard_id": "civ_51_unruh_civil_rights_act",
+  "citizen": "CA_Disability_Rights_Litigator",
+  "build_date": "2026-04-13",
+  "primary_source": {
+    "source_type": "statute",
+    "jurisdiction": "California",
+    "code": "Civil Code",
+    "section": "51",
+    "fetch_method": "mcp__claude_ai_VernenLegal__california_get_section",
+    "verified": true,
+    "fetch_date": "2026-04-13",
+    "note": "Live MCP fetch — CIV §51(a)-(h) returned in full; ADA per se rule §51(f) confirmed; disability definition §51(e)(1) incorporates GOV §§12926/12926.1; verified=true"
+  },
+  "supporting_sources": [
+    {
+      "source_type": "statute",
+      "jurisdiction": "California",
+      "code": "Civil Code",
+      "section": "54",
+      "fetch_method": "mcp__claude_ai_VernenLegal__california_get_section",
+      "verified": true,
+      "fetch_date": "2026-04-13",
+      "note": "Live MCP fetch — CIV §54 Disabled Persons Act; medical facilities explicitly named; ADA per se rule §54(c); verified=true"
+    },
+    {
+      "source_type": "statute",
+      "jurisdiction": "California",
+      "code": "Civil Code",
+      "section": "54.3",
+      "fetch_method": "mcp__claude_ai_VernenLegal__california_get_section",
+      "verified": true,
+      "fetch_date": "2026-04-13",
+      "note": "Live MCP fetch — CIV §54.3; $1,000 minimum per offense; 3x actual damages; attorney's fees; §54.3(c) one-recovery limit; verified=true"
+    },
+    {
+      "source_type": "training_knowledge",
+      "description": "CIV §52 — Unruh Act damages; $4,000 minimum per offense; 3x punitive; attorney's fees",
+      "note": "Training knowledge; live fetch of §52 recommended before filing"
+    },
+    {
+      "source_type": "training_knowledge",
+      "description": "1959 Unruh Civil Rights Act history; Jesse Unruh authorship; original racial discrimination purpose; subsequent disability expansion",
+      "note": "Historical knowledge; consistent with statute text and standard legislative history"
+    }
+  ],
+  "steward_verify_queue": [],
+  "chronicle_flag": false,
+  "chronicle_note": "Historical 1959 racial exclusion context noted in reasoning.md — this is the historical purpose for the statute's enactment, not discriminatory doctrine within the statute. No CHRONICLE routing required."
+}

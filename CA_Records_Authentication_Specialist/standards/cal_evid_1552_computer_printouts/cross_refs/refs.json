@@ -1,0 +1,47 @@
+{
+  "standard": "cal_evid_1552_computer_printouts",
+  "cross_references": [
+    {
+      "cite": "Cal. Evid. Code § 1400",
+      "label": "Authentication of a Writing — General Requirement",
+      "relationship": "general_framework",
+      "note": "§1552 is a specific authentication mechanism within §1400's general framework. A computer printout authenticated under §1552 satisfies §1400(b) ('other means provided by law'). When the §1552 presumption is rebutted, the proponent must satisfy §1400(a) with extrinsic evidence."
+    },
+    {
+      "cite": "Cal. Evid. Code § 1530",
+      "label": "Certified Copies of Official Records",
+      "relationship": "exception_authority",
+      "note": "§1552(b) exempts computer-generated official records certified under §1530 from the §1552 presumption. Those records must be authenticated through §1530's certification framework. Used for official government database printouts that have been officially certified."
+    },
+    {
+      "cite": "Cal. Evid. Code § 452.5",
+      "label": "Judicial Notice of Official Records",
+      "relationship": "exception_authority",
+      "note": "§1552(b) also exempts records certified under §452.5 (judicial notice of official records). Court records and other officially-noticeable documents that are computer-generated must use the §452.5 framework, not §1552."
+    },
+    {
+      "cite": "Cal. Evid. Code § 1553",
+      "label": "Digital/Video Image Records",
+      "relationship": "companion_provision",
+      "note": "§1553 extends the §1552 presumption framework to printed representations of digital images, video frames, and photographs stored digitally. The same rebuttable presumption and burden-shift rules apply."
+    },
+    {
+      "cite": "Cal. Evid. Code § 1271",
+      "label": "Business Records Exception",
+      "relationship": "admission_pathway_overlap",
+      "note": "Electronic business records may be authenticated under §1552 AND admitted under §1271 hearsay exception simultaneously. Both authenticity (§1552) and hearsay admissibility (§1271) must be established for the content to be admitted for the truth."
+    },
+    {
+      "cite": "FRE 902(13) and (14)",
+      "label": "Federal Certified Electronic Records",
+      "relationship": "federal_comparison",
+      "note": "FRE 902(13)/(14) (added 2017) allows self-authentication of certified electronic records in federal court without calling a custodian. California lacks a direct equivalent; §1552's rebuttable presumption is the closest California analog but requires no certification and is rebuttable."
+    },
+    {
+      "cite": "FRE 901(b)(9)",
+      "label": "Federal Authentication — Process or System",
+      "relationship": "federal_analog",
+      "note": "FRE 901(b)(9) allows authentication of electronic records by evidence describing the process or system used and showing it produces an accurate result. In federal court proceedings involving the steward's cases, this is the primary electronic record authentication pathway."
+    }
+  ]
+}

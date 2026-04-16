@@ -1,0 +1,28 @@
+{
+  "stage": "02_mcnally_1346_1987_1988",
+  "key_events": [
+    {
+      "event": "McNally v. United States",
+      "citation": "483 US 350 (1987)",
+      "effect": "Narrowed 'scheme to defraud' to property interests only; eliminated honest services branch"
+    },
+    {
+      "event": "18 USC §1346 enacted",
+      "citation": "Pub. L. 100-690, §7603, 102 Stat. 4508 (Nov. 18, 1988)",
+      "effect": "Legislatively restored honest services fraud as covered by 'scheme to defraud'"
+    },
+    {
+      "event": "Skilling v. United States",
+      "citation": "561 US 358 (2010)",
+      "effect": "Narrowed §1346 to bribery/kickback schemes only; pure conflict-of-interest not covered"
+    },
+    {
+      "event": "Kelly v. United States",
+      "citation": "590 US 391 (2020)",
+      "effect": "Confirmed property requirement: scheme must target property, not merely regulatory power or policy"
+    }
+  ],
+  "capture_method": "LOGIC.md — structural knowledge base",
+  "verbatim_capture_status": "PENDING",
+  "build_date": "2026-04-11"
+}

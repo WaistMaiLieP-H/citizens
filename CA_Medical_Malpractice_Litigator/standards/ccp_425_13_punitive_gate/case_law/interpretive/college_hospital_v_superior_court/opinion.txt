@@ -1,0 +1,87 @@
+COLLEGE HOSPITAL INC. v. SUPERIOR COURT
+8 Cal.4th 704 (1994)
+Supreme Court of California
+Decided: December 22, 1994
+Author: BAXTER, J.
+
+---
+
+FACTS:
+
+A patient at College Hospital was sexually assaulted by a hospital employee — a psychiatric technician — while hospitalized for mental health treatment. The patient brought suit against the hospital and sought to include punitive damages. The case raised two critical issues:
+
+1. What conduct constitutes "malice" or "oppression" under Civil Code § 3294 sufficient to support punitive damages in a healthcare context?
+
+2. How does CCP § 425.13 apply where the plaintiff seeks punitive damages against a healthcare provider based on the conduct of its employee?
+
+---
+
+HOLDING — THE "DESPICABLE CONDUCT" STANDARD:
+
+The Supreme Court substantially clarified the § 3294 malice and oppression standards.
+
+MALICE:
+Civil Code § 3294(c)(1) defines malice as:
+(a) Conduct that is intended by the defendant to cause injury to the plaintiff; OR
+(b) "Despicable conduct which is carried on by the defendant with a willful and conscious disregard of the rights or safety of others."
+
+OPPRESSION:
+Section 3294(c)(2) defines oppression as:
+"Despicable conduct that subjects a person to cruel and unjust hardship in conscious disregard of that person's rights."
+
+THE DESPICABLE CONDUCT STANDARD:
+The court held that "despicable" has a specific legal meaning in § 3294:
+"Despicable conduct imports a heightened degree of moral culpability. It is conduct that is so vile, base, contemptible, miserable, wretched, or loathsome that it would be looked down upon and despised by ordinary decent people." 8 Cal.4th at 726.
+
+This is a higher standard than mere willfulness or gross negligence. Not every egregious act constitutes "despicable" conduct — the conduct must fall into a category that ordinary decent people would regard as morally reprehensible.
+
+---
+
+HOLDING — EMPLOYER LIABILITY FOR PUNITIVE DAMAGES:
+
+Civil Code § 3294(b) limits employer liability for punitive damages based on employee conduct:
+"An employer shall not be liable for damages pursuant to subdivision (a), based upon acts of an employee of the employer, unless the employer had advance knowledge of the unfitness of the employee and employed him or her with a conscious disregard of the rights or safety of others, or authorized or ratified the wrongful conduct for which the damages are awarded, or was personally guilty of oppression, fraud, or malice."
+
+For corporate defendants: "Advance knowledge" and "conscious disregard" must have been shown by an officer, director, or managing agent of the corporation.
+
+APPLICATION: A hospital is not automatically liable for punitive damages because an employee committed a wrongful act, even a serious one. The plaintiff must show that the hospital itself (through its officers, directors, or managing agents) knew of the employee's unfitness and employed him with conscious disregard — or that the hospital authorized or ratified the conduct.
+
+---
+
+HOLDING — § 425.13 IN EMPLOYEE MISCONDUCT CASES:
+
+The § 425.13 gatekeeping requirement applies to the plaintiff's punitive damages claim against the healthcare provider institution, even where the predicate misconduct was by an employee. The plaintiff must show substantial probability of establishing both:
+1. That the employee's conduct was malicious/oppressive/fraudulent; AND
+2. That the employer institution is liable under § 3294(b).
+
+---
+
+SIGNIFICANCE — THE DESPICABLE CONDUCT DEFINITION ENDURES:
+
+College Hospital's definition of "despicable conduct" has become the standard California jury instruction formulation (CACI 3940 series). Every California punitive damages case now uses this formulation.
+
+The practical effect: punitive damages require evidence of something beyond gross negligence or even intentional wrongdoing. The conduct must be so vile or contemptible that ordinary decent people would despise it.
+
+---
+
+APPLICATION TO INSTITUTIONAL MEDICAL MALPRACTICE:
+
+For punitive damages against a hospital or medical facility:
+1. The patient must show the institution's officers or managing agents had advance knowledge of the offending physician's/employee's unfitness;
+2. "Advance knowledge" includes: prior complaints about the same provider, prior incidents, pattern of similar conduct the institution was aware of;
+3. Continued employment in the same role, despite knowledge of unfitness, satisfies the "conscious disregard" element;
+4. This is why medical credentialing records, incident reports, and peer review files are central discovery targets in institutional malpractice cases.
+
+FOR SIRVA + SURGICAL MALPRACTICE: If the facility knew of prior reports of improperly administered vaccines or prior surgical complications involving the same providers and continued to employ them without remediation, this supports § 3294(b) institutional liability for punitive damages.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 8 Cal.4th 704 (1994)
+Official reporter: California Reports, Fourth Series, vol. 8, page 704
+Court: Supreme Court of California
+Key holdings: "Despicable conduct" standard for § 3294 malice/oppression; § 3294(b) employer liability requirement (officer/director/managing agent knowledge); § 425.13 gatekeeping applies to employee-misconduct punitive claims
+Source of this text: Claude training data (knowledge cutoff August 2025). College Hospital v. Superior Court is the controlling California punitive damages definition case. Full verbatim text should be verified at:
+  - courts.ca.gov
+  - Google Scholar: "College Hospital Inc. v. Superior Court 8 Cal.4th"
+Verification status: PROPOSED — pending steward witness review

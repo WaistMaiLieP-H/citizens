@@ -1,0 +1,47 @@
+{
+  "standard_id": "ccp_425_16_anti_slapp",
+  "citizen": "CA_Administrative_Law_Specialist",
+  "build_date": "2026-04-13",
+  "cross_references": [
+    {
+      "ref_id": "XREF-42516-001",
+      "target_citizen": "CA_Administrative_Law_Specialist",
+      "target_standard": "ccp_1094_5_administrative_mandamus",
+      "path": "${citizens}/CA_Administrative_Law_Specialist/standards/ccp_1094_5_administrative_mandamus/",
+      "relationship": "concurrent",
+      "note": "CalVCB application and related administrative proceedings are 'official proceedings authorized by law' under §425.16(e)(1). Any tort claim arising from statements made in the CalVCB proceeding is subject to anti-SLAPP. §1094.5 is the vehicle to challenge the CalVCB denial; §425.16 is the shield against claims arising from the application itself."
+    },
+    {
+      "ref_id": "XREF-42516-002",
+      "target_citizen": "CA_Criminal_Law_Specialist",
+      "target_standard": "pen_148_5_false_police_report",
+      "path": "${citizens}/CA_Criminal_Law_Specialist/standards/pen_148_5_false_police_report/",
+      "relationship": "parallel",
+      "note": "Reports to OPD and other law enforcement are statements to official proceedings under §425.16(e)(1). A civil claim based on the content of a police report filed by the petitioner is subject to anti-SLAPP. The PC §148.5 criminal prosecution for false police report is the parallel criminal track; civil claims based on the same report face anti-SLAPP."
+    },
+    {
+      "ref_id": "XREF-42516-003",
+      "target_citizen": "CA_Family_Law_Litigator",
+      "target_standard": "fam_6300_dvro_domestic_violence",
+      "path": "${citizens}/CA_Family_Law_Litigator/standards/fam_6300_dvro_domestic_violence/",
+      "relationship": "parallel",
+      "note": "Statements made in family law proceedings (DVRO applications, custody hearings, declarations) are official proceeding statements under §425.16(e)(1). Counter-claims or tort claims based on the content of those statements face anti-SLAPP challenge. The family law proceeding context is exactly where SLAPP retaliation most commonly occurs."
+    },
+    {
+      "ref_id": "XREF-42516-004",
+      "target_citizen": "CA_Victim_Compensation_Litigator",
+      "target_standard": "gov_13950_calvcb_framework",
+      "path": "${citizens}/CA_Victim_Compensation_Litigator/standards/gov_13950_calvcb_framework/",
+      "relationship": "concurrent",
+      "note": "CalVCB application statements are protected under §425.16(e)(2) — statements made in connection with issues under consideration by an official body. Any civil claim premised on the application's content is subject to anti-SLAPP."
+    },
+    {
+      "ref_id": "XREF-42516-005",
+      "target_citizen": "CA_Civil_Rights_Litigator",
+      "target_standard": "gov_12965_feha_procedure",
+      "path": "${citizens}/CA_Civil_Rights_Litigator/standards/gov_12965_feha_procedure/",
+      "relationship": "parallel",
+      "note": "DFEH/CRD complaints are official proceedings authorized by law under §425.16(e)(1). Civil claims premised on the content of those complaints (e.g., malicious prosecution after a FEHA charge) face anti-SLAPP challenge."
+    }
+  ]
+}

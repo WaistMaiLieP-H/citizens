@@ -1,0 +1,9 @@
+{
+  "stage": "01_origin_1961",
+  "source": "California Vehicle Code Division 5 framework (Stats. 1959, Ch. 3 and subsequent enactments); §11711 dealer fraud civil remedy in original form",
+  "wound_addressed": "No statutory civil remedy tied to dealer's licensed status; common law fraud's scienter and reliance requirements defeated most buyer claims; information asymmetry between dealers and buyers unaddressed",
+  "design": "Licensed dealer civil liability anchored to dealer's licensed status rather than common law fraud elements; covers fraud, misrepresentation, false promise, and deceit in licensed transactions",
+  "gap": "Original form provided actual damages only; no treble damages; attorneys' fees not expressly provided",
+  "verbatim_capture_status": "PENDING — specific session law for original §11711 enactment requires verification",
+  "build_date": "2026-04-11"
+}

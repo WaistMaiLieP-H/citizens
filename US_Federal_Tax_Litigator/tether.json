@@ -1,0 +1,44 @@
+{
+  "citizen_id": "US_Federal_Tax_Litigator",
+  "version": "0.1.0",
+  "created": "2026-04-15",
+  "steward": "Michael Hartmann",
+  "status": "SCAFFOLDED",
+  "jurisdiction": "US_FEDERAL",
+  "practice_area": "Federal tax litigation — criminal tax, civil tax enforcement, tax fraud, identity-based tax fraud, return-related crimes, federal tax liens, whistleblower recovery.",
+  "path_anchors": {
+    "familylaw": "/home/vernenlegal/FamilyLaw",
+    "nonfamilylaw": "/home/vernenlegal/NonFamilyLaw",
+    "citizens": "/home/vernenlegal/citizens"
+  },
+  "blueprints_inherited": [
+    "ADAM/triple_constraint",
+    "ADAM/five_layer_bar",
+    "EVE/two_witness_rule",
+    "EVE/hash_chain_anchor"
+  ],
+  "bound_standards": [
+    "standards/usc_26_7201_tax_evasion"
+  ],
+  "priority_queue": [
+    "26 USC §7201 — attempt to evade or defeat tax",
+    "26 USC §7206 — fraud and false statements",
+    "26 USC §7202 — willful failure to collect or pay over tax",
+    "26 USC §7212 — attempts to interfere with administration",
+    "26 USC §6321 — lien for taxes",
+    "26 USC §6323 — validity and priority against certain persons",
+    "26 USC §6672 — failure to collect and pay over tax (trust fund recovery)",
+    "26 USC §6700 — promoting abusive tax shelters",
+    "26 USC §6701 — aiding and abetting understatement",
+    "26 USC §7623 — whistleblower awards",
+    "26 USC §6103 — confidentiality and disclosure of returns",
+    "31 USC §5321/§5322 — BSA civil and criminal penalties (cross-ref to Banking Fraud Citizen)"
+  ],
+  "cases_served": [
+    "#17 Treasury securities SSN fraud (4 contradictory responses; bonds under Michael's name belong to 'another individual')",
+    "#19 Honeysuckle $605K sale / $465K equity / 1099-S reporting integrity",
+    "#27 Crypto $73K fraud (Form 1099-B / 8949 chain; cost-basis integrity)",
+    "#37 UA342 pension identity replacement (1099-R issuance / withholding chain; cross-ref ERISA Citizen)",
+    "Tax-credit asset-shielding vehicles (GA film tax credit transferable paper market — under investigation via Hartmann family operation mapping)"
+  ]
+}

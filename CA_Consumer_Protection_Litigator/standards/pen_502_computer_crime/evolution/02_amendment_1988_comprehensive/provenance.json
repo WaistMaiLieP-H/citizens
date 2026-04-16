@@ -1,0 +1,13 @@
+{
+  "stage": "02_amendment_1988_comprehensive",
+  "label": "1988 Comprehensive Rewrite — Modern §502 Architecture Established",
+  "source": "Stats. 1988, Ch. 1523",
+  "effective_date": "1989-01-01",
+  "significance": "Complete rewrite; established current §502(b) definitions framework, §502(c) prohibited acts, and §502(e) civil remedy",
+  "provisions_established": [
+    "§502(b) — comprehensive definitions including 'access,' 'computer,' 'computer network,' 'data,' 'without permission'",
+    "§502(c)(1)-(8) — enumerated prohibited acts",
+    "§502(e) — civil action (compensatory damages + injunctive relief + $5,000 per violation civil penalty with criminal conviction)"
+  ],
+  "verbatim_capture_status": "PENDING"
+}

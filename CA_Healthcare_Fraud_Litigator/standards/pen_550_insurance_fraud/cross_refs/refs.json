@@ -1,0 +1,27 @@
+{
+  "standard_id": "PEN_550_INSURANCE_FRAUD",
+  "refs_updated": "2026-04-12",
+  "cross_references": [
+    {
+      "target_standard": "USC_18_1347_FEDERAL_HEALTHCARE_FRAUD",
+      "relationship": "federal counterpart \u2014 \u00a71347 applies to health care benefit programs affecting commerce (Medicare Advantage contracts); \u00a7550 applies to all California-regulated insurers. Both apply to Blue Shield. \u00a7550 is easier to establish \u2014 no interstate commerce requirement. \u00a71347 carries heavier penalties and federal investigative resources.",
+      "target_citizen": "CA_Healthcare_Fraud_Litigator",
+      "target_manifest": "${citizens}/CA_Healthcare_Fraud_Litigator/standards/usc_18_1347_federal_healthcare_fraud/manifest.json",
+      "build_status": "BUILT \u2014 same Citizen"
+    },
+    {
+      "target_standard": "INS_10123_135_PRIOR_AUTH",
+      "relationship": "administrative predicate \u2014 \u00a710123.135 violation (non-physician UR, AI denial) creates the record of insurer misconduct; \u00a7550(b)(1) applies if the denial letter contained false statements about the review conducted. A \u00a710123.135 violation does not automatically constitute \u00a7550 fraud, but a denial letter falsely claiming physician review when none occurred IS a \u00a7550(b)(1) violation.",
+      "target_citizen": "CA_Healthcare_Fraud_Litigator",
+      "target_manifest": "${citizens}/CA_Healthcare_Fraud_Litigator/standards/ins_10123_135_prior_auth/manifest.json",
+      "build_status": "BUILT \u2014 same Citizen"
+    },
+    {
+      "target_standard": "HSC_1374_30_INDEPENDENT_MEDICAL_REVIEW",
+      "relationship": "procedural companion \u2014 exhausting IMR (\u00a71374.30) is required before certain claims; an insurer that denies IMR access or provides false records to the IMR organization commits a separate \u00a7550(b)(1) violation",
+      "target_citizen": "CA_Healthcare_Fraud_Litigator",
+      "target_manifest": "${citizens}/CA_Healthcare_Fraud_Litigator/standards/hsc_1374_30_independent_medical_review/manifest.json",
+      "build_status": "BUILT \u2014 same Citizen"
+    }
+  ]
+}

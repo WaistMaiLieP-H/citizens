@@ -1,0 +1,26 @@
+{
+  "standard_id": "REHAB_ACT_504_NO_EXCLUSION",
+  "layer": "current",
+  "title": "29 U.S.C. § 794 — Rehabilitation Act Section 504: Nondiscrimination Under Federal Grants",
+  "enacted": "1973-09-26",
+  "enacting_law": "Rehabilitation Act of 1973, Pub. L. 93-112, § 504, 87 Stat. 394",
+  "major_amendments": [
+    "Civil Rights Restoration Act of 1987, Pub. L. 100-259 — institution-wide coverage; Grove City reversal",
+    "ADA Amendments Act of 2008, Pub. L. 110-325 — disability definition amendments incorporated via § 794(d)"
+  ],
+  "current_through": "Pub. L. 110-325 (ADAAA, 2008)",
+  "official_source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section794",
+  "cornell_lii_source": "https://www.law.cornell.edu/uscode/text/29/794",
+  "implementing_regulation": "45 CFR Part 84 (HHS); 28 CFR Part 41 (DOJ coordination)",
+  "verified": false,
+  "verified_note": "USC tool returned 'not found' for Title 29 § 794. Text from training knowledge. STEWARD MUST VERIFY full text at uscode.house.gov → Title 29 → Chapter 16 → § 794 before citing in federal court filings.",
+  "retrieval_date": "2026-04-13",
+  "case_application": "DDS (federally-funded disability determinations) — phantom contact fraud + fabricated records; CalVCB (VOCA-funded) — disability discrimination in claims process; Blue Shield/hospitals (Medicare/Medicaid-funded) — denial of medically necessary care to disabled person. CRRA ensures institution-wide coverage: if any program receives federal funds, all programs of that entity are covered.",
+  "key_cases": [
+    "Grove City College v. Bell, 465 U.S. 555 (1984) — narrowed §504 to program-specific coverage; SUPERSEDED by CRRA (1987)",
+    "Civil Rights Restoration Act of 1987 (Pub. L. 100-259) — Congress restored institution-wide coverage; Grove City legislative reversal"
+  ],
+  "solely_standard_note": "§794's 'solely by reason of disability' causation is textually stricter than ADA's 'on the basis of disability' but courts apply ADA standards in most circuits after § 794(d) incorporation of ADA Title I for employment; for program access claims, 'solely' has been narrowed by judicial interpretation",
+  "chronicle_flag": false,
+  "unruh_per_se": "CIV § 51(f) — ADA violation = per se Unruh violation; §794(d) incorporates ADA standards into §504; therefore §504 violation → ADA standard violated → §51(f) per se → $4,000 minimum statutory damages in California court"
+}

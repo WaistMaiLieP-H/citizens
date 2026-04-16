@@ -1,0 +1,16 @@
+{
+  "standard_id": "wic_5325_patients_rights",
+  "cross_refs": [
+    {"type": "scope", "citation": "H&S § 1250", "relation": "Defines covered health facilities"},
+    {"type": "attaches_at", "citation": "Cal. WIC § 5150", "standard": "wic_5150_involuntary_hold"},
+    {"type": "attaches_at", "citation": "Cal. WIC § 5250", "standard": "wic_5250_14_day_certification"},
+    {"type": "attaches_at", "citation": "Cal. WIC § 5270.15", "standard": "wic_5270_15_additional_30_day"},
+    {"type": "parallel", "citation": "Cal. WIC § 5157", "relation": "§5150 advisement form prep"},
+    {"type": "common_law", "citation": "Riese v. St. Mary's Hospital (1987) 209 Cal.App.3d 1303", "relation": "Medication refusal — separate capacity analysis; does not reach §5325(f)/(g) absolutes"},
+    {"type": "confidentiality", "citation": "Cal. WIC § 5328", "standard": "wic_5328_lps_confidentiality"},
+    {"type": "regulation", "citation": "9 CCR § 865 et seq.", "relation": "Patient rights regulations under §5325(i)"},
+    {"type": "citizen_external", "citizen": "CA_Probate_Conservatorship_Litigator", "relation": "Non-waiver clause bars conservator override of §5325 rights"},
+    {"type": "citizen_external", "citizen": "CA_Medical_Privacy_Officer", "relation": "§5325 correspondence/call rights overlap with CMIA/HIPAA"},
+    {"type": "citizen_external", "citizen": "US_Federal_Civil_Rights_Litigator", "relation": "§1983 predicate for forced ECT/psychosurgery/third-party-waiver violations"}
+  ]
+}

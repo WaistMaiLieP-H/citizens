@@ -1,0 +1,47 @@
+{
+  "standard": "cal_evidence_1400",
+  "cross_references": [
+    {
+      "cite": "Cal. Evid. Code § 1401",
+      "label": "Authentication Required for Admission",
+      "relationship": "companion_requirement",
+      "note": "§1401 states that a writing is not admissible unless it is authenticated. §1400 defines what authentication means; §1401 makes authentication a prerequisite for admission. Both sections must be cited together when objecting to admission of an unauthenticated writing."
+    },
+    {
+      "cite": "Cal. Evid. Code §§ 1410-1421",
+      "label": "Means of Authentication",
+      "relationship": "methods_chapter",
+      "note": "§§1410-1421 provide the specific methods by which a writing may be authenticated: handwriting evidence, comparison writing, expert opinion, distinctive characteristics, authentication by reply, official seals, etc. These are the tools for satisfying §1400(a)."
+    },
+    {
+      "cite": "Cal. Evid. Code §§ 1450-1454",
+      "label": "Self-Authenticating Documents",
+      "relationship": "exception_category",
+      "note": "§§1450-1454 list categories of documents that are self-authenticating and do not require extrinsic evidence under §1400(a). Official records, certified copies, and other enumerated categories are authenticated by their form and origin."
+    },
+    {
+      "cite": "Cal. Evid. Code § 1271",
+      "label": "Business Records Exception",
+      "relationship": "authentication_pathway",
+      "note": "§1271 provides an authentication pathway for business records. A writing that qualifies as a business record under §1271 is authenticated through that section's foundation requirements (regular course of business, contemporaneous recording, personal knowledge). §1400 is satisfied once §1271's requirements are met."
+    },
+    {
+      "cite": "Cal. Evid. Code § 1280",
+      "label": "Official Records Exception",
+      "relationship": "authentication_pathway",
+      "note": "§1280 provides an authentication pathway for official government records. A document purporting to be an official record must be authenticated under §1400 — and §1280 provides the foundation elements. Failure to establish §1280 foundation means §1400 is not satisfied."
+    },
+    {
+      "cite": "Cal. Evid. Code § 1552",
+      "label": "Computer Printouts",
+      "relationship": "electronic_authentication",
+      "note": "§1552 provides a presumption for computer-generated printouts and electronically stored information. The §1400 authentication framework applies to electronic records; §1552 provides a specific pathway for establishing that a computer printout reflects the data in the computer at the relevant time."
+    },
+    {
+      "cite": "FRE 901",
+      "label": "Federal Rules of Evidence — Authentication",
+      "relationship": "federal_analog",
+      "note": "FRE 901 is the federal analog to §1400 in federal court proceedings. The standard is similar — evidence sufficient to support a finding. Federal cases involving similar authentication questions are persuasive authority in California state court proceedings."
+    }
+  ]
+}

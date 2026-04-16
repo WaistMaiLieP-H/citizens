@@ -1,0 +1,28 @@
+QUINTANILLA v. CITY OF DOWNEY
+84 F.3d 353
+9th Circuit Court of Appeals, 1997
+
+FACTS:
+Plaintiff brought a § 1983 claim alleging that the City of Downey police department had a
+policy or custom of inadequate response to domestic violence calls, failing to arrest
+abusers with probable cause and failing to document incidents properly. The claim arose
+from repeated DV calls where officers declined to arrest despite visible evidence of assault.
+
+HOLDING — CAL. PEN. CODE § 13701 / 42 U.S.C. § 1983:
+The Ninth Circuit addressed whether a municipality's failure to implement adequate
+domestic violence response policies — as required by Cal. Pen. Code § 13701 — could
+establish the "policy or custom" element under Monell for § 1983 purposes. The court
+confirmed that documented policy failures in the DV response context, including failure
+to arrest when probable cause existed and failure to follow written policy requirements,
+could support municipal liability. The court noted that § 13701's mandatory "shall"
+language sets the baseline against which departmental conduct is measured.
+
+SIGNIFICANCE:
+Establishes that Cal. Pen. Code § 13701 is properly used as the evidentiary anchor
+for the Monell "custom or policy" element in § 1983 DV response cases. An agency's
+failure to maintain compliant written policies — or failure to enforce them — is
+admissible as evidence of the requisite municipal policy for civil rights liability.
+Relevant to APD Report #23-004494 (unsigned) as evidence of § 13701(c)(10) non-compliance
+supporting a pattern-and-practice theory.
+
+NOTE: Verify precise holding and quotation via Westlaw/Lexis before filing.

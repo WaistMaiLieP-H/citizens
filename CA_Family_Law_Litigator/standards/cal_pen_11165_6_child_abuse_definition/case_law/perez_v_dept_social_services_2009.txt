@@ -1,0 +1,12 @@
+Perez v. Department of Social Services
+174 Cal.App.4th 322 (2009)
+California Court of Appeal, First Appellate District, 2009
+
+FACTS:
+Administrative proceeding challenging a substantiated child abuse finding under CANRA. The petitioner argued the conduct at issue did not meet the § 11165.6 definition of "child abuse or neglect." The case addressed how CANRA definitions apply in the administrative context versus the criminal context.
+
+HOLDING — Penal Code § 11165.6:
+The Court of Appeal held that § 11165.6's definition governs in all contexts where CANRA applies — criminal, administrative, and family court proceedings. The definition is not more restrictive in administrative proceedings than in criminal ones. A substantiated CANRA finding requires the agency to establish that conduct falls within the § 11165.6 definition by a preponderance of the evidence. The court confirmed that the aggregating structure of § 11165.6 means any conduct falling within §§ 11165–11165.5 constitutes reportable and actionable "child abuse or neglect."
+
+SIGNIFICANCE:
+Confirms that CANRA definitions apply uniformly across proceedings. A substantiated CPS report is based on the same § 11165.6 standard as a criminal prosecution — the threshold is the same, though the evidentiary standard differs. In family court proceedings where a party seeks to use or challenge a CPS substantiation, the § 11165.6 definition is the operative framework.

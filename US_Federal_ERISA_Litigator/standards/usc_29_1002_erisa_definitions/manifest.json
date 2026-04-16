@@ -1,0 +1,24 @@
+{
+  "citizen": "US_Federal_ERISA_Litigator",
+  "standard_id": "usc_29_1002_erisa_definitions",
+  "citation": "29 U.S.C. \u00a71002",
+  "popular_name": "ERISA \u00a73 \u2014 Definitions",
+  "jurisdiction": "Federal",
+  "enacted": "1974",
+  "public_law": "Pub. L. 93-406",
+  "build_state": "PUBLISHED",
+  "five_layer_complete": false,
+  "layers": {
+    "current": true,
+    "historical_chain": true,
+    "case_law": false,
+    "cross_refs": true
+  },
+  "note": "Superseded by usc_29_1002_definitions (PUBLISHED \u2014 ADAM + EVE DUAL WITNESS \u2014 2026-04-13). Legacy stub retained for reference.",
+  "verified": false,
+  "build_date": "2026-04-12",
+  "steward": "Michael Hartmann",
+  "status": "SUPERSEDED",
+  "superseded_by": "usc_29_1002_definitions",
+  "superseded_date": "2026-04-13"
+}

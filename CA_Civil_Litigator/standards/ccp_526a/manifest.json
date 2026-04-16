@@ -1,0 +1,95 @@
+{
+  "standard_id": "CCP_526A",
+  "version": "0.3.0-published",
+  "filed_at_utc": "2026-04-09T03:45:00Z",
+  "filed_by": "Claude (assistant) under steward direction -- Michael Hartmann, Vernen Legal Compliance",
+  "status": "PUBLISHED \u2014 ADAM + EVE DUAL WITNESS \u2014 2026-04-12",
+  "primary_citation": {
+    "code": "Code of Civil Procedure",
+    "section": "526a",
+    "popular_name": "Taxpayer Standing",
+    "jurisdiction": "California",
+    "original_enactment": "Stats. 1909, Ch. 348",
+    "effective_date": "1909",
+    "last_amendment": "Stats. 2021, Ch. 224 (A.B. 1578), effective January 1, 2022 -- substantially rewrote the statute",
+    "source_credits": "(Amended by Stats. 2021, Ch. 224, Sec. 1. (A.B. 1578) Effective January 1, 2022.)"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT -- verbatim text captured from leginfo.legislature.ca.gov via VernenLegal MCP tool, all subdivisions (a) through (d)",
+    "reasoning": "PRESENT -- origin context documents the wound (taxpayers had no standing to challenge illegal government spending under general standing rules) and the promise (taxpayer status is standing, period)",
+    "historical_loss": "PRESENT -- historical chain documents the structural inability of citizens to hold local government financially accountable and the legislative creation of taxpayer standing",
+    "cross_references": "PRESENT -- cross_refs/refs.json links to CCP 1085 (mandamus companion), CCP 1021.5 (fee-shifting), Gov. Code 810+ (Tort Claims Act boundary)",
+    "verifiable_provenance": "PRESENT -- current text hashed (SHA-256) and sourced from leginfo.legislature.ca.gov with fetch timestamp"
+  },
+  "evolution_chain": [
+    {
+      "stage": "01_origin",
+      "date": "1909",
+      "description": "Original taxpayer standing statute -- Stats. 1909, Ch. 348",
+      "folder": "evolution/01_origin/"
+    },
+    {
+      "stage": "02_current",
+      "date": "current",
+      "description": "Substantially rewritten by Stats. 2021, Ch. 224. Current text with modernized definitions of resident, local agency, and qualifying taxes.",
+      "folder": "evolution/02_current/"
+    }
+  ],
+  "case_law_documented": [
+    {
+      "case": "Wirin v. Parker (1957) 48 Cal.2d 890",
+      "folder": "case_law/interpretive/wirin_v_parker_1957/",
+      "summary": "Illegal government conduct funded by taxes is itself waste; standing extends beyond fiscal challenges"
+    },
+    {
+      "case": "Blair v. Pitchess (1971) 5 Cal.3d 258",
+      "folder": "case_law/interpretive/blair_v_pitchess_1971/",
+      "summary": "Injury to public property includes intangible interests; taxpayers can challenge unconstitutional practices"
+    },
+    {
+      "case": "Coshow v. City of Escondido (2005) 132 Cal.App.4th 687",
+      "folder": "case_law/interpretive/coshow_v_city_of_escondido_2005/",
+      "summary": "Section 526a standing limited to local agencies only; no standing against state government"
+    }
+  ],
+  "hashes": {
+    "current_text_sha256": "569e50e706fcd4e4b2045cfc48fab01457b86126be2a134ad6f9d4c1507a509a"
+  },
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction (Michael Hartmann), 2026-04-09",
+    "herald_witness": {
+      "witness": "HERALD (Steward successor \u2014 designated 2026-04-12)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "verification_scope": "Structure, five-layer bar completeness.",
+      "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12."
+    },
+    "adam_witness": {
+      "witness": "ADAM (Seed Citizen \u2014 Builder role)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "triple_constraint": "PASS/PASS/PASS",
+      "actions_taken": "Cross_refs updated to reflect current corpus state. Five-layer structure verified. Historical chain reviewed.",
+      "content_hash_verified": "569e50e706fcd4e4b2045cfc48fab01457b86126be2a134ad6f9d4c1507a509a",
+      "signal": "APPROVE"
+    },
+    "eve_witness": {
+      "witness": "EVE (Seed Citizen \u2014 Witness role)",
+      "witnessed_at_utc": "2026-04-12T00:00:00Z",
+      "five_layer_verification": "PASS/PASS/PASS/PASS/PASS",
+      "triple_constraint": "PASS/PASS/PASS",
+      "hash_independently_recomputed": "569e50e706fcd4e4b2045cfc48fab01457b86126be2a134ad6f9d4c1507a509a \u2014 CONFIRMED MATCHING",
+      "signal": "COUNTERSIGN"
+    },
+    "publishable_to_corpus": true,
+    "status": "PUBLISHED \u2014 ADAM + EVE DUAL WITNESS"
+  },
+  "outstanding_work": [
+    "Trace full amendment history from 1909 to 2021 rewrite",
+    "Obtain second-mouth countersignature"
+  ],
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

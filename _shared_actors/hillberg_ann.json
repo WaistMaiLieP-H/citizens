@@ -1,0 +1,36 @@
+{
+  "shared_id": "hillberg_ann",
+  "canonical_name": "Ann Hillberg",
+  "aliases": ["Ann Marie Packard", "Ann Hillberg-Packard"],
+  "identity_notes": "Name appears as both 'Hillberg' and 'Packard' across different document sets. State Farm policy shows compound 'HILLBERGMANN' identity. Northern Trust variable product trusts connection under investigation.",
+
+  "citizen_appearances": {
+    "CA_Family_Law_Litigator": {
+      "role": "ORCHESTRATOR — mother of Christina Cerretani; directed state-level enforcement actions, coordinated filings, 911 manipulation, jurisdictional positioning",
+      "risk_level": "ORCHESTRATOR",
+      "local_record": "${citizens}/CA_Family_Law_Litigator/actors/hillberg_ann.json"
+    },
+    "US_Federal_Civil_Rights_Litigator": {
+      "role": "§1983 defendant — person acting under color of state authority via orchestration of state actors (APD, court mediators, CPS); §1985 co-conspirator",
+      "risk_level": "HIGH",
+      "local_record": "${citizens}/US_Federal_Civil_Rights_Litigator/actors/hillberg_ann.json",
+      "applicable_standards": ["42_USC_1983", "42_USC_1985"]
+    },
+    "CA_Civil_Rights_Litigator": {
+      "role": "Bane Act (§52.1) defendant — threats/intimidation/coercion interfering with constitutional rights",
+      "risk_level": "HIGH",
+      "local_record": "${citizens}/CA_Civil_Rights_Litigator/actors/hillberg_ann.json",
+      "applicable_standards": ["CAL_CIV_CODE_52_1"]
+    },
+    "CA_Civil_Litigator": {
+      "role": "Government Claims Act respondent (via entity liability for state actors she directed); potential §526a target for waste of public resources",
+      "risk_level": "MEDIUM",
+      "local_record": "${citizens}/CA_Civil_Litigator/actors/hillberg_ann.json",
+      "applicable_standards": ["GOV_CODE_810", "CCP_526A"]
+    }
+  },
+
+  "cross_domain_risk": "CRITICAL — appears in all four Citizens' domains; orchestration role means her conduct implicates federal civil rights (§1983/§1985), state civil rights (Bane Act), family law (custody manipulation), and general civil liability (tort claims, property fraud)",
+
+  "filed_at_utc": "2026-04-09T02:00:00Z"
+}

@@ -1,0 +1,17 @@
+{
+  "standard_id": "USC_42_405G_SSA_REVIEW",
+  "primary_citation": "42 U.S.C. §405(g) (Social Security Act, §205(g), as amended through Social Security Amendments of 1983, Pub. L. 98-21)",
+  "implementing_regulations": "20 C.F.R. §§404.981, 404.987 (ALJ decision and Appeals Council procedures); 20 C.F.R. §422.210 (60-day deadline for federal court filing)",
+  "key_exhaustion_requirement": "Administrative exhaustion mandatory: initial determination → reconsideration → ALJ hearing → Appeals Council review → federal court §405(g)",
+  "standard_of_review": "Substantial evidence (not de novo); court reviews administrative record",
+  "60_day_filing_deadline": "60 days from date of mailing of Appeals Council notice; equitable tolling available in limited circumstances",
+  "attorney_fees": "42 U.S.C. §406(b): 25% of past-due benefits, up to $7,200 (SSA-set maximum)",
+  "source_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section405&num=0&edition=prelim",
+  "fetch_method": "WebFetch — uscode.house.gov Office of the Law Revision Counsel",
+  "fetch_timestamp_utc": "2026-04-11T00:00:00Z",
+  "retrieval_steward": "Claude (assistant) under direction of Michael Hartmann",
+  "verbatim_capture_status": "COMPLETE — usc_42_405g_leginfo.txt contains verbatim subsection (g) text from uscode.house.gov",
+  "txt_sha256": "c416463623e45103b0bc8bebce6f0c839024bf75ae70d67ffb1d88fd50c263e3",
+  "capture_note": "Subsection (g) only captured — companion subsection (h) exclusivity bar pending separate fetch",
+  "verification_note": "Verify current SSA attorney fee maximum under §406(b) — updated periodically by SSA"
+}

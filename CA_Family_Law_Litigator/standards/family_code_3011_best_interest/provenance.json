@@ -1,0 +1,51 @@
+{
+  "standard_id": "CA_FAMILY_CODE_3011_BEST_INTEREST",
+  "provenance_record_filed_at_utc": "2026-04-08T09:12:18Z",
+  "fetcher_software": "curl with sha256sum",
+  "fetcher_operator": "Claude (assistant) under steward direction (Michael Hartmann)",
+  "verification_principle": "Same as other Vernen standards. Current-form HTML is the primary artifact for sections whose canonical text lives at leginfo. The HTML snapshot is hashed at fetch time so a future verifier can confirm it matches what California's legislative branch served on this date.",
+
+  "fetches": [
+    {
+      "artifact_local_path": "current/fam_3011_leginfo.html",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3011.&lawCode=FAM",
+      "source_authority": "California Legislative Information (leginfo.legislature.ca.gov), maintained by the Office of Legislative Counsel of California",
+      "source_authority_type": "primary (state legislative branch official text repository)",
+      "fetched_at_utc": "2026-04-08T09:12:18Z",
+      "fetch_method": "curl -sSL --max-time 60 with Vernen-Provenance user-agent",
+      "file_size_bytes": 166362,
+      "sha256": "edc7e36f29f8ebaa65eba192322cac0f90819cc61bb03aba08b6f8bee2b72a69",
+      "content_description": "Current text of California Family Code § 3011 — Best interest of the child; required factors; prohibited considerations. Includes verbatim subsection (a) factor list, subsection (b) prohibition, and visible amendment history showing Stats. 1992 Ch. 162 Sec. 10 (original enactment), Stats. 1993 Ch. 219 Sec. 115.5 (repealed and added), and Stats. 2023 Ch. 493 Sec. 2 / SB 599 (most recent amendment, effective 2024-01-01)."
+    },
+    {
+      "artifact_local_path": "context/findlaw_fam_3011.html",
+      "source_url": "https://codes.findlaw.com/ca/family-code/fam-sect-3011/",
+      "source_authority": "FindLaw / Thomson Reuters (commercial legal database)",
+      "source_authority_type": "secondary (commercial republication of statutory text)",
+      "fetched_at_utc": "2026-04-08T09:12:18Z",
+      "file_size_bytes": 4910,
+      "sha256": "6c375688b3af4061c545ef87ea3bb4a5b72c87d2958afd016daa8f0cd3b32b81",
+      "content_description": "FindLaw landing page for Cal. Family Code § 3011. Captured as a secondary cross-check for the leginfo primary source. NOT authoritative — leginfo is the primary; this is context only.",
+      "secondary_source_note": "FindLaw republishes California statutes from leginfo with minimal value-add. Used here as a secondary verification source, not as a primary citation."
+    }
+  ],
+
+  "fetches_outstanding": [
+    {
+      "intended_artifact": "1982 Vol1 California Statutes PDF (originating Civ. Code § 4608)",
+      "intended_source_url": "https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/archive/Statutes/1982/82Vol1_Chapters.pdf (URL pattern; exact filename to be confirmed against the archive listing page)",
+      "discovery_url": "https://clerk.assembly.ca.gov/historical-information/archive-list/statutes-and-amendments-codes-1982",
+      "status": "DEFERRED — large download (~150 MB based on 1929/1933/1935 sizes); will be fetched as part of the next evolution-bridging session",
+      "blocking_question": "What is the 1982 Stats. chapter number that enacted Civ. Code § 4608? Need to either (1) fetch the 1982 index PDF and search for 'best interest' or 'custody' entries, or (2) consult Legislative Intent Service / Westlaw history annotations."
+    },
+    {
+      "intended_artifact": "1992 Stats. Ch. 162 (original Family Code consolidation)",
+      "status": "DEFERRED"
+    },
+    {
+      "intended_artifact": "Stats. 2023 Ch. 493 (SB 599 — most recent amendment)",
+      "intended_source_url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB599",
+      "status": "DEFERRED"
+    }
+  ]
+}

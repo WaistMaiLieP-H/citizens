@@ -1,0 +1,36 @@
+{
+  "standard_id": "CAL_FAM_721",
+  "version": "0.2.0-witnessed-by-herald",
+  "filed_at_utc": "2026-04-11T06:10:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "primary_citation": {
+    "code": "California Family Code",
+    "section": "§ 721",
+    "popular_name": "General spousal fiduciary duty; highest-good-faith rule",
+    "jurisdiction": "California (state)",
+    "location_in_code": "Family Code, Division 4, Part 1, Chapter 1 (General Provisions)",
+    "original_enactment": "Predecessor Civ. Code § 5103 (pre-1992); recodified to Fam. § 721 in 1992/1994 Family Code reorganization"
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current text captured via MCP",
+    "reasoning": "PRESENT — highest-good-faith standard, three specific obligations, partnership incorporation, relationship to §§ 1100/1101/1102 all documented",
+    "historical_loss": "PRESENT — incorporated by reference to § 1100 historical chain",
+    "cross_references": "PRESENT — cross_refs/refs.json",
+    "verifiable_provenance": "PARTIAL — current text via MCP"
+  },
+  "case_law": [],
+  "cases_to_add": [
+    "In re Marriage of Rossin (2009) 172 Cal.App.4th 725",
+    "In re Marriage of Feldman (2007) 153 Cal.App.4th 1470",
+    "In re Marriage of Margulis (2011) 198 Cal.App.4th 1252",
+    "Vai v. Bank of America (1961) 56 Cal.2d 329"
+  ],
+  "citizen_relevance": "Doctrinal foundation for all spousal fiduciary claims in the Honeysuckle complaint. Invoked together with § 1100(e) and § 1101. Partnership-level duty incorporated by reference gives the plaintiff access to the robust partnership law doctrine.",
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

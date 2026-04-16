@@ -1,0 +1,47 @@
+{
+  "layer": "historical_chain",
+  "layer_index": 1,
+  "label": "origin_1978_oho",
+  "event": "SSA Office of Hearings and Appeals administrative standardization of ALJ hearing procedures via HALLEX",
+  "date": "circa 1978-1980 — post-Mathews v. Eldridge (1976); exact HALLEX publication dates in OHO transmittals",
+  "sources": [
+    {
+      "citation": "Mathews v. Eldridge, 424 U.S. 319 (1976)",
+      "description": "Supreme Court decision establishing due process framework for disability benefit procedures; prompted SSA to codify procedural minimums",
+      "url": "https://supreme.justia.com/cases/federal/us/424/319/",
+      "verified": false
+    },
+    {
+      "citation": "42 U.S.C. § 405(b)",
+      "description": "Statutory requirement for written findings and decisions after ALJ hearings",
+      "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section405",
+      "verified": false
+    },
+    {
+      "citation": "20 C.F.R. §§ 404.929–404.961",
+      "description": "ALJ hearing procedure regulations — regulatory framework HALLEX implements",
+      "url": "https://www.ecfr.gov/current/title-20/chapter-III/part-404/subpart-Q",
+      "verified": false
+    },
+    {
+      "citation": "HALLEX I-2-6",
+      "description": "ALJ hearing procedures — notice, opening, testimony, expert witness examination",
+      "url": "https://www.ssa.gov/OP_Home/hallex/I-02/I-2-6.html",
+      "verified": false
+    },
+    {
+      "citation": "HALLEX I-2-8-18",
+      "description": "Closing the record — post-hearing submissions, decision timing requirements",
+      "url": "https://www.ssa.gov/OP_Home/hallex/I-02/I-2-8-18.html",
+      "verified": false
+    },
+    {
+      "citation": "SSR 00-4p (2000)",
+      "description": "Social Security Ruling — VE testimony consistency with DOT requirement; operationalized in HALLEX",
+      "url": "https://www.ssa.gov/OP_Home/rulings/di/02/SSR2000-04-di-02.html",
+      "verified": false
+    }
+  ],
+  "significance": "HALLEX converted ALJ hearing procedures from discretionary practices into enforceable procedural rights. Courts treat HALLEX violations that prejudice claimants as reversible error. The VE hypothetical completeness rule and written decision requirements are among the most frequently litigated HALLEX provisions.",
+  "build_session": "2026-04-12"
+}

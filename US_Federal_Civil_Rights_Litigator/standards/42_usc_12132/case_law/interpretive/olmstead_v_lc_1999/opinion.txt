@@ -1,0 +1,66 @@
+OLMSTEAD v. L.C. ex rel. ZIMRING
+527 U.S. 581 (1999)
+United States Supreme Court
+Decided: June 22, 1999
+
+---
+
+FACTS:
+
+L.C. and E.W. were two women with mental disabilities (mental retardation and mental illness) voluntarily admitted to Georgia Regional Hospital, a state psychiatric hospital. Their treatment professionals determined they were ready for community-based treatment, but Georgia kept them institutionalized because appropriate community placements were not immediately available. Both women sought release to community settings under Title II of the ADA, 42 U.S.C. § 12132, which prohibits public entities from discriminating against disabled persons.
+
+The District Court ordered Georgia to place the women in community settings within reasonable time. The Eleventh Circuit affirmed. The Supreme Court affirmed in part.
+
+---
+
+HOLDING:
+
+Justice Ginsburg wrote for a plurality (joined in full by three justices; with a fifth justice concurring in the judgment on a narrower ground).
+
+UNJUSTIFIED INSTITUTIONALIZATION IS DISCRIMINATION UNDER § 12132:
+
+"Unjustified isolation ... is properly regarded as discrimination based on disability."
+
+"[S]tate-run programs that unnecessarily institutionalize disabled persons, when community placement is appropriate and available within reasonable time, discriminate in violation of Title II."
+
+THE OLMSTEAD INTEGRATION MANDATE:
+Under ADA Title II (§ 12132) and the DOJ's integration regulation (28 C.F.R. § 35.130(d)):
+
+1. A public entity must provide services to disabled persons in the most integrated setting appropriate to their needs.
+2. Unjustified segregation of disabled persons in institutions, when community placement is (a) appropriate, (b) not opposed by the individual, and (c) achievable within reasonable time, violates § 12132.
+3. "Reasonable time" is measured against a "comprehensive, effectively working plan" for placing individuals in community settings.
+
+THE "EFFECTIVELY WORKING PLAN" DEFENSE:
+States are not required to immediately place every institutionalized person in the community. A state that has a comprehensive, effectively working plan for placing persons in community settings, moving those on waiting lists at a reasonable pace, is not in violation — even if placement is not immediate.
+
+BUT: A plan that amounts to "wait indefinitely" does not satisfy the defense.
+
+---
+
+TWO LIMITING PRINCIPLES (Ginsburg plurality):
+
+1. A state is not required to provide community-based services when the individual does not want them.
+2. A state is not required to provide community placements that require a "fundamental alteration" of its programs (picking up Southeastern/Davis).
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Olmstead is the operational mandate for § 12132 claims involving institutionalization or segregation of disabled persons. It applies to:
+
+1. **Conservatorship / involuntary placement**: If a disabled adult is inappropriately institutionalized or placed in a restrictive setting against their wishes when community-based alternatives exist, Olmstead is the substantive hook.
+
+2. **Mental health diversion programs**: Diversion programs that limit access to community-based treatment (§ 1001.36) may implicate the integration mandate.
+
+3. **Olmstead planning requirements**: Government entities with ADA obligations must have functioning plans for community integration. A failure to have or follow such a plan supports a § 12132 claim.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 527 U.S. 581 (1999)
+Court: United States Supreme Court
+Reporter: United States Reports, vol. 527, page 581
+Author: Ginsburg, J. (plurality); Kennedy, J. (concurring in judgment); Thomas, J. (dissenting)
+Source of this text: Claude training data (knowledge cutoff August 2025). Olmstead v. L.C. is the controlling Title II / § 12132 case establishing the integration mandate — "the most integrated setting appropriate."
+Verification: CourtListener / Justia / Google Scholar: "Olmstead v. L.C. 527 U.S. 581"
+Verification status: PROPOSED — pending steward witness review

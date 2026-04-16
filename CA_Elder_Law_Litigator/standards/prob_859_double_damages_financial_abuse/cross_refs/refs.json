@@ -1,0 +1,57 @@
+{
+  "standard_id": "prob_859_double_damages_financial_abuse",
+  "citizen": "CA_Elder_Law_Litigator",
+  "layer": "cross_refs",
+  "generated": "2026-04-12",
+  "internal_refs": [
+    {
+      "id": "wic_15610_30_financial_abuse_def",
+      "path": "${citizens}/CA_Elder_Law_Litigator/standards/wic_15610_30_financial_abuse_def",
+      "relationship": "\u00a7859 expressly cross-references \u00a715610.30 \u2014 financial abuse as defined there triggers \u00a7859 double damages"
+    },
+    {
+      "id": "wic_15610_70_undue_influence",
+      "path": "${citizens}/CA_Elder_Law_Litigator/standards/wic_15610_70_undue_influence",
+      "relationship": "\u00a7859 covers taking by undue influence in bad faith \u2014 \u00a715610.70 four-factor test defines undue influence"
+    },
+    {
+      "id": "wic_15657_5_financial_abuse_remedies",
+      "path": "${citizens}/CA_Elder_Law_Litigator/standards/wic_15657_5_financial_abuse_remedies",
+      "relationship": "\u00a7859 attorney fees are discretionary BUT \u00a7859 explicitly preserves \u00a715657.5 mandatory fees \u2014 both apply in financial elder abuse cases"
+    }
+  ],
+  "external_refs": [
+    {
+      "id": "CA_Conservator_Investigator_prob_2620",
+      "path": "${citizens}/CA_Conservator_Investigator/standards/cal_prob_2620",
+      "relationship": "Annual accounting failures = concealment under \u00a7859; missed accountings create separate \u00a7859 exposure per year"
+    },
+    {
+      "id": "CA_Conservator_Investigator_prob_1860",
+      "path": "${citizens}/CA_Conservator_Investigator/standards/cal_prob_1860",
+      "relationship": "Termination of conservatorship does not extinguish \u00a7859 liability for past wrongful property acts"
+    },
+    {
+      "id": "CA_Real_Estate_Attorney_case_19",
+      "path": "${citizens}/CA_Real_Estate_Attorney",
+      "relationship": "Honeysuckle sale equity shortfall ($356K unaccounted) is subject to \u00a7859 doubling if bad-faith disposal proven"
+    },
+    {
+      "id": "US_Federal_ERISA_Litigator",
+      "path": "${citizens}/US_Federal_ERISA_Litigator",
+      "relationship": "Northern Trust / pension trust structures \u2014 \u00a7859 covers trust property regardless of ERISA preemption analysis of the plan itself; preemption analysis needed"
+    }
+  ],
+  "case_law": [
+    {
+      "citation": "Conservatorship of Romo, 140 Cal.App.4th 1211 (2006)",
+      "holding": "\u00a7859 double damages applied to conservator who wrongfully disposed of conservatee's real property; bad faith established by pattern of concealment in accountings",
+      "significance": "Established that accounting concealment satisfies the 'concealed' verb in \u00a7859"
+    },
+    {
+      "citation": "Estate of Young, 160 Cal.App.4th 62 (2008)",
+      "holding": "\u00a7859 double damages apply to decedent estate property wrongfully taken by family member in bad faith; 'value' measured at time of judgment",
+      "significance": "Established measure of double damages \u2014 value at judgment date, not date of taking"
+    }
+  ]
+}

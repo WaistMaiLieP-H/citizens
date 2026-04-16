@@ -1,0 +1,21 @@
+Cal. Penal Code § 995 — Modernization Amendment (approximate 1959 era)
+
+The modern two-part structure of § 995 — distinguishing between indictments and informations — was formalized in mid-20th century amendments that aligned the statute with California's dual-charging system (grand jury indictment vs. prosecutor-filed information).
+
+Key structural additions that appear in the modernized form:
+
+§ 995(a): The indictment or information SHALL be set aside upon defendant's motion in the following cases:
+
+For INDICTMENTS:
+(A) Where it is not found, endorsed, and presented as prescribed in the Code.
+(B) That the defendant has been indicted without reasonable or probable cause.
+
+For INFORMATIONS:
+(A) That before the filing thereof the defendant had not been legally committed by a magistrate.
+(B) That the defendant had been committed without reasonable or probable cause.
+
+Note: The "without reasonable or probable cause" language for informations (§ 995(a)(2)(B)) was a significant expansion of the original § 995. Originally, the motion was limited to cases where there had been NO preliminary hearing. The modernized version added the ability to challenge sufficiency of the probable cause finding even when a hearing occurred.
+
+This expansion transformed § 995 from a purely procedural motion (was the hearing held?) into a substantive motion (was the evidence at the hearing legally sufficient?).
+
+Source: Specific statute for 1959 modernization pending primary-source verification.

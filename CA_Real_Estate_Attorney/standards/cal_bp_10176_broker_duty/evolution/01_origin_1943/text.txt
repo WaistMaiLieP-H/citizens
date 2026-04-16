@@ -1,0 +1,19 @@
+CALIFORNIA BUSINESS AND PROFESSIONS CODE § 10176
+Real Estate License Disciplinary Grounds — Origin (1943)
+
+SOURCE: Real Estate Dealers License Act, Stats. 1943 / California Real Estate Act
+Predecessor: California Real Estate Act (1917), as substantially amended and reorganized
+REQUIRES_PRIMARY_SOURCE_VERIFICATION for exact 1943 text.
+
+--- Summary of 1943/1950s BPC § 10176 predecessor text ---
+The commissioner may investigate and may temporarily suspend or permanently revoke a real estate license where the licensee has been guilty of:
+
+(a) Making any substantial misrepresentation.
+(b) Making any false promises of a character likely to influence, persuade, or induce.
+(c) A continued and flagrant course of misrepresentation or making of false promises through licensees.
+(d) Acting for more than one party in a transaction without the knowledge or consent of all parties thereto.
+(e) Commingling with his or her own money or property the money or other property of others which is received and held by him or her.
+
+NOTE: The original disciplinary grounds (a)–(e) formed the core of the broker-conduct statute. Later amendments added subdivisions (f) through (m) covering: exclusive agreements without termination dates (f), undisclosed compensation (g), option-to-purchase abuse (h), catchall fraud/dishonesty (i), unauthorized solicitation of purchase agreements (j), failure to disburse committed mortgage funds (k), intentional closing delay (l), and cross-licensing law violations (m).
+
+PROVENANCE: Requires primary source verification. See provenance.json.

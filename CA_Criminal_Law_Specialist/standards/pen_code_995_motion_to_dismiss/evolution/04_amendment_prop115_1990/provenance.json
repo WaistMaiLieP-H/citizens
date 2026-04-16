@@ -1,0 +1,17 @@
+{
+  "stage_id": "04_amendment_prop115_1990",
+  "enacted": "June 5, 1990 (California Proposition 115 — Crime Victims Justice Reform Act)",
+  "effective": "1990-06-06 (day after election; effective immediately by its terms)",
+  "citation": "Cal. Const. Art. I § 30(b) (as amended by Proposition 115); Prop 115 ballot measure, California General Election, June 5, 1990",
+  "popular_name": "Proposition 115 — Crime Victims Justice Reform Act — Effect on § 995 Scope",
+  "key_changes": [
+    "California Constitution Art. I § 30(b) amended to limit preliminary hearing cross-examination rights",
+    "Penal Code § 872(b) — qualified law enforcement officer may give hearsay testimony at preliminary hearing",
+    "Practical effect: raised bar for successful § 995 motion by allowing preliminary hearing probable cause to rest on officer hearsay"
+  ],
+  "source": "California Proposition 115, certified June 1990. Primary text at California Secretary of State archives. Cal. Const. Art. I § 30(b) current text confirms the cross-examination limitation. Penal Code § 872(b) confirms hearsay admission rule.",
+  "verification_status": "PROPOSED — constitutional and statutory text confirmed from current leginfo; ballot measure citation standard; structural analysis of § 995 impact confirmed by case law pattern in post-1990 decisions",
+  "provenance_level": "constitutional_amendment_verified",
+  "built_by": "Claude (CA_Criminal_Law_Specialist) under steward direction — Michael Hartmann",
+  "built_at_utc": "2026-04-12T00:00:00Z"
+}

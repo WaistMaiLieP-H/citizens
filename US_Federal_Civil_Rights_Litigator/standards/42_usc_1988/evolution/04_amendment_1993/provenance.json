@@ -1,0 +1,15 @@
+{
+  "stage": "04_amendment_1993",
+  "public_law": "P.L. 103-141",
+  "section": "§4(a)",
+  "statutes_at_large": "107 Stat. 1488",
+  "enacted": "1993-11-16",
+  "mechanism": "signed by President Clinton",
+  "bill": "H.R. 1308 (Religious Freedom Restoration Act of 1993)",
+  "source": "congress.gov/bill/103rd-congress/house-bill/1308",
+  "retrieval_method": "knowledge_base",
+  "retrieval_date": "2026-04-10",
+  "retrieval_steward": "Claude Opus 4.6 (1M context)",
+  "primary_source_verified": false,
+  "notes": "Added RFRA to §1988(b) fee list. Partially invalidated by City of Boerne v. Flores (1997) as to state/local governments."
+}

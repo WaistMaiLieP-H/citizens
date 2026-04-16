@@ -1,0 +1,82 @@
+{
+  "standard_id": "PEN_630_CIPA",
+  "citizen": "CA_Consumer_Protection_Litigator",
+  "version": "1.0.0",
+  "status": "PROPOSED",
+  "primary_citation": "Cal. Penal Code §§630-638 (California Invasion of Privacy Act; Stats. 1967, Ch. 1509; §632.7 current version Stats. 2016, Ch. 541)",
+  "short_title": "California Invasion of Privacy Act (CIPA) — All-Party Consent; Civil Remedy $5,000/Violation",
+  "one_line_rule": "California requires consent of all parties before recording or intercepting any confidential communication; cellular/cordless interceptions prohibited without all-party consent regardless of confidentiality; civil remedy is the greater of actual damages or $5,000 per violation, with discretionary trebling.",
+  "five_layer_bar_status": {
+    "rule": "PRESENT — current/LOGIC.md",
+    "reasoning": "PRESENT — current/LOGIC.md §§ WOUND (surveillance asymmetry, federal one-party gap) + DESIGN (all-party consent, §632.7 cellular coverage) + SIM swap application + federal-state damages stack",
+    "historical_loss": "PRESENT — historical_chain.md + evolution/ (4 stages)",
+    "cross_references": "PRESENT — cross_refs/refs.json (5 references: §2511, SCA §2701, CFAA §1030, IPA §1798, UCL §17200)",
+    "verifiable_provenance": "PRESENT — current/provenance.json + evolution provenances; verbatim text capture PENDING"
+  },
+  "evolution_chain": [
+    {
+      "stage": "01_origin_1967",
+      "label": "California Invasion of Privacy Act — Original Enactment",
+      "source": "Stats. 1967, Ch. 1509",
+      "logic_file": "evolution/01_origin_1967/LOGIC.md"
+    },
+    {
+      "stage": "02_amendment_1985_electronic",
+      "label": "1985 Amendment — Cordless and Cellular Coverage Added",
+      "source": "Stats. 1985, Ch. 1360",
+      "logic_file": "evolution/02_amendment_1985_electronic/LOGIC.md"
+    },
+    {
+      "stage": "03_amendment_1992_cellular",
+      "label": "1992 Amendment — §632.7; Confidentiality Requirement Eliminated for Cellular",
+      "source": "Stats. 1992, Ch. 298",
+      "logic_file": "evolution/03_amendment_1992_cellular/LOGIC.md"
+    },
+    {
+      "stage": "04_amendment_2016_electronic_communications",
+      "label": "2016 Amendment — §632.7 Modernized for Current Cellular Architecture",
+      "source": "Stats. 2016, Ch. 541",
+      "logic_file": "evolution/04_amendment_2016_electronic_communications/LOGIC.md"
+    }
+  ],
+  "case_law": [
+    {
+      "slug": "flanagan_v_flanagan",
+      "cite": "Flanagan v. Flanagan, 27 Cal.4th 766 (2002)",
+      "court": "Supreme Court of California",
+      "category": "foundational",
+      "key_rule": "Confidential communication under §632(c) = objective circumstances test; telephone calls made without knowledge of recording are presumptively confidential; content sensitivity does not determine confidentiality.",
+      "verbatim_capture_status": "PENDING"
+    },
+    {
+      "slug": "kearney_v_salomon_smith_barney",
+      "cite": "Kearney v. Salomon Smith Barney, Inc., 39 Cal.4th 95 (2006)",
+      "court": "Supreme Court of California",
+      "category": "interpretive",
+      "key_rule": "CIPA has extraterritorial reach; California all-party consent rule protects California residents even when the recording/intercepting party is located in a one-party consent state. Interceptor's location does not defeat California CIPA coverage when victim is a California resident.",
+      "verbatim_capture_status": "PENDING"
+    }
+  ],
+  "sim_swap_application": {
+    "primary_provision": "Cal. Penal Code §632.7 — cellular interception without all-party consent; no confidentiality showing required",
+    "secondary_provision": "Cal. Penal Code §631 — wire interception; reading communications in transit; disclosure of intercepted content",
+    "civil_remedy": "§637.2: $5,000 per violation (each intercepted communication = separate violation) OR 3× actual damages (discretionary trebling)",
+    "federal_stack": "Federal §2511 ($10,000 minimum) + California §632.7 ($5,000 minimum) = $15,000 minimum per interception event; federal also provides mandatory attorneys' fees",
+    "disclosure_chain": "§631(b): each person who received and used intercepted communications = separate violation; Christina Cerretani and others in the disclosure chain = $5,000 minimum per disclosure",
+    "extraterritoriality": "Kearney establishes California CIPA applies regardless of where McClaran was located when conducting SIM swap; Michael's California residency controls",
+    "sol": "CCP §335.1 (2 years from discovery); each interception event = separate violation with own SOL; discovery rule tolling for period victim unaware of interception",
+    "defendants": "Ryan McClaran (interceptor §632.7/§631); Christina Cerretani and others (§631(b) disclosure); AT&T (UCL §17200 predicate from enabling SIM swap)"
+  },
+  "outstanding_work": [
+    "Verbatim text capture: Cal. Penal Code §§630, 631, 632, 632(c), 632.7, 637.2",
+    "Verbatim opinion capture: Flanagan v. Flanagan, 27 Cal.4th 766",
+    "Verbatim opinion capture: Kearney v. Salomon Smith Barney, 39 Cal.4th 95",
+    "Identify specific intercepted communication events (call logs, phone records) for per-violation damages calculation",
+    "Research §632.7 as applied to SMS/text message interception (case law on whether SMS = communication transmitted between cellular phones)",
+    "Research Cal. Penal Code §502 (computer crime) as additional state-law parallel to CFAA for SIM swap computer access",
+    "Second-mouth witness review of CIPA analysis applied to SIM swap facts",
+    "Verify Kearney citation (39 Cal.4th 95) and Flanagan citation (27 Cal.4th 766) via primary sources before filing"
+  ],
+  "build_date": "2026-04-11",
+  "built_by": "Terminal A"
+}

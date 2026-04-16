@@ -1,0 +1,13 @@
+{
+  "case_slug": "carpenter_v_united_states",
+  "full_citation": "Carpenter v. United States, 484 US 19 (1987)",
+  "court": "United States Supreme Court",
+  "decided": "1987-11-16",
+  "docket": "86-422",
+  "result": "Affirmed by equally divided Court (4-4) on wire/mail fraud counts; unanimous on securities fraud under Rule 10b-5",
+  "holding_category": "interpretive — 'property' includes intangible confidential business information",
+  "statutes_interpreted": ["18 USC §1341 (mail fraud)", "18 USC §1343 (wire fraud)"],
+  "source_url": "https://supreme.justia.com/cases/federal/us/484/19/",
+  "verbatim_capture_status": "PENDING",
+  "build_date": "2026-04-11"
+}

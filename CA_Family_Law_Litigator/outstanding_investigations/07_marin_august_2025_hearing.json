@@ -1,0 +1,29 @@
+{
+  "investigation_id": "marin_august_2025_hearing",
+  "title": "Locate and obtain the Marin County 8/5/2025 hearing document in FL0002067",
+  "question": "What does the Marin County 8/5/2025 hearing record show? Did the judge actually refuse to let the steward speak, as project_familylaw_orchestration.md states? What was the formal basis for Marin assuming jurisdiction over Cole?",
+  "context": "Per project_familylaw_orchestration.md, Marin assumed jurisdiction over Cole at the 8/5/2025 hearing and the judge refused to let Michael speak. The hearing document is not yet in the case file per the existing memory. This is a load-bearing record for the UCCJEA jurisdictional challenge.",
+  "unblock_path": "Request the hearing transcript and minute order from Marin County Superior Court FL0002067. Also obtain the audio recording if available.",
+  "who_can_answer": "Marin County Superior Court clerk; court reporter",
+  "related_actors": [
+    "cerretani_christina",
+    "hillberg_ann"
+  ],
+  "related_cases": [
+    "FL0002067"
+  ],
+  "related_standards": [
+    "CA_FAMILY_CODE_3011_BEST_INTEREST",
+    "CA_FAM_3020_CUSTODY_POLICY"
+  ],
+  "priority": "HIGH",
+  "status": "READY_TO_SEND",
+  "filed_at_utc": "2026-04-08T19:25:00Z",
+  "prepared_on": "2026-04-15",
+  "deliverables": [
+    "outstanding_investigations/07_marin_august_2025_hearing/deliverables/outgoing_request.md",
+    "outstanding_investigations/07_marin_august_2025_hearing/deliverables/recipient_routing.md",
+    "outstanding_investigations/07_marin_august_2025_hearing/deliverables/response_tracker.md"
+  ],
+  "mailing_execution_status": "READY_TO_PRINT"
+}

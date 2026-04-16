@@ -1,0 +1,202 @@
+{
+  "standard_id": "CA_CONST_ART_I_SEC_1",
+  "version": "0.2.0-verbatim-and-steward-audited",
+  "filed_at_utc": "2026-04-08T09:23:00Z",
+  "deepened_at_utc": "2026-04-08T10:50:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "PROPOSED-DEEPENED — verbatim text extracted from leginfo (after refetch from displayexpandedbranch URL when single-section URL returned an empty JSF shell), full Article I context captured, steward case relevance audit completed. Awaiting second-mouth countersignature.",
+  "build_context": "Originally built 2026-04-08 as part of the breadth-first umbrella seeding pass (Umbrella 01 Authority first occupant). Initial leginfo URL returned an empty JSF view shell with no section content. Refetched from leginfo's displayexpandedbranch URL which returned the entire Article I in one HTML page (32 sections, 40 KB clean text after extraction). Deepened with verbatim text and steward case relevance audit.",
+
+  "umbrella_first_for_this_umbrella": "FIRST standard built under Umbrella 01 (Authority / Governing Law). The umbrella was previously empty.",
+
+  "primary_citation": {
+    "jurisdiction": "California",
+    "code": "California Constitution",
+    "section": "Article I, Section 1",
+    "popular_name": "Inalienable Rights Clause / California's Bill of Rights, Section 1",
+    "current_codification_url": "https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?lawCode=CONS&division=&title=&part=&chapter=&article=I",
+    "current_form_local_artifact": "current/cal_const_art1_full_leginfo.html (entire Article I, 32 sections)",
+    "verbatim_text_extracted_artifact": "current/cal_const_art1_full_leginfo.txt (entire Article I, 40 KB)",
+    "earlier_failed_fetch_artifact": "current/cal_const_art1_sec1_leginfo.html (single-section URL; returned empty JSF shell — kept as a doctrine-lesson artifact showing why the displayexpandedbranch URL is the reliable pattern for the California Constitution)"
+  },
+
+  "structural_location": {
+    "code": "California Constitution",
+    "article": "ARTICLE I — DECLARATION OF RIGHTS [SECTION 1 - SEC. 32]",
+    "article_history": "Article 1 adopted 1879 (as part of the 1879 California Constitution, the second California Constitution, replacing the 1849 first Constitution)",
+    "section_1_history_verbatim": "(Sec. 1 added Nov. 5, 1974, by Proposition 7. Resolution Chapter 90, 1974.)"
+  },
+
+  "verbatim_text": {
+    "extraction_source": "current/cal_const_art1_full_leginfo.txt",
+    "section_1_verbatim_full": "All people are by nature free and independent and have inalienable rights. Among these are enjoying and defending life and liberty, acquiring, possessing, and protecting property, and pursuing and obtaining safety, happiness, and privacy.",
+    "enumerated_rights_in_section_1": [
+      "Right to be free and independent (the natural-rights premise)",
+      "Inalienable rights (rights that cannot be alienated, surrendered, or taken away)",
+      "Right to enjoying life",
+      "Right to defending life",
+      "Right to enjoying liberty",
+      "Right to defending liberty",
+      "Right to acquiring property",
+      "Right to possessing property",
+      "Right to protecting property",
+      "Right to pursuing safety",
+      "Right to obtaining safety",
+      "Right to pursuing happiness",
+      "Right to obtaining happiness",
+      "Right to pursuing privacy (added 1974)",
+      "Right to obtaining privacy (added 1974)"
+    ],
+    "doctrinal_significance": "Section 1 is the textual root of every rights claim in California state court. It is California's natural-rights premise — the rights enumerated are not granted by government; they pre-exist government and cannot be alienated. The 1974 addition of 'privacy' is the textual foundation of California's distinctive constitutional privacy doctrine, which is more protective than federal privacy doctrine in several respects (Hill v. NCAA 1994, American Academy of Pediatrics v. Lungren 1997, and the entire CMIA framework rest on this clause)."
+  },
+
+  "amendment_history": [
+    {
+      "year": 1849,
+      "context": "California's FIRST Constitution included a Declaration of Rights as Article I. The 1849 Article I § 1 stated the inalienable-rights principle in a different form. California became a state in 1850 with this Constitution.",
+      "primary_source_status": "NOT YET FETCHED — would require the 1849 Constitution from California State Archives or state library historical collections"
+    },
+    {
+      "year": 1879,
+      "context": "California's SECOND Constitution (the current one, with many subsequent amendments) was adopted in 1879. Article I § 1 was carried forward with the inalienable-rights formulation but in pre-modern language.",
+      "primary_source_status": "NOT YET FETCHED"
+    },
+    {
+      "year": 1974,
+      "stats_citation": "Proposition 7 of November 5, 1974 (Resolution Chapter 90, 1974)",
+      "event": "MAJOR REVISION. Section 1 was REPLACED with the current text, including the explicit addition of 'privacy' to the enumerated rights. Proposition 7 was a comprehensive update of Article I that also affected many other sections. The right to privacy as an explicit California constitutional right dates from this 1974 amendment.",
+      "primary_source_status": "NOT YET FETCHED — Proposition 7 ballot pamphlet and resolution text would be in California State Archives"
+    }
+  ],
+
+  "doctrinal_descendant_section": {
+    "section": "Cal. Const. Art. I § 1.1 (added Nov. 8, 2022, by Proposition 1, Resolution Chapter 97, 2022, effective December 21, 2022)",
+    "verbatim": "The state shall not deny or interfere with an individual's reproductive freedom in their most intimate decisions, which includes their fundamental right to choose to have an abortion and their fundamental right to choose or refuse contraceptives. This section is intended to further the constitutional right to privacy guaranteed by Section 1, and the constitutional right to not be denied equal protection guaranteed by Section 7. Nothing herein narrows or limits the right to privacy or equal protection.",
+    "significance": "Section 1.1 (2022) explicitly cites Section 1 (1974) as the textual foundation for the constitutional right to privacy. This is the post-Dobbs California response to the federal retreat from substantive due process privacy doctrine: California voters in 2022 added an explicit reproductive-freedom provision that builds on the 1974 privacy amendment. The chain Section 1 (1974) → Section 1.1 (2022) is now in primary source."
+  },
+
+  "steward_case_relevance_audit": {
+    "purpose": "Map § 1 against the steward's case file. Section 1 is the foundational California rights provision and touches multiple aspects of the case: property rights (house sale fraud), privacy (medical records, surveillance, conservatorship), liberty (custody, conservatorship, freedom of movement), and safety (the entire pattern of harm).",
+    "audit_filed_at_utc": "2026-04-08T10:50:00Z",
+    "audit_filed_by": "Claude (assistant) at first-mouth level; steward review required",
+    "case_file_authorities_consulted": [
+      "project_familylaw_audit.md",
+      "project_house_sale_fraud.md",
+      "project_medical_fraud_timeline.md",
+      "project_conservatorship_discovery.md",
+      "project_conservatorship_breakthrough.md",
+      "project_june16_2023_timeline.md",
+      "project_communications_fraud.md"
+    ],
+    "rights_audits": [
+      {
+        "right": "Right to PROPERTY (acquiring, possessing, protecting)",
+        "what_the_constitution_provides": "All people have the inalienable right of acquiring, possessing, and protecting property. Section 1's property-rights guarantee predates and is independent of the federal 5th Amendment Takings Clause.",
+        "what_the_record_shows": "Per project_house_sale_fraud.md, the steward's interest in 2958 Honeysuckle was diminished from $465K equity to $109K through a process the steward documents as fraudulent. Per project_property_financial_fraud.md, additional property/financial losses are documented. Each loss is, structurally, a deprivation of the right to 'possessing and protecting' property under Section 1.",
+        "audit_question": "For each documented property loss, was the loss the result of state action (which would invoke Section 1 as a deprivation) or purely private fraud (which would not trigger constitutional protection but would still be actionable under tort and property law)? Where state action is implicated (court orders, recording chain failures, etc.), Section 1 is in play.",
+        "audit_status": "FLAGGED — bridges to project_house_sale_fraud.md and to the Cal. Civ. § 1213 standard built earlier today."
+      },
+      {
+        "right": "Right to PRIVACY (added 1974 by Prop 7)",
+        "what_the_constitution_provides": "All people have the inalienable right of pursuing and obtaining privacy. The 1974 amendment is the textual foundation of California's distinctive constitutional privacy doctrine.",
+        "what_the_record_shows": "Multiple branches of the steward's case implicate privacy: (1) medical records disclosed without authorization (per project_medical_fraud_timeline.md, bridges to CMIA § 56.10); (2) communications surveillance (per project_communications_fraud.md, SIM swap/clone interference); (3) conservatorship investigation that may have accessed private records without his knowledge (per project_conservatorship_discovery.md, bridges to CMIA § 56.10(c)(12)).",
+        "audit_question": "For each documented privacy intrusion, was it the result of state action or state-actor coordination with private parties? Where state action is implicated, Section 1's privacy clause provides a CALIFORNIA constitutional basis (in addition to any federal claims) for redress.",
+        "audit_status": "CRITICAL — Section 1's privacy clause is the steward's strongest California constitutional anchor. It is more protective than federal privacy doctrine (Hill v. NCAA test is broader than federal substantive-due-process privacy)."
+      },
+      {
+        "right": "Right to LIBERTY (enjoying and defending)",
+        "what_the_constitution_provides": "All people have the inalienable right to enjoying and defending liberty.",
+        "what_the_record_shows": "Per project_conservatorship_discovery.md and project_conservatorship_breakthrough.md, the steward has discovered evidence of long-standing conservatorship arrangements that potentially constrain his liberty in ways he was not aware of. Per project_june16_2023_timeline.md, the June 16 incident involved physical contact and detention. Per project_familylaw_orchestration.md, custody and family-law processes constrained his liberty across the 16-year case period.",
+        "audit_question": "For each documented liberty constraint, what was the legal basis? Where the basis is a court order, was the order entered with proper procedural protections? Where the basis is alleged but not formal (e.g., a covert conservatorship), Section 1's liberty clause is invoked at its most fundamental — government cannot constrain liberty without due process.",
+        "audit_status": "CRITICAL — bridges to procedural-due-process claims under Section 7 (equal protection / due process) and to the federal § 1983 complaint under 14th Amendment substantive due process."
+      },
+      {
+        "right": "Right to SAFETY (pursuing and obtaining)",
+        "what_the_constitution_provides": "All people have the inalienable right of pursuing and obtaining safety.",
+        "what_the_record_shows": "The entire case file documents a sustained pattern of harm to the steward and his ability to pursue safety. The 'safety' right under Section 1 is unusual in that it is enumerated as a constitutional guarantee, not just a policy preference.",
+        "audit_question": "Has any state action affirmatively interfered with the steward's pursuit of safety? Has any state actor failed to act in circumstances where the safety guarantee creates an affirmative duty?",
+        "audit_status": "FLAGGED — California's affirmative-safety doctrine is contested but live; this is an area where the steward's case may push doctrinal frontiers."
+      },
+      {
+        "right": "INALIENABLE rights — the structural framing",
+        "what_the_constitution_provides": "All people are by nature free and independent AND HAVE INALIENABLE RIGHTS. The word 'inalienable' is doctrinally significant: these rights cannot be surrendered, contracted away, or extinguished by government action. They pre-exist government and constrain it.",
+        "what_the_record_shows": "If a covert conservatorship has constrained the steward's liberty without his knowledge (per project_conservatorship_breakthrough.md), the inalienability framing is structurally important: a conservatorship the subject doesn't know about cannot be a voluntary surrender of the underlying liberty rights, and any 'consent' inferred from non-objection is structurally invalid because the subject couldn't object to what he didn't know.",
+        "audit_question": "Have any of the steward's Section 1 rights been treated as alienable by any state actor? The natural-rights premise of Section 1 forecloses that treatment.",
+        "audit_status": "CRITICAL — doctrinal framing for the entire constitutional theory of the case."
+      }
+    ],
+    "audit_summary": "THREE CRITICAL audit items: (1) the privacy clause bridges to medical fraud / conservatorship / surveillance branches of the case; (2) the liberty clause bridges to custody / conservatorship / June 16 detention branches; (3) the inalienability framing structurally forecloses any 'consent' theory for rights the steward didn't know were being implicated. Section 1 is the constitutional foundation under which every California-state-court rights claim in the steward's case can be brought. The 1974 addition of 'privacy' is the most consequential single amendment — it created the textual basis for California's distinctive privacy doctrine and is now the foundation of the steward's medical-privacy and conservatorship-related claims."
+  },
+
+  "umbrellas": [
+    "Authority / Governing Law (Umbrella 01) — primary",
+    "Privacy / Information Stewardship (Umbrella 10) — secondary, because Section 1's 1974 privacy amendment is the textual foundation of California privacy doctrine",
+    "Property / Title / Ownership (Umbrella 12) — secondary, because Section 1 enumerates property as an inalienable right",
+    "Family / Personal Status (Umbrella 11) — overlap, because liberty and privacy implicate family-law and conservatorship matters"
+  ],
+
+  "owner_citizen": {
+    "primary": "California Constitutional Law Specialist",
+    "ownership_note": "Constitutional Law Specialist as canonical owner. Section 1 is the textual root of every California-jurisdiction rights claim and therefore foundational to every Citizen who litigates rights in California courts."
+  },
+
+  "triple_constraint_test_results": {
+    "governing_guidelines": {
+      "passes": true,
+      "evidence": "Cal. Const. Art. I § 1 located at official California Legislative Information (after refetch from displayexpandedbranch URL); binding California constitutional authority confirmed; verbatim text extracted to current/cal_const_art1_full_leginfo.txt"
+    },
+    "standards_of_creation": {
+      "passes": true,
+      "evidence": "Single substantive sentence enumerating the inalienable rights; well-formed; properly traced to its 1974 Prop 7 enactment and ultimately to the 1879 California Constitution."
+    },
+    "standard_of_care": {
+      "passes": "STRONG-PARTIAL",
+      "current_layer": "VERIFIED — current form fetched from leginfo displayexpandedbranch, hashed (sha256: 0a1e0b2083166330c1e54653965b47d5b90345149c7f76e37d7a37f73f28d37d), and verbatim-extracted (entire Article I, 32 sections)",
+      "evolution_layer": "PARTIAL — 1974 Prop 7 amendment identified at the manifest level (Resolution Chapter 90, 1974); 1879 Article I adoption identified; 1849 antecedent identified; primary-source documents for none of these yet fetched",
+      "origin_layer": "IDENTIFIED — 1849 Constitution / 1879 Constitution / 1974 Prop 7 chain is recorded; primary sources not yet fetched"
+    }
+  },
+
+  "five_layer_bar_status": {
+    "rule": "PRESENT — verbatim text extracted with full enumerated-rights breakdown",
+    "reasoning": "STRONG — Section 1 is the natural-rights premise of California constitutional law. The reasoning is the entire natural-rights tradition (Locke, Blackstone, the Declaration of Independence) imported into California state constitutional doctrine. The 1974 addition of privacy was specifically motivated by post-Watergate, post-Roe concerns about government surveillance and intrusion into personal life — the Prop 7 ballot argument materials would be the primary-source evidence for this reasoning.",
+    "historical_loss": "OUTSTANDING — the documented harms that drove the 1974 privacy amendment (Watergate, government surveillance scandals, the chilling effect on personal autonomy) are well-known but not yet primary-source documented. The 1879 Constitution itself was driven by its own historical losses (the Workingmen's Party's grievances against the railroad and corporate monopolies that had captured California politics under the 1849 Constitution).",
+    "cross_references": "PARTIAL — Section 1 connects to every other section of Article I (32 sections in the Declaration of Rights), to Article XX § 22 (oath of office binding officers to the Constitution), and to the entire body of California constitutional case law. § 1.1 (2022 reproductive freedom) explicitly cites § 1 as its textual foundation.",
+    "verifiable_provenance": "PRESENT for current form (the entire Article I is captured in one extraction); PARTIAL for evolution layers"
+  },
+
+  "two_witness_status": {
+    "first_mouth_proposer": "Claude (assistant) under steward direction (Michael Hartmann), 2026-04-08",
+    "second_mouth_witness": "NONE — not yet countersigned",
+    "publishable_to_corpus": false,
+    "status": "PROPOSED-DEEPENED",
+    "audit_witness_required": "The three CRITICAL audit items (privacy, liberty, inalienability framing) are the constitutional theory of the steward's California case. Steward review with counsel required for the constitutional claims that will be brought in any California state court proceeding."
+  },
+
+  "files": {
+    "origin": [],
+    "evolution": [],
+    "current": [
+      "current/cal_const_art1_full_leginfo.html",
+      "current/cal_const_art1_full_leginfo.txt",
+      "current/cal_const_art1_sec1_leginfo.html",
+      "current/cal_const_art1_sec1_justia.html"
+    ],
+    "context": [],
+    "manifest": "manifest.json",
+    "provenance": "provenance.json"
+  },
+
+  "outstanding_work": [
+    "Locate and fetch the 1849 California Constitution (first Constitution) from California State Archives",
+    "Locate and fetch the 1879 California Constitution as originally adopted",
+    "Locate and fetch Proposition 7 (Nov. 5, 1974) ballot pamphlet, ballot argument, and Resolution Chapter 90 of 1974",
+    "Locate and fetch Proposition 1 (Nov. 8, 2022) ballot pamphlet and Resolution Chapter 97 of 2022 (the reproductive freedom amendment that added § 1.1)",
+    "Document the 1974 historical-loss layer — Watergate, post-Roe surveillance concerns, and the specific Prop 7 ballot argument materials",
+    "Document the 1879 historical-loss layer — Workingmen's Party grievances, railroad/monopoly capture, the Sandlot agitation that drove the Constitutional Convention",
+    "Capture leading California Supreme Court cases applying § 1 (Hill v. NCAA 1994, American Academy of Pediatrics v. Lungren 1997, White v. Davis 1975) as evolution-layer interpretive artifacts",
+    "STEWARD: For each branch of the case file, identify which Section 1 right is implicated and what state action is alleged. Section 1 provides a CALIFORNIA constitutional anchor distinct from federal claims under the federal § 1983 complaint.",
+    "STEWARD: Specifically resolve the inalienability framing for the conservatorship discovery — a covert conservatorship is structurally incompatible with the inalienability doctrine because the subject cannot consent to what he doesn't know.",
+    "Obtain second-mouth countersignature on the standard"
+  ]
+}

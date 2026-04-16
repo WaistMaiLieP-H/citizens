@@ -1,0 +1,69 @@
+{
+  "path_anchors": {
+    "_comment": "Symbolic anchors.",
+    "familylaw":    "/home/vernenlegal/FamilyLaw",
+    "nonfamilylaw": "/home/vernenlegal/NonFamilyLaw",
+    "citizens":     "/home/vernenlegal/citizens"
+  },
+
+  "citizen": "CA_Medical_Malpractice_Litigator",
+  "tether_version": "0.1.0-initial",
+  "filed_at_utc": "2026-04-10T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "purpose": "Explicit binding manifest for the CA_Medical_Malpractice_Litigator Citizen. Built to facilitate filing suits on the eight medical cases in the steward's CaseList, with SOL-critical SIRVA discovery-rule focus.",
+
+  "blueprints_inherited": {
+    "from": [
+      "${citizens}/ADAM/dossier.md",
+      "${citizens}/ADAM/skills.md",
+      "${citizens}/EVE/dossier.md",
+      "${citizens}/EVE/skills.md"
+    ],
+    "blueprints": [
+      "Triple Constraint (Governing Guidelines / Standards of Creation / Standard of Care)",
+      "Five-Layer Bar (Rule + Reasoning + Historical Loss + Cross-References + Verifiable Provenance)",
+      "Two-Witness Rule (no artifact published without a second mouth)",
+      "Hash Chain + Anchor (every artifact hashed at production with provenance)"
+    ]
+  },
+
+  "standards": {
+    "bound_directly": [
+      {"standard_id": "CCP_340_5_MEDICAL_SOL", "popular_name": "MICRA SOL — one-year/three-year dual-trigger", "manifest_path": "standards/ccp_340_5_medical_sol/manifest.json", "status": "PROPOSED", "build_date": "2026-04-10"},
+      {"standard_id": "CIV_3333_2", "popular_name": "MICRA noneconomic damages cap (AB 35 reform)", "manifest_path": "standards/civ_3333_2/manifest.json", "status": "PROPOSED", "build_date": "2026-04-10"},
+      {"standard_id": "CIV_3333_1", "popular_name": "MICRA collateral source rule abrogation", "manifest_path": "standards/civ_3333_1/manifest.json", "status": "PROPOSED", "build_date": "2026-04-10"},
+      {"standard_id": "CCP_364", "popular_name": "MICRA 90-day pre-suit notice", "manifest_path": "standards/ccp_364/manifest.json", "status": "PROPOSED", "build_date": "2026-04-10"},
+      {"standard_id": "BPC_2234", "popular_name": "Medical Board unprofessional conduct", "manifest_path": "standards/bp_2234_medical_board/manifest.json", "status": "PROPOSED", "build_date": "2026-04-10"},
+      {"standard_id": "BPC_6146", "popular_name": "MICRA attorney fee limits (sliding scale)", "manifest_path": "standards/bp_6146_micra_fees/manifest.json", "status": "PROPOSED", "build_date": "2026-04-10"},
+      {"standard_id": "SIRVA_DOCTRINE", "popular_name": "Shoulder Injury Related to Vaccine Administration case-law chain", "manifest_path": "standards/sirva_doctrine/manifest.json", "status": "PROPOSED", "build_date": "2026-04-10"},
+      {"standard_id": "CCP_425_13", "popular_name": "§425.13 — punitive damages gate against healthcare providers", "manifest_path": "standards/ccp_425_13_punitive_gate/manifest.json", "status": "PROPOSED", "build_date": "2026-04-10"},
+      {"standard_id": "CIV_3294_PUNITIVE_DAMAGES", "popular_name": "Civil Code §3294 — malice, oppression, fraud; 'despicable' threshold", "manifest_path": "standards/civ_3294_punitive_damages/manifest.json", "status": "PROPOSED", "build_date": "2026-04-11"}
+    ],
+    "_note": "Standards added as each is built to full five-layer depth. QUEUED → PROPOSED → WITNESSED-BY-STEWARD."
+  },
+
+  "domain": {
+    "jurisdiction": "California state courts for MICRA-governed professional negligence claims. Federal preemption (e.g., National Childhood Vaccine Injury Act for covered vaccines) is tracked and cross-referenced to US_Federal Citizens.",
+    "subject_matter": "Medical professional negligence (physicians, nurses, hospitals, clinics, pharmacists), informed-consent doctrine, SIRVA (Shoulder Injury Related to Vaccine Administration) litigation strategy, MICRA procedural and damages rules, medical-board reporting and parallel regulatory remedies, collateral-source and periodic-payment reforms.",
+    "exclusions": [
+      "Medical privacy (HIPAA/CMIA) — CA_Medical_Privacy_Officer (already built)",
+      "Disability benefits adjudication (SSA, ERISA LTD) — future US_Federal_Social_Security_Litigator / US_Federal_ERISA_Litigator",
+      "Civil rights claims against public hospitals — CA_Civil_Rights_Litigator / US_Federal_Civil_Rights_Litigator cross-reference",
+      "Family law — CA_Family_Law_Litigator (other terminal)"
+    ]
+  },
+
+  "case_bindings": {
+    "_comment": "CaseList entries this Citizen is built to serve.",
+    "primary": [
+      {"case_folder": "${nonfamilylaw}/11-21_Spine_Surgery_Fraud", "summary": "Dr. Wiseman spine surgery $35K, medical necessity disputed, 4/20/2022 failed surgery", "primary_causes_of_action": ["Professional negligence (CCP §340.5)", "Lack of informed consent", "Battery (unconsented touching)", "Fraudulent concealment"], "sol_posture": "Discovery rule — trigger dates documented in folder"},
+      {"case_folder": "${nonfamilylaw}/04-22_Shoulder_Surgery", "summary": "SIRVA discovered 3/18/2026 — COVID vaccine ~11/2021 Walgreens Brentwood, failed surgery Dr. Wiseman 4/20/2022", "primary_causes_of_action": ["SIRVA professional negligence against administering pharmacist/clinic", "Professional negligence against surgeon for unnecessary arthroscopic intervention", "Lack of informed consent"], "sol_posture": "DISCOVERY RULE URGENT — §340.5 one-year clock from 3/18/2026 discovery. NCVIA vaccine injury federal preemption analysis required (Bruesewitz test)."},
+      {"case_folder": "${nonfamilylaw}/Dr.Wiita", "summary": "Dr. Wiita orthopedic matter", "primary_causes_of_action": ["Professional negligence", "Informed consent"], "sol_posture": "Discovery rule analysis pending"},
+      {"case_folder": "${nonfamilylaw}/02_MuirOrtho_2020-03-06", "summary": "Muir Orthopedic 2020-03-06 encounter", "primary_causes_of_action": ["Professional negligence", "Records authentication"], "sol_posture": "Outer 3-year SOL may apply; fraudulent-concealment tolling to be evaluated"},
+      {"case_folder": "${nonfamilylaw}/03_BlueShield_2021-10", "summary": "Blue Shield 2021-10 — bad-faith insurance claim adjacent to MICRA cases", "primary_causes_of_action": ["Bad faith (cross-ref CA_Civil_Litigator)", "Unfair claim practices (Ins Code §790.03)", "Intertwined with MICRA underlying claims"], "sol_posture": "Insurance bad-faith SOL (2 years, CCP §339 or policy terms)"},
+      {"case_folder": "${nonfamilylaw}/04_GoldenState_2022-01-04", "summary": "Golden State 2022-01-04 medical encounter", "primary_causes_of_action": ["Professional negligence"], "sol_posture": "Discovery rule"},
+      {"case_folder": "${nonfamilylaw}/06-14_Bilateral_Ankles", "summary": "Bilateral ankles encounter", "primary_causes_of_action": ["Professional negligence", "Records authentication"], "sol_posture": "TBD"},
+      {"case_folder": "${nonfamilylaw}/2022-2024_(SSA&DoDDsFraud.Docs)", "summary": "SSA/DDS disability denial fraud with phantom contact — medical evidence overlay", "primary_causes_of_action": ["Medical-evidence component of disability fraud case (cross-ref to future SSA Citizen)"], "sol_posture": "Administrative exhaustion; §405(g) 60-day window from final decision"}
+    ]
+  }
+}

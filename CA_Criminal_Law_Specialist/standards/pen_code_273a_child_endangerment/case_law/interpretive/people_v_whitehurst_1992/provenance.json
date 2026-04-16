@@ -1,0 +1,19 @@
+{
+  "case_name": "People v. Whitehurst",
+  "citation": "9 Cal.App.4th 1045, 11 Cal.Rptr.2d 743",
+  "year": 1992,
+  "court": "California Court of Appeal, First Appellate District",
+  "status": "PROPOSED",
+  "verification_status": "UNVERIFIED — primary source text not yet captured",
+  "primary_source_url": "https://scholar.google.com/scholar_case?q=people+v+whitehurst+9+cal.app.4th+1045",
+  "alternative_sources": [
+    "courts.ca.gov",
+    "CourtListener",
+    "Westlaw (subscription required)"
+  ],
+  "built_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "built_at_utc": "2026-04-12",
+  "html_sha256": null,
+  "verification_note": "Holding content derived from published citation and doctrinal analysis. Verify against primary source before any filing reliance.",
+  "steward_review_required": true
+}

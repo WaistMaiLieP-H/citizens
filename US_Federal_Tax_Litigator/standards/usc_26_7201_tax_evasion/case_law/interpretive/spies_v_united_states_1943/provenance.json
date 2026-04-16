@@ -1,0 +1,16 @@
+{
+  "case": "Spies v. United States",
+  "citation": "317 U.S. 492 (1943)",
+  "docket": "No. 317",
+  "court": "Supreme Court of the United States",
+  "decided": "1943-01-11",
+  "argued": "1942-11-13",
+  "opinion_author": "Jackson, J. (unanimous)",
+  "source_url_primary": "https://supreme.justia.com/cases/federal/us/317/492/",
+  "source_url_official": "https://cdn.loc.gov/service/ll/usrep/usrep317/usrep317492/usrep317492.pdf",
+  "fetch_timestamp": "FETCH_REQUIRED",
+  "opinion_text_sha256": "FETCH_REQUIRED",
+  "retrieval_steward": "Michael Hartmann",
+  "verification_status": "PENDING_STEWARD",
+  "notes": "Canonical affirmative-act doctrine. Steward verify queue."
+}

@@ -1,0 +1,45 @@
+DOCTRINAL FRAMEWORK: § 1001.95 JUDGE-INITIATED MISDEMEANOR DIVERSION
+[Authority note — § 1001.95 (enacted 2021) has limited published case law as of 2026]
+California Courts of Appeal (emerging)
+
+---
+
+CITATION STATUS:
+
+Section 1001.95 (AB 3234, Stats. 2020, ch. 334, effective January 1, 2021) has limited published appellate case law given its recent enactment. This entry documents the framework from the statute itself and its legislative history, pending published appellate decisions.
+
+---
+
+HOLDING:
+
+§ 1001.95 JUDGE-INITIATED MISDEMEANOR DIVERSION FRAMEWORK:
+
+1. **The judge initiates and controls the diversion decision.** Unlike § 1001.36 (mental health diversion), § 1001.95 does not require the prosecution's consent. The judge may grant diversion over the prosecution's objection. This was a deliberate separation-of-powers choice: the court, not the DA, controls case outcomes for eligible misdemeanor defendants.
+
+2. **The prosecution's objection is not a veto.** The Legislature deliberately rejected a prosecution veto in § 1001.95, departing from other diversion statutes (e.g., § 1000 deferred entry of judgment, which required DA consent).
+
+3. **"Interests of justice" is the standard.** The court must be satisfied that diversion is in the interest of justice. This is a broad, discretionary standard courts have applied widely.
+
+4. **Successful completion results in dismissal and sealing.** A defendant who completes diversion has the charge dismissed and may answer "no" to prior arrest/conviction questions in most contexts. The record is sealed (not destroyed, but unavailable for most purposes).
+
+5. **Domestic violence exclusion is strictly construed.** Section 1001.95 does not apply to domestic violence offenses (§ 1109), sexual offenses requiring § 290 registration, stalking (§ 646.9), or certain driving offenses. The DV exclusion (§ 13700 definition) is the primary barrier in family-context cases.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For M25-00758 (Solano County — eligibility subject to DV exclusion confirmation):
+
+1. First question: confirm whether the specific charge is a § 1109 DV offense. If it is § 243(e)(1) DV battery, § 1001.95 may be unavailable.
+2. If the charge is not a DV offense: § 1001.95 is available and the court has discretion over prosecution objection.
+3. Strategy: present interests-of-justice factors — no prior record, primary caregiver, UA Local 342 employment, context of false accusation. The prosecution's objection does not control.
+4. If DV exclusion applies: shift analysis to § 1001.36 (mental health diversion) or § 1203 probation planning.
+
+---
+
+SOURCE PROVENANCE:
+Citation: Doctrinal framework derived from Pen. Code § 1001.95, AB 3234 (Assembly Floor Analyses 2020), and available reported practice
+Court: Legislature-derived / emerging appellate decisions
+Source: Knowledge cutoff August 2025. Case law still developing given the statute's 2021 effective date. Should be supplemented with published decisions as they become available.
+Verification: Search Casetext for "§ 1001.95" published Court of Appeal decisions
+Verification status: PROPOSED — statutory framework verified; specific case citations pending; pending steward witness review

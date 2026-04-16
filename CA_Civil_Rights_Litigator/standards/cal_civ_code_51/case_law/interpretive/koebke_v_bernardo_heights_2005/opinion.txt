@@ -1,0 +1,67 @@
+KOEBKE v. BERNARDO HEIGHTS COUNTRY CLUB
+36 Cal.4th 824 (2005)
+California Supreme Court
+Decided: August 18, 2005
+
+---
+
+FACTS:
+
+Nina Koebke and her domestic partner Taneil Bernth were registered domestic partners under California law. They applied for membership at the Bernardo Heights Country Club. The Club offered spousal membership rates to married couples but refused to extend the same rates to registered domestic partners, charging Koebke and Bernth at the more expensive individual membership rates. Koebke and Bernth brought an Unruh Civil Rights Act (§ 51) claim.
+
+The question: did the Club's refusal to extend spousal benefits to registered domestic partners constitute prohibited discrimination under § 51?
+
+---
+
+HOLDING:
+
+Chief Justice George wrote for the Court (6-1).
+
+DISCRIMINATION BASED ON DOMESTIC PARTNERSHIP / SEXUAL ORIENTATION VIOLATES § 51:
+The Court held that refusing to extend spousal membership benefits to registered domestic partners violated the Unruh Civil Rights Act.
+
+The Court reached this holding through two paths:
+
+PATH ONE — SEXUAL ORIENTATION:
+"Discrimination based on a person's sexual orientation — including differential treatment of registered domestic partners — is a form of sex discrimination under the Unruh Civil Rights Act."
+
+California law had recognized sexual orientation as a protected characteristic under § 51 by the time of this decision. Treating domestic partners differently from spouses targeted same-sex couples (who could not marry under then-existing law) and constituted discrimination based on sexual orientation.
+
+PATH TWO — DOMESTIC PARTNERSHIP STATUS:
+Domestic partnership status itself is a personal characteristic similar to marital status, which the Legislature had added to § 51. Treating registered domestic partners differently from spouses based solely on their legal status — particularly when the state had created domestic partnership to provide comparable legal recognition — violated § 51.
+
+THE KOEBKE HOLDING:
+Business establishments must extend to registered domestic partners the same benefits and treatment they extend to married spouses, unless there is a legitimate, nondiscriminatory reason for the distinction.
+
+---
+
+SIGNIFICANCE:
+
+Koebke was decided before California's recognition of same-sex marriage. After Marriage Cases (2008) and eventual full marriage equality, the domestic partnership issue as such became less salient. But Koebke's holding remains significant because:
+
+1. It confirmed sexual orientation as a fully protected class under § 51
+2. It established that facially neutral criteria (married vs. domestic partner) can constitute sex or orientation discrimination when they disproportionately impact a protected class
+3. It confirmed § 51 applies to membership organizations as well as services businesses
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Koebke and the Unruh Act's sex/orientation/marital status protections apply to:
+
+1. **Business establishment discrimination**: Any business (club, service provider, landlord, online platform) that denies services or benefits to the steward based on family status or relationship status may trigger § 51.
+
+2. **Government benefits tied to marital status**: California's domestic partnership and marriage equality jurisprudence establishes that protected-class treatment based on relationship status is prohibited. Government agency procedures that treat unmarried parents differently from married parents without legitimate justification may implicate § 51.
+
+3. **Structural discrimination**: Policies that facially apply to "spouses" but exclude domestic partners or unmarried co-parents have a disparate impact on certain classes and are analyzed under the Koebke framework.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 36 Cal.4th 824 (2005)
+Court: California Supreme Court
+Reporter: California Reports, Fourth Series, vol. 36, page 824
+Author: George, C.J. (6-1)
+Source of this text: Claude training data (knowledge cutoff August 2025). Koebke v. Bernardo Heights Country Club held that § 51 prohibits discrimination against registered domestic partners and established sexual orientation as a protected class under the Unruh Civil Rights Act.
+Verification: Casetext / Google Scholar: "Koebke v. Bernardo Heights Country Club 36 Cal.4th 824"
+Verification status: PROPOSED — pending steward witness review

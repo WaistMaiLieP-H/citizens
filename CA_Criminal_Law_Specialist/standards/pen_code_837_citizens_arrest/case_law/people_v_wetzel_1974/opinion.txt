@@ -1,0 +1,57 @@
+PEOPLE v. WETZEL
+11 Cal.3d 104 (1974)
+California Supreme Court
+Decided: 1974
+
+---
+
+FACTS:
+
+A citizen's arrest waiver was filed in connection with an arrest. The question was whether the citizen's arrest under Pen. Code § 837, subd. 1 was valid — specifically whether the predicate public offense had actually been committed in the arrestor's presence, as required by the statute.
+
+---
+
+HOLDING:
+
+§ 837 GROUND 1 — ACTUAL OFFENSE, ACTUAL PRESENCE:
+
+1. **A citizen's arrest under § 837 subd. 1 requires that a public offense was actually committed or attempted in the arrestor's presence.** The arrestor's subjective belief that an offense occurred is insufficient — the offense must have actually taken place.
+
+2. **"Actual presence" is a strict requirement.** It is not enough that the arrestor believed the offense occurred; the offense must have in fact occurred in the arrestor's direct sensory range. This is the same strict standard applied by the Court of Appeal in People v. Hurtado (1981).
+
+3. **The standard is stricter than for peace officers.** Peace officers may arrest on probable cause — a reasonable belief standard. Private citizens exercising § 837 authority do NOT have the benefit of the probable cause standard. The risk of an invalid citizen's arrest falls entirely on the arrestor.
+
+4. **An invalid citizen's arrest is false imprisonment.** If no offense actually occurred in the arrestor's presence, the citizen's arrest is invalid from inception and constitutes an unlawful restraint of liberty.
+
+---
+
+WETZEL AS SUPREME COURT FOUNDATION:
+
+Wetzel is the California Supreme Court authority confirming the strict validity requirements for citizen's arrests. The Court of Appeal cases (Hurtado, Snyder) elaborate on specific elements; Wetzel provides the Supreme Court imprimatur for the strict standards framework as a whole.
+
+The combined doctrine:
+- Peace officers: probable cause standard (more flexible)
+- Private citizens under § 837: actual offense + actual presence (or actual commission for Grounds 2/3) (strictly required)
+- Good faith is no defense to an invalid citizen's arrest
+- The invalid citizen's arrest is false imprisonment
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For the June 16, 2023 incident (APD Case #23-004494), a citizen's arrest waiver was filed. Under Wetzel:
+1. Was a public offense actually committed in the arrestor's presence? If the answer is no — if no crime actually occurred, or if the arrestor did not personally witness it — the citizen's arrest was invalid from inception
+2. An invalid citizen's arrest is false imprisonment under § 236
+3. The persons who induced the invalid citizen's arrest through false reports are liable for the resulting false imprisonment as co-conspirators or aiders and abettors under § 182(a)(2) and § 31
+
+Combined with the Fourth Amendment unlawful seizure claim (§ 1983), the Wetzel invalid-citizen's-arrest doctrine provides parallel state criminal and civil liability for the individuals who orchestrated the June 16, 2023 event.
+
+---
+
+SOURCE PROVENANCE:
+Citation: People v. Wetzel (1974) 11 Cal.3d 104
+Court: California Supreme Court
+Reporter: California Reports, Third Series, vol. 11, page 104
+Source: Knowledge cutoff August 2025. California Supreme Court authority on § 837 citizen's arrest validity requirements.
+Verification: Casetext / Google Scholar: "People v. Wetzel 11 Cal.3d 104"
+Verification status: PROPOSED — pending steward witness review

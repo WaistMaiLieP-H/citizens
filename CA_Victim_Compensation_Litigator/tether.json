@@ -1,0 +1,58 @@
+{
+  "path_anchors": {
+    "familylaw": "/home/vernenlegal/FamilyLaw",
+    "nonfamilylaw": "/home/vernenlegal/NonFamilyLaw",
+    "citizens": "/home/vernenlegal/citizens"
+  },
+  "citizen": "CA_Victim_Compensation_Litigator",
+  "tether_version": "0.2.0",
+  "filed_at_utc": "2026-04-10T22:15:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "purpose": "The CA_Victim_Compensation_Litigator carries the California Victim Compensation Board (CalVCB) statutory framework, regulations, hearing and appeal procedure, and constitutional overlay (Cal. Const. Art. I § 28, 'Marsy's Law'). Filed 2026-04-10 to support the Hartmann CalVCB appeal (Application A25-10117946) following a 13 FAIL / 11 PASS audit of the initial determination.",
+  "blueprints_inherited": {
+    "blueprints": ["Triple Constraint", "Five-Layer Bar", "Two-Witness Rule", "Hash Chain + Anchor"]
+  },
+  "standards": {
+    "bound_directly": [
+      {"standard_id": "CAL_GOV_13950", "popular_name": "CalVCB purpose — Restitution Fund compensation framework", "status": "WITNESSED-BY-STEWARD", "built": "2026-04-10"},
+      {"standard_id": "CAL_GOV_13955", "popular_name": "CalVCB eligibility requirements", "status": "WITNESSED-BY-STEWARD", "built": "2026-04-10"},
+      {"standard_id": "CAL_GOV_13956", "popular_name": "CalVCB grounds for denial", "status": "WITNESSED-BY-STEWARD", "built": "2026-04-10"},
+      {"standard_id": "CAL_GOV_13957", "popular_name": "CalVCB compensation scope and caps", "status": "WITNESSED-BY-STEWARD", "built": "2026-04-10"},
+      {"standard_id": "CAL_GOV_13959", "popular_name": "CalVCB hearing and appeal procedure", "status": "WITNESSED-BY-STEWARD", "built": "2026-04-10"},
+      {"standard_id": "CAL_CONST_ART1_28", "popular_name": "Marsy's Law — crime victim constitutional rights", "status": "WITNESSED-BY-STEWARD", "built": "2026-04-10"},
+      {"standard_id": "CAL_GOV_13960", "popular_name": "Judicial review of CalVCB decisions — writ of mandate (§ 13960 / CCP § 1094.5)", "status": "WITNESSED-BY-STEWARD", "built": "2026-04-11"},
+      {"standard_id": "CAL_GOV_13953", "popular_name": "Application timeliness — 7-year filing deadline with discovery rule", "status": "WITNESSED-BY-STEWARD", "built": "2026-04-11"}
+    ],
+    "cross_referenced": [
+      {"standard_id": "CAL_GOV_13953", "popular_name": "Application timeliness requirements", "status": "TO_BUILD", "priority": "MEDIUM"},
+      {"standard_id": "CAL_GOV_13957_2", "popular_name": "Medical expense reimbursement caps", "status": "TO_BUILD", "priority": "LOW"},
+      {"standard_id": "CAL_GOV_13957_5", "popular_name": "Loss of income compensation", "status": "TO_BUILD", "priority": "LOW"},
+      {"standard_id": "CCR_TITLE_2_649", "popular_name": "CalVCB regulatory framework (2 CCR § 649 et seq.)", "status": "TO_BUILD", "priority": "HIGH"}
+    ]
+  },
+  "domain": {
+    "jurisdiction": "California (state administrative / constitutional)",
+    "subject_matter": "Victim compensation law: CalVCB statutory framework (Gov. Code §§ 13950-13969), Restitution Fund administration, eligibility determination, denial grounds, hearing and appeal procedure, constitutional crime-victim rights (Cal. Const. Art. I § 28, Marsy's Law), Board regulations (2 CCR § 649 et seq.)",
+    "steward_relevance": "Application A25-10117946: Hartmann CalVCB claim relating to June 16, 2023 APD incident (criminal case 04-23-01959). Prior audit produced 13 FAIL / 11 PASS findings including victim advocacy failures, shortened deadlines, single-source denial. Appeal ready to file; this Citizen provides the legal framework for the appeal."
+  },
+  "litigation_theory": {
+    "primary_claims": [
+      "Appeal under Gov. Code § 13959 of staff denial of compensation",
+      "Marsy's Law right violations (Cal. Const. Art. I § 28(b)) against CalVCB procedural failures",
+      "Due process violations (shortened deadlines, single-source denial without opportunity to respond)",
+      "Victim advocacy failure claims (failure to provide advocacy required by CalVCB regulations)"
+    ],
+    "procedural_posture": {
+      "application_number": "A25-10117946",
+      "initial_determination": "Denial (in whole or part) by CalVCB staff",
+      "audit_result": "13 FAIL / 11 PASS findings against CalVCB's handling of the application",
+      "next_step": "Contest the staff recommendation to deny → hearing under § 13959 → reconsideration under § 13959(i) if needed → writ of mandate in superior court if needed"
+    }
+  },
+  "build_claim": {
+    "claimed_by": "Terminal B",
+    "claimed_in": "/home/vernenlegal/citizens/_BUILD_CLAIMS.md",
+    "claimed_at": "2026-04-10",
+    "coordination_status": "Terminal A listed this as 'future CA_Victim_Compensation_Litigator'; Terminal B claimed with no collision."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "citizen_id": "CA_Forensic_Document_Specialist",
+  "version": "1.0.0",
+  "domain": "California evidence law — document authentication (EVID §§1400-1402), business records exception (§1271), secondary evidence rule (§1521), expert qualification (§720)",
+  "primary_cases": [
+    "Dr. Wiita MC-350 absence — court-ordered CST evaluation not on mandatory Judicial Council form; absence = §1401 authentication failure + §1402 burden shifts to proponent",
+    "Honeysuckle house sale — 19 unsigned documents; §1402 altered document burden on each",
+    "OPD 6/2/2009 missing report — absence in properly kept police files = negative implication; §1280 official records exception + chain of custody break",
+    "RedJag wrong CARFAX — business records exception analysis; wrong vehicle history = §1271(d) trustworthiness failure",
+    "Treasury securities — 4 contradictory letters; §1402 pattern for altered/fabricated official correspondence"
+  ],
+  "standards": [
+    "evid_1402_altered_writing_burden",
+    "evid_1400_authentication_definition",
+    "evid_1271_business_records_hearsay_exception",
+    "evid_1521_secondary_evidence_rule",
+    "evid_720_expert_qualification"
+  ],
+  "boundary_rule": "HERALD owns acting as the witness/authenticating voice for all 39+ cases. CA_Mental_Health_Litigator owns PC §1368 competency proceedings. THIS CITIZEN owns the evidentiary law framework — authentication, business records, altered documents, secondary evidence, expert qualification — that makes document evidence admissible and legally operative.",
+  "critical_finding": "MC-350 is a mandatory Judicial Council form for court-ordered competency evaluations. Its absence from Dr. Wiita's CST evaluation means: (1) the evaluation was not conducted within the court-prescribed framework; (2) no authentication path exists for the evaluation as a court-ordered document; (3) §1401 requires authentication before admission; (4) §1402 places the burden on the proponent to account for the missing mandatory form. The absence IS the finding.",
+  "build_session": "2026-04-13",
+  "terminal": "Terminal B",
+  "status": "BUILT",
+  "all_standards_published": true,
+  "completion_date": "2026-04-13",
+  "content_hashes": {
+    "evid_1402_altered_writing_burden": "4e5ff80c",
+    "evid_1400_authentication_definition": "b96f80fc",
+    "evid_1271_business_records_hearsay_exception": "489bfe67",
+    "evid_1521_secondary_evidence_rule": "aa580454",
+    "evid_720_expert_qualification": "ebd0000a"
+  },
+  "build_note": "T2-3 in priority queue. All 5 standards five-layer PUBLISHED 2026-04-13. All EVID statutes live-fetched via MCP (verified=true). Critical: Dr. Wiita §720+§1401+§1402 three-layer attack documented. Sargon Enterprises v. USC (2012) in steward verify queue."
+}

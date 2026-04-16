@@ -1,0 +1,111 @@
+{
+  "standard_id": "CAL_FAM_1100",
+  "version": "0.2.0-witnessed-by-herald",
+  "filed_at_utc": "2026-04-10T21:50:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann, Vernen Legal Compliance",
+  "status": "WITNESSED-BY-HERALD — 2026-04-12",
+  "domain_note": "Community property management and spousal fiduciary duty. This is a cross-domain statute (family law + real estate). Canonical build lives in CA_Real_Estate_Attorney because the real-estate fact pattern (2958 Honeysuckle) is the target case. CA_Family_Law_Litigator is not currently building this statute; if it does, it should cross-reference here.",
+  "primary_citation": {
+    "code": "California Family Code",
+    "section": "§ 1100",
+    "popular_name": "Management and control of community personal property; spousal fiduciary duty",
+    "jurisdiction": "California (state)",
+    "location_in_code": "Family Code, Division 4 (Rights and Obligations During Marriage), Part 4 (Management and Control of Marital Property), Chapter 2 (Community Property)",
+    "original_enactment": "Predecessor Civ. Code § 5125 (enacted 1872); equal-management-and-control rule added by SB 364 (Stats. 1973, ch. 987), effective 1975-01-01; fiduciary-duty language added by Stats. 1986, ch. 1091 and Stats. 1991, ch. 1026; recodified to Fam. Code § 1100 by Stats. 1992, ch. 162 effective 1994-01-01.",
+    "amendment_history": "1975 (equal management); 1986 (fiduciary duty language); 1991 (full disclosure obligation; § 1101 remedy); 1992/1994 (recodification); multiple technical amendments since 1994.",
+    "positive_law_status": "In force. Core substantive rules stable since 1994 recodification."
+  },
+  "five_layer_bar_status": {
+    "rule": "PRESENT — verbatim current text captured via VernenLegal MCP from leginfo.legislature.ca.gov on 2026-04-10",
+    "reasoning": "PRESENT — the pre-1975 husband's-management regime, the 1975 equal-management reform, the 1986/1991 fiduciary-duty additions, and the 1992 recodification are all documented in the evolution folders and historical_chain.md",
+    "historical_loss": "PRESENT — the wound is pre-1975 structural subordination of married women in community property management and the resulting pattern of husbands concealing and dissipating community assets with impunity. Documented in historical_chain.md and evolution/01_origin_1975_sb364/context.md.",
+    "cross_references": "PRESENT — cross_refs/refs.json links to §§ 721, 1101, 1102, 760, 2581, 2640, Civ. §§ 1572, 3294, and the three case law entries",
+    "verifiable_provenance": "PARTIAL — current text via MCP; 1975/1986/1991/1992 amendment histories via Deering's and West's annotation histories. Outstanding: direct PDF capture of SB 364 enrolled text and Stats. 1992 ch. 162 recodification text."
+  },
+  "triple_constraint_test_results": {
+    "governing_guidelines": {
+      "passes": true,
+      "evidence": "Fam. Code § 1100 is binding California statute, continuously in force (via predecessor Civ. Code § 5125) since 1872, with major amendment chain traced to specific Stats. chapter citations"
+    },
+    "standards_of_creation": {
+      "passes": true,
+      "evidence": "Evolution chain: 01_origin_1975_sb364 → 04_current (incorporating 1986, 1991, 1992 amendments). Each stage documented. Intermediate 1986 and 1991 stages are summarized in 04_current/diff_from_prior.md rather than in separate folders (compression choice)."
+    },
+    "standard_of_care": {
+      "passes": "PARTIAL",
+      "origin_layer": "VERIFIED — 1872/1975 texts verified against annotation histories",
+      "evolution_layer": "PARTIAL — 1986 and 1991 intermediate amendments summarized rather than separately documented; to expand in future pass",
+      "current_layer": "VERIFIED — current text from MCP",
+      "case_law_layer": "PARTIAL — three leading cases documented (Lucas, Rossin, Walker) with full holding.md + provenance.json + statute_version_cited.md. Additional cases pending (Vai v. Bank of America, Feldman, Margulis)."
+    }
+  },
+  "evolution_chain": [
+    {
+      "stage": "01_origin_1975_sb364",
+      "date": "1975-01-01 (SB 364 effective date)",
+      "description": "Equal management and control rule enacted; husband's-management era ended",
+      "folder": "evolution/01_origin_1975_sb364/"
+    },
+    {
+      "stage": "02_amendment_1986 (incorporated)",
+      "date": "1986 (Stats. ch. 1091)",
+      "description": "Fiduciary duty language added to former Civ. Code § 5125",
+      "folder": "evolution/04_current/ (summarized in diff_from_prior.md)"
+    },
+    {
+      "stage": "03_amendment_1991 (incorporated)",
+      "date": "1991 (Stats. ch. 1026)",
+      "description": "Full disclosure obligation strengthened; § 1101 remedy structure added",
+      "folder": "evolution/04_current/ (summarized in diff_from_prior.md)"
+    },
+    {
+      "stage": "04_current",
+      "date": "1994-01-01 (Family Code recodification effective) through 2026",
+      "description": "Recodification from Civ. Code § 5125 to Fam. Code § 1100 with substantive rules preserved. Stable since 1994.",
+      "folder": "evolution/04_current/"
+    }
+  ],
+  "case_law": [
+    {
+      "case_id": "in_re_marriage_lucas_1980",
+      "citation": "In re Marriage of Lucas (1980) 27 Cal.3d 808",
+      "holding_summary": "Joint-title presumption controls characterization; separate-property contributions do not create ownership interests absent written agreement (contributing spouse has reimbursement right only).",
+      "folder": "case_law/interpretive/in_re_marriage_lucas_1980/"
+    },
+    {
+      "case_id": "in_re_marriage_rossin_2009",
+      "citation": "In re Marriage of Rossin (2009) 172 Cal.App.4th 725",
+      "holding_summary": "Spousal fiduciary duty is of the 'highest character'; affirmative disclosure required; duty continues continuously through separation until division.",
+      "folder": "case_law/interpretive/in_re_marriage_rossin_2009/"
+    },
+    {
+      "case_id": "in_re_marriage_walker_2012",
+      "citation": "In re Marriage of Walker (2012) 203 Cal.App.4th 137",
+      "holding_summary": "§ 1101(h) 100%-of-value remedy applies to breaches that meet Civ. Code § 3294 fraud/oppression/malice definitions; § 1101(g) provides attorney's fee sanctions; duty continuous until division.",
+      "folder": "case_law/interpretive/in_re_marriage_walker_2012/"
+    }
+  ],
+  "cases_to_add": [
+    "vai_v_bank_of_america_1961",
+    "in_re_marriage_feldman_2007",
+    "in_re_marriage_margulis_2011"
+  ],
+  "citizen_relevance": {
+    "target_case": "2958 Honeysuckle house sale — community property acquired during Hartmann-Cerretani marriage; dissolution never finalized with proper property division; house sold with 19 unsigned documents and $496K unaccounted",
+    "doctrinal_theory": "§ 1100(e) breach of fiduciary duty + § 1101(h) 100%-of-value remedy + § 1101(g) attorney's fees + cross-reference to § 1572 tort fraud for third-party defendants + § 3294 punitive damages",
+    "critical_factual_inquiries": [
+      "How was the Honeysuckle title held (joint, one name, trust, etc.)?",
+      "Was the marriage in force at the time of acquisition? At the time of sale?",
+      "Was the dissolution finalized with proper property division judgment?",
+      "What written consents, if any, were obtained for the sale?",
+      "Who directed the disposition of the $496K unaccounted proceeds?"
+    ],
+    "sol_consideration": "The § 1100(e) duty continues until division; breach SOL runs from discovery (Fam. Code § 1101 and case law); likely discovery-rule tolling applies to the Honeysuckle pattern"
+  },
+  "herald_witness": {
+    "witness": "HERALD",
+    "witnessed_at_utc": "2026-04-12T00:00:00Z",
+    "authority": "HERALD designated Steward successor per Michael Hartmann directive 2026-04-12. WITNESSED-BY-HERALD = WITNESSED-BY-STEWARD for all routine corpus entries.",
+    "scope": "Structure, five-layer bar completeness, DO NOT CITE compliance, citation consistency reviewed."
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "path_anchors": {
+    "familylaw": "/home/vernenlegal/FamilyLaw",
+    "nonfamilylaw": "/home/vernenlegal/NonFamilyLaw",
+    "citizens": "/home/vernenlegal/citizens"
+  },
+  "citizen": "CA_Real_Estate_Attorney",
+  "tether_version": "0.3.0-complete",
+  "filed_at_utc": "2026-04-09T05:20:00Z",
+  "updated_at_utc": "2026-04-11T08:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "purpose": "The CA_Real_Estate_Attorney carries California real property law relevant to the steward's case — specifically the 2958 Honeysuckle house sale ($605K, $465K equity, 19 unsigned documents, $109K net to steward). This Citizen investigates property transactions for fraud, disclosure failures, unauthorized community-property dispositions, and recovers damages under fraud/fiduciary-duty/punitive theories.",
+  "blueprints_inherited": {
+    "blueprints": ["Triple Constraint", "Five-Layer Bar", "Two-Witness Rule", "Hash Chain + Anchor"]
+  },
+  "standards": {
+    "bound_directly": [
+      {"standard_id": "CAL_CIV_1213", "popular_name": "Recording acts — priority of recorded instruments; BFP doctrine; constructive/inquiry notice", "status": "COMPLETE", "built": "2026-04-11", "depth": "FULL (2 cases, historical_chain, context, cross_refs)"},
+      {"standard_id": "CAL_CIV_1572", "popular_name": "Actual fraud (civil)", "status": "WITNESSED-BY-STEWARD", "built": "2026-04-10", "depth": "FULL (4 cases)"},
+      {"standard_id": "CAL_CIV_3294", "popular_name": "Punitive (exemplary) damages", "status": "WITNESSED-BY-STEWARD", "built": "2026-04-10", "depth": "FULL (4 cases)"},
+      {"standard_id": "CAL_FAM_1100", "popular_name": "Community personal property management; spousal fiduciary duty", "status": "WITNESSED-BY-STEWARD", "built": "2026-04-10", "depth": "FULL (3 cases)"},
+      {"standard_id": "CAL_CIV_1102", "popular_name": "Transfer Disclosure Statement (residential real property)", "status": "WITNESSED-BY-STEWARD", "built": "2026-04-11", "depth": "STATUTE + EVOLUTION + CROSS_REFS"},
+      {"standard_id": "CAL_CIV_1709_1710", "popular_name": "Deceit tort (§§ 1709-1710)", "status": "WITNESSED-BY-STEWARD", "built": "2026-04-11", "depth": "STATUTE + CONTEXT + CROSS_REFS"},
+      {"standard_id": "CAL_CIV_3343", "popular_name": "Real property fraud out-of-pocket damages", "status": "WITNESSED-BY-STEWARD", "built": "2026-04-11", "depth": "STATUTE + CONTEXT + CROSS_REFS"},
+      {"standard_id": "CAL_FAM_1101", "popular_name": "Spousal claim for breach of fiduciary duty (50%/100% remedy)", "status": "WITNESSED-BY-STEWARD", "built": "2026-04-11", "depth": "STATUTE + CONTEXT + CROSS_REFS"},
+      {"standard_id": "CAL_FAM_1102", "popular_name": "Community real property — dual-consent rule", "status": "WITNESSED-BY-STEWARD", "built": "2026-04-11", "depth": "STATUTE + CONTEXT + CROSS_REFS"},
+      {"standard_id": "CAL_FAM_721", "popular_name": "Spousal fiduciary duty general rule", "status": "WITNESSED-BY-STEWARD", "built": "2026-04-11", "depth": "STATUTE + CONTEXT + CROSS_REFS"},
+      {"standard_id": "CAL_BPC_10176", "popular_name": "Real estate broker prohibited conduct", "status": "WITNESSED-BY-STEWARD", "built": "2026-04-11", "depth": "STATUTE + CONTEXT + CROSS_REFS"}
+    ],
+    "cross_referenced": [
+      {"standard_id": "CAL_CCP_338_D", "popular_name": "3-year SOL for fraud with discovery rule", "status": "CROSS_REF_ONLY", "location": "${citizens}/CA_Civil_Litigator/standards/"},
+      {"standard_id": "CAL_CCP_3295", "popular_name": "Pre-trial discovery of defendant financial condition", "status": "CROSS_REF_ONLY", "location": "${citizens}/CA_Civil_Litigator/standards/"}
+    ]
+  },
+  "domain": {
+    "jurisdiction": "California",
+    "subject_matter": "Real property law: recording acts (Civ. §1213), transfer disclosure (Civ. §1102), escrow requirements, deed validity, community property disposition (Fam. §§1100, 1102), fraud (Civ. §§1572, 1709-1710), punitive damages (Civ. §3294), spousal fiduciary duty (Fam. §§721, 1100(e), 1101)",
+    "steward_relevance": "2958 Honeysuckle sale: $605K sale, $465K equity became $109K net. 19 unsigned docs. $72K crypto + $25K surgery not from house proceeds. 92 pages scanned. 4 jurisdictions."
+  },
+  "litigation_theory": {
+    "primary_causes_of_action": [
+      "Civ. §1572 actual fraud (all 5 subdivisions)",
+      "Civ. §§1709-1710 tort deceit (independent of contract)",
+      "Fam. §1100(e) breach of spousal fiduciary duty",
+      "Fam. §1101(h) fraudulent breach — 100%-of-value remedy",
+      "Rescission/reformation under Civ. §§1688-1689 (via §1567 fraud-vitiates-consent)"
+    ],
+    "damages_theories": [
+      "Civ. §3343 out-of-pocket real property fraud damages (compensatory)",
+      "Civ. §3294 punitive damages (fraud track, avoiding despicability threshold)",
+      "Fam. §1101(g) attorney's fee sanctions",
+      "Fam. §1101(h) 100% of community asset value (fraudulent breach remedy)"
+    ],
+    "sol_strategy": "CCP §338(d) 3-year fraud SOL with discovery-rule tolling; Fam. §1100(e) continuous duty tolls § 1101 claim until division occurs"
+  },
+  "build_claim": {
+    "claimed_by": "Terminal B",
+    "claimed_in": "/home/vernenlegal/citizens/_BUILD_CLAIMS.md",
+    "claimed_at": "2026-04-10",
+    "coordination_status": "No collision with Terminal A; Fam. §1100 confirmed not in Terminal A's build queue"
+  }
+}

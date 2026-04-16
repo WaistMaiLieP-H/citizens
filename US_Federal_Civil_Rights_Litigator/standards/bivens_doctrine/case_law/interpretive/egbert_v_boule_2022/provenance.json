@@ -1,0 +1,17 @@
+{
+  "case": "Egbert v. Boule",
+  "citation": "596 U.S. 482 (2022)",
+  "decided": "2022-06-08",
+  "author": "Justice Thomas",
+  "vote": "6-3",
+  "dissents": ["Justice Sotomayor (joined by Justice Breyer and Justice Kagan)"],
+  "concurrence_of_note": "Justice Gorsuch argued Bivens should be overruled entirely",
+  "constitutional_basis": "Fourth Amendment (excessive force) and First Amendment (retaliation)",
+  "holding": "Confirmed and extended the Abbasi narrowing. If Congress has provided any alternative remedial structure — even an internal grievance process that cannot compensate the plaintiff — no Bivens remedy is available. Both Fourth Amendment and First Amendment claims rejected.",
+  "effect_on_bivens": "Confirmed the functional death of Bivens for any new claim. Any alternative process, no matter how inadequate, blocks the remedy.",
+  "source_urls": [
+    "https://supreme.justia.com/cases/federal/us/596/482/",
+    "https://www.law.cornell.edu/supremecourt/text/21-147"
+  ],
+  "last_verified": "2026-04-08"
+}

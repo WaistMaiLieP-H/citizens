@@ -1,0 +1,33 @@
+{
+  "standard_id": "CAL_CONST_ART1_SEC13",
+  "cross_references": [
+    {
+      "ref_id": "CAL_CONST_ART1_SEC1",
+      "citation": "Cal. Const. art. I, § 1",
+      "title": "Inalienable Rights (including privacy)",
+      "relationship": "complementary",
+      "note": "Section 1 includes an explicit right to privacy. Section 13 protects against unreasonable searches and seizures. Together they form California's privacy-and-security framework, which is broader than federal protections."
+    },
+    {
+      "ref_id": "CAL_CONST_ART1_SEC28_F_2",
+      "citation": "Cal. Const. art. I, § 28(f)(2)",
+      "title": "Truth in Evidence (Proposition 8, 1982)",
+      "relationship": "limiting",
+      "note": "Section 28(f)(2) requires California courts to follow federal exclusionary rule standards in criminal cases. This limits the practical effect of § 13's broader protections for purposes of suppressing evidence, while leaving the underlying right intact."
+    },
+    {
+      "ref_id": "US_CONST_AMEND_IV",
+      "citation": "U.S. Const. amend. IV",
+      "title": "Fourth Amendment — Search and Seizure",
+      "relationship": "federal_counterpart",
+      "note": "Section 13 tracks the Fourth Amendment's language closely but is independently enforceable and can be interpreted more broadly by California courts."
+    },
+    {
+      "ref_id": "42_USC_1983",
+      "citation": "42 U.S.C. § 1983",
+      "title": "Civil Action for Deprivation of Rights",
+      "relationship": "enforcement_mechanism",
+      "note": "Section 1983 provides a federal cause of action for violations of constitutional rights by state actors. Fourth Amendment violations are actionable under § 1983. State § 13 violations may support parallel state claims."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "target_standard": "CAL_EVID_1400",
+    "relationship": "IMPLEMENTS",
+    "notes": "§ 1401 makes the authentication defined in § 1400 mandatory. § 1400 defines authentication; § 1401 requires it."
+  },
+  {
+    "target_standard": "CAL_EVID_1402",
+    "relationship": "SUPPLEMENTS",
+    "notes": "§ 1402 addresses authentication of altered writings — a specialized application of the § 1401 requirement."
+  },
+  {
+    "target_standard": "CAL_EVID_1410",
+    "relationship": "SUPPLEMENTS",
+    "notes": "§ 1410 opens the means of authentication; §§ 1411-1421 enumerate specific means. § 1401 requires authentication; §§ 1410-1421 provide the how."
+  },
+  {
+    "target_standard": "CAL_EVID_1450",
+    "relationship": "SUPPLEMENTS",
+    "notes": "§§ 1450-1454 provide self-authentication categories — writings that satisfy § 1401's requirement without extrinsic evidence."
+  }
+]

@@ -1,0 +1,76 @@
+{
+  "path_anchors": {
+    "_comment": "Symbolic anchors.",
+    "familylaw":    "/home/vernenlegal/FamilyLaw",
+    "nonfamilylaw": "/home/vernenlegal/NonFamilyLaw",
+    "citizens":     "/home/vernenlegal/citizens"
+  },
+
+  "citizen": "US_Federal_Financial_Fraud_Litigator",
+  "tether_version": "0.1.0-initial",
+  "filed_at_utc": "2026-04-10T00:00:00Z",
+  "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "purpose": "Explicit binding manifest for the US_Federal_Financial_Fraud_Litigator Citizen. Built to facilitate filing federal suits for Treasury Securities identity theft, SSN theft, crypto fraud, and FCRA violations in the steward's CaseList.",
+
+  "blueprints_inherited": {
+    "from": [
+      "${citizens}/ADAM/dossier.md",
+      "${citizens}/ADAM/skills.md",
+      "${citizens}/EVE/dossier.md",
+      "${citizens}/EVE/skills.md"
+    ],
+    "blueprints": [
+      "Triple Constraint (Governing Guidelines / Standards of Creation / Standard of Care)",
+      "Five-Layer Bar (Rule + Reasoning + Historical Loss + Cross-References + Verifiable Provenance)",
+      "Two-Witness Rule (no artifact published without a second mouth)",
+      "Hash Chain + Anchor (every artifact hashed at production with provenance)"
+    ]
+  },
+
+  "standards": {
+    "bound_directly": [
+      {"standard_id": "USC_18_1028", "popular_name": "Federal Identity Theft statute", "manifest_path": "standards/usc_18_1028_identity_theft/manifest.json", "status": "PROPOSED", "build_date": "2026-04-10"},
+      {"standard_id": "USC_18_1028A", "popular_name": "Aggravated Identity Theft", "manifest_path": "standards/usc_18_1028a_aggravated_id_theft/manifest.json", "status": "PROPOSED", "build_date": "2026-04-10"},
+      {"standard_id": "USC_18_1343_WIRE", "popular_name": "Wire Fraud", "manifest_path": "standards/usc_18_1343_wire_fraud/manifest.json", "status": "PROPOSED", "build_date": "2026-04-10"},
+      {"standard_id": "USC_15_1681", "popular_name": "Fair Credit Reporting Act (FCRA)", "manifest_path": "standards/usc_15_1681_fcra/manifest.json", "status": "PROPOSED", "build_date": "2026-04-10"},
+      {"standard_id": "USC_15_1692", "popular_name": "Fair Debt Collection Practices Act (federal FDCPA)", "manifest_path": "standards/usc_15_1692_fdcpa/manifest.json", "status": "PROPOSED", "build_date": "2026-04-10"},
+      {"standard_id": "USC_18_1961_RICO", "popular_name": "Civil RICO — 18 U.S.C. §1961 et seq.", "manifest_path": "standards/usc_18_1961_rico/manifest.json", "status": "PROPOSED", "build_date": "2026-04-10"},
+      {"standard_id": "USC_5_552A", "popular_name": "Privacy Act of 1974 — agency records, inaccuracy remedy", "manifest_path": "standards/usc_5_552a_privacy_act/manifest.json", "status": "PROPOSED", "build_date": "2026-04-11"},
+      {"standard_id": "USC_18_1030_CFAA", "popular_name": "Computer Fraud and Abuse Act", "manifest_path": "standards/usc_18_1030_cfaa/manifest.json", "status": "PROPOSED", "build_date": "2026-04-11"},
+      {"standard_id": "USC_18_2511_WIRETAP", "popular_name": "Wiretap Act — 18 U.S.C. §2511", "manifest_path": "standards/usc_18_2511_wiretap/manifest.json", "status": "PROPOSED", "build_date": "2026-04-11"},
+      {"standard_id": "USC_18_2701_SCA", "popular_name": "Stored Communications Act — 18 U.S.C. §2701", "manifest_path": "standards/usc_18_2701_sca/manifest.json", "status": "PROPOSED", "build_date": "2026-04-11"},
+      {"standard_id": "USC_18_3121_PEN_REGISTER", "popular_name": "Pen Register Act — 18 U.S.C. §3121", "manifest_path": "standards/usc_18_3121_pen_register/manifest.json", "status": "PROPOSED", "build_date": "2026-04-11"},
+      {"standard_id": "CFR_47_64_CPNI", "popular_name": "CPNI — 47 C.F.R. §64.2010 (FCC customer proprietary network information)", "manifest_path": "standards/cfr_47_64_cpni/manifest.json", "status": "PROPOSED", "build_date": "2026-04-11"},
+      {"standard_id": "USC_42_405G_SSA_REVIEW", "popular_name": "Social Security Act §205(g) — federal court review; equitable tolling; phantom contact doctrine", "manifest_path": "standards/usc_42_405g_ssa_review/manifest.json", "status": "PROPOSED", "build_date": "2026-04-11"},
+      {"standard_id": "USC_31_3729", "popular_name": "False Claims Act [QUEUED — not yet built]", "manifest_path": "standards/usc_31_3729_fca/manifest.json", "status": "QUEUED", "build_date": null},
+      {"standard_id": "USC_12_5481", "popular_name": "CFPB UDAAP authority / Dodd-Frank Title X [QUEUED — not yet built]", "manifest_path": "standards/usc_12_5481_cfpb/manifest.json", "status": "QUEUED", "build_date": null}
+    ],
+    "_note": "Standards added as each is built to full five-layer depth. QUEUED → PROPOSED → WITNESSED-BY-STEWARD."
+  },
+
+  "domain": {
+    "jurisdiction": "Federal courts (civil RICO, FCRA, FDCPA, FCA qui tam, CFPB private rights) and federal criminal referrals (18 USC §1028, §1343). Parallel state claims (CLRA, Rosenthal, deceit) cross-referenced to CA_Consumer_Protection_Litigator.",
+    "subject_matter": "Federal identity theft, wire fraud, credit reporting violations, federal debt collection abuse, False Claims Act qui tam, CFPB UDAAP, Dodd-Frank private rights, Treasury Securities identity-related fraud.",
+    "exclusions": [
+      "State-law consumer protection (CLRA, UCL, Rees-Levering, Rosenthal, Song-Beverly) — CA_Consumer_Protection_Litigator",
+      "Federal civil rights (§1983, Bivens, ADA) — US_Federal_Civil_Rights_Litigator",
+      "Medical professional negligence — CA_Medical_Malpractice_Litigator",
+      "Family law — CA_Family_Law_Litigator (other terminal)"
+    ]
+  },
+
+  "case_bindings": {
+    "_comment": "CaseList entries this Citizen is built to serve.",
+    "primary": [
+      {"case_folder": "${nonfamilylaw}/Treasury_Securities", "summary": "Treasury Securities identity theft — 4 contradictory responses, bonds under Michael's name belong to 'another individual'", "primary_causes_of_action": ["18 USC §1028 criminal referral", "FCRA §1681g disclosure", "CFPB UDAAP", "Privacy Act §552a where Treasury records implicated", "Fed tort claim under FTCA for Treasury Dept misconduct"]},
+      {"case_folder": "${nonfamilylaw}/Treasury", "summary": "Treasury audit, SSN theft corroboration", "primary_causes_of_action": ["FCRA §1681c-2 block", "18 USC §1028 referral", "Administrative Procedure Act challenge"]},
+      {"case_folder": "${nonfamilylaw}/Crypto", "summary": "$73K crypto fraud — wire fraud predicate", "primary_causes_of_action": ["18 USC §1343 wire fraud referral", "Civil RICO 18 USC §1964(c)", "Cross-ref: parallel CLRA/UCL claims in CA_Consumer_Protection_Litigator"]},
+      {"case_folder": "${nonfamilylaw}/2024_Fraud ChexSystems", "summary": "ChexSystems fraud 2024 — credit reporting entry", "primary_causes_of_action": ["FCRA §1681e(b) accuracy", "FCRA §1681i reinvestigation", "FCRA §1681c-2 identity theft block"]},
+      {"case_folder": "${nonfamilylaw}/Debt_Collections", "summary": "Multiple debt collections — federal FDCPA overlay to state Rosenthal claims", "primary_causes_of_action": ["15 USC §1692 FDCPA", "15 USC §1692g validation", "CFPB complaint path"]},
+      {"case_folder": "${nonfamilylaw}/Unclaimed_Property_List_NV", "summary": "Unclaimed Property Nevada entries potentially connected to identity exploitation", "primary_causes_of_action": ["18 USC §1028 referral if identity used to claim", "State unclaimed-property procedures cross-ref"]},
+      {"case_folder": "${nonfamilylaw}/Banking", "summary": "Banking records evidence base", "primary_causes_of_action": ["Evidentiary foundation for wire-fraud and FCRA claims"]},
+      {"case_folder": "${nonfamilylaw}/Hillberg_Ann_Evidence", "summary": "Ann Hillberg / State Farm UIT — Northern Trust variable trusts, HILLBERGMANN compound identity", "primary_causes_of_action": ["Securities fraud 15 USC §78j / Rule 10b-5 cross-ref", "18 USC §1028 compound-identity theory", "Civil RICO"]},
+      {"case_folder": "${nonfamilylaw}/IRS_Tax_Records", "summary": "IRS/Tax records", "primary_causes_of_action": ["26 USC §7434 fraudulent information return", "IRS identity-theft PIN procedures"]}
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "standard_id": "USC_29_1140_ERISA_INTERFERENCE",
+  "version": "1.0.0",
+  "citizen": "US_Federal_ERISA_Litigator",
+  "popular_name": "ERISA § 510 — Interference with Protected Rights",
+  "authority": "29 U.S.C. § 1140",
+  "jurisdiction": "Federal",
+  "standard_type": "FEDERAL_STATUTE",
+  "status": "PUBLISHED — ADAM + EVE DUAL WITNESS — 2026-04-13",
+  "five_layer_score": 5,
+  "created": "2026-04-13",
+  "updated": "2026-04-13",
+  "case_relevance": [
+    "#37 — UA342 Pension Identity Replacement: §1140 prohibits interference with pension benefit rights by 'any person'; unauthorized retirement election (identity replacement) is direct interference with Michael's right to attain full pension benefits",
+    "Identity replacement scheme suppressing pension access = §1140 discrimination to prevent attainment of benefits"
+  ],
+  "layers": {
+    "rule": "COMPLETE",
+    "reasoning": "COMPLETE",
+    "historical_loss": "COMPLETE",
+    "cross_references": "COMPLETE",
+    "verifiable_provenance": "COMPLETE"
+  }
+}

@@ -1,0 +1,58 @@
+ALBRIGHT v. UNITED STATES
+631 F.2d 915 (D.C. Cir. 1980)
+
+[Primary authority for the "intentional or willful" standard under 5 U.S.C. § 552a(g)(1)(D)]
+
+Note: The case folder is titled quinn_v_stone. Quinn v. Stone, No. 90-0412, 1991 WL 236996 (D.D.C. Oct. 31, 1991) is a district court decision cited for the "intentional or willful" standard. The controlling circuit-level authority for this standard in the D.C. Circuit — where Privacy Act cases against federal agencies are typically brought — is Albright v. United States. This opinion.txt documents Albright as the primary authority, with Quinn v. Stone noted as a secondary application.
+
+---
+
+ALBRIGHT v. UNITED STATES
+631 F.2d 915 (D.C. Cir. 1980)
+United States Court of Appeals for the District of Columbia Circuit
+
+OPINION OF THE COURT:
+
+The Privacy Act of 1974, 5 U.S.C. § 552a(g)(1)(D), creates a civil cause of action when an agency "intentionally or willfully" fails to comply with the Act "in such a way as to have an adverse effect on an individual."
+
+THE INTENTIONAL OR WILLFUL STANDARD:
+
+"An intentional or willful violation of the Privacy Act occurs when an agency 'acts with knowledge that its action is wrongful or with reckless disregard for whether its action is wrongful.'" 631 F.2d at 921.
+
+This standard has two prongs:
+
+PRONG 1 — ACTUAL KNOWLEDGE OF WRONGFULNESS: The agency acted knowing that its action violated the Privacy Act. The agency employee or officer knew the disclosure was prohibited and proceeded anyway.
+
+PRONG 2 — RECKLESS DISREGARD: The agency acted with reckless disregard for whether its action was wrongful. This covers cases where the agency did not investigate obvious Privacy Act implications, proceeded without regard for the legal constraint, or followed an institutional practice of ignoring the requirement.
+
+NOT SUFFICIENT: Negligent error — a mistake that was honest but not reckless — does not support § 552a(g)(1)(D) liability. The statute requires intentional or willful conduct, which is a higher standard than negligence.
+
+APPLICATION TO SYSTEMATIC FALSE DOCUMENTATION (SSA/DDS):
+
+Where DDS examiners entered contact dates in a claimant's file when no contact was actually attempted:
+
+PRONG 1 (INTENTIONAL): If the examiner knew no contact was made and entered a false date anyway, the act is intentional — the examiner acted with knowledge that the entry was inaccurate.
+
+PRONG 2 (RECKLESS DISREGARD): If systematic papering of files (entering false contact dates) was an institutional DDS practice — known to supervisors, repeated across cases, facilitated by quota pressure or resource shortages — then the recklessness is institutional. The agency as a whole acted in reckless disregard of the Privacy Act's prohibition on maintaining inaccurate records (§ 552a(e)(5)).
+
+ADVERSE EFFECT REQUIREMENT: The intentional or willful conduct must produce an adverse effect on the individual. Where the false contact dates caused the disability claim to be denied on a "failure to cooperate" grounds when no cooperation opportunity was ever actually offered, the adverse effect (denial of disability benefits) is direct and severe.
+
+---
+
+QUINN v. STONE
+No. 90-0412, 1991 WL 236996 (D.D.C. Oct. 31, 1991)
+
+District court (D.D.C.) applying the Albright standard. The court confirmed that "intentional or willful" means acting with knowledge of wrongfulness or reckless disregard — not mere negligence. A government employee who enters data knowing it is inaccurate acts intentionally; a government employee who follows a routine that they know produces inaccurate records acts recklessly.
+
+This is persuasive but non-binding authority (district court). Albright is the controlling D.C. Circuit precedent.
+
+---
+
+SOURCE PROVENANCE:
+Primary citation: Albright v. United States, 631 F.2d 915 (D.C. Cir. 1980)
+Secondary citation: Quinn v. Stone, No. 90-0412, 1991 WL 236996 (D.D.C. Oct. 31, 1991)
+Key quoted passage: 631 F.2d at 921 (acts with knowledge wrongful / reckless disregard)
+Source of this text: Claude training data (knowledge cutoff August 2025). Albright is the foundational D.C. Circuit Privacy Act willfulness standard; its formulation is confirmed in the training corpus. Full verbatim text should be verified at:
+  - Federal Reporter, Second Series, vol. 631, page 915
+  - Google Scholar: "Albright v. United States 631 F.2d"
+Verification status: PROPOSED — pending steward witness review

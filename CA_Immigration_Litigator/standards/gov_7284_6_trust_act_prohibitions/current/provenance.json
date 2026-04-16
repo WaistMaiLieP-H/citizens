@@ -1,0 +1,18 @@
+{
+  "standard_id": "GOV_7284_6_TRUST_ACT_PROHIBITIONS",
+  "layer": "current",
+  "title": "Cal. Gov. Code § 7284.6 — TRUST Act Prohibitions on Immigration Enforcement",
+  "enacted": "2017-10-05",
+  "operative_date": "2018-01-01",
+  "enacting_law": "Stats. 2017, ch. 495 (SB 54)",
+  "official_source": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=GOV&sectionNum=7284.6",
+  "verified": true,
+  "verified_note": "Key operative provisions fetched via VernenLegal MCP tool at source prep 2026-04-12. Full text confirmation recommended at leginfo.ca.gov.",
+  "retrieval_date": "2026-04-12",
+  "key_cases": [
+    "City of Los Angeles v. Barr, 941 F.3d 931 (9th Cir. 2019) — federal grant conditions cannot compel state immigration enforcement cooperation; Tenth Amendment sanctuary city protections",
+    "United States v. California, 921 F.3d 865 (9th Cir. 2019) — California's TRUST Act and SB 54 not preempted by federal immigration law; states not required to enforce federal civil immigration law"
+  ],
+  "case_37_anchor": "APD §7284.6(c) joint task force reporting = CPRA-subject public record; any APD-ICE communication re June 2023 incident potentially documented",
+  "butsaya_anchor": "§7284.6(b)(4) T/U visa exception = affirmative cooperation pathway if Butsaya is crime victim in broader scheme rather than DVRO perpetrator"
+}

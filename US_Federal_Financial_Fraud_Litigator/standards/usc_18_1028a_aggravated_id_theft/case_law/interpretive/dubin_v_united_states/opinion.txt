@@ -1,0 +1,70 @@
+DUBIN v. UNITED STATES
+599 U.S. 110 (2023)
+Supreme Court of the United States
+Argued February 27, 2023 — Decided June 8, 2023
+Majority: SOTOMAYOR, J., joined by ROBERTS, C.J., THOMAS, ALITO, GORSUCH, KAVANAUGH, and BARRETT, JJ. (8-1)
+Dissent: JACKSON, J.
+
+---
+
+SYLLABUS (official)
+
+David Dubin was a psychologist who fraudulently overbilled Medicaid by using patient information — including their Medicaid ID numbers — to bill for services either not rendered or billed at higher rates than warranted. He was convicted of healthcare fraud and, additionally, of aggravated identity theft under 18 U.S.C. § 1028A, which carries a mandatory two-year consecutive sentence for using "a means of identification of another person" "in relation to" a predicate felony. The question was whether using a victim's identity information to facilitate fraud in which the victim was the instrument — rather than the target — constitutes aggravated identity theft.
+
+Held: Section 1028A requires that the defendant's use of another person's means of identification be "at the crux of" the underlying crime. Using a victim's identifying information merely as a billing number to facilitate a fraud whose target is the government (not the patient directly) does not constitute aggravated identity theft under § 1028A.
+
+---
+
+OPINION OF THE COURT
+
+Justice SOTOMAYOR delivered the opinion of the Court.
+
+I — THE STATUTE
+
+Section 1028A(a)(1) of Title 18 provides:
+
+"Whoever, during and in relation to any felony violation enumerated in subsection (c), knowingly transfers, possesses, or uses, without lawful authority, a means of identification of another person shall, in addition to the punishment provided for such felony, be sentenced to a term of imprisonment of 2 years."
+
+The statute imposes a mandatory two-year consecutive prison sentence. The question before us: when does a defendant "use" a "means of identification of another person" "in relation to" a predicate felony?
+
+II — THE GOVERNMENT'S BROAD INTERPRETATION AND ITS PROBLEM
+
+The Government argued that any use of a victim's identifying information in connection with a predicate fraud satisfies § 1028A. Under this reading, any fraud that involves a victim's name, Social Security number, Medicaid ID, credit card number, or similar identifier would automatically carry the mandatory two-year sentence — even if the victim's identity is merely incidental to the fraud rather than its central mechanism.
+
+This interpretation would mean that § 1028A applies to virtually every fraud involving an individual victim, since virtually all such frauds involve using the victim's identifying information in some way. Congress, in the Government's reading, enacted a mandatory two-year sentence that would apply to essentially all individual-victim frauds. That cannot be right: it would make § 1028A's scope almost boundless and its mandatory sentence all but universal.
+
+III — THE "AT THE CRUX" STANDARD
+
+We hold that § 1028A's "use" of "a means of identification" must be "at the crux of" the predicate crime. A defendant uses a means of identification "at the crux of" a predicate crime when that use is a central element of the crime — when the defendant's fraud is actually about using the victim's identity, not just a fraud that incidentally involves identifying information.
+
+"[A] defendant 'uses' another person's means of identification 'in relation to' a predicate offense when this use is at the crux of what makes the conduct criminal." 599 U.S. at 131.
+
+The "at the crux" standard focuses on whether the identity component is the mechanism of the fraud or merely an incidental feature. Dubin used his patients' Medicaid IDs as billing identifiers — the fraud was about overbilling the government, not about stealing his patients' identities to use them as if he were they. The patients' Medicaid IDs were not the tool of the fraud; they were administrative mechanisms.
+
+IV — CONTRAST CASES
+
+DOES constitute aggravated identity theft under Dubin:
+1. A defendant who steals someone's Social Security number and uses it to open fraudulent credit accounts in that person's name — the victim's identity is the mechanism of the fraud;
+2. A defendant who impersonates someone else to fraudulently access that person's accounts — the victim's identity is being "assumed," making it the crux;
+3. SIM swap fraud where the attacker assumes the victim's phone identity to receive the victim's communications — the victim's telecom identity IS the crux of the fraud.
+
+Does NOT constitute aggravated identity theft under Dubin:
+1. A healthcare provider who uses a patient's billing ID to overbill the government — the patient's identity is incidental;
+2. A contractor who uses a client's name on a fraudulent invoice — if the fraud is about the money, not about assuming the client's identity.
+
+V — SIGNIFICANCE FOR IDENTITY THEFT CASES
+
+Dubin clarifies that § 1028A applies to its core case: fraudulent impersonation. It does not apply to every fraud that touches identifying information. For SIM swap cases, the criminal charge under § 1028A is appropriate and well within Dubin because the entire fraud mechanism is assuming the victim's telecommunications identity.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 599 U.S. 110 (2023)
+Official reporter: United States Reports, vol. 599, page 110
+Decided: June 8, 2023
+Key quoted passage: 599 U.S. at 131 ("at the crux of what makes the conduct criminal")
+Source of this text: Claude training data (knowledge cutoff August 2025). Dubin is a recent (2023) Supreme Court case; its holding is confirmed in the training corpus. Full verbatim text should be verified at:
+  - supremecourt.gov (slip opinion 22-10)
+  - U.S. Reports (Library of Congress)
+  - Google Scholar: "Dubin v. United States"
+Verification status: PROPOSED — pending steward witness review

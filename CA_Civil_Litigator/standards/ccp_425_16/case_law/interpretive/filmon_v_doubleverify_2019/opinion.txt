@@ -1,0 +1,53 @@
+FILMON DIGITAL LLC v. DOUBLEVERIFY INC.
+[California anti-SLAPP precedent on commercial speech and public issues]
+NOTE: Specific citation unverified — full cite should be confirmed at Google Scholar / Casetext
+
+---
+
+NOTE ON VERIFICATION:
+The case "Filmon v. DoubleVerify" appears in the CA_Civil_Litigator's anti-SLAPP case queue. The precise citation, facts, and holding should be verified at Casetext or Google Scholar by searching "Filmon DoubleVerify anti-SLAPP." If this case does not exist under this name, the holding.md in this folder likely contains a summary to cross-reference.
+
+---
+
+ANTI-SLAPP — COMMERCIAL SPEECH AND "PUBLIC ISSUE" REQUIREMENT:
+
+The § 425.16(e)(3)-(4) protected activity categories require that the statement be "in connection with a public issue or an issue of public interest." California courts have grappled with when commercial activity qualifies as a matter of public interest for anti-SLAPP purposes.
+
+THE OVERARCHING PRINCIPLE (from Isaac v. Lamar Advertising and related cases):
+A statement is not automatically a matter of public interest simply because it relates to a business or because the public finds it interesting. A business's services are a matter of public interest when:
+1. The business has inserted itself into a public controversy, OR
+2. The subject matter of the statement is a topic of ongoing public debate beyond the specific parties, OR
+3. The statement addresses a matter of significant concern to a substantial number of people
+
+COMMERCIAL CRITICISM AND THE PUBLIC ISSUE TEST:
+When one company publishes reports rating or evaluating other companies' services — and those evaluations are shared publicly — the reporting function may constitute speech on a matter of public interest (commercial integrity, advertising accuracy) qualifying under § 425.16(e)(3)-(4).
+
+THE FILMON-TYPE HOLDING (general):
+In ad tech / digital advertising cases, where a third-party verification company publishes reports about a platform's ad inventory quality, courts have analyzed whether the reports address matters of public interest (fraudulent advertising inventory is a matter of public concern) or are merely commercial business-to-business communications.
+
+---
+
+[STEWARD DIRECTION: The holding.md for this case should be reviewed to identify what specific holding is recorded from Filmon v. DoubleVerify. If the citation cannot be independently verified, flag for verification pass before relying on this case in any filing.]
+
+---
+
+FOR ANTI-SLAPP PUBLIC ISSUE ANALYSIS:
+The "public issue" requirement is satisfied for:
+- Government accountability claims — clearly public interest
+- Constitutional rights claims — public interest
+- Law enforcement practices — public interest
+- Business fraud affecting consumers — public interest (post-FilAmon analysis of commercial speech)
+
+The "public issue" requirement is NOT satisfied for:
+- Private commercial disputes between two businesses
+- Internal personnel matters
+- Private financial transactions
+
+---
+
+SOURCE PROVENANCE:
+Case: Filmon Digital LLC v. DoubleVerify Inc.
+Verification status: CITATION UNVERIFIED — needs primary source check at Casetext / Google Scholar
+Source of this text: Claude training data (knowledge cutoff August 2025). This folder covers the anti-SLAPP commercial speech / public issue doctrine. Full cite and verbatim holding should be confirmed before reliance in any filing.
+Verification required: Search "Filmon DoubleVerify anti-SLAPP California" at Casetext or Google Scholar
+Verification status: PROPOSED — pending primary source verification and steward witness review

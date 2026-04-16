@@ -1,0 +1,24 @@
+{
+  "standard_id": "lab_3202_liberal_construction",
+  "citizen": "CA_Workers_Compensation_Litigator",
+  "build_date": "2026-04-13",
+  "primary_source": {
+    "source_type": "statute",
+    "jurisdiction": "California",
+    "code": "Labor Code",
+    "section": "3202",
+    "fetch_method": "mcp__claude_ai_VernenLegal__california_get_section",
+    "verified": true,
+    "fetch_date": "2026-04-13",
+    "note": "Live MCP fetch — LAB §3202 returned single-sentence text; covers Division 4 and Division 5; verified=true"
+  },
+  "supporting_sources": [
+    {
+      "source_type": "training_knowledge",
+      "description": "1913 Workmen's Compensation Act — §3202 liberal construction clause included in founding framework",
+      "note": "Historical knowledge; consistent with statute text"
+    }
+  ],
+  "steward_verify_queue": [],
+  "chronicle_flag": false
+}

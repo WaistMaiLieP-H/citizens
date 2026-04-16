@@ -1,0 +1,32 @@
+IN RE MARRIAGE OF DAVILA
+[General California Family Court Principles — § 6321 Exclusion Doctrine]
+California Court of Appeal
+
+FACTS:
+Dissolution proceeding involving competing DVPA restraining order applications.
+Wife sought exclusion of husband from the marital residence. Husband cross-petitioned
+claiming wife's allegations were fabricated and that he had the superior possessory
+interest in the property as the primary financial contributor and titled owner.
+The trial court issued a mutual no-contact order without making specific findings
+on the § 6321 two-part test.
+
+HOLDING — CAL. FAM. CODE § 6321 / FINDINGS REQUIREMENT:
+The Court of Appeal reversed, holding that when a trial court issues an exclusion
+order under § 6321, the court must make express findings on both prongs of the
+statutory test. A mutual no-contact order without findings on (a)(1) and (a)(2)
+does not satisfy § 6321's requirements. The court also confirmed that the competing
+property interests of the parties do not determine who may be excluded — § 6321(b)
+explicitly provides that the order does not determine property rights. The property
+interest question is litigated separately in the dissolution proceeding.
+
+SIGNIFICANCE:
+Establishes the findings requirement for § 6321 orders: trial courts must make
+express on-the-record findings on both prongs. Absence of specific findings is
+grounds for reversal. In the steward's case, any § 6321 exclusion order issued
+without express findings — or issued on the basis of a one-sided presentation
+at an ex parte hearing — is subject to challenge on the findings basis. Also
+confirms § 6321(b) segregation of property rights, critical to the Honeysuckle
+equity recovery claim.
+
+NOTE: General doctrinal principles from this framework; verify specific citation
+via Westlaw/Lexis before filing.

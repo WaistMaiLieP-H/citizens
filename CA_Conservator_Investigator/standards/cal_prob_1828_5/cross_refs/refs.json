@@ -1,0 +1,20 @@
+{
+  "standard_id": "CAL_PROB_1828_5_HEARING_RIGHTS",
+  "refs_updated": "2026-04-12",
+  "cross_references": [
+    {
+      "target_standard": "CAL_PROB_1801_CONSERVATORSHIP_APPOINTMENT",
+      "relationship": "\u00a71828.5 applies to limited conservatorship proceedings under \u00a71801(d); the hearing rights in \u00a71828.5 are the procedural realization of the substantive protections in \u00a71801(d) for developmentally disabled adults",
+      "target_citizen": "CA_Conservator_Investigator",
+      "target_manifest": "${citizens}/CA_Conservator_Investigator/standards/cal_prob_1801_conservatorship_appointment/manifest.json",
+      "build_status": "BUILT \u2014 same Citizen"
+    },
+    {
+      "target_standard": "CAL_PROB_1826_INVESTIGATOR_PRE_APPOINTMENT",
+      "relationship": "\u00a71826 court investigator must determine whether the proposed conservatee wants to be represented by legal counsel (\u00a71826(a)(7)); this determination feeds directly into \u00a71828.5(d)'s mandatory counsel appointment",
+      "target_citizen": "CA_Conservator_Investigator",
+      "target_manifest": "${citizens}/CA_Conservator_Investigator/standards/cal_prob_1826/manifest.json",
+      "build_status": "BUILT \u2014 same Citizen"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "standard_id": "prob_859_double_damages",
+  "citizen": "CA_Elder_Law_Litigator",
+  "citation": "Cal. Prob. Code § 859",
+  "jurisdiction": "California",
+  "version": "As amended through 2023",
+  "build_date": "2026-04-13",
+  "build_state": "PUBLISHED",
+  "layers": {
+    "rule": "COMPLETE",
+    "statute_text": "COMPLETE",
+    "historical_chain": "COMPLETE",
+    "case_law": "NONE — § 859 is a statutory remedy; no controlling Supreme Court case law required at this layer; case application analysis in rule.md",
+    "cross_refs": "COMPLETE"
+  },
+  "provenance": {
+    "source": "leginfo.legislature.ca.gov",
+    "tool": "mcp__claude_ai_VernenLegal__california_get_section",
+    "fetch_date": "2026-04-13",
+    "verified": true,
+    "statute_sha256": "a28859cdb550ca6001341ae043099916471c4b2cda150bebd106e15ee7d10aa2"
+  },
+  "witness": {
+    "ADAM": "PENDING",
+    "EVE": "PENDING"
+  }
+}

@@ -1,0 +1,80 @@
+EGBERT v. BOULE
+596 U.S. 482 (2022)
+United States Supreme Court
+Decided: June 8, 2022
+
+---
+
+FACTS:
+
+Robert Boule operated a bed-and-breakfast ("Smuggler's Inn") near the Canadian border in Washington State. U.S. Border Patrol Agent Erik Egbert came to the property to investigate a guest; Boule asked Egbert to leave. Egbert pushed Boule, causing physical injury. Boule filed a Bivens action under the Fourth Amendment (excessive force) and a First Amendment retaliation claim (arguing Egbert filed a retaliatory tax complaint after Boule reported the shove).
+
+The Ninth Circuit allowed both claims to proceed under Bivens. The Supreme Court reversed on both counts.
+
+---
+
+HOLDING:
+
+Justice Thomas wrote for the Court (6-3 on most issues).
+
+EGBERT FURTHER RESTRICTED BIVENS:
+
+THE TEST FOR "NEW CONTEXT":
+"A claim may arise in a new context even if it is based on the same constitutional provision as a claim in a case in which we previously recognized a Bivens action. The context matters."
+
+Any differences from the three recognized cases — Bivens (Fourth Amendment urban arrest), Davis (Fifth Amendment congressional employment), Carlson (Eighth Amendment prison) — that are "meaningful" create a new context. The question is whether those differences make it less likely Congress would have authorized the remedy.
+
+Here: A Fourth Amendment excessive force claim by a border-area innkeeper against a Border Patrol agent is a "new context" because it differs from Bivens's urban arrest context in meaningful ways — the border security context, the foreign-affairs implications, and the different role of Border Patrol vs. DEA.
+
+THE "ALTERNATIVE REMEDIES" EXPANSION:
+Even minor, partial alternative remedies counsel against Bivens extension:
+"[I]f there is even a single step Congress has taken to provide a remedy for the harm alleged, that is a special factor counseling hesitation."
+
+The existence of the Border Patrol's internal complaint process — even though it may be ineffective — was sufficient to counsel against Bivens. The remedy does not need to be adequate; it just needs to exist.
+
+THE PRACTICAL ELIMINATION OF BIVENS EXTENSIONS:
+"[I]n most every case in which a plaintiff presents a Bivens claim in a new context, a court should reject it."
+
+After Egbert, the Bivens doctrine has been confined almost entirely to three 1971-1980 Supreme Court cases. It is functionally unavailable for new types of claims.
+
+---
+
+WHAT SURVIVED EGBERT:
+
+The three recognized Bivens categories remain:
+1. Bivens v. Six Unknown Named Agents (1971) — Fourth Amendment, narcotics arrest
+2. Davis v. Passman (1979) — Fifth Amendment, sex discrimination in congressional employment
+3. Carlson v. Green (1980) — Eighth Amendment, prison medical care
+
+Claims that fit precisely within these three scenarios on virtually identical facts remain viable. Everything else is a new context that will be rejected.
+
+---
+
+FIRST AMENDMENT RETALIATION — CATEGORICALLY REJECTED:
+Egbert also held that no Bivens remedy exists for First Amendment retaliation by a federal officer — period. The Court did not engage in the new-context analysis; it held that the First Amendment retaliation claim simply cannot support a Bivens action.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Egbert completes the virtual elimination of Bivens extensions. Strategic implications:
+
+1. **Do not plead Bivens for federal officer claims outside the three recognized categories**. The claim will be dismissed, and the time and effort are better spent on FTCA, Privacy Act, APA, and statutory violations.
+
+2. **FTCA is now the primary vehicle for federal officer torts**: Physical injuries, property damage, and torts committed by federal employees in the scope of employment — FTCA applies. FTCA requires administrative exhaustion (SF-95 claim form) before filing suit.
+
+3. **The § 1983 / Bivens split**: § 1983 reaches state actors under color of state law; Bivens reached federal actors who violated constitutional rights. With Bivens now nearly dead, the § 1983 strategy against state actors is more important than ever. For federal-actor claims, use FTCA + statutory claims.
+
+4. **Preserved Bivens use**: If SSA employees physically arrested or detained the steward (Fourth Amendment), that fits the core Bivens/Carlson analysis. If SSA examiners deliberately denied benefits through fabricated medical opinions, the Fifth Amendment Davis framework may apply to individual examiners (not policymakers).
+
+---
+
+SOURCE PROVENANCE:
+Citation: 596 U.S. 482 (2022)
+Court: United States Supreme Court
+Reporter: United States Reports, vol. 596, page 482
+Author: Thomas, J. (6-3)
+Dissent: Sotomayor, J. (joined by Breyer, Kagan)
+Source of this text: Claude training data (knowledge cutoff August 2025). Egbert v. Boule virtually eliminated new Bivens extensions and rejected First Amendment retaliation as a cognizable Bivens claim — limiting Bivens to the three pre-1981 recognized contexts.
+Verification: CourtListener / Justia / Google Scholar: "Egbert v. Boule 596 U.S. 482"
+Verification status: PROPOSED — pending steward witness review

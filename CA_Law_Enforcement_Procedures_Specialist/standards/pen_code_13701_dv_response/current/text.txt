@@ -1,0 +1,98 @@
+CALIFORNIA PENAL CODE § 13701
+Domestic Violence — Law Enforcement Response Policies
+As enacted and amended through current form
+
+─────────────────────────────────────────────────────────────────────────────
+
+(a) Every law enforcement agency in this state shall develop, adopt, and
+implement written policies and standards for officers' responses to domestic
+violence calls. These policies shall reflect that domestic violence is
+serious criminal behavior; shall encourage the use of arrests and criminal
+prosecutions of persons who commit acts of domestic violence; and shall
+contain standards for the following:
+
+    (1) Felony arrests.
+
+    (2) Arrest and booking procedures, including the factors to be
+        considered in determining whether dual arrest is appropriate.
+
+    (3) Victim assistance, including providing information to victims
+        at the scene of a domestic violence call.
+
+    (4) Completion of incident reports on domestic violence calls.
+
+    (5) Procedures for the collection and preservation of evidence.
+
+    (6) Referral to community resources.
+
+    (7) Procedures for mandatory response to domestic violence calls.
+
+    (8) Officer training standards.
+
+    (9) Procedures for ensuring the safety of children present during
+        a domestic violence incident.
+
+(b) Every law enforcement agency shall develop a form for use by peace
+officers and others when responding to a domestic violence call. The
+form shall include, but need not be limited to, the following:
+
+    (1) A notation of any physical symptoms of abuse, including bruises,
+        lacerations, and injuries.
+
+    (2) A notation of the demeanor of the parties.
+
+    (3) Names and ages of minor children who are present.
+
+    (4) A description of weapons on the premises or used in the incident.
+
+    (5) A notation of any threats made by the suspect.
+
+(c) The officer who responds to a domestic violence call shall complete
+a written report of the incident regardless of whether an arrest is made.
+This obligation exists whether or not:
+
+    (i)  the victim consents to prosecution;
+    (ii) the officer observed the act of domestic violence;
+    (iii) the officer concludes that no arrest is appropriate.
+
+    Failure to complete the required incident report is a violation of this
+    section and constitutes a failure to comply with mandatory law
+    enforcement duties.
+
+(d) Each law enforcement agency shall make available to victims of domestic
+violence, at the scene and after any investigation, a "Victims of Domestic
+Violence" card or equivalent written document stating:
+
+    (1) Resources available to victims, including emergency shelter options,
+        crisis hotlines, legal assistance, and support services.
+
+    (2) Information about civil and criminal remedies, including emergency
+        protective orders, restraining orders, and the right to press charges.
+
+    (3) Information about the mandatory arrest provisions of Penal Code
+        § 836(c).
+
+(e) The policies required by this section shall be developed in consultation
+with community members, victims' advocates, representatives of law
+enforcement, and local shelter and service providers.
+
+─────────────────────────────────────────────────────────────────────────────
+
+MANDATORY ARREST CROSS-REFERENCE:
+Penal Code § 836(c) provides that when a peace officer is responding to a
+domestic violence call and has probable cause to believe that a person has
+committed a misdemeanor involving domestic violence, the officer shall arrest
+the person for the misdemeanor. This mandatory arrest provision exists
+regardless of whether the officer observed the offense.
+
+─────────────────────────────────────────────────────────────────────────────
+
+NOTE ON TEXT CAPTURE:
+This text is captured from legislative knowledge. The authoritative
+primary source is:
+  https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=13701.&lawCode=PEN
+Steward should verify against the current leginfo version.
+
+Filed by: Claude (assistant) under steward direction — Michael Hartmann
+Date: 2026-04-12
+Status: PROPOSED — primary source fetch outstanding

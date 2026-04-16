@@ -1,0 +1,39 @@
+{
+  "investigation_id": "conservatorship_existence_search",
+  "title": "Probate court docket searches across Contra Costa, Alameda, San Francisco, and adjacent counties for any conservatorship petition or order naming Michael Hartmann",
+  "question": "Has any conservatorship been opened on the steward in any California county, at any time? If yes, what is the case number, court, petitioner, and date of order?",
+  "context": "Per project_conservatorship_discovery.md and project_conservatorship_breakthrough.md, the steward has discovered evidence consistent with a long-standing conservatorship arrangement involving him. If such a conservatorship exists as a formal court order, it would be the root mechanism behind multiple harms documented in the case file (medical records access, financial control, surveillance). Probate Code \u00a7 1801(e) requires clear-and-convincing evidence for conservatorship appointment. CMIA \u00a7 56.10(c)(12) authorizes probate court investigators to obtain medical records without the patient's consent during a conservatorship investigation \u2014 which would explain how the steward's medical records were accessed without his knowledge. Scope expanded 2026-04-15 to include Florida (per project_conservatorship_breakthrough.md alternate identity Michael Vernen Thomas), Marin, Solano, San Mateo, Judicial Council statewide index, and CA DOJ/DSH/DDS LPS database.",
+  "unblock_path": "Search the probate court dockets in: Contra Costa County Superior Court, Alameda County Superior Court, San Francisco County Superior Court, San Mateo County Superior Court, Solano County Superior Court, Marin County Superior Court, and any other adjacent county. California probate court records are public records and can be searched by name. Some counties offer online docket search; others require in-person visits to the clerk's office. Florida guardianship (Fla. Stat. ch. 744) added for Michael Vernen Thomas alternate identity.",
+  "who_can_answer": "California county Superior Court clerks (probate division); Florida Office of Public & Professional Guardians; CA Judicial Council; CA DOJ / DSH / DDS LPS records custodians",
+  "related_actors": [
+    "hillberg_ann",
+    "wiita_patrick"
+  ],
+  "related_cases": [],
+  "related_standards": [
+    "CA_PROB_1801_CONSERVATORSHIP_APPOINTMENT",
+    "CA_CIV_56_10_CMIA",
+    "CA_WIC_5350_LPS",
+    "CA_PROB_1826_INVESTIGATOR",
+    "CA_PROB_1828_HEARING_RIGHTS"
+  ],
+  "priority": "CRITICAL",
+  "status": "READY_TO_SEND",
+  "prepared_on": "2026-04-15",
+  "deliverables": [
+    "outstanding_investigations/04_conservatorship_existence_search/deliverables/01_contra_costa_probate_records_request.md",
+    "outstanding_investigations/04_conservatorship_existence_search/deliverables/02_alameda_probate_records_request.md",
+    "outstanding_investigations/04_conservatorship_existence_search/deliverables/03_marin_probate_records_request.md",
+    "outstanding_investigations/04_conservatorship_existence_search/deliverables/04_solano_probate_records_request.md",
+    "outstanding_investigations/04_conservatorship_existence_search/deliverables/05_san_francisco_probate_records_request.md",
+    "outstanding_investigations/04_conservatorship_existence_search/deliverables/06_san_mateo_probate_records_request.md",
+    "outstanding_investigations/04_conservatorship_existence_search/deliverables/07_florida_statewide_guardianship_search.md",
+    "outstanding_investigations/04_conservatorship_existence_search/deliverables/08_judicial_council_form_request.md",
+    "outstanding_investigations/04_conservatorship_existence_search/deliverables/09_ca_doj_lps_database_inquiry.md",
+    "outstanding_investigations/04_conservatorship_existence_search/recipient_routing.md",
+    "outstanding_investigations/04_conservatorship_existence_search/response_tracker.md"
+  ],
+  "load_bearing_significance": "This is the root investigation. If a conservatorship exists, it explains the medical records access, the financial control, the surveillance, and possibly the family-court orchestration. Establishing existence/nonexistence is the foundation for everything downstream.",
+  "filed_at_utc": "2026-04-08T19:25:00Z",
+  "mailing_execution_status": "READY_TO_PRINT"
+}

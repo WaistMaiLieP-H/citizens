@@ -1,0 +1,27 @@
+{
+  "standard_id": "HSC_1340_KNOX_KEENE_FRAMEWORK",
+  "refs_updated": "2026-04-12",
+  "cross_references": [
+    {
+      "target_standard": "INS_10123_135_PRIOR_AUTH",
+      "relationship": "regulatory sibling \u2014 \u00a710123.135 applies to CDI-regulated disability insurers; \u00a71367 applies to DMHC-regulated Knox-Keene plans. Both apply to Blue Shield depending on which product line issued the prior authorization denial. \u00a710123.135 and \u00a71367(g) have effectively the same non-physician UR prohibition \u2014 the legislature harmonized them.",
+      "target_citizen": "CA_Healthcare_Fraud_Litigator",
+      "target_manifest": "${citizens}/CA_Healthcare_Fraud_Litigator/standards/ins_10123_135_prior_auth/manifest.json",
+      "build_status": "BUILT \u2014 same Citizen"
+    },
+    {
+      "target_standard": "HSC_1374_30_INDEPENDENT_MEDICAL_REVIEW",
+      "relationship": "enforcement mechanism \u2014 \u00a71374.30 IMR operates within the Knox-Keene framework; DMHC administers both Knox-Keene licensing and the IMR system. An adverse Knox-Keene decision (denial) triggers \u00a71374.30 IMR rights.",
+      "target_citizen": "CA_Healthcare_Fraud_Litigator",
+      "target_manifest": "${citizens}/CA_Healthcare_Fraud_Litigator/standards/hsc_1374_30_independent_medical_review/manifest.json",
+      "build_status": "BUILT \u2014 same Citizen"
+    },
+    {
+      "target_standard": "GOV_CODE_815_2",
+      "relationship": "adjacent \u2014 Gov. Code \u00a7815.2 public entity vicarious liability (tort); not directly applicable to Knox-Keene regulated entities (Blue Shield is private), but cross-reference because DMHC is a state agency whose enforcement decisions can be challenged under Gov. Code provisions",
+      "target_citizen": "CA_Civil_Rights_Litigator",
+      "target_manifest": "${citizens}/CA_Civil_Rights_Litigator/standards/gov_code_815_2/manifest.json",
+      "build_status": "BUILT \u2014 WITNESSED-BY-HERALD 2026-04-12"
+    }
+  ]
+}

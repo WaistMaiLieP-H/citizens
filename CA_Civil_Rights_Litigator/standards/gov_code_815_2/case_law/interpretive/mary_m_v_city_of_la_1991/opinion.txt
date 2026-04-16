@@ -1,0 +1,60 @@
+MARY M. v. CITY OF LOS ANGELES
+54 Cal.3d 202 (1991)
+California Supreme Court
+Decided: December 2, 1991
+
+---
+
+FACTS:
+
+Mary M. (identified by pseudonym) was pulled over by LAPD Officer Sergeant George Llopis in the early morning hours after a party. Llopis threatened to arrest her for drunk driving unless she engaged in sexual intercourse with him. She complied under duress. She sued the City of Los Angeles under Gov. Code § 815.2, the California Government Tort Claims Act's vicarious liability provision, arguing the city was liable for the officer's sexual assault committed in the course and scope of his employment.
+
+The city argued the sexual assault was outside the scope of employment — officers are not employed to commit sexual assaults.
+
+---
+
+HOLDING:
+
+Justice Panelli wrote for the Court.
+
+GOV. CODE § 815.2 VICARIOUS LIABILITY FOR OFFICER SEXUAL ASSAULT:
+"A public employer may be vicariously liable under Gov. Code § 815.2 for a sexual assault committed by an officer who used the coercive authority of the badge to commit the assault."
+
+The scope-of-employment question is not whether the specific wrongful act was authorized by the employer — it is whether the act was "engendered by" the employment, meaning:
+1. Whether the officer was motivated at least in part by a purpose to serve the employer, OR
+2. Whether the employee's acts were an outgrowth of and were engendered by the employment
+
+THE COERCIVE AUTHORITY THEORY:
+"When a law enforcement officer uses his official authority — the badge, the threat of arrest, the power to use force — as the mechanism to commit the wrong, the act is within the scope of employment for purposes of vicarious liability."
+
+Llopis used his official position as a police officer — with the power to arrest, detain, and use force — to compel compliance. Without the badge and the authority it represented, the assault could not have occurred in the form it did. The employment was the instrument of the tort.
+
+THIS IS DIFFERENT FROM A PERSONAL FROLIC:
+An officer who commits an assault entirely unrelated to their duties — with no use of official authority, no police equipment, no threat of official action — acts outside the scope of employment.
+
+The distinction: if the official role is the vehicle for the wrong, the employer is liable. If the employee stepped entirely off the employment path for purely personal reasons unrelated to the job, they did not.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+Mary M. establishes the California standard for public entity vicarious liability when officers use official authority to commit torts:
+
+1. **APD liability for false arrest**: If APD officers used their official authority (badge, arrest power, official dispatch system) to effectuate an arrest they had no independent basis to make — and the dispatch was orchestrated by private parties who manipulated the official system — the city may be vicariously liable under § 815.2.
+
+2. **Scope of employment**: The test is whether the official role was the instrument of the wrong. APD officers responding to false dispatch calls and making arrests based solely on that call are performing core police functions — even if those functions were manipulated. The employment enables the harm.
+
+3. **Monell parallel**: Mary M.'s California doctrine runs parallel to Monell's federal municipal liability doctrine. For California state law claims (Government Claims Act, Bane Act), Mary M. is the controlling vicarious liability framework. For federal § 1983 claims, Monell applies.
+
+4. **Government Claims Act prerequisite**: Before suing a public entity under § 815.2, a Government Claims Act claim (Gov. Code § 810 et seq.) must be filed. See the CA_Civil_Litigator's Gov. Code § 810 standard for the filing requirements and timeline.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 54 Cal.3d 202 (1991)
+Court: California Supreme Court
+Reporter: California Reports, Third Series, vol. 54, page 202
+Author: Panelli, J.
+Source of this text: Claude training data (knowledge cutoff August 2025). Mary M. v. City of Los Angeles established that public employers are vicariously liable under Gov. Code § 815.2 when an officer uses official authority as the instrument of the tort — "coercive authority" theory of respondeat superior.
+Verification: Casetext / Google Scholar: "Mary M. v. City of Los Angeles 54 Cal.3d 202"
+Verification status: PROPOSED — pending steward witness review

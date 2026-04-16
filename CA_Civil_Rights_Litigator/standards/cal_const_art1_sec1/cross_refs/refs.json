@@ -1,0 +1,26 @@
+{
+  "standard_id": "CAL_CONST_ART1_SEC1",
+  "cross_references": [
+    {
+      "target": "CAL_CONST_ART1_SEC13",
+      "citation": "Cal. Const. Art. I, § 13",
+      "title": "Right against unreasonable searches and seizures",
+      "relationship": "companion — Section 13 protects against unreasonable government searches; Section 1 protects privacy broadly against all actors. Together they form the two pillars of California constitutional privacy protection.",
+      "folder": "../../cal_const_art1_sec13/"
+    },
+    {
+      "target": "CAL_CIV_CODE_52_1",
+      "citation": "Cal. Civ. Code § 52.1",
+      "title": "Bane Act — civil action for interference with rights",
+      "relationship": "enforcement mechanism — the Bane Act provides a statutory cause of action when someone interferes with Article I, Section 1 rights through threats, intimidation, or coercion. Section 1 declares the right; Section 52.1 provides the teeth.",
+      "folder": "../../cal_civ_code_52_1/"
+    },
+    {
+      "target": "42_USC_1983",
+      "citation": "42 U.S.C. § 1983",
+      "title": "Civil action for deprivation of rights under color of law",
+      "relationship": "federal counterpart for government violations — when the privacy violator is a state actor, both Article I Section 1 and 42 USC 1983 may apply. Section 1983 requires state action; Article I Section 1 does not. They are often pleaded together against government defendants.",
+      "folder": "../../../../US_Federal_Civil_Rights_Litigator/standards/42_usc_1983/"
+    }
+  ]
+}

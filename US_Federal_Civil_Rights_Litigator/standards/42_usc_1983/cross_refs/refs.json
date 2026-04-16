@@ -1,0 +1,45 @@
+{
+  "standard_id": "42_USC_1983",
+  "refs_updated": "2026-04-12 — ADAM review pass; all build_status fields updated to reflect current corpus state",
+  "cross_references": [
+    {
+      "target_standard": "42_USC_1985",
+      "relationship": "sibling — conspiracy to interfere with civil rights (also from the 1871 Act, §2)",
+      "target_citizen": "US_Federal_Civil_Rights_Litigator",
+      "target_manifest": "${citizens}/US_Federal_Civil_Rights_Litigator/standards/42_usc_1985/manifest.json",
+      "build_status": "BUILT — WITNESSED-BY-HERALD 2026-04-12"
+    },
+    {
+      "target_standard": "42_USC_1988",
+      "relationship": "companion — attorney's fees for §1983 actions (enacted 1976, Pub. L. 94-559)",
+      "target_citizen": "US_Federal_Civil_Rights_Litigator",
+      "target_manifest": "${citizens}/US_Federal_Civil_Rights_Litigator/standards/42_usc_1988/manifest.json",
+      "build_status": "BUILT — WITNESSED-BY-HERALD 2026-04-12"
+    },
+    {
+      "target_standard": "28_USC_1343",
+      "relationship": "jurisdictional — federal court jurisdiction for civil rights actions (the venue provision separated from the 1871 Act)",
+      "target_citizen": "US_Federal_Civil_Rights_Litigator",
+      "target_manifest": "${citizens}/US_Federal_Civil_Rights_Litigator/standards/28_usc_1343/manifest.json",
+      "build_status": "BUILT — WITNESSED-BY-HERALD 2026-04-12"
+    },
+    {
+      "target_standard": "US_CONST_AMEND_14",
+      "relationship": "constitutional authority — §1983 enforces the Fourteenth Amendment; Congress enacted it under §5 enforcement power",
+      "target_citizen": "US_Federal_Civil_Rights_Litigator",
+      "build_status": "NOT BUILT AS STANDALONE STANDARD — Fourteenth Amendment text and context documented within §1983 evolution/01_origin/context.md. No separate standard required at this stage."
+    },
+    {
+      "target_standard": "14_STAT_27_CIVIL_RIGHTS_ACT_1866",
+      "relationship": "predecessor — §1983's 1871 origin text explicitly cross-references the 1866 Act's procedural framework",
+      "build_status": "NOT BUILT AS STANDALONE STANDARD — 1866 Act context documented within §1983 evolution/01_origin/context.md."
+    },
+    {
+      "target_standard": "CAL_CIV_CODE_52_1",
+      "relationship": "state analog — California's Bane Act provides a parallel state-law civil action for interference with constitutional rights by threats/intimidation/coercion",
+      "target_citizen": "CA_Civil_Rights_Litigator",
+      "target_manifest": "${citizens}/CA_Civil_Rights_Litigator/standards/cal_civ_code_52_1/manifest.json",
+      "build_status": "BUILT — WITNESSED-BY-HERALD 2026-04-12"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+LaRue v. DeWolff, Boberg & Associates, Inc.
+552 U.S. 248 (2008)
+United States Supreme Court, 2008
+
+FACTS:
+A participant in a defined contribution 401(k) plan directed the plan to make certain investment changes. The plan administrator failed to follow those directions. The participant later sued under § 1132(a)(2) and § 1109, seeking to recover the losses to his individual account caused by the plan's failure to follow his directions.
+
+HOLDING — 29 U.S.C. § 1109 / § 1132(a)(2):
+The Supreme Court held that § 1132(a)(2) authorizes recovery of losses to an individual plan participant's account — not only plan-wide losses. The Court distinguished Massachusetts Mutual Life Insurance Co. v. Russell (1985), which held that § 1109 recovery goes to the plan: in defined contribution plans where each participant has an individual account, restoring the loss to the plan necessarily restores the loss to the individual's account. The breach affected the plan, and the remedy (restoration to the individual account) serves the plan's interests by making the plan whole.
+
+SIGNIFICANCE:
+Established that defined contribution plan participants can bring § 1132(a)(2)/§ 1109 claims for breach affecting their individual accounts. For defined benefit plans (like most union pension plans), this holding is less directly applicable — but the principle that a breach affecting a specific participant's benefit calculation is actionable under § 1109 remains important.

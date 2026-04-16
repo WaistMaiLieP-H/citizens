@@ -1,0 +1,35 @@
+{
+  "standard_id": "CIV_3333_1",
+  "cross_references": [
+    {
+      "anchor": "civ_3333_2",
+      "path": "${citizens}/CA_Medical_Malpractice_Litigator/standards/civ_3333_2/",
+      "relationship": "MICRA_lattice_sibling",
+      "note": "§3333.2 (noneconomic cap) and §3333.1 (collateral source modification) are the two MICRA damages provisions that work in tandem against plaintiffs. Both apply only to 'professional negligence' claims. The Hrimnak doctrine that escapes §3333.2's cap also escapes §3333.1's collateral source modification — both MICRA damages restrictions disappear when the claim is framed as intentional tort."
+    },
+    {
+      "anchor": "ccp_340_5",
+      "path": "${citizens}/CA_Civil_Litigator/standards/ccp_340_5/",
+      "relationship": "MICRA_lattice_sibling",
+      "note": "§340.5 (1-year MICRA SOL) is the third MICRA constraint. The §3333.1/§3333.2 damages framework applies only if a claim is brought; §340.5 is the gateway that determines whether the claim can be brought at all. SIRVA case's discovery-rule tolling (discovery date 2026-03-18) is the most time-sensitive element."
+    },
+    {
+      "anchor": "ccp_364",
+      "path": "${citizens}/CA_Medical_Malpractice_Litigator/standards/ccp_364/",
+      "relationship": "MICRA_lattice_sibling",
+      "note": "§364 (90-day pre-suit notice) is the procedural gateway that must be navigated before §3333.1/§3333.2 damages can be adjudicated. §364 notice by 2026-12-01 for SIRVA case."
+    },
+    {
+      "anchor": "sirva_case",
+      "path": "${nonfamilylaw}/04-22_SIRVA/",
+      "relationship": "case_binding_primary",
+      "note": "SIRVA case (2027-03-18 SOL deadline). Blue Shield or other insurer payments for the failed shoulder surgery will be subject to §3333.1 defense introduction. Coordinate with insurer to understand (a) total amount paid, (b) whether subrogation demand received, (c) whether §3333.1(c)'s anti-subrogation provision terminates insurer's claim once defense introduces the evidence."
+    },
+    {
+      "anchor": "spine_surgery_fraud",
+      "path": "${nonfamilylaw}/11-21_Spine_Surgery/",
+      "relationship": "case_binding_hrimnak_escape",
+      "note": "Spine surgery fraud case: if framed as fraud/battery (Hrimnak doctrine), §3333.1 does not apply. No collateral source reduction for any insurance payments toward spine surgery. Full economic damages available."
+    }
+  ]
+}

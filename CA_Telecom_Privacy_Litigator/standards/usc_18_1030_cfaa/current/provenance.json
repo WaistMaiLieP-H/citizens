@@ -1,0 +1,11 @@
+{
+  "source": "U.S. Code, Title 18, § 1030 — uscode.house.gov",
+  "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1030&num=0&edition=prelim",
+  "version_captured": "2026 (current, post-2008 Identity Theft Enforcement Act)",
+  "fetch_note": "Text in text.txt is operative provisions selected for telecom/SIM swap context. Full statute verbatim capture pending at primary-source verification session.",
+  "html_sha256": "PENDING_PRIMARY_SOURCE_CAPTURE",
+  "fetch_tool": "WebFetch",
+  "retrieval_steward": "PENDING",
+  "positive_law": true,
+  "note": "Title 18 IS positive law. uscode.house.gov is the authoritative source."
+}

@@ -1,0 +1,15 @@
+Pointer to current/ directory.
+
+The current text of Cal. Penal Code § 502 is in:
+../../../current/text.txt
+
+The chain closes here: SB 1012 (1979, narrow financial fraud) → SB 2582 (1988, comprehensive rewrite with pure unauthorized access + civil right of action) → Chapter 828 (1994, injunctive relief + penalty refinement) → current.
+
+Key current operative provisions for unauthorized access / SIM swap:
+- § 502(c)(1): access + scheme to defraud or extort (felony)
+- § 502(c)(2): access + unauthorized copying of data (felony or misdemeanor)
+- § 502(c)(7): pure unauthorized access — "knowingly and without permission accesses or causes to be accessed any computer, computer system, or computer network" (misdemeanor baseline, felony with damage/loss)
+- § 502(e)(1): civil private right of action — compensatory damages + injunctive relief
+- § 502(e)(2): treble damages for willful violation with intent to injure or defraud
+
+For SIM swap-enabled access: each unauthorized login to any account is a discrete § 502(c)(7) violation. For ongoing surveillance: seek § 502(e) civil injunction.

@@ -1,0 +1,22 @@
+Monell Municipal Liability Doctrine — Case-Law Standard
+
+This is a case-law standard, not a statutory provision. The Monell doctrine has no statutory
+text of its own — it is a body of judicial interpretation that defines when municipalities
+and other local government bodies can be held liable under 42 USC §1983.
+
+Core rule (Monell v. Dept of Social Services, 436 U.S. 658 (1978)):
+A municipality is liable under §1983 only when the constitutional violation results from:
+  (1) An official policy adopted by the municipality's legislative body; OR
+  (2) An act or decision by an official whose acts "may fairly be said to represent
+      official policy"; OR
+  (3) A custom or practice so widespread and persistent that it carries the force of law,
+      even though not formally adopted.
+
+NO RESPONDEAT SUPERIOR: A municipality cannot be held liable under §1983 solely because
+it employs someone who committed a constitutional violation. The violation must be caused
+by the municipality's own policy, custom, or deliberate choice.
+
+This distinguishes Monell from California's Gov. Code §815.2, which DOES impose respondeat
+superior (vicarious liability for employee acts within scope of employment). A plaintiff
+bringing both §1983 and Bane Act claims has a harder path to entity liability under §1983
+(must show policy/custom) than under state law (must show scope of employment).

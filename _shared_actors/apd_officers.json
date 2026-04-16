@@ -1,0 +1,44 @@
+{
+  "shared_id": "apd_officers",
+  "canonical_name": "Antioch Police Department Officers",
+  "aliases": [],
+  "identity_notes": "Group record. Individual officer names TBD from case file review of June 16, 2023 incident and related reports. City of Antioch is the entity defendant under Gov. Code §815.2 respondeat superior.",
+
+  "citizen_appearances": {
+    "CA_Family_Law_Litigator": {
+      "role": "Officers involved in June 16, 2023 removal of Cole from father's custody without verifying custody order; responded to Ann Hillberg's 911 call using dispatcher language ('known to smoke meth')",
+      "risk_level": "HIGH",
+      "local_record": "${citizens}/CA_Family_Law_Litigator/actors/apd_officers.json (if created)"
+    },
+    "US_Federal_Civil_Rights_Litigator": {
+      "role": "§1983 defendants — law enforcement officers who deprived steward of custody (liberty interest) without due process; potential excessive force; false arrest; failure to verify custody order before removing child",
+      "risk_level": "HIGH",
+      "local_record": "${citizens}/US_Federal_Civil_Rights_Litigator/actors/apd_officers.json",
+      "applicable_standards": ["42_USC_1983", "42_USC_1985"],
+      "qualified_immunity_analysis": "Officers will assert qualified immunity. The question is whether a reasonable officer would have known that removing a child from a custodial parent without verifying the custody order violates clearly established law. Baker v. McCollan (1979) and related cases govern."
+    },
+    "CA_Civil_Rights_Litigator": {
+      "role": "Bane Act (§52.1) defendants — threats/intimidation/coercion interfering with constitutional rights; Cal. Const. Art. I §13 unreasonable search/seizure (removing child from home without warrant or exigent circumstances)",
+      "risk_level": "HIGH",
+      "local_record": "${citizens}/CA_Civil_Rights_Litigator/actors/apd_officers.json",
+      "applicable_standards": ["CAL_CIV_CODE_52_1", "CAL_CONST_ART_I_SEC_13"]
+    },
+    "CA_Civil_Litigator": {
+      "role": "Gov. Code §815.2 entity liability — City of Antioch is vicariously liable for officers' tortious conduct in the scope of employment; §815.6 mandatory duty (failure to comply with POST DV Response Guidelines)",
+      "risk_level": "HIGH",
+      "local_record": "${citizens}/CA_Civil_Litigator/actors/apd_officers.json",
+      "applicable_standards": ["GOV_CODE_815_2", "GOV_CODE_815_6"]
+    }
+  },
+
+  "cross_domain_risk": "HIGH — appears in all four Citizens' domains; the June 16, 2023 incident is the factual anchor for federal §1983, state Bane Act, and state tort claims; Antioch PD forensic audit (March 21, 2026) already found 10 violations",
+
+  "outstanding_investigations": [
+    "Individual officer identification from APD incident reports and body camera footage (PRA request)",
+    "POST training records for responding officers (DV response certification)",
+    "APD internal affairs records for the June 16, 2023 incident",
+    "City of Antioch risk management / insurance carrier notification records"
+  ],
+
+  "filed_at_utc": "2026-04-08T22:00:00Z"
+}

@@ -1,0 +1,20 @@
+California Civil Code § 1102 — Residential real property transfer disclosure
+
+(a) Except as provided in Section 1102.2, this article applies to any transfer by sale, exchange, real property sales contract as defined in Section 2985, lease with an option to purchase, any other option to purchase, or ground lease coupled with improvements of any single-family residential property.
+
+(b) For purposes of this article, the definitions contained in Chapter 1 (commencing with Section 10000) of Part 1 of Division 4 of the Business and Professions Code shall apply.
+
+(c) Any waiver of the requirements of this article is void as against public policy.
+
+---
+
+Article 1.5 (§§ 1102-1102.19) establishes California's mandatory Transfer Disclosure Statement (TDS) regime for residential real property transfers. Key companion sections:
+
+- **§ 1102.3** — Timing of delivery (before transfer of title; before execution of sales contract)
+- **§ 1102.4** — Seller and agent liability for incomplete or inaccurate statements
+- **§ 1102.6** — Statutory form of TDS (including Sections I, II, and III for seller/agent disclosures)
+- **§ 1102.8** — Environmental hazards pamphlet requirements
+- **§ 1102.13** — Required disclosures related to death on the property
+- **§ 1102.15** — Military ordnance disclosure requirements
+
+Source: leginfo.legislature.ca.gov via VernenLegal MCP, retrieved 2026-04-10.

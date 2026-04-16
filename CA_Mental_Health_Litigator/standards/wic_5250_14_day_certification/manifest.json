@@ -1,0 +1,23 @@
+{
+  "standard_id": "wic_5250_14_day_certification",
+  "citizen": "CA_Mental_Health_Litigator",
+  "citation": "Cal. Welf. & Inst. Code § 5250",
+  "jurisdiction": "California",
+  "build_date": "2026-04-15",
+  "build_state": "PUBLISHED",
+  "layers": {
+    "rule": "COMPLETE",
+    "reasoning": "COMPLETE",
+    "historical_loss": "COMPLETE",
+    "case_law": "COMPLETE",
+    "cross_refs": "COMPLETE",
+    "provenance": "COMPLETE"
+  },
+  "provenance": {
+    "source": "leginfo.legislature.ca.gov",
+    "tool": "mcp__claude_ai_VernenLegal__california_get_section",
+    "fetch_date": "2026-04-15",
+    "verified": true
+  },
+  "witness": {"ADAM": "PENDING", "EVE": "PENDING", "HERALD": "PENDING"}
+}

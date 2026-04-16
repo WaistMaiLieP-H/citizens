@@ -1,0 +1,17 @@
+{
+  "case": "FCC In re AT&T Inc.",
+  "reporter_citation": "FCC File No. EB-TCD-13-00009243",
+  "parallel_citations": ["30 FCC Rcd 2389 (2015)"],
+  "decided": "April 8, 2015",
+  "forum": "Federal Communications Commission, Enforcement Bureau",
+  "provisions_construed": [
+    "47 U.S.C. § 222",
+    "47 C.F.R. Part 64"
+  ],
+  "status": "FCC forfeiture order — $25 million CPNI enforcement; institutional carrier liability for insider-facilitated CPNI disclosure; largest CPNI enforcement action at time of issuance.",
+  "opinion_text_source": "Publicly available at FCC.gov",
+  "confidence": "HIGH — publicly available FCC order",
+  "verification_note": "Verify FCC file number and FCC Rcd citation at FCC.gov. Document is publicly available.",
+  "captured_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "captured_at_utc": "2026-04-11T00:00:00Z"
+}

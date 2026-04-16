@@ -1,0 +1,75 @@
+HARLOW v. FITZGERALD
+457 U.S. 800 (1982)
+United States Supreme Court
+Decided: June 24, 1982
+
+---
+
+FACTS:
+
+A. Ernest Fitzgerald was a federal defense department analyst who was unlawfully dismissed from his position after testifying before Congress about cost overruns. He sued senior White House aides Bryce Harlow and Alexander Butterfield under Bivens and § 1983 for conspiring to violate his constitutional rights.
+
+The defendants asserted qualified immunity. The district court allowed the case to proceed. The Supreme Court granted certiorari to resolve the standard for qualified immunity.
+
+---
+
+HOLDING:
+
+Justice Powell wrote for the Court (8-1 on the qualified immunity standard).
+
+THE PRIOR SUBJECTIVE TEST (REJECTED):
+Wood v. Strickland (1975) and Pierson v. Ray (1967) had applied a two-part qualified immunity test:
+1. Subjective part: did the officer act with malice or bad faith?
+2. Objective part: did the officer know or should they have known the act violated constitutional rights?
+
+The subjective part "frequently was pretextual" and created impossible discovery burdens, requiring trial on the officer's state of mind in virtually every § 1983 case.
+
+THE HARLOW OBJECTIVE STANDARD — THE RULE THAT CONTROLS TODAY:
+
+"[G]overnment officials performing discretionary functions generally are shielded from liability for civil damages insofar as their conduct does not violate clearly established statutory or constitutional rights of which a reasonable person would have known."
+
+THE TEST IS ENTIRELY OBJECTIVE:
+- "The relevant question is whether it would have been clear to a reasonable official that his conduct was unlawful in the situation he confronted." (Later formulation in Saucier.)
+- A plaintiff cannot defeat qualified immunity by alleging bad faith or malice. The only question is whether the right was clearly established.
+- Subjective good faith or bad faith is irrelevant.
+
+WHAT "CLEARLY ESTABLISHED" MEANS:
+A right is "clearly established" when "the state of the law" at the time gave the official "fair warning" that their conduct was unconstitutional. Usually this means there must be a prior case from the Supreme Court or controlling circuit that placed the constitutional question "beyond debate."
+
+WHY HARLOW ABANDONED THE SUBJECTIVE TEST:
+"If the purpose of qualified immunity is to protect government officials from unnecessary harassment, then the defense must be constructed so that it can be determined on motions to dismiss or summary judgment, not at trial. Subjective intent is a jury question. The objective test allows the court to resolve immunity at the threshold."
+
+---
+
+THE HARLOW → SAUCIER → PEARSON EVOLUTION:
+
+1. Harlow (1982): Objectively reasonable belief that conduct was lawful bars § 1983 liability
+2. Saucier v. Katz (2001): Courts must answer constitutional question first (order of battle mandatory)
+3. Pearson v. Callahan (2009): Saucier's mandatory order of battle reversed — courts may skip the constitutional question and rule solely on "clearly established" prong
+
+Current doctrine: Courts can rule for defendants on qualified immunity by saying "even if this was unconstitutional, the law wasn't clearly established" — without ever deciding whether the conduct was constitutional. This lets unconstitutional police conduct escape judicial condemnation indefinitely.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For the § 1983 federal complaint, the Harlow defense requires the plaintiff to identify clearly established law that gave defendants "fair warning":
+
+1. **Constitutional right to family association**: clearly established — Troxel v. Granville (2000), Santosky v. Kramer (1982)
+2. **Fourth Amendment warrant requirement**: clearly established — foundational; no specific case needed
+3. **Due process before removal of children**: clearly established — Mathews v. Eldridge (1976)
+4. **Right to not be arrested based on fabricated evidence**: clearly established — Franks v. Delaware (1978) and its progeny
+5. **Taylor v. Riojas exception**: When the constitutional violation is "obvious," no specific prior case is needed
+
+Strategy: For each defendant, identify the clearly established right they violated and the cases establishing it. The more specific the prior case, the stronger the Harlow response.
+
+---
+
+SOURCE PROVENANCE:
+Citation: 457 U.S. 800 (1982)
+Court: United States Supreme Court
+Reporter: United States Reports, vol. 457, page 800
+Author: Powell, J. (8-1)
+Source of this text: Claude training data (knowledge cutoff August 2025). Harlow v. Fitzgerald transformed qualified immunity from a subjective-intent defense into a purely objective legal question — "clearly established law."
+Verification: CourtListener / Justia / Google Scholar: "Harlow v. Fitzgerald 457 U.S. 800"
+Verification status: PROPOSED — pending steward witness review

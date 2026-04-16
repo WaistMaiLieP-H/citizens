@@ -1,0 +1,10 @@
+{
+  "stage": "02_amendment_1988_computer_matching",
+  "source": "Computer Matching and Privacy Protection Act of 1988, Pub. L. 100-503, 102 Stat. 2507",
+  "signed": "1988-10-18",
+  "effective": "1989-01-01",
+  "wound_addressed": "Computer matching programs operated outside 1974 Act — no transparency, no verification, no notice before adverse action based on matched data",
+  "added_sections": ["§552a(o)", "§552a(p)", "§552a(q)", "§552a(r)", "§552a(s)", "§552a(t)", "§552a(u)"],
+  "verbatim_capture_status": "PENDING",
+  "build_date": "2026-04-11"
+}

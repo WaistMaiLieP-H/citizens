@@ -1,0 +1,20 @@
+{
+  "standard_id": "CAL_PROB_1800_3_MINOR_CONSERVATEE",
+  "refs_updated": "2026-04-12",
+  "cross_references": [
+    {
+      "target_standard": "CAL_PROB_1801_CONSERVATORSHIP_APPOINTMENT",
+      "relationship": "\u00a71801 is expressly 'Subject to Section 1800.3' \u2014 \u00a71800.3(b) least restrictive alternative finding is a prerequisite to any \u00a71801 appointment. The two sections must be read together.",
+      "target_citizen": "CA_Conservator_Investigator",
+      "target_manifest": "${citizens}/CA_Conservator_Investigator/standards/cal_prob_1801_conservatorship_appointment/manifest.json",
+      "build_status": "BUILT \u2014 same Citizen"
+    },
+    {
+      "target_standard": "WIC_5150_INVOLUNTARY_HOLD",
+      "relationship": "alternative pathway for unmarried minors \u2014 if a general Prob. Code conservatorship is not available for an unmarried minor, the LPS pathway (WIC \u00a75150 \u2192 \u00a75250 \u2192 \u00a75350) is the psychiatric involuntary mechanism; an unmarried minor subjected to conservatorship-like control may have been subjected to LPS proceedings rather than Prob. Code proceedings",
+      "target_citizen": "CA_Conservator_Investigator",
+      "target_manifest": "${citizens}/CA_Conservator_Investigator/standards/wic_5150/manifest.json",
+      "build_status": "NOT YET BUILT AS STANDALONE STANDARD in this Citizen \u2014 build next session"
+    }
+  ]
+}

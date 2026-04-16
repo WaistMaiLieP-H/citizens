@@ -1,0 +1,9 @@
+{
+  "source": "leginfo.legislature.ca.gov",
+  "tool": "mcp__claude_ai_VernenLegal__california_get_section",
+  "fetch_date": "2026-04-13",
+  "verified": true,
+  "statute_sha256": "44de7f3dcada1648cf9307614a097745cf8126c4e97bd3e27922572fe728a371",
+  "note": "SHA256 computed from opening operative text of §10123.135(a). Full statute text is lengthy; hash anchors on identifying paragraph. Full text in statute_text.md.",
+  "retrieval_steward": "CA_Insurance_Compliance_Litigator build session 2026-04-13"
+}

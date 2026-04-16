@@ -1,0 +1,59 @@
+PEOPLE v. RUBIN
+188 Cal.App.4th 1279 (2010)
+California Court of Appeal, Second Appellate District
+Decided: 2010
+
+---
+
+FACTS:
+
+Criminal contempt proceedings were brought under § 166(a)(4) and (c)(1) for violation of a court order. Issues arose regarding the adequacy of notice of the order's terms and the due process protections applicable to the contempt proceeding.
+
+---
+
+HOLDING:
+
+§ 166 NOTICE, DUE PROCESS, AND VALIDITY:
+
+1. **Personal service creates a presumption of notice.** When a court order is personally served on the defendant, the prosecution benefits from a presumption that the defendant knew its terms. This presumption can be rebutted by evidence that service was irregular, that the defendant did not actually receive or understand the order, or that the terms were too ambiguous to provide meaningful notice.
+
+2. **Substituted service is sufficient if the defendant had actual knowledge.** Even without personal service, the defendant can be convicted if the prosecution proves actual knowledge by other means (e.g., presence in court when the order was issued, subsequent acknowledgment, communication referencing the order's terms).
+
+3. **Ambiguous orders are strictly construed against the prosecution.** When a court order's terms are ambiguous, courts apply the rule of lenity and will not convict a defendant whose conduct could reasonably be understood as not violating the order. This is both a due process safeguard and a practical limit on contempt prosecutions.
+
+4. **Void orders cannot support a contempt conviction.** If the underlying order was void (issued without jurisdiction, procedurally defective, etc.), violation of it is not criminal contempt. A truly void order can be challenged collaterally.
+
+---
+
+DUE PROCESS PROTECTIONS IN CRIMINAL CONTEMPT:
+
+Criminal contempt proceedings require most of the same due process protections as any other criminal prosecution:
+- Right to counsel (for serious contempt with possible incarceration)
+- Right to notice of the charged violation
+- Right to present a defense
+- Proof beyond a reasonable doubt
+- Right to appeal
+
+These protections apply specifically when the contempt is "criminal" (punitive purpose) as opposed to "civil" (coercive purpose). Section 166 is criminal contempt and carries the full set of protections.
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For any § 166 prosecution involving the steward's case history:
+1. Was the order properly served? (Personal vs. substituted service analysis)
+2. Were the terms sufficiently specific to provide notice? (Ambiguity-as-defense)
+3. Was the order jurisdictionally valid? (Void-order challenge)
+4. Were criminal procedure protections observed in the contempt proceeding?
+
+The rule of lenity for ambiguous orders is particularly important where orders arising from the family law proceedings may have been drafted to create traps through ambiguous scope or conflicting provisions.
+
+---
+
+SOURCE PROVENANCE:
+Citation: People v. Rubin (2010) 188 Cal.App.4th 1279, 116 Cal.Rptr.3d 494
+Court: California Court of Appeal, Second Appellate District
+Reporter: California Appellate Reports, Fourth Series, vol. 188, page 1279
+Source: Knowledge cutoff August 2025. Addresses notice, service sufficiency, and due process in § 166 criminal contempt. Verify reporter citation before use in filed document.
+Verification: Casetext / Google Scholar: "People v. Rubin 188 Cal.App.4th 1279"
+Verification status: PROPOSED — pending steward witness review

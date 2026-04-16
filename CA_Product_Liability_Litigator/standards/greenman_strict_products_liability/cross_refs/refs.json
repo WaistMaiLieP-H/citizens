@@ -1,0 +1,47 @@
+{
+  "standard_id": "greenman_strict_products_liability",
+  "citizen": "CA_Product_Liability_Litigator",
+  "build_date": "2026-04-13",
+  "cross_references": [
+    {
+      "ref_id": "XREF-PL-001",
+      "target_citizen": "CA_Product_Liability_Litigator",
+      "target_standard": "barker_design_defect_test",
+      "path": "${citizens}/CA_Product_Liability_Litigator/standards/barker_design_defect_test/",
+      "relationship": "expansion",
+      "note": "Barker expands Greenman's design defect prong into dual test (consumer expectations + risk-utility). Must be read together."
+    },
+    {
+      "ref_id": "XREF-PL-002",
+      "target_citizen": "CA_Product_Liability_Litigator",
+      "target_standard": "vicp_300aa_11_preemption",
+      "path": "${citizens}/CA_Product_Liability_Litigator/standards/vicp_300aa_11_preemption/",
+      "relationship": "boundary",
+      "note": "VICP preemption limits Greenman strict liability against vaccine MANUFACTURERS for design defects. Does NOT apply to Walgreens as administering party."
+    },
+    {
+      "ref_id": "XREF-PL-003",
+      "target_citizen": "CA_Product_Liability_Litigator",
+      "target_standard": "com_2314_implied_warranty_merchantability",
+      "path": "${citizens}/CA_Product_Liability_Litigator/standards/com_2314_implied_warranty_merchantability/",
+      "relationship": "concurrent",
+      "note": "Greenman intentionally separated strict liability tort from warranty contract. Both theories may be pled simultaneously. COM §2314 adds contractual warranty track."
+    },
+    {
+      "ref_id": "XREF-PL-004",
+      "target_citizen": "CA_Medical_Malpractice_Litigator",
+      "target_standard": "sirva_doctrine",
+      "path": "${citizens}/CA_Medical_Malpractice_Litigator/standards/sirva_doctrine/",
+      "relationship": "parallel",
+      "note": "SIRVA against Walgreens is primarily a negligent administration claim owned by CA_Medical_Malpractice_Litigator. This standard covers device defect layer only."
+    },
+    {
+      "ref_id": "XREF-PL-005",
+      "target_citizen": "CA_Vehicle_Code_Specialist",
+      "target_standard": "veh_11713_dealer_prohibited_acts",
+      "path": "${citizens}/CA_Vehicle_Code_Specialist/standards/veh_11713_dealer_prohibited_acts/",
+      "relationship": "concurrent",
+      "note": "RedJag stripped vehicle parts: VEH §11713 dealer fraud runs concurrent with Greenman manufacturing defect theory for the vehicle as delivered."
+    }
+  ]
+}

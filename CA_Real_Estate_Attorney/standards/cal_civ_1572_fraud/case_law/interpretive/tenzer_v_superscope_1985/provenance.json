@@ -1,0 +1,23 @@
+{
+  "case": "Tenzer v. Superscope, Inc.",
+  "reporter_citation": "39 Cal.3d 18",
+  "parallel_citations": ["216 Cal.Rptr. 130", "702 P.2d 212"],
+  "decided": "1985-07-18",
+  "court": "Supreme Court of California",
+  "opinion_author": "Chief Justice Rose Bird (unanimous on the § 1572(4) issue)",
+  "statute_construed": "California Civil Code § 1572(4)",
+  "status": "Binding authority, still controlling as of 2026-04-10. No subsequent overruling.",
+  "authorities_relied_on_internally": [
+    "Kett v. Graeser (1966) 241 Cal.App.2d 571 — earlier articulation of the circumstantial evidence rule",
+    "Burke v. Maguire (1908) 154 Cal. 456 — 19th-century California Supreme Court authority for the proposition that promise-without-intent is fraud",
+    "Prosser on Torts (4th ed.) on promissory fraud"
+  ],
+  "subsequent_treatment": [
+    "Lazar v. Superior Court (1996) 12 Cal.4th 631 — reaffirms and extends",
+    "Engalla v. Permanente (1997) 15 Cal.4th 951 — applies in arbitration context",
+    "CACI No. 1902 — codifies Tenzer's circumstantial-inference framework"
+  ],
+  "opinion_text_source": "Not yet captured. To be retrieved from law.justia.com/cases/california/supreme-court/3d/39/18.html",
+  "captured_by": "Claude (assistant) under steward direction — Michael Hartmann",
+  "captured_at_utc": "2026-04-10T18:55:00Z"
+}

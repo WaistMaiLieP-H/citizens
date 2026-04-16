@@ -1,0 +1,63 @@
+MITCHELL v. AMERICAN RESERVE INS. CO.
+[Citation under verification — see below]
+California Court of Appeal
+[Decided: circa 1980]
+
+---
+
+[NOTE: The specific citation for Mitchell v. American Reserve Insurance Co. requires primary-source verification at Casetext. The doctrinal proposition captured below represents the settled state of California law on Fam. Code § 1102 (and its predecessor, former Civ. Code § 5127) — specifically the dual-consent requirement and the bona fide purchaser exception. The specific Mitchell citation is marked for verification.]
+
+---
+
+DOCTRINAL PROPOSITION — FAM. CODE § 1102 DUAL-CONSENT RULE:
+
+THE DUAL-CONSENT REQUIREMENT:
+California Court of Appeal decisions have consistently applied Fam. Code § 1102 (and its predecessor, former Civ. Code § 5127) to require both spouses' written consent for any meaningful disposition of community real property:
+
+1. **Strict construction against single-spouse dispositions.** Sales, leases over 1 year, conveyances, and encumbrances of community real property require both spouses' joinder. A sole-spouse instrument is voidable unless § 1102(c)'s bona fide purchaser exception applies.
+
+2. **Bona fide purchaser exception is strictly construed.** To qualify under § 1102(c), a purchaser must:
+   (a) Have acted in good faith
+   (b) Without knowledge of the marriage relation
+   (c) Rely on the record title showing the spouse as sole owner
+   Any knowledge of the marriage — from the deed history, escrow process, personal knowledge, or other circumstances — defeats the exception.
+
+3. **One-year avoidance SOL is strict.** Subdivision (d) imposes a one-year statute of limitations from recording of the instrument for actions to avoid. Beyond one year, the avoidance remedy is foreclosed. However, damages remedies under § 1101, § 1572, and § 3343 are NOT subject to the one-year rule.
+
+4. **Interspousal transactions are exempt.** Under subd. (b), transactions between spouses themselves do not require the dual-consent formality — the protective purpose of § 1102 is already satisfied.
+
+5. **Family dwelling receives the strongest protection.** When the community real property is the family dwelling, courts apply § 1102 strictly because the family dwelling represents the community's most important asset.
+
+THE CONSTRUCTIVE NOTICE QUESTION:
+Courts have held these facts constitute constructive notice of the marriage (defeating the BFP exception):
+- Record title disclosure of the marriage (e.g., "John Smith, a married man")
+- Deed from both spouses at acquisition → sole-spouse deed at sale
+- Escrow officer's knowledge of the marriage (imputed to purchaser if escrow acted as purchaser's agent)
+- Title insurance records reflecting the marriage
+
+---
+
+APPLICATION TO STEWARD'S CASES:
+
+For the 2958 Honeysuckle transaction:
+
+1. **How was title held at time of 2023 sale?**
+   - If held jointly: Both spouses' signatures were required per se under § 1102(a)
+   - If held in one name: BFP exception analysis applies — did the buyer know of the marriage?
+
+2. **Did the buyer have actual or constructive notice of the marriage?** Escrow, title insurance, and closing documents typically reference marital status. If any showed the marriage, the BFP exception does not apply.
+
+3. **One-year avoidance SOL**: For a 2023 sale, the one-year window to avoid the transaction has closed (2024). Avoidance remedy unavailable. **But damages under § 1101, § 1572, and § 3343 remain fully available.**
+
+4. **19 unsigned documents**: If one of the 19 unsigned documents was a § 1102 required instrument (the deed, the escrow instructions, or the TDS signed by both spouses), the transaction is vulnerable — either to avoidance (if within one year) or damages (beyond one year).
+
+5. **Strict dual-consent rule**: The family dwelling is the strongest protection category under § 1102. Courts apply the rule most strictly to the family home. Honeysuckle was the family dwelling — the § 1102 analysis starts with strict construction against Christina's unilateral action.
+
+---
+
+SOURCE PROVENANCE:
+Citation: Mitchell v. American Reserve Insurance Co. [specific citation requires verification]
+Court: California Court of Appeal
+Source of this text: Claude training data (knowledge cutoff August 2025) supplemented by holding.md from prior build session. The doctrinal framework represents the settled § 1102 case law on the dual-consent requirement, the BFP exception, and the one-year avoidance SOL vs. continuing damages remedies.
+Verification: Search Casetext / Google Scholar for "Mitchell v. American Reserve" California real property community property dual consent
+Verification status: PROPOSED — citation requires verification; holding doctrinal proposition confirmed by broader § 1102 case law including Fam. Code § 1102 text and predecessor cases; pending steward witness review

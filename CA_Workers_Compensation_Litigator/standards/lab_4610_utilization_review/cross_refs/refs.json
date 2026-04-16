@@ -1,0 +1,47 @@
+{
+  "standard_id": "lab_4610_utilization_review",
+  "citizen": "CA_Workers_Compensation_Litigator",
+  "build_date": "2026-04-13",
+  "cross_references": [
+    {
+      "ref_id": "XREF-4610-001",
+      "target_citizen": "CA_Workers_Compensation_Litigator",
+      "target_standard": "lab_4600_medical_treatment_entitlement",
+      "path": "${citizens}/CA_Workers_Compensation_Litigator/standards/lab_4600_medical_treatment_entitlement/",
+      "relationship": "prerequisite",
+      "note": "§4610 UR is the gateway through which §4600 medical treatment entitlement must pass when the employer disputes medical necessity. Treatment cannot be denied without a compliant §4610 UR process. Procedurally deficient UR means the §4600 entitlement stands."
+    },
+    {
+      "ref_id": "XREF-4610-002",
+      "target_citizen": "CA_Workers_Compensation_Litigator",
+      "target_standard": "lab_4553_serious_willful_misconduct_enhancement",
+      "path": "${citizens}/CA_Workers_Compensation_Litigator/standards/lab_4553_serious_willful_misconduct_enhancement/",
+      "relationship": "concurrent",
+      "note": "A pattern of systematically deficient §4610 UR denials — issued by non-physicians, after deadlines, without criteria disclosure — directed by employer management with knowledge that the denials violate §4610 may constitute §4553 serious and willful misconduct. The UR violation is both a standalone §4610 claim and evidence for the §4553 enhancement."
+    },
+    {
+      "ref_id": "XREF-4610-003",
+      "target_citizen": "CA_Workers_Compensation_Litigator",
+      "target_standard": "lab_3202_liberal_construction",
+      "path": "${citizens}/CA_Workers_Compensation_Litigator/standards/lab_3202_liberal_construction/",
+      "relationship": "prerequisite",
+      "note": "§3202 applies to ambiguities in §4610 — particularly what constitutes 'competent to evaluate the specific clinical issues' under §4610(g)(3)(A) and what timeliness is 'appropriate for the nature of the employee's condition' under §4610(i)(3). Ambiguities construed in the worker's favor."
+    },
+    {
+      "ref_id": "XREF-4610-004",
+      "target_citizen": "CA_Insurance_Compliance_Litigator",
+      "target_standard": "ins_790_03_unfair_claims",
+      "path": "${citizens}/CA_Insurance_Compliance_Litigator/standards/ins_790_03_unfair_claims/",
+      "relationship": "parallel",
+      "note": "Systematic bad-faith UR denials by the workers comp insurer — particularly using non-physician reviewers and missing timeliness deadlines as a pattern — may constitute both §4610 violations (WCAB track) and INS §790.03 unfair claim settlement practices (CDI/court track). Both tracks may apply simultaneously."
+    },
+    {
+      "ref_id": "XREF-4610-005",
+      "target_citizen": "CA_Workers_Compensation_Litigator",
+      "target_standard": "lab_4663_apportionment_permanent_disability",
+      "path": "${citizens}/CA_Workers_Compensation_Litigator/standards/lab_4663_apportionment_permanent_disability/",
+      "relationship": "concurrent",
+      "note": "Delayed or denied treatment caused by §4610 UR violations may accelerate permanent disability, increasing the apportionable PD. Deficient UR directly affects the §4663 apportionment baseline — the disability the worker would have had with timely treatment vs. the disability caused by denial-induced progression."
+    }
+  ]
+}

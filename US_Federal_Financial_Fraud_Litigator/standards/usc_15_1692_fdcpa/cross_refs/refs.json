@@ -1,0 +1,29 @@
+{
+  "standard_id": "USC_15_1692_FDCPA",
+  "cross_references": [
+    {
+      "anchor": "civ_1788_rosenthal",
+      "path": "${citizens}/CA_Consumer_Protection_Litigator/standards/civ_1788_rosenthal/",
+      "relationship": "california_analog_primary",
+      "note": "Rosenthal FDCA (Civ §§1788-1788.33) covers original creditors excluded from federal FDCPA. Every collection case in California should plead both: FDCPA against third-party collectors + Rosenthal against all collectors. Rosenthal also allows punitive damages (§1788.30(b)) that federal FDCPA does not."
+    },
+    {
+      "anchor": "usc_15_1681_fcra",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_15_1681_fcra/",
+      "relationship": "compound_claim",
+      "note": "FDCPA + FCRA compound claim: debt collector reports disputed debt to CRA while §1692g dispute is pending = §1692e(8) FDCPA (communicating false credit info) + §1681s-2(b) FCRA (furnisher failed to correct after dispute). Dual statutory damages available."
+    },
+    {
+      "anchor": "usc_18_1343_wire_fraud",
+      "path": "${citizens}/US_Federal_Financial_Fraud_Litigator/standards/usc_18_1343_wire_fraud/",
+      "relationship": "criminal_overlay",
+      "note": "If debt collection activity is part of a broader wire fraud scheme (collecting fraudulent debts via wire communications), FDCPA violations compound with §1343 wire fraud predicates. Collection of a debt known to be fraudulent via wire communications = both FDCPA §1692e(2)(A) and §1343 wire fraud."
+    },
+    {
+      "anchor": "debt_collections_case",
+      "path": "${nonfamilylaw}/Debt_Collections/",
+      "relationship": "case_binding_primary",
+      "note": "Primary evidentiary source for FDCPA claims. Review all collection correspondence for: mini-Miranda disclosure (§1692e(11)), validation notice within 5 days (§1692g), whether disputes were sent and collection continued (§1692g), whether communications included false statements of debt status (§1692e(2))."
+    }
+  ]
+}
