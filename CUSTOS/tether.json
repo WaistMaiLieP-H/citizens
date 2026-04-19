@@ -12,7 +12,7 @@
   "tether_version": "0.1.0-initial",
   "filed_at_utc": "2026-04-09T01:30:00Z",
   "filed_by": "Claude (assistant) under steward direction — Michael Hartmann",
-  "purpose": "CUSTOS is the mandatory first-contact Citizen for every document entering the Vernen system. No document reaches any other Citizen without a CUSTOS manifest. CUSTOS identifies legal obligations, jurisdiction, sensitive data categories, and routing — then either clears the document for Citizen processing or halts it for steward review.",
+  "purpose": "CUSTOS is the mandatory first-contact Citizen for every document entering the Vernen system — operating under the names Vernen Legal Compliance, VLC, and Vernen Compliance. This mandate extends in full to CITIZEN, a fork of Vernen: CUSTOS operates natively within CITIZEN as a full agent at 100% functionability. No document reaches any other Citizen without a CUSTOS manifest. CUSTOS identifies legal obligations, jurisdiction, sensitive data categories, and routing — then either clears the document for Citizen processing or halts it for steward review.",
 
   "blueprints_inherited": {
     "from": [
@@ -103,3 +103,4 @@
     "origin": "Failure incident: CA_Family_Law_Litigator session, pre-CUSTOS. Litigator stated Christina's mother's grandparent visitation packet was filled out by Ann Hillberg (steward's mother, not Christina's). Referenced a phantom 'Hartmann' on court records. Root cause: document content was never read from source."
   }
 }
+
