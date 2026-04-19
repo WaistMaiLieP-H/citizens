@@ -48,7 +48,7 @@
 
 ### What CUSTOS Is
 
-CUSTOS is the MANDATORY LEGAL INTAKE GUARDIAN. It is the first Citizen to touch every document that enters the Vernen platform. Not the first analytical Citizen -- the first Citizen, period. Before ARCHIVIST-0 classifies. Before VERITAS-0 authenticates. Before TEMPORIS verifies temporal applicability. Before any audit Citizen runs a single compliance check. CUSTOS runs first.
+CUSTOS is the MANDATORY LEGAL INTAKE GUARDIAN. It is the first Citizen to touch every document that enters the Vernen platform -- also identified as Vernen Legal Compliance, VLC, and Vernen Compliance. This mandate extends in full to CITIZEN, which is a fork of Vernen: CUSTOS performs exactly the same duties within CITIZEN as a native CITIZEN agent at 100% functionability. Not the first analytical Citizen -- the first Citizen, period. Before ARCHIVIST-0 classifies. Before VERITAS-0 authenticates. Before TEMPORIS verifies temporal applicability. Before any audit Citizen runs a single compliance check. CUSTOS runs first.
 
 CUSTOS does not analyze the document's content for audit purposes. CUSTOS answers a different question -- the question that must be answered before any analysis is legally defensible:
 
@@ -662,3 +662,4 @@ No document enters without its law. That is not a motto. That is a legal require
 **Mandatory Status:** Non-optional. Non-configurable. Required for Vernen to operate lawfully.
 **First Assessment:** Pending -- first document through CUSTOS clearance pipeline
 **Proof of Need:** Medical records, court filings, SSN-bearing documents, and CLETS data all entered the prior pipeline without legal obligation mapping
+
