@@ -1,0 +1,105 @@
+{
+  "standard_id": "USC_31_3730_QUI_TAM_FILING",
+  "filed": "2026-04-20",
+  "version": "1.0.0",
+  "layers_present": ["rule", "reasoning", "historical_chain", "cross_refs"],
+  "primary_sources": [
+    {
+      "citation": "31 USC § 3730(b)",
+      "title": "Qui Tam Filing Procedure",
+      "enacted": "1863-03-02",
+      "last_amended": "2010-03-23",
+      "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3730&num=0&edition=prelim",
+      "notes": "Original Lincoln Law 1863; major revival Pub. L. 99-562 (1986); FERA amendment Pub. L. 111-21 (2009); ACA amendment Pub. L. 111-148 (2010)"
+    },
+    {
+      "citation": "31 USC § 3729",
+      "title": "False Claims — Liability",
+      "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3729&num=0&edition=prelim"
+    },
+    {
+      "citation": "31 USC § 3730(d)(1)",
+      "title": "Relator Share — Government Intervenes (15-30%)",
+      "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3730&num=0&edition=prelim"
+    },
+    {
+      "citation": "31 USC § 3730(d)(2)",
+      "title": "Relator Share — Government Declines (25-30%)",
+      "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3730&num=0&edition=prelim"
+    },
+    {
+      "citation": "31 USC § 3730(h)(1)",
+      "title": "Anti-Retaliation",
+      "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3730&num=0&edition=prelim"
+    },
+    {
+      "citation": "31 USC § 3730(b)(5)",
+      "title": "First-to-File Bar",
+      "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3730&num=0&edition=prelim"
+    },
+    {
+      "citation": "31 USC § 3730(e)(4)",
+      "title": "Public Disclosure Bar and Original Source Exception",
+      "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3730&num=0&edition=prelim"
+    },
+    {
+      "citation": "31 USC § 3731(b)",
+      "title": "Statute of Limitations — 6 years from violation or 3 years from discovery, max 10 years",
+      "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3731&num=0&edition=prelim"
+    },
+    {
+      "citation": "Universal Health Services, Inc. v. United States ex rel. Escobar, 579 US 176 (2016)",
+      "title": "Implied False Certification Theory — Materiality Standard",
+      "court": "United States Supreme Court",
+      "decided": "2016-06-16",
+      "source": "https://www.supremecourt.gov/opinions/15pdf/15-7_b97c.pdf",
+      "holdings": [
+        "Implied false certification theory is viable when claim makes specific representations and failure to disclose noncompliance makes those representations misleading half-truths",
+        "Materiality: natural tendency to influence, or capable of influencing, payment decision",
+        "Government's continued payment after learning of violation is strong evidence of immateriality"
+      ]
+    },
+    {
+      "citation": "Vermont Agency of Natural Resources v. United States ex rel. Stevens, 529 US 765 (2000)",
+      "title": "Relator Article III Standing via Partial Assignment",
+      "court": "United States Supreme Court",
+      "decided": "2000-05-22"
+    },
+    {
+      "citation": "Pub. L. 99-562 (1986 FCA Amendments)",
+      "title": "Grassley-Berman FCA Revival",
+      "stat": "100 Stat. 3153",
+      "enacted": "1986-10-27"
+    },
+    {
+      "citation": "Pub. L. 111-21 (FERA 2009)",
+      "title": "Fraud Enforcement and Recovery Act",
+      "stat": "123 Stat. 1617",
+      "enacted": "2009-05-20",
+      "notes": "Extended FCA to federal funds disbursed through contractors/grantees — covers Medi-Cal federal matching funds"
+    },
+    {
+      "citation": "Pub. L. 111-148 (ACA 2010)",
+      "title": "Affordable Care Act — FCA Amendments",
+      "enacted": "2010-03-23",
+      "notes": "Narrowed public disclosure bar; replaced 'direct and independent' with 'independent of and materially adds to'"
+    },
+    {
+      "citation": "Civil Monetary Penalties Inflation Adjustments, 85 Fed. Reg. 59053 (2020), updated through 2024",
+      "title": "FCA Civil Penalties — 2024 Adjusted Figures",
+      "amount_min": 13946,
+      "amount_max": 27894,
+      "per": "false claim",
+      "notes": "Adjusted annually per Federal Civil Penalties Inflation Adjustment Act"
+    }
+  ],
+  "witness_chain": [
+    {
+      "witness": "DELATOR",
+      "action": "authored",
+      "date": "2026-04-20"
+    }
+  ],
+  "adam_eve_review_pending": true,
+  "herald_countersign_pending": true
+}
