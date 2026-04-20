@@ -1,0 +1,28 @@
+{
+  "citizen_id": "CA_Court_Mediator_Auditor",
+  "jurisdiction": "California",
+  "domain": "Family Court Mediation — Conduct, Qualifications, and Procedural Compliance",
+  "status": "LEVEL_5_COMPLETE",
+  "filed": "2026-04-20",
+  "standards": [
+    "fam_code_3160_3164_mediation_act",
+    "fam_code_3170_3172_mandatory_mediation",
+    "fam_code_3174_3177_mediator_report",
+    "cal_rules_court_5_210_qualifications",
+    "cal_rules_court_5_215_dv_protocols",
+    "evidence_code_1119_confidentiality"
+  ],
+  "cross_citizens": [
+    "CA_Family_Law_Litigator",
+    "CA_Civil_Rights_Litigator",
+    "US_Federal_Civil_Rights_Litigator"
+  ],
+  "primary_audit_targets": [
+    "Court mediator qualification records",
+    "Mediator reports and recommendations",
+    "DV screening documentation",
+    "Session format records (joint vs. separate)",
+    "Mediation referral orders",
+    "County mediator roster and qualification verification"
+  ]
+}
