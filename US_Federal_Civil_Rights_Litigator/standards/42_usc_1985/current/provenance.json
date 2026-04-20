@@ -1,0 +1,45 @@
+{
+  "standard_id": "USC_42_1985_CONSPIRACY_CIVIL_RIGHTS",
+  "filed": "2026-04-20",
+  "layer": 3,
+  "primary_sources": [
+    {
+      "citation": "42 U.S.C. § 1985",
+      "description": "Full statutory text — all three subsections",
+      "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1985&num=0&edition=prelim",
+      "source_type": "statute"
+    },
+    {
+      "citation": "Ku Klux Klan Act, Ch. 22, 17 Stat. 13 (April 20, 1871)",
+      "description": "Enacting legislation — 42nd Congress; Section 2 is the origin of § 1985",
+      "url": "https://www.loc.gov/law/help/statutes-at-large/42nd-congress/session-1/c42s1ch22.pdf",
+      "source_type": "statute_of_origin"
+    },
+    {
+      "citation": "Griffin v. Breckenridge, 403 U.S. 88 (1971)",
+      "description": "Foundational Supreme Court case: overruled Collins, established private conspiracy reach and class-based animus requirement",
+      "url": "https://supreme.justia.com/cases/federal/us/403/88/",
+      "source_type": "case"
+    },
+    {
+      "citation": "Collins v. Hardyman, 341 U.S. 651 (1951)",
+      "description": "Superseded narrowing decision requiring state action; overruled by Griffin",
+      "url": "https://supreme.justia.com/cases/federal/us/341/651/",
+      "source_type": "case",
+      "note": "OVERRULED by Griffin v. Breckenridge (1971)"
+    },
+    {
+      "citation": "United Brotherhood of Carpenters v. Scott, 463 U.S. 825 (1983)",
+      "description": "Class-based animus requirement does not reach economic/commercial conspiracies",
+      "url": "https://supreme.justia.com/cases/federal/us/463/825/",
+      "source_type": "case"
+    },
+    {
+      "citation": "Bray v. Alexandria Women's Health Clinic, 506 U.S. 263 (1993)",
+      "description": "Opposition to activity in which a class disproportionately participates is not class-based animus",
+      "url": "https://supreme.justia.com/cases/federal/us/506/263/",
+      "source_type": "case"
+    }
+  ],
+  "open_flags": []
+}

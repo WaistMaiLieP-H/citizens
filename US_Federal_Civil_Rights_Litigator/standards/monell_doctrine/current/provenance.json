@@ -1,0 +1,52 @@
+{
+  "standard_id": "MONELL_MUNICIPAL_LIABILITY",
+  "filed": "2026-04-20",
+  "layer": 3,
+  "note": "Case-law doctrine — no statutory text. Standard is entirely judge-made, grounded in interpretation of 42 U.S.C. § 1983.",
+  "primary_sources": [
+    {
+      "citation": "Monell v. Dept. of Social Services, 436 U.S. 658 (1978)",
+      "description": "Foundational case establishing that municipalities are 'persons' under § 1983 and defining the policy/custom requirement for entity liability",
+      "url": "https://supreme.justia.com/cases/federal/us/436/658/",
+      "source_type": "case"
+    },
+    {
+      "citation": "Monroe v. Pape, 365 U.S. 167 (1961)",
+      "description": "Superseded — held municipalities were not 'persons' under § 1983; overruled by Monell",
+      "url": "https://supreme.justia.com/cases/federal/us/365/167/",
+      "source_type": "case",
+      "note": "OVERRULED by Monell (1978) on the municipal liability holding"
+    },
+    {
+      "citation": "City of Canton v. Harris, 489 U.S. 378 (1989)",
+      "description": "Established failure-to-train as basis for municipal liability when training is so inadequate as to constitute deliberate indifference",
+      "url": "https://supreme.justia.com/cases/federal/us/489/378/",
+      "source_type": "case"
+    },
+    {
+      "citation": "Pembaur v. Cincinnati, 475 U.S. 469 (1986)",
+      "description": "Single decision by final policymaker can constitute official policy sufficient for Monell liability",
+      "url": "https://supreme.justia.com/cases/federal/us/475/469/",
+      "source_type": "case"
+    },
+    {
+      "citation": "Oklahoma City v. Tuttle, 471 U.S. 808 (1985)",
+      "description": "Single incident generally insufficient to prove a custom or policy for Monell purposes",
+      "url": "https://supreme.justia.com/cases/federal/us/471/808/",
+      "source_type": "case"
+    },
+    {
+      "citation": "Jett v. Dallas Independent School District, 491 U.S. 701 (1989)",
+      "description": "Who counts as 'final policymaker' is determined by state law, not federal law",
+      "url": "https://supreme.justia.com/cases/federal/us/491/701/",
+      "source_type": "case"
+    },
+    {
+      "citation": "42 U.S.C. § 1983",
+      "description": "Statutory basis for Monell claims — the doctrine interprets 'person' in § 1983 to include municipalities while limiting the theory of liability",
+      "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1983&num=0&edition=prelim",
+      "source_type": "statute"
+    }
+  ],
+  "open_flags": []
+}
