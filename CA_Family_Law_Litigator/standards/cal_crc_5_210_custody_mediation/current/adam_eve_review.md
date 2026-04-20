@@ -6,7 +6,7 @@
 
 ---
 
-## ADAM Review (Triple Constraint)
+## ADAM Review (7-Level Compliance Stack (Levels 1–5))
 
 **Governing Guidelines:** PASS — Rule 5.210 correctly summarized: (a) purpose tied to Fam. Code § 3161 et seq.; (b) minimum master's/doctoral-or-equivalent qualification; (c) 40-hr initial training floor with specified content components; (d) 16-hr DV initial component within that 40; (e) 8-hr annual CE with 4-hr DV updating; (f) explicit § 1815/§ 1816 statutory cross-reference. § 1815 conformity is the legally actionable hook.
 

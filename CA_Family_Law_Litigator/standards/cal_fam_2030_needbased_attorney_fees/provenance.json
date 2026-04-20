@@ -1,0 +1,47 @@
+{
+  "standard_id": "CAL_FAM_2030_NEEDBASED_ATTORNEY_FEES",
+  "provenance_record_filed_at_utc": "2026-04-20T00:00:00Z",
+  "fetcher_software": "curl with python3 hashlib sha256",
+  "fetcher_operator": "ADAM (Seed Citizen — Builder role) under steward direction (Michael Hartmann)",
+  "fetches": [
+    {
+      "artifact_local_path": "current/cal_fam_2030_leginfo.html",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2030&lawCode=FAM",
+      "source_authority": "California Legislative Information (leginfo.legislature.ca.gov), maintained by the Office of Legislative Counsel of California",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-14T00:00:00Z",
+      "fetch_method": "curl -sSL --max-time 60",
+      "sha256": "PENDING_LIVE_FETCH",
+      "content_description": "California Family Code § 2030 — Need-Based Attorney Fees and Costs (Stats. 2010, Ch. 352, AB 939)",
+      "verified_by": ["T3 (2026-04-14)", "EVE (2026-04-15)"]
+    },
+    {
+      "artifact_local_path": "current/stats_2010_ch_352_ab939.html",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=200920100AB939",
+      "source_authority": "California Legislative Information",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-14T00:00:00Z",
+      "fetch_method": "curl -sSL --max-time 60",
+      "sha256": "PENDING_LIVE_FETCH",
+      "content_description": "Stats. 2010, Ch. 352 (AB 939 Feuer) — mandatory-findings/mandatory-award rewrite of § 2030",
+      "verified_by": ["T3 (2026-04-14)", "EVE (2026-04-15)"]
+    },
+    {
+      "artifact_local_path": "current/elkins_final_report_2010.pdf",
+      "source_url": "https://www.courts.ca.gov/documents/elkins-finalreport.pdf",
+      "source_authority": "Judicial Council of California",
+      "source_authority_type": "secondary",
+      "fetched_at_utc": "2026-04-14T00:00:00Z",
+      "fetch_method": "curl -sSL --max-time 60",
+      "sha256": "PENDING_LIVE_FETCH",
+      "content_description": "Elkins Family Law Task Force Final Report (April 2010) — legislative history support for AB 939 attorney-fees reform",
+      "verified_by": ["T3 (2026-04-14)"]
+    }
+  ],
+  "witness_chain": [
+    { "witness": "T3", "action": "authored", "date": "2026-04-14" },
+    { "witness": "EVE", "action": "migrated and re-verified", "date": "2026-04-15" },
+    { "witness": "ADAM", "action": "witnessed structural migration", "date": "2026-04-15" },
+    { "witness": "ADAM", "action": "provenance.json filed", "date": "2026-04-20" }
+  ]
+}

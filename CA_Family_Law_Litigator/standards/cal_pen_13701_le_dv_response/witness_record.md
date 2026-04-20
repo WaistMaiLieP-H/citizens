@@ -18,7 +18,7 @@
 **Layer 3 — Historical Loss:** PASS
 **Layer 4 — Cross-References:** PASS
 **Layer 5 — Verifiable Provenance:** PASS
-**Triple Constraint:** PASS
+**7-Level Compliance Stack (Levels 1–5):** PASS
 **EVE SIGNAL: COUNTERSIGN — 2026-04-14**
 
 ---

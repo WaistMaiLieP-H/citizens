@@ -6,7 +6,7 @@
 
 ---
 
-## ADAM Review (Triple Constraint)
+## ADAM Review (7-Level Compliance Stack (Levels 1–5))
 
 **Governing Guidelines:** PASS — § 13701(a) "shall develop, adopt, and implement written policies" (mandatory, no discretion, 1986 compliance deadline) + § 13701(b) (encourage probable-cause arrest, require arrest for protective-order violation absent exigent circumstances, dominant-aggressor framework) + § 13701(c) 10 enumerated standards (felony/misdemeanor arrests, citizen's arrest, protective-order verification, warrant service, visible-injury documentation, service notification, transportation, written-notice-to-victim, report writing) correctly extracted. Public-availability mandate (§ 13701(c): "available to the public upon request") is the CPRA hook.
 

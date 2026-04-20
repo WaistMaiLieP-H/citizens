@@ -1,0 +1,53 @@
+{
+  "standard_id": "CAL_FAM_3027_FALSE_CHILD_ABUSE_SANCTIONS",
+  "provenance_record_filed_at_utc": "2026-04-20T00:00:00Z",
+  "fetcher_software": "curl with python3 hashlib sha256",
+  "fetcher_operator": "ADAM (Seed Citizen — Builder role) under steward direction (Michael Hartmann)",
+  "flags": ["EARLY-HISTORY-PENDING", "ENROLLED-TEXT-PENDING", "ANALYSIS-FETCH-PENDING"],
+  "fetches": [
+    {
+      "artifact_local_path": "current/cal_fam_3027_leginfo.html",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3027&lawCode=FAM",
+      "source_authority": "California Legislative Information (leginfo.legislature.ca.gov), maintained by the Office of Legislative Counsel of California",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-14T00:00:00Z",
+      "fetch_method": "curl -sSL --max-time 60",
+      "sha256": "PENDING_LIVE_FETCH",
+      "content_description": "California Family Code § 3027 — False Child Abuse Allegations in Custody Proceedings",
+      "verified_by": ["T3 (2026-04-14)", "EVE (2026-04-15)"]
+    },
+    {
+      "artifact_local_path": "current/cal_fam_3027_1_leginfo.html",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3027.1&lawCode=FAM",
+      "source_authority": "California Legislative Information",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-14T00:00:00Z",
+      "fetch_method": "curl -sSL --max-time 60",
+      "sha256": "PENDING_LIVE_FETCH",
+      "content_description": "California Family Code § 3027.1 — Sanctions for Knowingly False Child Abuse Report (Stats. 2000, Ch. 926, Sec. 2, operative Jan. 1, 2001)",
+      "verified_by": ["T3 (2026-04-14)", "EVE (2026-04-15)"]
+    },
+    {
+      "artifact_local_path": "current/cal_fam_3027_5_leginfo.html",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3027.5&lawCode=FAM",
+      "source_authority": "California Legislative Information",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-14T00:00:00Z",
+      "fetch_method": "curl -sSL --max-time 60",
+      "sha256": "PENDING_LIVE_FETCH",
+      "content_description": "California Family Code § 3027.5 — Prohibition Against Restricting Child Abuse Reporting",
+      "verified_by": ["T3 (2026-04-14)"]
+    }
+  ],
+  "open_flags": {
+    "EARLY-HISTORY-PENDING": "Pre-2001 lineage requires State Archives pull of Stats. 2000 Ch. 926 enrolled text and predecessor history. Prior draft citation to Stats. 1990 ch. 1363 was superseded — AB 2700 is chaptered as Ch. 610, not 1363.",
+    "ENROLLED-TEXT-PENDING": "Stats. 2000, Ch. 926 enrolled-text PDF to be lodged from California Assembly Chief Clerk archive.",
+    "ANALYSIS-FETCH-PENDING": "Assembly Committee on Judiciary analysis of AB 2700 (1989–1990 Reg. Sess.) PDF to be lodged from Legislative Counsel archive."
+  },
+  "witness_chain": [
+    { "witness": "T3", "action": "authored", "date": "2026-04-14" },
+    { "witness": "EVE", "action": "migrated and re-verified; preserved all flags", "date": "2026-04-15" },
+    { "witness": "ADAM", "action": "witnessed structural migration", "date": "2026-04-15" },
+    { "witness": "ADAM", "action": "provenance.json filed", "date": "2026-04-20" }
+  ]
+}

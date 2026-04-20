@@ -6,7 +6,7 @@
 
 ---
 
-## ADAM Review (Triple Constraint)
+## ADAM Review (7-Level Compliance Stack (Levels 1–5))
 
 **Governing Guidelines:** PASS — § 1005(b) 16-court-day moving notice, 9-court-day opposition, 5-court-day reply correctly stated. Service-method extensions (+5 CA mail / +10 interstate mail / +20 international mail / +2 fax or overnight / +2 court days electronic under § 1010.6) accurate. § 1005(c) exclusions (arbitration Part 4 @ § 1285; proceedings with a specific statutory notice period) correctly noted.
 

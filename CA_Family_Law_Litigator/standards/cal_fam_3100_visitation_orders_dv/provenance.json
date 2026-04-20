@@ -1,0 +1,62 @@
+{
+  "standard_id": "CAL_FAM_3100_VISITATION_ORDERS_DV",
+  "provenance_record_filed_at_utc": "2026-04-20T00:00:00Z",
+  "fetcher_software": "curl with python3 hashlib sha256",
+  "fetcher_operator": "ADAM (Seed Citizen — Builder role) under steward direction (Michael Hartmann)",
+  "flags": ["INTERMEDIATE-CHAIN-PENDING"],
+  "fetches": [
+    {
+      "artifact_local_path": "current/cal_fam_3100_leginfo.html",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3100&lawCode=FAM",
+      "source_authority": "California Legislative Information (leginfo.legislature.ca.gov), maintained by the Office of Legislative Counsel of California",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-14T00:00:00Z",
+      "fetch_method": "curl -sSL --max-time 60",
+      "sha256": "PENDING_LIVE_FETCH",
+      "content_description": "California Family Code § 3100 — Visitation Rights, Protective Order Conditions (most recent amendment Stats. 2024, Ch. 317, AB 3072, effective January 1, 2025)",
+      "verified_by": ["T3 (2026-04-14)", "EVE (2026-04-15)"]
+    },
+    {
+      "artifact_local_path": "current/stats_2024_ch_317_ab3072.html",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240AB3072",
+      "source_authority": "California Legislative Information",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-14T00:00:00Z",
+      "fetch_method": "curl -sSL --max-time 60",
+      "sha256": "PENDING_LIVE_FETCH",
+      "content_description": "Stats. 2024, Ch. 317 (AB 3072) — most recent amendment to § 3100, effective January 1, 2025",
+      "verified_by": ["T3 (2026-04-14)"]
+    },
+    {
+      "artifact_local_path": "current/cal_fam_3200_5_leginfo.html",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3200.5&lawCode=FAM",
+      "source_authority": "California Legislative Information",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-14T00:00:00Z",
+      "fetch_method": "curl -sSL --max-time 60",
+      "sha256": "PENDING_LIVE_FETCH",
+      "content_description": "California Family Code § 3200.5 — Supervised Visitation Provider Qualifications (Stats. 2019, Ch. 823, AB 1165)",
+      "verified_by": ["T3 (2026-04-14)"]
+    },
+    {
+      "artifact_local_path": "current/vawa_18_usc_2265.html",
+      "source_url": "https://www.govinfo.gov/app/details/USCODE-2022-title18/USCODE-2022-title18-partI-chap110A-sec2265",
+      "source_authority": "GovInfo (govinfo.gov), U.S. Government Publishing Office",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-14T00:00:00Z",
+      "fetch_method": "curl -sSL --max-time 60",
+      "sha256": "PENDING_LIVE_FETCH",
+      "content_description": "VAWA Full Faith and Credit, 18 U.S.C. § 2265 — mandatory interstate enforcement of protective orders",
+      "verified_by": ["T3 (2026-04-14)"]
+    }
+  ],
+  "open_flags": {
+    "INTERMEDIATE-CHAIN-PENDING": "2003–2004 amendments adding subsections (d) and (e) — specific chapter numbers not confirmable from leginfo current display (shows only most recent amending act). Full amendment chain requires California Legislative Counsel amendment-history pull."
+  },
+  "witness_chain": [
+    { "witness": "T3", "action": "authored", "date": "2026-04-14" },
+    { "witness": "EVE", "action": "migrated and re-verified; preserved flag", "date": "2026-04-15" },
+    { "witness": "ADAM", "action": "witnessed structural migration", "date": "2026-04-15" },
+    { "witness": "ADAM", "action": "provenance.json filed", "date": "2026-04-20" }
+  ]
+}

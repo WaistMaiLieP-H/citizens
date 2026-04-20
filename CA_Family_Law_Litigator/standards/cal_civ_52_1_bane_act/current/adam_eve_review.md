@@ -6,7 +6,7 @@
 
 ---
 
-## ADAM Review (Triple Constraint)
+## ADAM Review (7-Level Compliance Stack (Levels 1–5))
 
 **Governing Guidelines:** PASS — § 52.1(b) (AG/DA/city attorney parens patriae action) + § 52.1(c) (individual civil action) + § 52.1(i) (attorney's fees) + § 52.1(k) (speech-alone limitation with the true-threat exception) + § 52.1(n) (enumerated CA constitutional rights including privacy, due process, equal protection) accurately extracted. Damages reference via § 52(b) (actual + up to 3× + $25,000 civil penalty + fees + injunctive relief) correctly stated.
 
