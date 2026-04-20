@@ -6,7 +6,7 @@
 
 ---
 
-## ADAM Review (Triple Constraint)
+## ADAM Review (7-Level Compliance Stack (Levels 1–5))
 
 **Governing Guidelines:** PASS — § 836(b) (mandatory citizen's-arrest advisement unless officer arrests under § 243(e)(1) or § 273.5), § 836(c)(1) (legislative intent: probable-cause arrest), § 836(c)(2) (mandatory arrest for protective-order violation with notice under Fam. § 6291), § 836(c)(3) (dominant-aggressor four-factor analysis), and § 836(d) (warrantless felony + § 243(e)(1)/§ 273.5 authority) all accurately quoted. Dominant-aggressor framework ("most significant, rather than the first, aggressor") correctly extracted — directly relevant to OPD's 2009-06-11 mutual-aggressor treatment.
 

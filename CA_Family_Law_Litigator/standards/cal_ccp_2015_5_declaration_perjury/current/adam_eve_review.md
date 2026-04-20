@@ -6,7 +6,7 @@
 
 ---
 
-## ADAM Review (Triple Constraint)
+## ADAM Review (7-Level Compliance Stack (Levels 1–5))
 
 **Governing Guidelines:** PASS — § 2015.5 verbatim correctly extracted. Two statutory forms ((a) executed-within-California: "under penalty of perjury that the foregoing is true and correct" + date + place; (b) executed-anywhere: adds "under the laws of the State of California" + date only) accurately preserved. 1991 amendment (Stats. 1991, Ch. 900, § 1) noted.
 

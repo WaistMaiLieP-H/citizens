@@ -6,7 +6,7 @@
 
 ---
 
-## ADAM Review (Triple Constraint)
+## ADAM Review (7-Level Compliance Stack (Levels 1–5))
 
 **Governing Guidelines:** PASS — Rule 5.215 correctly extracted: (a) purpose tied to Fam. Code §§ 3160–3186; (b) application to all FCS staff; (c) DV definition via Fam. Code § 6211; (d) six mandatory protocols (DV-case coding, victim safety, DV-service referral, prohibition on negotiating the violence or protective orders, § 3183(c) TRO recommendation, *proactive* separate-session offer upon identification); (e) five prohibited staff actions; (f) 16-hr advanced DV training within first 12 months of assignment.
 

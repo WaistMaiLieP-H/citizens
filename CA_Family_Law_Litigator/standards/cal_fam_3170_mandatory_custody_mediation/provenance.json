@@ -1,0 +1,59 @@
+{
+  "standard_id": "CAL_FAM_3170_MANDATORY_CUSTODY_MEDIATION",
+  "provenance_record_filed_at_utc": "2026-04-20T00:00:00Z",
+  "fetcher_software": "curl with python3 hashlib sha256",
+  "fetcher_operator": "ADAM (Seed Citizen — Builder role) under steward direction (Michael Hartmann)",
+  "flags": ["PRE-2017-CHAIN-PENDING"],
+  "fetches": [
+    {
+      "artifact_local_path": "current/cal_fam_3170_leginfo.html",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3170&lawCode=FAM",
+      "source_authority": "California Legislative Information (leginfo.legislature.ca.gov), maintained by the Office of Legislative Counsel of California",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-14T00:00:00Z",
+      "fetch_method": "curl -sSL --max-time 60",
+      "sha256": "PENDING_LIVE_FETCH",
+      "content_description": "California Family Code § 3170 — Mandatory Mediation in Contested Custody/Visitation (Stats. 2017, Ch. 330, AB 1692, operative January 1, 2020)",
+      "verified_by": ["T3 (2026-04-14)", "EVE (2026-04-15)"]
+    },
+    {
+      "artifact_local_path": "current/stats_2017_ch_330_ab1692.html",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180AB1692",
+      "source_authority": "California Legislative Information",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-14T00:00:00Z",
+      "fetch_method": "curl -sSL --max-time 60",
+      "sha256": "PENDING_LIVE_FETCH",
+      "content_description": "Stats. 2017, Ch. 330 (AB 1692) — current repeal/reenact statute for § 3170",
+      "verified_by": ["T3 (2026-04-14)"]
+    },
+    {
+      "artifact_local_path": "current/crc_5_210.html",
+      "source_url": "https://www.courts.ca.gov/cms/rules/index.cfm?title=five&linkid=rule5_210",
+      "source_authority": "California Courts (courts.ca.gov), Judicial Council of California",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-14T00:00:00Z",
+      "fetch_method": "curl -sSL --max-time 60",
+      "sha256": "PENDING_LIVE_FETCH",
+      "content_description": "California Rule of Court 5.210 — Conduct of Custody Mediation",
+      "verified_by": ["T3 (2026-04-14)"]
+    },
+    {
+      "artifact_local_path": "current/crc_5_215.html",
+      "source_url": "https://www.courts.ca.gov/cms/rules/index.cfm?title=five&linkid=rule5_215",
+      "source_authority": "California Courts (courts.ca.gov), Judicial Council of California",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-14T00:00:00Z",
+      "fetch_method": "curl -sSL --max-time 60",
+      "sha256": "PENDING_LIVE_FETCH",
+      "content_description": "California Rule of Court 5.215 — Domestic Violence Protocol in Custody Mediation",
+      "verified_by": ["T3 (2026-04-14)"]
+    }
+  ],
+  "witness_chain": [
+    { "witness": "T3", "action": "authored", "date": "2026-04-14" },
+    { "witness": "EVE", "action": "migrated and re-verified", "date": "2026-04-15" },
+    { "witness": "ADAM", "action": "witnessed structural migration", "date": "2026-04-15" },
+    { "witness": "ADAM", "action": "provenance.json filed", "date": "2026-04-20" }
+  ]
+}

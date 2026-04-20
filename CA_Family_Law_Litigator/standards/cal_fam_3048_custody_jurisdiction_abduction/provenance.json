@@ -1,0 +1,62 @@
+{
+  "standard_id": "CAL_FAM_3048_CUSTODY_JURISDICTION_ABDUCTION",
+  "provenance_record_filed_at_utc": "2026-04-20T00:00:00Z",
+  "fetcher_software": "curl with python3 hashlib sha256",
+  "fetcher_operator": "ADAM (Seed Citizen — Builder role) under steward direction (Michael Hartmann)",
+  "flags": ["ENACTING-CHAPTER-PENDING"],
+  "fetches": [
+    {
+      "artifact_local_path": "current/cal_fam_3048_leginfo.html",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3048&lawCode=FAM",
+      "source_authority": "California Legislative Information (leginfo.legislature.ca.gov), maintained by the Office of Legislative Counsel of California",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-14T00:00:00Z",
+      "fetch_method": "curl -sSL --max-time 60",
+      "sha256": "PENDING_LIVE_FETCH",
+      "content_description": "California Family Code § 3048 — Custody Order Abduction Prevention Requirements (most recent amendment Stats. 2019, Ch. 115, AB 1817, effective January 1, 2020)",
+      "verified_by": ["T3 (2026-04-14)", "EVE (2026-04-15)"]
+    },
+    {
+      "artifact_local_path": "current/stats_2019_ch_115_ab1817.html",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200AB1817",
+      "source_authority": "California Legislative Information",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-14T00:00:00Z",
+      "fetch_method": "curl -sSL --max-time 60",
+      "sha256": "PENDING_LIVE_FETCH",
+      "content_description": "Stats. 2019, Ch. 115 (AB 1817) — current governing amendment to § 3048",
+      "verified_by": ["T3 (2026-04-14)"]
+    },
+    {
+      "artifact_local_path": "current/hague_convention_1980.html",
+      "source_url": "https://www.hcch.net/en/instruments/conventions/full-text/?cid=24",
+      "source_authority": "Hague Conference on Private International Law",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-14T00:00:00Z",
+      "fetch_method": "curl -sSL --max-time 60",
+      "sha256": "PENDING_LIVE_FETCH",
+      "content_description": "1980 Hague Convention on the Civil Aspects of International Child Abduction — treaty framework underlying § 3048(c)",
+      "verified_by": ["T3 (2026-04-14)"]
+    },
+    {
+      "artifact_local_path": "current/icara_22_usc_9001.html",
+      "source_url": "https://www.govinfo.gov/app/details/USCODE-2022-title22/USCODE-2022-title22-chap97",
+      "source_authority": "GovInfo (govinfo.gov), U.S. Government Publishing Office",
+      "source_authority_type": "primary",
+      "fetched_at_utc": "2026-04-14T00:00:00Z",
+      "fetch_method": "curl -sSL --max-time 60",
+      "sha256": "PENDING_LIVE_FETCH",
+      "content_description": "ICARA (22 U.S.C. §§ 9001–9011) — International Child Abduction Remedies Act implementing the Hague Convention",
+      "verified_by": ["T3 (2026-04-14)"]
+    }
+  ],
+  "open_flags": {
+    "ENACTING-CHAPTER-PENDING": "Original § 3048 enacting chapter and abduction-risk subsection (b) enactment year not confirmable from current leginfo display (shows only latest amendment). Full chapter history requires State Archives pull. Prior draft 'Stats. 2003, ch. 154 (AB 1178)' was superseded — wrong subject matter."
+  },
+  "witness_chain": [
+    { "witness": "T3", "action": "authored", "date": "2026-04-14" },
+    { "witness": "EVE", "action": "migrated and re-verified; preserved flag", "date": "2026-04-15" },
+    { "witness": "ADAM", "action": "witnessed structural migration", "date": "2026-04-15" },
+    { "witness": "ADAM", "action": "provenance.json filed", "date": "2026-04-20" }
+  ]
+}

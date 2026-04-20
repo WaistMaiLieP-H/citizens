@@ -6,7 +6,7 @@
 
 ---
 
-## ADAM Review (Triple Constraint)
+## ADAM Review (7-Level Compliance Stack (Levels 1–5))
 
 **Governing Guidelines:** PASS — § 11165.6 correctly cited; verbatim text in current/cal_pen_11165_6_leginfo.txt matches leginfo; component definitions (§§ 11165.1 sexual abuse, 11165.2 neglect, 11165.3 willful harming, 11165.4 unlawful corporal punishment) correctly enumerated. Exclusions (mutual affray between minors; reasonable-and-necessary force by peace officer in scope of employment) accurately stated. "Mutual combat" vs "mutual affray" discrepancy between rule.md narrative and leginfo verbatim noted — verbatim controls.
 
