@@ -1,0 +1,30 @@
+{
+  "standard_id": "PEN_CODE_835A_USE_OF_FORCE",
+  "standard_type": "statutory",
+  "primary_sources": [
+    {
+      "citation": "Cal. Pen. Code § 835a",
+      "description": "Use of force — necessity standard",
+      "enacted": "1872 (original); rewritten 2019 by AB 392"
+    },
+    {
+      "citation": "Stats. 2019, Ch. 170 (AB 392)",
+      "description": "Assembly Bill 392 — rewrote § 835a replacing 'reasonable' with 'necessary' standard; effective January 1, 2020"
+    },
+    {
+      "citation": "Stats. 2019, Ch. 285 (SB 230)",
+      "description": "Required all agencies to adopt AB 392-compliant use-of-force policies by January 1, 2021"
+    },
+    {
+      "citation": "Graham v. Connor, 490 U.S. 386 (1989)",
+      "description": "Prior federal 'reasonable officer' standard — superseded by AB 392 for California law enforcement"
+    },
+    {
+      "citation": "Cal. Pen. Code § 832.18",
+      "description": "Body-worn camera standards — cross-reference for footage preservation obligations"
+    }
+  ],
+  "legislative_history_note": "AB 392 was enacted following the March 2018 shooting of Stephon Clark by Sacramento Police. The Legislature found the prior reasonable-force standard insufficient to prevent unnecessary deaths.",
+  "verification_status": "PRIMARY_SOURCE_VERIFIED",
+  "filed": "2026-04-20"
+}

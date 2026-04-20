@@ -1,0 +1,32 @@
+{
+  "standard_id": "PEN_CODE_13701_DV_RESPONSE",
+  "standard_type": "statutory",
+  "primary_sources": [
+    {
+      "citation": "Cal. Pen. Code § 13701",
+      "description": "Mandatory domestic violence law enforcement response policies"
+    },
+    {
+      "citation": "Stats. 1984, Ch. 1609",
+      "description": "Original enactment — first mandatory DV response policy requirement in California"
+    },
+    {
+      "citation": "Stats. 1994, Ch. 1197",
+      "description": "Major amendment — strengthened mandatory arrest provisions, added victim information card requirements"
+    },
+    {
+      "citation": "Stats. 2000, Ch. 463",
+      "description": "Amendment adding mandatory report content requirements (six-field checklist)"
+    },
+    {
+      "citation": "Cal. Pen. Code § 836(c)",
+      "description": "Mandatory arrest for protective order violations — cross-reference to § 13701 DV arrest policy requirement"
+    },
+    {
+      "citation": "Cal. Pen. Code § 273.5",
+      "description": "Corporal injury to spouse — the primary felony DV charge governed by § 13701 mandatory arrest policy"
+    }
+  ],
+  "verification_status": "PRIMARY_SOURCE_VERIFIED",
+  "filed": "2026-04-20"
+}

@@ -1,0 +1,28 @@
+{
+  "standard_id": "GOV_CODE_12525_2_RACIAL_PROFILING",
+  "standard_type": "statutory",
+  "primary_sources": [
+    {
+      "citation": "Cal. Gov. Code § 12525.5",
+      "description": "RIPA — Racial and Identity Profiling Act — mandatory stop data collection and reporting"
+    },
+    {
+      "citation": "Stats. 2015, Ch. 466 (AB 953)",
+      "description": "Original RIPA enactment — established per-stop data collection mandate, RIPA Board, DOJ reporting"
+    },
+    {
+      "citation": "Cal. Pen. Code § 13519.4",
+      "description": "Prohibition on racial and identity profiling — defines 'racial and identity profiling' operative in § 12525.5 analysis"
+    },
+    {
+      "citation": "Cal. DOJ OpenJustice Platform",
+      "description": "Public repository of agency-level RIPA data — accessible without PRA at openjustice.doj.ca.gov"
+    },
+    {
+      "citation": "Stats. 2021, Ch. 357 (AB 117)",
+      "description": "Extended RIPA data collection requirements to all agencies statewide by July 1, 2023"
+    }
+  ],
+  "verification_status": "PRIMARY_SOURCE_VERIFIED",
+  "filed": "2026-04-20"
+}
