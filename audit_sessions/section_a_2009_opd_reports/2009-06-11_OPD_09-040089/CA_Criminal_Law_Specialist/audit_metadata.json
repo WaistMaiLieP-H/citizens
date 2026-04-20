@@ -1,0 +1,21 @@
+{
+  "citizen": "CA_Criminal_Law_Specialist",
+  "document_meta": {
+    "filename": "2009-06-11_OPD_09-040089",
+    "document_type": "Police Incident Report",
+    "agency": "Oakland Police Department",
+    "incident_number": "09-040089",
+    "incident_date": "2009-06-11",
+    "charge": "PC 273.5(A) \u2014 Corporal Injury on Spouse/Cohabitant",
+    "classification": "Domestic Violence \u2014 Felony",
+    "case_status": "Cleared",
+    "reporting_officer": "MITCHELL, STEPHEN",
+    "section": "Section A \u2014 2009 Foundation"
+  },
+  "model": "claude-sonnet-4-6",
+  "tokens": {
+    "input": 41844,
+    "output": 4096
+  },
+  "timestamp": "2026-04-20T15:20:19.192239"
+}

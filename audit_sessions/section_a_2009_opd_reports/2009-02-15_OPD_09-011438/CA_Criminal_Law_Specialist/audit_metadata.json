@@ -1,0 +1,21 @@
+{
+  "citizen": "CA_Criminal_Law_Specialist",
+  "document_meta": {
+    "filename": "2009-02-15_OPD_09-011438",
+    "document_type": "Police Incident Report",
+    "agency": "Oakland Police Department",
+    "incident_number": "09-011438",
+    "incident_date": "2009-02-15",
+    "charge": "PC 243(e)(1) \u2014 Battery: Spouse/Ex-Spouse",
+    "classification": "Domestic Violence",
+    "case_status": "Complainant Refused / Cleared",
+    "reporting_officer": "RUSSELL, DEREK",
+    "section": "Section A \u2014 2009 Foundation"
+  },
+  "model": "claude-sonnet-4-6",
+  "tokens": {
+    "input": 40557,
+    "output": 4096
+  },
+  "timestamp": "2026-04-20T15:17:12.860390"
+}
